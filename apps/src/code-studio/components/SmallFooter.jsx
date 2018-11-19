@@ -206,8 +206,8 @@ export default class SmallFooter extends React.Component {
       }
     };
 
-    const caretIcon = this.state.menuState === MenuState.EXPANDED ?
-      'fa fa-caret-down' : 'fa fa-caret-up';
+    // const caretIcon = this.state.menuState === MenuState.EXPANDED ?
+    //   'fa fa-caret-down' : 'fa fa-caret-up';
 
     const combinedBaseStyle = {
       ...styles.base,
@@ -223,7 +223,7 @@ export default class SmallFooter extends React.Component {
               __html: decodeURIComponent(this.props.i18nDropdown)
             }}
           />
-          <small>
+          {/* <small>
             {this.renderPrivacy(styles)}
             {this.renderCopyright()}
             <a
@@ -234,7 +234,7 @@ export default class SmallFooter extends React.Component {
               {this.props.baseMoreMenuString + ' '}
               <i className={caretIcon}/>
             </a>
-          </small>
+          </small> */}
         </div>
         <div id="copyright-flyout" style={styles.copyright}>
           <div id="copyright-scroll-area" style={styles.copyrightScrollArea}>
