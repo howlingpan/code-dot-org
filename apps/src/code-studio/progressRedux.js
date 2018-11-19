@@ -522,9 +522,9 @@ export const categorizedLessons = state => {
     const lesson = lessonFromStageAtIndex(state, index);
     const stageLevels = allLevels[index];
     stageLevels.forEach((level) => {
-      level.url = level.url.replace('localhost-studio.code.org', '120.79.55.225')
-      console.log(level.url)
-    })
+      level.url = level.url.replace('localhost-studio.code.org', '120.79.55.225');
+      console.log(level.url);
+    });
     byCategory[category] = byCategory[category] || {
       category,
       lessons: [],
