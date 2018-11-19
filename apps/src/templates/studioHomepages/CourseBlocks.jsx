@@ -99,11 +99,11 @@ class CourseBlocksCsfModern extends Component {
 class CourseBlocksCsfLegacy extends Component {
   componentDidMount() {
     $('#course1').appendTo(ReactDOM.findDOMNode(this.refs.course1)).show();
-    $('#course2').appendTo(ReactDOM.findDOMNode(this.refs.course2)).show();
-    $('#course3').appendTo(ReactDOM.findDOMNode(this.refs.course3)).show();
-    $('#course4').appendTo(ReactDOM.findDOMNode(this.refs.course4)).show();
-    $('#twenty_hour').appendTo(ReactDOM.findDOMNode(this.refs.twenty_hour)).show();
-    $('#unplugged').appendTo(ReactDOM.findDOMNode(this.refs.unplugged)).show();
+    // $('#course2').appendTo(ReactDOM.findDOMNode(this.refs.course2)).show();
+    // $('#course3').appendTo(ReactDOM.findDOMNode(this.refs.course3)).show();
+    // $('#course4').appendTo(ReactDOM.findDOMNode(this.refs.course4)).show();
+    // $('#twenty_hour').appendTo(ReactDOM.findDOMNode(this.refs.twenty_hour)).show();
+    // $('#unplugged').appendTo(ReactDOM.findDOMNode(this.refs.unplugged)).show();
   }
 
   render() {
@@ -116,16 +116,16 @@ class CourseBlocksCsfLegacy extends Component {
       >
         <div className="row">
           <ProtectedStatefulDiv ref="course1"/>
-          <ProtectedStatefulDiv ref="course2"/>
+          {/* <ProtectedStatefulDiv ref="course2"/>
           <ProtectedStatefulDiv ref="course3"/>
-          <ProtectedStatefulDiv ref="course4"/>
+          <ProtectedStatefulDiv ref="course4"/> */}
         </div>
-        <br/>
+        {/* <br/>
         <br/>
         <div className="row">
           <ProtectedStatefulDiv ref="twenty_hour"/>
           <ProtectedStatefulDiv ref="unplugged"/>
-        </div>
+        </div> */}
       </ContentContainer>
     );
   }
@@ -212,7 +212,7 @@ export class CourseBlocksAll extends Component {
       <div>
         <CourseBlocksCsf showModern={this.props.showModernElementaryCourses}/>
 
-        <ContentContainer
+        {/* <ContentContainer
           heading={i18n.teacherCourseHoc()}
           description={i18n.teacherCourseHocDescription()}
           linkText={i18n.teacherCourseHocLinkText()}
@@ -231,7 +231,7 @@ export class CourseBlocksAll extends Component {
 
         <CourseBlocksTools
           isEnglish={this.props.isEnglish}
-        />
+        /> */}
       </div>
     );
   }
