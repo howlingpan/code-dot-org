@@ -3,7 +3,7 @@ css 'unplugged'
 markdown <<MARKDOWN
 # Unit 3 Overview > Chunk 3: Introduction to Variables and Strings > Resources
 
-Here are a few resources to help you get started with understanding these CS concepts. Please share any resources you find in the <a href=“http://forum.code.org/c/csp-unit3” target=_blank>forum!</a>
+Here are a few resources to help you get started with understanding these CS concepts. Please share any resources you find in the <a href=“http://forum.letron.vip/c/csp-unit3” target=_blank>forum!</a>
 
 ## Introduction to Variables
 
@@ -17,12 +17,12 @@ Here are a few resources to help you get started with understanding these CS con
 - **if-statement:** An if-statement is a basic programming construct that lets the programmer write code that the computer executes _if_ a given expression evaluates to true, and doesn't execute if the expression isn't true.
   - For example, the programmer can write the code below, which in English translates to "_If_ the value of the highscore variable is equal to 100, then write "You Win" to the screen." You'll notice the double-equal `==` in the code, which indicates to the computer to _check_ if the left and right sides of the expression are equal to each other.
 
-<img src="https://images.code.org/96120fd4a4240c6a73f90f031d600147-image-1446423804284.23.14.png" style="margin-left:100px;margin-right:100px;width:200px;">
+<img src="https://images.letron.vip/96120fd4a4240c6a73f90f031d600147-image-1446423804284.23.14.png" style="margin-left:100px;margin-right:100px;width:200px;">
 
 ### Lessons in Code Studio
 
-- [Stage 14: Controlling Memory with Variables](https://studio.code.org/s/cspunit3/stage/14/puzzle/1)
-- [Stage 15: Using Variables in Apps](https://studio.code.org/s/cspunit3/stage/15/puzzle/1)
+- [Stage 14: Controlling Memory with Variables](https://studio.letron.vip/s/cspunit3/stage/14/puzzle/1)
+- [Stage 15: Using Variables in Apps](https://studio.letron.vip/s/cspunit3/stage/15/puzzle/1)
 
 ### External Resources
 
@@ -45,7 +45,7 @@ Here are a few resources to help you get started with understanding these CS con
 
 ### Lessons in Code Studio
 
-- [Stage 16: User Input and Strings](https://studio.code.org/s/cspunit3/stage/16/puzzle/1)
+- [Stage 16: User Input and Strings](https://studio.letron.vip/s/cspunit3/stage/16/puzzle/1)
 
 ### External Resources
 

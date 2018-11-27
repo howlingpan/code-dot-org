@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'Appendix', :disclaimer=>'Code.org K-5 Computer Science') %>
+<%= partial('doc_header', :title => 'Appendix', :disclaimer=>'Letron K-5 Computer Science') %>
 
 [content]
 

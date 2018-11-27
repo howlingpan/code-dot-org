@@ -28,7 +28,7 @@
     "maze": "[[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[16,0,0,0,0,0,16,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0]]",
     "embed": "false",
     "markdown_instructions": "Everyone needs to move faster because an ice storm is coming! \r\nChange the scene to an icy background and set Sid’s (actor 1) speed to fast.\r\nPress \"Run\" and move Sid to Diego to warn him.",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"You should only have to add two blocks to get this puzzle where it needs to be. \",\"hint_id\":\"iceage_warn_ice_age_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/3666a99522b62f226dd2c11c682443ac/iceage_warn_ice_age.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"Add both new blocks beneath the `when run` event to have them happen immediately after the program starts.\",\"hint_id\":\"iceage_warn_ice_age_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/7aa85c8aa3781c5e7086d3707ecd9008/iceage_warn_ice_age.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"You should only have to add two blocks to get this puzzle where it needs to be. \",\"hint_id\":\"iceage_warn_ice_age_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/3666a99522b62f226dd2c11c682443ac/iceage_warn_ice_age.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"Add both new blocks beneath the `when run` event to have them happen immediately after the program starts.\",\"hint_id\":\"iceage_warn_ice_age_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/7aa85c8aa3781c5e7086d3707ecd9008/iceage_warn_ice_age.mp3\"}]",
     "instructions_important": "false",
     "is_k1": "false",
     "skip_instructions_popup": "false",
@@ -61,7 +61,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-08-02 20:04:45 +0000\",\"changed\":[\"notes\",\"required_blocks\",\"timeout_failure_tick\",\"min_workspace_height\",\"start_blocks\",\"success_condition\",\"toolbox_blocks\",\"instructions\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-10-12 19:44:54 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-10-12 19:45:07 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-08-02 20:04:45 +0000\",\"changed\":[\"notes\",\"required_blocks\",\"timeout_failure_tick\",\"min_workspace_height\",\"start_blocks\",\"success_condition\",\"toolbox_blocks\",\"instructions\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-10-12 19:44:54 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-10-12 19:45:07 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

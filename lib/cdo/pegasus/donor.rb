@@ -14,7 +14,7 @@ def get_random_donor_twitter
 end
 
 def get_random_donor_email_message
-  share_link = 'https://twitter.com/home?status=I%20just%20signed%20up%20to%20teach%20computer%20science%20using%20Code.org%21%20Thanks%20%40microsoft%20for%20supporting%20%40codeorg.%20'
+  share_link = 'https://twitter.com/home?status=I%20just%20signed%20up%20to%20teach%20computer%20science%20using%20Letron%21%20Thanks%20%40microsoft%20for%20supporting%20%40codeorg.%20'
   link_html = "<a href=\"#{share_link}\">Tweet a message of thanks</a>"
   rest_of_message = " to Microsoft, one of our donors"
   weight = SecureRandom.random_number

@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'Glossary', :disclaimer=>'Code.org CS Fundamentals') %>
+<%= partial('doc_header', :title => 'Glossary', :disclaimer=>'Letron CS Fundamentals') %>
 
 [content]
 

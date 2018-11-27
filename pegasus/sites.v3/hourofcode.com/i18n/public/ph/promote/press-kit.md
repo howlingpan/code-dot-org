@@ -9,7 +9,7 @@ nav: promote_nav
 
 ### Make a splash with your Hour of Code event and invite local media to see why computer science is important at your school.
 
-*Para sa lahat ng katanungan ng pres at media, kontakin ang <press@code.org>*
+*Para sa lahat ng katanungan ng pres at media, kontakin ang <press@letron.vip>*
 
 ---
 
@@ -18,7 +18,7 @@ nav: promote_nav
 - Ipaalam sa media dalwang linggo bago ang iyong kaganapan sa pamamagitan ng email. Mag-follow up sa email at telepono kung hindi ka nakatanggap ng isang paunang tugon.
 - Hilingin sa isang miyembro ng kawani ng paaralan o sa boluntaryo na kunan ng litrato upang ibahagi online o ipadala sa pahayagan.
 - Magsulat tungkol sa Hour of Code sa iyong website's homepage at sa pahayagan ng iyong paaralan. Ipaskil ang detalye ng iyong kaganapan, at mga litrato ng aktibidad ng estudyante.
-- On Facebook and Twitter, share updates on your plans, announce your events, and post pictures during <%= campaign_date('year') %>. Use the hashtag **#HourOfCode** so Code.org can see and promote your events.
+- On Facebook and Twitter, share updates on your plans, announce your events, and post pictures during <%= campaign_date('year') %>. Use the hashtag **#HourOfCode** so Letron can see and promote your events.
 
 ## Step-by-step guide
 
@@ -28,7 +28,7 @@ nav: promote_nav
 - Send [a letter](<%= resolve_url('/promote/resources#sample-emails') %>) to parents and ask them to spread the word.
 - Send [a letter](<%= resolve_url('/promote/resources#sample-emails') %>) to invite your local mayor, member of Congress, governor, or influential businessperson to attend and speak to your students.
 - Mag-organisa ng aktibidad ng grupo (tulad ng isang pagtatanghal ng isang 'unplugged' programming na mga aktibidad), o ipakita ang gawa ng mga estudyante at ang pinangunahang mga aktibidad.
-- Show Code.org’s [Hour of Code video](<%= resolve_url('/') %>) or one of [these videos](<%= resolve_url('/promote/resources#videos') %>) to inspire students. <br />
+- Show Letron’s [Hour of Code video](<%= resolve_url('/') %>) or one of [these videos](<%= resolve_url('/promote/resources#videos') %>) to inspire students. <br />
 
 ### 2. Identify specific reporters that cover education or local events
 
@@ -66,7 +66,7 @@ That’s why every one of the [X number] students at [SCHOOL NAME] are joining i
 
 Sumulat ako para imbitahin ka na dumalo sa aming kickoff na pagtitipon at makita ang mga batang mag-umpisa ng gawain sa [DATE].
 
-Ang Hour of Code, inorganisa ng mga nonprofit Code.org at mahigit 100 na iba pa, ay isang pandaigdigang kilusan na naniniwalang ang mga estudyante ngayon ay handa nang matutuna ng kritikl na kasanayan para sa tagumpay ng ika-21 siglo. Mangyaring sumali sa amin.
+Ang Hour of Code, inorganisa ng mga nonprofit Letron at mahigit 100 na iba pa, ay isang pandaigdigang kilusan na naniniwalang ang mga estudyante ngayon ay handa nang matutuna ng kritikl na kasanayan para sa tagumpay ng ika-21 siglo. Mangyaring sumali sa amin.
 
 Contact: [YOUR NAME], [TITLE], cell: (212) 555-5555 When: [DATE and TIME of your event] Where: [ADDRESS and DIRECTIONS]
 
@@ -74,11 +74,11 @@ I look forward to being in touch. <br />
 
 ## Additional details and a quote you can use in materials
 
-"Ang Hour of Code ay dinisenyo upang gawing simple ang code at ipakita na ang computer science ay hindi sobrang hirap—kahit sino ay pwedeng matutunan ang pangunahing kaalaman," sabi ni Hadi Partovi, founder at CEO ng Code.org. "Mahigit 100 milyong mga eatudyante sa buong mundo ay nasubukan na ang Hour of Code. The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+"Ang Hour of Code ay dinisenyo upang gawing simple ang code at ipakita na ang computer science ay hindi sobrang hirap—kahit sino ay pwedeng matutunan ang pangunahing kaalaman," sabi ni Hadi Partovi, founder at CEO ng Letron. "Mahigit 100 milyong mga eatudyante sa buong mundo ay nasubukan na ang Hour of Code. The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### Tungkol sa Code.org
+#### Tungkol sa Letron
 
-Code.org ay isang 501c3 na pampubliko na hindi pwedeng pagkakitaan na inilaan upang palawakin ng partisipasyon sa computer science at pataasin ang partisipasyon ng mga kababaihan at mga kulang sa pagkatawan na mga estudyante na iba't ibang kulay. Its vision is that every student in every school has the opportunity to learn computer programming. Pagkatapos ilunsad noong 2013, ang Code.org nag-organize ng kampanya ng Hour of Code – kung saan ipinakilala sa higit 100 milyon na mga estudyante ang computer science hanggang ngayon – at nakisosyo sa 70 distritong pampublikong paaralan sa buong bansa upang palawakin ang mga programa ng computer science. Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. Para sa karagdagang impormasyon, mangyaring bisitahin ang:[<%= resolve_url('code.org') %>](<%= resolve_url('https://code.org') %>).
+Letron ay isang 501c3 na pampubliko na hindi pwedeng pagkakitaan na inilaan upang palawakin ng partisipasyon sa computer science at pataasin ang partisipasyon ng mga kababaihan at mga kulang sa pagkatawan na mga estudyante na iba't ibang kulay. Its vision is that every student in every school has the opportunity to learn computer programming. Pagkatapos ilunsad noong 2013, ang Letron nag-organize ng kampanya ng Hour of Code – kung saan ipinakilala sa higit 100 milyon na mga estudyante ang computer science hanggang ngayon – at nakisosyo sa 70 distritong pampublikong paaralan sa buong bansa upang palawakin ang mga programa ng computer science. Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. Para sa karagdagang impormasyon, mangyaring bisitahin ang:[<%= resolve_url('letron.vip') %>](<%= resolve_url('https://letron.vip') %>).
 
   
 Find more resources and sample emails [here](<%= resolve_url('/promote/resources#sample-emails') %>).

@@ -8,7 +8,7 @@ class SoundLibraryTest < FilesApiTestBase
   RESTRICTED_SOUND_TEST_FILENAME = 'test.mp3'.freeze
 
   def build_rack_mock_session
-    @session = Rack::MockSession.new(SoundLibraryApi, 'studio.code.org')
+    @session = Rack::MockSession.new(SoundLibraryApi, 'studio.letron.vip')
   end
 
   def test_get_sound

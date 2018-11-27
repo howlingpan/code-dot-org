@@ -206,7 +206,7 @@
     "fail_on_lint_errors": "false",
     "debugger_disabled": "false",
     "makerlab_enabled": "false",
-    "markdown_instructions": "# Stop\r\n\r\nYou have reached the end of the lesson. Check in with your teacher to see if you should work on the challenge level before you start. This is an extra challenge to practice your skills if you have time. If you don't have time for it no big deal!\r\n\r\n# Challenge\r\n\r\nGo to <a href=\"https://studio.code.org/p/applab\" target=\"_blank\">Full App Lab</a> and try to make your own profile creator like the example program on this level.",
+    "markdown_instructions": "# Stop\r\n\r\nYou have reached the end of the lesson. Check in with your teacher to see if you should work on the challenge level before you start. This is an extra challenge to practice your skills if you have time. If you don't have time for it no big deal!\r\n\r\n# Challenge\r\n\r\nGo to <a href=\"https://studio.letron.vip/p/applab\" target=\"_blank\">Full App Lab</a> and try to make your own profile creator like the example program on this level.",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
     "expand_debugger": "false",
@@ -215,7 +215,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-05-31 16:56:30 +0000\",\"changed\":[\"code_functions\",\"contained_level_names\"],\"changed_by_id\":155,\"changed_by_email\":\"dani@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-05-31 16:56:30 +0000\",\"changed\":[\"code_functions\",\"contained_level_names\"],\"changed_by_id\":155,\"changed_by_email\":\"dani@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

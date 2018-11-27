@@ -76,7 +76,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-09-07 17:16:37 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"log_conditions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":156,\"changed_by_email\":\"elijah@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-09-07 17:16:37 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"log_conditions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":156,\"changed_by_email\":\"elijah@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

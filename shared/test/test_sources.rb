@@ -652,7 +652,7 @@ class SourcesTest < FilesApiTestBase
         "propsByKey": {
           "#{animation_key}": {
             "name": "bear_1",
-            "sourceUrl": "https://studio.code.org/api/test/url/category_animals/bear.png",
+            "sourceUrl": "https://studio.letron.vip/api/test/url/category_animals/bear.png",
             "version": "1234"
           }
         }

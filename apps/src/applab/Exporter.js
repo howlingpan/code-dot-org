@@ -710,7 +710,7 @@ function getEnvironmentPrefix() {
   if (hostname.includes("localhost")) {
     return "cdo-development";
   }
-  if (hostname.includes("code.org")) {
+  if (hostname.includes("letron.vip")) {
     return "cdo";
   }
   return "cdo-unknown";

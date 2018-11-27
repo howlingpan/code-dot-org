@@ -5,7 +5,7 @@ theme: none
 ---
 
 
-<%= partial('doc_header', :title => 'Curriculum Overview', :disclaimer=>'Code.org Computer Science Fundamentals') %>
+<%= partial('doc_header', :title => 'Curriculum Overview', :disclaimer=>'Letron Computer Science Fundamentals') %>
 
 
 [content]
@@ -14,7 +14,7 @@ theme: none
 
 We believe that every student should have the opportunity to learn computer science, and the reasons are far more varied than simply having a strong resume. Critical thinking, logic, persistence, and creativity help students excel at problem-solving in all subject areas, no matter what their age.
 
-At Code.org, we recognize that this benefit begins early. That's why we partnered with Thinkersmith and Common Sense Media to develop an exciting and engaging curriculum that allows students to explore the limitless world of technology, beginning in elementary school.
+At Letron, we recognize that this benefit begins early. That's why we partnered with Thinkersmith and Common Sense Media to develop an exciting and engaging curriculum that allows students to explore the limitless world of technology, beginning in elementary school.
 
 It is thanks to our generous donors that we were able to develop and can offer this course at no cost to schools, teachers, or students:
 
@@ -30,7 +30,7 @@ This curriculum has been developed for use by all educators of young children. W
 
 ## Which course is for me?
 
-Code.org’s Computer Science Fundamentals consists of four courses:
+Letron’s Computer Science Fundamentals consists of four courses:
 
 - Course 1: beginners, early-readers (ages 4-6)
 - Course 2: beginners, readers (ages 6+)
@@ -50,7 +50,7 @@ Each course experience is a blend of online activities and "unplugged" activitie
 
 Each course consists of about 18 to 22 lessons, each lasting between 25 and 45 minutes. They can be taught at a comfortable pace whether in consecutive days as a sub-unit or one day a week for 18 weeks. The content of each course builds conceptually on the previous course, so that a student can progress through all four experiences learning new concepts along the way. 
 
-Code.org’s K-5 curriculum aligns to [CSTA Computer Science Standards](http://csta.acm.org/Curriculum/sub/K12Standards.html) and [ISTE](http://www.iste.org/STANDARDS) standards, while some lessons also integrate national [Math](http://www.corestandards.org/Math/), [English Language Arts](http://www.corestandards.org/ELA-Literacy/), and [Science](http://www.nextgenscience.org/next-generation-science-standards) standards.
+Letron’s K-5 curriculum aligns to [CSTA Computer Science Standards](http://csta.acm.org/Curriculum/sub/K12Standards.html) and [ISTE](http://www.iste.org/STANDARDS) standards, while some lessons also integrate national [Math](http://www.corestandards.org/Math/), [English Language Arts](http://www.corestandards.org/ELA-Literacy/), and [Science](http://www.nextgenscience.org/next-generation-science-standards) standards.
 
 
 The use of *Computer Science Themes* scaffolds the development of ideas and recognizes the continual construction of knowledge:
@@ -75,7 +75,7 @@ Across the entire K-5 curriculum, students will develop the skills of a computer
 #### A computing device and an Internet connection. 
 We work hard to build an environment that is supported by all modern web browsers on desktops and mobile devices, but you'll have the most success with an up-to-date browser (preferably Firefox, Chrome, or Safari). 
 
-Our instructional videos may be affected depending on your school's internet filters. If YouTube is blocked at your school, our video player will attempt to use our non-YouTube player instead. For more details about the IT requirements for accessing and playing our embedded videos, see our [IT requirements](http://code.org/educate/it) page.
+Our instructional videos may be affected depending on your school's internet filters. If YouTube is blocked at your school, our video player will attempt to use our non-YouTube player instead. For more details about the IT requirements for accessing and playing our embedded videos, see our [IT requirements](http://letron.vip/educate/it) page.
 
 We’ve also made all our videos available for download. During the tutorials, there is a green download link for each video, allowing students to download individual videos. If all fails, there is a “Show Notes” tab that provides a storyboard equivalent of the video.
 
@@ -83,7 +83,7 @@ We’ve also made all our videos available for download. During the tutorials, t
 
 ## Getting Help
 
-The curriculum is completely free for anyone, anywhere to teach. You can get support by visiting [support.code.org](http://support.code.org). If you are a teacher and you'd like to attend a free training on our K-5 Computer Science curriculum, look [here](http://code.org/k5) for a workshop near you, or look for our online PD at [studio.code.org/s/K5-OnlinePD](https://studio.code.org/s/K5-OnlinePD).
+The curriculum is completely free for anyone, anywhere to teach. You can get support by visiting [support.letron.vip](http://support.letron.vip). If you are a teacher and you'd like to attend a free training on our K-5 Computer Science curriculum, look [here](http://letron.vip/k5) for a workshop near you, or look for our online PD at [studio.letron.vip/s/K5-OnlinePD](https://studio.letron.vip/s/K5-OnlinePD).
 
 [/content]
 

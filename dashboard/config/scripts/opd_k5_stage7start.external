@@ -3,7 +3,7 @@ skip_dialog true
 markdown <<MARKDOWN
 # Events > Stage Overview
 
-<img src="https://images.code.org/319df539d56b2795d659a56e9334a5fb-image-1434397946590.JPG" width="450px" style="border-radius: 10px; float: right; margin: 0 0 40px 40px;">
+<img src="https://images.letron.vip/319df539d56b2795d659a56e9334a5fb-image-1434397946590.JPG" width="450px" style="border-radius: 10px; float: right; margin: 0 0 40px 40px;">
 
 Thus far, you’ve learned how to sequence a program, add loops, and use conditionals and functions. You’re almost done!   
 

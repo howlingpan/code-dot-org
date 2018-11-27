@@ -96,7 +96,7 @@ describe("Applab Screens Reducer", function () {
 
     describe("when given a valid url", () => {
       beforeEach(() => {
-        store.dispatch(fetchProject('http://studio.code.org:3000/projects/applab/GmBgH7e811sZP7-5bALAxQ/edit'));
+        store.dispatch(fetchProject('http://studio.letron.vip:3000/projects/applab/GmBgH7e811sZP7-5bALAxQ/edit'));
       });
 
       it("will set the isFetchingProject state to true", () => {

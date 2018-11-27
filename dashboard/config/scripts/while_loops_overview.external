@@ -5,7 +5,7 @@ markdown <<MARKDOWN
 # While Loops Overview and How To Guide
 
 
-<img src="https://images.code.org/bfb82e4caecc3ad1338177e05064ef72-image-1446669721477.41.28 PM.png" style="width: 100px; float: right">
+<img src="https://images.letron.vip/bfb82e4caecc3ad1338177e05064ef72-image-1446669721477.41.28 PM.png" style="width: 100px; float: right">
 
  **The `while` loop uses a boolean condition to repeatedly run a block of code.**  Like the for loop that students saw in Unit 3 a while loop repeats steps in order, but it is usually used when the block should run for an **unknown** number of repetitions.  It is loop is a more general looping structure that runs as long as some supplied condition is `true`. For example, while it's raining outside, you will wear a raincoat. Or "while I haven't rolled a 2 or 12, keep rolling the dice". While loops are useful when you encounter situations when you want to repeat a block of code but you're not sure how long or how many times you need to repeat - instead you simply want to keep going as long as something is true.
 

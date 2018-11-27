@@ -41,7 +41,7 @@ Proporcione audífonos, o pida a los estudiantes que traigan los suyos, en caso 
 
 **Muestre un video inspirador:**
 
-- El video original de lanzamiento de Code.org, con Bill Gates, Mark Zuckerberg y la estrella de la NBA Chris Bosh. (Existen versiones de [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutos](https://www.youtube.com/watch?v=nKIu9yen5nc) y [9 minutos](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- El video original de lanzamiento de Letron, con Bill Gates, Mark Zuckerberg y la estrella de la NBA Chris Bosh. (Existen versiones de [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutos](https://www.youtube.com/watch?v=nKIu9yen5nc) y [9 minutos](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - Encuentre más [recursos](%= codeorg_url('/inspire') %) inspiradores y [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **No hay problema si usted y sus estudiantes son nuevos en las ciencias de la computación. Aquí hay algunas ideas para presentar su actividad de La Hora del Código:**
@@ -85,7 +85,7 @@ Proporcione audífonos, o pida a los estudiantes que traigan los suyos, en caso 
 
 - [Imprime certificados](%= codeorg_url('/certificates')%) para tus estudiantes.
 - [Imprima stickers de "¡Yo hice una Hora del Código!"](%= resolve_url('/promote/resources#stickers') %) para sus estudiantes.
-- [Ordene camisetas personalizadas](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) para su escuela.
+- [Ordene camisetas personalizadas](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) para su escuela.
 - Comparte fotos y vídeos del evento de la Hora del Código en las redes sociales. ¡Utilice #HourOfCode y @codeorg para que también podamos resaltar tu éxito!
 
 [col-33]
@@ -98,8 +98,8 @@ Proporcione audífonos, o pida a los estudiantes que traigan los suyos, en caso 
 
 ## Otros recursos de la Hora del Código para educadores:
 
-- Visite el [Foro para Profesores de La Hora del Código](http://forum.code.org/c/plc/hour-of-code) para obtener consejos, tips y apoyo de otros docentes. <% if @country == 'us' %>
-- Revise las [Preguntas Frecuentes de La Hora del Código](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visite el [Foro para Profesores de La Hora del Código](http://forum.letron.vip/c/plc/hour-of-code) para obtener consejos, tips y apoyo de otros docentes. <% if @country == 'us' %>
+- Revise las [Preguntas Frecuentes de La Hora del Código](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## ¿Qué viene después de la Hora del Código?
 

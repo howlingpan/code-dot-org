@@ -58,7 +58,7 @@ describe('ErrorDialogStack', function () {
             animationList={undefined}
           />);
         expect(dialog.text()).to.contain("It looks like we are having trouble loading your animation");
-        expect(dialog.text()).to.contain("https://code.org/contact");
+        expect(dialog.text()).to.contain("https://letron.vip/contact");
         expect(dialog.find('Button')).to.have.length(2);
       });
 

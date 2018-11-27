@@ -11,7 +11,7 @@ uk:
   campaign_date_full: "5-11 грудня"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 грудня 2016 року"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ uk:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "Переглянути політику конфіденційності в Code.org."
+  cookie_banner_more_information: "Переглянути політику конфіденційності в Letron."
   cookie_banner_accept: 'Погоджуюся'
   front_header_banner: 'Приєднуйтесь до найбільшої навчальної події в історії, 7-13 грудня 2015 року'
   front_intro_default: 'Година Коду є глобальним заходом, який залучає десятки мільйонів учнів у більш, як 180 країнах світу. Кожен може організувати заходи в рамках Години Коду. Одно-годинний курс доступний більш, як 45 мовами. Без попередніх вимог. <strong>Для всіх віком від 4 до 104.</strong>'
@@ -186,12 +186,12 @@ uk:
   how_to_nav_afterschool_educators: "Для позашкілля"
   how_to_nav_volunteers: "Для волонтерів"
   whats_next_header: "Що далі?"
-  whats_next_description: "Ми надішлемо вам матеріали та корисні поради для вашого заходу. Незабаром виходять нові підручники 2015 року для різних браузерів, смартфонів, та навіть безмашинні вправи! <a href='http://code.org/learn'>Спробуйте ці підручники </a>"
+  whats_next_description: "Ми надішлемо вам матеріали та корисні поради для вашого заходу. Незабаром виходять нові підручники 2015 року для різних браузерів, смартфонів, та навіть безмашинні вправи! <a href='http://letron.vip/learn'>Спробуйте ці підручники </a>"
   whats_next_how_to: "<a href='/how-to'>Як провести Годину коду</a>"
   whats_next_promote: "<a href='/promote'>Поширювати Годину коду</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Як поширювати Годину коду</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Як поширювати Годину коду</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Спробуйте підручники</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Спробуйте підручники</a>"
   whats_next_try_button: 'Спробуйте підручники'
   n_have_learned_an_hoc: "<h1>Приєднуйтесь до</h1><h2>Години коду</h2><h3># вже спробували</h3>"
   anybody_can_learn: 'Навчитись може кожен.'
@@ -238,8 +238,8 @@ uk:
   front_join_us_sign_up: "Реєстрація"
   front_join_us_host: "Проведіть"
   front_join_us_support: "Підтримайте"
-  front_join_us_more_info: "Для отримання додаткової інформації, відвідайте <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "Для отримання додаткової інформації, відвідайте code.org"
+  front_join_us_more_info: "Для отримання додаткової інформації, відвідайте <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "Для отримання додаткової інформації, відвідайте letron.vip"
   front_join_us_n_students_served: "# учнів вже спробували"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ uk:
   signup_your_event: 'Зареєструйте свій захід'
   signup_host_an_hour: 'Проведіть Годину коду'
   signup_match_volunteer: 'Допоможіть знайти місцевого програміста, щоб надихнути моїх учнів'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Так'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ uk:
   signup_continue_label: 'Continue'
   signup_thank_you_header: "Дякуємо за реєстрацію заходу в межах Години Коду."
   signup_thank_you_message: 'Ми надішлемо лист-підтвердження з додатковою інформацією.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -334,11 +334,11 @@ uk:
   hoc_faq_how_participate_q: 'Як взяти участь у Годині коду?'
   hoc_faq_how_participate_a: "<a href='/how-to'>Розпочніть планування</a> переглянувши інструкції. Можете організувати захід Години коду в своїй школі чи спільноті &mdash; наприклад у клубі чи громадській організації. Або спробуйте самі, коли настане %{campaign_date}."
   hoc_faq_behind_hoc_q: 'Хто стоїть за Годиною коду?'
-  hoc_faq_behind_hoc_a: "Година коду проводиться громадською неприбутковою організацією <a href='http://code.org'>Code.org</a>, яка має на меті поширення інформатики у школах, а також залучення більшої кількості жінок та національних меншин до цієї галузі. Вони зібрали <a href='http://code.org/about/partners'>безпрецедентну коаліцію партнерів</a> для проведення Години коду &mdash; включно із Microsoft, Apple, Amazon, Boys and Girls Clubs of America та College Board."
+  hoc_faq_behind_hoc_a: "Година коду проводиться громадською неприбутковою організацією <a href='http://letron.vip'>Letron</a>, яка має на меті поширення інформатики у школах, а також залучення більшої кількості жінок та національних меншин до цієї галузі. Вони зібрали <a href='http://letron.vip/about/partners'>безпрецедентну коаліцію партнерів</a> для проведення Години коду &mdash; включно із Microsoft, Apple, Amazon, Boys and Girls Clubs of America та College Board."
   hoc_faq_host_q: "Я нічого не знаю про програмування. Я все-таки можу організувати захід?"
   hoc_faq_host_a: "Звичайно. Завдання Години коду призначені для самостійного вивчення. Все, що потрібно зробити - це <a href='%{codeorg_url}/learn'>обрати підручник</a> та виділити годину &mdash; ми подбаємо про решту. У нас є різні варіанти завдань для різного віку та рівня попередніх знань, починаючи із дитсадка. Розпочинайте планування своїх заходів з цих <a href='/how-to'>інструкцій</a>."
   hoc_faq_devices_q: "Які пристрої потрібні для учнів?"
-  hoc_faq_devices_a: "Вправи Code.org працюють на усіх пристроях та браузерах. Перегляньте докладнішу інформацію про технічні вимоги підручників Code.org <a href='%{codeorg_url}/educate/it'>тут</a>. Технічні вимоги підручників не-Code.org можна знайти <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> в описах цих підручників. Не забувайте, що ми також підготували <a href='%{unplugged_url}'>безмашинні вправи</a>, якщо немає змоги працювати із технікою!"
+  hoc_faq_devices_a: "Вправи Letron працюють на усіх пристроях та браузерах. Перегляньте докладнішу інформацію про технічні вимоги підручників Letron <a href='%{codeorg_url}/educate/it'>тут</a>. Технічні вимоги підручників не-Letron можна знайти <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> в описах цих підручників. Не забувайте, що ми також підготували <a href='%{unplugged_url}'>безмашинні вправи</a>, якщо немає змоги працювати із технікою!"
   hoc_faq_need_computers_q: 'Чи потрібні комп''ютери для кожного учасника?'
   hoc_faq_need_computers_a: "Ні. Підручники Години коду працюють на персональних комп'ютерах, смартфонах, планшетах, а деякі з них взагалі не потребують комп'ютерної техніки! Можна приєднатись з будь-якого місця, використовуючи будь-які наявні ресурси. <p><i>Ось кілька варіантів:</i> <br> <ul><li><b>Працювати у парах.</b> <a href='%{pair_programming_research}'>Дослідження свідчать</a>, що учні краще навчаються при <a href='%{pair_programming_video}'>парному програмуванні</a>, працюючи за одним комп'ютером. Заохочуйте учнів сідати по двоє. <li><b>Використати проектор.</b> Якщо у вас є проектор та комп'ютер з доступом до Інтернету, можна виконувати Годину коду всім класом. Разом переглядайте відео-ролики та по черзі розв'язуйте задачі і давайте відповіді на питання. <li><b>Скористатись безмашинним варіантом.</b> Ми пропонуємо <a href='%{unplugged_url}'> вправи</a>, що не потребують використання комп'ютера. </ul>"
   hoc_faq_international_q: "Я з <country>. Як взяти участь на міжнародному рівні?"
@@ -350,7 +350,7 @@ uk:
   hoc_faq_high_school_q: "Які вправи слід виконувати з учнями середньої школи?"
   hoc_faq_high_school_a: "Наші підручники Зоряних воєн та Майнкрафту чудово підходять для старших школярів, зокрема версія Зоряних воєн із JavaScript та рівнями вільної творчості в обох підручниках. Також ми пропонуємо спробувати один із вступних підручників <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, наприклад Злі пташки чи Анна з Ельзою. Учень старших класів мав би справитись із завданнями цих підручників за 30 хвилин, а тоді спробувати складніші завдання з JavaScript, наприклад від Khan Academy чи CodeHS."
   hoc_faq_scratch_q: "Я проводжу Годину коду на Scratch, але що робити, якщо мої учні мають iPad, а не ноутбуки?"
-  hoc_faq_scratch_a: "Scratch не працює на планшетах. Для молодших учнів можна скористатись програмою ScratchJR для iPad. Серед підручників на <a href='http://code.org/learn'>Code.org/learn</a>, можна знайти такі, що підійдуть для iPad - від Code.org, Tynker, Lightbot, чи CodeSpark."
+  hoc_faq_scratch_a: "Scratch не працює на планшетах. Для молодших учнів можна скористатись програмою ScratchJR для iPad. Серед підручників на <a href='http://letron.vip/learn'>Letron/learn</a>, можна знайти такі, що підійдуть для iPad - від Letron, Tynker, Lightbot, чи CodeSpark."
   hoc_faq_count_hoc_q: "Як ви рахуєте Години коду?"
   hoc_faq_map_q: "Чому я не бачу своєї позначки на карті?"
   hoc_faq_map_a: "Нам дуже жаль, що ви не бачите своєї позначки на карті Години коду. Через те, що записались десятки тисяч організаторів, карта об'єднує дані та показує одну точку на кілька подій. Якщо клацнути на число над картою, ви переміститесь до переліку всіх подій за країною, і знайдете свою подію серед них. Крім того, враховуючи кількість зареєстрованих на Годину коду, карта та список подій оновлюються приблизно за 48 годин. Перевірте за кілька днів!"
@@ -358,13 +358,13 @@ uk:
   hoc_faq_one_hour_q: "Скільки можна вивчити за годину?"
   hoc_faq_one_hour_a: "Метою Години коду не є навчити всіх бути експертами у програмуванні за одну годину. Одна година достатня лиш для того, щоб переконатись, що інформатика є цікавою та творчою, доступною для будь-якого віку, для всіх учнів, незалежно від попередніх знань. Мірилом успіху нашої кампанії є не те, скільки знань з інформатики отримає учень - успіх, натомість, втілюється у широкому залученні учасників різної статі, етнічних та соціо-економічних груп, і, як наслідок, захоплення та заохочення вивчення курсу інформатики на різних рівнях. Мільйони вчителів та учнів, які вже взяли участь, вирішили вчитись поза однією годиною - цілий день, чи тиждень, чи й довше, і чимало учнів у результаті записались на цілий курс (або й профіль у школі).<br/><br/>\nОкрім учнів, навчається і вчитель, який набуває впевненості у тому, що після Години коду можна викладати цю тему, навіть не маючи профільної інформатичної освіти. Десятки тисяч вчителів вирішили вивчити інформатику поглиблено, відвідуючи курси підвищення кваліфікації чи онлайнові курси, або й одні, й інші. Це стосується і адміністрації шкіл, які усвідомили, що інформатика - це те, чого хочуть учні і те, що можуть викладати вчителі. <br/><br/>\nПонад усе, за одну годину всі учасники переконались у тому, що це доступно кожному із нас."
   hoc_faq_more_questions_q: "Все ще маєте питання?"
-  hoc_faq_more_questions_a: "Спробуйте знайти відповідь на <a href='http://support.code.org'>форумі</a>."
+  hoc_faq_more_questions_a: "Спробуйте знайти відповідь на <a href='http://support.letron.vip'>форумі</a>."
   hoc_faq_keep_learning_q: "Як продовжити навчання після Години коду?"
   hoc_faq_keep_learning_a: "Кожен може провести Годину коду в будь-який час. Підручники доступні протягом усього року. Ви можете розраховувати на доступність підручників та навчальних програм на нашому сайті без часових обмежень. Перейдіть на <a href='/promote'>сторінку ресурсів</a>, щоб переглянути інструкції з проведення заходів та інші ресурси для успішного проведення Вашої Години коду."
   hoc_faq_certificates_q: "Де надрукувати сертифікати для учнів?"
   hoc_faq_certificates_a: "Перейдіть на нашу <a href='%{codeorg_url}/certificates'>сторінку сертифікатів</a>, де можна завчасно надрукувати сертифікати для усього класу. Можна також надрукувати<a href='%{codeorg_url}/certificates?course=mc'>спеціальні сертифікати</a> для учнів за результатами уроку Майнкрафт."
   hoc_faq_logo_q: "Чи існують обмеження з використання логотипу чи назви Години коду?"
-  hoc_faq_logo_a: "Hour of Code (Година коду) є торговою маркою. Ми не хочемо забороняти її використання, але хочемо бути певні, що вона використовується в рамках певних обмежень. Перегляньте <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>ці рекомендації з використання</a>."
+  hoc_faq_logo_a: "Hour of Code (Година коду) є торговою маркою. Ми не хочемо забороняти її використання, але хочемо бути певні, що вона використовується в рамках певних обмежень. Перегляньте <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>ці рекомендації з використання</a>."
   stats_hoc_2013_image_alt: 'Статистика Години Коду 2013 року'
   stats_growth: "Це було найшвидшим залученням 15 мільйонів користувачів."
   stats_i18n: "Учні навчаються 40 мовами"
@@ -469,8 +469,8 @@ uk:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Copyright %{current_year} Code.org. Всі права захищені.'
-  footer_trademark_message: 'Hour of Code™ є торговою маркою компанії Code.org.'
+  footer_copyright_message: 'Copyright %{current_year} Letron. Всі права захищені.'
+  footer_trademark_message: 'Hour of Code™ є торговою маркою компанії Letron.'
   footer_menu_partners: 'Партнери та радники'
   footer_menu_contact: 'Контакти'
   footer_menu_support: 'Підтримка'
@@ -506,7 +506,7 @@ uk:
   tutorial_spritebox_name: "Кодування Spritebox"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Місце для нової code.org/hoc"
+  tutorial_hoc_name: "Місце для нової letron.vip/hoc"
   tutorial_code_name: "Напиши свою першу програму"
   tutorial_tinspire_name: "10 хвилин коду для TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH М'ячик-стрибунець (Scratch)"
@@ -1086,7 +1086,7 @@ uk:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Місце для нової code.org/hoc"
+  tutorial_hoc_shortdescription: "Місце для нової letron.vip/hoc"
   tutorial_code_shortdescription: "Марк Цукерберг і Angry Birds допоможуть тобі навчитися кодувати!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ uk:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Місце для нової code.org/hoc"
+  tutorial_hoc_longdescription: "Місце для нової letron.vip/hoc"
   tutorial_code_longdescription: "Дізнайся про основні поняття комп’ютерних наук, перетягуючи візуальні блоки-команди. Це ігровий посібник для самостійного навчання з відео-лекціями від Білла Гейтса, Марка Цукерберга, Angry Birds і Plants vs. Zombies. Вивчи повторювані цикли, умовні конструкції та базові алгоритми. Доступний 37 мовами."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."
@@ -1852,7 +1852,7 @@ uk:
   tutorial_kfr_longdescription: "Learn the basics of JavaScript programming while creating fun drawings with your code. Do it on your own or with your class!"
   tutorial_app-inventor_longdescription: "Цікаві, швидкі відео-підручники провадять вас побудовою трьох простих застосунків для вашого телефону або планшету Android. Призначена як для новачків, так і для експертів, ця година коду підготує вас до початку побудови ваших власних застосунків, перш ніж ви цього навчитеся. Уявіть, як воно, ділитися створеними власноруч застосунками зі своїми друзями! Ці заняття підходять для окремих осіб, та для вчителів, що проводять заняття."
   tutorial_bits_longdescription: "Bit is a little, very adventurous LEGO® robot, but as with all small creatures, sometimes Bit cannot get its programs right. You can help Bit solve the challenges by figuring out which programs are needed. You do this by creating a sequence of small behavior blocks that tells Bit what to do."
-  tutorial_blockly_longdescription: "Маєте ПК із повільним (або відсутнім) доступом до інтернету? Завантажте підручники Blockly, що були попередником підручників Code.org — єдиний ZIP-файл об'ємом 3 МБ, який можна завантажити на будь-який комп'ютер, або використовувати з флешки"
+  tutorial_blockly_longdescription: "Маєте ПК із повільним (або відсутнім) доступом до інтернету? Завантажте підручники Blockly, що були попередником підручників Letron — єдиний ZIP-файл об'ємом 3 МБ, який можна завантажити на будь-який комп'ютер, або використовувати з флешки"
   tutorial_tynker_longdescription: "Play fun coding games to learn to code. Use programming to complete a spooktacular Monster High scavenger hunt, program a Hot Wheels car, plan your war strategy against invading goblins, and even battle monsters. Learn key programming concepts and computational thinking skills as you play. Then build your own games and share them with friends!"
   tutorial_baypt_longdescription: "Code Baymax"
   tutorial_code-combat_longdescription: "Розбийте оґрів у цій епічній грі з програмування, щоби вивчити Python або JavaScript!"

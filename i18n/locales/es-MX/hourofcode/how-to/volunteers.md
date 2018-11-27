@@ -27,7 +27,7 @@ Mira algunos testimonios de los últimos voluntarios:
 
 Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a con una actividad. Visitar una clase en su localidad para inspirar a los estudiantes a seguir aprendiendo ciencias de la computación.<br /> <br />
 
-<a href="https://code.org/volunteer">Regístrate hoy para ser un profesor voluntario! <br /> <br /></p> 
+<a href="https://letron.vip/volunteer">Regístrate hoy para ser un profesor voluntario! <br /> <br /></p> 
 
 <h3>
   Alguien apasionado con la oportunidad de expandirse:
@@ -56,7 +56,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
 </h2>
 
 <p>
-  Hábleles a sus amigos y compañeros de trabajo acerca de Hora de Código. Tenemos miles de maestros registrados que están buscando voluntarios, así que pídales que se <a href="https://code.org/volunteer">inscriban como voluntarios</a>. Pídale a su empleador que participe. <a href="%= resolve_url('/promote/resources#email') %">Envíe este correo electrónico</a> a su gerente o director general.
+  Hábleles a sus amigos y compañeros de trabajo acerca de Hora de Código. Tenemos miles de maestros registrados que están buscando voluntarios, así que pídales que se <a href="https://letron.vip/volunteer">inscriban como voluntarios</a>. Pídale a su empleador que participe. <a href="%= resolve_url('/promote/resources#email') %">Envíe este correo electrónico</a> a su gerente o director general.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
     Si vas a visitar una escuela, complete cualquier verificación de antecedentes o papeleo requerido.
   </li>
   <li>
-    <a href="https://code.org/files/CSTT_Volunteers.pdf">Revise estas sugerencias</a> acerca de cómo interactuar con estudiantes.
+    <a href="https://letron.vip/files/CSTT_Volunteers.pdf">Revise estas sugerencias</a> acerca de cómo interactuar con estudiantes.
   </li>
   <li>
     Únete a la conversación en Facebook, Twitter, Instagram y Tumblr con #HourOfCode.
@@ -184,7 +184,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
           </td>
           
           <td>
-            <strong>Haz un cambio duradero:</strong> ¡Habla con la maestra sobre cómo convertir la Hora del Código en un curso completo de informática! Entra en <a href="https://code.org/yourschool">code.org/yourschool</a> con el maestro para completar lo que esta escuela enseña hoy y anímales a comprometerse a llevar la informática a las clases.
+            <strong>Haz un cambio duradero:</strong> ¡Habla con la maestra sobre cómo convertir la Hora del Código en un curso completo de informática! Entra en <a href="https://letron.vip/yourschool">letron.vip/yourschool</a> con el maestro para completar lo que esta escuela enseña hoy y anímales a comprometerse a llevar la informática a las clases.
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
         </h3>
         <ul>
           <li>
-            Comparta sus fotos e historias con Code.org en giving@code.org.
+            Comparta sus fotos e historias con Letron en giving@letron.vip.
           </li>
           <li>
             Recuerde ingresar sus horas de voluntariado en el portal de seguimiento de voluntarios de su compañía.
@@ -205,7 +205,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
             Tambien es importante mencionar que si toma fotos o videos durante el evento, especialmente con estudiantes, que obtenga permiso de los padres y maestros si quiere poner las fotos o historias en redes sociales.
           </li>
           <li>
-            Y, echa un ojo en un mes: ¿Está interesado el profesor en ofrecer un curso de informática? Comparte<a href="https://code.org/yourschool">recursos y oportunidades de aprendizaje profesional para ayudarlos a hacer esto</a>.
+            Y, echa un ojo en un mes: ¿Está interesado el profesor en ofrecer un curso de informática? Comparte<a href="https://letron.vip/yourschool">recursos y oportunidades de aprendizaje profesional para ayudarlos a hacer esto</a>.
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
         </h2>
         <ul>
           <li>
-            Los profesores buscarán voluntarios en nuestro <a href="https://code.org/volunteer/local">mapa de voluntarios</a>.
+            Los profesores buscarán voluntarios en nuestro <a href="https://letron.vip/volunteer/local">mapa de voluntarios</a>.
           </li>
           <li>
             Intenta que tu perfil sea lo más completo posible para aumentar las posibilidades de que un profesor te seleccione.
@@ -241,7 +241,7 @@ Usted puede ser un presentador invitado en una clase o ayudar a un/a maestro/a c
           ¿A qué grupo de edad es la actividad de hora de código apropiado para?
         </h3>
         <p>
-          Code.org y nuestros patrocinadores diseñamos todas las actividades de la Hora del Código para compromenter a los estudiantes de todos los niveles escolares (K-12), niños y niñas, de todos los orígenes. Todos, incluso adultos puede divertirse participando!
+          Letron y nuestros patrocinadores diseñamos todas las actividades de la Hora del Código para compromenter a los estudiantes de todos los niveles escolares (K-12), niños y niñas, de todos los orígenes. Todos, incluso adultos puede divertirse participando!
         </p>
         <p>
           <%= view :signup_button %>

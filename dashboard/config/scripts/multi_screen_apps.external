@@ -7,7 +7,7 @@ markdown <<MARKDOWN
 
 You may imagine that a typical app has a number of "screens" or views that user goes through as part of using your app.  Below is a typical example with a welcome screen, a screen that plays a game and a game over screen.
 
-<img src="https://images.code.org/27065f81b2bf53dea099a76868f66e8e-image-1477324003598.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/27065f81b2bf53dea099a76868f66e8e-image-1477324003598.png" style="display: block; margin: auto">
 
 ## What's a screen, anyway?
 
@@ -33,7 +33,7 @@ Or drag and drop a Screen UI element from the toolbox. <strong>Heads-up: </stron
 
 </div>
 
-![](https://images.code.org/ed8f45d70a65329597c1623ddd756249-image-1477165123570.png)
+![](https://images.letron.vip/ed8f45d70a65329597c1623ddd756249-image-1477165123570.png)
 
 ## Set a Screen's Properties
 
@@ -52,7 +52,7 @@ Screens also have IDs.  Like other UI elements, it's a good idea to <em>give you
 If your screen is full with UI elements and there's no blank area to click to select it, use this pulldown menu. It lists all the UI elements that are part of this screen, including the screen itself.</p>
 </div>
 
-<img src="https://images.code.org/5f8934e6ae0fc2d9dfde8c9a0d93eec2-image-1477249243769.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/5f8934e6ae0fc2d9dfde8c9a0d93eec2-image-1477249243769.png" style="display: block; margin: auto;">
 
 <div style="column-count: 2; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 2; width: 50%; float: right">
 
@@ -71,7 +71,7 @@ Screens don't have many properties but you can set the background of the screen 
 
 The `setScreen` command changes the screen to show whatever screen you want.  You specify the screen by its ID.
 
-<img src="https://images.code.org/005222ed01ade7940963ce149d637286-image-1477168080948.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/005222ed01ade7940963ce149d637286-image-1477168080948.png" style="display: block; margin: auto">
 
 <div style="column-count: 3; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 3; width: 100%">
 

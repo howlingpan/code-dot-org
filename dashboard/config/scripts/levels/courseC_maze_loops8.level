@@ -13,7 +13,7 @@
     "start_direction": "2",
     "maze": "[[0,0,0,0,0,0,0,0],[0,2,0,0,0,0,3,0],[0,1,1,0,0,0,1,0],[0,0,1,1,0,0,1,0],[0,0,0,1,1,0,1,0],[0,0,0,0,1,1,1,0],[0,0,0,0,0,1,1,0],[0,0,0,0,0,0,0,0]]",
     "ideal": "10",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Try thinking about this problem in small parts. Take your time. You don't need to solve it on the first try!\",\"hint_id\":\"courseC_puppy_loops8courseC_maze_loops8_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/4197a5c51c59a7db90d7f8d0f6f70e06/courseC_puppy_loops8courseC_maze_loops8.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"The first half of this path is similar to the stairs from the last puzzle, but it goes in a different direction.\",\"hint_id\":\"courseC_puppy_loops8courseC_maze_loops8_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/461fa45907827e5df37a672beffc76a0/courseC_puppy_loops8courseC_maze_loops8.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"There are different ways to solve this. \\n\\nYou will want to use at least two loops, and repeat a set of actions in the first one, then a single `move forward` in the other.\",\"hint_id\":\"courseC_puppy_loops8courseC_maze_loops8_c\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/8ea2319e74816d36841f872fd38a589a/courseC_puppy_loops8courseC_maze_loops8.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Try thinking about this problem in small parts. Take your time. You don't need to solve it on the first try!\",\"hint_id\":\"courseC_puppy_loops8courseC_maze_loops8_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/4197a5c51c59a7db90d7f8d0f6f70e06/courseC_puppy_loops8courseC_maze_loops8.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"The first half of this path is similar to the stairs from the last puzzle, but it goes in a different direction.\",\"hint_id\":\"courseC_puppy_loops8courseC_maze_loops8_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/461fa45907827e5df37a672beffc76a0/courseC_puppy_loops8courseC_maze_loops8.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"There are different ways to solve this. \\n\\nYou will want to use at least two loops, and repeat a set of actions in the first one, then a single `move forward` in the other.\",\"hint_id\":\"courseC_puppy_loops8courseC_maze_loops8_c\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/8ea2319e74816d36841f872fd38a589a/courseC_puppy_loops8courseC_maze_loops8.mp3\"}]",
     "never_autoplay_video": "false",
     "disable_param_editing": "true",
     "disable_variable_editing": "false",
@@ -37,7 +37,7 @@
   },
   "published": true,
   "notes": "Challenge Puzzle",
-  "audit_log": "[{\"changed_at\":\"2017-05-23 22:29:42 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-05-23 22:29:42 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

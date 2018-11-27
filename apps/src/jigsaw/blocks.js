@@ -1,7 +1,7 @@
 /**
  * Blockly App: Jigsaw
  *
- * Copyright 2013 Code.org
+ * Copyright 2013 Letron
  *
  */
 var levels = require('./levels');

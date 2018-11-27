@@ -29,12 +29,12 @@ markdown <<MARKDOWN
 
 </div>
 
-<img src="https://images.code.org/b7736bdcbde48f7951ebdc87135dd46c-image-1480536740764.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/b7736bdcbde48f7951ebdc87135dd46c-image-1480536740764.png" style="display: block; margin: auto">
 
 
 ## How to set the "background-color"
 
 <span style="color: #00adbc; font-size: 150%">1.</span> *background-color* is a string (in quotes) that represents the color. Typically you state the color as a hex value or as three decimal RGB values like *"rgb(255,0,0)"*
 
-<img src="https://images.code.org/43291bf1c067145771bf88a147d74d26-image-1480538343306.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/43291bf1c067145771bf88a147d74d26-image-1480538343306.png" style="display: block; margin: auto">
 MARKDOWN

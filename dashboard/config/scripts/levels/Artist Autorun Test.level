@@ -48,7 +48,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-08-24 15:14:28 -0700\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":2,\"changed_by_email\":\"ram+teacher@code.org\"},{\"changed_at\":\"2018-08-24 15:14:42 -0700\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"contained_level_names\"],\"changed_by_id\":2,\"changed_by_email\":\"ram+teacher@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-08-24 15:14:28 -0700\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":2,\"changed_by_email\":\"ram+teacher@letron.vip\"},{\"changed_at\":\"2018-08-24 15:14:42 -0700\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"contained_level_names\"],\"changed_by_id\":2,\"changed_by_email\":\"ram+teacher@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

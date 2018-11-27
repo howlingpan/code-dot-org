@@ -16,7 +16,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-22 19:01:20 +0000\",\"changed\":[],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"},{\"changed_at\":\"2017-10-20 22:22:52 +0000\",\"changed\":[\"markdown_instructions\"],\"changed_by_id\":106,\"changed_by_email\":\"gtwrobel@gmail.com\"},{\"changed_at\":\"2018-03-15 16:58:27 +0000\",\"changed\":[\"markdown_instructions\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-22 19:01:20 +0000\",\"changed\":[],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"},{\"changed_at\":\"2017-10-20 22:22:52 +0000\",\"changed\":[\"markdown_instructions\"],\"changed_by_id\":106,\"changed_by_email\":\"gtwrobel@gmail.com\"},{\"changed_at\":\"2018-03-15 16:58:27 +0000\",\"changed\":[\"markdown_instructions\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

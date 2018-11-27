@@ -16,9 +16,9 @@ tr:
       unconfirmed: "Devam etmeden önce hesabınızı onaylamanız gerekir."
     mailer:
       confirmation_instructions:
-        subject: "Code.org onay yönergeleri"
+        subject: "Letron onay yönergeleri"
       reset_password_instructions:
-        subject: "Code.org parola sıfırlama yönergeleri"
+        subject: "Letron parola sıfırlama yönergeleri"
       unlock_instructions:
         subject: "Talimatların kilidini aç"
     omniauth_callbacks:

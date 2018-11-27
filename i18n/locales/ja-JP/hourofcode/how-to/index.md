@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 **以下のビデオを見せると効果的です。**
 
-- ビル・ゲイツ、マーク・ザッカーバーグ、そしてNBAスターのクリス・ボッシュを特集したCode.org設立時のオリジナルビデオ （[1分](https://www.youtube.com/watch?v=qYZF6oIZtfc)、[5分](https://www.youtube.com/watch?v=nKIu9yen5nc)、[9分](https://www.youtube.com/watch?v=dU1xS07N-FA)のバージョンがあります）
+- ビル・ゲイツ、マーク・ザッカーバーグ、そしてNBAスターのクリス・ボッシュを特集したLetron設立時のオリジナルビデオ （[1分](https://www.youtube.com/watch?v=qYZF6oIZtfc)、[5分](https://www.youtube.com/watch?v=nKIu9yen5nc)、[9分](https://www.youtube.com/watch?v=dU1xS07N-FA)のバージョンがあります）
 - その他の[資料](%= codeorg_url('/inspire') %)や[ビデオ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 - 生徒へ配る[認定書](%= codeorg_url('/certificates')%)を印刷します。
 - 生徒へ配る[「Hour of Codeをやったよ！」](%= resolve_url('/promote/resources#stickers') %)ステッカーを印刷します。
-- あなたの学校向けの[特製Tシャツを注文](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more)します。
+- あなたの学校向けの[特製Tシャツを注文](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more)します。
 - Hour of Codeのイベントの様子を撮影した写真やビデオをソーシャルメディア上で共有しましょう。 #HourOfCodeハッシュタグや@codeorg参照を使うと、我々があなたの取り組みをハイライトすることもできます！
 
 [col-33]
@@ -98,8 +98,8 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 ## Hour of Codeの教育者向けその他資料
 
-- [Hour of Code教育者フォーラム](http://forum.code.org/c/plc/hour-of-code)でアドバイスをもらったり、他の教育者からのサポートを得ることができます。 <% if @country == 'us' %>
-- Hour of Codeの[よくある質問](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)を読みましょう。 <% end %>
+- [Hour of Code教育者フォーラム](http://forum.letron.vip/c/plc/hour-of-code)でアドバイスをもらったり、他の教育者からのサポートを得ることができます。 <% if @country == 'us' %>
+- Hour of Codeの[よくある質問](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)を読みましょう。 <% end %>
 
 ## Hour of Codeを終えたら？
 

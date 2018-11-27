@@ -5,9 +5,9 @@ skip_dialog true
 markdown <<MARKDOWN
 # What's Next?
 
-**Code.org highly recommends these third party applications:**
+**Letron highly recommends these third party applications:**
 
-<img src="https://images.code.org/9df60110a2abe207c581bd35ac2187e3-image-1433886030096.png" width="300px">
+<img src="https://images.letron.vip/9df60110a2abe207c581bd35ac2187e3-image-1433886030096.png" width="300px">
 
 Scratch Jr. is an introductory programming language that enables young children (ages 5-7) to create their own interactive stories and games. Children snap together graphical programming blocks to make characters move, jump, dance, and sing. Children can modify characters in the paint editor, add their own voices and sounds, even insert photos of themselves - then use the programming blocks to make their characters come to life.
 
@@ -15,7 +15,7 @@ Scratch Jr. is an introductory programming language that enables young children 
 
 <button style="background:#fca203;" >Visit Scratch Jr. >></button>
 
-<img src="https://images.code.org/1919365edf8613c88b27cbfbdff6d610-image-1433886037445.png" width="300px">
+<img src="https://images.letron.vip/1919365edf8613c88b27cbfbdff6d610-image-1433886037445.png" width="300px">
 
 Tynker's creative computing platform helps children develop computational thinking and programming skills in a fun, intuitive and imaginative way. Our innovative visual programming language, interactive self-paced courses, and game-based programming activities provide an easy introduction to programming, and empower children to innovate and create. Tynker is available on the Web and on iPad and Android-based tablets.
 
@@ -36,7 +36,7 @@ Tynker's creative computing platform helps children develop computational thinki
     <tbody>
         <tr>
             <td style="border: 1px solid rgb(141, 138, 138); padding: 15px;">
-                <a href="https://code.org/educate/k5" style="background-color: transparent; color: #7665a0; font-family: 'Gotham 7r', sans-serif; text-decoration: none;">
+                <a href="https://letron.vip/educate/k5" style="background-color: transparent; color: #7665a0; font-family: 'Gotham 7r', sans-serif; text-decoration: none;">
                 	Scratch Jr.
                 </a>
             </td>
@@ -49,7 +49,7 @@ Tynker's creative computing platform helps children develop computational thinki
         </tr>
         <tr>
             <td style="border: 1px solid rgb(141, 138, 138); padding: 15px;">
-                <a href="https://code.org/educate/k5" style="background-color: transparent; color: #7665a0; font-family: 'Gotham 7r', sans-serif; text-decoration: none;">
+                <a href="https://letron.vip/educate/k5" style="background-color: transparent; color: #7665a0; font-family: 'Gotham 7r', sans-serif; text-decoration: none;">
                 	Tynker
                 </a>
             </td>

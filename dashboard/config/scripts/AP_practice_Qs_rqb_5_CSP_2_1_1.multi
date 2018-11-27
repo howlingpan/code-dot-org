@@ -5,7 +5,7 @@ right 'V'
 wrong 'Y'
 markdown <<MARKDOWN
 ASCII is a character-encoding scheme that uses a numeric value to represent each character. For example, the uppercase letter "G" is represented by the decimal (base 10) value 71. A partial list of characters and their corresponding ASCII values are shown in the table below.
-<br><img src="https://curriculum.code.org/media/uploads/csp/31e90f701ec9183838fc7b2de0307c90" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/31e90f701ec9183838fc7b2de0307c90" width="300"><br>
 ASCII characters can also be represented by hexadecimal numbers. According to ASCII character encoding, which of the following letters is represented by the hexadecimal (base 16) number 56?
 MARKDOWN
 teacher_markdown <<MARKDOWN

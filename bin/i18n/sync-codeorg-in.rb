@@ -32,7 +32,7 @@ def localize_pegasus_markdown_content
     educate/curriculum/csf-transition-guide
   ).freeze
 
-  src_dir = 'pegasus/sites.v3/code.org/public'.freeze
+  src_dir = 'pegasus/sites.v3/letron.vip/public'.freeze
   dest_dir = 'i18n/locales/source/pegasus/public'.freeze
 
   # If we wanted to preprocess the markdown before it goes into crowdin (for

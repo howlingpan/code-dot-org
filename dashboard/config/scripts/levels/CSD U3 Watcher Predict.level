@@ -76,7 +76,7 @@
     "disable_if_else_editing": "false",
     "expand_debugger": "true",
     "watchers_prepopulated": "[\"pan.rotation\", \"pan.x\", \"pan.y\"]",
-    "start_animations": "{\r\n  \"orderedKeys\": [\r\n    \"001671d5-7f72-4645-8f6d-7cc948f7fe11\"\r\n  ],\r\n  \"propsByKey\": {\r\n    \"001671d5-7f72-4645-8f6d-7cc948f7fe11\": {\r\n      \"name\": \"pan\",\r\n      \"sourceUrl\": \"https://studio.code.org/api/v1/animation-library/R2MK5WwBxF.EZ9RymYu6G23tmFie5ZFg/category_generic_items/pan.png\",\r\n      \"frameSize\": {\r\n        \"x\": 95,\r\n        \"y\": 152\r\n      },\r\n      \"frameCount\": 1,\r\n      \"looping\": true,\r\n      \"frameDelay\": 2,\r\n      \"version\": \"R2MK5WwBxF.EZ9RymYu6G23tmFie5ZFg\"\r\n    }\r\n  }\r\n}"
+    "start_animations": "{\r\n  \"orderedKeys\": [\r\n    \"001671d5-7f72-4645-8f6d-7cc948f7fe11\"\r\n  ],\r\n  \"propsByKey\": {\r\n    \"001671d5-7f72-4645-8f6d-7cc948f7fe11\": {\r\n      \"name\": \"pan\",\r\n      \"sourceUrl\": \"https://studio.letron.vip/api/v1/animation-library/R2MK5WwBxF.EZ9RymYu6G23tmFie5ZFg/category_generic_items/pan.png\",\r\n      \"frameSize\": {\r\n        \"x\": 95,\r\n        \"y\": 152\r\n      },\r\n      \"frameCount\": 1,\r\n      \"looping\": true,\r\n      \"frameDelay\": 2,\r\n      \"version\": \"R2MK5WwBxF.EZ9RymYu6G23tmFie5ZFg\"\r\n    }\r\n  }\r\n}"
   },
   "published": true,
   "notes": "",

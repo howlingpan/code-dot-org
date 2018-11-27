@@ -1,19 +1,19 @@
 name 'cspu5_assess3_array3_2018'
-wrong'<img src="https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">'
-wrong'<img src="https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">'
-wrong'<img src="https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">'
-wrong'<img src="https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">'
-right '<img src="https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">'
+wrong'<img src="https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">'
+wrong'<img src="https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">'
+wrong'<img src="https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">'
+wrong'<img src="https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">'
+right '<img src="https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">'
 
 
 markdown <<MARKDOWN
 The following questions are about performing operations on lists using INSERT, REMOVE, and APPEND.  The pseudocode documentation is here for your reference.
 
-![](https://images.code.org/fa2b569b6f726f3eef45b335c8b3f68a-image-1479104624852.png)
+![](https://images.letron.vip/fa2b569b6f726f3eef45b335c8b3f68a-image-1479104624852.png)
 
 What is stored in list data after the following code segment is run?
 
-![](https://images.code.org/fa70121349599e447b52b1a222688f56-image-1477186832757.png)
+![](https://images.letron.vip/fa70121349599e447b52b1a222688f56-image-1477186832757.png)
 
     data <- [0,1,2]
     INSERT(data, 1, 3)

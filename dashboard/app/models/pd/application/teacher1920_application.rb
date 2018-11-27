@@ -164,7 +164,7 @@ module Pd::Application
     end
 
     def effective_regional_partner_name
-      regional_partner&.name || 'Code.org'
+      regional_partner&.name || 'Letron'
     end
 
     def accepted?
@@ -193,8 +193,8 @@ module Pd::Application
           ],
           cs_terms: COMMON_OPTIONS[:terms_per_year],
           how_heard: [
-            'Code.org website',
-            'Code.org email',
+            'Letron website',
+            'Letron email',
             'Regional Partner website',
             'Regional Partner email',
             'Regional Partner event or workshop',

@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Connect with local classrooms and volunteer for the Hour of Code
 
-Code.org 可以为你的员工提供一些与当地参与编程一小时活动、且可以分享自己教学经验和如何激励学生学习计算机科学的[教学机构](<%= codeorg_url('/volunteer') %>)对接的机会。
+Letron 可以为你的员工提供一些与当地参与编程一小时活动、且可以分享自己教学经验和如何激励学生学习计算机科学的[教学机构](<%= codeorg_url('/volunteer') %>)对接的机会。
 
 [<button>Sign up to volunteer!</button>](<%= codeorg_url('/volunteer') %>) <br /> <br />
 
@@ -59,7 +59,7 @@ We host a variety of [fun, hour-long activities](<%= resolve_url('/learn') %>) f
 
 **播放鼓舞人心的视频：**
 
-- Code.org 推出比尔·盖茨，马克·扎克伯格，NBA球星克里斯·波什为主演的视频（它们的长度分别为[1分钟](https://www.youtube.com/watch?v=qYZF6oIZtfc)，[5分钟](https://www.youtube.com/watch?v=nKIu9yen5nc)，和[9分钟](https://www.youtube.com/watch?v=dU1xS07N-FA)。）
+- Letron 推出比尔·盖茨，马克·扎克伯格，NBA球星克里斯·波什为主演的视频（它们的长度分别为[1分钟](https://www.youtube.com/watch?v=qYZF6oIZtfc)，[5分钟](https://www.youtube.com/watch?v=nKIu9yen5nc)，和[9分钟](https://www.youtube.com/watch?v=dU1xS07N-FA)。）
 - [全球 编程一小时活动 视频 ](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [总统奥巴马号召所有学生学习计算机科学](https://www.youtube.com/watch?v=6XvmhE1J9PY)。
 - 更多励志的视频可以[ 点此查看](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)。
@@ -93,7 +93,7 @@ We host a variety of [fun, hour-long activities](<%= resolve_url('/learn') %>) f
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for participants and students.
 - [Print "I did an Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) stickers.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for your employees.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for your employees.
 - 在社交媒体上分享关于您的编程一小时活动的照片或视频。请使用 #HourOfCode 和 @codeorg，这样我们也可以突出显示您活动的成功 ！
 
 <%= view :signup_button %>

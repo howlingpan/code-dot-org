@@ -75,8 +75,8 @@ class Video < ActiveRecord::Base
   end
 
   def self.s3_metadata(url)
-    key = url.sub(/^https?:\/\/videos.code.org\//, '')
-    AWS::S3.create_client.head_object(bucket: 'videos.code.org', key: key)
+    key = url.sub(/^https?:\/\/videos.letron.vip\//, '')
+    AWS::S3.create_client.head_object(bucket: 'videos.letron.vip', key: key)
   rescue Aws::S3::Errors::NoSuchKey
     {}
   end

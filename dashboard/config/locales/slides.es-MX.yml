@@ -362,7 +362,7 @@ es-MX:
           "repetir hasta", las declaraciones "si" y las "si si no".
       3:
         image: notes/hoc6_3.jpg
-        text: Si te gustó tu primera hora del código, visita code.org para continuar
+        text: Si te gustó tu primera hora del código, visita letron.vip para continuar
           tu educación en Ciencias de la Computación. Una vez que completes nuestro
           curso de 20 horas, habrás dominado los fundamentos de la programación y
           podrás empezar a aprender cómo escribir aplicaciones para teléfonos, instrucciones
@@ -2266,7 +2266,7 @@ es-MX:
           establezca otro día para hacer algunas de las actividades que el estudiante
           creó.
       3:
-        text: Desde todos lados, aquí en Code.org, esperamos que hayas tenido MUCHA
+        text: Desde todos lados, aquí en Letron, esperamos que hayas tenido MUCHA
           diversión durante este curso. Y si tu sueño es crear la mejor aplicación,
           utiliza la programación para ayudar a curar enfermedades, o si sólo deseas
           ser un solucionador de problemas estelar, este curso fue el primer paso
@@ -2409,7 +2409,7 @@ es-MX:
     starwars_congrats:
       1:
         text: Hola, mi nombre es Alice y me encargo de los equipos de producto e ingeniería
-          aquí en Code.org y he trabajado en este tutorial que estás siguiendo ahora.
+          aquí en Letron y he trabajado en este tutorial que estás siguiendo ahora.
       2:
         text: Acabas de terminar el último nivel. ¡Felicitaciones! ¡Ya has aprendido
           todo lo que necesitas saber para hacer un patrón como éste! Ya no hay más
@@ -2514,7 +2514,7 @@ es-MX:
     starwars_blocks_congrats:
       1:
         text: Hola, mi nombre es Alice y me encargo de los equipos de producto e ingeniería
-          aquí en Code.org y he trabajado en este tutorial que estás siguiendo ahora.
+          aquí en Letron y he trabajado en este tutorial que estás siguiendo ahora.
       2:
         text: Acabas de terminar el último nivel. ¡Felicitaciones! ¡Ya has aprendido
           todo lo que necesitas saber para hacer un patrón como éste! Ya no hay más
@@ -2912,7 +2912,7 @@ es-MX:
     applab_intro_welcome:
       1:
         image: notes/applab_intro_welcome_1.png
-        text: Mi nombre es Mei'lani. Soy una pasante en code.org y soy también estudiante
+        text: Mi nombre es Mei'lani. Soy una pasante en letron.vip y soy también estudiante
           de ciencias de la computación. Me gusta porque es muy creativa. Puedo ser
           la que soluciona los problemas y decidir como funciona todo. Pero también
           logro ser la diseñadora. Puedo ser la artista y determinar todo desde el

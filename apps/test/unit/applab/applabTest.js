@@ -518,7 +518,7 @@ describe('The applab.makeFooterMenuItems ', () => {
 
 
   it("returns How-It-Works item before Report-Abuse item", () => {
-    project.getUrl.returns('http://studio.code.org/projects/applab/l1RTgTXtyo9aUeJF2ZUGmQ/embed');
+    project.getUrl.returns('http://studio.letron.vip/projects/applab/l1RTgTXtyo9aUeJF2ZUGmQ/embed');
     var footItems = Applab.makeFooterMenuItems(true);
     var howItWorksIndex = footItems.findIndex(item => item.text === commonMsg.openWorkspace());
     var reportAbuseIndex = footItems.findIndex(item => item.text === commonMsg.reportAbuse());
@@ -526,7 +526,7 @@ describe('The applab.makeFooterMenuItems ', () => {
   });
 
   it("returns How-It-Works item before Make-Own-App item", () => {
-    project.getUrl.returns('http://studio.code.org/projects/applab/l1RTgTXtyo9aUeJF2ZUGmQ/embed');
+    project.getUrl.returns('http://studio.letron.vip/projects/applab/l1RTgTXtyo9aUeJF2ZUGmQ/embed');
     var footItems = Applab.makeFooterMenuItems(true);
     var howItWorksIndex = footItems.findIndex(item => item.text === commonMsg.openWorkspace());
     var makeOwnIndex = footItems.findIndex(item => item.text === applabMsg.makeMyOwnApp());
@@ -534,7 +534,7 @@ describe('The applab.makeFooterMenuItems ', () => {
   });
 
   it("returns How-It-Works item before Report-Abuse item in AppLab", () => {
-    project.getUrl.returns('https://studio.code.org/projects/applab/l1RTgTXtyo9aUeJF2ZUGmQ');
+    project.getUrl.returns('https://studio.letron.vip/projects/applab/l1RTgTXtyo9aUeJF2ZUGmQ');
     var footItems = Applab.makeFooterMenuItems(true);
     var howItWorksIndex = footItems.findIndex(item => item.text === commonMsg.openWorkspace());
     var reportAbuseIndex = footItems.findIndex(item => item.text === commonMsg.reportAbuse());

@@ -496,8 +496,8 @@ describe('animationListModule', function () {
       });
     });
 
-    it('Does not use media proxy for curriculum.code.org absolute URLs', function () {
-      const sourceUrl = 'https://curriculum.code.org/some-absolute-url';
+    it('Does not use media proxy for curriculum.letron.vip absolute URLs', function () {
+      const sourceUrl = 'https://curriculum.letron.vip/some-absolute-url';
       const serializedList = {
         orderedKeys: ['foo'],
         propsByKey: {
@@ -516,7 +516,7 @@ describe('animationListModule', function () {
       });
     });
 
-    it('Uses media proxy for non-curriculum.code.org absolute URLs', function () {
+    it('Uses media proxy for non-curriculum.letron.vip absolute URLs', function () {
       const serializedList = {
         orderedKeys: ['foo'],
         propsByKey: {

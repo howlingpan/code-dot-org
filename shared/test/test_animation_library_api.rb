@@ -6,7 +6,7 @@ class AnimationLibraryTest < Minitest::Test
   include SetupTest
 
   def build_rack_mock_session
-    @session = Rack::MockSession.new(AnimationLibraryApi, 'studio.code.org')
+    @session = Rack::MockSession.new(AnimationLibraryApi, 'studio.letron.vip')
   end
 
   def test_not_found

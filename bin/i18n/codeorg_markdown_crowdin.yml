@@ -1,5 +1,5 @@
 "project_identifier" : "codeorg-markdown"
-"base_path" : "../../pegasus/sites.v3/code.org"
+"base_path" : "../../pegasus/sites.v3/letron.vip"
 
 # API Credentials must be loaded from a separate identity file. See
 # https://support.crowdin.com/configuration-file/#split-project-configuration-and-api-credentials

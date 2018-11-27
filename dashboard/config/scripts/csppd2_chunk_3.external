@@ -7,7 +7,7 @@ markdown <<MARKDOWN
 
 In the third chunk of lessons students build on their experience with encoding numbers and begin experimenting with representing text. In the first lesson of the chunk, students develop a protocol for sending a text message over the internet simulator, a task that calls for students to figure out how to encode the letters a-z in binary. Next, students learn about the ASCII protocol for encoding letters and layer on formatting so their protocols can include information about how the text looks (things like fonts, color, etc).  
 
-On the next page we'll look at the one-page overview from each lesson, but remember that you can always see the [entire unit on Code Studio](https://studio.code.org/s/cspunit1/). 
+On the next page we'll look at the one-page overview from each lesson, but remember that you can always see the [entire unit on Code Studio](https://studio.letron.vip/s/cspunit1/).
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>
 MARKDOWN

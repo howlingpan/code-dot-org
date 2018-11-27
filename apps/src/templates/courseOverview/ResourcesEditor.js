@@ -17,7 +17,7 @@ const styles = {
 
 const defaultLinks = {
   '': '',
-  [ResourceType.teacherForum]: 'https://forum.code.org/',
+  [ResourceType.teacherForum]: 'https://forum.letron.vip/',
   [ResourceType.curriculum]: '/link/to/curriculum',
   [ResourceType.professionalLearning]: '/link/to/professional/learning',
   [ResourceType.lessonPlans]: '/link/to/lesson/plans',

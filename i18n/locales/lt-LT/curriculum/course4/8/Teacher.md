@@ -5,7 +5,7 @@ title: For Loop Fun view: page_curriculum theme: none
 * * *
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/course3/.  Don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/course3/.  Don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unplugged=>true, :disclaimer=>'Basic lesson time includes activity only. Introductory and Wrap-Up suggestions can be used to delve deeper when time allows.', :title=> 'For Loop Fun', :time=>25) %>

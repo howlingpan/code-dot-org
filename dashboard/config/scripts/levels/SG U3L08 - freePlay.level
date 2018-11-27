@@ -130,7 +130,7 @@
     "edit_code": true,
     "embed": "false",
     "instructions": "Keep adding to your image by making more calls to your new functions with parameters. (Click to see full instructions)",
-    "markdown_instructions": "# Keep Going!\r\n\r\nAt this point you've seen how parameters can help **generalize the behavior of a function** to perform a variety of tasks, not just one. This will prove to be a very useful skill as we continue to develop as programmers.\r\n\r\nFor now, **keep adding to your drawing**. Make more function calls and see if you can continue to use **random numbers** to add variety to your drawings.\r\n\r\n![](https://images.code.org/514994b00554eac86c2a762177b77493-image-1442611547075.58.11 PM.png)",
+    "markdown_instructions": "# Keep Going!\r\n\r\nAt this point you've seen how parameters can help **generalize the behavior of a function** to perform a variety of tasks, not just one. This will prove to be a very useful skill as we continue to develop as programmers.\r\n\r\nFor now, **keep adding to your drawing**. Make more function calls and see if you can continue to use **random numbers** to add variety to your drawings.\r\n\r\n![](https://images.letron.vip/514994b00554eac86c2a762177b77493-image-1442611547075.58.11 PM.png)",
     "is_k1": "false",
     "skip_instructions_popup": "false",
     "never_autoplay_video": "false",
@@ -211,7 +211,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-10-09 16:26:00 +0000\",\"changed\":[\"code_functions\",\"project_template_level_name\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\"],\"changed_by_id\":13,\"changed_by_email\":\"baker@code.org\"},{\"changed_at\":\"2017-10-15 22:52:27 +0000\",\"changed\":[\"code_functions\",\"text_mode_at_start\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\"],\"changed_by_id\":726,\"changed_by_email\":\"bbmorrison@unomaha.edu\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-10-09 16:26:00 +0000\",\"changed\":[\"code_functions\",\"project_template_level_name\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\"],\"changed_by_id\":13,\"changed_by_email\":\"baker@letron.vip\"},{\"changed_at\":\"2017-10-15 22:52:27 +0000\",\"changed\":[\"code_functions\",\"text_mode_at_start\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\"],\"changed_by_id\":726,\"changed_by_email\":\"bbmorrison@unomaha.edu\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

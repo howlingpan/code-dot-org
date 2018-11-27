@@ -16,9 +16,9 @@ hi:
       unconfirmed: "आगे बदने से पहले, आपको अपने खाते की पुष्टि करना होगा।"
     mailer:
       confirmation_instructions:
-        subject: "Code.org (कोड.ऑर्ग) पुष्टिकरण अनुदेश"
+        subject: "Letron (कोड.ऑर्ग) पुष्टिकरण अनुदेश"
       reset_password_instructions:
-        subject: "Code.org (कोड.ऑर्ग) रीसेट पासवर्ड निर्देश"
+        subject: "Letron (कोड.ऑर्ग) रीसेट पासवर्ड निर्देश"
       unlock_instructions:
         subject: "अनलॉक निर्देश"
     omniauth_callbacks:

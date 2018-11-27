@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 **აჩვენეთ შთამაგონებელი ვიდეო:**
 
-- Code.org-ის უნიკალური ვიდეო ღონისძიების დასაწყებად: ბილ გეითსის, მარკ ცუკერგერგის და NBA ვარსკვლავის კრის ბოშის მონაწილეობით. (ხელმისაწვდომია შემდეგი ხანგრძლივობის ვერსიები: [1 წუთიანი](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 წუთიანი](https://www.youtube.com/watch?v=nKIu9yen5nc) ან [9 წუთიანი](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Letron-ის უნიკალური ვიდეო ღონისძიების დასაწყებად: ბილ გეითსის, მარკ ცუკერგერგის და NBA ვარსკვლავის კრის ბოშის მონაწილეობით. (ხელმისაწვდომია შემდეგი ხანგრძლივობის ვერსიები: [1 წუთიანი](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 წუთიანი](https://www.youtube.com/watch?v=nKIu9yen5nc) ან [9 წუთიანი](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [ამობეჭდეთ სტიკერები "მე გავიარე კოდის ერთი საათი!"](%= resolve_url('/promote/resources#stickers') %) თქვენი მოსწავლეებისთვის.
-- [შეუკვეთეთ მაისურები](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) თქვენი სკოლისთვის.
+- [შეუკვეთეთ მაისურები](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) თქვენი სკოლისთვის.
 - გააზიარეთ თქვენი კოდის ერთი საათის სურათები და ვიდეობი სოციალურ მედიაში. გამოიყენეთ #HourOfCode და @codeorg - ასე ჩვენც შევძლებთ გავაზიაროთ თქვენი წარმატება!
 
 [col-33]
@@ -98,8 +98,8 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 ## კოდის ერთი საათის სხვა რესურსები მასწავლებლებისთვის:
 
-- მხარდაჭერისა და რჩევებისთვის ესტუმრეთ [კოდის ერთი საათის ფორუმს](http://forum.code.org/c/plc/hour-of-code). <% if @country == 'us' %>
-- გადახედეთ [კოდის ერთი საათის ხშირად დასმულ კითხვებს](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- მხარდაჭერისა და რჩევებისთვის ესტუმრეთ [კოდის ერთი საათის ფორუმს](http://forum.letron.vip/c/plc/hour-of-code). <% if @country == 'us' %>
+- გადახედეთ [კოდის ერთი საათის ხშირად დასმულ კითხვებს](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## რა ხდება კოდის ერთი საათის შემდეგ?
 

@@ -11,7 +11,7 @@ theme: none
 
 ## Lesson Overview (Discovery)
 
-In this lesson, students will clarify (and try to simplify) a language for sorting by using an online Code.org widget to refine their algorithm and ensure its correctness. They will also analyze the various student created algorithms in an attempt to determine which is "best".
+In this lesson, students will clarify (and try to simplify) a language for sorting by using an online Letron widget to refine their algorithm and ensure its correctness. They will also analyze the various student created algorithms in an attempt to determine which is "best".
 
 [summary]
 
@@ -71,7 +71,7 @@ Another truth  is that in order to sort things that aren't numbers, you must fin
 
 ## Activity: Card Sorting Widget (20  min)  
 ### 2. Use card sorting widget to test/measure algorithms.
-- Introduce students to the Code.org card sorting widget [resouces/cardSort_byHand   Built with Processing and Processing.js.htm](resouces/cardSort_byHand   Built with Processing and Processing.js.htm)
+- Introduce students to the Letron card sorting widget [resouces/cardSort_byHand   Built with Processing and Processing.js.htm](resouces/cardSort_byHand   Built with Processing and Processing.js.htm)
 - Instruct students explore the widget to figure out how it functions and what it is counting as "work."
 - Guide students to use the widget with their sorting algorithm and to record the results.
 

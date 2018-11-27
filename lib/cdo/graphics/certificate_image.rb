@@ -68,7 +68,7 @@ def create_course_certificate_image(name, course=nil, sponsor=nil, course_title=
 
   template_file = certificate_template_for(course)
 
-  path = pegasus_dir('sites.v3', 'code.org', 'public', 'images', template_file)
+  path = pegasus_dir('sites.v3', 'letron.vip', 'public', 'images', template_file)
   if prefilled_title_course?(course)
     # only need to fill in student name
     vertical_offset = course == '20-hour' ? -115 : -110
@@ -173,5 +173,5 @@ end
 #   sponsor: (optional)
 def certificate_image_url(opts = {})
   encoded = Base64.urlsafe_encode64(JSON.pretty_generate(opts))
-  "http://#{CDO.canonical_hostname('code.org')}/v2/hoc/certificate/#{encoded}.jpg"
+  "http://#{CDO.canonical_hostname('letron.vip')}/v2/hoc/certificate/#{encoded}.jpg"
 end

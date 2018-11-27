@@ -15,7 +15,7 @@
     "instructions": "Try setting a **random** scene when other events happen...for example, when passing an obstacle.",
     "embed": "false",
     "markdown_instructions": "You can set the background under any event, not just when the game starts. \r\n\r\nTry setting a **random** scene when other events happen...for example, when passing an obstacle.",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Try connecting a second `set scene` block under the `when pass obstacle` event to pass this level.\",\"hint_id\":\"courseC_flappy_events8_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/02095f986e9c5c534bdc7407e36fa923/courseC_flappy_events8.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Try connecting a second `set scene` block under the `when pass obstacle` event to pass this level.\",\"hint_id\":\"courseC_flappy_events8_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/02095f986e9c5c534bdc7407e36fa923/courseC_flappy_events8.mp3\"}]",
     "instructions_important": "false",
     "is_k1": "false",
     "skip_instructions_popup": "false",
@@ -46,7 +46,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-07-27 20:20:04 +0000\",\"changed\":[\"notes\",\"start_blocks\",\"toolbox_blocks\",\"required_blocks\",\"obstacles\",\"ground\",\"score\",\"success_condition\",\"instructions\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-07-27 20:21:23 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-07-27 20:21:30 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-07-27 23:05:37 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"required_blocks\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-07-27 20:20:04 +0000\",\"changed\":[\"notes\",\"start_blocks\",\"toolbox_blocks\",\"required_blocks\",\"obstacles\",\"ground\",\"score\",\"success_condition\",\"instructions\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-07-27 20:21:23 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-07-27 20:21:30 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-07-27 23:05:37 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"required_blocks\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 1,
     "events": 1

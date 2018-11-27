@@ -41,7 +41,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 **प्रेरणादायी व्हिडीओ दाखवावा:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - ["I did an Hour of Code!"](%= resolve_url('/promote/resources#stickers') %) असे स्टीकर्स विद्यार्थ्यांकरिता छापणे.
-- तुमच्या शाळेकरिता [विशेष (सानुकूल) बनवलेले टी शर्ट](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) मागवणे.
+- तुमच्या शाळेकरिता [विशेष (सानुकूल) बनवलेले टी शर्ट](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) मागवणे.
 - या घटनेची छायाचित्रे आणि व्हिडीओ सोशल मेडिया (समाज माध्यमे) वर उपलब्ध करावी. #HourOfCode आणि @codeorg हे वापरून तसे केल्यास तुमचे यशसुद्धा उठून दिसेल!
 
 [col-33]
@@ -98,8 +98,8 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 ## शिक्षकांकरिता अवरऑफ कोड संदर्भात इतर संसाधने:
 
-- सल्ला घेण्यासाठी, इतर शिक्षकांकडून जास्त आकलन, मदत घेण्यासाठी [अवर ऑफ कोड कट्ट्याला](http://forum.code.org/c/plc/hour-of-code) भेट द्या. <% if @country == 'us' %>
-- [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) तपासा. <% end %>
+- सल्ला घेण्यासाठी, इतर शिक्षकांकडून जास्त आकलन, मदत घेण्यासाठी [अवर ऑफ कोड कट्ट्याला](http://forum.letron.vip/c/plc/hour-of-code) भेट द्या. <% if @country == 'us' %>
+- [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) तपासा. <% end %>
 
 ## अवर ऑफ कोड नंतर पुढे काय?
 

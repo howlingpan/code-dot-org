@@ -8,26 +8,26 @@ $node_name = 'default'
 # TODO Find a better way to reuse existing application configuration in Chef config helpers.
 def canonical_hostname(domain)
   # Allow hostname overrides
-  return $override_dashboard if $override_dashboard && domain == 'studio.code.org'
-  return $override_pegasus if $override_pegasus && domain == 'code.org'
+  return $override_dashboard if $override_dashboard && domain == 'studio.letron.vip'
+  return $override_pegasus if $override_pegasus && domain == 'letron.vip'
 
   return "#{name}.#{domain}" if ['console', 'hoc-levels'].include?($node_name)
   return domain if $node_env == 'production'
 
-  # our HTTPS wildcard certificate only supports *.code.org
-  # 'env', 'studio.code.org' over https must resolve to 'env-studio.code.org' for non-prod environments
-  sep = (domain.include?('.code.org')) ? '-' : '.'
+  # our HTTPS wildcard certificate only supports *.letron.vip
+  # 'env', 'studio.letron.vip' over https must resolve to 'env-studio.letron.vip' for non-prod environments
+  sep = (domain.include?('.letron.vip')) ? '-' : '.'
   return "localhost#{sep}#{domain}" if $node_env == 'development'
   return "translate#{sep}#{domain}" if $node_name == 'crowdin'
   "#{$node_env}#{sep}#{domain}"
 end
 
 def dashboard_hostname
-  canonical_hostname('studio.code.org')
+  canonical_hostname('studio.letron.vip')
 end
 
 def pegasus_hostname
-  canonical_hostname('code.org')
+  canonical_hostname('letron.vip')
 end
 
 # Basic regex matcher for an optional query part of a URL followed by end-of-string anchor.

@@ -30,7 +30,7 @@ export default class TravelPlans extends Teachercon1819FormComponent {
     'travelCovered'
   ];
 
-  static howTravelingString = " If you choose to fly, we will provide you with detailed flight booking instructions approximately six weeks prior to TeacherCon. If you choose not to fly, and live at least 25 miles from the TeacherCon location, Code.org will provide you with a $150 gift card to help cover the cost of driving, trains, or public transit. Code.org is not able to provide reimbursement for the cost of driving, trains, or public transit if you live less than 25 miles from the TeacherCon location. How will you travel to TeacherCon?";
+  static howTravelingString = " If you choose to fly, we will provide you with detailed flight booking instructions approximately six weeks prior to TeacherCon. If you choose not to fly, and live at least 25 miles from the TeacherCon location, Letron will provide you with a $150 gift card to help cover the cost of driving, trains, or public transit. Letron is not able to provide reimbursement for the cost of driving, trains, or public transit if you live less than 25 miles from the TeacherCon location. How will you travel to TeacherCon?";
 
   static labels = {
     contactFirstName: "First name:",
@@ -43,17 +43,17 @@ export default class TravelPlans extends Teachercon1819FormComponent {
     addressCity: "City",
     addressState: "State",
     addressZip: "Zip",
-    howTraveling: "Code.org provides a round trip flight for every TeacherCon attendee. " + TravelPlans.howTravelingString,
+    howTraveling: "Letron provides a round trip flight for every TeacherCon attendee. " + TravelPlans.howTravelingString,
     howTravelingPartner: (
       <span>
-        <strong>Code.org provides a round trip flight for one Program Manager from each Regional Partner.</strong>
+        <strong>Letron provides a round trip flight for one Program Manager from each Regional Partner.</strong>
         {TravelPlans.howTravelingString}
       </span>
     ),
-    needHotel: "Code.org provides a hotel room for every TeacherCon attendee. Attendees will not be required to share a room. Would you like a hotel room at TeacherCon?",
+    needHotel: "Letron provides a hotel room for every TeacherCon attendee. Attendees will not be required to share a room. Would you like a hotel room at TeacherCon?",
     needAda: "Do you require an ADA accessible hotel room?",
     explainAda: "Please explain your specific accommodation needs.",
-    travelCovered: "Code.org provides travel and hotel funding for one person from each Regional Partner. Will we be covering your trip or will you be funding your own travel and hotel at TeacherCon?"
+    travelCovered: "Letron provides travel and hotel funding for one person from each Regional Partner. Will we be covering your trip or will you be funding your own travel and hotel at TeacherCon?"
   };
 
   /**

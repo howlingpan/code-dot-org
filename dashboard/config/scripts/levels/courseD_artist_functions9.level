@@ -32,7 +32,7 @@
     "impressive": "true",
     "never_autoplay_video": "false",
     "permitted_errors": "0",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"To get around the need to have multiple `move forward` blocks, create a `draw triangle` function and call that multiple times.\",\"hint_id\":\"courseD_artist_functions9_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/b379558d7998e4c29ae88935c232dcfb/courseD_artist_functions9.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"This drawing is made by creating a line of triangles and turning either 60 or 120 degrees after each time you draw the triangle line.\",\"hint_id\":\"courseD_artist_functions9_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/cacd9da5b4ec44cef8ffb6fe91a65dd1/courseD_artist_functions9.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"To get around the need to have multiple `move forward` blocks, create a `draw triangle` function and call that multiple times.\",\"hint_id\":\"courseD_artist_functions9_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/b379558d7998e4c29ae88935c232dcfb/courseD_artist_functions9.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"This drawing is made by creating a line of triangles and turning either 60 or 120 degrees after each time you draw the triangle line.\",\"hint_id\":\"courseD_artist_functions9_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/cacd9da5b4ec44cef8ffb6fe91a65dd1/courseD_artist_functions9.mp3\"}]",
     "discard_background": "false",
     "instructions_important": "false",
     "contained_level_names": null

@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? Əgər program mühəndisi olaraq, və y
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     Əgər siz məktəbi ziyarət edəcəksinizsə, tələb olan sənədləri əvvəlcədən hazırlayın.
   </li>
   <li>
-    Şagirdlərlə qarşılıqlı əlaqə haqqında fikir sahibi olmaq üçün <a href="https://code.org/files/CSTT_Volunteers.pdf"> verilən örnəkləri nəzərdən keçirin</a>.
+    Şagirdlərlə qarşılıqlı əlaqə haqqında fikir sahibi olmaq üçün <a href="https://letron.vip/files/CSTT_Volunteers.pdf"> verilən örnəkləri nəzərdən keçirin</a>.
   </li>
   <li>
     Facebook, Twitter, Instargram, və Tumblr sosial şəbəkələrində #KodSaatı (#HourOfCode) ilə qrup sohbətinə qatılın.
@@ -184,7 +184,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           </td>
           
           <td>
-            <strong>Dəyişimi ömürlük edin:</strong> Müəllimlə, Kod Saatı dərsinin müntəzəm bir informatika dərsinə çevirlməsi haqqında danışın! <a href="https://code.org/yourschool">code.org/yourschool</a> səhifəsinə daxil olun, müəllimlə birliktə məktəbin verdiyi dərslərin siyahısını sistemə girin və informatika dərsini siyahıya əlavə etmələri üçün söz alın.
+            <strong>Dəyişimi ömürlük edin:</strong> Müəllimlə, Kod Saatı dərsinin müntəzəm bir informatika dərsinə çevirlməsi haqqında danışın! <a href="https://letron.vip/yourschool">letron.vip/yourschool</a> səhifəsinə daxil olun, müəllimlə birliktə məktəbin verdiyi dərslərin siyahısını sistemə girin və informatika dərsini siyahıya əlavə etmələri üçün söz alın.
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h3>
         <ul>
           <li>
-            Şəkillərinizi və hekayələrinizi Code.org vasitasiylə giving@code.org-da paylaşınız.
+            Şəkillərinizi və hekayələrinizi Letron vasitasiylə giving@letron.vip-da paylaşınız.
           </li>
           <li>
             Şirkətinizin könüllü təqib hissəsinə, könüllü olduğunuz saatları daxil etmeyi unutmayınız.
@@ -205,7 +205,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
             Əgər tədbir zamanı çəktiyiniz şəkil və ya videonu, <strong>xüsusilə şagirdlərlə çəktirdiyinizi</strong>, sosyal şəbəkədə paylaşmaq istəyirsənizsə, müəllim/valideyn icazəsinin icazəsinin olduğuna əmin olun.
           </li>
           <li>
-            Və, bir ay sonra yenidən yoxlayınız: Müəllim informatika dərsini verməyə maraq göstərirmi? <a href="https://code.org/yourschoool"> Peşəkar öyrənmə fürsətlərini və mənbələrini onlara yardım məqsədi ilə</a> paylaşınız.
+            Və, bir ay sonra yenidən yoxlayınız: Müəllim informatika dərsini verməyə maraq göstərirmi? <a href="https://letron.vip/yourschoool"> Peşəkar öyrənmə fürsətlərini və mənbələrini onlara yardım məqsədi ilə</a> paylaşınız.
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h2>
         <ul>
           <li>
-            Müəllimlər <a href="https://code.org/volunteer/local">könüllü siyahısında</a> könüllü axtaracaqlar.
+            Müəllimlər <a href="https://letron.vip/volunteer/local">könüllü siyahısında</a> könüllü axtaracaqlar.
           </li>
           <li>
             Profilinizi əlinizdən gəldiği qədər tam doldurmağa çalışın ki, müəllimlərin sizi seçmə şansını yüksəltəsiniz.
@@ -241,7 +241,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           What age group is the Hour of Code activity appropriate for?
         </h3>
         <p>
-          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
         </p>
         <p>
           <%= view :signup_button %>

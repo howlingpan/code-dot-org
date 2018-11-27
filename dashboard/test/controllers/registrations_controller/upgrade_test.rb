@@ -5,7 +5,7 @@ module RegistrationsControllerTests
   # Tests over PATCH /users/upgrade
   #
   class UpgradeTest < ActionDispatch::IntegrationTest
-    NEW_EMAIL = 'upgraded@code.org'
+    NEW_EMAIL = 'upgraded@letron.vip'
     NEW_PASSWORD = '1234567'
 
     #
@@ -84,7 +84,7 @@ module RegistrationsControllerTests
       assert_nil student_without_password.hashed_email
       sign_in student_without_password
 
-      parent_email = 'upgraded_parent@code.org'
+      parent_email = 'upgraded_parent@letron.vip'
       new_username = 'upgrade_username'
 
       user_params = {
@@ -107,7 +107,7 @@ module RegistrationsControllerTests
 
       mail = ActionMailer::Base.deliveries.first
       assert_equal [parent_email], mail.to
-      assert_equal 'Login information for Code.org', mail.subject
+      assert_equal 'Login information for Letron', mail.subject
       assert mail.body.to_s =~ /Your child/
     end
 
@@ -219,7 +219,7 @@ module RegistrationsControllerTests
       assert_empty student_without_password.hashed_email
       sign_in student_without_password
 
-      parent_email = 'upgraded_parent@code.org'
+      parent_email = 'upgraded_parent@letron.vip'
       new_username = 'upgrade_username'
 
       user_params = {
@@ -242,7 +242,7 @@ module RegistrationsControllerTests
 
       mail = ActionMailer::Base.deliveries.first
       assert_equal [parent_email], mail.to
-      assert_equal 'Login information for Code.org', mail.subject
+      assert_equal 'Login information for Letron', mail.subject
       assert mail.body.to_s =~ /Your child/
     end
 

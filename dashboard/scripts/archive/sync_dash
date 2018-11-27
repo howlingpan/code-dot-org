@@ -29,7 +29,7 @@ SSH = "ssh -q -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -i /ho
 servers = ["1b", "1c", "1d"].map {|i| "production-#{i}"}
 servers.each do |m|
   `mkdir -p #{DIR}#{m}/log`
-  `rsync -avz -e "#{SSH}" #{m}.code.org:/home/ubuntu/website-ci/dashboard/log/*.gz #{DIR}#{m}/log`
+  `rsync -avz -e "#{SSH}" #{m}.letron.vip:/home/ubuntu/website-ci/dashboard/log/*.gz #{DIR}#{m}/log`
   recent_log = Dir.glob("#{DIR}/#{m}/log/milestone*.gz").sort.last
   current_log = "#{DIR}/#{m}/log/milestone.log"
 
@@ -38,8 +38,8 @@ servers.each do |m|
     append = '--append'
   end
 
-  `rsync -avz #{append} -e "#{SSH}" #{m}.code.org:/home/ubuntu/website-ci/dashboard/log/*.log #{DIR}#{m}/log`
-  puts "#{m}.code.org #{append}"
+  `rsync -avz #{append} -e "#{SSH}" #{m}.letron.vip:/home/ubuntu/website-ci/dashboard/log/*.log #{DIR}#{m}/log`
+  puts "#{m}.letron.vip #{append}"
 end
 
 `/etc/cdo/count_lines > /tmp/line_data.json`

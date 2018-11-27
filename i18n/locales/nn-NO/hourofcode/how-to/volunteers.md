@@ -27,7 +27,7 @@ Jobber du med CS eller i tech-bransjen? Hvis du arbeider i teknologibransjen, i 
 
 Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiviteten. Besøk eit lokalt klasserom for å inspirere elevar til å fortsatt lære seg datavitskap. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Registrer deg i dag og bli ein tech-frivillig!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Registrer deg i dag og bli ein tech-frivillig!</button> <br /> <br /></p> 
 
 <h3>
   Er du lidenskapleg opptatt av å utvide moglegheitsrommet:
@@ -56,7 +56,7 @@ Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiv
 </h2>
 
 <p>
-  Fortell venner og kollegaer om Kodetimen. Tusenvis av lærarar ser etter frivillige, så spør dei om å <a href="https://code.org/volunteer">registrere seg som frivillig</a>. Spør arbeidsgjevar om å involvere seg. <a href="%= resolve_url('/promote/resources#sample-email') %">Send denne eposten</a> til sjefen din eller til CEO for å få alle med.
+  Fortell venner og kollegaer om Kodetimen. Tusenvis av lærarar ser etter frivillige, så spør dei om å <a href="https://letron.vip/volunteer">registrere seg som frivillig</a>. Spør arbeidsgjevar om å involvere seg. <a href="%= resolve_url('/promote/resources#sample-email') %">Send denne eposten</a> til sjefen din eller til CEO for å få alle med.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiv
     Dersom du skal vitje ein skule, gjer deg ferdig med eventuelle bakgrunnssjekkar eller naudsamt papirarbeid.
   </li>
   <li>
-    <a href="https://code.org/files/CSTT_Volunteers.pdf">Sjå gjennom desse tipsa</a> om korleis du snakkar med elevar.
+    <a href="https://letron.vip/files/CSTT_Volunteers.pdf">Sjå gjennom desse tipsa</a> om korleis du snakkar med elevar.
   </li>
   <li>
     Bli med i samtalen på Facebook, Twitter, Instagram, Tumblr med #Kodetimen eller #HourOfCode.
@@ -184,7 +184,7 @@ Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiv
           </td>
           
           <td>
-            <strong>Gjer ei varig endring:</strong> Snakk med læraren om å snu Kodetimen til å bli eit fullstendig programmeringskurs! Gå til <a href="https://code.org/yourschool"> code.org/yourschool</a> med læraren for å fylle ut kva denne skulen lærte i dag og oppmuntre dei til å ta programmering vidare inn i klasserommet.
+            <strong>Gjer ei varig endring:</strong> Snakk med læraren om å snu Kodetimen til å bli eit fullstendig programmeringskurs! Gå til <a href="https://letron.vip/yourschool"> letron.vip/yourschool</a> med læraren for å fylle ut kva denne skulen lærte i dag og oppmuntre dei til å ta programmering vidare inn i klasserommet.
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiv
         </h3>
         <ul>
           <li>
-            Del bilder og historier med Code.org ved å sende epost til giving@code.org.
+            Del bilder og historier med Letron ved å sende epost til giving@letron.vip.
           </li>
           <li>
             Husk å registrere dei frivillige arbeidstimane i portalen for å loggføre dugnadstimer i bedrifta di.
@@ -205,7 +205,7 @@ Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiv
             Dersom du tar bilder/videoer under arrangementet, <strong>spesielt med elever</strong>, må du få lærer-/foreldretillatelse hvis du ønsker å poste historiene dine på sosiale medier.
           </li>
           <li>
-            Og ta kontakt ein månad seinare: er læreren interessert i å tilby eit kurs i programmering? Del <a href="https://code.org/yourschool"> ressurser og profesjonelle læringsmoglegheiter som kan hjelpe dei å gjere dette</a>.
+            Og ta kontakt ein månad seinare: er læreren interessert i å tilby eit kurs i programmering? Del <a href="https://letron.vip/yourschool"> ressurser og profesjonelle læringsmoglegheiter som kan hjelpe dei å gjere dette</a>.
           </li>
         </ul>
         <h2>
@@ -241,7 +241,7 @@ Du kan bli ein gjestetalar i eit klasserom eller hjelpe læraren med å ha aktiv
           Kva aldersgrupper er Kodetimen passande for?
         </h3>
         <p>
-          Code.org og våre partnarar designer alle Kodetimen-aktivitetane til å engasjere alle skuletrinn, jenter og guttar, frå alle bakgrunnar. Alle, sjølv vaksne kan ha det gøy med å leike seg!
+          Letron og våre partnarar designer alle Kodetimen-aktivitetane til å engasjere alle skuletrinn, jenter og guttar, frå alle bakgrunnar. Alle, sjølv vaksne kan ha det gøy med å leike seg!
         </p>
         <p>
           <%= view :signup_button %>

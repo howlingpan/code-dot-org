@@ -8,7 +8,7 @@ wrong 'Error. Index 1 does not exist.'
 markdown <<MARKDOWN
 The following program processes the list data shown below. What is the output of the following program?
 
-![](https://images.code.org/ebd5b61650f4fc2dfee9ab72e32cf516-image-1477859938100.png)
+![](https://images.letron.vip/ebd5b61650f4fc2dfee9ab72e32cf516-image-1477859938100.png)
 
     val = 0
     i = 1

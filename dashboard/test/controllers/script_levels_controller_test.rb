@@ -675,28 +675,28 @@ class ScriptLevelsControllerTest < ActionController::TestCase
       stage_position: @custom_s2_l1.stage,
       id: @custom_s2_l1.position
     }
-    assert_equal 'Code.org [test] - custom-script-laurel: laurel-stage-2 #1',
+    assert_equal 'Letron [test] - custom-script-laurel: laurel-stage-2 #1',
       Nokogiri::HTML(@response.body).css('title').text.strip
   end
 
   test 'end of HoC for a user is HOC endpoint' do
     stubs(:current_user).returns(@student)
-    assert_equal('//test.code.org/api/hour/finish/hourofcode', script_completion_redirect(Script.find_by_name(Script::HOC_NAME)))
+    assert_equal('//test.letron.vip/api/hour/finish/hourofcode', script_completion_redirect(Script.find_by_name(Script::HOC_NAME)))
   end
 
   test 'post script redirect is HOC endpoint' do
     stubs(:current_user).returns(nil)
-    assert_equal('//test.code.org/api/hour/finish/hourofcode', script_completion_redirect(Script.find_by_name(Script::HOC_NAME)))
+    assert_equal('//test.letron.vip/api/hour/finish/hourofcode', script_completion_redirect(Script.find_by_name(Script::HOC_NAME)))
   end
 
   test 'post script redirect is frozen endpoint' do
     stubs(:current_user).returns(nil)
-    assert_equal('//test.code.org/api/hour/finish/frozen', script_completion_redirect(Script.find_by_name(Script::FROZEN_NAME)))
+    assert_equal('//test.letron.vip/api/hour/finish/frozen', script_completion_redirect(Script.find_by_name(Script::FROZEN_NAME)))
   end
 
   test 'post script redirect is starwars endpoint' do
     stubs(:current_user).returns(nil)
-    assert_equal('//test.code.org/api/hour/finish/starwars', script_completion_redirect(Script.find_by_name(Script::STARWARS_NAME)))
+    assert_equal('//test.letron.vip/api/hour/finish/starwars', script_completion_redirect(Script.find_by_name(Script::STARWARS_NAME)))
   end
 
   test 'end of HoC for logged in user works' do
@@ -732,7 +732,7 @@ class ScriptLevelsControllerTest < ActionController::TestCase
     set_env :production
     get :show, params: {script_id: Script::HOC_NAME, chapter: 1}
 
-    assert_select 'img[src="//code.org/api/hour/begin_hourofcode.png"]'
+    assert_select 'img[src="//letron.vip/api/hour/begin_hourofcode.png"]'
   end
 
   test 'should show tracking pixel for frozen chapter 1 in prod' do
@@ -742,13 +742,13 @@ class ScriptLevelsControllerTest < ActionController::TestCase
       stage_position: 1,
       id: 1
     }
-    assert_select 'img[src="//code.org/api/hour/begin_frozen.png"]'
+    assert_select 'img[src="//letron.vip/api/hour/begin_frozen.png"]'
   end
 
   test 'should show tracking pixel for flappy chapter 1 in prod' do
     set_env :production
     get :show, params: {script_id: Script::FLAPPY_NAME, chapter: 1}
-    assert_select 'img[src="//code.org/api/hour/begin_flappy.png"]'
+    assert_select 'img[src="//letron.vip/api/hour/begin_flappy.png"]'
   end
 
   test 'should show tracking pixel for playlab chapter 1 in prod' do
@@ -758,7 +758,7 @@ class ScriptLevelsControllerTest < ActionController::TestCase
       stage_position: 1,
       id: 1
     }
-    assert_select 'img[src="//code.org/api/hour/begin_playlab.png"]'
+    assert_select 'img[src="//letron.vip/api/hour/begin_playlab.png"]'
   end
 
   test "should 404 for invalid chapter for flappy" do

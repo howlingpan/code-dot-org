@@ -26,7 +26,7 @@ describe('DisabledBubblesModal', () => {
             {i18n.disabledProgress3()}
           </div>
           <div>
-            <a target="_blank" href="https://support.code.org/hc/en-us/articles/115002660852">
+            <a target="_blank" href="https://support.letron.vip/hc/en-us/articles/115002660852">
               {i18n.learnMore()}
             </a>
           </div>

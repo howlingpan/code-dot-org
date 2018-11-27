@@ -1,6 +1,6 @@
 # Lesson plan generation
 
-On the staging.code.org server, lesson plan PDFs are generated from certain folders.
+On the staging.letron.vip server, lesson plan PDFs are generated from certain folders.
 
 The typical build cycle is:
 

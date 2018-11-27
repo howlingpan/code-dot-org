@@ -35,7 +35,7 @@
     "video_key": "C4_function_parameters",
     "discard_background": "false",
     "instructions_important": "false",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"You need to click the \\\"edit\\\" button to get into the function.  Once you're there, add a parameter called `length` and use it inside your `move forward` block!\",\"hint_id\":\"courseF_artist_fwp2_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/b7defcaec660038f173a08dcd10da1a7/courseF_artist_fwp2.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"When calling your function, use a `for loop` for the best possible code!\",\"hint_id\":\"courseF_artist_fwp2_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/062ac7c51ade064cc84b325a0e4b17db/courseF_artist_fwp2.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"You need to click the \\\"edit\\\" button to get into the function.  Once you're there, add a parameter called `length` and use it inside your `move forward` block!\",\"hint_id\":\"courseF_artist_fwp2_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/b7defcaec660038f173a08dcd10da1a7/courseF_artist_fwp2.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"When calling your function, use a `for loop` for the best possible code!\",\"hint_id\":\"courseF_artist_fwp2_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/062ac7c51ade064cc84b325a0e4b17db/courseF_artist_fwp2.mp3\"}]",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
     "disable_procedure_autopopulate": "false",
@@ -44,7 +44,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-19 17:54:40 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-10-13 17:18:57 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"ideal\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-10-13 17:20:46 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-10-13 17:21:06 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]"
+  "audit_log": "[{\"changed_at\":\"2017-06-19 17:54:40 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-10-13 17:18:57 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"ideal\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-10-13 17:20:46 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-10-13 17:21:06 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]"
 }]]></config>
   <blocks>
     <start_blocks>

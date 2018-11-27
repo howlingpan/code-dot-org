@@ -30,7 +30,7 @@ ms:
   add_hint_form:
     placeholder: 'Sila masukkan petunjuk anda di sini'
     submit: 'Tambah petunjuk'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "peringkat"
   stage_number: "Peringkat %{number}"
   puzzle: "Teka-teki"
@@ -52,7 +52,7 @@ ms:
   auth:
     sign_in_with: 'Daftar Masuk dengan % {pembekal}'
     signed_in: 'Daftar masuk!'
-    signed_out: 'Anda telah mendaftar keluar daripada <a href="%{url}">Code.org</a>.'
+    signed_out: 'Anda telah mendaftar keluar daripada <a href="%{url}">Letron</a>.'
     sign_out_of: 'Anda telah mengunakkan %{provider} untuk mendaftar masuk. <a href="%{url}">Klik di sini</a> untuk mendaftar keluar daripada %{provider}.'
     already_signedup: 'Sudah mendaftar?'
     notyet_signedup: "Belum menyertai lagi?"
@@ -114,9 +114,9 @@ ms:
       confirm_password: 'Sahkan kata laluan baru'
       submit: 'Tukar kata laluan'
   welcome_email:
-    subject: 'Sertai kelas saya (di Code.org)'
+    subject: 'Sertai kelas saya (di Letron)'
     body: |
-      Klik pautan di bawah untuk mendaftar bagi tutorial Sains Komputer di Code.org (dengan saya sebagai "guru"): % {link} tutorial ini adalah menyeronokkan, penglibatan visual, dan mengajar konsep asas sains komputer melalui pendekatan mudah, berpandu, seperti-permainan. Belajar kod dari Bill Gates, Mark Zuckerberg, Angry Birds, dan Plants vs Zombie! :-) % {nama}
+      Klik pautan di bawah untuk mendaftar bagi tutorial Sains Komputer di Letron (dengan saya sebagai "guru"): % {link} tutorial ini adalah menyeronokkan, penglibatan visual, dan mengajar konsep asas sains komputer melalui pendekatan mudah, berpandu, seperti-permainan. Belajar kod dari Bill Gates, Mark Zuckerberg, Angry Birds, dan Plants vs Zombie! :-) % {nama}
   section:
     type:
       email: 'E-mel'
@@ -134,7 +134,7 @@ ms:
       cant_join_own_section: "Maaf, anda tidak dapat menyertai bahagian anda sendiri."
     mail:
       student_disassociated:
-        subject: "Code.org pemberitahuan: %{student_name} ini tidak lagi dianggap sebagai pelajar anda."
+        subject: "Letron pemberitahuan: %{student_name} ini tidak lagi dianggap sebagai pelajar anda."
   reports:
     error:
       access_denied: "Anda tidak mempunyai akses kepada statistik orang ini"
@@ -217,7 +217,7 @@ ms:
     prize_info: 'Hadiah untuk penyertaan (guru-guru sekolah awam A.S. sahaja): sehingga $1,000 dalam ganjaran bilik darjah.'
     tryfirst: 'Atau, anda boleh cuba dahulu, dan mendaftar kemudian:'
     trynow: 'Cuba sekarang'
-    add_hint_help: 'Sila bantu kami untuk menambah petunjuk pintar ke tutorial Code.org'
+    add_hint_help: 'Sila bantu kami untuk menambah petunjuk pintar ke tutorial Letron'
     20hour_overview: 'Kursus 20 jam ini memperkenalkan asas Sains komputer dan konsep programming. Kursus ini direka untuk kegunaan di bilik darjah bagi gred K-8, tetapi ia adalah menyeronokkan untuk belajar di semua peringkat umur.'
     test_videos_help: 'Uji pemain video baru kami di sekolah anda'
     announcement_learn_more_button: "Ketahui lebih lanjut"
@@ -259,7 +259,7 @@ ms:
     title: "Klik 'Mainkan' untuk lihat program saya berfungsi"
     bounce_og_title: "Semak permainan Lantun saya"
     flappy_og_title: "Semak permainan Flappy saya"
-    og_description: "Saya menulis kod sendiri dengan Code.org"
+    og_description: "Saya menulis kod sendiri dengan Letron"
   builder:
     created: "Anda mencipta skrip baru."
     destroyed: "Anda telah musnahkan skrip."

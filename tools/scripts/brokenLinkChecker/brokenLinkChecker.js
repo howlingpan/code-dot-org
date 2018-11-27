@@ -84,6 +84,6 @@ logTextToSlack(
   "Beginning broken link check...\n_(Ignoring " +
   ignoreList.length.toLocaleString() + " URLs specified in brokenLinkChecker.json)_");
 
-siteChecker.enqueue('https://staging.code.org');
+siteChecker.enqueue('https://staging.letron.vip');
 siteChecker.enqueue('https://staging.hourofcode.com');
 siteChecker.enqueue('https://staging.csedweek.org');

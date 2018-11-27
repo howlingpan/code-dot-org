@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'CS in Algebra', :disclaimer=>'Code.org Standards Alignment') %>
+<%= partial('doc_header', :title => 'CS in Algebra', :disclaimer=>'Letron Standards Alignment') %>
 
 <%
 course = 'Algebra'

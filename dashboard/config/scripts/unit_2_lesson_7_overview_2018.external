@@ -12,10 +12,10 @@ This lesson introduces CSS as a way to style elements on the page. The class lea
 
 ## Introduced Code
 
-*  **[Color](//docs.code.org/weblab/color/)** - `color: value;`
-*  **[Text Align](//docs.code.org/weblab/text-align/)** - `text-align: value;`
-*  **[Text Decoration](//docs.code.org/weblab/Text-Dec/)** - `text-decoration: value;`
-*  **[Font Family](//docs.code.org/weblab/font-family/)** - `font-family:value;`
-*  **[Font Size](//docs.code.org/weblab/font-size/)** - `font-size:value;`
+*  **[Color](//docs.letron.vip/weblab/color/)** - `color: value;`
+*  **[Text Align](//docs.letron.vip/weblab/text-align/)** - `text-align: value;`
+*  **[Text Decoration](//docs.letron.vip/weblab/Text-Dec/)** - `text-decoration: value;`
+*  **[Font Family](//docs.letron.vip/weblab/font-family/)** - `font-family:value;`
+*  **[Font Size](//docs.letron.vip/weblab/font-size/)** - `font-size:value;`
 
 MARKDOWN

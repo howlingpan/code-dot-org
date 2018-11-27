@@ -1393,7 +1393,7 @@ en:
       CSD U3 keyinput match:
         Question: Pergunta
       CSD U6 LED match:
-        "<img src=\"https://images.code.org/705a5d0ce82fb28f85f0e148212c43a7-image-1510946591583.21.42 AM.png\">": <img src="https://images.code.org/705a5d0ce82fb28f85f0e148212c43a7-image-1510946591583.21.42 AM.png">
+        "<img src=\"https://images.letron.vip/705a5d0ce82fb28f85f0e148212c43a7-image-1510946591583.21.42 AM.png\">": <img src="https://images.letron.vip/705a5d0ce82fb28f85f0e148212c43a7-image-1510946591583.21.42 AM.png">
         Match the Block: Associe os Blocos
       CSDU2 Match RGB Colors:
         Question: Pergunta
@@ -1675,7 +1675,7 @@ en:
     '6': '6'
     '7': '7'
   SG csp_U3_turtle_subgoal_q2_mc:
-    "<img src=\"https://images.code.org/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png\">": <img src="https://images.code.org/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png">
+    "<img src=\"https://images.letron.vip/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png\">": <img src="https://images.letron.vip/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png">
   Submittable Multi:
     blue: azul
     green: verde
@@ -1752,7 +1752,7 @@ en:
     From: De
     To: Para
   'U2L06 - MC: Which is an MST?':
-    0: ': "<p>The images below all show the same map (or graph) but have different paths between the points highlighted.</p>\n<p>Please choose the image that is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The “distance” between points is depicted by the number of line segments connecting any two points.</p> \n<img src=''https://images.code.org/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
+    0: ': "<p>The images below all show the same map (or graph) but have different paths between the points highlighted.</p>\n<p>Please choose the image that is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The “distance” between points is depicted by the number of line segments connecting any two points.</p> \n<img src=''https://images.letron.vip/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
     A: A
     B: B
     C: C
@@ -2117,9 +2117,9 @@ en:
     1: ': If yes, where did you previously take a computer science class or program outside of school hours? If you have participated in more than one program, please select the program where you have spent most of your time.'
     Other: Outros
   csp_U3_turtle_subgoal_q2_mc:
-    "<img src=\"https://images.code.org/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png\">": <img src="https://images.code.org/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png">
+    "<img src=\"https://images.letron.vip/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png\">": <img src="https://images.letron.vip/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png">
   csp_U3_turtle_subgoal_q2_mc_2018:
-    "<img src=\"https://images.code.org/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png\">": <img src="https://images.code.org/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png">
+    "<img src=\"https://images.letron.vip/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png\">": <img src="https://images.letron.vip/dba8d990163d04d9a6b157aff67de6e1-image-1506461991549.png">
   csp_ap_exam_signup:
     'No': 'Não'
     'Yes': 'Sim'
@@ -2285,23 +2285,23 @@ en:
     '5': '5'
     '6': '6'
   cspu5_assess3_array3:
-    "<img src=\"https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png\">": <img src="https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">
-    "<img src=\"https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png\">": <img src="https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">
-    "<img src=\"https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png\">": <img src="https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">
-    "<img src=\"https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png\">": <img src="https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">
-    "<img src=\"https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png\">": <img src="https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">
+    "<img src=\"https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png\">": <img src="https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">
+    "<img src=\"https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png\">": <img src="https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">
+    "<img src=\"https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png\">": <img src="https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">
+    "<img src=\"https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png\">": <img src="https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">
+    "<img src=\"https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png\">": <img src="https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">
   cspu5_assess3_array3_2018:
-    "<img src=\"https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png\">": <img src="https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">
-    "<img src=\"https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png\">": <img src="https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">
-    "<img src=\"https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png\">": <img src="https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">
-    "<img src=\"https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png\">": <img src="https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">
-    "<img src=\"https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png\">": <img src="https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">
+    "<img src=\"https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png\">": <img src="https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">
+    "<img src=\"https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png\">": <img src="https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">
+    "<img src=\"https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png\">": <img src="https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">
+    "<img src=\"https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png\">": <img src="https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">
+    "<img src=\"https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png\">": <img src="https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">
   cspu5_assess3_array3_exam_prep:
-    "<img src=\"https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png\">": <img src="https://images.code.org/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">
-    "<img src=\"https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png\">": <img src="https://images.code.org/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">
-    "<img src=\"https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png\">": <img src="https://images.code.org/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">
-    "<img src=\"https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png\">": <img src="https://images.code.org/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">
-    "<img src=\"https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png\">": <img src="https://images.code.org/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">
+    "<img src=\"https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png\">": <img src="https://images.letron.vip/68844f41da6225a8ae84d025d56534f5-image-1477186876917.png">
+    "<img src=\"https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png\">": <img src="https://images.letron.vip/79e1b6c7f8e4d6cada7ecc023aa7423b-image-1477186908088.png">
+    "<img src=\"https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png\">": <img src="https://images.letron.vip/815b58254104592ae1f0cbf6fc195897-image-1477186938381.png">
+    "<img src=\"https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png\">": <img src="https://images.letron.vip/8ed7339108f8293fc6b460435921c317-image-1486075803894.png">
+    "<img src=\"https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png\">": <img src="https://images.letron.vip/ce0eeff1b3e71ca0a397cc928ad60552-image-1477186891498.png">
   cspu5_assess3_array4:
     '0': '0'
     '1': '1'
@@ -2318,23 +2318,23 @@ en:
     '2': '2'
     '8': '8'
   cspu5_assess3_array5:
-    "<img src=\"https://images.code.org/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png\">": <img src="https://images.code.org/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png">
-    "<img src=\"https://images.code.org/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png\">": <img src="https://images.code.org/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png">
-    "<img src=\"https://images.code.org/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png\">": <img src="https://images.code.org/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png">
-    "<img src=\"https://images.code.org/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png\">": <img src="https://images.code.org/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png">
-    "<img src=\"https://images.code.org/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png\">": <img src="https://images.code.org/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png">
+    "<img src=\"https://images.letron.vip/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png\">": <img src="https://images.letron.vip/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png">
+    "<img src=\"https://images.letron.vip/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png\">": <img src="https://images.letron.vip/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png">
+    "<img src=\"https://images.letron.vip/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png\">": <img src="https://images.letron.vip/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png">
+    "<img src=\"https://images.letron.vip/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png\">": <img src="https://images.letron.vip/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png">
+    "<img src=\"https://images.letron.vip/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png\">": <img src="https://images.letron.vip/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png">
   cspu5_assess3_array5_2018:
-    "<img src=\"https://images.code.org/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png\">": <img src="https://images.code.org/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png">
-    "<img src=\"https://images.code.org/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png\">": <img src="https://images.code.org/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png">
-    "<img src=\"https://images.code.org/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png\">": <img src="https://images.code.org/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png">
-    "<img src=\"https://images.code.org/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png\">": <img src="https://images.code.org/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png">
-    "<img src=\"https://images.code.org/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png\">": <img src="https://images.code.org/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png">
+    "<img src=\"https://images.letron.vip/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png\">": <img src="https://images.letron.vip/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png">
+    "<img src=\"https://images.letron.vip/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png\">": <img src="https://images.letron.vip/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png">
+    "<img src=\"https://images.letron.vip/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png\">": <img src="https://images.letron.vip/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png">
+    "<img src=\"https://images.letron.vip/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png\">": <img src="https://images.letron.vip/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png">
+    "<img src=\"https://images.letron.vip/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png\">": <img src="https://images.letron.vip/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png">
   cspu5_assess3_array5_exam_prep:
-    "<img src=\"https://images.code.org/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png\">": <img src="https://images.code.org/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png">
-    "<img src=\"https://images.code.org/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png\">": <img src="https://images.code.org/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png">
-    "<img src=\"https://images.code.org/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png\">": <img src="https://images.code.org/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png">
-    "<img src=\"https://images.code.org/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png\">": <img src="https://images.code.org/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png">
-    "<img src=\"https://images.code.org/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png\">": <img src="https://images.code.org/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png">
+    "<img src=\"https://images.letron.vip/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png\">": <img src="https://images.letron.vip/195cd447d0cfe1b4eb048e1a262ebed7-image-1477187443881.png">
+    "<img src=\"https://images.letron.vip/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png\">": <img src="https://images.letron.vip/5e3845cf3512d658ed2f6c0d5a80becf-image-1477187484503.png">
+    "<img src=\"https://images.letron.vip/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png\">": <img src="https://images.letron.vip/a875f2e8fae579e22b2dda3fd3c3a979-image-1477187473193.png">
+    "<img src=\"https://images.letron.vip/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png\">": <img src="https://images.letron.vip/bedbc9aa4e60e785c208cdc321084443-image-1477187462107.png">
+    "<img src=\"https://images.letron.vip/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png\">": <img src="https://images.letron.vip/dedba683454c3e03a50e6ac13381de49-image-1477187494059.png">
   cspu5_assess3_counter:
     '0': '0'
     '1': '1'
@@ -2423,38 +2423,38 @@ en:
     a: a
     d: d
   cspu5_assess3_swap:
-    "<img src=\"https://images.code.org/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png\">": <img src="https://images.code.org/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png">
-    "<img src=\"https://images.code.org/955c0423604d555feaec71adc7556a70-image-1477188270771.png\">": <img src="https://images.code.org/955c0423604d555feaec71adc7556a70-image-1477188270771.png">
-    "<img src=\"https://images.code.org/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png\">": <img src="https://images.code.org/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png">
-    "<img src=\"https://images.code.org/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png\">": <img src="https://images.code.org/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png">
+    "<img src=\"https://images.letron.vip/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png\">": <img src="https://images.letron.vip/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png">
+    "<img src=\"https://images.letron.vip/955c0423604d555feaec71adc7556a70-image-1477188270771.png\">": <img src="https://images.letron.vip/955c0423604d555feaec71adc7556a70-image-1477188270771.png">
+    "<img src=\"https://images.letron.vip/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png\">": <img src="https://images.letron.vip/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png">
+    "<img src=\"https://images.letron.vip/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png\">": <img src="https://images.letron.vip/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png">
   cspu5_assess3_swap_2018:
-    "<img src=\"https://images.code.org/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png\">": <img src="https://images.code.org/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png">
-    "<img src=\"https://images.code.org/955c0423604d555feaec71adc7556a70-image-1477188270771.png\">": <img src="https://images.code.org/955c0423604d555feaec71adc7556a70-image-1477188270771.png">
-    "<img src=\"https://images.code.org/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png\">": <img src="https://images.code.org/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png">
-    "<img src=\"https://images.code.org/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png\">": <img src="https://images.code.org/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png">
+    "<img src=\"https://images.letron.vip/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png\">": <img src="https://images.letron.vip/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png">
+    "<img src=\"https://images.letron.vip/955c0423604d555feaec71adc7556a70-image-1477188270771.png\">": <img src="https://images.letron.vip/955c0423604d555feaec71adc7556a70-image-1477188270771.png">
+    "<img src=\"https://images.letron.vip/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png\">": <img src="https://images.letron.vip/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png">
+    "<img src=\"https://images.letron.vip/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png\">": <img src="https://images.letron.vip/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png">
   cspu5_assess3_swap_exam_prep:
-    "<img src=\"https://images.code.org/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png\">": <img src="https://images.code.org/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png">
-    "<img src=\"https://images.code.org/955c0423604d555feaec71adc7556a70-image-1477188270771.png\">": <img src="https://images.code.org/955c0423604d555feaec71adc7556a70-image-1477188270771.png">
-    "<img src=\"https://images.code.org/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png\">": <img src="https://images.code.org/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png">
-    "<img src=\"https://images.code.org/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png\">": <img src="https://images.code.org/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png">
+    "<img src=\"https://images.letron.vip/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png\">": <img src="https://images.letron.vip/89e9c5e5afc13710fd368de5b1e623a7-image-1477188305378.png">
+    "<img src=\"https://images.letron.vip/955c0423604d555feaec71adc7556a70-image-1477188270771.png\">": <img src="https://images.letron.vip/955c0423604d555feaec71adc7556a70-image-1477188270771.png">
+    "<img src=\"https://images.letron.vip/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png\">": <img src="https://images.letron.vip/e06c6c27755223ed61ba9358f0786544-image-1477188285727.png">
+    "<img src=\"https://images.letron.vip/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png\">": <img src="https://images.letron.vip/e819661a76e3c76c4a06e0fdbac7c6c0-image-1477188297443.png">
   cspu5_assess4_arrayContains:
-    "<img src=\"https://images.code.org/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png\">": <img src="https://images.code.org/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png">
-    "<img src=\"https://images.code.org/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png\">": <img src="https://images.code.org/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png">
-    "<img src=\"https://images.code.org/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png\">": <img src="https://images.code.org/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png">
-    "<img src=\"https://images.code.org/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png\">": <img src="https://images.code.org/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png">
-    "<img src=\"https://images.code.org/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png\">": <img src="https://images.code.org/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png">
+    "<img src=\"https://images.letron.vip/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png\">": <img src="https://images.letron.vip/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png">
+    "<img src=\"https://images.letron.vip/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png\">": <img src="https://images.letron.vip/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png">
+    "<img src=\"https://images.letron.vip/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png\">": <img src="https://images.letron.vip/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png">
+    "<img src=\"https://images.letron.vip/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png\">": <img src="https://images.letron.vip/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png">
+    "<img src=\"https://images.letron.vip/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png\">": <img src="https://images.letron.vip/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png">
   cspu5_assess4_arrayContains_2018:
-    "<img src=\"https://images.code.org/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png\">": <img src="https://images.code.org/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png">
-    "<img src=\"https://images.code.org/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png\">": <img src="https://images.code.org/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png">
-    "<img src=\"https://images.code.org/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png\">": <img src="https://images.code.org/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png">
-    "<img src=\"https://images.code.org/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png\">": <img src="https://images.code.org/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png">
-    "<img src=\"https://images.code.org/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png\">": <img src="https://images.code.org/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png">
+    "<img src=\"https://images.letron.vip/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png\">": <img src="https://images.letron.vip/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png">
+    "<img src=\"https://images.letron.vip/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png\">": <img src="https://images.letron.vip/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png">
+    "<img src=\"https://images.letron.vip/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png\">": <img src="https://images.letron.vip/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png">
+    "<img src=\"https://images.letron.vip/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png\">": <img src="https://images.letron.vip/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png">
+    "<img src=\"https://images.letron.vip/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png\">": <img src="https://images.letron.vip/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png">
   cspu5_assess4_arrayContains_exam_prep:
-    "<img src=\"https://images.code.org/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png\">": <img src="https://images.code.org/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png">
-    "<img src=\"https://images.code.org/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png\">": <img src="https://images.code.org/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png">
-    "<img src=\"https://images.code.org/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png\">": <img src="https://images.code.org/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png">
-    "<img src=\"https://images.code.org/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png\">": <img src="https://images.code.org/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png">
-    "<img src=\"https://images.code.org/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png\">": <img src="https://images.code.org/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png">
+    "<img src=\"https://images.letron.vip/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png\">": <img src="https://images.letron.vip/28bf8cd0b36d75a07401b0ecca4670ed-image-1477858803028.png">
+    "<img src=\"https://images.letron.vip/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png\">": <img src="https://images.letron.vip/671bf0979f2e8fa96dadb243ff359035-image-1477858815668.png">
+    "<img src=\"https://images.letron.vip/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png\">": <img src="https://images.letron.vip/87a777b49173464b7c9f40764cbeff44-image-1477858764367.png">
+    "<img src=\"https://images.letron.vip/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png\">": <img src="https://images.letron.vip/99c0eea5fde75505c0944d51eb7d158c-image-1477858747345.png">
+    "<img src=\"https://images.letron.vip/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png\">": <img src="https://images.letron.vip/f69aea612485e19043cd5969b0dbb436-image-1477858829201.png">
   cspu5_assess4_dataReturns:
     '10': '10'
     '16': '16'
@@ -2474,20 +2474,20 @@ en:
     '4': '4'
     '9': '9'
   cspu5_assess4_listContains:
-    "<img src=\"https://images.code.org/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png\">": <img src="https://images.code.org/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png">
-    "<img src=\"https://images.code.org/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png\">": <img src="https://images.code.org/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png">
-    "<img src=\"https://images.code.org/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png\">": <img src="https://images.code.org/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png">
-    "<img src=\"https://images.code.org/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png\">": <img src="https://images.code.org/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png">
+    "<img src=\"https://images.letron.vip/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png\">": <img src="https://images.letron.vip/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png">
+    "<img src=\"https://images.letron.vip/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png\">": <img src="https://images.letron.vip/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png">
+    "<img src=\"https://images.letron.vip/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png\">": <img src="https://images.letron.vip/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png">
+    "<img src=\"https://images.letron.vip/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png\">": <img src="https://images.letron.vip/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png">
   cspu5_assess4_listContains_2018:
-    "<img src=\"https://images.code.org/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png\">": <img src="https://images.code.org/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png">
-    "<img src=\"https://images.code.org/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png\">": <img src="https://images.code.org/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png">
-    "<img src=\"https://images.code.org/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png\">": <img src="https://images.code.org/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png">
-    "<img src=\"https://images.code.org/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png\">": <img src="https://images.code.org/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png">
+    "<img src=\"https://images.letron.vip/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png\">": <img src="https://images.letron.vip/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png">
+    "<img src=\"https://images.letron.vip/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png\">": <img src="https://images.letron.vip/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png">
+    "<img src=\"https://images.letron.vip/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png\">": <img src="https://images.letron.vip/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png">
+    "<img src=\"https://images.letron.vip/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png\">": <img src="https://images.letron.vip/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png">
   cspu5_assess4_listContains_exam_prep:
-    "<img src=\"https://images.code.org/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png\">": <img src="https://images.code.org/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png">
-    "<img src=\"https://images.code.org/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png\">": <img src="https://images.code.org/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png">
-    "<img src=\"https://images.code.org/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png\">": <img src="https://images.code.org/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png">
-    "<img src=\"https://images.code.org/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png\">": <img src="https://images.code.org/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png">
+    "<img src=\"https://images.letron.vip/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png\">": <img src="https://images.letron.vip/02d78ce777071ddea88d0273fe54c411-image-1477860209929.png">
+    "<img src=\"https://images.letron.vip/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png\">": <img src="https://images.letron.vip/1616322e66c0b1bdf84525480e2b0afe-image-1477860200184.png">
+    "<img src=\"https://images.letron.vip/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png\">": <img src="https://images.letron.vip/2af1c24a3f4266f374f788e96cd36e9f-image-1477860218619.png">
+    "<img src=\"https://images.letron.vip/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png\">": <img src="https://images.letron.vip/d183803e65f00d76cc5ebcd16d331759-image-1477860190404.png">
   cspu5_assess4_listOutput:
     '17': '17'
     '3': '3'
@@ -2504,23 +2504,23 @@ en:
     '42': '42'
     '9': '9'
   cspu5_assess4_robot:
-    "<img src=\"https://images.code.org/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png\">": <img src="https://images.code.org/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png">
-    "<img src=\"https://images.code.org/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png\">": <img src="https://images.code.org/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png">
-    "<img src=\"https://images.code.org/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png\">": <img src="https://images.code.org/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png">
-    "<img src=\"https://images.code.org/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png\">": <img src="https://images.code.org/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png">
-    "<img src=\"https://images.code.org/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png\">": <img src="https://images.code.org/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png">
+    "<img src=\"https://images.letron.vip/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png\">": <img src="https://images.letron.vip/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png">
+    "<img src=\"https://images.letron.vip/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png\">": <img src="https://images.letron.vip/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png">
+    "<img src=\"https://images.letron.vip/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png\">": <img src="https://images.letron.vip/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png">
+    "<img src=\"https://images.letron.vip/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png\">": <img src="https://images.letron.vip/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png">
+    "<img src=\"https://images.letron.vip/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png\">": <img src="https://images.letron.vip/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png">
   cspu5_assess4_robot_2018:
-    "<img src=\"https://images.code.org/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png\">": <img src="https://images.code.org/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png">
-    "<img src=\"https://images.code.org/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png\">": <img src="https://images.code.org/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png">
-    "<img src=\"https://images.code.org/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png\">": <img src="https://images.code.org/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png">
-    "<img src=\"https://images.code.org/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png\">": <img src="https://images.code.org/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png">
-    "<img src=\"https://images.code.org/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png\">": <img src="https://images.code.org/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png">
+    "<img src=\"https://images.letron.vip/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png\">": <img src="https://images.letron.vip/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png">
+    "<img src=\"https://images.letron.vip/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png\">": <img src="https://images.letron.vip/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png">
+    "<img src=\"https://images.letron.vip/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png\">": <img src="https://images.letron.vip/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png">
+    "<img src=\"https://images.letron.vip/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png\">": <img src="https://images.letron.vip/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png">
+    "<img src=\"https://images.letron.vip/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png\">": <img src="https://images.letron.vip/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png">
   cspu5_assess4_robot_exam_prep:
-    "<img src=\"https://images.code.org/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png\">": <img src="https://images.code.org/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png">
-    "<img src=\"https://images.code.org/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png\">": <img src="https://images.code.org/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png">
-    "<img src=\"https://images.code.org/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png\">": <img src="https://images.code.org/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png">
-    "<img src=\"https://images.code.org/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png\">": <img src="https://images.code.org/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png">
-    "<img src=\"https://images.code.org/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png\">": <img src="https://images.code.org/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png">
+    "<img src=\"https://images.letron.vip/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png\">": <img src="https://images.letron.vip/0b6408f61606bf7d48c677b12bbcba9e-image-1477859497782.png">
+    "<img src=\"https://images.letron.vip/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png\">": <img src="https://images.letron.vip/493d0f3a90cad524285c24bb8723e860-image-1477859439220.png">
+    "<img src=\"https://images.letron.vip/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png\">": <img src="https://images.letron.vip/c3d59f5678689fbbf4c521e3de6179b1-image-1477859562266.png">
+    "<img src=\"https://images.letron.vip/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png\">": <img src="https://images.letron.vip/d2db31560f2ec73ce1eaa7814f8e421a-image-1477859578654.png">
+    "<img src=\"https://images.letron.vip/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png\">": <img src="https://images.letron.vip/e40e844cdb4e24042e40a714c3830f4b-image-1477859513782.png">
   kiki_multi_test:
     The bird will not move at all: O pássaro não irá se mover de forma alguma
     The bird will reach the pig: O pássaro vai alcançar o porco

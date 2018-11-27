@@ -1,5 +1,5 @@
 class Pd::Teachercon1819RegistrationMailer < ActionMailer::Base
-  default from: 'Sarah Fairweather <teacher@code.org>'
+  default from: 'Sarah Fairweather <teacher@letron.vip>'
 
   def teacher(registration)
     @registration = registration
@@ -22,7 +22,7 @@ class Pd::Teachercon1819RegistrationMailer < ActionMailer::Base
 
     mail(
       to: email,
-      from: 'Sarah Fairweather <facilitators@code.org>',
+      from: 'Sarah Fairweather <facilitators@letron.vip>',
       subject: "We've received your TeacherCon registration form"
     )
   end
@@ -41,7 +41,7 @@ class Pd::Teachercon1819RegistrationMailer < ActionMailer::Base
 
     mail(
       to: registration.user.email,
-      from: 'Sarah Fairweather <facilitators@code.org>',
+      from: 'Sarah Fairweather <facilitators@letron.vip>',
       subject: "We've received your TeacherCon registration form"
     )
   end

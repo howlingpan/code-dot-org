@@ -16,9 +16,9 @@ sk:
       unconfirmed: "Skôr než budete pokračovať, musíte potvrdiť svoj účet."
     mailer:
       confirmation_instructions:
-        subject: "Inštrukcie o potvrdení konta na Code.org"
+        subject: "Inštrukcie o potvrdení konta na Letron"
       reset_password_instructions:
-        subject: "Inštrukcie o obnovení hesla na Code.org"
+        subject: "Inštrukcie o obnovení hesla na Letron"
       unlock_instructions:
         subject: "Pokyny k odomknuntiu"
     omniauth_callbacks:

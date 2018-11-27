@@ -351,7 +351,7 @@ km:
         mood.\\\r\n* Give the wizard his own set of fortunes.\\\r\n*\nMake each actor
         change mood randomly.\\\r\n\\\r\nCheck the hints if you need help\nwith these
         challenges!"
-      course4_artist_variables_challenge2: "<img src=\"https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
+      course4_artist_variables_challenge2: "<img src=\"https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
         now learned everything you need to know to\nmake a pattern like this! This
         puzzle is meant to be difficult.  Can you stick\nwith it until you figure
         out the solution?"
@@ -519,11 +519,11 @@ km:
         triangles right next to each other.   \r\n\r\nYou can nest\nthe code from
         your last puzzle inside."
       courseF_artist_variables3: "Before things get tricky,\ncan you move the length
-        of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n\r\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+        of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n\r\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables3_2018: "Before things get tricky,\ncan you move the
-        length of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n\r\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+        length of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n\r\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables3_2019: "Before things get tricky,\ncan you move the
-        length of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n\r\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+        length of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n\r\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables6: "**OOPS!**  \r\n\r\nWe\nactually need the triangles
         to be 60 pixels wide, with 60 pixel jumps.  \r\n\r\nAren't\nyou glad you're
         using a variable?"
@@ -614,7 +614,7 @@ km:
         puzzle inside."
       courseF_artist_variables_3: "Before things get tricky,\ncan you move the length
         of 50 into a variable so we can use it in the next\nfew puzzles?  \r\n<br/>\r\n\r\n<img
-        src=\"https://images.code.org/e6eac1f6aeb68a9a7584516e28663c14-image-1477533059853.gif\"\nwidth=\"65%\"/>"
+        src=\"https://images.letron.vip/e6eac1f6aeb68a9a7584516e28663c14-image-1477533059853.gif\"\nwidth=\"65%\"/>"
       courseF_artist_variables_6: "OOPS! We actually need the\ntriangles to be 60
         pixels wide, with 60 pixel jumps.  \r\nAren't you glad\nyou're using a variable?"
       courseF_artist_variables_7: "Let's start this section\nby drawing a triangle
@@ -622,26 +622,26 @@ km:
         repeat loop."
       courseF_artist_variables_8: "Rebuild the triangle code\nfrom the last puzzle,
         but this time use the `set length to` block to reset\nthe `length` variable
-        to `length`+10 at the end of each loop iteration.\\\r\n\\\r\n![](https://images.code.org/6525bebee31ee15b84a48761b2866f53-image-1477531948829.31.37.png)"
+        to `length`+10 at the end of each loop iteration.\\\r\n\\\r\n![](https://images.letron.vip/6525bebee31ee15b84a48761b2866f53-image-1477531948829.31.37.png)"
       courseF_artist_variables_9: "Time to make some art!  \r\nSee\nwhat happens when
         you repeat the code from the last puzzle 30 times instead\nof only 3!\r\n\r\nFeel
         free to make your lines any color or pattern for some\nextra zest."
       courseF_artist_variables_FP: "**Freeplay:** Take what\nyou've learned and make
         your own drawing. \r\n\r\nHow can you use variables\nwith squares, pentagons,
         or hexagons?"
-      courseF_artist_variables_challenge1a: "<img src=\"https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
+      courseF_artist_variables_challenge1a: "<img src=\"https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
         now learned everything you need to know to\nmake a pattern like this! This
         puzzle is meant to be difficult.  Can you stick\nwith it until you figure
         out the solution?"
-      courseF_artist_variables_challenge2: "<img src=\"https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
+      courseF_artist_variables_challenge2: "<img src=\"https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
         now learned everything you need to know to\nmake a pattern like this! This
         puzzle is meant to be difficult.  Can you stick\nwith it until you figure
         out the solution?"
-      courseF_artist_variables_challenge2_2018: "<img src=\"https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
+      courseF_artist_variables_challenge2_2018: "<img src=\"https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
         now learned everything you need to know to\nmake a pattern like this! This
         puzzle is meant to be difficult.  Can you stick\nwith it until you figure
         out the solution?"
-      courseF_artist_variables_challenge2_2019: "<img src=\"https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
+      courseF_artist_variables_challenge2_2019: "<img src=\"https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png\"\nwidth=\"250px\"/>\\\r\n\\\r\nYou've
         now learned everything you need to know to\nmake a pattern like this! This
         puzzle is meant to be difficult.  Can you stick\nwith it until you figure
         out the solution?"
@@ -948,7 +948,7 @@ km:
         to create this conversation."
       courseF_playlab_variables5: "Now we're going to add a\nvariable into the middle
         of Pegleg's sentence using more than one `create\ntext with` block. \r\n\r\nHere
-        is how you link `create text with` blocks together\nto form longer sentences:\r\n\r\n![](https://images.code.org/1c9bdc9e73d60b5ed053c3c4e9e1dcd4-image-1476993588379.gif)"
+        is how you link `create text with` blocks together\nto form longer sentences:\r\n\r\n![](https://images.letron.vip/1c9bdc9e73d60b5ed053c3c4e9e1dcd4-image-1476993588379.gif)"
       courseF_playlab_variables5b: "Pirate Pegleg is going to\nask **you** some questions.\\\r\n\\\r\nPut
         all of the variables in the correct\nplace so that his story makes sense."
       courseF_playlab_variables5c RYAN Copy: "Let's combine\nthe `ask` block with
@@ -2035,7 +2035,7 @@ km:
         they can elevate to an instructor for review. You will always\nhave a chance
         to address feedback from your reviewers and resubmit your reflections!\nReviewer
         feedback will show up at the bottom of this page, once it’s available.\n"
-      csp_U3_plan_code_FR: "<img src=\"https://images.code.org/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float:
+      csp_U3_plan_code_FR: "<img src=\"https://images.letron.vip/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float:
         right\">\r\n\r\n<br>\r\n\r\nIn this lesson we talked about\nhow to build up
         solutions to larger programming problems with functions.  Plan\nthe code that
         you would use to draw this image (shown at right). Describe\neach of the functions
@@ -2044,7 +2044,7 @@ km:
         function would do. \r\n\r\nWrite your plan following the format:\r\n\r\n<div\nstyle=\"clear:
         both\"> </div>\r\n\r\n    Name of function - description of\nwhat it does\r\n\r\n
         \   Name of function 2 - description of what it does\r\n    ..."
-      csp_U3_plan_code_FR_2018: "<img src=\"https://images.code.org/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float:
+      csp_U3_plan_code_FR_2018: "<img src=\"https://images.letron.vip/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float:
         right\">\r\n\r\n<br>\r\n\r\nIn this lesson we talked about\nhow to build up
         solutions to larger programming problems with functions.  Plan\nthe code that
         you would use to draw this image (shown at right). Describe\neach of the functions
@@ -2828,7 +2828,7 @@ km:
         Every square on the path that leads to the pumpkin will either have\n*one*
         corn or nothing.  You will need to use an `if` statement to check whether\nthere
         is corn before you try to pick it!"
-      harvey_snowflake_artist1: "*It's time to get your snowflake\nready for 3d printing!*\\\r\n\\\r\n![](https://images.code.org/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08\nPM.png)In
+      harvey_snowflake_artist1: "*It's time to get your snowflake\nready for 3d printing!*\\\r\n\\\r\n![](https://images.letron.vip/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08\nPM.png)In
         order for your image to print correctly, follow these rules:\\\r\n\\\r\n*\nMake
         sure your image is all **one piece**! Separate pieces will print separately.\\\r\n*\nMake
         sure your image **fits** entirely on the canvas\\\r\n* Use just **black\nlines**
@@ -2838,7 +2838,7 @@ km:
         name=\"VALUE\">7</title>\\\r\n    </block></xml>\\\r\nWhen\nyou are finished,
         right-click to save the image, then send it to me on <a\nhref=\"https://classroom.google.com\">Google
         Classroom</a>."
-      harvey_snowflake_artist2: "*It's time to get your snowflake\nready for 3d printing!*\\\r\n\\\r\n![](https://images.code.org/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08\nPM.png)In
+      harvey_snowflake_artist2: "*It's time to get your snowflake\nready for 3d printing!*\\\r\n\\\r\n![](https://images.letron.vip/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08\nPM.png)In
         order for your image to print correctly, follow these rules:\\\r\n\\\r\n*\nMake
         sure your image is all **one piece**! Separate pieces will print separately.\\\r\n*\nMake
         sure your image **fits** entirely on the canvas\\\r\n* Use just **black\nlines**
@@ -2913,14 +2913,14 @@ km:
         or go off and building something completely\nyour own."
       playEventsK1: "This game is called \"Play Lab\".\\\r\n\\\r\nSee\nif you can
         figure out what each block does."
-      playEventsK2: "Jorge wants to say \"Hi there.\"\\\r\n\\\r\nCan\nyou help?\\\r\n\\\r\n![](https://images.code.org/f32d285fa6f45e1f8d042c04c55f32c8-image-1467988839292.gif)"
+      playEventsK2: "Jorge wants to say \"Hi there.\"\\\r\n\\\r\nCan\nyou help?\\\r\n\\\r\n![](https://images.letron.vip/f32d285fa6f45e1f8d042c04c55f32c8-image-1467988839292.gif)"
       playEventsK3: "Jorge wants to be scratched behind the\nears!\\\r\n\\\r\nCan
-        you make it so that when you click Jorge he is happy?\\\r\n\\\r\n![](https://images.code.org/04fb37990455b215e0f20884363092d0-image-1467988943134.gif)"
+        you make it so that when you click Jorge he is happy?\\\r\n\\\r\n![](https://images.letron.vip/04fb37990455b215e0f20884363092d0-image-1467988943134.gif)"
       playEventsK4: "Can you make it so that Jorge the dog chases\nRobin the bird
-        when you click the up arrow?\\\r\n\\\r\n![](https://images.code.org/2fbf6c793bb77a961fa7a52f27e4c59d-image-1467989013878.gif)"
+        when you click the up arrow?\\\r\n\\\r\n![](https://images.letron.vip/2fbf6c793bb77a961fa7a52f27e4c59d-image-1467989013878.gif)"
       playEventsK5: "Now add code so that Robin flies away when\nyou click the forward
-        arrow.\\\r\n\\\r\n![](https://images.code.org/a7e224c5f13e39e5342011f8a76d3b6b-image-1467989101328.gif)"
-      playEventsK6: "Have Robin talk back to Jorge when you\nclick on her.\\\r\n\\\r\n![](https://images.code.org/fc80b1febbb7a472026b6bf2c535b2f4-image-1467989171517.gif)"
+        arrow.\\\r\n\\\r\n![](https://images.letron.vip/a7e224c5f13e39e5342011f8a76d3b6b-image-1467989101328.gif)"
+      playEventsK6: "Have Robin talk back to Jorge when you\nclick on her.\\\r\n\\\r\n![](https://images.letron.vip/fc80b1febbb7a472026b6bf2c535b2f4-image-1467989171517.gif)"
       playEventsK7: "What else can you do in this fun scene?\r\n<br/>\r\n\r\n<h5>\r\n<details>\r\n<summary><b>Need\nsome
         ideas?</b></summary>\r\n\\t<br/>\r\n\\t<h5>\r\n\\t\\t<ul>\r\n        \\t<li><strong>Conversation</strong>\n-
         Have the sprites talk to eachother when you click on them.</li>\r\n            <li><strong>Pinball</strong>\n-
@@ -2956,7 +2956,7 @@ km:
       subgoal-test: "### use goal labels to structure your solution.\\\r\n\\\r\nThe\nturtle
         should draw a square moving clockwise.\\\r\n\\\r\nDrag out [\"move turtle\"\nsubgoal
         label](#triggercallout=trigger_move_subgoal) into the workspace."
-      subgoalU3L2_TurtleSquare_right: "<img src=\"https://images.code.org/ad48e7224312a6c41f4fc5727af53cc0-image-1436287265071.png\"\nalign=right>
+      subgoalU3L2_TurtleSquare_right: "<img src=\"https://images.letron.vip/ad48e7224312a6c41f4fc5727af53cc0-image-1436287265071.png\"\nalign=right>
         \r\n# Do This:\r\nThis time, draw a 1 x 1 square to the *front\nand right*
         of the turtle as efficiently as possible.  Notice that there is\nno command
         to turn right! You need to figure out how to draw this by only\nturning left

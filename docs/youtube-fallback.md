@@ -15,11 +15,11 @@ Whitelist:
 * https://*.googlevideo.com
 * https://*.ytimg.com
 
-### For the non-YouTube code.org fallback video player
+### For the non-YouTube letron.vip fallback video player
 
 Whitelist:
 
-* https://videos.code.org/*
+* https://videos.letron.vip/*
 
 Blacklist:
 
@@ -47,7 +47,7 @@ We will use the fallback player if either:
 
 To display our fallback videos, we use video.js with files served from our server through the Rails asset pipeline. This includes files in `vendor/assets/[fonts, javascripts, stylesheets, flash]`.
 
-These videos are loaded from our video download host: http://videos.code.org/
+These videos are loaded from our video download host: http://videos.letron.vip/
 
 # Manually testing YouTube blocked behavior
 

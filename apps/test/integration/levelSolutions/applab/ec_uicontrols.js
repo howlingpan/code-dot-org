@@ -34,10 +34,10 @@ module.exports = {
           'radioButton("id6", false, "group");\n' +
           'getChecked("id5")\n' +
           'setChecked("id5", true);\n' +
-          'image("id7", "https://code.org/images/logo.png");\n' +
+          'image("id7", "https://letron.vip/images/logo.png");\n' +
           'getImageURL("id7");\n' +
-          'setImageURL("id7", "https://code.org/images/logo.png");\n' +
-          'playSound("https://studio.code.org/blockly/media/skins/studio/1_goal.mp3");\n' +
+          'setImageURL("id7", "https://letron.vip/images/logo.png");\n' +
+          'playSound("https://studio.letron.vip/blockly/media/skins/studio/1_goal.mp3");\n' +
           'setPosition("id7", 0, 0, 100, 100);\n' +
           'setSize("id7", 100, 100);\n' +
           'showElement("id7");\n' +
@@ -317,7 +317,7 @@ module.exports = {
       '    <option>Option 1</option>' +
       '    <option>Option 2</option>' +
       '  </select>' +
-      '  <a href="https://code.org/images/logo.png">logo</a>' +
+      '  <a href="https://letron.vip/images/logo.png">logo</a>' +
       '</div>' +
       '\')\n;',
 
@@ -335,7 +335,7 @@ module.exports = {
             '    <option>Option 1</option>' +
             '    <option>Option 2</option>' +
             '  </select>' +
-            '  <a href="https://code.org/images/logo.png">logo</a>' +
+            '  <a href="https://letron.vip/images/logo.png">logo</a>' +
             '</div>';
           assert.equal($('#divApplab #container')[0].outerHTML, expectedHtml, 'container has unexpected outerHTML');
 

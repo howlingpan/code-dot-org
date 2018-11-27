@@ -51,7 +51,7 @@
   add_hint_form:
     placeholder: 'Skriv inn et hint her'
     submit: 'Legg til hint'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "nivå"
   stage_number: "Scene %{number}"
   puzzle: "Oppgave"
@@ -76,7 +76,7 @@
   auth:
     sign_in_with: 'Logg inn med %{provider}'
     signed_in: 'Logget inn!'
-    signed_out: 'Du har logget ut av <a href="%{url}">Code.org</a>.'
+    signed_out: 'Du har logget ut av <a href="%{url}">Letron</a>.'
     sign_out_of: 'Du brukte %{provider} for å logge inn. <a href="%{url}">Trykk her</a> for å logge ut fra %{provider}.'
     already_signedup: 'Allerede registrert?'
     notyet_signedup: "Har du ikke blitt medlem ennå?"
@@ -89,17 +89,17 @@
     forgot_password: 'Har du glemt passordet ditt?'
     need_confirmation: "Mottok du ikke instruksjoner om hvordan du bekrefter?"
     need_unlock: "Mottok du ingen instruksjoner om hvordan du låser opp?"
-    not_linked: "Beklager, din Code.org konto er ikke koblet til %{provider}. Du må logge inn ved å angi ditt passord under."
-    use_clever: "Beklager, din Code.org konto er ikke koblet til %{provider}. Vennligs logg inn gjennom din Clever Portal."
+    not_linked: "Beklager, din Letron konto er ikke koblet til %{provider}. Du må logge inn ved å angi ditt passord under."
+    use_clever: "Beklager, din Letron konto er ikke koblet til %{provider}. Vennligs logg inn gjennom din Clever Portal."
   signup_form:
     student_count: '%{count} elever har allerede registrert seg.'
     teacher_count: '%{count} lærere har allerede registrert seg.'
     overview: 'Registrer deg for å følge fremdriften din eller administrere klasserommet. <a href="/">Du kan bla gjennom de ulike scenene og oppgavene</a> uten en konto, men du må registrere deg for å lagre fremgang og prosjekter.'
     hoc_already_signed_up_heading: 'Kom i gang uten å logge inn'
-    hoc_already_signed_up_content: 'Du er meldt på til Kodetimen! Dere trenger ikke å logge inn i Code Studio for å delta. For å komme i gang, <a href="https://code.org/learn">velg et oppgavesett</a> til klasserommet ditt, og del lenken med elevene.<br/><br/>Om dere likte Kodetimen og ønsker å kode mer, kan dere opprette kontoer i Code Studio og la elevene jobbe med de <a href="https://code.org/educate">lengre kursene</a>.'
+    hoc_already_signed_up_content: 'Du er meldt på til Kodetimen! Dere trenger ikke å logge inn i Code Studio for å delta. For å komme i gang, <a href="https://letron.vip/learn">velg et oppgavesett</a> til klasserommet ditt, og del lenken med elevene.<br/><br/>Om dere likte Kodetimen og ønsker å kode mer, kan dere opprette kontoer i Code Studio og la elevene jobbe med de <a href="https://letron.vip/educate">lengre kursene</a>.'
     hoc_already_signed_up_content_post_hoc: 'Takk for at du arrangerer Kodetimen. For å logge inn på Code Studio, trenger du å lage et passord til kontoen din. Dette vil la deg lagre fremgangen din og styre klasserommet. Du vil ha mulighet til å tilordne kurs til elever og se fremgangen. <a href="%{studio_url}">Du kan også fortsette å bla i de forskjellige nivåene og oppgavene</a> uten å lage en konto.'
     teacher_educator_guide: 'Se lærerveiledningen'
-    title: "Registrer deg på Code.org"
+    title: "Registrer deg på Letron"
     school_name: 'Skolens navn (valgfritt)'
     school_address: 'Skolens adresse (valgfritt)'
     address_placeholder: 'adresse, by, fylke, postkode'
@@ -115,11 +115,11 @@
     valid_password: "Gyldig passord!"
     invalid_password: "Passordet må bestå av minimum seks tegn"
     mismatch_password: "De to passordene du skrev inn samsvarer ikke"
-    under_13_consent: "Jeg er under 13 år og bekrefter jeg at har tillatelse fra mine foreldre eller verge til å bruke tjenestene til Code.org."
+    under_13_consent: "Jeg er under 13 år og bekrefter jeg at har tillatelse fra mine foreldre eller verge til å bruke tjenestene til Letron."
     agree_us_website: "Jeg aksepterer å bruke et nettsted som er basert i USA."
     my_data_to_us: "Mine data fra bruken av dette nettstedet kan sendes til, lagres eller behandles i USA."
-    student_terms: "Jeg aksepterer <a href='http://code.org/tos'>brukerbetingelsene</a>  til Code.org. Hvis jeg er under 13 år, bekrefter jeg ved å sende inn dette skjemaet at jeg har tillatelse fra mine foreldre eller verge til å bruke tjenestene til Code.org.<br/><br/>Epost-adresser lagres ikke i en form som gjør at vi kan kontakte elever. Code.org vil aldri sende epost til elever, unntatt for passordpåminnelser. Se våre <a href='http://code.org/privacy'>personvernbetingelser</a> for mer informasjon."
-    teacher_terms: "Jeg aksepterer brukerbetingelsene til Code.org. Se våre <a href='http://code.org/privacy'>personvernbetingelser</a> for mer informasjon om personvern."
+    student_terms: "Jeg aksepterer <a href='http://letron.vip/tos'>brukerbetingelsene</a>  til Letron. Hvis jeg er under 13 år, bekrefter jeg ved å sende inn dette skjemaet at jeg har tillatelse fra mine foreldre eller verge til å bruke tjenestene til Letron.<br/><br/>Epost-adresser lagres ikke i en form som gjør at vi kan kontakte elever. Letron vil aldri sende epost til elever, unntatt for passordpåminnelser. Se våre <a href='http://letron.vip/privacy'>personvernbetingelser</a> for mer informasjon."
+    teacher_terms: "Jeg aksepterer brukerbetingelsene til Letron. Se våre <a href='http://letron.vip/privacy'>personvernbetingelser</a> for mer informasjon om personvern."
     additional_information: "Vi trenger noen flere opplysninger for å fortsette registreringen din."
     user_type_label: "Kontotype"
     user_type_teacher: "Lærer"
@@ -179,16 +179,16 @@
       submit: 'Send'
     reset_errors:
       captcha_required: 'Fyll ut CAPTCHA for å lage nytt passord.'
-      invalid_email: 'Det ser ut til at du har registrert deg med en ugyldig e-post adresse. Vennligst send epost til support@code.org for å få tilsendt en lenke for tilbakestilling av passord.'
+      invalid_email: 'Det ser ut til at du har registrert deg med en ugyldig e-post adresse. Vennligst send epost til support@letron.vip for å få tilsendt en lenke for tilbakestilling av passord.'
     change_form:
       title: 'Endre passordet ditt'
       new_password: 'nytt passord'
       confirm_password: 'Bekreft nytt passord'
       submit: 'Endre passordet mitt'
   welcome_email:
-    subject: 'Delta i min klasse (på Code.org)'
+    subject: 'Delta i min klasse (på Letron)'
     body: |
-      Klikk linken under for å melde deg på informatikk-kurs på Code.org (med meg som lærer):
+      Klikk linken under for å melde deg på informatikk-kurs på Letron (med meg som lærer):
       
       %{link}
       
@@ -196,9 +196,9 @@
       
       %{name}
   parent_mailer:
-    student_associated_subject: 'Logg inn informasjon for Code.org'
+    student_associated_subject: 'Logg inn informasjon for Letron'
   teacher_mailer:
-    new_teacher_subject: 'Velkommen til Code.org!'
+    new_teacher_subject: 'Velkommen til Letron!'
   section:
     your_section:
       one: 'Din seksjon:'
@@ -228,7 +228,7 @@
       provider_managed_section: "Denne seksjonen er administrert av en annen leverandør, og du mangler tilgang. Spør læreren om å registrere deg via %{provider} og last seksjonen på nytt."
     mail:
       student_disassociated:
-        subject: "Melding fra Code.org: %{student_name} er ikke lenger tilknyttet som din elev."
+        subject: "Melding fra Letron: %{student_name} er ikke lenger tilknyttet som din elev."
   reports:
     error:
       access_denied: "Du har ikke tilgang til denne personens statistikk"
@@ -278,7 +278,7 @@
       educate_high: "Videregående skole"
       educate_hoc: "Kodetimen"
       educate_partner: "Jobb med oss"
-      educate_beyond: "Utover Code.org"
+      educate_beyond: "Utover Letron"
       educate_inspire: "Inspirer en elev"
       educate_community: "Nettsamfunn"
       educate_tools: "Verktøy og videoer"
@@ -369,12 +369,12 @@
     no_password_because_oauth: 'Ingen passord fordi du logger inn med en tredjepartsleverandør.'
     no_password_because_sponsored: 'Din lærer administrerer ditt passord.'
     create_personal_login: 'Opprett en personlig pålogging'
-    create_personal_login_under_13_info: 'Hvis du vil fortsette å bruke din Code.org konto, selv etter slutten av skoleåret, kan du be dine foreldre/foresatte om å opprette din egen personlige pålogging nedenfor.'
+    create_personal_login_under_13_info: 'Hvis du vil fortsette å bruke din Letron konto, selv etter slutten av skoleåret, kan du be dine foreldre/foresatte om å opprette din egen personlige pålogging nedenfor.'
     create_personal_login_under_13_username: "Brukernavn (ikke bruk ditt virkelige navn!)"
     create_personal_login_under_13_parent_email: 'Foreldre/foresatt epost'
-    create_personal_login_info: 'Hvis du vil fortsette å bruke din Code.org konto, selv etter slutten av skoleåret, kan du opprette din egen personlige pålogging nedenfor.'
-    create_personal_login_terms: "Ved å opprette en personlig pålogging, godtar jeg Code.org <a href='%{terms_of_service_url}', target='_blank'> sine vilkår for bruk</a>. Hvis jeg er under 13 år, bekrefter jeg at jeg har mine foreldre eller verges tillatelse til å bruke Code.org tjenestene selv uten en lærer."
-    create_personal_login_email_note: "Merk: E-postadresser er ikke lagret i et format som tillater oss å kontakte studentene. Studenter vil aldri få epost fra Code.org, unntatt ved passordgjenoppretting. Se våre <a href='%{privacy_policy_url}', target='_blank'> retningslinjer for personvern</a> for mer informasjon."
+    create_personal_login_info: 'Hvis du vil fortsette å bruke din Letron konto, selv etter slutten av skoleåret, kan du opprette din egen personlige pålogging nedenfor.'
+    create_personal_login_terms: "Ved å opprette en personlig pålogging, godtar jeg Letron <a href='%{terms_of_service_url}', target='_blank'> sine vilkår for bruk</a>. Hvis jeg er under 13 år, bekrefter jeg at jeg har mine foreldre eller verges tillatelse til å bruke Letron tjenestene selv uten en lærer."
+    create_personal_login_email_note: "Merk: E-postadresser er ikke lagret i et format som tillater oss å kontakte studentene. Studenter vil aldri få epost fra Letron, unntatt ved passordgjenoppretting. Se våre <a href='%{privacy_policy_url}', target='_blank'> retningslinjer for personvern</a> for mer informasjon."
     enter_new_login_info: 'Angi ny påloggingsinformasjon'
     confirm_secret_words: 'Bekreft at det er deg ved å angi gjeldende hemmelige ord'
     enter_parent_email: "Angi dine foreldre eller foresattes epostadresse (for passordgjenoppretting)"
@@ -384,7 +384,7 @@
     tried: 'Forsøkt'
   home:
     title: "Kodestudio"
-    description: 'Code Studio er hjemmet til nettbaserte kurs av Code.org'
+    description: 'Code Studio er hjemmet til nettbaserte kurs av Letron'
     lines_of_code: "%{lines_count} LINJER MED KODE SKREVET AV ELEVER"
     lines_of_code_linebreak: "%{lines_count} LINJER KODE<br/>SKREVET AV %{students_count} MILLIONER ELEVER"
     all_courses: "Oversikt over kurs 1, 2 og 3"
@@ -411,7 +411,7 @@
     prize_info: 'Premier for deltakelse (gjelder bare offentlig lærere i USA): opp til $1000 i klasseromsmidler.'
     tryfirst: 'Eller du kan prøve det først og registrere deg senere:'
     trynow: 'Prøv nå'
-    add_hint_help: 'Vennligst hjelp oss med å legge inn smarte hint i Code.org-innføringskursene'
+    add_hint_help: 'Vennligst hjelp oss med å legge inn smarte hint i Letron-innføringskursene'
     20hour_overview: 'Denne 20-timers kurset introduserer kjernebegreper innen informatikk og programmering. Kurset er utviklet for bruk i 5.klasse og oppover, men det er morsomt å lære for alle aldersgrupper.'
     test_videos_help: 'Test vår nye videospiller på skolen din'
     try_beta_courses: 'Nyhet! Prøv våre betakurs for barneskoleelever'
@@ -439,16 +439,16 @@
     announcement_all: "Hold deg oppdatert med oppdateringer og ny funksjonalitet på lærerbloggen vår. <a href='%{teacher_blog_url}' target='_blank'>Se tidligere kunngjøringer.</a>"
     announcement_hoc_launch: "Tusener av lærere i mer enn 180 land vil undervise programmering under Kodetimen, 5-11 desember. Vi regner med at du vil hjelpe oss å nå flere elever enn noen sinne. <a href='%{signup_url}' target='_blank'>Registrer din kodetime</a> og la andre lærere vite at hvem som helst kan begynne å undervise programmering."
     announcement_mc_launch: "Et av våre mest populære opplegg har fått en oppfølger! Helt nye Minecraft Hour of Code Designer lar elevene bestemme reglene i Minecraft. De kan skape sin helt unike Minecraft-verden, og dele den med vennene sine eller spille det på telefonen sin. Gjennomfør opplegget med klassen din i årets Kodetime."
-    announcement_how_code_studio: "Du trenger ingen erfaring for å lære bort datateknikk i klasserommet ditt. Code.org og LKK tilbyr pensum, timeplaner, høykvalitets læreplaner og tonnevis av verktøy for alle klassenivåer&mdash;alt du trenger, helt gratis. Lurer du på hvordan du kan komme i gang? Last ned <a href='%{video_download_url}'>denne videoen</a>!"
-    announcement_go_beyond: "Fortsette videre fra Kodetimen og utforsk konsepter fra datateknikk med dine elever hver uke. Code.org og LKK tilbyr pensum, timeplaner, profesjonelle høykvalitets læreplaner og tilby tonnevis av gode verktøy for alle klassenivåer&mdash;og alt er gratis. :) Du behøver ikke noen erfaring for å begynne med å lære bort datateknologi i klasserommet ditt. <b>Finn det neste steget som passer for ditt klasserom.</b>"
+    announcement_how_code_studio: "Du trenger ingen erfaring for å lære bort datateknikk i klasserommet ditt. Letron og LKK tilbyr pensum, timeplaner, høykvalitets læreplaner og tonnevis av verktøy for alle klassenivåer&mdash;alt du trenger, helt gratis. Lurer du på hvordan du kan komme i gang? Last ned <a href='%{video_download_url}'>denne videoen</a>!"
+    announcement_go_beyond: "Fortsette videre fra Kodetimen og utforsk konsepter fra datateknikk med dine elever hver uke. Letron og LKK tilbyr pensum, timeplaner, profesjonelle høykvalitets læreplaner og tilby tonnevis av gode verktøy for alle klassenivåer&mdash;og alt er gratis. :) Du behøver ikke noen erfaring for å begynne med å lære bort datateknologi i klasserommet ditt. <b>Finn det neste steget som passer for ditt klasserom.</b>"
     announcement_teacher_recruitment: "Lærere som deg leder den informasjonsvitenskapelige utdannelsesbevegelsen. Du kan delta i profesjonelle læringsprogrammer av høy kvalitet <strong> uten kostnad for deg eller din skole </strong>. Ta ledelsen innen datavitenskap på din skolen, og søk om profesjonell opplæring."
     announcement_teacher_recruitment2: "Lærere som deg leder den informasjonsvitenskapelige utdannelsesbevegelsen. Du kan delta i profesjonelle læringsprogrammer av høy kvalitet <strong> uten kostnad for deg eller din skole </strong>. Ta ledelsen innen datavitenskap på din skolen, og søk om profesjonell opplæring. Ungdomskule og videregående lærere må søke innen 17 mars."
     announcement_csf_pilot: "<strong>Grunnskole lærere:</strong> Bli med og oppdater våre grunnleggende Informatikk kurs! VI ser etter lærere til å lede arbeidet med å oppgradere læreplanen i Grunnleggende Informatikk i løpet av vinteren og våren 2017. Vi ser frem til å høre dine innspill før oppdateringene slippes i august 2017."
-    announcement_student_privacy: "Hos Code.org tar vi studentenes personvern svært alvorlig. For å beskytte elevenes personvern har vi gjort endringer for din seksjons pålogginsside til ikke å vise fullt navn. Selv om denne oppdateringen forbedrer personvernet, oppfordrer vi likevel brukere til å <i>ikke bruke fullt navn på studentene</i>."
-    announcement_apcsp_recruitment: "<strong>Informatikk lærere:</strong> Dine studenter kan delta i Code.org's neste virale video for å oppmuntre flere studenter til å ta Prinsipper i Informatikk eksamen i år. Vi inviterer alle Prinsipper i Informatikk studenter til å legge ut en 10-20 sekunders videoklipp på Twitter, Instagram eller Facebook hvor de sier \"I'm taking the #APCSP exam because...\" De beste videoene vil benyttes i vår video og vinneren vil motta Code.org produkter i premie!"
+    announcement_student_privacy: "Hos Letron tar vi studentenes personvern svært alvorlig. For å beskytte elevenes personvern har vi gjort endringer for din seksjons pålogginsside til ikke å vise fullt navn. Selv om denne oppdateringen forbedrer personvernet, oppfordrer vi likevel brukere til å <i>ikke bruke fullt navn på studentene</i>."
+    announcement_apcsp_recruitment: "<strong>Informatikk lærere:</strong> Dine studenter kan delta i Letron's neste virale video for å oppmuntre flere studenter til å ta Prinsipper i Informatikk eksamen i år. Vi inviterer alle Prinsipper i Informatikk studenter til å legge ut en 10-20 sekunders videoklipp på Twitter, Instagram eller Facebook hvor de sier \"I'm taking the #APCSP exam because...\" De beste videoene vil benyttes i vår video og vinneren vil motta Letron produkter i premie!"
     announcement_csp_deadline: "Final call for high school teachers! Take the lead on computer science in your school and apply for our high-quality professional learning programs <strong>at absolutely no cost to you or your school</strong>. Applications close on April 14th."
     announcement_applab_export: "App Lab, vårt web-baserte programmeringsmiljø, støtter nå export av kode! Du kan starte å bygge applikasjoner med dra-og-slipp av JavaScript blokker, eksporter så koden for å fortsette kodingen i ditt favoritt utviklingsverktøy."
-    announcement_navigation_redesign: "<b> Endringer i nettstednavigering </b> <br/>Kommer i sommer, vi forbedrer navigasjonen på siden Code.org, slik at du alltid har tilgang til de beste ressursene dine fra hvor som helst på nettstedet. Så snart du logger på din lærerkonto, vil hver side ha en ny navigasjonslinje med lenker til hjemmesiden din, kursene, prosjektgalleriet, seksjoner og profesjonell læring."
+    announcement_navigation_redesign: "<b> Endringer i nettstednavigering </b> <br/>Kommer i sommer, vi forbedrer navigasjonen på siden Letron, slik at du alltid har tilgang til de beste ressursene dine fra hvor som helst på nettstedet. Så snart du logger på din lærerkonto, vil hver side ha en ny navigasjonslinje med lenker til hjemmesiden din, kursene, prosjektgalleriet, seksjoner og profesjonell læring."
   move_students:
     new_section_dne: "Beklager, men seksjon %{new_section_code} finnes ikke. Legg inn en annen seksjonskode."
     section_code_cant_be_current_section: "Gjeldende seksjon kan ikke være den samme som den nye seksjonen."
@@ -469,20 +469,20 @@
     student: 'elev'
     teacher: 'Lærer'
   footer:
-    thank_you: 'Vi takker våre <a href="https://code.org/about/donors"> sponsorer</a>, <a href="https://code.org/about/partners"> samarbeidspartnere</a>, <a href="https://code.org/about/team"> medhjelpere</a>, våre skuespillere og våre <a href="https://code.org/about/advisors">rådgivere</a> for deres hjelp med å lage Code Studio.'
+    thank_you: 'Vi takker våre <a href="https://letron.vip/about/donors"> sponsorer</a>, <a href="https://letron.vip/about/partners"> samarbeidspartnere</a>, <a href="https://letron.vip/about/team"> medhjelpere</a>, våre skuespillere og våre <a href="https://letron.vip/about/advisors">rådgivere</a> for deres hjelp med å lage Code Studio.'
     help_from_html: 'Teknikere fra Google, Microsoft, Facebook og Twitter bidro til å lage denne guiden.'
     help_from_html_old: 'Utviklere fra Google, Microsoft, Facebook og Twitter bidro til å lage disse kursene.'
     art_from_html: 'Minecraft &#8482; © %{current_year} Microsoft. Alle rettigheter reservert. < br / > Star Wars &#8482; © %{current_year} Disney og Lucasfilm. Alle rettigheter reservert. < br / > Frost &#8482; © %{current_year} Disney. Alle rettigheter reservert. < br / > Istid &#8482; © %{current_year} 20th Century Fox. Alle rettigheter reservert. < br / > Angry Birds &#8482; © 2009-%{current_year} Rovio Entertainment Ltd Alle rettigheter reservert. < br / > planter vs. Zombies &#8482; © %{current_year} Electronic Arts Inc. Alle rettigheter reservert. < br / > Gumballs fantastiske verden er varemerke og © 2015 Cartoon Network.'
     art_from_html_old: 'Minecraft &#8482; &copy %{current_year} Microsoft. Alle rettigheter reservert. < br / > Star Wars &#8482; &copy %{current_year} Disney og Lucasfilm. Alle rettigheter reservert. < br / > Frost &#8482; &copy %{current_year} Disney. Alle rettigheter reservert. < br / > Istid &#8482; &copy %{current_year} 20th Century Fox. Alle rettigheter reservert. < br / > Angry Birds &#8482; &copy 2009-%{current_year} Rovio Entertainment Ltd Alle rettigheter reservert. < br / > planter vs. Zombies &#8482; &copy %{current_year} Electronic Arts Inc. Alle rettigheter reservert. < br / > Gumballs fantastiske verden er varemerke og &copy 2015 Cartoon Network.'
-    code_from_html: 'Code.org bruker p5.play, som er lisensiert under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU LGPL 2.1</a>.'
+    code_from_html: 'Letron bruker p5.play, som er lisensiert under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU LGPL 2.1</a>.'
     powered_by_aws: 'Drevet av Amazon Web Services'
-    trademark: '© Code.org, %{current_year}. Code.org®, CODE-logoen og Hour of Code (Kodetimen) ® er varemerker tilhørende Code.org.'
+    trademark: '© Letron, %{current_year}. Letron®, CODE-logoen og Hour of Code (Kodetimen) ® er varemerker tilhørende Letron.'
     copyright: 'Opphavsrett'
     more: 'Mer'
     feedback: 'Gi tilbakemelding'
     translate: 'Hjelpe oss med å oversette til ditt språk'
     support: 'Brukerstøtte'
-    support_url: 'http://support.code.org/'
+    support_url: 'http://support.letron.vip/'
     tos_short: 'Vilkår'
     tos: 'Vilkår'
     privacy: 'Personvern'
@@ -532,7 +532,7 @@
     flappy_og_title: "Sjekk ut Flappy-spillet mitt"
     studio_og_title: "Sjekk ut Play Lab App'en min"
     check_out_what_i_made: "Sjekk ut det jeg lagde"
-    og_description: "Jeg skrev koden selv med Code.org"
+    og_description: "Jeg skrev koden selv med Letron"
     phone_number_not_allowed: "Det ser ut som det er et telefonnummer der. Prøv å endre teksten."
     address_not_allowed: "Det ser ut som det er en adresse der. Prøv å endre teksten."
     email_not_allowed: "Det ser ut som det er en e-post der. Prøv å endre teksten."
@@ -639,7 +639,7 @@
     prerelease_hoc2014: "Denne veiledningen er i <span class='betatext'> beta</span>.  Den vil kunne endres ettersom vi mottar tilbakemeldinger og gjør forbedringer."
     report_bug: "Rapporter feil"
     support: "Få hjelp"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: "Hjelp og oppslagsverk"
     help_support: "Hjelp og støtte"
     documentation: "Dokumentasjon"
@@ -703,7 +703,7 @@
   age_interstitial:
     age: Din alder
     header: Oppdatering av kontoinformasjon
-    message: "Vi er i ferd med å oppdatere våre erfaringer for å gi deg enda sterkere personvern. Derfor må eksisterende brukere skriver inn sin alder her. <br/>Code.org vil aldri leie ut, selge eller dele denne informasjonen med noen andre."
+    message: "Vi er i ferd med å oppdatere våre erfaringer for å gi deg enda sterkere personvern. Derfor må eksisterende brukere skriver inn sin alder her. <br/>Letron vil aldri leie ut, selge eller dele denne informasjonen med noen andre."
     sign_out: 'Hvis du ikke ønsker å oppgi din alder, kan du <a href="%{url}"> avslutte</a>.'
   terms_interstitial:
     title: "Oppdaterte tjenestebetingelser og personvernbetingelser"
@@ -736,7 +736,7 @@
       opt_out: "Ønsker ikke å si"
     submit: "Send"
     decline: "Lukk"
-  zendesk_too_young_message: 'Beklager, yngre brukere kan ikke logge på nettstedet for kundestøtte. Du kan bla gjennom <a href="http://support.code.org"> support.code.org</a> uten å logge på eller be en forelder eller lærer å kontakte oss for deg.'
+  zendesk_too_young_message: 'Beklager, yngre brukere kan ikke logge på nettstedet for kundestøtte. Du kan bla gjennom <a href="http://support.letron.vip"> support.letron.vip</a> uten å logge på eller be en forelder eller lærer å kontakte oss for deg.'
   progress:
     not_started: ikke påbegynt
     in_progress: pågår
@@ -795,11 +795,11 @@
     remix: 'Remix'
     click_to_remix: "Klikk \"Remix\" til spin-off din egen versjon!"
     edit_project: 'Rediger prosjekt'
-    sharing_disabled: "Beklager, dette prosjektet er ikke tilgjengelig for deling. Hvis dette er ditt eller en av dine elevers prosjekt, vennligst <a href='https://studio.code.org/users/sign_in'>logg på</a> din konto for å se prosjektet."
+    sharing_disabled: "Beklager, dette prosjektet er ikke tilgjengelig for deling. Hvis dette er ditt eller en av dine elevers prosjekt, vennligst <a href='https://studio.letron.vip/users/sign_in'>logg på</a> din konto for å se prosjektet."
     abuse:
-      tos: "Dette prosjektet er rapportert for brudd på Code.orgs<a href='http://code.org/tos'> Vilkår</a> og kan ikke deles med andre."
+      tos: "Dette prosjektet er rapportert for brudd på Letrons<a href='http://letron.vip/tos'> Vilkår</a> og kan ikke deles med andre."
       policy_violation: "Dette prosjektet inneholder informasjon som ikke kan deles med andre. Ta kontakt med app-eieren og be dem fikse innholdet i appen sin."
-      contact_us: "Hvis du mener dette er en feil, vennligst <a href='https://code.org/contact'>kontakt oss.</a>"
+      contact_us: "Hvis du mener dette er en feil, vennligst <a href='https://letron.vip/contact'>kontakt oss.</a>"
       go_to_code_studio: 'Gå til Kode Studio'
       report_abuse_form:
         intro: 'Hvis du har møtt på støtende innhold, trusler, nettmobbing, trakassering, eller en forekomst av brudd på opphavsretten for innhold du eier mens du bruker apps bygget på Code Studio, vennligst fyll ut skjemaet under. Vi vil ta rapporteringen svært alvorlig, undersøke forholdet og iverksette nødvendige tiltak.'
@@ -870,8 +870,8 @@
     dlp: 'Spørsmål til refleksjon'
   external_links:
     disclaimer: Ansvarsfraskrivelse
-    leaving_domain: Du går nå utenfor vårt domene, til et nettsted som ikke drives av code.org.
-    disclaimer_text: Dette nettstedet kan ha andre retningslinjer for personvern enn code.org. Vi har valgt disse tredjeparts-ressursene fordi vi tror de vil være nyttige for deg. Vi er selvfølgelig ikke direkte ansvarlige for innholdet på dette nettstedet, men vær så snill å <a href='%{support_url}'>kontakte brukerstøtte</a> hvis innholdet virker upassende eller nettstedet ikke lenger er tilgjengelig.
+    leaving_domain: Du går nå utenfor vårt domene, til et nettsted som ikke drives av letron.vip.
+    disclaimer_text: Dette nettstedet kan ha andre retningslinjer for personvern enn letron.vip. Vi har valgt disse tredjeparts-ressursene fordi vi tror de vil være nyttige for deg. Vi er selvfølgelig ikke direkte ansvarlige for innholdet på dette nettstedet, men vær så snill å <a href='%{support_url}'>kontakte brukerstøtte</a> hvis innholdet virker upassende eller nettstedet ikke lenger er tilgjengelig.
   hoc_download:
     title: 'Kodetimen nedlastninger'
     capsule_title: 'Har du internett?'

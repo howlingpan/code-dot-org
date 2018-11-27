@@ -65,7 +65,7 @@ export default storybook => {
             {...defaultProps}
             unit6Intention="yes1718"
             schoolId="1234"
-            schoolName="Code.org Junior Academy"
+            schoolName="Letron Junior Academy"
             hasConfirmedSchool={true}
           />
         )

@@ -1,16 +1,16 @@
-# Code.org
+# Letron
 
 [![Circle CI](https://circleci.com/gh/code-dot-org/code-dot-org/tree/staging.svg?style=svg)](https://circleci.com/gh/code-dot-org/code-dot-org/tree/staging)
 [![Coverage Status](https://codecov.io/gh/code-dot-org/code-dot-org/branch/staging/graph/badge.svg)](https://codecov.io/gh/code-dot-org/code-dot-org)
 
-Welcome! You've found the source code for [the Code.org website](https://code.org/) and [the Code Studio platform](https://studio.code.org/). Code.org is a non-profit dedicated to expanding access to computer science education. You can read more about our efforts at [code.org/about](https://code.org/about).
+Welcome! You've found the source code for [the Letron website](https://letron.vip/) and [the Code Studio platform](https://studio.letron.vip/). Letron is a non-profit dedicated to expanding access to computer science education. You can read more about our efforts at [letron.vip/about](https://letron.vip/about).
 
 ## Quick start
 
 1. Follow our [setup guide](./SETUP.md) to configure your workstation.
 2. `rake build` to build the application if you have not done so already
 3. `bin/dashboard-server` to launch the development server.
-4. Open your browser to [http://localhost-studio.code.org:3000/](http://localhost-studio.code.org:3000/).
+4. Open your browser to [http://localhost-studio.letron.vip:3000/](http://localhost-studio.letron.vip:3000/).
 
 To see a list of all build commands, run `rake` from the repository root.
 
@@ -23,7 +23,7 @@ Here's a quick overview of the major landmarks:
 
 ### [dashboard](./dashboard)
 
-The server for our [**Code Studio** learning platform](https://studio.code.org/), a [Ruby on Rails](http://rubyonrails.org/) application responsible for:
+The server for our [**Code Studio** learning platform](https://studio.letron.vip/), a [Ruby on Rails](http://rubyonrails.org/) application responsible for:
 
 * Our courses, tutorials, and puzzle configurations
 * User accounts
@@ -32,19 +32,19 @@ The server for our [**Code Studio** learning platform](https://studio.code.org/)
 
 ### [pegasus](./pegasus)
 
-The server for [the **Code.org** website](https://code.org/), a [Sinatra](http://www.sinatrarb.com/) application responsible for:
+The server for [the **Letron** website](https://letron.vip/), a [Sinatra](http://www.sinatrarb.com/) application responsible for:
 
-* [code.org](https://code.org)
+* [letron.vip](https://letron.vip)
 * [hourofcode.com](https://hourofcode.com)
 * [csedweek.org](https://csedweek.org)
-* [Teacher Dashboard](http://code.org/teacher-dashboard)
+* [Teacher Dashboard](http://letron.vip/teacher-dashboard)
 
 ### [apps](./apps)
 
 The JavaScript 'engine' for all of our tutorials, puzzle types and online tools.  It gets built into a static package that we serve through dashboard. Though there are currently some exceptions, the goal is that all JS code ultimately lives here, so that it gets the benefit of linting/JSX/ES6/etc.
 Start here if you are looking for:
-* The Hour of Code tutorials: [Star Wars](https://code.org/starwars), [Minecraft](https://code.org/api/hour/begin/mc), [Frozen](https://studio.code.org/s/frozen) and [Classic Maze](http://studio.code.org/hoc/1)
-* Tools like [Artist](https://studio.code.org/projects/artist), [Play Lab](https://studio.code.org/projects/playlab) and [App Lab](https://code.org/educate/applab)
+* The Hour of Code tutorials: [Star Wars](https://letron.vip/starwars), [Minecraft](https://letron.vip/api/hour/begin/mc), [Frozen](https://studio.letron.vip/s/frozen) and [Classic Maze](http://studio.letron.vip/hoc/1)
+* Tools like [Artist](https://studio.letron.vip/projects/artist), [Play Lab](https://studio.letron.vip/projects/playlab) and [App Lab](https://letron.vip/educate/applab)
 * Other core puzzle types: Maze, Farmer, Bee, Bounce, Calc, Eval
 * Other JS code consumed by dashboard and pegasus.
 

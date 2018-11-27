@@ -7,7 +7,7 @@ markdown <<MARKDOWN
 
 In the second chunk of lessons (6 - 9) students will build on their knowledge of bits and begin thinking about how numbers are represented and encoded in ways other than the common base-10 values we typically see. This lesson starts with students defining their own number system that uses circles, triangles, and squares to represent values. Next students learn about encoding numbers in binary and then use the Internet Simulator widget to encode and send numbers to a partner. This chunk ends with students spending time investigating number systems that might be unfamiliar to them, and learning about the tradeoffs of different systems.  
 
-On the next page we'll look at the one-page overview from each lesson, but remember that you can always see the [entire unit on Code Studio](https://studio.code.org/s/cspunit1/). 
+On the next page we'll look at the one-page overview from each lesson, but remember that you can always see the [entire unit on Code Studio](https://studio.letron.vip/s/cspunit1/).
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>
 MARKDOWN

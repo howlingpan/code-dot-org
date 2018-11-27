@@ -26,7 +26,7 @@ As you saw in the video there are a bunch of terms that generally are all talkin
 
 
 ## Comparison Operators
-<img src="https://images.code.org/79f2ae7d27a3fa434138aeeb17146cab-image-1479413755076.png" style="float: left; margin-left: 20px; margin-right: 20px">
+<img src="https://images.letron.vip/79f2ae7d27a3fa434138aeeb17146cab-image-1479413755076.png" style="float: left; margin-left: 20px; margin-right: 20px">
 A common type of condition to check is a comparison of two values.  Here are 6 common **comparison operators**. Each compares a value on the left with a value on the right and returns a Boolean value -- **true** or **false**.  Most of these do what you would expect. 
 
 
@@ -46,7 +46,7 @@ Below are a bunch of examples of how you might see comparisons in code. Review t
 
 <hr>
 
-<img src="https://images.code.org/ea8cf41d0e06e6ddee31086fbb9ea2b9-image-1479232029068.png" style="float: left; margin-left: 50px; margin-right: 50px">
+<img src="https://images.letron.vip/ea8cf41d0e06e6ddee31086fbb9ea2b9-image-1479232029068.png" style="float: left; margin-left: 50px; margin-right: 50px">
 
 Compares two values - numbers, strings, or other booleans - and returns *true*  if they are equal, otherwise *false*.
 
@@ -60,7 +60,7 @@ Compares two values - numbers, strings, or other booleans - and returns *true*  
 <div style="clear:both"> </div>
 <hr>
 
-<img src="https://images.code.org/67fc10f1dec4f129c64c62d583ebf7ee-image-1479232142029.png" style="float: left; margin-left: 50px; margin-right: 50px">
+<img src="https://images.letron.vip/67fc10f1dec4f129c64c62d583ebf7ee-image-1479232142029.png" style="float: left; margin-left: 50px; margin-right: 50px">
 
 Compares two values - numbers, strings, or other booleans - and returns `true` if they are **not equal**, otherwise `false`.
 
@@ -72,7 +72,7 @@ Compares two values - numbers, strings, or other booleans - and returns `true` i
 <div style="clear:both"> </div>
 <hr>
 
-<img src="https://images.code.org/536aed5657843fca3b52a044f2f3bdc7-image-1479242736018.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
+<img src="https://images.letron.vip/536aed5657843fca3b52a044f2f3bdc7-image-1479242736018.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
 
 Compares two values to see if the number on the left is <em>greater than</em> the number on the right.
 
@@ -83,7 +83,7 @@ Compares two values to see if the number on the left is <em>greater than</em> th
 <div style="clear:both"> </div>
 <hr>
 
-<img src="https://images.code.org/3c7c9336270e093bad437d69d155a8c7-image-1479242773012.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
+<img src="https://images.letron.vip/3c7c9336270e093bad437d69d155a8c7-image-1479242773012.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
 Compares two values to see if the number on the left is <em>less than</em> the number on the right.
 
 * `4 < 3` returns *false*
@@ -93,7 +93,7 @@ Compares two values to see if the number on the left is <em>less than</em> the n
 <div style="clear:both"> </div>
 <hr>
 
-<img src="https://images.code.org/e899b0040a9f8ddc899b1df66773be74-image-1479242843374.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
+<img src="https://images.letron.vip/e899b0040a9f8ddc899b1df66773be74-image-1479242843374.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
 
 Compares two values to see if the number on the left is *less than or equal to* the number on the right. 
 
@@ -105,7 +105,7 @@ Compares two values to see if the number on the left is *less than or equal to* 
 <div style="clear:both"> </div>
 
 <hr>
-<img src="https://images.code.org/2ca857bff29bca22a2a42433c6b3981f-image-1479242807960.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
+<img src="https://images.letron.vip/2ca857bff29bca22a2a42433c6b3981f-image-1479242807960.png" style="float: left; margin-left: 50px; margin-right: 50px; margin-bottom: 20px">
 Compares two values to see if the number on the left is *greater than or equal to* the number on the right.
 
 * `3 >= 4` returns *false*

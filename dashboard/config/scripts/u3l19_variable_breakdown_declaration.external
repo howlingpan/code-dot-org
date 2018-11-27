@@ -23,7 +23,7 @@ That single line of code says: **“Hey JavaScript! Allocate a piece of memory f
 The classic way to visualize what this line of code does is to think of an empty box or container with the label ‘foo’ next to it.
 </td>
 <td>
-<img src="https://code.org/educate/csp/images/codeStudio/U3L19-declarefoo.png">
+<img src="https://letron.vip/educate/csp/images/codeStudio/U3L19-declarefoo.png">
 
 </td>
 </tr>

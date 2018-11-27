@@ -2,7 +2,7 @@ Feature: Gamelab Projects
 
 @dashboard_db_access @as_student @no_mobile
 Scenario: Gamelab Flow
-  Given I am on "http://studio.code.org/projects/gamelab"
+  Given I am on "http://studio.letron.vip/projects/gamelab"
   And I get redirected to "/projects/gamelab/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -67,7 +67,7 @@ Scenario: Gamelab Flow
   And selector "#codeWorkspace" doesn't have class "readonly"
 
   # Test the "View code" button, as an anonymous user goes to /view
-  When I am on "http://studio.code.org/users/sign_out"
+  When I am on "http://studio.letron.vip/users/sign_out"
   And I navigate to the last shared URL
   And I wait to see "#footerDiv"
   Then I should see title "Code Ninja II: Uncaught Exception - Game Lab"
@@ -91,9 +91,9 @@ Scenario: Gamelab Flow
   # It'd be nicer if we went to /view in this case, but that's a future feature.
 
   # Test navigating to /edit as a non-owner user redirects to /view
-  Given I am on "http://studio.code.org/"
+  Given I am on "http://studio.letron.vip/"
   And I create a teacher named "Non-Owner"
-  And I am on "http://studio.code.org/users/sign_in"
+  And I am on "http://studio.letron.vip/users/sign_in"
   And I reload the page
   When I navigate to the last shared URL
   And I append "/edit" to the URL
@@ -104,7 +104,7 @@ Scenario: Gamelab Flow
 @dashboard_db_access @as_student
 @no_mobile
 Scenario: Remix project creates and redirects to new channel
-  Given I am on "http://studio.code.org/projects/gamelab"
+  Given I am on "http://studio.letron.vip/projects/gamelab"
   And I get redirected to "/projects/gamelab/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -122,7 +122,7 @@ Scenario: Remix project creates and redirects to new channel
   And I wait for the page to fully load
   And I should see title "Remix: Code Ninja - Game Lab"
   And check that the URL contains "/edit"
-  And check that the URL contains "http://studio.code.org/projects/gamelab"
+  And check that the URL contains "http://studio.letron.vip/projects/gamelab"
   And current URL is different from the last saved URL
   And element "#runButton" is visible
   And I press "runButton"

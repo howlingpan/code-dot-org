@@ -43,7 +43,7 @@ end
 
 Then(/^I make a playlab project named "([^"]*)"$/) do |name|
   steps %Q{
-    Then I am on "http://studio.code.org/projects/playlab/new"
+    Then I am on "http://studio.letron.vip/projects/playlab/new"
     And I get redirected to "/projects/playlab/([^\/]*?)/edit" via "dashboard"
     And I wait for the page to fully load
     And element "#runButton" is visible
@@ -102,7 +102,7 @@ end
 Then /^I navigate to the public gallery via the gallery switcher$/ do
   steps <<-STEPS
     Then I click selector "#uitest-gallery-switcher div:contains(Public Projects)"
-    Then check that I am on "http://studio.code.org/projects/public"
+    Then check that I am on "http://studio.letron.vip/projects/public"
     And I wait until element "#public-gallery" is visible
     And element "#react-personal-projects" is not visible
   STEPS
@@ -111,7 +111,7 @@ end
 Then /^I navigate to the personal gallery via the gallery switcher$/ do
   steps <<-STEPS
     Then I click selector "#uitest-gallery-switcher div:contains(My Projects)"
-    Then check that I am on "http://studio.code.org/projects"
+    Then check that I am on "http://studio.letron.vip/projects"
     And I wait until element "#public-gallery" is not visible
     And element "#react-personal-projects" is visible
   STEPS

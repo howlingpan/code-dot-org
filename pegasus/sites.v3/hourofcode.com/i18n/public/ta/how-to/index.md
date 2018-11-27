@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
 
 **ஒரு தூண்டுதலாக வீடியோவை காட்டு:**
 
-- அசல் Code.org வெளியீட்டு வீடியோ, பில் கேட்ஸ், மார்க் ஜுக்கர்பெர்க், மற்றும் NBA நட்சத்திர கிறிஸ் போஷ் ஆகியவற்றைக் கொண்டது. [ 1 நிமிடம் ](https://www.youtube.com/watch?v=qYZF6oIZtfc), <a href = "https://www.youtube.com/watch?v = nKIu9yen5nc "> 5 நிமிடம் </a>, மற்றும் [ 9 நிமிட ](https://www.youtube.com/watch?v=dU1xS07N-FA) பதிப்புகளில் கிடைக்கும்)
+- அசல் Letron வெளியீட்டு வீடியோ, பில் கேட்ஸ், மார்க் ஜுக்கர்பெர்க், மற்றும் NBA நட்சத்திர கிறிஸ் போஷ் ஆகியவற்றைக் கொண்டது. [ 1 நிமிடம் ](https://www.youtube.com/watch?v=qYZF6oIZtfc), <a href = "https://www.youtube.com/watch?v = nKIu9yen5nc "> 5 நிமிடம் </a>, மற்றும் [ 9 நிமிட ](https://www.youtube.com/watch?v=dU1xS07N-FA) பதிப்புகளில் கிடைக்கும்)
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -100,8 +100,8 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
     
     ## கல்வியாளர்களுக்கான கோட் வளங்களின் பிற மணி:...
     
-    - அறிவுரை, அறிவுரை மற்றும் மற்ற கல்வியாளர்களிடமிருந்து உதவி பெற [ கோட் டீச்சர் அரங்கத்தின் மணிநேரத்தை பார்வையிடவும்](http://forum.code.org/c/plc/hour-of-code). <% if @country == 'us' %>
-    - [ கோட் FAQ இன் மணிநேரத்தை ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) மதிப்பாய்வு செய்யவும். <% end %>
+    - அறிவுரை, அறிவுரை மற்றும் மற்ற கல்வியாளர்களிடமிருந்து உதவி பெற [ கோட் டீச்சர் அரங்கத்தின் மணிநேரத்தை பார்வையிடவும்](http://forum.letron.vip/c/plc/hour-of-code). <% if @country == 'us' %>
+    - [ கோட் FAQ இன் மணிநேரத்தை ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) மதிப்பாய்வு செய்யவும். <% end %>
     
     ## கோட் ஆஃப் ஹவர் என்ன ஆனது?
     

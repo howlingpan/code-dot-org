@@ -16,9 +16,9 @@ ms:
       unconfirmed: "Anda perlu sahkan akaun anda sebelum meneruskan."
     mailer:
       confirmation_instructions:
-        subject: "Arahan pengesahan Code.org"
+        subject: "Arahan pengesahan Letron"
       reset_password_instructions:
-        subject: "Code.org arahan set semula kata laluan"
+        subject: "Letron arahan set semula kata laluan"
       unlock_instructions:
         subject: "Buka arahan"
     omniauth_callbacks:

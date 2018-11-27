@@ -12,7 +12,7 @@
     "start_direction": "90",
     "is_k1": "false",
     "skip_instructions_popup": "false",
-    "images": "[{\"filename\":\"https://images.code.org/c1c91824a192ede98044977e92d21923-image-1475778715698.png\",\"position\":[160,155]}]",
+    "images": "[{\"filename\":\"https://images.letron.vip/c1c91824a192ede98044977e92d21923-image-1475778715698.png\",\"position\":[160,155]}]",
     "free_play": "false",
     "ideal": "4",
     "slider_speed": "0.4",
@@ -34,7 +34,7 @@
     "definition_collapse": "false",
     "disable_examples": "false",
     "never_autoplay_video": "false",
-    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"If you use the block to have me `move forward by 100 pixels`, I will draw a line automatically.\",\"hint_id\":\"2-3_Artist_1_new_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/520bcc0d32f279d92eafc9c9a2b05988/grade2_MakeDogTag_1.mp3\"},{\"hint_class\":\"pointer\",\"hint_markdown\":\"Having trouble turning the corner? Use the `turn right 90 degrees` block.\",\"hint_id\":\"2-3_Artist_1_new_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/043ce2e0d6c71f67e16cea36a96e4790/grade2_MakeDogTag_1.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"If you use the block to have me `move forward by 100 pixels`, I will draw a line automatically.\",\"hint_id\":\"2-3_Artist_1_new_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/520bcc0d32f279d92eafc9c9a2b05988/grade2_MakeDogTag_1.mp3\"},{\"hint_class\":\"pointer\",\"hint_markdown\":\"Having trouble turning the corner? Use the `turn right 90 degrees` block.\",\"hint_id\":\"2-3_Artist_1_new_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/043ce2e0d6c71f67e16cea36a96e4790/grade2_MakeDogTag_1.mp3\"}]",
     "callout_json": "[]",
     "discard_background": "false",
     "contained_level_names": null

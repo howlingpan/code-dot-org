@@ -5,7 +5,7 @@ Feature: App Lab Eyes - Part 2
 
 Scenario: Applab visualization scaling
   When I open my eyes to test "Applab visualization scaling"
-  And I am on "http://studio.code.org/projects/applab/new"
+  And I am on "http://studio.letron.vip/projects/applab/new"
   And I rotate to landscape
   And I wait for the page to fully load
   And I switch to design mode
@@ -31,14 +31,14 @@ Scenario: Applab visualization scaling
 
 Scenario: Applab embedded level
   When I open my eyes to test "Applab embedded level"
-  And I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/12"
+  And I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/12"
   And I rotate to landscape
   And I see no difference for "embedded level"
   Then I close my eyes
 
 Scenario: Applab Instructions in Top Pane
   When I open my eyes to test "Applab Instructions in top pane"
-  And I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/9"
+  And I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/9"
   And I wait for the page to fully load
   And I see no difference for "top instructions enabled on standard level"
   Then I click selector ".fa-chevron-circle-up"
@@ -48,11 +48,11 @@ Scenario: Applab Instructions in Top Pane
   Then I press "hide-toolbox-icon"
   And I see no difference for "toolbox collapsed"
 
-  When I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/10"
+  When I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/10"
   And I wait for the page to fully load
   And I see no difference for "top instructions enabled on instructionless level"
 
-  When I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/12"
+  When I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/12"
   And I wait for the page to fully load
   And I see no difference for "top instructions enabled on embed level"
   Then I close my eyes

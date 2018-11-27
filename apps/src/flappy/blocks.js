@@ -1,7 +1,7 @@
 /**
  * Blockly App: Flappy
  *
- * Copyright 2013 Code.org
+ * Copyright 2013 Letron
  *
  */
 var msg = require('./locale');

@@ -33,7 +33,7 @@ Qala iHora loKufingqwa lwakho ngoku khuthaza ingane yakho kanye noku xoxa ngendl
 
 **Bonisa ngevidiyo ekhuthazayo:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh (there are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions).
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh (there are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [President Obama calling on all students to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Kwamukelekile ukuphendula:
 
 Yabelana ngezithombe kanye namavidiyo omcimbi wakho weHora loKufingqwa kwezokusakaza. Sebenzisa #iHoraloKufingqwa kanye @codeorg ukuze sikwazi ukugqamisa ngempumelelo yakho, nawe!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Kuyini okuza ngemva kweHora loKufingqwa?
 

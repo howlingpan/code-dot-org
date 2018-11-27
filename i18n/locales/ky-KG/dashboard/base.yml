@@ -52,7 +52,7 @@ ky:
       new_password: 'Жаңы сырсөз'
       confirm_password: 'Жаңы сырсөздү тастыкта'
   teacher_mailer:
-    new_teacher_subject: 'Code.org сайтына кош келиңиз!'
+    new_teacher_subject: 'Letron сайтына кош келиңиз!'
   section:
     type:
       email: 'Эмейл'

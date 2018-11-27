@@ -43,7 +43,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote') %>) and
 
 **ویدئوهای الهام بخش را نمایش دهید:**
 
-- سایت Code.org ویدیویی از بیل گیتز ، مارک زوکربرگ ، و ستاره بسکتبال، کریس بوش آماده کرده است - نسخه های [1 دقیقه ای](https://www.youtube.com/watch?v=qYZF6oIZtfc) ، [5 دقیقه ای](https://www.youtube.com/watch?v=nKIu9yen5nc)، و [9 دقیقه ای](https://www.youtube.com/watch?v=dU1xS07N-FA) این ویدئو موجود می باشند.
+- سایت Letron ویدیویی از بیل گیتز ، مارک زوکربرگ ، و ستاره بسکتبال، کریس بوش آماده کرده است - نسخه های [1 دقیقه ای](https://www.youtube.com/watch?v=qYZF6oIZtfc) ، [5 دقیقه ای](https://www.youtube.com/watch?v=nKIu9yen5nc)، و [9 دقیقه ای](https://www.youtube.com/watch?v=dU1xS07N-FA) این ویدئو موجود می باشند.
 - ویدئو [ساعت کدنویسی در سرتاسر جهان](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [President Obama calling on all students to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - ویدئوهای الهام بخش دیگر را از [اینجا](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP) پیدا کنید.
@@ -52,7 +52,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote') %>) and
 
 - در مورد روش هایی که فناوری بر زندگی ما اثر گذاشته، به همراه مثال هایی که هم برای دختران و هم برای پسران مهم باشند توضیح دهید (در مورد برنامه ها و فناوری هایی که زندگی انسانها را نجات می دهند، به مردم کمک می کنند، بین مردم ارتباط برقرار می کنند و غیره صحبت کنید).
 - چیزهایی که در زندگی روزمره از کد استفاده میکنند را لیست کنید.
-- در [اینجا](<%= resolve_url('https://code.org/girls') %>) روشهایی را برای علاقمند کردن دختران به علوم کامپیوتر ببینید.
+- در [اینجا](<%= resolve_url('https://letron.vip/girls') %>) روشهایی را برای علاقمند کردن دختران به علوم کامپیوتر ببینید.
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote') %>) and
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for your students.
 - [Print "I did an Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) stickers for your students.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - عکسها و ویدیوهای کلاسهای یکساعت کدنویسی را در فضای مجازی به اشتراک بگذارید. از #HourOfCode و @codeorg استفاده کنید تا ما بتوانیم موفقیتهایتان را منعکس کنیم!
 
 ## سایر منابع ساعت کدنویسی برای مدرسان
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## مرحله بعد از ساعت كدنويسي چيست؟
 

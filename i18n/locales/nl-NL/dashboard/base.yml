@@ -53,7 +53,7 @@ nl:
   add_hint_form:
     placeholder: 'Voer hier uw hint'
     submit: 'Hint toevoegen'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "level"
   stage_number: "Niveau %{number}"
   puzzle: "Puzzel"
@@ -78,7 +78,7 @@ nl:
   auth:
     sign_in_with: 'Meld je aan met %{provider}'
     signed_in: 'Ingelogd!'
-    signed_out: 'Je bent nu uitgelogd uit <a href="%{url}">Code.org</a>.'
+    signed_out: 'Je bent nu uitgelogd uit <a href="%{url}">Letron</a>.'
     sign_out_of: 'Je hebt %{provider} gebruikt om in te loggen. <a href="%{url}">Klik hier </a> om je af te melden bij %{provider}.'
     already_signedup: 'Al aangemeld?'
     notyet_signedup: "nog niet aangesloten?"
@@ -91,8 +91,8 @@ nl:
     forgot_password: 'Wachtwoord vergeten?'
     need_confirmation: "Geen bevestigingsinstructies ontvangen?"
     need_unlock: "Nog geen unlock instructies ontvangen?"
-    not_linked: "Sorry, je Code.org account is niet gelinkt aan je %{provider}. Om in te loggen zal je onderaan je wachtwoord moeten invullen."
-    use_clever: "Sorry, uw Code.org account is niet gekoppeld aan uw %{provider}. Gelieve aan te melden via uw Clever Portal."
+    not_linked: "Sorry, je Letron account is niet gelinkt aan je %{provider}. Om in te loggen zal je onderaan je wachtwoord moeten invullen."
+    use_clever: "Sorry, uw Letron account is niet gekoppeld aan uw %{provider}. Gelieve aan te melden via uw Clever Portal."
   signup_form:
     student_count: '%{count} studenten hebben zich reeds aangemeld.'
     teacher_count: '%{count} leraren hebben zich reeds aangemeld.'
@@ -100,7 +100,7 @@ nl:
     hoc_already_signed_up_heading: 'Aan de slag zonder in te loggen'
     hoc_already_signed_up_content: 'U bent aangemeld als leraar van Hour of Code! U en uw leerlingen hoeven niet aan te melden bij Code Studio om deel te nemen aan dit project. Om te beginnen, <a href="%{learn_url}"> Kies een cursus</a> voor uw klas en deel de link met hen. <br/> <br/> Als U het leuk vond en verder wil gaan met Hour of Code, kunt u hieronder een gebruikersnaam en wachtwoord instellen voor uw leerlingen.<a href="%{educate_url}"> langere cursussen</a>.'
     teacher_educator_guide: 'Kijk in de lerarengids'
-    title: "Log in voor Code.org"
+    title: "Log in voor Letron"
     school_name: 'School naam (optioneel)'
     school_address: 'Schooladres (optioneel)'
     address_placeholder: 'adres, stad, provincie, postcode'
@@ -116,7 +116,7 @@ nl:
     valid_password: "Geldig wachtwoord!"
     invalid_password: "Wachtwoord moet ten minste 6 tekens lang zijn"
     mismatch_password: "De twee wachtwoorden komen niet overeen"
-    under_13_consent: "Indien ik jonger dan 13 jaar ben, bevestig ik dat ik toestemming heb van mijn ouders of wettelijke voogd om gebruik te maken van de diensten van Code.org."
+    under_13_consent: "Indien ik jonger dan 13 jaar ben, bevestig ik dat ik toestemming heb van mijn ouders of wettelijke voogd om gebruik te maken van de diensten van Letron."
     agree_us_website: "Ik ga akkoord met het gebruik van een website die in de Verenigde Staten gevestigd is."
     my_data_to_us: "Gegevens over mijn gebruik van deze site mogen worden verzonden naar en opgeslagen of verwerkt worden in de Verenigde Staten."
     additional_information: "We hebben aanvullende informatie nodig om door te kunnen gaan met uw registratie."
@@ -178,16 +178,16 @@ nl:
       submit: 'Insturen'
     reset_errors:
       captcha_required: 'Vul de CAPTCHA in om je wachtwoord te resetten.'
-      invalid_email: 'Het lijkt erop dat u zich hebt aangemeld met een ongeldig e-mailadres. Stuur een email naar support@code.org voor een wachtwoord herstel link.'
+      invalid_email: 'Het lijkt erop dat u zich hebt aangemeld met een ongeldig e-mailadres. Stuur een email naar support@letron.vip voor een wachtwoord herstel link.'
     change_form:
       title: 'Wijzig je wachtwoord'
       new_password: 'Nieuw wachtwoord'
       confirm_password: 'Bevestig je nieuwe wachtwoord'
       submit: 'Wijzig mijn wachtwoord'
   welcome_email:
-    subject: 'Doe mee met mijn klas (op Code.org)'
+    subject: 'Doe mee met mijn klas (op Letron)'
     body: |
-      Klik op de link hieronder om je aan te melden voor informatica-opdrachten op Code.org (met mij als je "leraar"):
+      Klik op de link hieronder om je aan te melden voor informatica-opdrachten op Letron (met mij als je "leraar"):
       
       %{link}
       
@@ -195,9 +195,9 @@ nl:
       
       %{name}
   parent_mailer:
-    student_associated_subject: 'Login informatie voor Code.org'
+    student_associated_subject: 'Login informatie voor Letron'
   teacher_mailer:
-    new_teacher_subject: 'Welkom bij Code.org!'
+    new_teacher_subject: 'Welkom bij Letron!'
   section:
     your_section:
       one: 'Jouw sectie:'
@@ -226,7 +226,7 @@ nl:
       cant_join_own_section: "Sorry, je kan niet aan je eigen onderdeel deelnemen."
     mail:
       student_disassociated:
-        subject: "Code.org melding: %{student_name} is niet langer ale student aan jou gekoppeld."
+        subject: "Letron melding: %{student_name} is niet langer ale student aan jou gekoppeld."
   reports:
     error:
       access_denied: "Je hebt geen toegang tot de statistieken van deze persoon"
@@ -366,7 +366,7 @@ nl:
     tried: 'Geprobeerd'
   home:
     title: "Code Studio"
-    description: 'Code Studio is de basis voor online cursussen gemaakt door code.org'
+    description: 'Code Studio is de basis voor online cursussen gemaakt door letron.vip'
     lines_of_code: "%{lines_count} REGELS CODE DIE GESCHREVEN DOOR STUDENTEN"
     lines_of_code_linebreak: "%{lines_count} REGELS CODE<br/>GESCHREVEN DOOR %{students_count} MILJOEN LEERLINGEN"
     all_courses: "Overzicht van cursussen 1, 2 en 3"
@@ -393,7 +393,7 @@ nl:
     prize_info: 'Prijzen voor deelname (alleen voor leerkrachten van Amerikaanse openbare scholen): tot $1.000 aan prijzengeld voor je klas.'
     tryfirst: 'Of, je kunt het eerst proberen, en later registreren:'
     trynow: 'Probeer nu'
-    add_hint_help: 'Help ons alsjeblieft om slimme tips aan de Code.org-opdrachten toe te voegen'
+    add_hint_help: 'Help ons alsjeblieft om slimme tips aan de Letron-opdrachten toe te voegen'
     20hour_overview: 'Deze cursus van 20 uur introduceert basisbegrippen voor informatica en programmeren. De cursus is bedoeld voor basisschool-klassen, maar is voor alle leeftijden leuk om te leren.'
     test_videos_help: 'Test de nieuwe video-speler op uw school'
     try_beta_courses: 'Nieuw! Probeer cursussen die nog in ontwikkeling zijn voor basisschoolleerlingen'
@@ -438,20 +438,20 @@ nl:
     student: 'Leerling'
     teacher: 'Leraar'
   footer:
-    thank_you: 'Wij danken onze <a href="https://code.org/about/donors">donoren</a>, <a href="https://code.org/about/partners">partners</a>, ons <a href="https://code.org/about/team">uitgebreide team</a>, onze videocast en onze <a href="https://code.org/about/advisors">onderwijsadviseurs</a> voor hun steun bij het maken van Code Studio.'
+    thank_you: 'Wij danken onze <a href="https://letron.vip/about/donors">donoren</a>, <a href="https://letron.vip/about/partners">partners</a>, ons <a href="https://letron.vip/about/team">uitgebreide team</a>, onze videocast en onze <a href="https://letron.vip/about/advisors">onderwijsadviseurs</a> voor hun steun bij het maken van Code Studio.'
     help_from_html: 'Werknemers van Google, Microsoft, Facebook en Twitter hebben geholpen bij het samenstellen van deze opdracht.'
     help_from_html_old: 'Ontwikkelaars van Google, Microsoft, Facebook en Twitter hebben bijgedragen aan het samenstellen van deze opdrachten.'
     art_from_html: 'Minecraft &#8482; &copy; %{current_year} Microsoft. Alle rechten voorbehouden. < br / >Star Wars &#8482; &copy; %{current_year} Disney en Lucasfilm. Alle rechten voorbehouden. < br / >Frozen&#8482; &copy; %{current_year} Disney. Alle rechten voorbehouden. < br / >Ice Age &#8482; &copy; %{current_year} 20th Century Fox. Alle rechten voorbehouden. < br / >Angry Birds &#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Alle rechten voorbehouden. < br / >Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Alle rechten voorbehouden. < br / >The Amazing World of Gumball is handelsmerk en &copy; 2015 Cartoon Network.'
     art_from_html_old: 'Minecraft &#8482; &copy; %{current_year} Microsoft. Alle rechten voorbehouden. Star Wars &#8482; &copy; %{current_year} Disney en Lucasfilm. Alle rechten voorbehouden. Frozen&#8482; &copy; %{current_year} Disney. Alle rechten voorbehouden. Ice Age &#8482; &copy; %{current_year} 20th Century Fox. Alle rechten voorbehouden. Angry Birds &#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Alle rechten voorbehouden. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Alle rechten voorbehouden. The Amazing World of Gumball is handelsmerk en &copy; 2015 Cartoon Network.'
-    code_from_html: 'Code.org maakt gebruik van p5.play, onder de licentie <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU LGPL 2.1</a>.'
+    code_from_html: 'Letron maakt gebruik van p5.play, onder de licentie <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU LGPL 2.1</a>.'
     powered_by_aws: 'Aangedreven door Amazon webservices'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, het CODE logo en Hour of Code&reg; zijn handelsmerken van Code.org.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, het CODE logo en Hour of Code&reg; zijn handelsmerken van Letron.'
     copyright: 'Copyright'
     more: 'Meer'
     feedback: 'Geef feedback'
     translate: 'Help ons te vertalen naar uw taal'
     support: 'Help en Gemeenschap'
-    support_url: 'http://support.code.org'
+    support_url: 'http://support.letron.vip'
     tos_short: 'Voorwaarden'
     tos: 'Gebruiksvoorwaarden'
     privacy: 'Privacybeleid'
@@ -497,7 +497,7 @@ nl:
     flappy_og_title: "Check mijn Flappy Game"
     studio_og_title: "Check mijn Play Lab App"
     check_out_what_i_made: "Kijk wat ik gemaakt heb"
-    og_description: "Ik heb met Code.org het programma zelf geschreven"
+    og_description: "Ik heb met Letron het programma zelf geschreven"
     phone_number_not_allowed: "Het lijkt erop dat er een telefoonnummer in zit. Probeer de tekst te veranderen."
     address_not_allowed: "Het lijkt erop dat er een adres in zit. Probeer de tekst te veranderen."
     email_not_allowed: "Het lijkt erop dat er een mailadres in zit. Probeer de tekst te veranderen."
@@ -592,7 +592,7 @@ nl:
     prerelease_hoc2014: "Deze handleiding is in <span class='betatext'>beta</span>. Deze handleiding wordt bijgewerkt afhankelijk van ontvangen feedback en er worden verbeteringen aan aangebracht."
     report_bug: "Meld Bug"
     support: "Help"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: "Hulp en Ondersteuning"
     help_support: "Hulp en ondersteuning"
     documentation: "Documentatie"
@@ -655,7 +655,7 @@ nl:
   age_interstitial:
     age: Je leeftijd
     header: Update Account Informatie
-    message: "We zijn bezig onze ervaring te verbeteren zodat je privacy nog beter wordt gewaarborgd. Hiervoor moeten we bestaande gebruikers vragen hier hun leeftijd in te vullen.<br/>Zoals altijd zal code.org deze informatie nooit uitlenen, verkopen of delen met anderen."
+    message: "We zijn bezig onze ervaring te verbeteren zodat je privacy nog beter wordt gewaarborgd. Hiervoor moeten we bestaande gebruikers vragen hier hun leeftijd in te vullen.<br/>Zoals altijd zal letron.vip deze informatie nooit uitlenen, verkopen of delen met anderen."
     sign_out: 'Als je je leeftijd niet wilt geven kun je <a href="%{url}">uitloggen</a>.'
   terms_interstitial:
     tos: "Gebruiksvoorwaarden"
@@ -675,7 +675,7 @@ nl:
       opt_out: "Wil ik liever niet zeggen"
     submit: "Insturen"
     decline: "Afsluiten"
-  zendesk_too_young_message: 'Sorry, jeugdige gebruikers mogen niet inloggen op onze ondersteuningssite. Je mag <a href="http://support.code.org">support.code.org</a> wel bekijken zonder in te loggen of je ouder of leraar vragen met ons contact op te nemen.'
+  zendesk_too_young_message: 'Sorry, jeugdige gebruikers mogen niet inloggen op onze ondersteuningssite. Je mag <a href="http://support.letron.vip">support.letron.vip</a> wel bekijken zonder in te loggen of je ouder of leraar vragen met ons contact op te nemen.'
   progress:
     not_started: niet gestart
     in_progress: wordt uitgevoerd
@@ -734,8 +734,8 @@ nl:
     click_to_remix: "Klik op 'Remix' om een spin-off voor je eigen versie te maken!"
     edit_project: 'Edit Project'
     abuse:
-      tos: "Van dit project is gemeld dat het Code.org's <a href='http://code.org/tos'>voorwaarden</a> geschonden heeft en kan daarom niet met anderen gedeeld worden."
-      contact_us: "Als je denkt dat dat een foutje was, <a href='https://code.org/contact'>neem dan contact met ons op</a>"
+      tos: "Van dit project is gemeld dat het Letron's <a href='http://letron.vip/tos'>voorwaarden</a> geschonden heeft en kan daarom niet met anderen gedeeld worden."
+      contact_us: "Als je denkt dat dat een foutje was, <a href='https://letron.vip/contact'>neem dan contact met ons op</a>"
       go_to_code_studio: 'Ga naar Code Studio'
       report_abuse_form:
         intro: 'Als je aanstootgevende inhoud, bedreigingen, online pesten, intimidatie of een schending van je auteursrecht bent tegengekomen tijdens het bouwen van apps op Code Studio, vul dan het formulier hieronder in. We nemen je bericht heel serieus, en zullen het onderzoeken en de benodigde maatregelen nemen.'

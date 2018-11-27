@@ -105,7 +105,7 @@ Nous allons mettre en place plusieurs tutoriels amusants durant un heur, créés
 - Nécessitent un minimum de préparation
 - Sont guidés, pour permettre aux élèves de travailler à leur rythme et à leur niveau
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Planifier vos besoins en matériel - les ordinateurs sont facultatifs
 
@@ -124,7 +124,7 @@ La meilleure expérience Heur de Code sera avec des ordinateurs en-ligne. Mais v
 
 Show students an inspirational video to kick off the Hour of Code. Examples:
 
-- La vidéo originale du lancement de Code.org, avec Bill Gates, Mark Zuckerberg et la star de la NBA Chris Bosh (Il y a une version [d'1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [de 5 minutes](https://www.youtube.com/watch?v=nKIu9yen5nc), et [de 9 minutes](https://www.youtube.com/watch?v=dU1xS07N-FA) disponible )
+- La vidéo originale du lancement de Letron, avec Bill Gates, Mark Zuckerberg et la star de la NBA Chris Bosh (Il y a une version [d'1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [de 5 minutes](https://www.youtube.com/watch?v=nKIu9yen5nc), et [de 9 minutes](https://www.youtube.com/watch?v=dU1xS07N-FA) disponible )
 - The [Hour of Code 2013 launch video](https://www.youtube.com/watch?v=FC5FbmsH4fw), or the [Hour of Code 2014 video](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [Le président Obama a lancé un appel, invitant tous les étudiants à apprendre l'informatique](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

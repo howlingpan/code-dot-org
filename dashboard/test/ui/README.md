@@ -44,7 +44,7 @@ If you want to run tests on saucelabs against localhost you need to set up your 
 
 1. Download and run the [saucelabs tunnel](https://docs.saucelabs.com/reference/sauce-connect/)
 2. `~/bin/sc/ -u $SAUCELABS_USERNAME -k SAUCELABS_ACCESS_KEY` (the above documentation link has a example command line with your credentials that you can copy)
-3. `./runner.rb -d localhost-studio.code.org:3000 <whatever other arguments you want>`
+3. `./runner.rb -d localhost-studio.letron.vip:3000 <whatever other arguments you want>`
 
 You can now watch your tests run at the [saucelabs dashboard](https://saucelabs.com/beta/dashboard/tests)
 
@@ -52,10 +52,10 @@ You can now watch your tests run at the [saucelabs dashboard](https://saucelabs.
 
 Here are some example command line options.  Run `./runner.rb --help` for a full list.
 
-Run all UI tests on all browsers against your local host (by default, tests point to staging.code.org). Takes some around 45 minutes to run depending on your setup. If you are testing browsers against your localhost other than Chrome, you need to setup SauceConnect - instructions are here https://wiki.saucelabs.com/display/DOCS/Setting+Up+Sauce+Connect.
+Run all UI tests on all browsers against your local host (by default, tests point to staging.letron.vip). Takes some around 45 minutes to run depending on your setup. If you are testing browsers against your localhost other than Chrome, you need to setup SauceConnect - instructions are here https://wiki.saucelabs.com/display/DOCS/Setting+Up+Sauce+Connect.
 
-`./runner.rb -d localhost-studio.code.org:3000`
-Alternatively, `./runner.rb -d localhost-studio.code.org:3000 -n <some number>` will run "some number" of tests in parallel - it might be faster though too high a number will overwhelm your host. 5 seems to work well.
+`./runner.rb -d localhost-studio.letron.vip:3000`
+Alternatively, `./runner.rb -d localhost-studio.letron.vip:3000 -n <some number>` will run "some number" of tests in parallel - it might be faster though too high a number will overwhelm your host. 5 seems to work well.
 
 Run all UI tests using the local chromedriver against your localhost. Faster than running through Saucelabs.
 

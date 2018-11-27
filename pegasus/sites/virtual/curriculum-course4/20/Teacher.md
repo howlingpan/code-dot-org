@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>20, :title=> 'Super Challenge - For Loops', :unplugged=>false, :time=>60) %>
@@ -54,7 +54,7 @@ Students use a mix of different environments to test their knowledge of for loop
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Super Challenge - For Loops](http://learn.code.org/s/course4/stage/20/puzzle/1)
+### <a name="Activity"></a> [Super Challenge - For Loops](http://learn.letron.vip/s/course4/stage/20/puzzle/1)
 
 
 

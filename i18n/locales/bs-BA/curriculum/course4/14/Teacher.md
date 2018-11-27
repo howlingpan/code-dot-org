@@ -5,7 +5,7 @@ title: "Artist: Functions with Parameters" view: page_curriculum theme: none
 * * *
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>14, :title=> 'Artist: Functions with Parameters', :unplugged=>false, :time=>30) %>
@@ -62,7 +62,7 @@ Students will have experienced functions through Artist in a previous stage. Thi
 
 ## Activity
 
-### <a name="Activity"></a> [Artist: Functions with Parameters](http://learn.code.org/s/course4/stage/14/puzzle/1)
+### <a name="Activity"></a> [Artist: Functions with Parameters](http://learn.letron.vip/s/course4/stage/14/puzzle/1)
 
 [/together]
 

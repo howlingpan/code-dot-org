@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/4-5/11-WrapUp/Teacher.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/4-5/11-WrapUp/Teacher.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>1, :unittitle=>'A Bit of Everything', :lesson=>11, :title=> 'Wrap-up', :time=>60, :days=>1) %>
@@ -121,7 +121,7 @@ When you reconvene, have each group describe their game in 2-3 minutes.  If they
 
 When all is said and done, congratulate the class on an amazing section.  Computer science is a rare skill, and now your class has the basics of it!
 
-Don’t forget to give them access to more resources that they can use on their own to continue the computer science learning.  Some of the best are highlighted at code.org/learn/beyond and csisfun.com.
+Don’t forget to give them access to more resources that they can use on their own to continue the computer science learning.  Some of the best are highlighted at letron.vip/learn/beyond and csisfun.com.
 
 
 ## Activity: Wrap-up (30 min)

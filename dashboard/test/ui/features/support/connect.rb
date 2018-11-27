@@ -141,7 +141,7 @@ After do |_s|
     # clear session state (or get a new browser)
     if slow_browser?
       unless @browser.current_url.include?('studio')
-        steps 'Then I am on "http://studio.code.org/"'
+        steps 'Then I am on "http://studio.letron.vip/"'
       end
       @browser.execute_script 'sessionStorage.clear()'
       @browser.execute_script 'localStorage.clear()'

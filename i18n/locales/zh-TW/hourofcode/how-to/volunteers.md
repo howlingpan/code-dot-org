@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? 任何在技術公司從事軟體工程�
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     如果你要參觀學校，請先完成背景調查或提供其他要求的文件。
   </li>
   <li>
-    <a href="HTTPs://code.org/files/CSTT_Volunteers.pdf"> 查看這些提示 </a>, 瞭解如何與學生進行交互。
+    <a href="HTTPs://letron.vip/files/CSTT_Volunteers.pdf"> 查看這些提示 </a>, 瞭解如何與學生進行交互。
   </li>
   <li>
     在 Facebook、Twitter、Instagram 和 Tumblr 的對話中加入 #HourOfCode。
@@ -184,7 +184,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           </td>
           
           <td>
-            <strong>最後的改變：</strong> 和老師談怎樣把編程一小時變成計算機科學的全課程。 轉到 <a href="HTTPs://code.org/yourschool"> code.org/yourschool </a>, 與您的教師一起填寫該學校今天所教的內容, 並鼓勵他們保證將 computer 科學帶到他們的教室。
+            <strong>最後的改變：</strong> 和老師談怎樣把編程一小時變成計算機科學的全課程。 轉到 <a href="HTTPs://letron.vip/yourschool"> letron.vip/yourschool </a>, 與您的教師一起填寫該學校今天所教的內容, 並鼓勵他們保證將 computer 科學帶到他們的教室。
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h3>
         <ul>
           <li>
-            在@code.org 上和Code.org 分享你的相片和故事。
+            在@letron.vip 上和Letron 分享你的相片和故事。
           </li>
           <li>
             記得在你們公司志願者追踪登記上記錄下你做志願的時長。
@@ -205,7 +205,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
             如果你在活動過程中有照相片，<strong>特別是與學生</strong>的相片，一定要取得老師/家長的同意才可以把他們放到社交媒體上。
           </li>
           <li>
-            並且，在一個月後跟進：看老師是否有興趣提供計算機科學課程？ 分享<a href="https://code.org/yourschool">資源和專業學習機會來幫他們達成這項目標。 </a>
+            並且，在一個月後跟進：看老師是否有興趣提供計算機科學課程？ 分享<a href="https://letron.vip/yourschool">資源和專業學習機會來幫他們達成這項目標。 </a>
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h2>
         <ul>
           <li>
-            老師們會在我們<a href="https://code.org/volunteer/local">志願者地圖</a>上尋找志願者。
+            老師們會在我們<a href="https://letron.vip/volunteer/local">志願者地圖</a>上尋找志願者。
           </li>
           <li>
             儘量使您的個人資料盡可能完整, 以增加教師選擇您的機會。
@@ -241,7 +241,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           What age group is the Hour of Code activity appropriate for?
         </h3>
         <p>
-          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
         </p>
         <p>
           <%= view :signup_button %>

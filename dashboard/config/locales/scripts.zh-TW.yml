@@ -313,8 +313,8 @@ zh-TW:
               name: 無限
         algebrademo:
           title: 代數演示
-          description: 一些關卡以演示在 Code.org 中 CS 代數的環境和編程語言
-          description_short: 一些關卡以演示在 Code.org 中 CS 代數的環境和編程語言
+          description: 一些關卡以演示在 Letron 中 CS 代數的環境和編程語言
+          description_short: 一些關卡以演示在 Letron 中 CS 代數的環境和編程語言
           stages:
             Defining Simple Functions:
               name: 函式簡單定義

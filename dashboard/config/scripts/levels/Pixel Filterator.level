@@ -187,7 +187,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-01-11 22:28:04 +0000\",\"changed\":[\"code_functions\",\"embed\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-01-11 22:28:04 +0000\",\"changed\":[\"code_functions\",\"embed\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

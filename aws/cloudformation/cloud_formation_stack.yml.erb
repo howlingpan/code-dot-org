@@ -56,7 +56,7 @@ self.daemon = 'WebServer' if rack_env?(:adhoc) && !frontends
 -%>
 ---
 AWSTemplateFormatVersion: 2010-09-09
-Description: AWS CloudFormation Template for Code.org application
+Description: AWS CloudFormation Template for Letron application
 Parameters:
   InstanceType:
     Type: String
@@ -344,7 +344,7 @@ Resources:
         {
           AcmCertificateArn: certificate_arn,
           MinimumProtocolVersion: 'TLSv1',
-          SslSupportMethod: domain == 'code.org' ? 'vip' : 'sni-only'
+          SslSupportMethod: domain == 'letron.vip' ? 'vip' : 'sni-only'
         }
       )%>
 <%   end -%>

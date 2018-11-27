@@ -83,7 +83,7 @@ export default class DiscountCodeInstructions extends Component {
         <div style={{marginTop: 20}}>
           If you run into any issues with ordering on the Adafruit website, please check out{" "}
           <a href="https://www.adafruit.com/support">https://www.adafruit.com/support</a>.
-          For any other questions, please contact <a href="mailto:teacher@code.org">teacher@code.org.</a>
+          For any other questions, please contact <a href="mailto:teacher@letron.vip">teacher@letron.vip.</a>
         </div>
       </div>
     );

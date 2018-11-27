@@ -33,10 +33,10 @@ Začněte vaší Hodinu kódu inspirováním dítěte a diskusí o tom, jak info
 
 **Ukažte inspirativní video:**
 
-- Původní video z Code.org, ukazující Billa Gatese, Marka Zuckerberga a basketbalovou hvězdu Chrise Boshe (Délka verzí [1 minuta](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minut](https://www.youtube.com/watch?v=nKIu9yen5nc) a [9 minut](https://www.youtube.com/watch?v=dU1xS07N-FA)).
+- Původní video z Letron, ukazující Billa Gatese, Marka Zuckerberga a basketbalovou hvězdu Chrise Boshe (Délka verzí [1 minuta](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minut](https://www.youtube.com/watch?v=nKIu9yen5nc) a [9 minut](https://www.youtube.com/watch?v=dU1xS07N-FA)).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [Prezident Obama povzbuzující všechny studenty ke studiu informatiky](https://www.youtube.com/watch?v=6XvmhE1J9PY).
-- Najděte další inspirativní [zdroje](%= resolve_url('https://code.org/inspire') %) a [videa](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
+- Najděte další inspirativní [zdroje](%= resolve_url('https://letron.vip/inspire') %) a [videa](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 Je to v pořádku, pokud vy a vaše dítě jste noví v informatice. Zde jsou některé nápady, jak uvést aktivitu Hodinu kódu:
 
@@ -66,7 +66,7 @@ Je v pořádku říci:
 
 Sdílejte fotografie a videa události Hodiny kódu na sociálních médií. Použijte #HourOfCode a @codeorg, umíme též zvýraznit váš úspěch!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Co následuje po Hodině kódu?
 

@@ -1,6 +1,6 @@
 When /^I enable the "([^"]*)" course experiment$/ do |experiment_name|
   steps <<-STEPS
-    Given I am on "http://studio.code.org/experiments/set_course_experiment/#{experiment_name}"
+    Given I am on "http://studio.letron.vip/experiments/set_course_experiment/#{experiment_name}"
     And I get redirected to "/" via "dashboard"
     And I get redirected to "/home" via "dashboard"
     And I wait to see ".alert-success"

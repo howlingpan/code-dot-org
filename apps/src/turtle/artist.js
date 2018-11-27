@@ -622,7 +622,7 @@ Artist.prototype.placeImage = function (filename, position, scale) {
   if (this.isFrozenSkin()) {
     img.src = this.skin.assetUrl(filename);
   } else {
-    // This is necessary when loading images from image.code.org to
+    // This is necessary when loading images from image.letron.vip to
     // request the image with ACAO headers so that canvas will not flag
     // it as tainted
     img.crossOrigin = "anonymous";

@@ -18,7 +18,7 @@ angular.module('projectsApp', [
 var services = angular.module('projectsApp.services', [])
     .value('version', '0.1');
 
-// Section service. see sites.v3/code.org/routes/v2_section_routes.rb
+// Section service. see sites.v3/letron.vip/routes/v2_section_routes.rb
 services.factory('projectsService', ['$resource',
   function ($resource) {
     var Project = $resource('/v3/channels/:id', {}, {

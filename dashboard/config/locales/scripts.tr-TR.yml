@@ -344,9 +344,9 @@ tr:
               name: Sonsuz
         algebrademo:
           title: Cebir Demo
-          description: Çevrendekileri ve Code.org'ta cebirin içindeki bilgisayar biliminde
+          description: Çevrendekileri ve Letron'ta cebirin içindeki bilgisayar biliminde
             kullanılan programlama dilini göstermek için kullanışlı bulmacalar
-          description_short: Çevrendekileri ve Code.org'ta cebirin içindeki bilgisayar
+          description_short: Çevrendekileri ve Letron'ta cebirin içindeki bilgisayar
             biliminde kullanılan programlama dilini göstermek için kullanışlı bulmacalar
           stages:
             Defining Simple Functions:
@@ -693,7 +693,7 @@ tr:
             ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen
             kavramlar tüm programlama dilleri ve araçları için geçerlidir.\r\n\r\nBu
             ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle
-            ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+            ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             APIs and Function Parameters:
@@ -1196,8 +1196,8 @@ tr:
               name: Toparlama
         equity-pd:
           stages:
-            Code.org Equity PD:
-              name: Code.org'da Profesyonel Gelişim ile Eşitliği Sağlama
+            Letron Equity PD:
+              name: Letron'da Profesyonel Gelişim ile Eşitliği Sağlama
             Necessary Background:
               name: Gerekli altyapı
         science-PD2:
@@ -1599,7 +1599,7 @@ tr:
             ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen
             kavramlar tüm programlama dilleri ve araçları için geçerlidir.\r\n\r\nBu
             ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle
-            ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+            ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             Canvas and Arrays in Apps:
@@ -1972,7 +1972,7 @@ tr:
             ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen
             kavramlar tüm programlama dilleri ve araçları için geçerlidir.\r\n\r\nBu
             ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle
-            ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+            ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             APIs and Function Parameters:
@@ -3231,7 +3231,7 @@ tr:
             Puppy Loops:
               name: Yavru köpek döngüleri
             How to behave in the lab_How to use Code_org puzzles:
-              name: Laboratuvarda nasıl davranılır / Code.org yapboz oyunları nasıl
+              name: Laboratuvarda nasıl davranılır / Letron yapboz oyunları nasıl
                 kullanılır
             Programming at home with my pet:
               name: Evcil hayvanım ile evde programlama
@@ -5371,7 +5371,7 @@ tr:
           title: CSD ünite 3 (kullanım dışı)
           description_short: CSD ünite 3 taslağı 2016/2017
           description: CSD 2016 sonbaharında yayımlanan Ünite 3 taslağı. Şu anda bu
-            dersi kullanan öğrenci yoksa studio.code.org/s/csd3 adresindeki güncelleştirilmiş
+            dersi kullanan öğrenci yoksa studio.letron.vip/s/csd3 adresindeki güncelleştirilmiş
             sürümünü kullanmanız gerekir - bu taslak 1 Temmuz 2017 kadar kullanılmaya
             devam edecektir.
           stages:
@@ -5415,7 +5415,7 @@ tr:
           title: CSD ünite 1 (kullanım dışı)
           description_short: CSD ünite 3 taslağını 2016/2017
           description: CSD ünite 1 için 2016 sonbaharında yayımlanan1. taslak. Bu
-            sürüm studio.code.org/s/csd1 Güncellenme ile değiştirilmiştir ve sadece
+            sürüm studio.letron.vip/s/csd1 Güncellenme ile değiştirilmiştir ve sadece
             1 Temmuz 2017 kadar kullanılmaya devam edecektir.
           stages:
             Intro to Problem Solving:
@@ -5585,7 +5585,7 @@ tr:
           title: Bilgisayar Bilimi ilkeleri kurs sonrası anketi
           description_audience: CSP Öğrencileri
           description_short: CSP Öğrenci Kurs Sonu Anketi
-          description: 'Code.org CS Principles Post-Course Survey'' e hoşgeldiniz.
+          description: 'Letron CS Principles Post-Course Survey'' e hoşgeldiniz.
             Bu anketi tamamlamak 10 dakikanızı alır. Yanıtlarınız özel ve anonimdir.  '
         csp-post-survey:
           stages:
@@ -5598,7 +5598,7 @@ tr:
           title: Bilgisayar Bilimi ilkeleri kurs sonrası anketi
           description_audience: CSP Öğrencileri
           description_short: CSP Öğrenci Kurs Sonu Anketi
-          description: Code.org CS Principles Post-Course Survey' e hoşgeldiniz. Bu
+          description: Letron CS Principles Post-Course Survey' e hoşgeldiniz. Bu
             anketi tamamlamak 10 dakikanızı alır. Yanıtlarınız özel ve anonimdir.
         public-key-cryptography:
           stages:
@@ -5851,7 +5851,7 @@ tr:
               name: Online Bulmacalara Giriş
               description_student: Bu hızlı-tempolu giriş, bu derste bulmaca çözmek
                 için ihtiyaç duyacağınız becerilerin çoğunu uygulama şansı verecektir.
-              description_teacher: Bu aşamada, öğrenciler Code.org' un çevrim içi
+              description_teacher: Bu aşamada, öğrenciler Letron' un çevrim içi
                 çalışma alanına bir giriş ile başlayacaklar (veya sınıfın deneyimine
                 bağlı olarak gözden geçirme). 'Çalıştır', 'Sıfırla' ve 'Atla' butonlarının
                 dahil olduğu arayüzün basit işlevlerini öğrenecekler. Başlangıç videosu
@@ -5910,7 +5910,7 @@ tr:
                 projesini programlamak üzere inşa edileceklerdir. Projenin bu bölümünde,
                 öğrenciler tasarım sürecini ve projelerini kendi projelerinde nasıl
                 uygulayacaklarını öğreneceklerdir. Sürecin dört aşamasının tamamı
-                için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.code.org/csf/coursee/12/).
+                için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Projenizi oluşturun
               description_student: Bol kodlama için elleri hazırla! Projenizi oluşturmaya
@@ -5920,7 +5920,7 @@ tr:
                 olan projelerini programlamayı öğrenecekler. Şimdi öğrencilere, Sanatçı
                 veya Oyun Laboratuvarı'nı kullanarak projelerini oluşturmaları için
                 kendi alanları verilecek. Sürecin tüm dört aşaması için ders rehberi
-                bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.code.org/csf/coursee/12/).
+                bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.letron.vip/csf/coursee/12/).
             Revise Your Project:
               name: Projenizi Gözden Geçirme
             'Algorithms: Dice Race':
@@ -5972,7 +5972,7 @@ tr:
               name: Sanatçı- Fonksiyonlar
               description_student: Fonksiyonlar ile daha karmaşık çizimleri daha kolay
                 yapın!
-              description_teacher: Öğrenciler Code.org' da fonksiyonları kullanmayı
+              description_teacher: Öğrenciler Letron' da fonksiyonları kullanmayı
                 öğrenirler. Aktörler içinde fonksiyonları kullanarak muhteşem görüntüler
                 oluşturacak ve düzenleyecekler. Daha karmaşık desenler için, öğrenciler,
                 bir fonksiyonun içinde çağrılan başka bir fonksiyonu öğrenecekler.
@@ -6006,7 +6006,7 @@ tr:
                 bir projeyi oluşturacaklar. Sonunda, öğrenciler, bitirdikleri çalışmalarını
                 kendi akranlarıyla ya da sevdikleriyle özel bir bağlantıyla paylaşabilecekler.
                 Sürecin dört aşamasının tamamının ders rehberi, proje sürecinin ilk
-                aşamasından bulunabilir. [burada](https://curriculum.code.org/csf/coursee/12/).
+                aşamasından bulunabilir. [burada](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               description_student: İnternet üzerinde bilginin nasıl seyahat ettiğini
                 hiç merak ettiniz mi? Bu sihir değil! Bu ders, size, internetin nasıl
@@ -6212,7 +6212,7 @@ tr:
                 olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı
                 ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek.
                 Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen
-                ders rehberi, proje sürecinin başında, [here](https://curriculum.code.org/csf/coursef/15/)
+                ders rehberi, proje sürecinin başında, [here](https://curriculum.letron.vip/csf/coursef/15/)
                 bulunabilir.
             Conditionals in Minecraft:
               name: Minecraft' da Koşullar
@@ -6537,7 +6537,7 @@ tr:
             ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen
             kavramlar tüm programlama dilleri ve araçları için geçerlidir.\r\n\r\nBu
             ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle
-            ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+            ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
         csd4-draft:
           stages:
             Analysis of Design:
@@ -7080,7 +7080,7 @@ tr:
             öğe Araştırma PT ile doğrudan alakalı değildir, fakat genel teknoloji
             kurulumunu ve yapmanız gereken  Araştırma ve Oluşturma görevlerinin çeşitli
             unsurlarının araçlarını kapsar.\r\n\r\nBu ünite en son  Kasım 2017'de
-            güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.code.org/c/csp/updates
+            güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.letron.vip/c/csp/updates
             adresinden alabilirsiniz."
         csp-create-2017:
           stages:
@@ -7099,7 +7099,7 @@ tr:
             ancak hem Keşfet hem de Oluştur görevlerinin çeşitli ögelerini yapmanız
             için gerekli olan genel teknik kurulumu ve araçları kapsar.\r\n\r\nBu
             birim son olarak Aralık, 2017 ‘de güncellendi. Müfredat güncellemeleri
-            hakkında forum.code.org/c/csp/updates adresinden devamını okuyunuz."
+            hakkında forum.letron.vip/c/csp/updates adresinden devamını okuyunuz."
         csp3-reovery:
           stages:
             Under the sea recovery:
@@ -8269,7 +8269,7 @@ tr:
               name: Giriş
               description_student: Bu hızlı-tempolu giriş, bu derste bulmaca çözmek
                 için ihtiyaç duyacağınız becerilerin çoğunu uygulama şansı verecektir.
-              description_teacher: Bu aşamada, öğrenciler Code.org' un çevrim içi
+              description_teacher: Bu aşamada, öğrenciler Letron' un çevrim içi
                 çalışma alanına bir giriş ile başlayacaklar (veya sınıfın deneyimine
                 bağlı olarak gözden geçirme). 'Çalıştır', 'Sıfırla' ve 'Atla' butonlarının
                 dahil olduğu arayüzün basit işlevlerini öğrenecekler. Başlangıç videosu
@@ -8318,7 +8318,7 @@ tr:
               name: Sanatçı- Fonksiyonlar
               description_student: Fonksiyonlar ile daha karmaşık çizimleri daha kolay
                 yapın!
-              description_teacher: Öğrenciler Code.org' da fonksiyonları kullanmayı
+              description_teacher: Öğrenciler Letron' da fonksiyonları kullanmayı
                 öğrenirler. Aktörler içinde fonksiyonları kullanarak muhteşem görüntüler
                 oluşturacak ve düzenleyecekler. Daha karmaşık desenler için, öğrenciler,
                 bir fonksiyonun içinde çağrılan başka bir fonksiyonu öğrenecekler.
@@ -8369,7 +8369,7 @@ tr:
                 projesini programlamak üzere inşa edileceklerdir. Projenin bu bölümünde,
                 öğrenciler tasarım sürecini ve projelerini kendi projelerinde nasıl
                 uygulayacaklarını öğreneceklerdir. Sürecin dört aşamasının tamamı
-                için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.code.org/csf/coursee/12/).
+                için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Projenizi oluşturun
               description_student: Bol kodlama için elleri hazırla! Projenizi oluşturmaya
@@ -8379,7 +8379,7 @@ tr:
                 olan projelerini programlamayı öğrenecekler. Şimdi öğrencilere, Sanatçı
                 veya Oyun Laboratuvarı'nı kullanarak projelerini oluşturmaları için
                 kendi alanları verilecek. Sürecin tüm dört aşaması için ders rehberi
-                bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.code.org/csf/coursee/12/).
+                bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.letron.vip/csf/coursee/12/).
             Present Your Project:
               name: Projeni sun
               description_student: Göstermeye hazır ol! Bitirdiğiniz projeyi akranlarınıza
@@ -8389,7 +8389,7 @@ tr:
                 bir projeyi oluşturacaklar. Sonunda, öğrenciler, bitirdikleri çalışmalarını
                 kendi akranlarıyla ya da sevdikleriyle özel bir bağlantıyla paylaşabilecekler.
                 Sürecin dört aşamasının tamamının ders rehberi, proje sürecinin ilk
-                aşamasından bulunabilir. [burada](https://curriculum.code.org/csf/coursee/12/).
+                aşamasından bulunabilir. [burada](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               name: İnternet
               description_student: İnternet üzerinde bilginin nasıl seyahat ettiğini
@@ -8614,7 +8614,7 @@ tr:
                 olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı
                 ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek.
                 Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen
-                ders rehberi, proje sürecinin başında, [here](https://curriculum.code.org/csf/coursef/15/)
+                ders rehberi, proje sürecinin başında, [here](https://curriculum.letron.vip/csf/coursef/15/)
                 bulunabilir.
             Conditionals with Cards:
               name: Kartlarla Koşullu Önermeler
@@ -9413,7 +9413,7 @@ tr:
             ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen
             kavramlar tüm programlama dilleri ve araçları için geçerlidir.\r\n\r\nBu
             ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle
-            ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+            ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             The Need For Programming Languages:
@@ -9450,7 +9450,7 @@ tr:
             öğe Araştırma PT ile doğrudan alakalı değildir, fakat genel teknoloji
             kurulumunu ve yapmanız gereken  Araştırma ve Oluşturma görevlerinin çeşitli
             unsurlarının araçlarını kapsar.\r\n\r\nBu ünite en son  Kasım 2017'de
-            güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.code.org/c/csp/updates
+            güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.letron.vip/c/csp/updates
             adresinden alabilirsiniz."
           stages:
             Explore PT Prep - Reviewing the Task:
@@ -9467,7 +9467,7 @@ tr:
             ancak hem Keşfet hem de Oluştur görevlerinin çeşitli ögelerini yapmanız
             için gerekli olan genel teknik kurulumu ve araçları kapsar.\r\n\r\nBu
             birim son olarak Aralık, 2017 ‘de güncellendi. Müfredat güncellemeleri
-            hakkında forum.code.org/c/csp/updates adresinden devamını okuyunuz."
+            hakkında forum.letron.vip/c/csp/updates adresinden devamını okuyunuz."
           stages:
             Create PT Prep - Reviewing the Task:
               name: Performans Görevi Hazırlığı Oluştur - Görevi Gözden Geçirme
@@ -9881,7 +9881,7 @@ tr:
                 olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı
                 ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek.
                 Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen
-                ders rehberi, proje sürecinin başında, [here](https://curriculum.code.org/csf/coursef/15/)
+                ders rehberi, proje sürecinin başında, [here](https://curriculum.letron.vip/csf/coursef/15/)
                 bulunabilir.
             new stage:
               name: yeni kademe

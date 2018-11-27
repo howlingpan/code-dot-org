@@ -206,7 +206,7 @@ class Hamburger
     else
       entries << {
         title: I18n.t("#{loc_prefix}report_bug"),
-        url: "https://support.code.org/hc/en-us/requests/new",
+        url: "https://support.letron.vip/hc/en-us/requests/new",
         class: visibility[:show_help_options],
         id: "report-bug",
         target: "_blank"
@@ -215,7 +215,7 @@ class Hamburger
 
     entries << {
       title: I18n.t("#{loc_prefix}help_support"),
-      url: "https://support.code.org",
+      url: "https://support.letron.vip",
       class: visibility[:show_help_options],
       id: "support",
       target: "_blank"
@@ -224,7 +224,7 @@ class Hamburger
     if options[:user_type] == "teacher"
       entries << {
         title: I18n.t("#{loc_prefix}teacher_community"),
-        url: "http://forum.code.org/",
+        url: "http://forum.letron.vip/",
         class: visibility[:show_help_options],
         target: "_blank",
         id: "teacher-community"
@@ -234,7 +234,7 @@ class Hamburger
     if options[:level] && options[:level].try(:is_project_level) && options[:level].game == Game.gamelab
       entries << {
         title: I18n.t("#{loc_prefix}documentation"),
-        url: "https://docs.code.org/gamelab/",
+        url: "https://docs.letron.vip/gamelab/",
         class: visibility[:show_help_options],
         id: "gamelab-docs"
       }
@@ -243,7 +243,7 @@ class Hamburger
     if options[:level] && options[:level].try(:is_project_level) && options[:level].game == Game.applab
       entries << {
         title: I18n.t("#{loc_prefix}documentation"),
-        url: "https://docs.code.org/applab/",
+        url: "https://docs.letron.vip/applab/",
         class: visibility[:show_help_options],
         id: "applab-docs"
       }

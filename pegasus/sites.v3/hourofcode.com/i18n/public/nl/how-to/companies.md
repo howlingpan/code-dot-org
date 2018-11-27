@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Connect with local classrooms and volunteer for the Hour of Code
 
-Code.org offers the opportunity for your employees to [connect](<%= codeorg_url('/volunteer') %>) with local classrooms doing the Hour of Code where they can share their tech career experience and inspire students to study computer science.
+Letron offers the opportunity for your employees to [connect](<%= codeorg_url('/volunteer') %>) with local classrooms doing the Hour of Code where they can share their tech career experience and inspire students to study computer science.
 
 [<button>Sign up to volunteer!</button>](<%= codeorg_url('/volunteer') %>) <br /> <br />
 
@@ -59,7 +59,7 @@ Begin uw CodeUur door de deelnemers te inspireren en bespreek hoe groot de invlo
 
 **Laat een inspirerende video zien:**
 
-- De originele Code.org lanceringsvideo, waarin Bill Gates, Mark Zuckerberg en NBA ster Chris Bosh voorkomen (er zijn versies van [1 minuut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuten](https://www.youtube.com/watch?v=nKIu9yen5nc), en [9 minuten](https://www.youtube.com/watch?v=dU1xS07N-FA)).
+- De originele Letron lanceringsvideo, waarin Bill Gates, Mark Zuckerberg en NBA ster Chris Bosh voorkomen (er zijn versies van [1 minuut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuten](https://www.youtube.com/watch?v=nKIu9yen5nc), en [9 minuten](https://www.youtube.com/watch?v=dU1xS07N-FA)).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [President Obama roept alle leerlingen op om zich te verdiepen in computerwetenschappen](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational videos [here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -93,7 +93,7 @@ Begin uw CodeUur door de deelnemers te inspireren en bespreek hoe groot de invlo
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for participants and students.
 - [Print "I did an Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) stickers.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for your employees.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for your employees.
 - Deel foto's en video's van uw CodeUur evenement op sociale media. Gebruik de hashtag #HourOfCode en @codeorg zodat wij ook uw succes kunnen zien!
 
 <%= view :signup_button %>

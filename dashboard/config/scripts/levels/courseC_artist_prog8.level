@@ -34,7 +34,7 @@
     "authored_hints": "[]",
     "never_autoplay_video": "false",
     "discard_background": "false",
-    "images": "[\r\n  {\"filename\": \"https://images.code.org/7aff3b778eeb9c7845e094292a48eab4-image-1475814545170.png\", \"position\": [0,0]}\r\n]\r\n\r\n",
+    "images": "[\r\n  {\"filename\": \"https://images.letron.vip/7aff3b778eeb9c7845e094292a48eab4-image-1475814545170.png\", \"position\": [0,0]}\r\n]\r\n\r\n",
     "instructions_important": "false",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
@@ -44,7 +44,7 @@
   },
   "published": true,
   "notes": "Seems a little out of the blue after the last one back to shapes with no scaffolding. ",
-  "audit_log": "[{\"changed_at\":\"2017-07-07 17:54:50 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-08-14 23:37:52 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-09-28 06:27:51 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-07-07 17:54:50 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-08-14 23:37:52 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-09-28 06:27:51 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 3
   }

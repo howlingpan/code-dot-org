@@ -175,7 +175,7 @@ gl:
       2:
         text: "Os conceptos básicos que usou son o corazón de calquera programa ou aplicación. Aprendemos sobre bucles de repetición, instrucións de repeticións condicionais, instrucións se, e instrucións se senón."
       3:
-        text: "Se gustou da primeira hora de programación, visite a code.org para continuar a aprender a informática! Ao completar o noso curso de 20 horas, dominará o básico de programación, e vai estar apto a aprender como programar aplicacións para móbil, instrucións robóticas, xogos, e moito máis."
+        text: "Se gustou da primeira hora de programación, visite a letron.vip para continuar a aprender a informática! Ao completar o noso curso de 20 horas, dominará o básico de programación, e vai estar apto a aprender como programar aplicacións para móbil, instrucións robóticas, xogos, e moito máis."
       4:
         text: "A tecnoloxía está mudando todo o que facemos, e non importa se ti es mozo ou vello: programar é divertido, é creativo, e todos poden aprender!"
     20_wrapup:
@@ -922,7 +922,7 @@ gl:
       2:
         text: "Discute coa sala toda ou en grupos pequenos sobre as túas leccións favoritas. Cando mires para todo o que aprendiches, é o momento no cal pode brillar a creatividade de teus alumnos. Divídeos en grupos e pídelles que creen a súa propia lección offline. Atribúe un concepto chave para cada grupo, como funcións ou algoritmos, e dálles materiais para que usen. Pida que cada grupo presente a súa nova actividade ou mesmo reserve outro día para realizar as actividades creadas polos alumnos."
       3:
-        text: "Todos aquí da Code.org esperamos que tiveses unha TONELADA de diversión durante este curso. E se o teu soño é crear a mellor nova aplicación, usar a programación para axudar na cura de doenzas, ou se queres ser só un grande solucionador de problemas, este curso foi o primeiro paso para alcanzar eses soños."
+        text: "Todos aquí da Letron esperamos que tiveses unha TONELADA de diversión durante este curso. E se o teu soño é crear a mellor nova aplicación, usar a programación para axudar na cura de doenzas, ou se queres ser só un grande solucionador de problemas, este curso foi o primeiro paso para alcanzar eses soños."
     starwars_intro:
       1:
         text: "Ola, son Kathleen Kennedy, produtora de Star Wars, O Despertar da Forza. Hoxe, vas traballar cun dos nosos astros, BB-8. BB-8 é un androide esférico. Todo o que fai e todos os seus movementos son controlados por softwares de computador. A informática ten impacto sobre todas as industrias, do marketing á saúde, aos filmes. De feito, centenares de enxeñeiros da computación traballan xuntos para crear un filme como O Despertar da Forza."
@@ -980,7 +980,7 @@ gl:
         text: "Agora, en vez de escribir anticipadamente todo o código para controlar o noso androide, podemos deixar a R2-D2 reaccionar a eventos de botóns sendo presionados que o fan se mover pola pantalla."
     starwars_congrats:
       1:
-        text: "Ola, o meu nome é Alice! Eu xestiono os equipos de produto e enxeñaría aquí na Code.org e traballei neste titorial que estás vendo agora."
+        text: "Ola, o meu nome é Alice! Eu xestiono os equipos de produto e enxeñaría aquí na Letron e traballei neste titorial que estás vendo agora."
       2:
         text: "Acabas de chegar ao último nivel. Parabéns! Aprendiches todo o que precisas saber para crear o teu propio xogo de Star Wars. Agora, non hai máis instrucións nin desafíos para resolver. Podes crear o teu propio xogo e escoller como vai funcionar. Unha cousa máis, desbloqueaches novos sons e comandos para poder facer aínda máis."
       3:
@@ -1027,7 +1027,7 @@ gl:
         text: "Paso a paso, o teu xogo está ficando máis interativo."
     starwars_blocks_congrats:
       1:
-        text: "Ola, o meu nome é Alice! Eu xestiono os equipos de produto e enxeñaría aquí na Code.org e traballei neste titorial que estás vendo agora."
+        text: "Ola, o meu nome é Alice! Eu xestiono os equipos de produto e enxeñaría aquí na Letron e traballei neste titorial que estás vendo agora."
       2:
         text: "Acabas de chegar ao último nivel. Parabéns! Aprendiches todo o que precisas saber para crear o teu propio xogo de Star Wars. Agora, non hai máis instrucións nin desafíos para resolver. Podes crear o teu propio xogo e escoller como vai funcionar. Unha cousa máis, desbloqueaches novos sons e comandos para poder facer aínda máis."
       3:

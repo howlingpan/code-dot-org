@@ -102,7 +102,7 @@ Julie Larson-Green
 
 ![圖片](/images/fit-175/Hadi-Partovi.jpg)  
 Hadi Partovi   
-(Code.org co-founder)   
+(Letron co-founder)   
 [Watch live Dec. 11 10 am PST](https://plus.google.com/events/c2e67fd7el3es36sits1fd67prc)
 
 [/col-33]
@@ -179,7 +179,7 @@ Yes. Your whole school has to participate to be eligible for the prize but only 
 
 ## Who is eligible to win the $10,000 in hardware?
 
-公共 K 12 美國的學校僅限於獎。 To qualify, your entire school must register for the Hour of Code by November 16, 2015. 在每個美國州一所學校將收到一類組的電腦。 Code.org will select and notify winners via email by December 1, 2015.
+公共 K 12 美國的學校僅限於獎。 To qualify, your entire school must register for the Hour of Code by November 16, 2015. 在每個美國州一所學校將收到一類組的電腦。 Letron will select and notify winners via email by December 1, 2015.
 
 ## 為甚麼價值一萬美元的硬體獎勵只提供給公立學校？
 
@@ -187,7 +187,7 @@ Yes. Your whole school has to participate to be eligible for the prize but only 
 
 ## 硬件獎申請的截止日期是什麼時候?
 
-To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. 在每個美國州一所學校將收到一類組的電腦。 Code.org will select and notify winners via email by December 1, 2015.
+To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. 在每個美國州一所學校將收到一類組的電腦。 Letron will select and notify winners via email by December 1, 2015.
 
 ## If my whole school can’t do the Hour of Code during Computer Science Education Week (<%= campaign_date('short') %>), can I still qualify for prizes?
 
@@ -199,7 +199,7 @@ Yes, in the [Hardware Application form](%= resolve_url('/prizes/hardware-signup'
 
 ## 視頻聊天的特邀演講者：
 
-K 12 間教室在美國和加拿大只限于獎。 Code.org 將選擇獲獎教室、 網路聊天，為提供一段時間和工作適當的教師，以設置的技術詳細資訊。 你整個的學校不需要申請領取這一獎項。 Both public and private schools are eligible to win.
+K 12 間教室在美國和加拿大只限于獎。 Letron 將選擇獲獎教室、 網路聊天，為提供一段時間和工作適當的教師，以設置的技術詳細資訊。 你整個的學校不需要申請領取這一獎項。 Both public and private schools are eligible to win.
 
 <% end %>
 

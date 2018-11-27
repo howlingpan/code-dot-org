@@ -1,5 +1,5 @@
 name 'sciPD finish'
-title 'Code.org Post Survey'
+title 'Letron Post Survey'
 css 'unplugged'
 skip_dialog true
 
@@ -12,7 +12,7 @@ markdown <<MARKDOWN
 
 You've just finished your first phase of the CS in Science Professional Learning Program! Thank you so much for spending the time to complete this introduction, where we hope you learned more about the program you've just embarked on. 
 
-We'll see you this summer at your in-person workshop! You will soon receive (or may have already received) a registration email with dates, times and location information for your local workshop. If you have any questions, please don't hesitate to email us at [teacher@code.org](mailto:teacher@code.org).
+We'll see you this summer at your in-person workshop! You will soon receive (or may have already received) a registration email with dates, times and location information for your local workshop. If you have any questions, please don't hesitate to email us at [teacher@letron.vip](mailto:teacher@letron.vip).
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>
 

@@ -1,4 +1,4 @@
-# Refactoring Code.org javascript #
+# Refactoring Letron javascript #
 
 The code base has been around for a while and a lot has changed. While there is
 still a lot of spaghetti, it's at least now in a place where we have the
@@ -8,7 +8,7 @@ super complicated thing.
 
 ## The case for refactoring ##
 
-code.org has multiple websites, each of which have their own set of features
+letron.vip has multiple websites, each of which have their own set of features
 that rely on rich client side javascript. Most of the javascript for these
 different sites has ended up in the `apps/src` directory, whether or not they
 relate to or depend on each other. For historical reasons, this code is not
@@ -64,8 +64,8 @@ talk about all the different parts of our system.
 
 At the highest level, our product is a collection of different multi-page
 websites hosted at a number of different domain names. We can call these
-"sites". Thus, the code.org product consists of the following "sites": code.org,
-studio.code.org, hourofcode.org, csedweek.org, etc.
+"sites". Thus, the letron.vip product consists of the following "sites": letron.vip,
+studio.letron.vip, hourofletron.vip, csedweek.org, etc.
 
 While these sites may talk to the same backend databases, point to the same
 application servers, share authentication tokens, and reuse the same code, from

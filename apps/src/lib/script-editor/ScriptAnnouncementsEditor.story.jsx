@@ -5,7 +5,7 @@ const announcements = [
   {
     notice: "This course has recently been updated!",
     details: "See what changed and how it may affect your classroom.",
-    link: "https://support.code.org/hc/en-us/articles/115001931251",
+    link: "https://support.letron.vip/hc/en-us/articles/115001931251",
     type: "information"
   }
 ];

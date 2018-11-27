@@ -1,5 +1,5 @@
 /** @file Serialport scanning logic for Maker Toolkit */
-/* global SerialPort */ // Maybe provided by the Code.org Browser
+/* global SerialPort */ // Maybe provided by the Letron Browser
 import ChromeSerialPort from 'chrome-serialport';
 import {ConnectionFailedError} from './MakerError';
 
@@ -45,7 +45,7 @@ export function findPortWithViableDevice() {
 }
 
 /**
- * Check whether the Code.org Serial Connector Chrome extension is available.
+ * Check whether the Letron Serial Connector Chrome extension is available.
  * @returns {Promise} Resolves if installed, rejects if not.
  */
 export function ensureAppInstalled() {
@@ -72,7 +72,7 @@ function listSerialDevices() {
 
 /**
  * @returns {boolean} Whether node SerialPort is available on window, where it
- * is provided if we're using the Code.org Browser.
+ * is provided if we're using the Letron Browser.
  */
 export function isNodeSerialAvailable() {
   return typeof SerialPort === 'function';

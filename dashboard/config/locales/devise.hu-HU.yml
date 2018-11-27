@@ -19,9 +19,9 @@ hu:
       unconfirmed: A folytatás előtt vissza kell igazolnia a felhasználói adatait.
     mailer:
       confirmation_instructions:
-        subject: Code.org megerősítés módja
+        subject: Letron megerősítés módja
       reset_password_instructions:
-        subject: 'Code.org: jelszó beállítás módja'
+        subject: 'Letron: jelszó beállítás módja'
       unlock_instructions:
         subject: Utasítások feloldása
     omniauth_callbacks:

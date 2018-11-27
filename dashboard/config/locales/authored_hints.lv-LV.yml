@@ -84,7 +84,7 @@ lv:
           name=\"VALUE\" config=\"45,60,90,120,180\">90</title>\n<next>\n<block type=\"draw_move_by_constant\">\n<title
           name=\"DIR\">moveForward</title>\n<title name=\"VALUE\">50</title>\n</block>\n</next>\n</block>\n</next>\n</block>\n</next>\n</block>\n</next>\n</block>\n</statement>\n</block>\n</next>\n</block>\n</xml>\n
           \nroot -> data -> authored_hints -> 2-3 Artist Loops New 11_authored_hint
-          -> 2-3_Artist_Loops_New_11_a\nhttps://studio.code.org/s/course2/stage/7/puzzle/9"
+          -> 2-3_Artist_Loops_New_11_a\nhttps://studio.letron.vip/s/course2/stage/7/puzzle/9"
       2-3 Artist Loops New 12_authored_hint:
         2-3_Artist Loops_New_12_c: Māksliniekam jāpagriežas pa labi tikai par 60 grādiem,
           lai veidotos plats leņķis.

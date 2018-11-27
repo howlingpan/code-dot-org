@@ -200,7 +200,7 @@ var screenshot = function (url, cb) {
 };
 
 // Main method:
-page.open('https://levelbuilder-studio.code.org/s/' + COURSE, function () {
+page.open('https://levelbuilder-studio.letron.vip/s/' + COURSE, function () {
   var pages = page.evaluate(function () {
     return Array.prototype.map.call(document.querySelectorAll('.react_stage a'), function (a) {
       return a.href;

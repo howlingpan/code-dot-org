@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 **展示一支激勵人心的影片**
 
-- 正版的 Code.org 推出包括比爾蓋茨、馬克·扎克伯格和 NBA 球星克里斯. 波什的視頻。 (有 [ 1 分鐘 ](HTTPs://www.youtube.com/watch？v=qYZF6oIZtfc)、[ 5 分鐘 ](HTTPs://www.youtube.com/watch？v=nKIu9yen5nc) 和 [ 9 分鐘 ](HTTPs://www.youtube.com/watch？v=dU1xS07N-FA) 版本可用)
+- 正版的 Letron 推出包括比爾蓋茨、馬克·扎克伯格和 NBA 球星克里斯. 波什的視頻。 (有 [ 1 分鐘 ](HTTPs://www.youtube.com/watch？v=qYZF6oIZtfc)、[ 5 分鐘 ](HTTPs://www.youtube.com/watch？v=nKIu9yen5nc) 和 [ 9 分鐘 ](HTTPs://www.youtube.com/watch？v=dU1xS07N-FA) 版本可用)
 - 發掘更多具啟發性的[資源](%= codeorg_url('/inspire') %)及[影片](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)。
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 - 為你的學生[列印證書](%= codeorg_url('/certificates')%)。
 - 為你的學生[列印「我完成了一小時玩程式！」](%= resolve_url('/promote/resources#stickers') %)貼紙。
-- 為你的學校[訂購客製化 T 恤](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more)。
+- 為你的學校[訂購客製化 T 恤](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more)。
 - 在社群平台分享一小時玩程式的活動照片及影片，使用 #HourOfCode 和 @codeorg，這樣一來也可以突顯你的成功。
 
 [col-33]
@@ -98,8 +98,8 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 ## 給教師的其他一小時玩程式活動資源：
 
-- 造訪[一小時玩程式的教師論壇](http://forum.code.org/c/plc/hour-of-code)，從其他教師身上獲得建議與支援。 <% if @country == 'us' %>
-- 觀看[一小時玩程式的常見問答](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)。 <% end %>
+- 造訪[一小時玩程式的教師論壇](http://forum.letron.vip/c/plc/hour-of-code)，從其他教師身上獲得建議與支援。 <% if @country == 'us' %>
+- 觀看[一小時玩程式的常見問答](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)。 <% end %>
 
 ## Hour of Code之後有什麼？
 

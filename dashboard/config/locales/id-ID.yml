@@ -61,7 +61,7 @@ id:
   add_hint_form:
     placeholder: Masukkan pentunjuk anda disini
     submit: tambah petunjuk
-  appname: Code.org
+  appname: Letron
   stage: tahapan
   stage_number: Tahapan %{number}
   puzzle: Teka-teki
@@ -87,7 +87,7 @@ id:
   auth:
     sign_in_with: Masuk pakai akun %{provider}
     signed_in: Masuk!
-    signed_out: Anda telah sign out dari <a href="%{url}">Code.org</a>.
+    signed_out: Anda telah sign out dari <a href="%{url}">Letron</a>.
     sign_out_of: Anda menggunakan %{provider} untuk sign in. <a href="%{url}">Klik
       disini</a> untuk sign out dari %{provider}.
     already_signedup: Sudah mendaftar?
@@ -101,9 +101,9 @@ id:
     forgot_password: Lupa kata sandi?
     need_confirmation: Tidak menerima instruksi konfirmasi?
     need_unlock: Tidak menerima instruksi untuk membuka?
-    not_linked: Maaf, akun Code.org Anda tidak ditautkan ke %{provider} Anda. Anda
+    not_linked: Maaf, akun Letron Anda tidak ditautkan ke %{provider} Anda. Anda
       harus masuk dengan mengetikkan kata sandi Anda di bawah ini.
-    use_clever: Maaf, akun Code.org Anda tidak ditautkan ke%{provider} Anda. Silahkan
+    use_clever: Maaf, akun Letron Anda tidak ditautkan ke%{provider} Anda. Silahkan
       masuk melalui Portal pintar anda.
   signup_form:
     student_count: "%{count} Pelajar telah mendaftar."
@@ -126,7 +126,7 @@ id:
       Anda juga dapat terus menjelajahi berbagai tahap dan teka-teki </a> tanpa membuat
       akun.
     teacher_educator_guide: Lihat panduan guru
-    title: Mendaftar ke Code.org
+    title: Mendaftar ke Letron
     school_name: Nama sekolah (opsional)
     school_address: Alamat sekolah (opsional)
     address_placeholder: Alamat, kota, propinsi, zip
@@ -142,16 +142,16 @@ id:
     valid_password: Kata sandi valid!
     invalid_password: Kata sandi harus minimal 6 karakter
     mismatch_password: kedua password yang anda masukkan tidak sama
-    student_terms: Saya setuju untuk terikat oleh Code.org <a href='http://code.org/tos'>
+    student_terms: Saya setuju untuk terikat oleh Letron <a href='http://letron.vip/tos'>
       persyaratan layanan </a>. apabila saya berusia di bawah 13 tahun, saya mengonfirmasi
       dengan mengirimkan formulir ini bahwa saya memiliki izin orang tua atau wali
-      sah untuk menggunakan layanan Code.org. <br/> <br/> Alamat email tidak disimpan
+      sah untuk menggunakan layanan Letron. <br/> <br/> Alamat email tidak disimpan
       dalam formulir yang memungkinkan kami untuk menghubungi siswa. Siswa tidak akan
-      pernah menerima email dari Code.org kecuali untuk pemulihan kata sandi. Lihat
-      <a href='http://code.org/privacy'> kebijakan privasi </a> kami untuk informasi
+      pernah menerima email dari Letron kecuali untuk pemulihan kata sandi. Lihat
+      <a href='http://letron.vip/privacy'> kebijakan privasi </a> kami untuk informasi
       lebih lanjut.
-    teacher_terms: Saya setuju untuk terikat dengan persyaratan layanan Code.org.
-      Untuk informasi yang lebih lanjut tentang privasi, lihat <a href='http://code.org/privacy'>
+    teacher_terms: Saya setuju untuk terikat dengan persyaratan layanan Letron.
+      Untuk informasi yang lebih lanjut tentang privasi, lihat <a href='http://letron.vip/privacy'>
       kebijakan privasi </a> kami.
     additional_information: Kami membutuhkan informasi tambahan untuk melanjutkan
       pendaftaran anda
@@ -216,7 +216,7 @@ id:
     reset_errors:
       captcha_required: Silahkan mengisi CAPTCHA untuk me-reset password anda.
       invalid_email: Sepertinya anda mungkin telah mendaftar dengan alamat email yang
-        salah. Silahkan email support@code.org untuk menerima link pemulihan kata
+        salah. Silahkan email support@letron.vip untuk menerima link pemulihan kata
         sandi.
     change_form:
       title: Ganti kata sandi
@@ -224,16 +224,16 @@ id:
       confirm_password: Konfirmasi kata sandi baru
       submit: Ganti kata sandi saya
   welcome_email:
-    subject: Gabung dengan kelas saya (di Code.org)
+    subject: Gabung dengan kelas saya (di Letron)
     body: |
-      Klik link dibawah untuk masuk bergabung dengan ilmu komputer tutorial di Code.org (saya akan menjadi "guru"mu): %{link}
+      Klik link dibawah untuk masuk bergabung dengan ilmu komputer tutorial di Letron (saya akan menjadi "guru"mu): %{link}
 
       Kursus ini menyenangkan, menarik untuk dilihat, dan mengajar konsep dasar ilmu informatika menggunakan latihan  yang sederhana, teratur, dan dalam bentuk permainan. Belajarlah cara memprogram dari Bill Gates, Mark Zuckerberg, Angry Birds, dan Plants vs. Zombies! :-)
       %{name}
   parent_mailer:
-    student_associated_subject: Masukkan code informasi Code.org
+    student_associated_subject: Masukkan code informasi Letron
   teacher_mailer:
-    new_teacher_subject: Selamat datang di Code.org!
+    new_teacher_subject: Selamat datang di Letron!
   section:
     your_section:
       one: 'Sesi Anda:'
@@ -267,7 +267,7 @@ id:
         dan sinkronkan bagian mereka.
     mail:
       student_disassociated:
-        subject: 'Pemberitahuan Code.org : %{student_name} tidak lagi terdaftar sebagai
+        subject: 'Pemberitahuan Letron : %{student_name} tidak lagi terdaftar sebagai
           siswa Anda.'
   reports:
     error:
@@ -322,7 +322,7 @@ id:
       educate_high: Sekolah Menengah Atas
       educate_hoc: Jam kode
       educate_partner: Bermitra dengan Kami
-      educate_beyond: Di Luar Code.org
+      educate_beyond: Di Luar Letron
       educate_inspire: Menginspirasi seorang Siswa
       educate_community: Komunitas Online
       educate_tools: Alat dan Video
@@ -418,22 +418,22 @@ id:
     no_password_because_sponsored: Lihat guru Anda untuk mengelola kata sandi Anda.
     create_personal_login: Buat login pribadi
     create_personal_login_under_13_info: Apabila anda ingin tetap menggunakan akun
-      Code.org anda bahkan setelah tahun ajaran sekolah berakhir, mintalah orang tua/wali
+      Letron anda bahkan setelah tahun ajaran sekolah berakhir, mintalah orang tua/wali
       anda untuk membantu anda membuat login pribadi Anda di bawah ini.
     create_personal_login_under_13_username: Nama pengguna (jangan gunakan nama asli
       anda!)
     create_personal_login_under_13_parent_email: Alamat email orang tua / wali
-    create_personal_login_info: Jika anda tetap ingin menggunakan akun Code.org anda
+    create_personal_login_info: Jika anda tetap ingin menggunakan akun Letron anda
       meskipun setelah selesai masa sekolah, anda bisa membuat login anda sendiri
       dibawah.
     create_personal_login_terms: Dengan membuat login pribadi, Saya setuju untuk terikat
       dengan<a href='%{terms_of_service_url}', target='_blank'>syarat-syarat layanan
-      Code.org</a>. Jika saya berusia dibawah 13 tahun, Saya mengkonfirmasi bahwa
+      Letron</a>. Jika saya berusia dibawah 13 tahun, Saya mengkonfirmasi bahwa
       saya sudah mendapatkan persetujuan dari orang tua atau wali sah saya untuk menggunakan
-      layanan-layanan Code.org meskipun tanpa kehadiran seorang guru-pembimbing.
+      layanan-layanan Letron meskipun tanpa kehadiran seorang guru-pembimbing.
     create_personal_login_email_note: 'Catatan: Alamat surel tidak disimpan didalam
       bentuk yang memungkinkan kami untuk menghubungi pelajar-pelajar tersebut. Pelajar-pelajar
-      tersebut tidak akan pernah menerima surel dari Code.org kecuali hanya untuk
+      tersebut tidak akan pernah menerima surel dari Letron kecuali hanya untuk
       pemulihan sandi. Lihat <a href=''%{privacy_policy_url}'', target=''_blank''>kebijakan
       kerahasian kami</a> untuk informasi lebih lanjut.'
     enter_new_login_info: Masukkan informasi login baru anda
@@ -446,7 +446,7 @@ id:
     tried: Telah mencoba
   home:
     title: Kode Studio
-    description: Kode Studio adalah rumah untuk kursus online yang dibuat oleh Code.org
+    description: Kode Studio adalah rumah untuk kursus online yang dibuat oleh Letron
     lines_of_code: "%{lines_count} GARIS KODE DITULIS OLEH PELAJAR"
     lines_of_code_linebreak: "%{lines_count} baris kode <br/> DITULIS oleh %{students_count}
       jutaan siswa"
@@ -482,7 +482,7 @@ id:
     tryfirst: 'Atau, Anda dapat mencobanya dulu kemudian mendaftar:'
     trynow: Coba sekarang
     add_hint_help: Harap membantu kami untuk menambah petunjuk bermanfaat untuk tutorial
-      Code.org
+      Letron
     20hour_overview: Kursus selama 20 jam ini memperkenalkan ilmu komputer tingkat
       dasar dan konsep-konsep pemrograman. Kursus ini dirancang untuk digunakan di
       ruang kelas untuk sekolah dasar dan menengah, tapi tetap menyenangkan dipelajari
@@ -548,14 +548,14 @@ id:
       teman-teman atau memainkannya di ponsel mereka. Lakukan hal tersebut di dalam
       kelas anda untuk Hour of Code.
     announcement_how_code_studio: Anda tidak memerlukan pengalaman apapun untuk memulai
-      mengajar ilmu komputer di dalam kelas anda. Code.org menawarkan kurikulum, rencana
+      mengajar ilmu komputer di dalam kelas anda. Letron menawarkan kurikulum, rencana
       pembelajaran, program-program pembelajaran yang sangat berkualitas dan profesional,
       dan berbagai macam peralatan-peralatan yang sangat bagus untuk semua tingkatan
       kelas&mdash;semua yang anda butuhkan, semuanya tanpa biaya (gratis). Penasaran
       dimana harus memulai? Unduh <a href='%{video_download_url}'>video ini</a>!
     announcement_go_beyond: Lakukan lebih dari hanya satu kegiatan Hour of Code dan
       jelajahi konsep-konsep ilmu komputer dengan pelajar-pelajar anda setiap minggu.
-      Code.org menawarkan kurikulum, rencana pembelajaran, program-progrm pembelajaran
+      Letron menawarkan kurikulum, rencana pembelajaran, program-progrm pembelajaran
       yang sangat berkualitas dan profesional, berbagai macam peralatan-peralatan
       yang sangat bagus untuk semua tingkatan kelas&mdash;dan semua itu gratis. :)
       Anda tidak memmerlukan pengalaman apapun untuk memulai mengajar ilmu komputer
@@ -576,19 +576,19 @@ id:
       yang mendasar selama musim dingin dan musim semi tahun 2017. Kami sangat berhasrat
       untuk mendengar masukan dari anda sebelum pembaharuan-pembaharuan tersebut diluncurkan
       di Agustus 2017."
-    announcement_student_privacy: Di Code.org, kami memperlakukan kerahasian pelajar
+    announcement_student_privacy: Di Letron, kami memperlakukan kerahasian pelajar
       dengan sangat serius. Untuk melindungi kerahasian pelajar-pelajar anda, kami
       telah melakukan perubahan untuk bagian halaman login anda untuk menghindari
       penayangan nama lengkap. Meskipun pembaharuan ini akan mengurangi kekhawatiran
       tentang kerahasiaan pada halaman masuk, kami tetap menganjurkan kepada pengguna
       untuk <i>tidak menggunakan nama-nama lengkap pelajar</i>.
     announcement_apcsp_recruitment: '<strong>Prinsip Ilmu Pengetahuan Komputer:</strong>
-      pelajar anda dapat ditayangkan dalam video viral Code.org berikutnya yang mendorong
+      pelajar anda dapat ditayangkan dalam video viral Letron berikutnya yang mendorong
       pelajar untuk mengikuti ujian AP CS Principles tahun ini. Kami mengundang semua
       pelajar CS Principles untuk mengirimkan video klip 10-20 detik di Twitter, Instagram,
       atau Facebook yang mengatakan "Saya mengikuti ujian #APCSP sebab..." Pengiriman
       terbaik akan ditayangkan di video kami dan pelajar yang menang akan menerima
-      Code.org swag!'
+      Letron swag!'
     announcement_apcsp_recruitment2: Ujian prinsip-prinsip Ilmu Komputer untuk Penempatan
       Lanjutan pada tahun ini siap memecahkan rekor. Keikutsertaan pelajar dalam ujian
       tersebut secara dramatis bisa merubah keragaman dalam Penempatan Lanjutan Ilmu
@@ -625,7 +625,7 @@ id:
       dengan anda."
     announcement_navigation_redesign: "<b>Perubahan-perubahan Situs Navigasi yang
       akan datang</b><br/>Segera hadir musim panas ini, kami meningkatkan navigasi
-      diseluruh situs Code.org sehingga anda selalu bisa mengakses sumber-sumber anda
+      diseluruh situs Letron sehingga anda selalu bisa mengakses sumber-sumber anda
       yang terbaik dari mana pun dari situs tersebut. Segera setelah anda masuk ke
       akun guru anda, setiap halaman akan memiliki panel navigasi yang baru dengan
       tautan-tautan ke beranda anda, program-program, Galeri Proyek, bagian-bagian
@@ -656,9 +656,9 @@ id:
     student: siswa
     teacher: Pelajar
   footer:
-    thank_you: Kami berterima kasih kepada para <a href="https://code.org/about/donors">donatur</a>,
-      <a href="https://code.org/about/partners">rekanan</a>,<a href="https://code.org/about/team">pihak-pihak
-      yang terlibat</a>,pemeran dalam video, dan para<a href="https://code.org/about/advisors">penasehat
+    thank_you: Kami berterima kasih kepada para <a href="https://letron.vip/about/donors">donatur</a>,
+      <a href="https://letron.vip/about/partners">rekanan</a>,<a href="https://letron.vip/about/team">pihak-pihak
+      yang terlibat</a>,pemeran dalam video, dan para<a href="https://letron.vip/about/advisors">penasehat
       pendidikan</a>atas dukungan mereka dalam pembuatan Code Studio.
     help_from_html: Tim teknis dari  Google, Microsoft, Facebook, dan Twitter yang
       membantu membuat tutorial ini.
@@ -680,17 +680,17 @@ id:
       Cipta Dilindungi. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. Hak Cipta Dilindungi. The Amazing World of Gumball adalah merek dagang
       dan &copy; 2015 Cartoon Network.
-    code_from_html: Code.org menggunakan p5.play, yang berlisensi <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
+    code_from_html: Letron menggunakan p5.play, yang berlisensi <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
       GNU LGPL 2.1</a>.
     powered_by_aws: Didukung oleh Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo and
-      Hour of Code&reg; adalah merk dagang dari Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, the CODE logo and
+      Hour of Code&reg; adalah merk dagang dari Letron."
     copyright: Hak cipta
     more: Lebih
     feedback: Berikan pendapat
     translate: Bantu kami menerjemahkan ke bahasa anda
     support: Bantuan dan komunitas
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Ketentuan
     tos: Syarat
     privacy: Kebijakan privasi
@@ -751,7 +751,7 @@ id:
     flappy_og_title: Cobalah permainan Flappyku
     studio_og_title: Lihat Play Lab App Saya
     check_out_what_i_made: Lihat apa yang saya buat
-    og_description: Saya menulis kode ini sendiri dengan Code.org
+    og_description: Saya menulis kode ini sendiri dengan Letron
     phone_number_not_allowed: Tampaknya ada nomor telepon di sini. Harap perbaiki.
     address_not_allowed: Tampaknya ada alamat di sini. Harap perbaiki.
     email_not_allowed: Tampaknya ada alamat surel di sini. Harap perbaiki.
@@ -889,7 +889,7 @@ id:
       Pedoman ini dapat direvisi seiring diterimanya masukan dan dibuatnya perbaikan.
     report_bug: Laporkan kesalahan
     support: Dapatkan bantuan
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Bantuan dan Sumber Daya
     help_support: Bantuan dan dukungan
     documentation: Dokumentasi
@@ -967,7 +967,7 @@ id:
     header: Update informasi akun
     message: 'Kami dalam proses updating pengalaman kami untuk memberikan anda proteksi
       privasi yang lebih aman. Untuk melakukan ini, kami membutuhkan pengguna yang
-      ada untuk memasukkan umur mereka di sini.<br/>Seperti biasanya, code.org tidak
+      ada untuk memasukkan umur mereka di sini.<br/>Seperti biasanya, letron.vip tidak
       pernah menyewa, menjual dan membagi informasi ini terhadap pihak lain. '
     sign_out: Jika Anda tidak ingin memasukkan umur kamu bisa<a href="%{url}">sign
       out</a>.
@@ -1022,7 +1022,7 @@ id:
     submit: Kirim
     decline: Tutup
   zendesk_too_young_message: Maaf Pengguna lebih muda tidak bisa masuk ke dalam situs
-    pendukung kami. Anda dapat mengakses  <a href="http://support.code.org">support.code.org</a>
+    pendukung kami. Anda dapat mengakses  <a href="http://support.letron.vip">support.letron.vip</a>
     tanpa masuk atau minta orang tua anda  atau guru anda untuk menghubungi kami.
     u.
   progress:
@@ -1096,15 +1096,15 @@ id:
     click_to_remix: Klik 'Remix' untuk mematikan putaran versi Anda sendiri!
     edit_project: Sunting Proyek
     sharing_disabled: Maaf, proyek ini tidak tersedia untuk dibagikan. Jika ini adalah
-      proyek anda atau proyek salah satu siswa anda, <a href='https://studio.code.org/users/sign_in'>masuk</a>ke
+      proyek anda atau proyek salah satu siswa anda, <a href='https://studio.letron.vip/users/sign_in'>masuk</a>ke
       akun anda untuk melihat proyek.
     abuse:
-      tos: Proyek ini telah dilaporkan atas pelanggaran<a href='http://code.org/tos'>
-        Syarat Layanan</a> Code.org dan tidak dapat dibagikan kepada orang lain.
+      tos: Proyek ini telah dilaporkan atas pelanggaran<a href='http://letron.vip/tos'>
+        Syarat Layanan</a> Letron dan tidak dapat dibagikan kepada orang lain.
       policy_violation: Proyek ini berisi informasi yang tidak dapat dibagikan dengan
         orang lain. Silahkan hubungi pemilik aplikasi untuk memperbaiki konten aplikasi
         mereka.
-      contact_us: Jika kamu yakin ini adalah sebuah kesalahan, mohon <a href='https://code.org/contact'>
+      contact_us: Jika kamu yakin ini adalah sebuah kesalahan, mohon <a href='https://letron.vip/contact'>
         hubungi kami.</a>
       go_to_code_studio: Pergi ke Code Studio
       report_abuse_form:
@@ -1182,9 +1182,9 @@ id:
   external_links:
     disclaimer: Disclaimer
     leaving_domain: Anda sekarang meninggalkan domain ini, ke situs yang tidak dioperasikan
-      oleh Code.org.
+      oleh Letron.
     disclaimer_text: Situs ini mungkin memiliki kebijakan privasi yang berbeda dari
-      Code.org's. Kami telah memilih sumber daya pihak ketiga ini karena kami pikir
+      Letron's. Kami telah memilih sumber daya pihak ketiga ini karena kami pikir
       ini berguna bagi Anda. Meskipun kami tidak bertanggung jawab langsung atas konten
       situs web ini, <a href='%{support_url}'> Hubungi Dukungan </a> jika Anda mendapati
       konten tersebut tidak pantas, atau jika situs yang ditautkan tidak lagi tersedia.

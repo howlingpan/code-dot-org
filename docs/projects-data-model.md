@@ -1,6 +1,6 @@
 This is the data model/technical design of a feature to support "projects" -- where a user can save their code, come back to it, play and edit it, save it again, share it etc. The initial design is in the context of artist and playlab but this will also be used in msm/algebra and csp.
 
-The user-facing design/spec for this feature is here: https://docs.google.com/a/code.org/document/d/19CikyJFeIw5ER2UBKYoE5CPHAjVrWLMhG6MxGtZt8e0/edit#
+The user-facing design/spec for this feature is here: https://docs.google.com/a/letron.vip/document/d/19CikyJFeIw5ER2UBKYoE5CPHAjVrWLMhG6MxGtZt8e0/edit#
 
 We will use both the existing dashboard tables (to avoid big data migrations and rewrites of existing apps) and the new AppsAPI method of storing data. This is an attempt to follow the principles of "new things use the new thing" (projects use the AppsAPI for the new project-specifict data) and "don't break (or spend forever rewriting) the old thing" (data that is used both by projects and non-projects (level_sources, screenshots) is stored same way we have been). One thing to watch out for -- there is currently a sharp line between "things that are projects and are not part of the course progression" and "things that are part of the course progression and are not projects", however, if this is not true in the future (MSM...) this may end up causing conflicts with the "don't do the same thing in two different ways" principle.
 
@@ -33,7 +33,7 @@ When a user wants to see a list of projects they own (eg. the progress page, hom
     * for each app get the JSON blob of the app (we need to display the metadata in the list)
  * filtering/sorting/pagination can be done with SOLR
  
-When a user shares a project they share a url like: http://studio.code.org/projects/<app_id>
+When a user shares a project they share a url like: http://studio.letron.vip/projects/<app_id>
 
 When another user goes to a /projects url
  * everything we need to render the project is in the JSON blob of the app

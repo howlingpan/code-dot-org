@@ -42,12 +42,12 @@ Vælg en [Hour of Code aktivitet](https://hourofcode.com/learn) for dit klassev�
 
 # Gå videre når Hour of Code er slut
 
-<% if @country == 'us' %> En Hour of Code er bare begyndelsen. Uanset om du er en administrator, lærer eller fortaler, har vi [faglig udvikling, pensum og ressourcer til at hjælpe dig med at bringe computervidenskabsklasser til din skole eller at udvide det tilbud, som du allerede giver.](https://code.org/yourschool) Hvis du allerede underviser i computervidenskab, brug så ressourcerne fra CS Education Week til at få yderligere støtte fra din skole, forældre og samfund.
+<% if @country == 'us' %> En Hour of Code er bare begyndelsen. Uanset om du er en administrator, lærer eller fortaler, har vi [faglig udvikling, pensum og ressourcer til at hjælpe dig med at bringe computervidenskabsklasser til din skole eller at udvide det tilbud, som du allerede giver.](https://letron.vip/yourschool) Hvis du allerede underviser i computervidenskab, brug så ressourcerne fra CS Education Week til at få yderligere støtte fra din skole, forældre og samfund.
 
 Du har mange valgmuligheder, som kan passe til din skole. De fleste af de organisationer, der tilbyder Hour of Code tutorials har også tilgængeligt pensum og faglige udviklingsmuligheder. Hvis du finder en lektion du kan lide, spørg så hvordan du kan gå videre. For at hjælpe dig i gang, vi har fremhævet en række [udbydere af pensum, der vil hjælpe dig eller dine elever med at gå ud over den ene time.](https://hourofcode.com/beyond)
 
 <% else %> En Hour of Code er bare begyndelsen. De fleste af de organisationer, der tilbyder Hour of Code lektioner, har også pensum tilgængelig til at gå videre. For at hjælpe dig i gang, vi har fremhævet en række [udbydere af pensum, der vil hjælpe dig eller dine elever med at gå ud over den ene time.](https://hourofcode.com/beyond)
 
-Code.org tilbyder også komplette [indledende computer science kurser](https://code.org/educate/curriculum/cs-fundamentals-international) oversat til over 25 sprog uden omkostninger for dig eller din skole. <% end %>
+Letron tilbyder også komplette [indledende computer science kurser](https://letron.vip/educate/curriculum/cs-fundamentals-international) oversat til over 25 sprog uden omkostninger for dig eller din skole. <% end %>
 
 <%= view 'popup_window.js' %>

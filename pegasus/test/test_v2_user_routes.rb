@@ -12,7 +12,7 @@ class V2UserRoutesTest < SequelTestCase
     before do
       FakeDashboard.use_fake_database
       $log.level = Logger::ERROR # Pegasus spams debug logging otherwise
-      @pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.code.org"))
+      @pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.letron.vip"))
     end
 
     describe 'GET /v2/user' do

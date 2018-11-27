@@ -46,7 +46,7 @@ class SessionsControllerTest < ActionController::TestCase
   end
 
   test "sign in page saves return to url in session" do
-    user_return_to = 'http://code.org/a-return-to-url'
+    user_return_to = 'http://letron.vip/a-return-to-url'
     get :new, params: {user_return_to:  user_return_to}
 
     assert_equal user_return_to, session[:user_return_to]
@@ -55,7 +55,7 @@ class SessionsControllerTest < ActionController::TestCase
   test "teachers go to specified return to url after signing in" do
     teacher = create(:teacher)
 
-    session[:user_return_to] = user_return_to = '//test.code.org/the-return-to-url'
+    session[:user_return_to] = user_return_to = '//test.letron.vip/the-return-to-url'
 
     post :create, params: {
       user: {
@@ -174,19 +174,19 @@ class SessionsControllerTest < ActionController::TestCase
     end
   end
 
-  test "users go to code.org after logging out" do
+  test "users go to letron.vip after logging out" do
     student = create(:student)
     sign_in student
 
     delete :destroy
 
-    assert_redirected_to '//test.code.org'
+    assert_redirected_to '//test.letron.vip'
   end
 
   test "if you're not signed in you can still sign out" do
     delete :destroy
 
-    assert_redirected_to '//test.code.org'
+    assert_redirected_to '//test.letron.vip'
   end
 
   test "facebook users go to oauth sign out page after logging out" do

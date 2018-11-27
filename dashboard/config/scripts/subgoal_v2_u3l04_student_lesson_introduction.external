@@ -17,10 +17,10 @@ markdown <<MARKDOWN
 
 ## New Blocks
 
-*  **[moveForward](//docs.code.org/applab/moveForward/)** - `moveForward`
-*  **[penUp](//docs.code.org/applab/penUp/)** - `penUp`
-*  **[turnLeft](//docs.code.org/applab/turnLeft/)** - `turnLeft`
-*  **[penDown](//docs.code.org/applab/penDown/)** - `penDown`
+*  **[moveForward](//docs.letron.vip/applab/moveForward/)** - `moveForward`
+*  **[penUp](//docs.letron.vip/applab/penUp/)** - `penUp`
+*  **[turnLeft](//docs.letron.vip/applab/turnLeft/)** - `turnLeft`
+*  **[penDown](//docs.letron.vip/applab/penDown/)** - `penDown`
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>
 MARKDOWN

@@ -11,7 +11,7 @@ cn:
   campaign_date_full: "12 月 4-10日"
   campaign_date_year: "2017"
   campaign_date_full_year: "2017年12月4日至12月10日"
-  codeorg_homepage_hoc2018_curriculum: '继续更深入的使用 <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org 课程</a>'
+  codeorg_homepage_hoc2018_curriculum: '继续更深入的使用 <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron 课程</a>'
   codeorg_homepage_hoc2018_header_line1: '编程一小时活动即将开始'
   codeorg_homepage_hoc2018_header_line2_desktop: '<span class="hoc2018-highlight-word">你将创建什么？</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ cn:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: '通过继续浏览我们的网站或单击 "我同意", 您同意在您的计算机或设备上存储 cookie。'
-  cookie_banner_more_information: "请参Code.org的隐私政策。"
+  cookie_banner_more_information: "请参Letron的隐私政策。"
   cookie_banner_accept: '我同意'
   front_header_banner: '%{campaign_date}，加入有史以来最大的学习活动'
   front_intro_default: '编程一小时活动是一个全球性的活动，在全球180多个国家有数千万学生参与了这个活动。无论你是谁，身处何方，你都可以举办一个编程一小时活动。编程一小时活动的课程已经支持超过40种语言。不需要经验。<strong>4岁以上即可参与。</strong>'
@@ -186,12 +186,12 @@ cn:
   how_to_nav_afterschool_educators: "给课后教育工作者"
   how_to_nav_volunteers: "给志愿者"
   whats_next_header: "下一步是什么?"
-  whats_next_description: "我们会为您的活动寄出材料和有用的提示。<a href='http://code.org/learn'>试试目前的教程</a>，可以在任何浏览器，智能手机 - 甚至没有计算机也能用！"
+  whats_next_description: "我们会为您的活动寄出材料和有用的提示。<a href='http://letron.vip/learn'>试试目前的教程</a>，可以在任何浏览器，智能手机 - 甚至没有计算机也能用！"
   whats_next_how_to: "<a href='/how-to'> 如何组织编程一小时</a>"
   whats_next_promote: "<a href='/promote'> 推广编程一小时</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'> 如何推广编程一小时</a>"
   whats_next_how_to_promote_link: "<a href='/promote'> 如何推广编程一小时</a>"
-  whats_next_try: "<a href='http://code.org/learn'> 试学教程</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'> 试学教程</a>"
   whats_next_try_button: '试学教程'
   n_have_learned_an_hoc: "<h1>尝试</h1><h2>编程一小时</h2><h3># 已完成</h3>"
   anybody_can_learn: '任何人都可以学习。'
@@ -238,8 +238,8 @@ cn:
   front_join_us_sign_up: "注册"
   front_join_us_host: "举办它"
   front_join_us_support: "支持"
-  front_join_us_more_info: "更多信息，请访问<a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "有关详细信息，请访问 code.org"
+  front_join_us_more_info: "更多信息，请访问<a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "有关详细信息，请访问 letron.vip"
   front_join_us_n_students_served: "#次使用"
   front_join_us_challenge: "为你的班级赢得一次与名人的视频聊天！"
   front_join_us_learn_more: "了解更多"
@@ -267,7 +267,7 @@ cn:
   signup_your_event: '登记您的活动'
   signup_host_an_hour: '主办一小时'
   signup_match_volunteer: '帮我找一个本地的软件工程师来激励我的学生'
-  signup_email_preference_opt_in: '我们能向您推送Code.org课程更新，本地机会，或者其他计算机科学的新闻吗？'
+  signup_email_preference_opt_in: '我们能向您推送Letron课程更新，本地机会，或者其他计算机科学的新闻吗？'
   signup_email_preference_privacy: '(请参阅我们的隐私政策)'
   signup_email_preference_yes: '是的'
   signup_email_preference_no: '不是'
@@ -292,7 +292,7 @@ cn:
   signup_continue_label: '继续'
   signup_thank_you_header: "感谢您注册主办一个编程一小时活动。"
   signup_thank_you_message: '我们发送了一封确认邮件，其中有帮助您开始的信息。'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@ cn:
   twitter_donor_text: "今年的 #HourOfCode 是关于创造力的。我已加入! 你呢？(感谢 %{random_donor} 支持 @codeorg)"
   hoc_faq_title: '常见问题'
   hoc_faq_what_is_hoc_q: '编程一小时是什么？'
-  hoc_faq_what_is_hoc_a: "编程一小时是一个介绍计算机科学一小时的活动，旨在揭秘编程并说明它是任何人都可以学习的基础知识。<a href='http://code.org/learn'>查看教程</a>。"
+  hoc_faq_what_is_hoc_a: "编程一小时是一个介绍计算机科学一小时的活动，旨在揭秘编程并说明它是任何人都可以学习的基础知识。<a href='http://letron.vip/learn'>查看教程</a>。"
   hoc_faq_last_year: "尝试教程"
   hoc_faq_when_is_hoc_q: '编程一小时活动将在什么时候举行？'
   hoc_faq_when_is_hoc_a: "编程一小时是每年在 <a href='%{csedweek_url}'> 计算机科学教育周</a> 期间举行的。%{campaign_date_year} 计算机科学教育周将在 %{campaign_date_full} 举办，但你一年四季都可以参与或者举办编程一小时活动。为了纪念 <a href='%{grace_hopper}'> 海军上将Grace Murray Hopper</a> （1906 年 12 月 9 日） ，每年计算机科学教育周的举办时间是他的生日。"
   hoc_faq_why_cs_q: '为什么要学习计算机科学？'
-  hoc_faq_why_cs_a: "<i>每一个</i>学生都应该获得学习计算机科学的机会。它有益于培养解决问题的能力，逻辑能力和创造性。通过早期的学习，学生们将为他们在21世纪的职业成功打下基础。在<a href='http://code.org'>Code.org</a>上查看更多数据。"
+  hoc_faq_why_cs_a: "<i>每一个</i>学生都应该获得学习计算机科学的机会。它有益于培养解决问题的能力，逻辑能力和创造性。通过早期的学习，学生们将为他们在21世纪的职业成功打下基础。在<a href='http://letron.vip'>Letron</a>上查看更多数据。"
   hoc_faq_how_participate_q: '我怎样才能参加编程一小时活动？'
   hoc_faq_how_participate_a: "<a href='/how-to'>点击这里阅读使用指南</a>，开启新的旅程！你可以在学校或者你所在的团体&mdash;，比如在课外兴趣小组、非营利性组织或是在工作圈子里组织《编程一小时》活动。当然，你自己也可以选择在%{campaign_date} 来一次自我挑战。"
   hoc_faq_behind_hoc_q: '谁是编程一小时活动的组织者？'
-  hoc_faq_behind_hoc_a: "编程一小时活动的组织者是<a href='http://code.org'>Code.org</a>, 它是一个面向公众的501c3公益组织，致力于在更多的学校推广计算机科学教育，并为女性和就业率低的有色人种学生学习计算机的机会。同时，一个<a href='http://code.org/about/partners'>空前强大的合作伙伴联盟</a>也在支持着编程一小时活动。&mdash; 这些合作伙伴包括：微软公司,苹果公司,亚马逊公司,美国男孩女孩俱乐部和大学理事会。"
+  hoc_faq_behind_hoc_a: "编程一小时活动的组织者是<a href='http://letron.vip'>Letron</a>, 它是一个面向公众的501c3公益组织，致力于在更多的学校推广计算机科学教育，并为女性和就业率低的有色人种学生学习计算机的机会。同时，一个<a href='http://letron.vip/about/partners'>空前强大的合作伙伴联盟</a>也在支持着编程一小时活动。&mdash; 这些合作伙伴包括：微软公司,苹果公司,亚马逊公司,美国男孩女孩俱乐部和大学理事会。"
   hoc_faq_host_q: "我完全不懂编程。我也可以举办这个活动吗？"
   hoc_faq_host_a: "当然。代码一小时活动是自我引导的。你要做的就是 <a href='%{codeorg_url}/learn'> 尝试我们当前的教程</a>，挑选你想要的教程，并安排一个小时的时间 &mdash; 其余部分就交给我们。我们提供了适应每个年龄和经验水平的课程，从幼儿园到成年。阅读我们 <a href='/how-to'> 如何策划</a>，来开始规划您的编程一小时活动。"
   hoc_faq_devices_q: "我应该给我的学生用什么设备?"
-  hoc_faq_devices_a: "Code.org教程在所有设备和浏览器上都能使用。你可以点击<a href='%{codeorg_url}/educate/it'>这里</a>看到更多code.org教程的技术要求信息。非code.org教程的技术要求信息在 <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> 的教程具体描述里。别忘了我们也提供了离线活动，如果你的学校不能使用这些教程！"
+  hoc_faq_devices_a: "Letron教程在所有设备和浏览器上都能使用。你可以点击<a href='%{codeorg_url}/educate/it'>这里</a>看到更多letron.vip教程的技术要求信息。非letron.vip教程的技术要求信息在 <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> 的教程具体描述里。别忘了我们也提供了离线活动，如果你的学校不能使用这些教程！"
   hoc_faq_need_computers_q: '我需要为所有的学生准备计算机吗？'
   hoc_faq_need_computers_a: "不需要。我们的教程可以在电脑、智能手机、平板电脑上运行，也可以完全不用电脑来完成！无论你在哪里，有什么设备，都可以参加编程一小时的活动。<p><i>这里有一些参考选项：</i> <br> <ul> <li><b>结对学习</b> 研究表明，学生在共享一台电脑并且共同工作的<a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>结对编程</a>中学习效果最好，应当鼓励学生们结对互助。<li><b>使用投影设备</b>使用投影设备和连接互联网的电脑，通过一起观看视频，轮流解决谜题和回答问题，全体学员可以一起参加编程一小时活动。<li><b>不插电活动</b>我们提供完全不需要电脑的编程一小时活动教程。</ul>"
   hoc_faq_international_q: "我在<country>。我如何加入国际化的活动？"
@@ -346,25 +346,25 @@ cn:
   hoc_faq_tutorial_q: '我怎样才能编写编程一小时的教程？'
   hoc_faq_tutorial_a: "如果你有兴趣成为教程的合作伙伴，<a href='targetHOC'> 请参阅我们的指南和介绍</a>。我们需要各种引人入胜的项目，但主要目标是为那些不熟悉计算机科学的学生和教师提供更优化的体验。"
   hoc_faq_account_q: "学生需要使用帐户登录吗?"
-  hoc_faq_account_a: "不，学生尝试编程一小时完全不需要注册或登陆。大多数<a href='http://code.org/learn/beyond'>后续课程</a>需要创建账户以保存学生的学习进度。"
+  hoc_faq_account_a: "不，学生尝试编程一小时完全不需要注册或登陆。大多数<a href='http://letron.vip/learn/beyond'>后续课程</a>需要创建账户以保存学生的学习进度。"
   hoc_faq_high_school_q: "哪些活动适合高中生？"
-  hoc_faq_high_school_a: "在所有年龄段，我们建议你在<a href='http://code.org/learn'> Code.org/learn</a>初学者教程开始尝试，如愤怒的小鸟教程或安娜和艾尔莎教程。一名高中学生应该能够在30分钟内完成下列操作之一，然后可以在JavaScript中尝试更高级教程，如Khan Academy或CodeHS。"
+  hoc_faq_high_school_a: "在所有年龄段，我们建议你在<a href='http://letron.vip/learn'> Letron/learn</a>初学者教程开始尝试，如愤怒的小鸟教程或安娜和艾尔莎教程。一名高中学生应该能够在30分钟内完成下列操作之一，然后可以在JavaScript中尝试更高级教程，如Khan Academy或CodeHS。"
   hoc_faq_scratch_q: "我正在为编程一小时制作简易程序，但是如果我的学生只有iPad没有笔记本电脑怎么办？"
-  hoc_faq_scratch_a: "Scratch不能在平板电脑上运行。如果你的学生都很小，他们可以使用ScratchJR iPad应用程序（早期阅读器）。如果你看一下<a href='http://code.org/learn'> Code.org/learn</a>的教程，你可以找到在iPad可行的其他教程 - Code.org，Tynker， Lightbot，或CodeSpark。"
+  hoc_faq_scratch_a: "Scratch不能在平板电脑上运行。如果你的学生都很小，他们可以使用ScratchJR iPad应用程序（早期阅读器）。如果你看一下<a href='http://letron.vip/learn'> Letron/learn</a>的教程，你可以找到在iPad可行的其他教程 - Letron，Tynker， Lightbot，或CodeSpark。"
   hoc_faq_count_hoc_q: "你对《编程一小时》有多期待？"
   hoc_faq_map_q: "为什么在地图上见不到我的小点?"
   hoc_faq_map_a: "非常抱歉，你不能在编程一小时地图上看到你的活动。因为有成千上万的组织者报名，地图会将活动都聚集起来，几个活动只会显示一个点。如果你点击地图上的点，就会到达按照州组织的活动列表，这样就能在列表里看到你的活动了。另外，由于数千人都在报名编程一小时，地图和活动列表通常需要48小时来更新。过几天再来看吧！"
-  hoc_faq_count_hoc_a: "《编程一小时》跟踪器不会对使用情况进行准确测量。在学员参与《编程一小时》时，我们不会对学生的登录信息进行精准统计，特别是因为我们不需要学生注册或登陆。因此，高估和低估的情况会同时发生。<a href='http://code.org/loc'>点击这里</a>阅读详细信息。"
+  hoc_faq_count_hoc_a: "《编程一小时》跟踪器不会对使用情况进行准确测量。在学员参与《编程一小时》时，我们不会对学生的登录信息进行精准统计，特别是因为我们不需要学生注册或登陆。因此，高估和低估的情况会同时发生。<a href='http://letron.vip/loc'>点击这里</a>阅读详细信息。"
   hoc_faq_one_hour_q: "一小时能学到多少？"
   hoc_faq_one_hour_a: '编程一小时的目的不是让任何人在一小时内成为一个计算机科学的专家。一个小时只够用来了解计算机科学的趣味和创造力，它是可以被所有年龄，无论什么背景的学生使用的。这个运动成功的衡量标准不是有多少计算机科学的学生学习了，而是由有多广泛的跨性别，跨种族和社会经济组织的参与来反映，以及能够让更多的各个年级的学生愿意注册和参与计算机科学的课程。上百万参与过的老师和学生已经决定超越一小时——去学习一整天，一周或更长，并且很多学生已经决定报名参加整个课程（甚至大学专业）。<br/><br/>除了学生之外，另一种“学习者”是教育工作者，他们在这一小时后，虽然他们可能没有计算机科学的学位，也会有信心能够讲授计算机科学了。数万名教师决定进一步追寻计算机科学，提供进一步的在线课程和离线课程。学校的管理者也是一样，他们人知道了计算机科学是学生们需要的，也是老师能教的。<br/><br/>总之，这就是所有的参与者在一小时内得到的，也是我们所做的。'
   hoc_faq_more_questions_q: "还有更多的问题吗？"
-  hoc_faq_more_questions_a: "试着在我们的 <a href='http://support.code.org'> 支持论坛</a> 中找到答案。"
+  hoc_faq_more_questions_a: "试着在我们的 <a href='http://support.letron.vip'> 支持论坛</a> 中找到答案。"
   hoc_faq_keep_learning_q: "我如何在一小时后还接着学习？"
   hoc_faq_keep_learning_a: "任何人在任何时候都可以组织编程一小时。这个指南是全年的。你可以认为我们的教程和课程是永远在线的。 请转到<a href='/promote'>活动的资源</a>获得操作指南和其它资源来帮助你成功举办编程一小时活动。"
   hoc_faq_certificates_q: "在哪里可以为我的学生打印证书？"
   hoc_faq_certificates_a: "转到<a href='%{codeorg_url}/certificates'>证书页面</a>，你就能在开始之前为全班打印证书了。你也能给参加了《我的世界》教程的学生打印<a href='%{codeorg_url}/certificates?course=mc'>特别证书</a>。"
   hoc_faq_logo_q: "是否有我能否使用编程一小时标志或名称的限制？"
-  hoc_faq_logo_a: "编程一小时已进行商标注册。我们不希望阻止它的使用，但我们想要确保它的使用符合限制。请参阅 <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> 使用准则</a>。"
+  hoc_faq_logo_a: "编程一小时已进行商标注册。我们不希望阻止它的使用，但我们想要确保它的使用符合限制。请参阅 <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> 使用准则</a>。"
   stats_hoc_2013_image_alt: '2013年开始编程一小时活动统计数据'
   stats_growth: "它以最快的速度到达 1500 万用户。"
   stats_i18n: "学生在用40种语言学习"
@@ -469,8 +469,8 @@ cn:
   highlights_constant_ny_short_heading: 布鲁克林击败芝加哥
   highlights_constant_athletes_heading: 冠军和金牌获得者Serena Williams，Neymar Jr，Carmelo Anthony等人激励学生超越自己。
   highlights_constant_athletes_short_heading: 超越自己
-  footer_copyright_message: '版权所有 2015 Code.org。保留所有的权利。'
-  footer_trademark_message: 'Hour of Code ™ 是 Code.org 的注册商标。'
+  footer_copyright_message: '版权所有 2015 Letron。保留所有的权利。'
+  footer_trademark_message: 'Hour of Code ™ 是 Letron 的注册商标。'
   footer_menu_partners: '合作伙伴'
   footer_menu_contact: '联系我们'
   footer_menu_support: '支持'
@@ -506,7 +506,7 @@ cn:
   tutorial_spritebox_name: "精灵盒编码"
   tutorial_tynkerch_name: "入侵收银台"
   tutorial_lightbot_name: "点灯机器人"
-  tutorial_hoc_name: "新 code.org/hoc 的占位符"
+  tutorial_hoc_name: "新 letron.vip/hoc 的占位符"
   tutorial_code_name: "编写你的第一个计算机程序"
   tutorial_tinspire_name: "TI-Nspire CX编程的10分钟"
   tutorial_itchbounceball_name: "ITCH 弹珠游戏(用Scratch)"
@@ -1086,7 +1086,7 @@ cn:
   tutorial_spritebox_shortdescription: "通过跑, 跳, 和编程来通过三个不同的世界，收集星星, 并到达终点! 学习Swift, Java, 或图标里的排序，解除错误和循环的方法。"
   tutorial_tynkerch_shortdescription: "在你打败病毒的过程中学习 Javascript！"
   tutorial_lightbot_shortdescription: "使用程序和循环来编写程序，让Lightbot破解谜题！"
-  tutorial_hoc_shortdescription: "新 code.org/hoc 的占位符"
+  tutorial_hoc_shortdescription: "新 letron.vip/hoc 的占位符"
   tutorial_code_shortdescription: "跟着马克·扎克伯格和《愤怒的小鸟》学编程！"
   tutorial_tinspire_shortdescription: "让学生在手持设备中开始编码他们的 TI Nspire CX，一次10分钟的时间。"
   tutorial_itchbounceball_shortdescription: "使用ITCH - 通过草图与视频课联合, 让您自己来做弹跳球。"
@@ -1666,7 +1666,7 @@ cn:
   tutorial_spritebox_longdescription: "通过跑, 跳, 和编程来通过三个不同的世界，收集星星, 并到达终点! 学习Swift, Java, 或图标里的排序，解除错误和循环的方法。"
   tutorial_tynkerch_longdescription: "从恶意病毒中保存计算机! 你将不得不通过删除病毒来破解这个系统, 打开门, 解决迷宫, 并通过门户网站导航。注意病毒和故障!"
   tutorial_lightbot_longdescription: "Lightbot 是一个游戏, 要求玩家使用编程逻辑来解决难题! 获得对基本编码概念的实际理解引导Lightbot 照亮在每个级别的所有蓝色砖块。学习如何在这个自我引导的活动中按顺序排列指令、编写过程和利用循环。适合所有年龄和所有技能水平。"
-  tutorial_hoc_longdescription: "新 code.org/hoc 的占位符"
+  tutorial_hoc_longdescription: "新 letron.vip/hoc 的占位符"
   tutorial_code_longdescription: "通过拖拽式编程，学习计算机科学的基本概念。这是一款类似游戏的自主教程，包含了比尔·盖茨、马克·扎克伯格等人录制的视频课程，以及与《愤怒的小鸟》和《植物大战僵尸》等游戏相结合的学习内容。学习重复循环、条件式和基本算法。提供 37 种语言支持。"
   tutorial_tinspire_longdescription: "向学生介绍编码的基本知识 - 每次只需10分钟 - 使用他们每天在背包中携带的 TI 技术。这些课程为学生提供了一个容易入门的编程, 可以帮助激发他们对编码和计算机科学的兴趣。 学生将编写的程序, 可以加强数学概念使用 Ti 的基本语言在他们的 Ti-Nspire 手持设备里现成的。"
   tutorial_itchbounceball_longdescription: "我们将带您通过用 Scratch 视觉编程语言来介绍 Itch。\n              \n本课为学生提供的代码视频和文本方向需要添加让球可笑地在屏幕上跳动。\n              \n一旦学生完成了这项活动，就有机会探索其他可以进行的改变和活动。没有一个设定的目标或结果，因为它是一个开放的学习环境，但是这些刚刚开始代码的学生才能想出惊人的计划！\n              \n所有指令都包含在 Itch 的环境中，所以不需要切换屏幕来跟随项目。建议戴上耳机。"

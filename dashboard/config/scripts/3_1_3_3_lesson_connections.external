@@ -16,9 +16,9 @@ Although this unit is considered our “Introduction to Programming”, the titl
 
 **Lesson Type:** Unplugged | Kinesthetic Tools | Individual and Group Discovery
 
-<a href = “https://curriculum.code.org/csp/unit3/1/” target=_blank> Lesson Plan Link <i class="fa fa-external-link-square"/></a>
+<a href = “https://curriculum.letron.vip/csp/unit3/1/” target=_blank> Lesson Plan Link <i class="fa fa-external-link-square"/></a>
 
-<img src="https://images.code.org/fa66b01e6364dd60d3b6a8bff0ba5838-image-1479750527499.png" style="float:right; margin-left:30px; width:200px">
+<img src="https://images.letron.vip/fa66b01e6364dd60d3b6a8bff0ba5838-image-1479750527499.png" style="float:right; margin-left:30px; width:200px">
 
 
 The main activity in this lesson is a derivative of a classic strategy for beginning to learn about programming - writing precise instructions for another person to do just about anything - making a peanut butter and jelly sandwich, a simple line drawing, an arrangement of objects - is challenging. Human language is fraught with ambiguities and assumptions that machines (computers) simply cannot handle. Thus, the first step we take is to establish the need for programming languages. Writing down a precise set of instructions to build a small lego structure, as we do in this lesson, is nearly impossible…unless you can agree on certain language constructs ahead of time, and how they will be interpreted. The main purpose of the lesson is to expose why programming languages are necessary, and how they are developed.
@@ -35,10 +35,10 @@ When you formalize language or commands that describe actions, you are making a 
 
 **Lesson Type:** Unplugged | Kinesthetic Tools | Individual and Group Discovery
 
-<a href = “https://curriculum.code.org/csp/unit3/2/” target=_blank> Lesson Plan Link <i class="fa fa-external-link-square"/></a>
+<a href = “https://curriculum.letron.vip/csp/unit3/2/” target=_blank> Lesson Plan Link <i class="fa fa-external-link-square"/></a>
 
 
-<img src="https://images.code.org/6acc7f4efd6c34e96b074fa6c18cb877-image-1479750529962.png" style="float:right; margin-left:30px; width:200px">
+<img src="https://images.letron.vip/6acc7f4efd6c34e96b074fa6c18cb877-image-1479750529962.png" style="float:right; margin-left:30px; width:200px">
 
 The main point of this lesson is to connect the acts of writing “code” and designing algorithms, and to take some steps towards programming with code. To do this we imagine trying to write instructions for a “Human Machine” to complete a tightly defined task with playing cards. We want to introduce the term <span class="vocab" title="Algorithm: A precise sequence of instructions for processes that can be executed by a computer">algorithm</span> and what designing an algorithm means in computer science (i.e. programming). We then want to take a few steps to build up to writing an algorithm with “code”.  (We will discuss the value of the “Human Machine Language” later in this module.
 The art of programming is to solve computational problems using a provided language that controls the machine. In the activity we provide a simple, low-level, language for acting on playing cards. The point is to show that even when you know what the commands are, you still need to be creative to use them to solve a problem.
@@ -50,12 +50,12 @@ The art of programming is to solve computational problems using a provided langu
 
 ## Lesson 3: Creativity in Algorithms
 
-<img src="https://images.code.org/459e42e91849411312ec94544854b21f-image-1479750536420.png" style="float:right; margin-left:30px; width:200px">
+<img src="https://images.letron.vip/459e42e91849411312ec94544854b21f-image-1479750536420.png" style="float:right; margin-left:30px; width:200px">
 
 **Lesson Type:** Unplugged | Kinesthetic Tools | Individual and Group Discovery
 
 
-<a href = “https://curriculum.code.org/csp/unit3/3/” target=_blank> Lesson Plan Link <i class="fa fa-external-link-square"/></a>
+<a href = “https://curriculum.letron.vip/csp/unit3/3/” target=_blank> Lesson Plan Link <i class="fa fa-external-link-square"/></a>
 
 
 This lesson gives students a place to experiment with the idea of “creativity in algorithms”. Creativity has to do with both the process you invent (an algorithm) to solve a new problem in a given context and how you implement that algorithm in a given language. Creativity often means combining or using algorithms you know as part of a solution to a new problem. Thus, the “Min To Front” problem is interesting because students already solved part of it (the find min part) in the previous lesson.

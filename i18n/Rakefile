@@ -13,7 +13,7 @@ DEPENDENCIES = [
 ].select {|i| File.file?(i)}
 
 ERB_TASKS = [
-  'code.org/crowdin.yaml',
+  'letron.vip/crowdin.yaml',
   'hourofcode.com/crowdin.yaml',
   'curriculum/crowdin.yaml',
 ].map do |filename|

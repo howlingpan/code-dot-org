@@ -8,7 +8,7 @@ ja:
       2-3 Artist 3.4: "ジャンプのブロックを使うと、線をかかずに絵かきさんを動かします。\n「ジャンプ」と「前へ動く」の両方のブロックを使って、点線をかいてみましょう。"
       2-3 Artist 3new: "赤（あか）い帽子（ぼうし）の高（たか）さは 100 ピクセルです。\nこれよりも 70 ピクセル低（ひく）い、黒（くろ）い帽子を完成（かんせい）させてください。\\r\n\\r\n*(備考: 各帽子の幅は 50 ピクセルです。)*"
       2-3 Artist 4: この猫のために、家を完成させましょう。
-      2-3 Artist 6: "この家（いえ）には屋根（やね）が必要（ひつよう）です！三角形（さんかくけい）を描きましょう。 \\r\n\\r\nヒント:\n3 辺（へん）の長さがすべて同（おな）じです。\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      2-3 Artist 6: "この家（いえ）には屋根（やね）が必要（ひつよう）です！三角形（さんかくけい）を描きましょう。 \\r\n\\r\nヒント:\n3 辺（へん）の長さがすべて同（おな）じです。\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       2-3 Artist 7: "こどもたちがみんなが外（そと）を見れるように、\n学校（がっこう）の残（のこ）りの窓（まど）をすべて完成（かんせい）させましょう。\\r\n\\r\nそれぞれの正方形（せいほうけい）の窓の辺（へん）の長（なが）さは 25 ピクセルです。"
       2-3 Artist 8: "納屋（なや）を作りましょう！\\r\n\\r\n納屋を 2 つの同じ大きさの正方形（せいほうけい）に分割（ぶんかつ）して、\nそれぞれの動物（どうぶつ）のための部屋（へや）を作りましょう。 \\r\n\\r\nヒント:\n長方形（ちょうほうけい）の幅（はば）は 200 ピクセルで、高さは 100 ピクセルです。 \\r\n\\r\nこのパズルを解（と）く方法（ほうほう）はたくさんあります。"
       2-3 Artist 9 NEW: この凧（たこ）を完成させてください
@@ -154,18 +154,18 @@ ja:
       CourseF_PlayLab_vars2: "さっきのゲームは、ネコが早すぎだったよね！\n'dog_speed'（ドッグ スピード） は、犬の早さを決めます。'cat_speed（キャット スピード）は、ネコの早さを決めます。\n'dog_speed'の数を大きくして、ネコより多くのハタを集めましょう。先に、10 ハタを集めたほうが勝ちです！"
       Function intro Ryan: "ワークスペースに、「橋をかける」という名前の **関数** があります。川を渡るために必要なコードはその関数の中にすべて入っています!\\r\n \\r\n小さな緑色のブロックをワークスペースに 2 回はめこんで、{currentPlayerName} がレッドストーンのたいまつ [redstone_torch] にたどり着けるようにしましょう。"
       Function intro Ryan_2019: "ワークスペースに、「橋をかける」という名前の **関数** があります。川を渡るために必要なコードはその関数の中にすべて入っています!\\r\n \\r\n小さな緑色のブロックをワークスペースに 2 回はめこんで、{currentPlayerName} がレッドストーンのたいまつ [redstone_torch] にたどり着けるようにしましょう。"
-      HOC 2018 Level_1: "この先の航海には物資が必要です。**チェスト** ![](https://images.code.org/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png) から**ボート** ![](https://images.code.org/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png) を手に入れましょう。\n\n"
-      HOC 2018 Level_10: "海底神殿のどこかに**イカ** ![](https://images.code.org/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png) が隠れています。見つけられるかな？\n\n"
-      HOC 2018 Level_11: 黒いコンクリートの周りに**海晶ブロック** ![](https://images.code.org/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png) の壁を作りましょう。すると**コンジット** ![](https://images.code.org/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png) が起動してあなたのチャレンジも終了です！
+      HOC 2018 Level_1: "この先の航海には物資が必要です。**チェスト** ![](https://images.letron.vip/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png) から**ボート** ![](https://images.letron.vip/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png) を手に入れましょう。\n\n"
+      HOC 2018 Level_10: "海底神殿のどこかに**イカ** ![](https://images.letron.vip/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png) が隠れています。見つけられるかな？\n\n"
+      HOC 2018 Level_11: 黒いコンクリートの周りに**海晶ブロック** ![](https://images.letron.vip/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png) の壁を作りましょう。すると**コンジット** ![](https://images.letron.vip/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png) が起動してあなたのチャレンジも終了です！
       HOC 2018 Level_12: おめでとうございます！目の前には水の世界が広がっています。サンゴ礁を作ろう！火山も！沈没船も！自由に作ってみてください。
       HOC 2018 Level_2: 広い海では泳ぐよりもボートの方がずっと楽です！桟橋の端まで進んでボートに飛び乗りましょう。
-      HOC 2018 Level_3: オールでボートを操縦して広い海を渡り**タラ** ![](https://images.code.org/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png) をつかまえましょう。
-      HOC 2018 Level_4: '**イルカ** ![](https://images.code.org/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png) にタラを食べさせましょう。リピートブロックを使うとより速く海を渡れます。'
-      HOC 2018 Level_5: どこかに**オウムガイの殻** ![](https://images.code.org/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png) が隠れているよ！沈没船の中を探検して**チェスト** ![](https://images.code.org/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png) までたどりついて。
-      HOC 2018 Level_6: 外はとっても寒そうです！海底神殿に行く途中で**サケ** ![](https://images.code.org/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png) をつかまえよう。
-      HOC 2018 Level_7a: "海底神殿を見つけました。砂岩を調べて**海晶ブロック** ![](https://images.code.org/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png) のお宝が入っている**チェスト** ![](https://images.code.org/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png) を探そう。\n\n"
-      HOC 2018 Level_8: "初めは氷山だったのに今は溶岩？この火山島を通り抜けてサンゴ礁の**熱帯魚** ![](https://images.code.org/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png) を見つけましょう。\n\n"
-      HOC 2018 Level_9b: "サンゴ礁に着いた。次は**海の中心** ![](https://images.code.org/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png) を探そう！青と赤のサンゴを使ってお宝の**チェスト** ![](https://images.code.org/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png) にたどりつこう。\n"
+      HOC 2018 Level_3: オールでボートを操縦して広い海を渡り**タラ** ![](https://images.letron.vip/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png) をつかまえましょう。
+      HOC 2018 Level_4: '**イルカ** ![](https://images.letron.vip/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png) にタラを食べさせましょう。リピートブロックを使うとより速く海を渡れます。'
+      HOC 2018 Level_5: どこかに**オウムガイの殻** ![](https://images.letron.vip/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png) が隠れているよ！沈没船の中を探検して**チェスト** ![](https://images.letron.vip/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png) までたどりついて。
+      HOC 2018 Level_6: 外はとっても寒そうです！海底神殿に行く途中で**サケ** ![](https://images.letron.vip/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png) をつかまえよう。
+      HOC 2018 Level_7a: "海底神殿を見つけました。砂岩を調べて**海晶ブロック** ![](https://images.letron.vip/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png) のお宝が入っている**チェスト** ![](https://images.letron.vip/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png) を探そう。\n\n"
+      HOC 2018 Level_8: "初めは氷山だったのに今は溶岩？この火山島を通り抜けてサンゴ礁の**熱帯魚** ![](https://images.letron.vip/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png) を見つけましょう。\n\n"
+      HOC 2018 Level_9b: "サンゴ礁に着いた。次は**海の中心** ![](https://images.letron.vip/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png) を探そう！青と赤のサンゴを使ってお宝の**チェスト** ![](https://images.letron.vip/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png) にたどりつこう。\n"
       K-1 Bee Loops 2: 繰り返しを使って移動して、みつを集めて、はちみつを作ってください!
       K-1 Bee Loops 3: 繰り返しを使ってみつを集めて、はちみつを作ってください!
       K-1 Bee Loops 4: 繰り返しを使って、みつを集めて、はちみつを作って、移動してください!
@@ -283,11 +283,11 @@ ja:
       courseA_artist_loops8: |-
         ## ボートまではしごが必要です。
         
-        ![expandable](https://images.code.org/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
+        ![expandable](https://images.letron.vip/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
       courseA_artist_loops8_2018: |-
         ## ボートまではしごが必要です。
         
-        ![expandable](https://images.code.org/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
+        ![expandable](https://images.letron.vip/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
       courseA_bee_seq4: 自分でやってみよう！
       courseA_harvester_seq6: 自分でやってみよう！
       courseD_bee_nestedLoops5: "それぞれの花からすべての花のみつを集めてください。\nそしてそれぞれのハチの巣でハチミツを作ってください。\n入れ子のループ（ネスト・ループ）を使うのです。 "
@@ -393,7 +393,7 @@ ja:
       grade4_frozen_square_loop1: こんにちは、アレンデール王国のアナよ！「くりかえし」ブロックをつかって、四角形をかいてみて。さっきより少ないブロックで かけるはずよ。四角をかくには、何回くりかえせばいいか 考えて、「???」に、数をいれてみましょう。
       grade4_frozen_square_loop2: 四角形を 3つ かいてみましょう。ひとつ四角形をかいたら、120度まがると いいわよ。
       grade4_frozen_square_loop3: この雪のもようが かけるかしら？「くりかえし」ブロックで、四角形を10こ かけばいいわ。四角形をひとつ かいたら、「まがる」ブロックで36度まがるのよ。
-      grade4_review_artist2: "この家（いえ）には屋根（やね）が必要（ひつよう）です！三角形（さんかくけい）を描きましょう。 \\r\n\\r\nヒント:\n3 辺（へん）の長さがすべて同（おな）じです。\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      grade4_review_artist2: "この家（いえ）には屋根（やね）が必要（ひつよう）です！三角形（さんかくけい）を描きましょう。 \\r\n\\r\nヒント:\n3 辺（へん）の長さがすべて同（おな）じです。\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       grade4_review_artist3: "ジャンプのブロックを使うと、線をかかずに絵かきさんを動かします。\n「ジャンプ」と「前へ動く」の両方のブロックを使って、点線をかいてみましょう。"
       grade4_review_bee1: 今度は新しい繰り返しブロックを利用して、全てのはなのみつを集めてはちみつを作ってみましょう。
       grade5_artist_for_loops10: "**ちょうせん:** これまで学んだことをすべて使って、この図形を書いてください。多角形の一辺は、ぜんぶ40ピクセルの長さです。\nヒント： `counter` は２から19まで２ずつカウントして下さい。"
@@ -412,7 +412,7 @@ ja:
         ボートまではしごが必要です。<br/>
         </div>
         
-        <img src="https://images.code.org/6e4dc767e55d11400f35c6680bbfe1e3-image-1470788284437.gif" width="300"/>
+        <img src="https://images.letron.vip/6e4dc767e55d11400f35c6680bbfe1e3-image-1470788284437.gif" width="300"/>
       level 'grade3_Loops_3: 全てのはなのみつを集めるのに繰り返しブロックを使ってみましょう。
       level 'grade3_Loops_4: 今度は新しい繰り返しブロックを利用して、全てのはなのみつを集めてはちみつを作ってみましょう。
       level 'grade3_Loops_6: "このブロックの組み合せを３回繰り返したらどうなるでしょうか？\n最後にはちみつを作るのを忘れないでね。"

@@ -11,7 +11,7 @@ Feature: Using the assessments tab in the teacher dashboard
 
     # Assign a script with a survey but no assessment
     When I sign in as "Teacher_Sally"
-    And I am on "http://studio.code.org/home"
+    And I am on "http://studio.letron.vip/home"
     And I click selector ".ui-test-section-dropdown" once I see it
     And I click selector ".edit-section-details-link"
     And I wait until element "#uitest-assignment-family" is visible
@@ -35,32 +35,32 @@ Feature: Using the assessments tab in the teacher dashboard
   Scenario: Assessments tab survey submissions
     Given I create an authorized teacher-associated student named "Sally"
     And I give user "Teacher_Sally" hidden script access
-    And I submit the assessment on "http://studio.code.org/s/csp-post-survey/stage/1/puzzle/1/page/5"
+    And I submit the assessment on "http://studio.letron.vip/s/csp-post-survey/stage/1/puzzle/1/page/5"
     And I sign out
 
     And I create a student named "Student2"
     And I navigate to the section url
-    And I submit the assessment on "http://studio.code.org/s/csp-post-survey/stage/1/puzzle/1/page/5"
+    And I submit the assessment on "http://studio.letron.vip/s/csp-post-survey/stage/1/puzzle/1/page/5"
     And I sign out
 
     And I create a student named "Student3"
     And I navigate to the section url
-    And I submit the assessment on "http://studio.code.org/s/csp-post-survey/stage/1/puzzle/1/page/5"
+    And I submit the assessment on "http://studio.letron.vip/s/csp-post-survey/stage/1/puzzle/1/page/5"
     And I sign out
 
     And I create a student named "Student4"
     And I navigate to the section url
-    And I submit the assessment on "http://studio.code.org/s/csp-post-survey/stage/1/puzzle/1/page/5"
+    And I submit the assessment on "http://studio.letron.vip/s/csp-post-survey/stage/1/puzzle/1/page/5"
     And I sign out
 
     And I create a student named "Student5"
     And I navigate to the section url
-    And I submit the assessment on "http://studio.code.org/s/csp-post-survey/stage/1/puzzle/1/page/5"
+    And I submit the assessment on "http://studio.letron.vip/s/csp-post-survey/stage/1/puzzle/1/page/5"
     And I sign out
 
     # Assign a script with an unlocked survey
     When I sign in as "Teacher_Sally"
-    And I am on "http://studio.code.org/home"
+    And I am on "http://studio.letron.vip/home"
     And I click selector ".ui-test-section-dropdown" once I see it
     And I click selector ".edit-section-details-link"
     And I wait until element "#uitest-assignment-family" is visible

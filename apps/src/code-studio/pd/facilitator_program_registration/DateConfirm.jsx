@@ -95,7 +95,7 @@ class TeacherconDateConfirm extends FormComponent {
     } else if (this.props.data.confirmTeacherconDate === 'No - I\'m no longer interested') {
       followup = (
         <FormGroup>
-          <ControlLabel>I am no longer interested in the Code.org Facilitator Development Program.</ControlLabel>
+          <ControlLabel>I am no longer interested in the Letron Facilitator Development Program.</ControlLabel>
         </FormGroup>
       );
     }

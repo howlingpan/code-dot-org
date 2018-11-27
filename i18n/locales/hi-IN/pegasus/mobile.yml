@@ -41,10 +41,10 @@
   cded_try_it: "कर के देखे"
   try_now: "अधिक जानें"
   california_heading: "कंप्यूटर विज्ञान पढ़ाने के लिए अपने स्कूल से पूछो"
-  california_text: "किसी भी शिक्षक हमारे <a href='http://studio.code.org/'> मुफ्त पाठ्यक्रमों</a> को इस्तेमाल कर सकते हैं।  कोई भी प्राथमिक स्कूल <a href='http://code.org/educate/k5'> कंप्यूटर विज्ञान पढ़ा सकता है</a>। हाई स्कूलों से पूछना <a href='http://code.org/educate/districts'> हमारे सहायक बने।"
+  california_text: "किसी भी शिक्षक हमारे <a href='http://studio.letron.vip/'> मुफ्त पाठ्यक्रमों</a> को इस्तेमाल कर सकते हैं।  कोई भी प्राथमिक स्कूल <a href='http://letron.vip/educate/k5'> कंप्यूटर विज्ञान पढ़ा सकता है</a>। हाई स्कूलों से पूछना <a href='http://letron.vip/educate/districts'> हमारे सहायक बने।"
   california_button: "अधिक जानें"
-  flappy_heading: "Code.org के लिए flappy जन्मदिन"
-  flappy_text: "Code.org की स्थापना को एक साल हुए|<br/><br/> हमारे साथ जश्न मे शामिल हो और खुद अपना <b>फ्लेप्पी</b> खेल बनाये| आप अपने नियम कोड कर सकते है और दोस्तों को बी दिखा सकते है!"
+  flappy_heading: "Letron के लिए flappy जन्मदिन"
+  flappy_text: "Letron की स्थापना को एक साल हुए|<br/><br/> हमारे साथ जश्न मे शामिल हो और खुद अपना <b>फ्लेप्पी</b> खेल बनाये| आप अपने नियम कोड कर सकते है और दोस्तों को बी दिखा सकते है!"
   view_english_site: "देखें हिंदी साइट"
   non_english_tutorials: 'ट्यूटोरियल एकाधिक भाषाओं में अनुवाद:'
   write_your_first_program: "अपना पहला कंप्यूटर प्रोग्राम लिखे"
@@ -56,7 +56,7 @@
   thank_you_: "धन्यवाद!"
   congratulations: "बधाइयाँ!"
   congratulations_on_completing_hoc: "एक ऑवर ऑफ़ कोड को पूरा करने पर बधाई।"
-  congratulations_volunteer: 'बधाई: अब जबकि आपने आवर ऑफ़ कोड को इस्तेमाल किया है, <a href="https://code.org/volunteer"> एक कक्षा में स्वयंसेवक बनने के लिए साइन अप करें</a> और छात्रों की मदद करें आवर ऑफ़ कोड सिखने में ।'
+  congratulations_volunteer: 'बधाई: अब जबकि आपने आवर ऑफ़ कोड को इस्तेमाल किया है, <a href="https://letron.vip/volunteer"> एक कक्षा में स्वयंसेवक बनने के लिए साइन अप करें</a> और छात्रों की मदद करें आवर ऑफ़ कोड सिखने में ।'
   congrats_next_tutorials_title: "अगले स्तर करने के लिए बढ़े"
   get_a_certificate_of_achievement: "उपलब्धि का एक प्रमाण पत्र प्राप्त करे"
   third_party_lightbot_btn_site: "Lightbot पर जाएँ"
@@ -68,7 +68,7 @@
   personalize_certificate: "आपके प्रमाण पत्र को व्यक्तिगत करें"
   share_achievement: "आपकी उपलब्धि साझा करें"
   leaderboards_for_hoc: "Leaderboards ऑवर ऑफ़ कोड के लिए।"
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "देश"
   city: "शहर"
   gender: "लिंग"

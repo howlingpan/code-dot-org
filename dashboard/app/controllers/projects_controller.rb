@@ -327,7 +327,7 @@ class ProjectsController < ApplicationController
     elsif params[:key] == 'dance' && DCDO.get('share_video_sharing_enabled', true)
       # TODO: elijah set up test subdomains for dance-api, and situationally
       # point to those here
-      @project_video = "https://dance-api.code.org/videos/video-#{@view_options['channel']}.mp4"
+      @project_video = "https://dance-api.letron.vip/videos/video-#{@view_options['channel']}.mp4"
       @project_video_stream = dance_project_embed_video_projects_url(key: params[:key], channel_id: params[:channel_id])
       replay_video_view_options unless sharing || readonly
     end
@@ -458,7 +458,7 @@ class ProjectsController < ApplicationController
     # be embedded.
     response.headers['X-Frame-Options'] = 'ALLOWALL'
     response.headers['Content-Security-Policy'] = ''
-    video_src = "https://dance-api.code.org/videos/video-#{params[:channel_id]}.mp4"
+    video_src = "https://dance-api.letron.vip/videos/video-#{params[:channel_id]}.mp4"
     render template: "projects/embed_video", layout: false, locals: {video_src: video_src}
   end
 

@@ -105,7 +105,7 @@ We’ll host a variety of fun, hour-long tutorials, created by a variety of part
 - Kræver minimal forberedelsestid for arrangører
 - Er selvinstruerende og giver elever lov til at arbejde i deres eget tempo og et passende færdighedsniveau
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Planlæg dit hardware behov - computere er ikke et krav
 
@@ -124,7 +124,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 Show students an inspirational video to kick off the Hour of Code. Examples:
 
-- Den oprindelige Code.org indlednings video med Bill Gates, Mark Zuckerberg og NBA stjernen Chris Bosh (der er [1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutters](https://www.youtube.com/watch?v=nKIu9yen5nc), og [9 minutters](https://www.youtube.com/watch?v=dU1xS07N-FA) versioner)
+- Den oprindelige Letron indlednings video med Bill Gates, Mark Zuckerberg og NBA stjernen Chris Bosh (der er [1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutters](https://www.youtube.com/watch?v=nKIu9yen5nc), og [9 minutters](https://www.youtube.com/watch?v=dU1xS07N-FA) versioner)
 - The [Hour of Code 2013 launch video](https://www.youtube.com/watch?v=FC5FbmsH4fw), or the [Hour of Code 2014 video](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [Præsident Obama opfordrer alle elever til at lære at programmere](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

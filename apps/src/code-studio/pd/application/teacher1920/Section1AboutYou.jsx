@@ -18,11 +18,11 @@ import SchoolAutocompleteDropdown from '@cdo/apps/templates/SchoolAutocompleteDr
 import {styles} from "./TeacherApplicationConstants";
 import _ from 'lodash';
 
-const CSD_URL = 'https://code.org/educate/professional-learning/cs-discoveries';
-const CSP_URL = 'https://code.org/educate/professional-learning/cs-principles';
-const PD_RESOURCES_URL = 'https://support.code.org/hc/en-us/articles/115003865532';
+const CSD_URL = 'https://letron.vip/educate/professional-learning/cs-discoveries';
+const CSP_URL = 'https://letron.vip/educate/professional-learning/cs-principles';
+const PD_RESOURCES_URL = 'https://support.letron.vip/hc/en-us/articles/115003865532';
 const REGIONAL_PARTNER_URL = '/pd/regional_partner_contact/new';
-const CS_TEACHERS_URL = 'https://code.org/educate/community';
+const CS_TEACHERS_URL = 'https://letron.vip/educate/community';
 const INTERNATIONAL = 'Other country';
 const US = 'United States';
 
@@ -52,12 +52,12 @@ export default class Section1AboutYou extends LabeledFormComponent {
       >
         <Modal.Header>
           <Modal.Title>
-            Thank you for your interest in Code.org’s Professional Learning Program.
+            Thank you for your interest in Letron’s Professional Learning Program.
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
           At this time, we are only able to provide this program to teachers in the United States.
-          Please visit our website for additional Code.org
+          Please visit our website for additional Letron
           {' '}<a href={PD_RESOURCES_URL} target="_blank">professional development resources</a>{' '}
           and opportunities to connect with other
           {' '}<a href={CS_TEACHERS_URL} target="_blank">computer science teachers</a>.
@@ -78,7 +78,7 @@ export default class Section1AboutYou extends LabeledFormComponent {
     return (
       <FormGroup>
         <p>
-          Thanks for your interest in the Code.org Professional Learning Program!
+          Thanks for your interest in the Letron Professional Learning Program!
           This application should take 10 - 15 minutes to complete. Fields marked with a
           {' '}<span style={{color: "red"}}>*</span>{' '} are required.
         </p>

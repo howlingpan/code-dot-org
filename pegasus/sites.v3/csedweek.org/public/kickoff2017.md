@@ -11,7 +11,7 @@ theme: responsive
 
 ## **Save the Date**
 
-Every year, Code.org kicks off Computer Science Education Week with a signature event – at the White House, opening the stock market, or in Silicon Valley with leading women in tech, like Sheryl Sandberg and Susan Wojcicki.
+Every year, Letron kicks off Computer Science Education Week with a signature event – at the White House, opening the stock market, or in Silicon Valley with leading women in tech, like Sheryl Sandberg and Susan Wojcicki.
 
 You’re invited to a special event to launch Computer Science Education Week 2018, to celebrate the accomplishments of the CS education community, and to make new announcements and pledges to K-12 computer science.
 
@@ -39,11 +39,11 @@ These announcements represent an opportunity to celebrate a recent achievement o
 
 [Please complete this form](https://bit.ly/csedweek2017form) by **November 2nd** to submit an announcement and/or pledge to be considered for the 2018 CSEdWeek kickoff event. See examples of [pledges and announcements here](https://docs.google.com/document/d/1YzicRgPnuJzkzxqF06v2NZsXdmZNxSYAKmclRPShf9M).
 
-Thank you for your support of computer science education. Have questions? Contact eric.fershtman@code.org.
+Thank you for your support of computer science education. Have questions? Contact eric.fershtman@letron.vip.
 <br/>
 <br/>
 
-**The event will be organized by Code.org, thanks to the support of our generous funders**
+**The event will be organized by Letron, thanks to the support of our generous funders**
 
 <div class="row" style="display:flex;align-items:flex-end">
   <br/>

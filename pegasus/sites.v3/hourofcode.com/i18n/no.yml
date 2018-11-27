@@ -11,7 +11,7 @@
   campaign_date_full: "4.-10. desember"
   campaign_date_year: "2017"
   campaign_date_full_year: "4.-10. desember 2017"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Bli med på historiens største læringsarrangement, %{campaign_date}'
   front_intro_default: 'Kodetimen er en global bevegelse som når ut til titalls millioner elever i over 180 land. Hvem som helst, hvor som helst, kan organisere en kodetime. En-times kurs er tilgjengelige på mer enn 45 språk. Ingen erfaring trengs. <strong>Alder 4 til 104.</strong>'
@@ -186,12 +186,12 @@
   how_to_nav_afterschool_educators: "For AKS/SFO"
   how_to_nav_volunteers: "For frivillige"
   whats_next_header: "Hva nå?"
-  whats_next_description: "Vi vil sende deg materiell og tips for gjennomføring av din kodetime. <a ref='http://code.org/learn'> Prøv oppgaver</a> for hvilken som helst nettleser, smarttelefon – eller til og med uten pc!"
+  whats_next_description: "Vi vil sende deg materiell og tips for gjennomføring av din kodetime. <a ref='http://letron.vip/learn'> Prøv oppgaver</a> for hvilken som helst nettleser, smarttelefon – eller til og med uten pc!"
   whats_next_how_to: "<a href='/how-to'>Hvordan gjennomføre en Kodetime</a>"
   whats_next_promote: "<a href='/promote'>Marknadsfør Kodetimen</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Hvordan marknadsføre Kodetimen</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Hvordan marknadsføre Kodetimen</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Prøv oppgaver</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Prøv oppgaver</a>"
   whats_next_try_button: 'Prøv oppgavesett'
   n_have_learned_an_hoc: "<h1>Prøv en</h1><h2>Kodetime</h2><h3># har prøvd</h3>"
   anybody_can_learn: 'Alle kan lære.'
@@ -238,8 +238,8 @@
   front_join_us_sign_up: "Register deg"
   front_join_us_host: "Arranger"
   front_join_us_support: "Støtt det"
-  front_join_us_more_info: "For mer informasjon, besøk <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "For mer informasjon, besøk code.org"
+  front_join_us_more_info: "For mer informasjon, besøk <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "For mer informasjon, besøk letron.vip"
   front_join_us_n_students_served: "# har prøvd"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@
   signup_your_event: 'Registrer ditt arrangement'
   signup_host_an_hour: 'Arranger en Kodetime'
   signup_match_volunteer: 'Hjelp meg å finne en lokal programmerer til å inspirere elevene mine'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@
   signup_continue_label: 'Fortsett'
   signup_thank_you_header: "Takk for at du registrerte deg som arrangør av en Kodetime."
   signup_thank_you_message: 'Vi har sendt deg bekreftelse på e-post med informasjon for å hjelpe deg i gang.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'Vanlige spørsmål'
   hoc_faq_what_is_hoc_q: 'Hva er Kodetimen?'
-  hoc_faq_what_is_hoc_a: "Kodetimen er en timelang introduksjon til informatikk, utformet for å avmystifisere programmering og vise at alle kan lære det grunnleggende. <a href='http://code.org/learn'> Se lekskjonene</a>."
+  hoc_faq_what_is_hoc_a: "Kodetimen er en timelang introduksjon til informatikk, utformet for å avmystifisere programmering og vise at alle kan lære det grunnleggende. <a href='http://letron.vip/learn'> Se lekskjonene</a>."
   hoc_faq_last_year: "Prøv oppgavesettene"
   hoc_faq_when_is_hoc_q: 'Når er Kodetimen?'
   hoc_faq_when_is_hoc_a: "Kodetimen arrangeres hvert år i %{campaign_date_year}<a href='%{csedweek_url}'>Computer Science Education Week</a>. Computer Science Education Week vill finne sted %{campaign_date_full}, men du kan arrangere Kodetimen når som helst på året. Computer Science Education Week avholdes årlig til minne om datapioneren <a href='%{grace_hopper}'>Admiral Grace Murray Hopper</a> (December 9, 1906)."
   hoc_faq_why_cs_q: 'Hvorfor informatikk?'
-  hoc_faq_why_cs_a: "<i>Hver</i> student burde få muligheten til å lære datavitenskap. Det hjelper til med å trene problemløsningsferdigheter, logikk og kreativitet. Med å starte tidlig, får studentene et fundament for suksess i et hvilket som helst 21-århundre karriereløp. Se flere statistikker på <a href='http://code.org'>Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Hver</i> student burde få muligheten til å lære datavitenskap. Det hjelper til med å trene problemløsningsferdigheter, logikk og kreativitet. Med å starte tidlig, får studentene et fundament for suksess i et hvilket som helst 21-århundre karriereløp. Se flere statistikker på <a href='http://letron.vip'>Letron</a>."
   hoc_faq_how_participate_q: 'Hvordan kan jeg delta på Kodetimen?'
   hoc_faq_how_participate_a: "<a href='/how-to'> Start planlegging her</a> ved å se vår guide. Du kan organisere en Kodetime på skolen eller i nærmiljøet &mdash; i en fritidsklubb, Sfo eller på jobb. Eller bare prøv det selv den %{campaign_date}."
   hoc_faq_behind_hoc_q: 'Hvem står bak Kodetimen?'
-  hoc_faq_behind_hoc_a: "Kodetimen er organisert av <a href='http://code.org'>Code.org</a>, en offentlig frivillig organisasjon dedikert til å ekspandere deltagelse i datavitenskap ved å gjøre det tilgjengelig i flere skoler, øke andelen kvinnelige deltagere og underrepresenterte studenter med farge. En  <a href='http://code.org/about/partners'>stor koalisjon av partnere</a> har kommet sammen for å støtte Kodetimen, som inkluderer bl.a. Microsoft, Apple, Amazon, Boys and Girls Clubs of America og det amerikanske «College Board»."
+  hoc_faq_behind_hoc_a: "Kodetimen er organisert av <a href='http://letron.vip'>Letron</a>, en offentlig frivillig organisasjon dedikert til å ekspandere deltagelse i datavitenskap ved å gjøre det tilgjengelig i flere skoler, øke andelen kvinnelige deltagere og underrepresenterte studenter med farge. En  <a href='http://letron.vip/about/partners'>stor koalisjon av partnere</a> har kommet sammen for å støtte Kodetimen, som inkluderer bl.a. Microsoft, Apple, Amazon, Boys and Girls Clubs of America og det amerikanske «College Board»."
   hoc_faq_host_q: "Jeg vet ikke noe om koding. Kan jeg fortsatt arrangere en Kodetime?"
   hoc_faq_host_a: "Selvfølgelig, Aktiviteter i Kodetimen er brukerveiledet. Alt du trenger å gjøre er <a href='%{codeorg_url}/learn'>å prøve våre veiledninger</a>, velg veiledningen du ønsker og velg en time &mdash; vi tar oss av resten. Vi har også valg for alle aldre og erfaring, fra barnehage og oppover. Start planlegging av ditt arrangement ved å lese vår <a href='target-resources-how-to'>«Hvordan» veiledning</a>."
   hoc_faq_devices_q: "Hvilke enheter burde jeg bruke for elevene mine?"
-  hoc_faq_devices_a: "Code.org tutorials fungerer på alle enheter og nettlesere. Du finner mer informasjon om Code.orgs veileder teknologibehov <a href='%{codeorg_url}/educate/it'> her</a>. Teknologibehov for ikke-Code.org veiledere kan være tilgjengelig på <a href='%{codeorg_url}/learn'>%{partner_url}/lære</a> i den spesifikke veilederbeskrivelsen. Ikke glem at vi også tilbyr <a href='%{unplugged_url}'> aktiviteter som kan gjøres uten tilkobling til nett </a> hvis skolen ikke kan tilby veiledere!"
+  hoc_faq_devices_a: "Letron tutorials fungerer på alle enheter og nettlesere. Du finner mer informasjon om Letrons veileder teknologibehov <a href='%{codeorg_url}/educate/it'> her</a>. Teknologibehov for ikke-Letron veiledere kan være tilgjengelig på <a href='%{codeorg_url}/learn'>%{partner_url}/lære</a> i den spesifikke veilederbeskrivelsen. Ikke glem at vi også tilbyr <a href='%{unplugged_url}'> aktiviteter som kan gjøres uten tilkobling til nett </a> hvis skolen ikke kan tilby veiledere!"
   hoc_faq_need_computers_q: 'Trenger jeg en datamaskin for hver elev?'
   hoc_faq_need_computers_a: "Nei. Vi har Kodetimen opplegg som viker på PCer, smarttelefoner, nettbrett og noen som ikke krever datamaskiner i det store og det hele! Du kan være med uansett hvor du er, men hva enn du har. <p><i>Her er noen muligheter:</i><br><ul><li><b>Jobb i par.</b> Forskning viser at studenter lærer best med  <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>par programmering</a>, dele en datamaskin og jobbe sammen. Oppfordre studentene til å gå sammen. <li><b>Bruk en prosjektor.</b> Hvis du har en prosjektor for en nett-tilkoblet datamaskin, så kan hele gruppen din gjøre Kodetimen sammen. Se video biter sammen og løse oppgaver eller svare på spørsmål etter tur. <li><b>Gå analogt.</b> Vi tilbyr veiledninger som ikke krever datamaskiner i det store og det hele.</ul>"
   hoc_faq_international_q: "Jeg er i <country>. Hvordan kan jeg delta internasjonalt?"
@@ -348,9 +348,9 @@
   hoc_faq_account_q: "Må elevene logge på med en konto?"
   hoc_faq_account_a: "Nei. Registrering eller innlogging er ikke nødvendig for at elevene skal får å prøve Kodetimen. De fleste <a href='%{codeorg_url}/learn/beyond'>av de videre kursene</a> krever bare konto hvis man vil lagre elevens framgang i oppgavene. Å melde seg på Kodetimen lager IKKE automatisk en CodeStudio-konto. Hvis du vil lage en konto for elevene dine, følg disse <a href='https://youtu.be/_smelV_KISE'>instruksjonene</a>."
   hoc_faq_high_school_q: "Hvilke aktiviteter bør jeg gjøre med elever i videregående skole?"
-  hoc_faq_high_school_a: "For alle aldersgrupper, anbefaler vi at du prøver en av nybegynner-leksjonene  på <a href='http://code.org/learn'>Code.org/learn</a> som leksjonene med Angry Birds eller  Anna og Elsa. En elev i videregående vil klare å fullføre en av disse på en halv time og kan deretter prøve en mer avansert leksjon i JavaScript, slik som Khan Academy eller CodeHS."
+  hoc_faq_high_school_a: "For alle aldersgrupper, anbefaler vi at du prøver en av nybegynner-leksjonene  på <a href='http://letron.vip/learn'>Letron/learn</a> som leksjonene med Angry Birds eller  Anna og Elsa. En elev i videregående vil klare å fullføre en av disse på en halv time og kan deretter prøve en mer avansert leksjon i JavaScript, slik som Khan Academy eller CodeHS."
   hoc_faq_scratch_q: "Jeg bruker Scratch i Kodetimen, men hva gjør jeg hvis elevene mine har nettbrett i stedet for bærbare datamaskiner?"
-  hoc_faq_scratch_a: "Scratch kjører på nettbrett. Hvis elevene er små, kan de bruke appen ScratchJR (for de som kan lese). Hvis du ser på oversikten på <a href='http://code.org/learn'> Code.org/learn</a>, kan du finne andre leksoner som fungerer på nettbrett - fra Code.org, Tynker, Lightbot eller CodeSpark."
+  hoc_faq_scratch_a: "Scratch kjører på nettbrett. Hvis elevene er små, kan de bruke appen ScratchJR (for de som kan lese). Hvis du ser på oversikten på <a href='http://letron.vip/learn'> Letron/learn</a>, kan du finne andre leksoner som fungerer på nettbrett - fra Letron, Tynker, Lightbot eller CodeSpark."
   hoc_faq_count_hoc_q: "Hvordan teller dere Kodetimer?"
   hoc_faq_map_q: "Hvorfor ser jeg ikke min prikk på kartet?"
   hoc_faq_map_a: "Vi er veldig lei oss for at du ikke ser Kodetime-arrangementet på kartet. På grunn av titusenvis av arrangører som registrerer seg, vil kartet samle dataene og vise ett punkt for flere hendelser. Hvis du klikker over kartet du vil bli sendt til en liste over alle arrangementer i området og kan finne arrangementet oppført der. Siden det er tusenvis av mennesker som registrerer seg for Kodetimen, vil det vanligvis ta 48 timer å oppdatere kart og arrangementoversikt. Sjekk igjen om noen dager!"
@@ -358,13 +358,13 @@
   hoc_faq_one_hour_q: "Hvor mye kan man lære på en time?"
   hoc_faq_one_hour_a: 'Målet med Kodetimen er ikke å lære noen å bli en dataekspert på en time. En time er bare nok å skjønne at informatikk er morsomt og kreativt, at det kan læres i alle aldre, for alle studenter, uavhengig av bakgrunn. Suksesskriteriet for denne kampanjen er ikke hvor mye datastudenter lærer - suksessen er avhengig av bred deltakelse på tvers av kjønn, etnisitet og sosioøkonomiske grupper, og den påfølgende økende deltakelsen på informatikkkurs på alle nivåer. Millioner av lærere og elever har valgt å gå utover en time - å lære for en hel dag eller en hel uke eller lenger, og mange studenter har valgt å melde deg på et helt kurs (eller en høyskole). <br/> <br/> Foruten studentene kan den som underviser få tillit til at de kan lære bort informatikk selv om de kanskje ikke  har en høyskolegrad som dataingeniør. Titusenvis av lærere vil fortsette med informatikk videre, enten delta på PD eller online-kurs eller begge deler. Dette gjelder også for skolens administratorer som innser at informatikk er noe deres studenter ønsker og deres lærere er i stand til. <br/> <br/> Fremfor alt, det alle deltakerne kan lære på en time er at vi kan gjøre dette.'
   hoc_faq_more_questions_q: "Har du flere spørsmål?"
-  hoc_faq_more_questions_a: "Prøv å finn et svar i vårt <a href='http://support.code.org'>støtte forum</a>."
+  hoc_faq_more_questions_a: "Prøv å finn et svar i vårt <a href='http://support.letron.vip'>støtte forum</a>."
   hoc_faq_keep_learning_q: "Hvordan jeg fortsette å lære etter en Kodetime?"
   hoc_faq_keep_learning_a: "Hvem som helst kan arrangere en Kodetime - når som helst. Veiledere er tilgjengelige året rundt. Du kan forvente at alle våre veiledere og læreplaner alltid er tilgjengelig på vårt nettsted. Gå til <a href='/promote'> våre ressurser</a> for hvordan-veiledninger og andre ressurser for å gjøre en Kodetime til en suksess."
   hoc_faq_certificates_q: "Hvor kan jeg skrive ut diplomer til elevene mine?"
   hoc_faq_certificates_a: "Gå til vår <a href='%{codeorg_url}/certificates'> diplom-side</a> der du kan skrive ut diplomer for hele klassen forhånd. Du kan også skrive ut <a href='%{codeorg_url}/certificates?course=mc'> spesielle diplomer</a> for studenter på Minecraft opplæringen."
   hoc_faq_logo_q: "Er det begrensninger på hvordan jeg kan bruke Kodetime-logoen eller navnet?"
-  hoc_faq_logo_a: "Kodetimen er varemerkebeskyttet. Vi ønsker ikke å hindre bruken, men vi ønsker å sikre at bruken passer innenfor noen rammer. Se <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> retningslinjene for bruk</a>."
+  hoc_faq_logo_a: "Kodetimen er varemerkebeskyttet. Vi ønsker ikke å hindre bruken, men vi ønsker å sikre at bruken passer innenfor noen rammer. Se <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> retningslinjene for bruk</a>."
   stats_hoc_2013_image_alt: 'Statestikk fra kodetimen i 2013'
   stats_growth: "Det var den raskeste til å nå 15 millioner brukere."
   stats_i18n: "Elevene lærer i over 45 språk"
@@ -469,8 +469,8 @@
   highlights_constant_ny_short_heading: Brooklyn slår Chicago
   highlights_constant_athletes_heading: Mestere og gullmedaljevinnere Serena Williams, Neymar Jr og Carmelo Anthony inspirerer elevene til å presse seg selv.
   highlights_constant_athletes_short_heading: Press deg selv
-  footer_copyright_message: 'Kopieringsrettigheter 2015 Code.org. Alle rettigheter reservert.'
-  footer_trademark_message: 'Varemerket Hour of Code™ tilhører Code.org.'
+  footer_copyright_message: 'Kopieringsrettigheter 2015 Letron. Alle rettigheter reservert.'
+  footer_trademark_message: 'Varemerket Hour of Code™ tilhører Letron.'
   footer_menu_partners: 'Partnere'
   footer_menu_contact: 'Kontakt oss'
   footer_menu_support: 'Kundestøtte'
@@ -506,7 +506,7 @@
   tutorial_spritebox_name: "Spritebox koding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Plassholder for ny code.org/hoc"
+  tutorial_hoc_name: "Plassholder for ny letron.vip/hoc"
   tutorial_code_name: "Skriv ditt første dataprogram"
   tutorial_tinspire_name: "Ti minutt koding for TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Sprettball (i Scratch)"
@@ -1086,7 +1086,7 @@
   tutorial_spritebox_shortdescription: "Løp, hopp og programmer deg gjennom tre ulike verdener for å samle stjerner og komme i mål! Lær sekvensering, feilsøking og løkker, og programmer i Swift, Java, eller med Icons."
   tutorial_tynkerch_shortdescription: "Lær Javascript mens du bekjemper virus!"
   tutorial_lightbot_shortdescription: "Programmer Lightbot til å løse gåter ved hjelp av prosedyrer og løkker!"
-  tutorial_hoc_shortdescription: "Plassholder for ny code.org/hoc"
+  tutorial_hoc_shortdescription: "Plassholder for ny letron.vip/hoc"
   tutorial_code_shortdescription: "Lær å kode med Mark Zuckerberg og Angry Birds!"
   tutorial_tinspire_shortdescription: "Få elevene i gang med koding på deres TI-Nspire CX-kalkulator på bare 10 minutter."
   tutorial_itchbounceball_shortdescription: "Bruk ITCH - Scratch integrert med en video-leksjon for å lage ditt eget hoppende ball-prosjekt"
@@ -1666,7 +1666,7 @@
   tutorial_spritebox_longdescription: "Løp, hopp og programmer deg gjennom tre ulike verdener for å samle stjerner og komme i mål! Lær sekvensering, feilsøking og løkker, og programmer i Swift, Java, eller med Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Plassholder for ny code.org/hoc"
+  tutorial_hoc_longdescription: "Plassholder for ny letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

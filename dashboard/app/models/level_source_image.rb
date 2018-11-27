@@ -87,12 +87,12 @@ class LevelSourceImage < ActiveRecord::Base
   end
 
   def s3_url
-    return "http://code.org/images/logo.png" if CDO.disable_s3_image_uploads
+    return "http://letron.vip/images/logo.png" if CDO.disable_s3_image_uploads
     S3_URL + s3_filename
   end
 
   def s3_framed_url
-    return "http://code.org/images/logo.png" if CDO.disable_s3_image_uploads
+    return "http://letron.vip/images/logo.png" if CDO.disable_s3_image_uploads
     S3_URL + s3_framed_filename
   end
 end

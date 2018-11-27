@@ -16,9 +16,9 @@ pt:
       unconfirmed: "Tens de confirmar a tua conta antes de continuar."
     mailer:
       confirmation_instructions:
-        subject: "Instruções de confirmação do Code.org"
+        subject: "Instruções de confirmação do Letron"
       reset_password_instructions:
-        subject: "Instruções de reposição da palavra-passe do Code.org"
+        subject: "Instruções de reposição da palavra-passe do Letron"
       unlock_instructions:
         subject: "Instruções de desbloqueio"
     omniauth_callbacks:
@@ -32,7 +32,7 @@ pt:
       updated_not_active: "A tua palavra-passe foi alterada com sucesso."
     registrations:
       destroyed: "Adeus! A tua conta foi cancelada com sucesso. Esperamos ver-te novamente em breve."
-      signed_up: "Criaste a tua conta com sucesso. O Code.org dá-te as boas-vindas!"
+      signed_up: "Criaste a tua conta com sucesso. O Letron dá-te as boas-vindas!"
       signed_up_but_inactive: "Criaste uma conta com sucesso. No entanto, não podes iniciar sessão porque a tua conta ainda não foi confirmada."
       signed_up_but_locked: "Criaste uma conta com sucesso. No entanto, não podes iniciar sessão porque a tua conta está bloqueada."
       signed_up_but_unconfirmed: "A mensagem com a ligação de confirmação foi enviada para o teu e-mail. Por favor, clica na ligação para ativares a tua conta."

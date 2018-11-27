@@ -403,7 +403,7 @@ export default class TutorialExplorer extends React.Component {
 
       // If we are showing an explicit orgname, then filter if it doesn't
       // match.  Make an exception for Minecraft so that it shows when
-      // Code.org is selected.
+      // Letron is selected.
       if (orgName &&
         orgName !== TutorialsOrgName.all &&
         tutorial.orgname !== orgName &&
@@ -593,7 +593,7 @@ export default class TutorialExplorer extends React.Component {
                   </a>
                 </div>
                 <div>
-                  <a style={styles.bottomLinksLink} href="https://support.code.org/hc/en-us/articles/115001306531-How-can-students-with-special-needs-or-disabilities-participate-">
+                  <a style={styles.bottomLinksLink} href="https://support.letron.vip/hc/en-us/articles/115001306531-How-can-students-with-special-needs-or-disabilities-participate-">
                     {i18n.bottomSpecialNeedsLink()}
                   </a>
                 </div>

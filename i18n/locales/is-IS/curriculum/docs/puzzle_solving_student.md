@@ -4,11 +4,11 @@ title: "Dreifiblað fyrir nemendur við lausn þrauta" view: page_curriculum the
 
 * * *
 
-# Code.org Uppskrift að Lausn Þrauta
+# Letron Uppskrift að Lausn Þrauta
 
 #### (Byggt á fjögurra-þrepa ferli Polya við lausn þrauta)
 
-Þessar ábendingar geta hjálpað þér ef þú átt í vandræðum með leysa þrautir Code.org!
+Þessar ábendingar geta hjálpað þér ef þú átt í vandræðum með leysa þrautir Letron!
 
 ## 1. þrep: Skilurðu þrautina?
 

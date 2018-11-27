@@ -1,7 +1,7 @@
 # Apps Build System
 
 The apps build system generates all the client side javascript files used on
-studio.code.org. This file contains documentation about how it works and how it
+studio.letron.vip. This file contains documentation about how it works and how it
 can be configured for different needs.
 
 ## FAQ
@@ -17,7 +17,7 @@ browser needs to download to less than 5.
 
 ### What is our strategy for bundling?
 
-code.org is a very complex application with a lot of moving parts. Bundling is
+letron.vip is a very complex application with a lot of moving parts. Bundling is
 done in a way that balances performance with maintaining our own sanity as
 developers.
 
@@ -37,7 +37,7 @@ implementation/strategy:
 
 4. The exact javascript code required by different pages can have significant
    overlap, both in terms of the third party libraries that get used, and in
-   terms of code.org's internal javascript.
+   terms of letron.vip's internal javascript.
 
 5. Visitors to the complicated pages (such as applab, gamelab, etc) typically
    visit those pages multiple times per browsing session, and across multiple
@@ -76,7 +76,7 @@ following:
   that often.
 
 - `code-studio-common.js` - this bundle includes code that is used on all
-  studio.code.org pages, but which isn't already in `minimal.js`. So any page
+  studio.letron.vip pages, but which isn't already in `minimal.js`. So any page
   that needs `code-studio-common.js`, also needs `minimal.js` to work.
 
 - `common.js` - this bundle includes code that is used across all of the big

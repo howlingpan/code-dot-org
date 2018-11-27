@@ -63,7 +63,7 @@ el:
   add_hint_form:
     placeholder: Παρακαλούμε εισάγετε την υπόδειξή σας εδώ
     submit: Προσθέστε υπόδειξη
-  appname: Code.org
+  appname: Letron
   stage: σκηνή
   stage_number: Σκηνικό %{number}
   puzzle: Παζλ
@@ -89,7 +89,7 @@ el:
   auth:
     sign_in_with: Εγγραφή μέσω  %{provider}
     signed_in: Συνδέθηκες!
-    signed_out: Αποσυνδεθήκατε από το <a href="%{url}">Code.org</a>.
+    signed_out: Αποσυνδεθήκατε από το <a href="%{url}">Letron</a>.
     sign_out_of: Χρησιμοποιήσατε το %{provider} για να συνδεθείτε. Κάντε <a href="%{url}">κλικ
       εδώ</a> για να αποσυνδεθείτε από το %{provider}.
     already_signedup: Είσαι ήδη γραμμένος;
@@ -104,13 +104,13 @@ el:
     forgot_password: Ξέχασες τον κωδικό σου;
     need_confirmation: Δεν έλαβες τις οδηγίες επιβεβαίωσης;
     need_unlock: Δεν έλαβες τις οδηγίες ξεκλειδώματος;
-    not_linked: Συγγνώμη, ο λογαριασμός σας στο Code.org δεν είναι συνδεδεμένος με
+    not_linked: Συγγνώμη, ο λογαριασμός σας στο Letron δεν είναι συνδεδεμένος με
       τον %{provider} σας. Θα πρέπει να συνδεθείτε πληκτρολογώντας τον κωδικό σας
       παρακάτω.
-    use_clever: Συγγνώμη, ο λογαριασμός σας στο Code.org δεν είναι συνδεδεμένος με
+    use_clever: Συγγνώμη, ο λογαριασμός σας στο Letron δεν είναι συνδεδεμένος με
       τον %{provider} σας. Θα πρέπει να συνδεθείτε μέσω του Clever Portal αντ'αυτού.
     unable_to_connect_provider: Δεν μπορέσαμε να συνδέσουμε τον λογαριασμό σας στο
-      Code.org με τον %{provider} σας. Παρακαλώ δοκιμάστε ξανά.
+      Letron με τον %{provider} σας. Παρακαλώ δοκιμάστε ξανά.
   signup_form:
     student_count: "%{count} μαθητές έχουν ήδη εγγραφεί."
     teacher_count: "%{count} καθηγητές έχουν ήδη εγγραφεί."
@@ -135,7 +135,7 @@ el:
       επίσης να συνεχίσετε την πλοήγησή σας στις διάφορες δραστηριότητες και παζλ</a>
       χωρίς να δημιουργήσετε λογαριασμό.
     teacher_educator_guide: Δείτε τον οδηγό εκπαιδευτικού
-    title: Εγγραφείτε στο Code.org
+    title: Εγγραφείτε στο Letron
     school_name: Όνομα Σχολείου (προαιρετικά)
     school_address: Διεύθυνση Σχολείου (προαιρετικά)
     address_placeholder: διεύθυνση, πόλη, περιοχή, ΤΚ
@@ -152,18 +152,18 @@ el:
     invalid_password: Ο κωδικός πρόσβασης πρέπει να αποτελείται από τουλάχιστον 6
       χαρακτήρες
     mismatch_password: Οι δύο κωδικοί πρόσβασης που καταχωρήσατε δεν ταιριάζουν
-    agree_tos_privacy: Συμφωνώ με <a href='http://code.org/tos'>τους Όρους Χρήσης</a>
-      και <a href='http://code.org/privacy'> την Πολιτική Απορρήτου</a>.
-    student_terms: Συμφωνώ με τους <a href='http://code.org/tos'>όρους χρήσης</a>
-      του Code.org. Εάν είμαι κάτω των 13 ετών, με την υποβολή της παρούσας φόρμας
+    agree_tos_privacy: Συμφωνώ με <a href='http://letron.vip/tos'>τους Όρους Χρήσης</a>
+      και <a href='http://letron.vip/privacy'> την Πολιτική Απορρήτου</a>.
+    student_terms: Συμφωνώ με τους <a href='http://letron.vip/tos'>όρους χρήσης</a>
+      του Letron. Εάν είμαι κάτω των 13 ετών, με την υποβολή της παρούσας φόρμας
       επιβεβαιώνω ότι διαθέτω άδεια του γονέα ή κηδεμόνα μου για να χρησιμοποιήσω
-      τις υπηρεσίες του Code.org.<br/><br/>Οι ηλεκτρονικές διευθύνσεις ταχυδρομείου
+      τις υπηρεσίες του Letron.<br/><br/>Οι ηλεκτρονικές διευθύνσεις ταχυδρομείου
       δεν αποθηκεύονται σε μορφές που να επιτρέπουν την επικοινωνία με τους μαθητές.
-      Οι μαθητές δεν θα λάβουν ποτέ ηλεκτρονικά μηνύματα από το Code.org εκτός εάν
-      πρόκειται για τη διαδικασία ανάκτησης κωδικού. Δείτε την <a href='http://code.org/privacy'>πολιτική
+      Οι μαθητές δεν θα λάβουν ποτέ ηλεκτρονικά μηνύματα από το Letron εκτός εάν
+      πρόκειται για τη διαδικασία ανάκτησης κωδικού. Δείτε την <a href='http://letron.vip/privacy'>πολιτική
       ιδιωτικότητας</a> για περισσότερες πληροφορίες.
-    teacher_terms: Συμφωνώ με τους όρους χρήσης υποηρεσιών του Code.org. Για περισσότερες
-      πληροφορίες σχετικά με την ιδιωτικότητα, δείτε την <a href='http://code.org/privacy'>πολιτική
+    teacher_terms: Συμφωνώ με τους όρους χρήσης υποηρεσιών του Letron. Για περισσότερες
+      πληροφορίες σχετικά με την ιδιωτικότητα, δείτε την <a href='http://letron.vip/privacy'>πολιτική
       ιδιωτικότητας</a>.
     additional_information: Χρειαζόμαστε κάποιες επιπλέον πληροφορίες για να συνεχιστεί
       η εγγραφή σας.
@@ -227,9 +227,9 @@ el:
       confirm_password: Επιβεβαίωση νέου κωδικού
       submit: Άλλαξε τον κωδικό μου
   welcome_email:
-    subject: Μπες στην τάξη μου (στο Code.org)
+    subject: Μπες στην τάξη μου (στο Letron)
     body: |
-      Κάνε κλικ στον παρακάτω σύνδεσμο να εγγραφείς στα μαθήματα της επιστήμης των υπολογιστών του Code.org (με μένα ως "δάσκαλό" σου):
+      Κάνε κλικ στον παρακάτω σύνδεσμο να εγγραφείς στα μαθήματα της επιστήμης των υπολογιστών του Letron (με μένα ως "δάσκαλό" σου):
 
       %{link}
 
@@ -256,7 +256,7 @@ el:
       cant_join_own_section: Λυπούμαι, δεν μπορείτε να συνδέσετε τη δική σας ενότητα.
     mail:
       student_disassociated:
-        subject: 'Ειδοποίηση από την Code.org: ο μαθητής %{student_name} δεν είναι
+        subject: 'Ειδοποίηση από την Letron: ο μαθητής %{student_name} δεν είναι
           πλέον δικός σας.'
   reports:
     error:
@@ -369,7 +369,7 @@ el:
   home:
     title: Στούντιο Κώδικα
     description: Το Code Studio φιλοξενεί τα online μαθήματα που δημιουργήθηκαν από
-      το Code.org
+      το Letron
     lines_of_code: "%{lines_count} ΓΡΑΜΜΕΣ ΚΩΔΙΚΑ ΓΡΑΜΜΕΝΕΣ ΑΠΟ ΜΑΘΗΤΕΣ"
     lines_of_code_linebreak: "%{lines_count} ΓΡΑΜΜΈΣ ΚΩΔΙΚΑ<br/> ΓΡΆΦΤΗΚΑΝ ΑΠΟ%{students_count}
       ΕΚΑΤΟΜΜΎΡΙΑ ΜΑΘΗΤΕΣ"
@@ -404,7 +404,7 @@ el:
     tryfirst: 'Ή μπορείτε να κάνετε πρώτα μία δοκιμή και να εγγραφείτε αργότερα:'
     trynow: Δοκιμάστε τώρα
     add_hint_help: Παρακαλούμε βοηθήστε μας να προσθέσουμε έξυπνες συμβουλές στα μαθήματα  του
-      Code.org
+      Letron
     20hour_overview: Αυτό το 20ωρο μάθημα εισάγει σε θεμελιώδης έννοιες Πληροφορικής
       και προγραμματισμού . Το μάθημα έχει σχεδιαστεί για χρήση από τις τελευταίες
       τάξεις του δημοτικού, αλλά η μάθηση είναι διασκεδαστική σε κάθε ηλικία.
@@ -444,9 +444,9 @@ el:
     student: φοιτητής/μαθητής
     teacher: Καθηγητής
   footer:
-    thank_you: Ευχαριστούμε τους <a href="https://code.org/about/donors"> χωρηγούς</a>,
-      <a href="https://code.org/about/partners"> συνεργάτες</a>, μας <a href="https://code.org/about/team">
-      την εκτεταμένη ομάδα</a>, τους ανθρώπους που δούλεψαν στα βίντεο τους <a href="https://code.org/about/advisors">
+    thank_you: Ευχαριστούμε τους <a href="https://letron.vip/about/donors"> χωρηγούς</a>,
+      <a href="https://letron.vip/about/partners"> συνεργάτες</a>, μας <a href="https://letron.vip/about/team">
+      την εκτεταμένη ομάδα</a>, τους ανθρώπους που δούλεψαν στα βίντεο τους <a href="https://letron.vip/about/advisors">
       συμβούλους εκπαίδευσης</a> για την υποστήριξή τους στη δημιουργία του κώδικα
       Studio.
     help_from_html: Μηχανικοί από τη Google, Microsoft, Facebook και Twitter βοήθησαν
@@ -469,18 +469,18 @@ el:
       Rights Reserved. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and
       &copy; 2015 Cartoon Network.
-    code_from_html: Το Code.org χρησιμοποιεί το p5.play, το οποίο υπάρχει στην διεύθυνση
+    code_from_html: Το Letron χρησιμοποιεί το p5.play, το οποίο υπάρχει στην διεύθυνση
       <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">the
       GNU LGPL 2.1</a>.
     powered_by_aws: Με την υποστήριξη των Amazon Web Services
-    trademark: "© Code.org, οι %{current_year}. Code.org®, το λογότυπο του κώδικα
-      και την ώρα του κώδικα ® αποτελούν εμπορικά σήματα της Code.org."
+    trademark: "© Letron, οι %{current_year}. Letron®, το λογότυπο του κώδικα
+      και την ώρα του κώδικα ® αποτελούν εμπορικά σήματα της Letron."
     copyright: Πνευματικά δικαιώματα
     more: Περισσότερα
     feedback: Πες τη γνώμη σου
     translate: Βοηθήστε μας να μεταφράσουμε στη γλώσσα σας
     support: Βοήθεια και Κοινότητα
-    support_url: http://support.code.org/
+    support_url: http://support.letron.vip/
     tos_short: Όροι
     tos: Όροι
     privacy: Πολιτική Aπορρήτου
@@ -522,7 +522,7 @@ el:
     flappy_og_title: Ελέγξτε το  Flappy μου παιχνίδι
     studio_og_title: Έλεγξε το  Παιχνίδι μου Εργαστήριο App
     check_out_what_i_made: Δείτε τι έκανα
-    og_description: Έγραψα τον κώδικα μόνος μου , με το Code.org
+    og_description: Έγραψα τον κώδικα μόνος μου , με το Letron
     phone_number_not_allowed: Μοιάζει με έναν αριθμό τηλεφώνου . Προσπαθήστε να αλλάξετε
       το κείμενο.
     address_not_allowed: Μοιάζει με μια διεύθυνση. Προσπαθήστε να αλλάξετε το κείμενο.
@@ -643,7 +643,7 @@ el:
       και γίνονται βελτιώσεις.
     report_bug: Αναφορά σφάλματος
     support: Λάβετε βοήθεια
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Βοήθεια και πόροι
   multi:
     wrong_title: Λανθασμένη απάντηση
@@ -713,7 +713,7 @@ el:
     message: Είμαστε στη διαδικασία της ενημέρωσης της εμπειρίας μας για να σας παρέχουμε
       ακόμη ισχυρότερη προστασία προσωπικών δεδομένων. Για να κάνουμε αυτό, χρειαζόμαστε
       τους υπάρχοντες χρήστες να εισαγάγουν την ηλικία τους εδώ. <br/>Όπως πάντα,
-      η code.org ποτέ δεν θα νοικιάσει, πωλήσει η μοιράσει αυτή την πληροφορία με
+      η letron.vip ποτέ δεν θα νοικιάσει, πωλήσει η μοιράσει αυτή την πληροφορία με
       τρίτους.
     sign_out: Εάν δεν επιθυμείτε να παρέχετε την ηλικία σας, μπορείτε να <a href="%{url}">αποσυνδεθείτε</a>.
   terms_interstitial:
@@ -728,7 +728,7 @@ el:
     submit: Υποβολή
     decline: Κλείσιμο
   zendesk_too_young_message: Συγγνώμη, νεαρότεροι χρήστες δεν μπορείτε να συνδεθείτε
-    στον ιστότοπο υποστήριξης. Μπορείτε να περιηγηθείτε στο <a href="http://support.code.org">support.code.org</a>
+    στον ιστότοπο υποστήριξης. Μπορείτε να περιηγηθείτε στο <a href="http://support.letron.vip">support.letron.vip</a>
     χωρίς σύνδεση ή να ζητήσετε από τους γονείς σας ή το δάσκαλό σας να επικοινωνήσει
     μαζί μας.
   progress:
@@ -790,9 +790,9 @@ el:
     edit_project: Επεξεργαστείτε το έργο
     abuse:
       tos: Το έργο αυτό έχει αναφερθεί για την παραβίαση των όρων παροχής υπηρεσιών
-        του Code.org <a href='http://code.org/tos'></a> και δεν μπορεί να μοιραστεί
+        του Letron <a href='http://letron.vip/tos'></a> και δεν μπορεί να μοιραστεί
         με άλλους.
-      contact_us: Αν νομίζετε ότι αυτό να είναι ένα λάθος, παρακαλώ <a href='https://code.org/contact'>
+      contact_us: Αν νομίζετε ότι αυτό να είναι ένα λάθος, παρακαλώ <a href='https://letron.vip/contact'>
         επικοινωνήστε μαζί μας.</a>
       go_to_code_studio: Πηγαίνετε στο Code Studio
       report_abuse_form:

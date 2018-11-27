@@ -33,7 +33,7 @@ describe('AssignToSection', () => {
   before(() => {
     windowDashboard = window.dashboard;
     window.dashboard = {
-      CODE_ORG_URL: '//test.code.org'
+      CODE_ORG_URL: '//test.letron.vip'
     };
   });
 

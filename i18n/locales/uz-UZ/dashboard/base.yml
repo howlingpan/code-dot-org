@@ -33,7 +33,7 @@ uz:
   add_hint_form:
     placeholder: 'Iltimos, ko`makchi so`zni shu yerga kiriting'
     submit: 'Ko`makchi so`z qo`shing'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "Pog`ona"
   stage_number: "Pog`ona %{number}"
   puzzle: "Jumboq"

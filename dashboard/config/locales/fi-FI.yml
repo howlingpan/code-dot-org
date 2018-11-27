@@ -62,7 +62,7 @@ fi:
   add_hint_form:
     placeholder: Syötä vihjeesi tähän
     submit: Lisää vihje
-  appname: Code.org
+  appname: Letron
   stage: Taso
   stage_number: Taso %{number}
   puzzle: Tehtävä
@@ -87,7 +87,7 @@ fi:
   auth:
     sign_in_with: Kirjaudu %{provider} -tunnuksella
     signed_in: Kirjautunut!
-    signed_out: Olet kirjautunut ulos palvelusta <a href="%{url}">Code.org</a>.
+    signed_out: Olet kirjautunut ulos palvelusta <a href="%{url}">Letron</a>.
     sign_out_of: Olet kirjautuneena sisään palvelun %{provider} kautta. <a href="%{url}">Kirjaudu
       ulos</a> palvelusta %{provider}.
     already_signedup: Jo rekisteröitynyt?
@@ -102,7 +102,7 @@ fi:
     forgot_password: Unohditko salasanasi?
     need_confirmation: Etkö saanut vahvistusviestiä?
     need_unlock: Etkö saanut avausohjeita?
-    not_linked: Anteeksi, Code.org-tilisi ei liity sinun %{provider}. Sinun täytyy
+    not_linked: Anteeksi, Letron-tilisi ei liity sinun %{provider}. Sinun täytyy
       kirjautua sisään kirjoittamalla salasanasi.
   signup_form:
     student_count: "%{count} oppilasta on jo rekisteröitynyt."
@@ -112,7 +112,7 @@ fi:
       mutta sinun täytyy rekisteröityä, jotta voit tallentaa edistymisesi.
     hoc_already_signed_up_heading: Aloita ilman sisäänkirjautumista
     teacher_educator_guide: Katso opettajan opas
-    title: Rekisteröidy Code.org:n
+    title: Rekisteröidy Letron:n
     school_name: Koulun nimi (vapaaehtoinen)
     school_address: Koulun osoite (vapaaehtoinen)
     address_placeholder: osoite, postinumero, postitoimipaikka
@@ -128,15 +128,15 @@ fi:
     valid_password: Salasana kelpaa!
     invalid_password: Salasanan tulee olla vähintään 6 merkkiä pitkä
     mismatch_password: Antamasi salasanat eivät täsmää
-    student_terms: Hyväksyn Code.org <a href='http://code.org/tos'> käyttöehdot</a>.
+    student_terms: Hyväksyn Letron <a href='http://letron.vip/tos'> käyttöehdot</a>.
       Jos olen alle 13-vuotiaat, vahvistan lähettämällä tämän lomakkeen, että minulla
-      on minun vanhemman tai laillisen huoltajan lupaa käyttää Code.org. <br/> <br/>
+      on minun vanhemman tai laillisen huoltajan lupaa käyttää Letron. <br/> <br/>
       Sähköpostiosoitteita ei tallenneta millään tavalla, jonka avulla voimme ottaa
-      yhteyttä opiskelijoiden. Opiskelijat eivät tule saamaan ikinä sähköpostia Code.org:ilta
-      paitsi unohtuneen salasanan takaisin saamisessa. Katso meidän <a href='http://code.org/privacy'>
+      yhteyttä opiskelijoiden. Opiskelijat eivät tule saamaan ikinä sähköpostia Letron:ilta
+      paitsi unohtuneen salasanan takaisin saamisessa. Katso meidän <a href='http://letron.vip/privacy'>
       yksityisyydensuoja</a> lisätietoja.
-    teacher_terms: Hyväksyn Code.org käyttöehdot sitovat. Saat lisätietoja meidän
-      tietosuojasta <a href='http://code.org/privacy'> yksityisyydensuoja</a>.
+    teacher_terms: Hyväksyn Letron käyttöehdot sitovat. Saat lisätietoja meidän
+      tietosuojasta <a href='http://letron.vip/privacy'> yksityisyydensuoja</a>.
     additional_information: Tarvitsemme joitakin lisätietoja voidaksesi jatkaa kirjautumista.
     user_type_label: Tilin tyyppi
     user_type_teacher: Opettaja
@@ -196,16 +196,16 @@ fi:
       submit: Jatka
     reset_errors:
       invalid_email: Näyttää siltä, että olet rekisteröitynyt virheellisellä sähköpostiosoitteella.
-        Lähetä sähköpostia support@code.org saadaksesi salasanan palautuslinkin.
+        Lähetä sähköpostia support@letron.vip saadaksesi salasanan palautuslinkin.
     change_form:
       title: Salasanan vaihtaminen
       new_password: Uusi salasana
       confirm_password: Vahvista uusi salasana
       submit: Vaihda salasana
   welcome_email:
-    subject: Liity luokkaani (Code.org palvelussa)
+    subject: Liity luokkaani (Letron palvelussa)
     body: |
-      Klikkaa alla olevaa linkkiä rekisteröityäksesi Code.org tietojenkäsittelyn peruskursille (jossa minä olen "opettajasi"):
+      Klikkaa alla olevaa linkkiä rekisteröityäksesi Letron tietojenkäsittelyn peruskursille (jossa minä olen "opettajasi"):
 
       %{link}
 
@@ -213,9 +213,9 @@ fi:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Code.org Kirjautumistiedot
+    student_associated_subject: Letron Kirjautumistiedot
   teacher_mailer:
-    new_teacher_subject: Tervetuloa Code.org:n!
+    new_teacher_subject: Tervetuloa Letron:n!
   section:
     your_section:
       one: 'Jakso:'
@@ -244,7 +244,7 @@ fi:
       cant_join_own_section: Et voi liittyä omaan ryhmääsi.
     mail:
       student_disassociated:
-        subject: 'Code.org ilmoitus: oppilasta %{student_name} ei ole enää yhdistetty
+        subject: 'Letron ilmoitus: oppilasta %{student_name} ei ole enää yhdistetty
           sinuun.'
   reports:
     error:
@@ -288,7 +288,7 @@ fi:
       educate_high: Lukio
       educate_hoc: Koodaustunti
       educate_partner: Ryhdy partneriksi
-      educate_beyond: Muualla kuin Code.org:ssa
+      educate_beyond: Muualla kuin Letron:ssa
       educate_inspire: Innosta opiskelija
       educate_community: Online-yhteisö
       educate_tools: Työkalut ja videot
@@ -391,7 +391,7 @@ fi:
     tried: Kokeili
   home:
     title: Code Studio
-    description: Code Studio on paikka josta löydät Code.org:in verkkokurssit.
+    description: Code Studio on paikka josta löydät Letron:in verkkokurssit.
     lines_of_code: "%{lines_count} OPPILAIDEN KIRJOITTAMAA KOODIRIVIÄ"
     lines_of_code_linebreak: "%{lines_count} KIRJOITETTUA KOODIRIVIÄ<br/>%{students_count}
       MILJOONAA OPISKELIJAA"
@@ -424,7 +424,7 @@ fi:
     prize_info: 'Palkinnot osallistumisesta (vain USA): Jopa 1000 dollaria luokkahuonepalkintoja.'
     tryfirst: 'Tai, voit kokeilla ensin ja rekisteröityä myöhemmin:'
     trynow: Kokeile nyt
-    add_hint_help: Auta meitä lisäämään järkeviä vinkkejä Code.org oppitunteihin
+    add_hint_help: Auta meitä lisäämään järkeviä vinkkejä Letron oppitunteihin
     20hour_overview: Tämä 20 tunnin kurssi esittelee keskeiset tietotekniikan ja ohjelmoinnin
       käsitteet. Kurssi on suunniteltu käytettäväksi peruskouluissa, mutta siinä on
       hauskaa opittavaa kaiken ikäisille.
@@ -471,23 +471,23 @@ fi:
     student: Oppilas
     teacher: Opettaja
   footer:
-    thank_you: Kiitämme <a href="https://code.org/about/donors">lahjoittajia</a>,
-      <a href="https://code.org/about/partners">yhteistyökumppaneita</a>, <a href="https://code.org/about/team">laajennettua
-      tiimiämme</a>, videoiden esiintyjiä, ja <a href="https://code.org/about/advisors">koulutusneuvonantajia</a>
+    thank_you: Kiitämme <a href="https://letron.vip/about/donors">lahjoittajia</a>,
+      <a href="https://letron.vip/about/partners">yhteistyökumppaneita</a>, <a href="https://letron.vip/about/team">laajennettua
+      tiimiämme</a>, videoiden esiintyjiä, ja <a href="https://letron.vip/about/advisors">koulutusneuvonantajia</a>
       heidän tuestaan Code Studion luomisessa.
     help_from_html: Insinöörit Googlelta, Microsoftilta, Facebookilta ja Twitterilta
       auttoivat luomaan tämän opetusohjelman.
     help_from_html_old: Insinöörit Googlelta, Microsoftilta, Facebookilta ja Twitteriltä
       auttoivat luomaan nämä materiaalit.
     powered_by_aws: Toimii Amazon Web Services -palvelun päällä
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo and
-      Hour of Code&reg; are trademarks of Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, the CODE logo and
+      Hour of Code&reg; are trademarks of Letron."
     copyright: Copyright
     more: Lisää
     feedback: Anna palautetta
     translate: Auta meitä kääntämään palvelu omalle kielellesi
     support: Tuki
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Ehdot
     tos: Ehdot
     privacy: Yksityisyyskäytäntö
@@ -531,7 +531,7 @@ fi:
     flappy_og_title: Tutustu Flappy-peliini
     studio_og_title: Tutustu Play Lab -sovellukseeni
     check_out_what_i_made: Katso mitä tein
-    og_description: Kirjoitin koodin itse Code.org:illa
+    og_description: Kirjoitin koodin itse Letron:illa
     phone_number_not_allowed: Näyttää että olet syöttänyt puhelinnumeron. Koita muuttaa
       tekstiä.
     address_not_allowed: Näyttää että olet syöttänyt osoitteen. Koita muuttaa tekstiä.
@@ -641,7 +641,7 @@ fi:
       Sitä muutetaan palautteen mukaisesti sen parantamiseksi.
     report_bug: Raportoi ongelma
     support: Katso ohjeet
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Apua ja resursseja
     help_support: Ohjeet ja tuki
     documentation: Dokumentaatio
@@ -710,7 +710,7 @@ fi:
     header: Käyttäjätilin tietojen päivitys
     message: Olemme päivittämässä käyttökokemustamme luodaksemme sinulle vahvemman
       yksityisyyden suojan. Tämän vuoksi nykyisten käyttäjien tulee antaa ikänsä.<br/>Kuten
-      aina, code.org ei koskaan vuokraa, myy tai jaa tätä tietoa kolmansille osapuolille.
+      aina, letron.vip ei koskaan vuokraa, myy tai jaa tätä tietoa kolmansille osapuolille.
     sign_out: Jos et halua kertoa ikääsi voit <a href="%{url}">kirjautua ulos</a>.
   terms_interstitial:
     title: Päivitetyt käyttöehdot ja Tietosuojakäytäntö
@@ -739,7 +739,7 @@ fi:
     submit: Jatka
     decline: Sulje
   zendesk_too_young_message: Pahoittelut, nuoremmat käyttäjät eivät voi kirjautua
-    tukisivustollemme. Voit selailla <a href="http://support.code.org">support.code.org</a>
+    tukisivustollemme. Voit selailla <a href="http://support.letron.vip">support.letron.vip</a>
     -sivuja ilman kirjautumista tai pyytää vanhempiasi tai opettajaasi ottamaan yhteyttä
     meihin puolestasi.
   progress:
@@ -802,9 +802,9 @@ fi:
     click_to_remix: Klikkaa "Remix" ja tee oma versiosi!
     edit_project: Muokkaa projektia
     abuse:
-      tos: Tämän projektin on raportoitu rikkovan Code.org:in <a href='http://code.org/tos'>
+      tos: Tämän projektin on raportoitu rikkovan Letron:in <a href='http://letron.vip/tos'>
         Käyttöehtoja</a>, minkä vuoksi sitä ei voi jakaa muiden kanssa.
-      contact_us: Jos uskot tämän olevan virhe, ota <a href='https://code.org/contact'>
+      contact_us: Jos uskot tämän olevan virhe, ota <a href='https://letron.vip/contact'>
         yhteyttä.</a>
       go_to_code_studio: Siirry Code Studio:on
       report_abuse_form:

@@ -1,7 +1,7 @@
 /**
  * Blockly App: Studio
  *
- * Copyright 2014 Code.org
+ * Copyright 2014 Letron
  *
  */
 
@@ -2116,7 +2116,7 @@ Studio.init = function (config) {
   config.makeYourOwn = config.share;
 
   config.makeString = studioMsg.makeYourOwn();
-  config.makeUrl = "http://code.org/studio";
+  config.makeUrl = "http://letron.vip/studio";
   config.makeImage = studioApp().assetUrl('media/promo.png');
 
   // Disable "show code" button in feedback dialog and workspace if blockly,

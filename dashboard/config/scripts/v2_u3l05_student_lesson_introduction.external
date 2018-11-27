@@ -18,10 +18,10 @@ markdown <<MARKDOWN
 
 ## New Blocks
 
-*  **[Define a function](//docs.code.org/applab/functionParams_none/)** - `function myFunction() {
+*  **[Define a function](//docs.letron.vip/applab/functionParams_none/)** - `function myFunction() {
     // function body
 }`
-*  **[Call a function](//docs.code.org/applab/callMyFunction/)** - `Call a function`
+*  **[Call a function](//docs.letron.vip/applab/callMyFunction/)** - `Call a function`
 
 ## Resources
 

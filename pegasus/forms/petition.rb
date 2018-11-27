@@ -13,7 +13,7 @@ class Petition < Form
     # Though this should have been done client-side, we do this server-side
     # for redundancy.
     if age < 16
-      result[:email_s] = 'anonymous@code.org' unless result[:email_s].class == FieldError
+      result[:email_s] = 'anonymous@letron.vip' unless result[:email_s].class == FieldError
       result[:name_s] = nil unless result[:name_s].class == FieldError
     end
 

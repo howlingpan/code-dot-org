@@ -5,7 +5,7 @@ title: Variables in Envelopes view: page_curriculum theme: none
 * * *
 
 <!--
-Live preview (once saved to dropbox) is at http://staging.code.org/curriculum/course4 Don't share this URL!
+Live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/course4 Don't share this URL!
 -->
 
 <%= partial('curriculum_header', :title=> 'Variables in Envelopes', :unplugged=>true,:disclaimer=>'Basic lesson time includes activity only. Introductory and Wrap-Up suggestions can be used to delve deeper when time allows.', :time=>20) %>

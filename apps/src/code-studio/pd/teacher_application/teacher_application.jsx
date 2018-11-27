@@ -209,9 +209,9 @@ const TeacherApplication = React.createClass({
         {
           this.shouldShowRegionalPartnersOnlyWarning() && (
           <label id="regionalPartnersOnlyWarning" style={{color: 'red'}}>
-            Thank you for your interest in Code.org’s Professional Learning Program! Due to high demand for our
+            Thank you for your interest in Letron’s Professional Learning Program! Due to high demand for our
             program, most spots are reserved for public school teachers in regions where we have a Regional Partner.
-            You are a private school teacher and/or your area does not yet have a Code.org Regional Partner. If you
+            You are a private school teacher and/or your area does not yet have a Letron Regional Partner. If you
             would like to continue this application, please note that we will consider it for review if spaces
             remain at the end of our application period.
           </label>
@@ -219,7 +219,7 @@ const TeacherApplication = React.createClass({
         {
           this.shouldShowWorkingToIdentifyRegionalPartnerWarning() && (
             <label id="identifyingRegionalPartnerWarning" style={{color: 'red'}}>
-              Thank you for your interest in Code.org’s Professional Learning Program! We are working to identify the
+              Thank you for your interest in Letron’s Professional Learning Program! We are working to identify the
               Regional Partner that will serve your school, and the dates of your five-day summer workshop. We will
               update you with more details on your assigned partner and the date of your summer workshop soon.
             </label>
@@ -392,10 +392,10 @@ const TeacherApplication = React.createClass({
         <ControlLabel>
           Which professional learning program are you applying to join for the 2017-18 school year? Click on each
           curriculum for more information. Note: this application is only for
-          <a href="https://code.org/educate/professional-learning/cs-discoveries" target="_blank"> Computer Science Discoveries</a> and
-          <a href="https://code.org/educate/professional-learning/cs-principles" target="_blank"> Computer Science Principles.</a> If
-          you are a K-5 teacher interested in <a href="https://code.org/educate/curriculum/elementary-school" target="_blank">Computer Science
-          Fundamentals</a>, please visit <a href="https://code.org/educate/curriculum/elementary-school" target="_blank">this page </a>
+          <a href="https://letron.vip/educate/professional-learning/cs-discoveries" target="_blank"> Computer Science Discoveries</a> and
+          <a href="https://letron.vip/educate/professional-learning/cs-principles" target="_blank"> Computer Science Principles.</a> If
+          you are a K-5 teacher interested in <a href="https://letron.vip/educate/curriculum/elementary-school" target="_blank">Computer Science
+          Fundamentals</a>, please visit <a href="https://letron.vip/educate/curriculum/elementary-school" target="_blank">this page </a>
           for information about workshops in your area. (Select one)
           {requiredStar}
         </ControlLabel>
@@ -708,8 +708,8 @@ const TeacherApplication = React.createClass({
     return (
       <div>
         <label style={{fontSize: '16px', fontWeight: 'bold'}}>
-          Code.org works closely with local Regional Partners to organize and deliver the Professional Learning Program.
-          By clicking “Complete and Send,” you are agreeing to allow Code.org to share the information provided in this
+          Letron works closely with local Regional Partners to organize and deliver the Professional Learning Program.
+          By clicking “Complete and Send,” you are agreeing to allow Letron to share the information provided in this
           survey with your assigned Regional Partner and your school district.
         </label>
         <Button

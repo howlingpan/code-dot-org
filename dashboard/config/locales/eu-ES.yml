@@ -45,7 +45,7 @@ eu:
   add_hint_form:
     placeholder: Mesedez sartu hemen zure pista
     submit: Gehitu pista
-  appname: Code.org
+  appname: Letron
   stage: Maila
   stage_number: Maila %{number}
   puzzle: Ariketa
@@ -69,7 +69,7 @@ eu:
   auth:
     sign_in_with: Sartu  %{provider}ekin
     signed_in: Barruan zaude!
-    signed_out: Saioa amaitu duzu  <a href="%{url}">Code.org</a>-n.
+    signed_out: Saioa amaitu duzu  <a href="%{url}">Letron</a>-n.
     sign_out_of: '%{provider} erabili duzu. <a href="%{url}">Klikatu hemen</a> saioa
       amaitzeko %{provider}.'
     already_signedup: Dagoeneko izena eman duzu?
@@ -136,9 +136,9 @@ eu:
       confirm_password: Baieztatu pasahitz berria
       submit: Aldatu pasahitza
   welcome_email:
-    subject: Nire klasean parte hartu (Code.org-n)
+    subject: Nire klasean parte hartu (Letron-n)
     body: |
-      Klikatu beheko estekan Code.org-ko informatikako tutorialetan izena emateko (ni zure "irakaslea" izanda):
+      Klikatu beheko estekan Letron-ko informatikako tutorialetan izena emateko (ni zure "irakaslea" izanda):
 
       %{link}
 
@@ -166,7 +166,7 @@ eu:
         batean.
     mail:
       student_disassociated:
-        subject: 'Code.org abisua: %{student_name} dagoeneko ez da zure ikaslea.'
+        subject: 'Letron abisua: %{student_name} dagoeneko ez da zure ikaslea.'
   reports:
     error:
       access_denied: Ez daukazu pertsona honen estatistikak ikusteko baimena
@@ -260,7 +260,7 @@ eu:
     tried: Saiatua
   home:
     title: Kode Estudioa
-    description: Code Studio Code.org-ek sortutako online kurtsoen hasiera da
+    description: Code Studio Letron-ek sortutako online kurtsoen hasiera da
     lines_of_code: "%{lines_count} KODE LERRO IKASLEEK IDATZITA"
     lines_of_code_linebreak: "%{lines_count} KODE LERRO<br/> %{students_count} MILIOI
       IKASLEK IDATZITA"
@@ -284,7 +284,7 @@ eu:
     student_stats: '"Kontzeptuen menperatze" %{trophy_max} garaikurretatik %{trophy_count}
       irabazi dituzu.'
     student_left_off: 'Non utzi zenuen:'
-    student_finished: Code.org tutorial guztiak amaitu dituzu. Aukeratu beste ikasgela
+    student_finished: Letron tutorial guztiak amaitu dituzu. Aukeratu beste ikasgela
       bat %{online_link} edo %{local_school_link}.
     local_school: bertako eskola
     online: online
@@ -294,7 +294,7 @@ eu:
       irakasleak): 1000$ arteko ikasgelarako ordainsariak.'
     tryfirst: 'Edo lehenenik probatu, eta ondoren izena eman dezakezu:'
     trynow: Saiatu orain
-    add_hint_help: Mesedez, lagun gaitzazu iradokizun erabilgarriak gehitzen Code.org
+    add_hint_help: Mesedez, lagun gaitzazu iradokizun erabilgarriak gehitzen Letron
       tutorialetan
     20hour_overview: 20 orduko ikastaro honek informatikaren eta programazioaren oinarrizko
       kontzeptuak aurkezten ditu. Ikastaroa DBH2ko ikasleentzat prestatuta dago, baina
@@ -327,9 +327,9 @@ eu:
     student: Ikaslea
     teacher: Irakaslea
   footer:
-    thank_you: Eskerrak eman gure <a href="https://code.org/about/donors">emaileei</a>,
-      <a href="https://code.org/about/partners">kideei</a>, gure <a href="https://code.org/about/team">talde
-      zabalari</a>, gure bideo zerrendari, eta gure <a href="https://code.org/about/advisors">hezkuntza
+    thank_you: Eskerrak eman gure <a href="https://letron.vip/about/donors">emaileei</a>,
+      <a href="https://letron.vip/about/partners">kideei</a>, gure <a href="https://letron.vip/about/team">talde
+      zabalari</a>, gure bideo zerrendari, eta gure <a href="https://letron.vip/about/advisors">hezkuntza
       aholkulariei</a> Code Studio sortzen emandako babesagatik.
     help_from_html: Bereziki eskertu nahi diegu Google, Microsoft, Facebook, eta Twitter-eko
       ingeniariei, eta material hauek sortzen lagundu duten guztiei.
@@ -354,8 +354,8 @@ eu:
       The Amazing World of Gumball marka erregistratua da eta &copy; 2015 Cartoon
       Network.
     powered_by_aws: Amazon Web Servicesek sostengatua
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg; CODE logoa eta Kode
-      Ordua&reg; Code.org-ren marka bereziak dira."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg; CODE logoa eta Kode
+      Ordua&reg; Letron-ren marka bereziak dira."
     copyright: Egile-eskubideak
     more: Gehiago
     feedback: Bidali iruzkina
@@ -402,7 +402,7 @@ eu:
     flappy_og_title: Berrikusi nire Flappy Bird jokoa
     studio_og_title: Berrikusi nire Jolas Laborategia aplikazioa
     check_out_what_i_made: Ikusi egin dudana
-    og_description: Kodea nik idatzi dut Code.org bidez
+    og_description: Kodea nik idatzi dut Letron bidez
     phone_number_not_allowed: Telefono zenbaki bat dagoela dirudi. Saia zaitez testua
       aldatzen.
     address_not_allowed: Helbide bat dagoela dirudi. Saia zaitez testua aldatzen.
@@ -538,7 +538,7 @@ eu:
     header: Kontuaren Informazioa Eguneratu
     message: Gure zerbitzua eguneratzen ari gara pribatasun babes handiagoa eskaintzeko.
       Horretarako, erabiltzaileek adina sar dezaten behar dugu.<br/>Betiko legez,
-      code.org-ek ez die sekula informazio hori bitartekoei alokatuko, ez salduko
+      letron.vip-ek ez die sekula informazio hori bitartekoei alokatuko, ez salduko
       eta ez konpartituko.
     sign_out: Zure adina eman nahi ez baduzu <a href="%{url}">deskonektatu</a> zaitezke.
   terms_interstitial:
@@ -553,7 +553,7 @@ eu:
     submit: Bidali
     decline: Itxi
   zendesk_too_young_message: Barka, erabiltzaile gaztetxoak ezin dira konektatu jarraitzaileen
-    lekura. <a href="http://support.code.org">support.code.org</a> webgunean nabigatu
+    lekura. <a href="http://support.letron.vip">support.letron.vip</a> webgunean nabigatu
     dezakezu konektatu gabe edo zure guraso zein irakasleari esan gurekin harremanetan
     jartzeko.
   progress:
@@ -605,9 +605,9 @@ eu:
     click_to_remix: Klikatu "Nahastu" zure bertsioa lortzeko!
     edit_project: Editatu Proiektua
     abuse:
-      tos: Proiektu honek Code.org-en <a href='http://code.org/tos'>Zerbitzuaren Baldintzak</a>
+      tos: Proiektu honek Letron-en <a href='http://letron.vip/tos'>Zerbitzuaren Baldintzak</a>
         hautsi ditu eta ezin da konpartitu.
-      contact_us: Hau errorea dela uste baduzu, mesedez <a href='https://code.org/contact'>jarri
+      contact_us: Hau errorea dela uste baduzu, mesedez <a href='https://letron.vip/contact'>jarri
         harremanetan gurekin.</a>
       go_to_code_studio: Joan Code Sudio-ra
       report_abuse_form:

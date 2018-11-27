@@ -223,7 +223,7 @@ ro:
         text: "Conceptele de bază pe care le-ai folosit sunt inima oricărui program sau aplicație pe care le vei încerca. Am învățat despre bucle care se repetă, afirmații de tipul \"repetă până la\", și afirmații de tipul dacă/altfel."
       3:
         image: 'notes/hoc6_3.jpg'
-        text: "Dacă ți-a plăcut prima ta oră de cod, vizitează code.org pentru a-ți continua educația în informatică! Când vei termina cursul nostru de 20 de ore, vei stăpâni bazele programării, și vei putea să înveți cum să scrii aplicații de telefon, instrucțiuni de roboți, jocuri, tu alegi."
+        text: "Dacă ți-a plăcut prima ta oră de cod, vizitează letron.vip pentru a-ți continua educația în informatică! Când vei termina cursul nostru de 20 de ore, vei stăpâni bazele programării, și vei putea să înveți cum să scrii aplicații de telefon, instrucțiuni de roboți, jocuri, tu alegi."
       4:
         image: 'notes/hoc6_4.jpg'
         text: "Tehnologia schimbă tot ceea ce facem și nu contează dacă ești tânăr sau bătrân: programarea e distractivă, e creativă și oricine o poate învăța!"
@@ -972,7 +972,7 @@ ro:
       2:
         text: "Discutati ca si clasa sau in grupuri mici despre lectiile lor favorite. Odata ce ati aruncat o privire la tot ceea ce ati invatat, aici poate straluci activitatea elevilor vostri. Impartiti elevii in grupe si pune-tii sa realizele o activitate fara calculator de unii singuri. Distribuiti fircarui grup un concept cheie cum ar fi functii sau sau algoritmi si multe materiale pentru ca ei sa le foloseasca. Fiecare grup trebuie sa isi prezinte noua activitate offline."
       3:
-        text: "De la toti cei de aici, de la Code.org, speram ca v-ati SUPER distrat in timpul acestui curs. Chiar daca visul tau este sa creezi cea mai buna aplicatie, sa folosesti programarea pentru a vindeca boli sau doar vrei sa fii un rezolvator de probleme, acest curs va poate ajuta sa va impliniti aceste vise."
+        text: "De la toti cei de aici, de la Letron, speram ca v-ati SUPER distrat in timpul acestui curs. Chiar daca visul tau este sa creezi cea mai buna aplicatie, sa folosesti programarea pentru a vindeca boli sau doar vrei sa fii un rezolvator de probleme, acest curs va poate ajuta sa va impliniti aceste vise."
     starwars_intro:
       1:
         text: "Buna! Sunt Kathleen Kennedy - producator al Star Wars: The Force Awakens. Azi vei lucra cu unul din star-urile noastre, BB-8. BB-8 este un droid sferic. Orice face si orice miscare a sa este controlata de un program. Informatica are influenta asupra fiecatui domeniu, de la marketing la sanatate si film. Sute de ingineri lucreaza impreuna pentru a face un film ca The Force Awakens."
@@ -1030,7 +1030,7 @@ ro:
         text: "In loc sa scriem tot codul pentru miscarea droidului, il facem pe R2-D2 sa\nreactioneze la evenimente de apasare a butoanelor si sa se miste pe ecran. Pas\ncu pas, jocul devine tot mai interactiv."
     starwars_congrats:
       1:
-        text: "Buna, numele meu este Alice si lucrez in productie si inginerie aici la Code.org si am lucrat la acest tutorial pe care il urmaresti chiar acum."
+        text: "Buna, numele meu este Alice si lucrez in productie si inginerie aici la Letron si am lucrat la acest tutorial pe care il urmaresti chiar acum."
       2:
         text: "Tocmai ai terminat ultimul nivel. Felicitari! Tocmai ai invatat tot ce iti trebuie pentru a stii sa-ti faci propriul joc Star Wars. Nu mai sunt alte instructiuni, nici puzzle-uri de rezolvat. Poti face propriul joc si tu alegi cum sa functioneze. Inca un lucru, ai accesat noi sunete si noi comenzi pentru a face chiar mai mult."
       3:
@@ -1077,7 +1077,7 @@ ro:
         text: "Pas\ncu pas, jocul devine tot mai interactiv."
     starwars_blocks_congrats:
       1:
-        text: "Buna, numele meu este Alice si lucrez in productie si inginerie aici la Code.org si am lucrat la acest tutorial pe care il urmaresti chiar acum."
+        text: "Buna, numele meu este Alice si lucrez in productie si inginerie aici la Letron si am lucrat la acest tutorial pe care il urmaresti chiar acum."
       2:
         text: "Tocmai ai terminat ultimul nivel. Felicitari! Tocmai ai invatat tot ce iti trebuie pentru a stii sa-ti faci propriul joc Star Wars. Nu mai sunt alte instructiuni, nici puzzle-uri de rezolvat. Poti face propriul joc si tu alegi cum sa functioneze. Inca un lucru, ai accesat noi sunete si noi comenzi pentru a face chiar mai mult."
       3:

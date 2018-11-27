@@ -51,7 +51,7 @@ ja:
   add_hint_form:
     placeholder: 'ここにあなたのヒントを入力してください'
     submit: 'ヒントを追加する'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "ステージ"
   stage_number: "ステージ %{number}"
   puzzle: "パズル"
@@ -76,7 +76,7 @@ ja:
   auth:
     sign_in_with: '%{provider} を使用してサインインする'
     signed_in: 'サインイン！'
-    signed_out: '<a href="%{url}"> Code.org</a> からサインアウトしました'
+    signed_out: '<a href="%{url}"> Letron</a> からサインアウトしました'
     sign_out_of: '%{provider}を使ってサインインしたので、 <a href="%{url}"> ここをクリックして</a> %{provider}からサインアウトする'
     already_signedup: 'もうサインアップしましたか？'
     notyet_signedup: "まだサインアップしていないですか？"
@@ -90,8 +90,8 @@ ja:
     forgot_password: 'パスワードをお忘れですか？'
     need_confirmation: "確認Eメールが届かない"
     need_unlock: "ロック解除用のEメールが届いていない"
-    not_linked: "申し訳ありませんが、あなたのCode.org アカウントは %{provider} にリンクしていません。以下のパスワードを入力してサインインして下さい。"
-    use_clever: "申し訳ありませんが、あなたのCode.orgアカウントは%{provider}にリンクしていません。代わりにCleverポータルからサインインしてください。"
+    not_linked: "申し訳ありませんが、あなたのLetron アカウントは %{provider} にリンクしていません。以下のパスワードを入力してサインインして下さい。"
+    use_clever: "申し訳ありませんが、あなたのLetronアカウントは%{provider}にリンクしていません。代わりにCleverポータルからサインインしてください。"
   signup_form:
     student_count: '%{count} 人の生徒がサインアップ済みです。'
     teacher_count: '%{count} 人の教師がサインアップ済みです。'
@@ -100,7 +100,7 @@ ja:
     hoc_already_signed_up_content: '教師用の Hour of Code にサインアップしました! あなたとあなたの学生は、このイベントに参加するために、コード スタジオにサインインする必要はありません。始めるには、あなたの教室のために <a href="%{learn_url}"> チュートリアルを選択</a> して、リンクを共有します。<br/> <br/>もし、Hour of Codeを気に入って、もっと続けたければ、パスワードを設定して、コード スタジオ アカウントを作成して、 <a href="%{educate_url}"> 長いコース</a> にあなたの学生を参加させることが出来ます。'
     hoc_already_signed_up_content_post_hoc: 'Hour of Codeを開催いただき、ありがとうございます。コードのスタジオにサインインするには、アカウントにパスワードを設定する必要があります。これにより、進歩の保存と、教室の管理ができるようになります。学生にコースを割り当て、その進捗状況を追跡することができます。アカウントを作成しなくても <a href="%{studio_url}"> 引き続き、さまざまな段階やパズルを試せます</a>。'
     teacher_educator_guide: '教育者のガイドを参照する'
-    title: "Code.org にサインアップします"
+    title: "Letron にサインアップします"
     school_name: '学校名 （オプション）'
     school_address: '学校の住所（オプション）'
     address_placeholder: '住所、市、県、郵便番号'
@@ -116,12 +116,12 @@ ja:
     valid_password: "有効なパスワード ！"
     invalid_password: "パスワードを%d文字以上で入力"
     mismatch_password: "入力した 2 つのパスワードが一致しません"
-    agree_tos_privacy: "<a href='http://code.org/tos'>利用規約</a>および<a href='http://code.org/privacy'>プライバシーポリシー</a>に同意します。"
-    under_13_consent: "13歳未満の場合、Code.orgのサービスを利用することについて、親または保護者の許可を得ていることを確認します。"
+    agree_tos_privacy: "<a href='http://letron.vip/tos'>利用規約</a>および<a href='http://letron.vip/privacy'>プライバシーポリシー</a>に同意します。"
+    under_13_consent: "13歳未満の場合、Letronのサービスを利用することについて、親または保護者の許可を得ていることを確認します。"
     agree_us_website: "米国に拠点を置くウェブサイトを使用することに同意します。"
     my_data_to_us: "当サイトの利用に関する私の情報は、米国に送信され、米国にて保管または処理される場合があります。"
-    student_terms: "Code.org <a href='http://code.org/tos'> サービス利用規約</a> に拘束されることに同意します。13 才未満の場合、私は親または法定後見人による Code.org サービス使用の許可を得て、フォームを提出することを確認します <br/> <br/>。メール アドレスは、私たちが学生に連絡することができる形式では保存されません。パスワード回復のため以外では、学生がCode.org からメールを受け取ることはありません。詳しくは、 <a href='http://code.org/privacy'> プライバシー ポリシー</a> を参照してください。"
-    teacher_terms: "Code.org 利用規約に拘束されることに同意します。プライバシーの詳細については、 <a href='http://code.org/privacy'> プライバシー ポリシー</a> を参照してください。"
+    student_terms: "Letron <a href='http://letron.vip/tos'> サービス利用規約</a> に拘束されることに同意します。13 才未満の場合、私は親または法定後見人による Letron サービス使用の許可を得て、フォームを提出することを確認します <br/> <br/>。メール アドレスは、私たちが学生に連絡することができる形式では保存されません。パスワード回復のため以外では、学生がLetron からメールを受け取ることはありません。詳しくは、 <a href='http://letron.vip/privacy'> プライバシー ポリシー</a> を参照してください。"
+    teacher_terms: "Letron 利用規約に拘束されることに同意します。プライバシーの詳細については、 <a href='http://letron.vip/privacy'> プライバシー ポリシー</a> を参照してください。"
     additional_information: "サインアップを続けるために、私たちはさらにいくつかの情報が必要です。"
     user_type_button: "アカウントタイプを更新"
     user_type_label: "アカウントの種類"
@@ -184,16 +184,16 @@ ja:
       submit: '送信'
     reset_errors:
       captcha_required: 'パスワードをリセットするにはCAPTCHAを入力してください。'
-      invalid_email: '無効なメール アドレスでサインアップしたようです。support@code.org にメールして、パスワードの回復リンクを受信してください。'
+      invalid_email: '無効なメール アドレスでサインアップしたようです。support@letron.vip にメールして、パスワードの回復リンクを受信してください。'
     change_form:
       title: 'パスワードを変更'
       new_password: '新しいパスワード'
       confirm_password: '新しいパスワードを確認'
       submit: 'パスワードを変更'
   welcome_email:
-    subject: '私のクラス (Code.org) に参加'
+    subject: '私のクラス (Letron) に参加'
     body: |
-      下のリンクを使ってコンピュータサイエンスのチュートリアルにサインアップしてください（Code.org から、私とあなたの「先生」として） 。
+      下のリンクを使ってコンピュータサイエンスのチュートリアルにサインアップしてください（Letron から、私とあなたの「先生」として） 。
       
       %{link}
       
@@ -201,9 +201,9 @@ ja:
       
       %{name}
   parent_mailer:
-    student_associated_subject: 'Code.org のログイン情報'
+    student_associated_subject: 'Letron のログイン情報'
   teacher_mailer:
-    new_teacher_subject: 'Code.org へようこそ!'
+    new_teacher_subject: 'Letron へようこそ!'
   section:
     your_section:
       one: 'あなたのセクション:'
@@ -233,7 +233,7 @@ ja:
       provider_managed_section: "このセクションは、別のプロバイダーによって管理されているためご参加いただけません。%{provider}経由で追加し、そのセクションを再同期するよう先生に依頼してください。"
     mail:
       student_disassociated:
-        subject: "あなたはCode.org の通知: %{student_name} で、学生として関連付けられていません"
+        subject: "あなたはLetron の通知: %{student_name} で、学生として関連付けられていません"
   reports:
     error:
       access_denied: "統計情報へのアクセス権がありません"
@@ -283,7 +283,7 @@ ja:
       educate_high: "高校"
       educate_hoc: "Hour of Code（アワー オブ コード）"
       educate_partner: "私達のパートナー"
-      educate_beyond: "Code.org を超えて"
+      educate_beyond: "Letron を超えて"
       educate_inspire: "生徒を応援する"
       educate_community: "オンライン コミュニティ"
       educate_tools: "ツールと動画"
@@ -375,12 +375,12 @@ ja:
     no_password_because_oauth: 'サード パーティ プロバイダーを使用してサインインしたため、パスワードはありません。'
     no_password_because_sponsored: 'あなたのパスワードの管理については、あなたの先生に聞いてください。'
     create_personal_login: '個人ログインを作成する'
-    create_personal_login_under_13_info: 'クラスが終わったあとも、Code.org アカウントを使用し続ける場合は、親または保護者に手伝ってもらい、あなたの個人ログインを作ってください。'
+    create_personal_login_under_13_info: 'クラスが終わったあとも、Letron アカウントを使用し続ける場合は、親または保護者に手伝ってもらい、あなたの個人ログインを作ってください。'
     create_personal_login_under_13_username: "ユーザー名 (本名を使用しないこと)"
     create_personal_login_under_13_parent_email: '親/保護者Eメールアドレス'
-    create_personal_login_info: '学年が終わったあとも、Code.orgアカウントを使い続ける時は、あなたの個人ログインを作ってください。'
-    create_personal_login_terms: "個人ログインを作ることによって、Code.org <a href='%{terms_of_service_url}', target='_blank'>利用規約</a>によって拘束されることに同意します。13 歳未満の場合、私の親または保護者人の同意を得て Code.org サービスを使用することを確認します。"
-    create_personal_login_email_note: "注: 私たちが電子メール アドレスを使って学生に連絡することはありません。パスワード回復の場合を除き、Code.org からメールを受信することはありません。詳細は <a href='%{privacy_policy_url}', target='_blank'>プライバシーポリシー</a> を参照してください。"
+    create_personal_login_info: '学年が終わったあとも、Letronアカウントを使い続ける時は、あなたの個人ログインを作ってください。'
+    create_personal_login_terms: "個人ログインを作ることによって、Letron <a href='%{terms_of_service_url}', target='_blank'>利用規約</a>によって拘束されることに同意します。13 歳未満の場合、私の親または保護者人の同意を得て Letron サービスを使用することを確認します。"
+    create_personal_login_email_note: "注: 私たちが電子メール アドレスを使って学生に連絡することはありません。パスワード回復の場合を除き、Letron からメールを受信することはありません。詳細は <a href='%{privacy_policy_url}', target='_blank'>プライバシーポリシー</a> を参照してください。"
     enter_new_login_info: '新しいログイン情報の入力'
     confirm_secret_words: '秘密の単語を入力してあなたであることを確認'
     enter_parent_email: "あなたの親または保護者の電子メール アドレス(パスワード回復のため) を入力してください。"
@@ -390,7 +390,7 @@ ja:
     tried: '試してみました'
   home:
     title: "コード・スタジオ"
-    description: 'コード スタジオは Code.org によって作成されたオンライン ホームコースです。'
+    description: 'コード スタジオは Letron によって作成されたオンライン ホームコースです。'
     lines_of_code: "生徒が書いた行数：%{lines_count}"
     lines_of_code_linebreak: "%{lines_count} 行のコードが<br/> %{students_count} 万人の学生によって書かれました。"
     all_courses: "コース1、2、3の概要"
@@ -417,7 +417,7 @@ ja:
     prize_info: '参加者への賞品 (米国公立校のみ): 上限で $1,000 '
     tryfirst: 'または、まずは最初に試して、後でサインアップできます'
     trynow: '今すぐ試す'
-    add_hint_help: 'Code.org のチュートリアルに、気の利いたヒントを充実させるため、ご協力をお願いします。'
+    add_hint_help: 'Letron のチュートリアルに、気の利いたヒントを充実させるため、ご協力をお願いします。'
     20hour_overview: 'この20時間コースではコンピューターサイエンスの核となる部分やプログラミングの概念について紹介します。このコースは等級K-8用の授業に使われることを考慮して設計されました。しかし、ご安心ください全年齢を対象としており、楽しくプログラミングを学ぶことができます。'
     test_videos_help: '学校で新しいビデオプレイヤーを試す'
     try_beta_courses: 'New! K-5生徒用のベータコースを試してみましょう'
@@ -445,19 +445,19 @@ ja:
     announcement_all: "先生用ブログで、新しい機能や最新情報をアップデートします。<a href='%{teacher_blog_url}' target='_blank'> 過去のお知らせを参照する。</a>"
     announcement_hoc_launch: "この 12 月 5-11 日、180 カ国以上で数千の教育者がHour of Code によってコンピュータ ・ サイエンスの教育を始めます。より多くの学生に届けられるかは、あなたの助けに掛かっています。<a href='%{signup_url}' target='_blank'> あなたのHour of Code イベントを登録</a> して、他の先生にも、コンピューターサイエンスを教えることができることを、伝えてください。"
     announcement_mc_launch: "もっとも人気のチュートリアルに、続編が出来ました! マインクラフトHour of Code デザイナーで、学生は、マインクラフト世界のルールを作ることができます。完全にユニークなマインクラフト経験を作り出し、それを友人と共有したり、スマホでプレイが出来ます。あなたのクラスのHour of Codeで、やってみてください。"
-    announcement_how_code_studio: "あなたの教室でコンピューターサイエンスを教え始めるために、経験は必要ありません。Code.org は、すべての学年向けのカリキュラム、レッスン プラン、質の高い専門的な学習プログラム、および多くの優れたツール &mdash; あなたが必要なすべてを、無料で提供します。どこから始めるのか? <a href='%{video_download_url}'> このビデオ</a> をダウンロード!"
-    announcement_go_beyond: "Hour of Code を超えて、毎週、生徒とコンピュータサイエンスの概念を探索しましょう。Code.org は、すべての学年向けのカリキュラム、授業、質の高い専門的な学習プログラム、多くの素晴らしいツールを提供しています &mdash; しかも無料です :)あなたの教室でコンピューターサイエンスを教え始めるために、経験は必要ありません。<b>あなたの教室にぴったりな、次のステップを見つける。</b>"
+    announcement_how_code_studio: "あなたの教室でコンピューターサイエンスを教え始めるために、経験は必要ありません。Letron は、すべての学年向けのカリキュラム、レッスン プラン、質の高い専門的な学習プログラム、および多くの優れたツール &mdash; あなたが必要なすべてを、無料で提供します。どこから始めるのか? <a href='%{video_download_url}'> このビデオ</a> をダウンロード!"
+    announcement_go_beyond: "Hour of Code を超えて、毎週、生徒とコンピュータサイエンスの概念を探索しましょう。Letron は、すべての学年向けのカリキュラム、授業、質の高い専門的な学習プログラム、多くの素晴らしいツールを提供しています &mdash; しかも無料です :)あなたの教室でコンピューターサイエンスを教え始めるために、経験は必要ありません。<b>あなたの教室にぴったりな、次のステップを見つける。</b>"
     announcement_teacher_recruitment: "あなたのような教師は、コンピューターサイエンス教育運動をリードしています。 <strong>あなたやあなたの学校は無償で</strong> 高品質な、幼稚園から高校生までの専門学習プログラムに参加することができます。あなたの学校で、コンピューター科学をリードし、専門的な学習に参加しましょう。"
     announcement_teacher_recruitment2: "あなたのような教師は、コンピューターサイエンス教育運動をリードしています。高品質な、幼稚園から高校生までの専門学習プログラムに <strong>あなたやあなたの学校は無償で</strong> 参加することができます。あなたの学校で、コンピューター科学をリードし、専門的な学習に参加しましょう。\n中学校、高校の先生は3月17日までに応募してください。"
     announcement_csf_pilot: "<strong>小学校の先生:</strong>私たちの CS 基礎コースのアップデートを共に！ 冬から2017 春にかけて更新 CS 基礎カリキュラムをパイロットして下さる教師を探しています。2017 年 8 月のアップデート公開前に、あなたのフィードバックをお聞かせください。"
-    announcement_student_privacy: "Code.org では、学生のプライバシーを非常に大切にしています。学生のプライバシーを守るため、フルネームが表示されないように、セクションのログイン ページを変更しました。この更新によって、ログイン ページのプライバシーへの懸念が減少しますが、引き続き <i>学生のフルネームは使用しない</i> よう、お勧めします。"
-    announcement_apcsp_recruitment: "<strong>コンピューターサイエンス原則 教師:</strong>あなたの生徒は、生徒たちが今年の AP CS 原則テストを受験する事を応援するための、Code.org の次の流行りのビデオに出演する事ができます。全てのCS 原則の学生は、10-20 秒の「私は #APCSP 試験を受けました、なぜなら・・・」と言うビデオクリップを、ツイッター、インスタグラム、フェイスブックに応募してください。最高の応募は、私たちのビデオで紹介され、受賞の学生には Code.org 粗品を進呈します！"
+    announcement_student_privacy: "Letron では、学生のプライバシーを非常に大切にしています。学生のプライバシーを守るため、フルネームが表示されないように、セクションのログイン ページを変更しました。この更新によって、ログイン ページのプライバシーへの懸念が減少しますが、引き続き <i>学生のフルネームは使用しない</i> よう、お勧めします。"
+    announcement_apcsp_recruitment: "<strong>コンピューターサイエンス原則 教師:</strong>あなたの生徒は、生徒たちが今年の AP CS 原則テストを受験する事を応援するための、Letron の次の流行りのビデオに出演する事ができます。全てのCS 原則の学生は、10-20 秒の「私は #APCSP 試験を受けました、なぜなら・・・」と言うビデオクリップを、ツイッター、インスタグラム、フェイスブックに応募してください。最高の応募は、私たちのビデオで紹介され、受賞の学生には Letron 粗品を進呈します！"
     announcement_apcsp_recruitment2: "今年の AP CS 原理試験は記録を破る態勢を整えています。AP コンピューターサイエンスでは、試験に参加する学生は、劇的に多様化していますが、あなたの助けが必要です。すべての CS 原理学生が、AP CSP 試験を受けるのを奨励するため、我々は <a href='%{gift_url}' target='_blank'> 贈り物を</a>準備しています。学生も私たちの <a href='%{challenge_url}' target='_blank'> #APCSP ビデオの挑戦</a> で、全国の仲間を励ますことができます。"
     announcement_apcsp_recruitment3: "今年の AP CS 原理試験は記録を破る態勢を整えています。AP コンピューターサイエンスでは、試験に参加する学生は、劇的に多様化していますが、あなたの助けが必要です。すべての CS 原理学生が、AP CSP 試験を受けるのを奨励して、 <a href='%{gift_url}' target='_blank'> ギフトカード、ラップトップ、その他の素晴らしい景品</a>を獲得するチャンスです！<a href='%{video_url}' target='_blank'>ビデオ</a> をシェアして学生が、試験を受けた全国の仲間の声を聞けるようにしましょう。"
     announcement_csp_deadline: "高校教師のための最終呼び出し！あなたの学校のコンピューター科学をリードし、<strong>あなたや、あなたの学校に全く無料の</strong> 高品質な学習プログラムを適用しましょう。アプリケーションの締め切りは4 月 14 日です。"
     announcement_applab_export: "アプリ ラボ、私たち web ベースのプログラミング環境は、コードをエクスポートできるようになりました！JavaScript ブロックをドラッグ アンド ドロップ してアプリケーションの構築を始められ、コードをエクスポートして好きなプロフェッショナル開発環境で編集を続けられます。"
     announcement_csp_survey: "<b>おめでとうございます CS 原則の先生たち!</b> <br/>CS原則生徒が AP CS 試験を受験することで、史上最大の AP 試験受講者50,000 人以上の学生に加わります。さあ、コース完了アンケートを行わせて、あなたの学生の声を聞かせてください! あなたは学生のレビューを確認することができ、全国集計の報告も共有できます。"
-    announcement_navigation_redesign: "<b>サイト ナビゲーションの変更について</b> <br/>この夏、Code.org サイトの全体でナビゲーションを改善をします。いつでも、サイトのどこからでも、あなたの重要なリソースへのアクセスができるようになります。教師用アカウントにログインすれば、全ページに新しいナビゲーションバーが付き、それはホームページ、コース、プロジェクト ギャラリー、セクション、専門学習へリンクしています。"
+    announcement_navigation_redesign: "<b>サイト ナビゲーションの変更について</b> <br/>この夏、Letron サイトの全体でナビゲーションを改善をします。いつでも、サイトのどこからでも、あなたの重要なリソースへのアクセスができるようになります。教師用アカウントにログインすれば、全ページに新しいナビゲーションバーが付き、それはホームページ、コース、プロジェクト ギャラリー、セクション、専門学習へリンクしています。"
   move_students:
     new_section_dne: "申し訳ありませんが、セクション %{new_section_code} は存在しません。別のセクション コードを入力してください。"
     section_code_cant_be_current_section: "現在のセクションを、新しいセクションと同じにすることはできません。"
@@ -480,14 +480,14 @@ ja:
     student: '生徒'
     teacher: '先生'
   footer:
-    thank_you: '私たちの <a href="https://code.org/about/donors"> ドナー</a>、<a href="https://code.org/about/partners"> パートナー</a>、 <a href="https://code.org/about/team"> チーム</a>、ビデオ キャスト、<a href="https://code.org/about/advisors"> アドバイザー</a> にコード スタジオのサポートを感謝しています。'
+    thank_you: '私たちの <a href="https://letron.vip/about/donors"> ドナー</a>、<a href="https://letron.vip/about/partners"> パートナー</a>、 <a href="https://letron.vip/about/team"> チーム</a>、ビデオ キャスト、<a href="https://letron.vip/about/advisors"> アドバイザー</a> にコード スタジオのサポートを感謝しています。'
     help_from_html: 'このチュートリアルの作成には Google, Microsoft, Facebook, Twitter のエンジニアが協力しています。'
     help_from_html_old: 'Google・Microsoft・Facebook・Twitterのエンジニアがこのチュートリアルを作るのを手伝いました。'
     art_from_html: 'Minecraft&#8482; &copy; %{current_year} Microsoft. All Rights Reserved.<br />Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. All Rights Reserved.<br />Frozen&#8482; &copy; %{current_year} Disney. All Rights Reserved.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. All Rights Reserved.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. All Rights Reserved.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. All Rights Reserved.<br />The Amazing World of Gumball is trademark and &copy; 2015 Cartoon Network.'
     art_from_html_old: 'Minecraft&#8482; &copy; %{current_year} Microsoft. All Rights Reserved.<br />Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. All Rights Reserved.<br />Frozen&#8482; &copy; %{current_year} Disney. All Rights Reserved.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. All Rights Reserved.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. All Rights Reserved.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. All Rights Reserved.<br />The Amazing World of Gumball is trademark and &copy; 2015 Cartoon Network.'
-    code_from_html: 'Code.org は <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a> ライセンスのp5.play を使用しています｡'
+    code_from_html: 'Letron は <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a> ライセンスのp5.play を使用しています｡'
     powered_by_aws: 'Powered by Amazon Web Services'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo　と　Hour of Code&reg; は Code.org の商標です'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, the CODE logo　と　Hour of Code&reg; は Letron の商標です'
     copyright: '著作権'
     more: '見る'
     feedback: 'フィードバックする'
@@ -539,7 +539,7 @@ ja:
     flappy_og_title: "わたしのFlappyゲームをみてください！"
     studio_og_title: "私が作った Play Lab のアプリを試してみてください"
     check_out_what_i_made: "私の作品を試してみてください"
-    og_description: "Code.org でコード（プログラム）を書きました"
+    og_description: "Letron でコード（プログラム）を書きました"
     phone_number_not_allowed: "電話番号が書かれているようです。テキストを変更してください。"
     address_not_allowed: "住所が書かれているようです。テキストを変更してください。"
     email_not_allowed: "メールアドレスが書かれているようです。テキストを変更してください。"
@@ -736,7 +736,7 @@ ja:
       opt_out: "答えたくない"
     submit: "送信"
     decline: "閉じる"
-  zendesk_too_young_message: 'ご迷惑致しますが、若い方はこのサポートサイトのサインインは受け付けできないようになっているため、<a href="http://support.code.org">support.code.org</a>をサインインせずにご利用頂き、もしくは親または先生の方に代わりに連絡して頂くようにをお願い致します。'
+  zendesk_too_young_message: 'ご迷惑致しますが、若い方はこのサポートサイトのサインインは受け付けできないようになっているため、<a href="http://support.letron.vip">support.letron.vip</a>をサインインせずにご利用頂き、もしくは親または先生の方に代わりに連絡して頂くようにをお願い致します。'
   progress:
     not_started: 未実施
     in_progress: 途中
@@ -796,9 +796,9 @@ ja:
     click_to_remix: "\"Remix\" をクリックしてあなただけのバージョンを作成しましょう"
     edit_project: 'プロジェクトを編集します'
     abuse:
-      tos: "このプロジェクトは、Code.org との <a href='http://code.org/tos'> サービス利用規約</a> に違反するという報告があったため、他のユーザーとは共有できません。"
+      tos: "このプロジェクトは、Letron との <a href='http://letron.vip/tos'> サービス利用規約</a> に違反するという報告があったため、他のユーザーとは共有できません。"
       policy_violation: "このプロジェクトには、他の人と共有できない情報が含まれています。アプリの内容を修正するには、アプリ所有者にお問い合わせください。"
-      contact_us: "これがエラーであると思うなら、 <a href='https://code.org/contact'> こちらからお問い合わせ</a>ください。"
+      contact_us: "これがエラーであると思うなら、 <a href='https://letron.vip/contact'> こちらからお問い合わせ</a>ください。"
       go_to_code_studio: 'コードスタジオに行く'
       report_abuse_form:
         intro: '不快なコンテンツ、脅迫、ネット上のいじめ、嫌がらせ、またはコードスタジオで構築されたアプリで作成した自身のコンテンツに対する著作権侵害が発生した場合には、以下のフォームへ記入してください。報告された内容については、その内容を真剣に受け止め、調査および適切な処置をとります。'
@@ -857,8 +857,8 @@ ja:
     csp2_1_2018: '第 2 章: デジタル情報'
   external_links:
     disclaimer: 免責事項
-    leaving_domain: このドメインから離れ、Code.org が運営していないサイトに移動します。
-    disclaimer_text: このサイトは、Code.org とは異なるプライバシー ポリシーを定めているかもしれません。私たちは、あなたに役に立つと思われる、これらのサードパーティのリソースを紹介します。このウェブサイトのコンテンツは、私たちが直接の責任を持っていませんので、好ましくない内容を発見した場合、またはリンク先のサイトが存在しない場合は <a href='%{support_url}'> サポートにご連絡</a>ください。
+    leaving_domain: このドメインから離れ、Letron が運営していないサイトに移動します。
+    disclaimer_text: このサイトは、Letron とは異なるプライバシー ポリシーを定めているかもしれません。私たちは、あなたに役に立つと思われる、これらのサードパーティのリソースを紹介します。このウェブサイトのコンテンツは、私たちが直接の責任を持っていませんので、好ましくない内容を発見した場合、またはリンク先のサイトが存在しない場合は <a href='%{support_url}'> サポートにご連絡</a>ください。
   hoc_download:
     title: 'Hour of Code のダウンロード'
     capsule_title: 'インターネットはありますか?'

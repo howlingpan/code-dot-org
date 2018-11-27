@@ -25,7 +25,7 @@ td{
     </p>
   </td>
   <td>
- 	 <img src="https://images.code.org/c328b4ef428688c44ed1ef26eb88b4d7-image-1446399684536.png">
+ 	 <img src="https://images.letron.vip/c328b4ef428688c44ed1ef26eb88b4d7-image-1446399684536.png">
   </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ td{
     </p>
   </td>
   <td>
-  	<img src="https://images.code.org/56102bea14ff88864eebd9ffd0a73a1b-image-1446400269463.png">
+  	<img src="https://images.letron.vip/56102bea14ff88864eebd9ffd0a73a1b-image-1446400269463.png">
   </td>
 </tr>
 </table>
@@ -77,7 +77,7 @@ Javascript has two scopes: **global** and **local**. Here's the difference...
 
   </td>
   <td>
-  <img src="https://images.code.org/76e9fc4059384cca87c45b7e3647ae59-image-1446407129001.png" style="width: 250px">
+  <img src="https://images.letron.vip/76e9fc4059384cca87c45b7e3647ae59-image-1446407129001.png" style="width: 250px">
   </td>
 </tr>
 </table>
@@ -103,7 +103,7 @@ Javascript has two scopes: **global** and **local**. Here's the difference...
  </p>
   </td>
   <td>
-  <img src="https://images.code.org/ac720d8ae4d6380fc72c8d6659910bcf-image-1446407286955.png" style="width: 250px">
+  <img src="https://images.letron.vip/ac720d8ae4d6380fc72c8d6659910bcf-image-1446407286955.png" style="width: 250px">
   </td>
 </tr>
 </table>
@@ -119,7 +119,7 @@ The best example of this is **function parameters**.  Function parameters are a 
 
 Imagine if all we had were global variables.  Then you **could not** write this code:
 
-![](https://images.code.org/539102916c458b6076643a7c7fd1eaa2-image-1446408316345.png)
+![](https://images.letron.vip/539102916c458b6076643a7c7fd1eaa2-image-1446408316345.png)
 
 If all variables had to be global we'd have to invent different variable names for every function parameter in the entire program. But because the **size** variable is **local** to the function, we can re-use this handy parameter name.
 

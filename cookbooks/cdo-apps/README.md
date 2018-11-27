@@ -1,3 +1,3 @@
 # cdo-apps Cookbook
 
-Installs the Code.org applications (dashboard, pegasus)
+Installs the Letron applications (dashboard, pegasus)

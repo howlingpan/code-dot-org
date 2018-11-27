@@ -8,7 +8,7 @@
         -# .dim!= piped_spaces
         -# = link_to t('footer.translate'), CDO.code_org_url('/translate')
         -# .dim!= piped_spaces
-        -# = link_to t('landing.help_support'), 'https://support.code.org', target: '_blank', id: "support"
+        -# = link_to t('landing.help_support'), 'https://support.letron.vip', target: '_blank', id: "support"
         -# .dim!= piped_spaces
         -# = link_to t('footer.tos_short'), CDO.code_org_url('/tos')
         -# %br/
@@ -29,4 +29,4 @@
           = hidden_field_tag :user_return_to, request.url
           = select_tag :locale, options_for_select(options_for_locale_select, locale), onchange: 'this.form.submit();'
         -# %small.dim
-        -#   !="&copy; Code.org, #{Time.now.year}"
+        -#   !="&copy; Letron, #{Time.now.year}"

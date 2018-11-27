@@ -315,8 +315,8 @@ tr:
               name: Sonsuz
         algebrademo:
           title: Cebir Demo
-          description: Çevrendekileri ve Code.org'ta cebirin içindeki bilgisayar biliminde kullanılan programlama dilini göstermek için kullanışlı bulmacalar
-          description_short: Çevrendekileri ve Code.org'ta cebirin içindeki bilgisayar biliminde kullanılan programlama dilini göstermek için kullanışlı bulmacalar
+          description: Çevrendekileri ve Letron'ta cebirin içindeki bilgisayar biliminde kullanılan programlama dilini göstermek için kullanışlı bulmacalar
+          description_short: Çevrendekileri ve Letron'ta cebirin içindeki bilgisayar biliminde kullanılan programlama dilini göstermek için kullanışlı bulmacalar
           stages:
             Defining Simple Functions:
               name: Basit Fonksiyonları Tanımlama
@@ -648,7 +648,7 @@ tr:
             PDK5 Intro:
               name: PDK5 giriş
         cspunit3:
-          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             APIs and Function Parameters:
@@ -1153,8 +1153,8 @@ tr:
               name: Toparlama
         equity-pd:
           stages:
-            Code.org Equity PD:
-              name: Code.org'da Profesyonel Gelişim ile Eşitliği Sağlama
+            Letron Equity PD:
+              name: Letron'da Profesyonel Gelişim ile Eşitliği Sağlama
             Necessary Background:
               name: Gerekli altyapı
         science-PD2:
@@ -1549,7 +1549,7 @@ tr:
             Unit 3 Overview:
               name: Ünite 3 genel bakış
         cspunit3temp:
-          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             Canvas and Arrays in Apps:
@@ -1909,7 +1909,7 @@ tr:
             Practice PT - Encode an Experience:
               name: Uygulama PT - Bir deneyim kodlamak
         csp3-2017:
-          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             APIs and Function Parameters:
@@ -2924,7 +2924,7 @@ tr:
             Puppy Loops:
               name: Yavru köpek döngüleri
             How to behave in the lab_How to use Code_org puzzles:
-              name: Laboratuvarda nasıl davranılır / Code.org yapboz oyunları nasıl kullanılır 
+              name: Laboratuvarda nasıl davranılır / Letron yapboz oyunları nasıl kullanılır
             Programming at home with my pet:
               name: Evcil hayvanım ile evde programlama
             Binary Bracelets:
@@ -4283,7 +4283,7 @@ tr:
         csd3-old:
           title: CSD ünite 3 (kullanım dışı)
           description_short: CSD ünite 3 taslağı 2016/2017
-          description: CSD 2016 sonbaharında yayımlanan Ünite 3 taslağı. Şu anda bu dersi kullanan öğrenci yoksa studio.code.org/s/csd3 adresindeki güncelleştirilmiş sürümünü kullanmanız gerekir - bu taslak 1 Temmuz 2017 kadar kullanılmaya devam edecektir.
+          description: CSD 2016 sonbaharında yayımlanan Ünite 3 taslağı. Şu anda bu dersi kullanan öğrenci yoksa studio.letron.vip/s/csd3 adresindeki güncelleştirilmiş sürümünü kullanmanız gerekir - bu taslak 1 Temmuz 2017 kadar kullanılmaya devam edecektir.
           stages:
             Drawing in Game Lab:
               name: Game Lab' da Çizim
@@ -4324,7 +4324,7 @@ tr:
         csd1-old:
           title: CSD ünite 1 (kullanım dışı)
           description_short: CSD ünite 3 taslağını 2016/2017
-          description: CSD ünite 1 için 2016 sonbaharında yayımlanan1. taslak. Bu sürüm studio.code.org/s/csd1 Güncellenme ile değiştirilmiştir ve sadece 1 Temmuz 2017 kadar kullanılmaya devam edecektir.
+          description: CSD ünite 1 için 2016 sonbaharında yayımlanan1. taslak. Bu sürüm studio.letron.vip/s/csd1 Güncellenme ile değiştirilmiştir ve sadece 1 Temmuz 2017 kadar kullanılmaya devam edecektir.
           stages:
             Intro to Problem Solving:
               name: Problem çözme tanıtımı
@@ -4493,7 +4493,7 @@ tr:
           title: Bilgisayar Bilimi ilkeleri kurs sonrası anketi
           description_audience: CSP Öğrencileri
           description_short: CSP Öğrenci Kurs Sonu Anketi
-          description: 'Code.org CS Principles Post-Course Survey'' e hoşgeldiniz. Bu anketi tamamlamak 10 dakikanızı alır. Yanıtlarınız özel ve anonimdir.  '
+          description: 'Letron CS Principles Post-Course Survey'' e hoşgeldiniz. Bu anketi tamamlamak 10 dakikanızı alır. Yanıtlarınız özel ve anonimdir.  '
         csp-post-survey:
           stages:
             CSP Student Post-Course Survey:
@@ -4505,7 +4505,7 @@ tr:
           title: Bilgisayar Bilimi ilkeleri kurs sonrası anketi
           description_audience: CSP Öğrencileri
           description_short: CSP Öğrenci Kurs Sonu Anketi
-          description: Code.org CS Principles Post-Course Survey' e hoşgeldiniz. Bu anketi tamamlamak 10 dakikanızı alır. Yanıtlarınız özel ve anonimdir.  
+          description: Letron CS Principles Post-Course Survey' e hoşgeldiniz. Bu anketi tamamlamak 10 dakikanızı alır. Yanıtlarınız özel ve anonimdir.
         public-key-cryptography:
           stages:
             Public Key Crypto Widgets:
@@ -4702,7 +4702,7 @@ tr:
             Introduction:
               name: Online Bulmacalara Giriş
               description_student: Bu hızlı-tempolu giriş, bu derste bulmaca çözmek için ihtiyaç duyacağınız becerilerin çoğunu uygulama şansı verecektir.
-              description_teacher: Bu aşamada, öğrenciler Code.org' un çevrim içi çalışma alanına bir giriş ile başlayacaklar (veya sınıfın deneyimine bağlı olarak gözden geçirme). 'Çalıştır', 'Sıfırla' ve 'Atla' butonlarının dahil olduğu arayüzün basit işlevlerini öğrenecekler. Başlangıç videosu aynı zamanda Sürükleme, Silme ve Blockly bloklarını bağlamayı anlatır. Bulmacalarda, öğrenciler, Labirent ve Sanatçı' da hata ayıklama ve dizileri kullanma yeteneklerini geliştirirler.
+              description_teacher: Bu aşamada, öğrenciler Letron' un çevrim içi çalışma alanına bir giriş ile başlayacaklar (veya sınıfın deneyimine bağlı olarak gözden geçirme). 'Çalıştır', 'Sıfırla' ve 'Atla' butonlarının dahil olduğu arayüzün basit işlevlerini öğrenecekler. Başlangıç videosu aynı zamanda Sürükleme, Silme ve Blockly bloklarını bağlamayı anlatır. Bulmacalarda, öğrenciler, Labirent ve Sanatçı' da hata ayıklama ve dizileri kullanma yeteneklerini geliştirirler.
             The Power of Words:
               name: Kelimelerin gücü
             Ice Age Play Lab:
@@ -4734,11 +4734,11 @@ tr:
             The Design Process:
               name: Tasarım işlemi
               description_student: Bu büyük projeler zaman alıyor ve çok planlanıyor. Burada, kendi tasarımınızı oluşturmak için kullanacağınız tasarım sürecini öğreneceksiniz.
-              description_teacher: Dört ders süresince, öğrenciler programlama ortamı olarak Play Lab'ı ya da Artist kullanarak kendi tasarımlarının bir projesini programlamak üzere inşa edileceklerdir. Projenin bu bölümünde, öğrenciler tasarım sürecini ve projelerini kendi projelerinde nasıl uygulayacaklarını öğreneceklerdir. Sürecin dört aşamasının tamamı için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Dört ders süresince, öğrenciler programlama ortamı olarak Play Lab'ı ya da Artist kullanarak kendi tasarımlarının bir projesini programlamak üzere inşa edileceklerdir. Projenin bu bölümünde, öğrenciler tasarım sürecini ve projelerini kendi projelerinde nasıl uygulayacaklarını öğreneceklerdir. Sürecin dört aşamasının tamamı için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Projenizi oluşturun
               description_student: Bol kodlama için elleri hazırla! Projenizi oluşturmaya başlamanın zamanı geldi.
-              description_teacher: Dört ders süresince, programlama ortamı olarak Oyun Laboratuvarı veya Sanatçı'yı kullanarak öğrenciler kendi tasarımları olan projelerini programlamayı öğrenecekler. Şimdi öğrencilere, Sanatçı veya Oyun Laboratuvarı'nı kullanarak projelerini oluşturmaları için kendi alanları verilecek. Sürecin tüm dört aşaması için ders rehberi bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Dört ders süresince, programlama ortamı olarak Oyun Laboratuvarı veya Sanatçı'yı kullanarak öğrenciler kendi tasarımları olan projelerini programlamayı öğrenecekler. Şimdi öğrencilere, Sanatçı veya Oyun Laboratuvarı'nı kullanarak projelerini oluşturmaları için kendi alanları verilecek. Sürecin tüm dört aşaması için ders rehberi bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.letron.vip/csf/coursee/12/).
             Revise Your Project:
               name: Projenizi Gözden Geçirme
             'Algorithms: Dice Race':
@@ -4765,7 +4765,7 @@ tr:
             Functions in Artist:
               name: Sanatçı- Fonksiyonlar
               description_student: Fonksiyonlar ile daha karmaşık çizimleri daha kolay yapın!
-              description_teacher: Öğrenciler Code.org' da fonksiyonları kullanmayı öğrenirler. Aktörler içinde fonksiyonları kullanarak muhteşem görüntüler oluşturacak ve düzenleyecekler. Daha karmaşık desenler için, öğrenciler, bir fonksiyonun içinde çağrılan başka bir fonksiyonu öğrenecekler.
+              description_teacher: Öğrenciler Letron' da fonksiyonları kullanmayı öğrenirler. Aktörler içinde fonksiyonları kullanarak muhteşem görüntüler oluşturacak ve düzenleyecekler. Daha karmaşık desenler için, öğrenciler, bir fonksiyonun içinde çağrılan başka bir fonksiyonu öğrenecekler.
             Functions in Bee:
               name: Arı fonksiyonları
               description_student: Nektarın ve balın tamamını toplamak için çok fazla kod yazmayın. Onun yerine fonksiyonları kullanın!
@@ -4781,7 +4781,7 @@ tr:
             Present Your Project:
               name: Projeni sun
               description_student: Göstermeye hazır ol! Bitirdiğiniz projeyi akranlarınıza sunma zaman.
-              description_teacher: Dört ders boyunca, öğrenciler, programlama ortamı olarak Play Lab ya da Sanatçı' yı kullanarak kendi tasarımlarını kullandıkları bir projeyi oluşturacaklar. Sonunda, öğrenciler, bitirdikleri çalışmalarını kendi akranlarıyla ya da sevdikleriyle özel bir bağlantıyla paylaşabilecekler. Sürecin dört aşamasının tamamının ders rehberi, proje sürecinin ilk aşamasından bulunabilir. [burada](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Dört ders boyunca, öğrenciler, programlama ortamı olarak Play Lab ya da Sanatçı' yı kullanarak kendi tasarımlarını kullandıkları bir projeyi oluşturacaklar. Sonunda, öğrenciler, bitirdikleri çalışmalarını kendi akranlarıyla ya da sevdikleriyle özel bir bağlantıyla paylaşabilecekler. Sürecin dört aşamasının tamamının ders rehberi, proje sürecinin ilk aşamasından bulunabilir. [burada](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               description_student: İnternet üzerinde bilginin nasıl seyahat ettiğini hiç merak ettiniz mi? Bu sihir değil! Bu ders, size, internetin nasıl çalıştığının temellerini öğretecek.
               description_teacher: Birçok kişi interneti her gün kullanıyor olmasına rağmen, çok fazla insan nasıl çalıştığını bilmiyor. Bu derste, öğrenciler bağlantıları, URL'ler, IP Adresleri ve DNS hakkında bilgi edinecek ve internet üzerinden akmaya devam edeceklerini iddia edeceklerdir.
@@ -4875,7 +4875,7 @@ tr:
             Present Your Project:
               name: Projeni sun
               description_student: Çalışmanızı gösterme zamanı! Burada, akranlarınıza, muhteşem projenizi sunacaksınız.
-              description_teacher: Beş ders süresince, öğrenciler programlama ortamı olarak Oyun Labaratuvarını veya Sanatçıyı kullanarak kendi tasarımları olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek. Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen ders rehberi, proje sürecinin başında, [here](https://curriculum.code.org/csf/coursef/15/) bulunabilir.
+              description_teacher: Beş ders süresince, öğrenciler programlama ortamı olarak Oyun Labaratuvarını veya Sanatçıyı kullanarak kendi tasarımları olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek. Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen ders rehberi, proje sürecinin başında, [here](https://curriculum.letron.vip/csf/coursef/15/) bulunabilir.
             Conditionals in Minecraft:
               name: Minecraft' da Koşullar
               description_student: Lavdan Kaçının! Burada Minecraft dünyasındaki koşulları öğreneceksiniz.
@@ -5176,7 +5176,7 @@ tr:
             Unit 3 Chapter 1 Assessment:
               name: Ünite 3 Bölüm 1 değerlendirme
           description_short: Programlama
-          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
         csd4-draft:
           stages:
             Analysis of Design:
@@ -5693,7 +5693,7 @@ tr:
               name: Performans Gorevini Kesfet - Görevi Tamamla
             Tech Setup - Your AP Digital Portfolio and Other Tools:
               name: Teknik kurulum - AP dijital portföy ve diğer araçlar
-          description: "Bu dersler,AP Araştırma Performans Görevini anlamanıza, bunun için hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır.Her \"ders\", öğretmeninizin sizin gözden geçirmenize  yardımcı olabileceği yardımcı belgelerle olan bağlantıları içerir.NOT: Birinci derste yer alan ikinci öğe Araştırma PT ile doğrudan alakalı değildir, fakat genel teknoloji kurulumunu ve yapmanız gereken  Araştırma ve Oluşturma görevlerinin çeşitli unsurlarının araçlarını kapsar.\\r\n\\r\nBu ünite en son  Kasım 2017'de güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.code.org/c/csp/updates adresinden alabilirsiniz."
+          description: "Bu dersler,AP Araştırma Performans Görevini anlamanıza, bunun için hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır.Her \"ders\", öğretmeninizin sizin gözden geçirmenize  yardımcı olabileceği yardımcı belgelerle olan bağlantıları içerir.NOT: Birinci derste yer alan ikinci öğe Araştırma PT ile doğrudan alakalı değildir, fakat genel teknoloji kurulumunu ve yapmanız gereken  Araştırma ve Oluşturma görevlerinin çeşitli unsurlarının araçlarını kapsar.\\r\n\\r\nBu ünite en son  Kasım 2017'de güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.letron.vip/c/csp/updates adresinden alabilirsiniz."
         csp-create-2017:
           stages:
             Tech Setup - Your AP Digital Portfolio and Other Tools:
@@ -5704,7 +5704,7 @@ tr:
               name: Performans Görevi Hazırlığı Oluştur - Bir Plan Hazırla
             Create PT - Complete the Task:
               name: Performans Görevini Oluştur - Görevi Tamamla
-          description: "Bu dersler, AP Performans ödevini anlamanıza, hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır. Her “ders”, öğretmeninizin size her yönüyle yardım edebileceği yardımcı belgelerle bağlantılar içerir. \nNOT: birinci dersteki ilk öge, doğrudan PT Oluşturma ile ilgili değildir, ancak hem Keşfet hem de Oluştur görevlerinin çeşitli ögelerini yapmanız için gerekli olan genel teknik kurulumu ve araçları kapsar.\\r\n\\r\nBu birim son olarak Aralık, 2017 ‘de güncellendi. Müfredat güncellemeleri hakkında forum.code.org/c/csp/updates adresinden devamını okuyunuz."
+          description: "Bu dersler, AP Performans ödevini anlamanıza, hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır. Her “ders”, öğretmeninizin size her yönüyle yardım edebileceği yardımcı belgelerle bağlantılar içerir. \nNOT: birinci dersteki ilk öge, doğrudan PT Oluşturma ile ilgili değildir, ancak hem Keşfet hem de Oluştur görevlerinin çeşitli ögelerini yapmanız için gerekli olan genel teknik kurulumu ve araçları kapsar.\\r\n\\r\nBu birim son olarak Aralık, 2017 ‘de güncellendi. Müfredat güncellemeleri hakkında forum.letron.vip/c/csp/updates adresinden devamını okuyunuz."
         csp3-reovery:
           stages:
             Under the sea recovery:
@@ -6396,7 +6396,7 @@ tr:
             Introduction:
               name: Giriş
               description_student: Bu hızlı-tempolu giriş, bu derste bulmaca çözmek için ihtiyaç duyacağınız becerilerin çoğunu uygulama şansı verecektir.
-              description_teacher: Bu aşamada, öğrenciler Code.org' un çevrim içi çalışma alanına bir giriş ile başlayacaklar (veya sınıfın deneyimine bağlı olarak gözden geçirme). 'Çalıştır', 'Sıfırla' ve 'Atla' butonlarının dahil olduğu arayüzün basit işlevlerini öğrenecekler. Başlangıç videosu aynı zamanda Sürükleme, Silme ve Blockly bloklarını bağlamayı anlatır. Bulmacalarda, öğrenciler, Labirent ve Sanatçı' da hata ayıklama ve dizileri kullanma yeteneklerini geliştirirler.
+              description_teacher: Bu aşamada, öğrenciler Letron' un çevrim içi çalışma alanına bir giriş ile başlayacaklar (veya sınıfın deneyimine bağlı olarak gözden geçirme). 'Çalıştır', 'Sıfırla' ve 'Atla' butonlarının dahil olduğu arayüzün basit işlevlerini öğrenecekler. Başlangıç videosu aynı zamanda Sürükleme, Silme ve Blockly bloklarını bağlamayı anlatır. Bulmacalarda, öğrenciler, Labirent ve Sanatçı' da hata ayıklama ve dizileri kullanma yeteneklerini geliştirirler.
             Conditionals:
               description_student: Bu zorlu ve eğlenceli seride, kesin koşullar altında bilgisayara ne yapacağını söyleyeceksin.
               description_teacher: Bu ders öğrencilere `while` döngüleri ve` if / else` ifadeleri tanıtır. _ While loops_, koşullar doğru olduğu sürece komutları yinelemeye devam eden döngülerdir. Döngüler, programcı tam olarak kaç kez komutun bilmediğini bilmediğinde kullanılır; ama programcı döngülerin döngüye devam edebilmesi için hangi koşulun doğru olması gerektiğini bilir. `If / Else` ifadeleri, bütün bölümleri sadece bir şey doğruysa çalıştırarak programlamada esneklik sağlar, aksi halde bu döngüler başka bir şey çalıştırır.
@@ -6418,7 +6418,7 @@ tr:
             Functions in Artist:
               name: Sanatçı- Fonksiyonlar
               description_student: Fonksiyonlar ile daha karmaşık çizimleri daha kolay yapın!
-              description_teacher: Öğrenciler Code.org' da fonksiyonları kullanmayı öğrenirler. Aktörler içinde fonksiyonları kullanarak muhteşem görüntüler oluşturacak ve düzenleyecekler. Daha karmaşık desenler için, öğrenciler, bir fonksiyonun içinde çağrılan başka bir fonksiyonu öğrenecekler.
+              description_teacher: Öğrenciler Letron' da fonksiyonları kullanmayı öğrenirler. Aktörler içinde fonksiyonları kullanarak muhteşem görüntüler oluşturacak ve düzenleyecekler. Daha karmaşık desenler için, öğrenciler, bir fonksiyonun içinde çağrılan başka bir fonksiyonu öğrenecekler.
             Functions in Bee:
               name: Arı fonksiyonları
               description_student: Nektarın ve balın tamamını toplamak için çok fazla kod yazmayın. Onun yerine fonksiyonları kullanın!
@@ -6436,15 +6436,15 @@ tr:
             The Design Process:
               name: Tasarım işlemi
               description_student: Bu büyük projeler zaman alıyor ve çok planlanıyor. Burada, kendi tasarımınızı oluşturmak için kullanacağınız tasarım sürecini öğreneceksiniz.
-              description_teacher: Dört ders süresince, öğrenciler programlama ortamı olarak Play Lab'ı ya da Artist kullanarak kendi tasarımlarının bir projesini programlamak üzere inşa edileceklerdir. Projenin bu bölümünde, öğrenciler tasarım sürecini ve projelerini kendi projelerinde nasıl uygulayacaklarını öğreneceklerdir. Sürecin dört aşamasının tamamı için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Dört ders süresince, öğrenciler programlama ortamı olarak Play Lab'ı ya da Artist kullanarak kendi tasarımlarının bir projesini programlamak üzere inşa edileceklerdir. Projenin bu bölümünde, öğrenciler tasarım sürecini ve projelerini kendi projelerinde nasıl uygulayacaklarını öğreneceklerdir. Sürecin dört aşamasının tamamı için ders rehberi, bu proje sürecinin ilk aşamasında bulunabilir (https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Projenizi oluşturun
               description_student: Bol kodlama için elleri hazırla! Projenizi oluşturmaya başlamanın zamanı geldi.
-              description_teacher: Dört ders süresince, programlama ortamı olarak Oyun Laboratuvarı veya Sanatçı'yı kullanarak öğrenciler kendi tasarımları olan projelerini programlamayı öğrenecekler. Şimdi öğrencilere, Sanatçı veya Oyun Laboratuvarı'nı kullanarak projelerini oluşturmaları için kendi alanları verilecek. Sürecin tüm dört aşaması için ders rehberi bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Dört ders süresince, programlama ortamı olarak Oyun Laboratuvarı veya Sanatçı'yı kullanarak öğrenciler kendi tasarımları olan projelerini programlamayı öğrenecekler. Şimdi öğrencilere, Sanatçı veya Oyun Laboratuvarı'nı kullanarak projelerini oluşturmaları için kendi alanları verilecek. Sürecin tüm dört aşaması için ders rehberi bu proje sürecinin ilk aşamasında bulunabilir [here](https://curriculum.letron.vip/csf/coursee/12/).
             Present Your Project:
               name: Projeni sun
               description_student: Göstermeye hazır ol! Bitirdiğiniz projeyi akranlarınıza sunma zaman.
-              description_teacher: Dört ders boyunca, öğrenciler, programlama ortamı olarak Play Lab ya da Sanatçı' yı kullanarak kendi tasarımlarını kullandıkları bir projeyi oluşturacaklar. Sonunda, öğrenciler, bitirdikleri çalışmalarını kendi akranlarıyla ya da sevdikleriyle özel bir bağlantıyla paylaşabilecekler. Sürecin dört aşamasının tamamının ders rehberi, proje sürecinin ilk aşamasından bulunabilir. [burada](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Dört ders boyunca, öğrenciler, programlama ortamı olarak Play Lab ya da Sanatçı' yı kullanarak kendi tasarımlarını kullandıkları bir projeyi oluşturacaklar. Sonunda, öğrenciler, bitirdikleri çalışmalarını kendi akranlarıyla ya da sevdikleriyle özel bir bağlantıyla paylaşabilecekler. Sürecin dört aşamasının tamamının ders rehberi, proje sürecinin ilk aşamasından bulunabilir. [burada](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               name: İnternet
               description_student: İnternet üzerinde bilginin nasıl seyahat ettiğini hiç merak ettiniz mi? Bu sihir değil! Bu ders, size, internetin nasıl çalıştığının temellerini öğretecek.
@@ -6551,7 +6551,7 @@ tr:
             Present Your Project:
               name: Projeni sun
               description_student: Çalışmanızı gösterme zamanı! Burada, akranlarınıza, muhteşem projenizi sunacaksınız.
-              description_teacher: Beş ders süresince, öğrenciler programlama ortamı olarak Oyun Labaratuvarını veya Sanatçıyı kullanarak kendi tasarımları olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek. Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen ders rehberi, proje sürecinin başında, [here](https://curriculum.code.org/csf/coursef/15/) bulunabilir.
+              description_teacher: Beş ders süresince, öğrenciler programlama ortamı olarak Oyun Labaratuvarını veya Sanatçıyı kullanarak kendi tasarımları olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek. Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen ders rehberi, proje sürecinin başında, [here](https://curriculum.letron.vip/csf/coursef/15/) bulunabilir.
             Conditionals with Cards:
               name: Kartlarla Koşullu Önermeler
         csp1-2018:
@@ -6800,7 +6800,7 @@ tr:
             Unit 2 Chapter 2 Assessment:
               name: Ünite 2 Bölüm 2 değerlendirme
         csp3-2018:
-          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.code.org/c/csp/updates."
+          description: "Bu ünite, zengin içerikli etkileşimli uygulamalar yapma yeteneğini ortaya çıkaran bilgisayar programlamasının temel kavramlarını öğretir. Bu kurs programlama dili olarak JavaScript ve uygulama yapmak için programlama ortamı olarak Uygulama Laboratuvarını kullanır ancak bu derslerde öğrenilen kavramlar tüm programlama dilleri ve araçları için geçerlidir.\\r\n\\r\nBu ünite en son 30 Ekim 2017 tarihinde güncellenmiştir. Ders planı güncellemeleriyle ilgili daha fazla bilgi için: forum.letron.vip/c/csp/updates."
           description_short: Programlama
           stages:
             The Need For Programming Languages:
@@ -6830,7 +6830,7 @@ tr:
             Creating Functions with Parameters:
               name: Parametreli Fonksiyonlar yaratma
         csp-explore-2018:
-          description: "Bu dersler,AP Araştırma Performans Görevini anlamanıza, bunun için hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır.Her \"ders\", öğretmeninizin sizin gözden geçirmenize  yardımcı olabileceği yardımcı belgelerle olan bağlantıları içerir.NOT: Birinci derste yer alan ikinci öğe Araştırma PT ile doğrudan alakalı değildir, fakat genel teknoloji kurulumunu ve yapmanız gereken  Araştırma ve Oluşturma görevlerinin çeşitli unsurlarının araçlarını kapsar.\\r\n\\r\nBu ünite en son  Kasım 2017'de güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.code.org/c/csp/updates adresinden alabilirsiniz."
+          description: "Bu dersler,AP Araştırma Performans Görevini anlamanıza, bunun için hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır.Her \"ders\", öğretmeninizin sizin gözden geçirmenize  yardımcı olabileceği yardımcı belgelerle olan bağlantıları içerir.NOT: Birinci derste yer alan ikinci öğe Araştırma PT ile doğrudan alakalı değildir, fakat genel teknoloji kurulumunu ve yapmanız gereken  Araştırma ve Oluşturma görevlerinin çeşitli unsurlarının araçlarını kapsar.\\r\n\\r\nBu ünite en son  Kasım 2017'de güncellendi. Müfredat güncellemeleri hakkında daha fazla bilgiyi forum.letron.vip/c/csp/updates adresinden alabilirsiniz."
           stages:
             Explore PT Prep - Reviewing the Task:
               name: Performans Görevi Hazırlığı Keşfet - Görevi Gözden Geçirme
@@ -6839,7 +6839,7 @@ tr:
             Explore PT - Complete the Task:
               name: Performans Gorevini Kesfet - Görevi Tamamla
         csp-create-2018:
-          description: "Bu dersler, AP Performans ödevini anlamanıza, hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır. Her “ders”, öğretmeninizin size her yönüyle yardım edebileceği yardımcı belgelerle bağlantılar içerir. \nNOT: birinci dersteki ilk öge, doğrudan PT Oluşturma ile ilgili değildir, ancak hem Keşfet hem de Oluştur görevlerinin çeşitli ögelerini yapmanız için gerekli olan genel teknik kurulumu ve araçları kapsar.\\r\n\\r\nBu birim son olarak Aralık, 2017 ‘de güncellendi. Müfredat güncellemeleri hakkında forum.code.org/c/csp/updates adresinden devamını okuyunuz."
+          description: "Bu dersler, AP Performans ödevini anlamanıza, hazırlanmanıza ve yapmanıza yardımcı olmak için buradadır. Her “ders”, öğretmeninizin size her yönüyle yardım edebileceği yardımcı belgelerle bağlantılar içerir. \nNOT: birinci dersteki ilk öge, doğrudan PT Oluşturma ile ilgili değildir, ancak hem Keşfet hem de Oluştur görevlerinin çeşitli ögelerini yapmanız için gerekli olan genel teknik kurulumu ve araçları kapsar.\\r\n\\r\nBu birim son olarak Aralık, 2017 ‘de güncellendi. Müfredat güncellemeleri hakkında forum.letron.vip/c/csp/updates adresinden devamını okuyunuz."
           stages:
             Create PT Prep - Reviewing the Task:
               name: Performans Görevi Hazırlığı Oluştur - Görevi Gözden Geçirme
@@ -7188,7 +7188,7 @@ tr:
             Present Your Project:
               name: Projeni sun
               description_student: Çalışmanızı gösterme zamanı! Burada, akranlarınıza, muhteşem projenizi sunacaksınız.
-              description_teacher: Beş ders süresince, öğrenciler programlama ortamı olarak Oyun Labaratuvarını veya Sanatçıyı kullanarak kendi tasarımları olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek. Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen ders rehberi, proje sürecinin başında, [here](https://curriculum.code.org/csf/coursef/15/) bulunabilir.
+              description_teacher: Beş ders süresince, öğrenciler programlama ortamı olarak Oyun Labaratuvarını veya Sanatçıyı kullanarak kendi tasarımları olan bir proje oluşturmaya başlayacaklardır.Şimdi öğrencilere Sanatçı ya da Oyun Laboratuvarı ile projelerini yaratacakları alanlar verilecek. Bu projenin en uzun bölümü olacak.Sürecin beş aşamasını da inceleyen ders rehberi, proje sürecinin başında, [here](https://curriculum.letron.vip/csf/coursef/15/) bulunabilir.
             new stage:
               name: yeni kademe
         dance-low:

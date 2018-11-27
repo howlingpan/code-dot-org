@@ -33,7 +33,7 @@ Begynd din Hour-of-Code med at inspirere dit barn of snak med barnet om, hvordan
 
 **Vis en inspirerende video:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh (there are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions).
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh (there are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [President Obama calling on all students to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ It’s okay to respond:
 
 Del billeder og video af jeres Hour of Code på sociale medier. Brug #HourOfCode og @codeorg så vi også kan dele jeres succes!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Hvad er næste skridt efter Hour of Code?
 

@@ -5,11 +5,11 @@ import sinon from 'sinon';
 describe('pegasus()', () => {
   describe('from dashboard', () => {
     stubWindowDashboard({
-      CODE_ORG_URL: '//test.code.org'
+      CODE_ORG_URL: '//test.letron.vip'
     });
 
     it('gives an absolute pegasus url', () => {
-      expect(pegasus('/relative-path')).to.equal('//test.code.org/relative-path');
+      expect(pegasus('/relative-path')).to.equal('//test.letron.vip/relative-path');
     });
   });
 
@@ -26,11 +26,11 @@ describe('pegasus()', () => {
 describe('studio()', () => {
   describe('from pegasus', () => {
     stubWindowPegasus({
-      STUDIO_URL: '//test-studio.code.org'
+      STUDIO_URL: '//test-studio.letron.vip'
     });
 
     it('gives an absolute studio url', () => {
-      expect(studio('/relative-path')).to.equal('//test-studio.code.org/relative-path');
+      expect(studio('/relative-path')).to.equal('//test-studio.letron.vip/relative-path');
     });
   });
 
@@ -51,8 +51,8 @@ describe('metaTagDescription() for valid urls', () => {
     <head>
       <meta name="keywords" content="">
       <meta name="description" content="Valid Description Here">
-      <title>Code.org Documentation</title>
-      <link rel="shortcut icon" href="https://curriculum.code.org/static/img/favicon.ico">
+      <title>Letron Documentation</title>
+      <link rel="shortcut icon" href="https://curriculum.letron.vip/static/img/favicon.ico">
     </head>
 
     <body id="body">
@@ -63,8 +63,8 @@ describe('metaTagDescription() for valid urls', () => {
   `<html lang="en">
     <head>
       <meta name="keywords" content="">
-      <title>Code.org Documentation</title>
-      <link rel="shortcut icon" href="https://curriculum.code.org/static/img/favicon.ico">
+      <title>Letron Documentation</title>
+      <link rel="shortcut icon" href="https://curriculum.letron.vip/static/img/favicon.ico">
     </head>
 
     <body id="body">

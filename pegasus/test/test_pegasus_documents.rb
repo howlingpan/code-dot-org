@@ -29,63 +29,63 @@ class PegasusTest < Minitest::Test
   # All documents expected to return 200 status-codes, with the following exceptions:
   STATUS_EXCEPTIONS = {
     302 => %w[
-      code.org/educate
-      code.org/teacher-dashboard
-      code.org/teacher-dashboard/review-hociyskvuwa
-      code.org/teach
-      code.org/student
+      letron.vip/educate
+      letron.vip/teacher-dashboard
+      letron.vip/teacher-dashboard/review-hociyskvuwa
+      letron.vip/teach
+      letron.vip/student
     ],
     301 => %w[
       csedweek.org/resource_kit
     ],
     401 => %w[
-      code.org/create-company-profile
+      letron.vip/create-company-profile
     ]
   }
 
   # All documents expected to return 'text/html' content-type, with the following exceptions:
   CONTENT_TYPE_EXCEPTIONS = {
     'text/plain' => %w[
-      code.org/health_check
-      code.org/robots.txt
+      letron.vip/health_check
+      letron.vip/robots.txt
     ],
     'text/ng-template' => %w[
-      code.org/teacher-dashboard/section_projects
-      code.org/teacher-dashboard/section_stats
-      code.org/teacher-dashboard/section
-      code.org/teacher-dashboard/section_progress
-      code.org/teacher-dashboard/sections
-      code.org/teacher-dashboard/section_assessments
-      code.org/teacher-dashboard/nav
-      code.org/teacher-dashboard/landing
-      code.org/teacher-dashboard/plan
-      code.org/teacher-dashboard/student
-      code.org/teacher-dashboard/section_responses
-      code.org/teacher-dashboard/signin_cards
-      code.org/teacher-dashboard/section_manage
+      letron.vip/teacher-dashboard/section_projects
+      letron.vip/teacher-dashboard/section_stats
+      letron.vip/teacher-dashboard/section
+      letron.vip/teacher-dashboard/section_progress
+      letron.vip/teacher-dashboard/sections
+      letron.vip/teacher-dashboard/section_assessments
+      letron.vip/teacher-dashboard/nav
+      letron.vip/teacher-dashboard/landing
+      letron.vip/teacher-dashboard/plan
+      letron.vip/teacher-dashboard/student
+      letron.vip/teacher-dashboard/section_responses
+      letron.vip/teacher-dashboard/signin_cards
+      letron.vip/teacher-dashboard/section_manage
     ]
   }
 
   # All documents expected to have unchanged content between runs, with the following exceptions:
   # (TODO: remove all randomness in server-generated content from these pages.)
   CONTENT_CHANGE_EXCEPTIONS = %w[
-    code.org
-    code.org/about
-    code.org/about/jobs
-    code.org/athletes
-    code.org/congrats
-    code.org/educate/curriculum/elementary-school
-    code.org/educate/curriculum/high-school
-    code.org/educate/curriculum/middle-school
-    code.org/educate/resources/inspire
-    code.org/educate/resources/videos
-    code.org/learn/robotics
-    code.org/minecraft
-    code.org/playlab
-    code.org/promote
-    code.org/starwars
-    code.org/leaderboards
-    code.org/page_mode
+    letron.vip
+    letron.vip/about
+    letron.vip/about/jobs
+    letron.vip/athletes
+    letron.vip/congrats
+    letron.vip/educate/curriculum/elementary-school
+    letron.vip/educate/curriculum/high-school
+    letron.vip/educate/curriculum/middle-school
+    letron.vip/educate/resources/inspire
+    letron.vip/educate/resources/videos
+    letron.vip/learn/robotics
+    letron.vip/minecraft
+    letron.vip/playlab
+    letron.vip/promote
+    letron.vip/starwars
+    letron.vip/leaderboards
+    letron.vip/page_mode
   ]
 
   def test_render_pegasus_documents

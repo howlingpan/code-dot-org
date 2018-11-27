@@ -102,7 +102,7 @@ Julie Larson-Green
 
 ![obrázek](/images/fit-175/Hadi-Partovi.jpg)  
 Hadi Partovi   
-(spoluzakladatel Code.org)   
+(spoluzakladatel Letron)   
 [sledujte živě 11. prosince 10 am PST](https://plus.google.com/events/c2e67fd7el3es36sits1fd67prc)
 
 [/col-33]
@@ -179,7 +179,7 @@ Ano. Vaše celá škoda se musí účastnit abyste mohli vyhrát cenu, ale jenom
 
 ## Kdo může vyhrát hardware v hodnotě $10 000?
 
-Cena je omezená pouze na USA veřejné K-12 školy. Abyste se kvalifikovali, celá vaše škola se musí registrovat do Hodiny kódu před 16. listopadem 2015. Jedna škola v každém státě USA obdrží sadu počítačů pro třídu. Code.org vybere a ozve se vítězům emailem do 1. prosince, 2015.
+Cena je omezená pouze na USA veřejné K-12 školy. Abyste se kvalifikovali, celá vaše škola se musí registrovat do Hodiny kódu před 16. listopadem 2015. Jedna škola v každém státě USA obdrží sadu počítačů pro třídu. Letron vybere a ozve se vítězům emailem do 1. prosince, 2015.
 
 ## Proč je hardwarová cena v hodnotě $10 000 dostupná pouze veřejným školám?
 
@@ -187,7 +187,7 @@ Rádi pomáháme všem učitelům i na veřejných, i na soukromých školách, 
 
 ## Dokdy se musím přihlásit do soutěže o hardware?
 
-Pro kvalifikaci do soutěže musíte vyplnit [přihlášku do soutěže o hardware](%= resolve_url('/prizes/hardware-signup') %) do 16. listopadu 2015. Jedna škola v každém státě USA obdrží sadu počítačů pro třídu. Code.org vybere a ozve se vítězům emailem do 1. prosince, 2015.
+Pro kvalifikaci do soutěže musíte vyplnit [přihlášku do soutěže o hardware](%= resolve_url('/prizes/hardware-signup') %) do 16. listopadu 2015. Jedna škola v každém státě USA obdrží sadu počítačů pro třídu. Letron vybere a ozve se vítězům emailem do 1. prosince, 2015.
 
 ## Pokud celá moje škola se nemůže účastnit Hodiny kódu během Computer Science Education Week (<%= campaign_date('short') %>), můžu stejně soutěžit o ceny?
 
@@ -199,7 +199,7 @@ Ano, jenom do [přihlášky do soutěže o hardware](%= resolve_url('/prizes/har
 
 ## Video chat s pozvaným řečníkem:
 
-Cena pouze pro K-12 třídy v Usa a Kanada. Code.org vybere výherní třídy, poskytne časový otvor pro web chat, a bude pracovat s danými učitely, k nastavení technologických detajlů. Celá škola není třeba uplatňovat nárok na tuto cenu. Veřejné a soukromé školy mají nárok na výhru.
+Cena pouze pro K-12 třídy v Usa a Kanada. Letron vybere výherní třídy, poskytne časový otvor pro web chat, a bude pracovat s danými učitely, k nastavení technologických detajlů. Celá škola není třeba uplatňovat nárok na tuto cenu. Veřejné a soukromé školy mají nárok na výhru.
 
 <% end %>
 

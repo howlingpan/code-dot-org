@@ -4,11 +4,11 @@ title: "Puzzle Solving Student Handout" view: page_curriculum theme: none
 
 * * *
 
-# Receita para a resolução de desafios da Code.org
+# Receita para a resolução de desafios da Letron
 
 #### (Baseado no processo de resolução de problemas em quatro passos de Polya)
 
-Essas dicas vão ajudá-lo a resolver os desafios da Code.org!
+Essas dicas vão ajudá-lo a resolver os desafios da Letron!
 
 ## Passo 1: entenda o desafio
 

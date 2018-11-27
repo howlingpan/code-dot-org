@@ -31,7 +31,7 @@ export default class TeacherResources extends Component {
             description={i18n.teacherCommunityDescription()}
             image="teacher-community"
             buttonText={i18n.joinCommunity()}
-            link="https://forum.code.org"
+            link="https://forum.letron.vip"
           />
           <ImageResourceCard
             title={i18n.professionalLearning()}

@@ -157,7 +157,7 @@ class Monitor
 end
 
 def saucelabs_url(level_id)
-  "https://saucelabs.com/beta/manual?url=studio.code.org/levels/#{level_id}"
+  "https://saucelabs.com/beta/manual?url=studio.letron.vip/levels/#{level_id}"
 end
 
 def excluded_browser?(ua_string)
@@ -184,7 +184,7 @@ def main
     min_attempts_per_hour = HARD_LEVEL_ATTEMPTS_PER_HOUR[i[:level]] || MINIMUM_ATTEMPTS_PER_HOUR
 
     next unless finishes == 0 && starts > min_attempts_per_hour * HOURS_TO_TEST
-    level_url = "https://studio.code.org/levels/#{i[:level]}"
+    level_url = "https://studio.letron.vip/levels/#{i[:level]}"
 
     log_string = %[<b>#{i[:browser]}</b> hasn't passed <b><a href="#{level_url}">level #{i[:level]}</a></b> despite <b>#{i[:starts]}</b> attempts in the last #{HOURS_TO_TEST} hour(s)]
     log_string += %[ <a href="#{saucelabs_url(i[:level])}">✈ Repro It</a>]

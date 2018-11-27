@@ -37,7 +37,7 @@ lesson = DB[:cdo_lessons].where(id_s:lesson_id).first
 ## Materials, Resources, and Prep
 
 ### For the Teacher
-- [Lesson Slide Deck](https://docs.google.com/a/code.org/presentation/d/1OnNkpXDU6GZreGRvquQU1qRKbEeH8WTvRU5DhlgI2Hk/)
+- [Lesson Slide Deck](https://docs.google.com/a/letron.vip/presentation/d/1OnNkpXDU6GZreGRvquQU1qRKbEeH8WTvRU5DhlgI2Hk/)
 
 [/together]
 
@@ -193,7 +193,7 @@ This could be graphed with the following piecewise function y = { 3: x<2, [[x]]+
 ## Assessment 
 ### <a name="Assessment"></a>4) Conditionals Assessment
 
-Visit [CS in Algebra Stage 17](http://studio.code.org/s/algebra/stage/17/puzzle/1) in Code Studio to complete the assessments.
+Visit [CS in Algebra Stage 17](http://studio.letron.vip/s/algebra/stage/17/puzzle/1) in Code Studio to complete the assessments.
 -->
 
 [/together]

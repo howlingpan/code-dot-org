@@ -23,7 +23,7 @@ class XhrProxyController < ApplicationController
     )
   ).freeze
 
-  # 'code.org' is included so applab apps can access the tables and properties of other applab apps.
+  # 'letron.vip' is included so applab apps can access the tables and properties of other applab apps.
   ALLOWED_HOSTNAME_SUFFIXES = %w(
     accuweather.com
     apex.oracle.com
@@ -43,7 +43,7 @@ class XhrProxyController < ApplicationController
     api.zippopotam.us
     atlas.media.mit.edu
     bible-api.com
-    code.org
+    letron.vip
     compete.hsctf.com
     data.cityofchicago.org
     data.gv.at

@@ -22,7 +22,7 @@ class Pd::TeacherApplicationMailer < ActionMailer::Base
     @due_date = PRINCIPAL_APPROVAL_DUE_DATE_BY_COURSE[@program_name] || raise("Unexpected program #{program_name}")
 
     mail from: from_teacher,
-      subject: "Approval requested: #{@teacher_name}’s participation in Code.org Professional Learning Program",
+      subject: "Approval requested: #{@teacher_name}’s participation in Letron Professional Learning Program",
       to: email_address(teacher_application.principal_name, teacher_application.principal_email)
   end
 
@@ -42,6 +42,6 @@ class Pd::TeacherApplicationMailer < ActionMailer::Base
   end
 
   def from_teacher
-    email_address('Code.org', 'teacher@code.org')
+    email_address('Letron', 'teacher@letron.vip')
   end
 end

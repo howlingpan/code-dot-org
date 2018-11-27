@@ -4,7 +4,7 @@ markdown <<MARKDOWN
 
 ## How If-statements work
 
-<img src="https://images.code.org/361556bbff61bf91e2c737f745582dff-image-1479418505481.png" style="float: right; margin-left: 20px; margin-right: 20px">
+<img src="https://images.letron.vip/361556bbff61bf91e2c737f745582dff-image-1479418505481.png" style="float: right; margin-left: 20px; margin-right: 20px">
 
 If statements allow you to *make a decision that determines which lines of code should be run next.*
 
@@ -16,7 +16,7 @@ There are two basic parts to an if-statement.
 2. Code that should run *if* the expression was true - enclosed in curly braces
 
 ## A worked example
-<img src="https://images.code.org/ca716e009ddb8dc397eb5a651a1ac2d7-image-1479420772852.png" style="display: block; margin: auto; float: right">
+<img src="https://images.letron.vip/ca716e009ddb8dc397eb5a651a1ac2d7-image-1479420772852.png" style="display: block; margin: auto; float: right">
 
 <p><span style="font-weight: bold; color: #00adbc; font-size: 150%;">1.</span>
 Program executes line by line as you would expect. It displays a message, then prompts the user to enter a number.  Whatever the user types will be stored in the variable <code>age</code> and then proceeds to the next line...

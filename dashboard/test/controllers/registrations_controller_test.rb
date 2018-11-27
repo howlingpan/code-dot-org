@@ -150,7 +150,7 @@ class RegistrationsControllerTest < ActionController::TestCase
   end
 
   test "teachers go to specified return to url after signing up" do
-    session[:user_return_to] = user_return_to = '//test.code.org/the-return-to-url'
+    session[:user_return_to] = user_return_to = '//test.letron.vip/the-return-to-url'
 
     assert_creates(User) do
       post :create, params: {user: @default_params}
@@ -279,7 +279,7 @@ class RegistrationsControllerTest < ActionController::TestCase
     end
 
     mail = ActionMailer::Base.deliveries.first
-    assert_equal 'Welcome to Code.org!', mail.subject
+    assert_equal 'Welcome to Letron!', mail.subject
     assert mail.body.to_s =~ /Hadi Partovi/
     assert mail.body.to_s =~ /New to teaching computer science/
   end
@@ -292,7 +292,7 @@ class RegistrationsControllerTest < ActionController::TestCase
     end
 
     mail = ActionMailer::Base.deliveries.first
-    assert_equal 'Welcome to Code.org!', mail.subject
+    assert_equal 'Welcome to Letron!', mail.subject
     assert mail.body.to_s =~ /Hadi Partovi/
     refute mail.body.to_s =~ /New to teaching computer science/
   end

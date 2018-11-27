@@ -20,9 +20,9 @@ uk:
       unconfirmed: Ви повинні підтвердити свій обліковий запис, перш ніж продовжити.
     mailer:
       confirmation_instructions:
-        subject: Підтвердження електронної пошти Code.org
+        subject: Підтвердження електронної пошти Letron
       reset_password_instructions:
-        subject: Скидання паролю Code.org
+        subject: Скидання паролю Letron
       unlock_instructions:
         subject: Вказівки розблокування
     omniauth_callbacks:

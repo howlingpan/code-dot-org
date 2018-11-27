@@ -41,7 +41,7 @@ Hour of Code를 경험하기 위한 최고의 선택은 인터넷이 연결된 �
 
 **영감을 주는 동영상을 보여주세요:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Hour of Code를 경험하기 위한 최고의 선택은 인터넷이 연결된 �
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - 여러분의 학생들을 위한 ["나는 Hour of Code를 해냈다!"라는 스티커를 인쇄하세요.](%= resolve_url('/promote/resources#stickers') %)
-- [행사 T-셔츠 주문](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) 하기.
+- [행사 T-셔츠 주문](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) 하기.
 - 소셜 미디어에 여러분의 Hour of Code 이벤트 사진이나 동영상을 공유하세요. #HourOfCode 와 @codeorg를 이용하면 우리도 여러분의 성공을 강조할 수 있어요.
 
 [col-33]
@@ -98,8 +98,8 @@ Hour of Code를 경험하기 위한 최고의 선택은 인터넷이 연결된 �
 
 ## 교육자를 위한 다른 Hour of Code 리소스들
 
-- 다른 교육자들로부터 조언, 통찰력, 지원을 얻을 수 있는 [Hour of Code 교사 포럼](http://forum.code.org/c/plc/hour-of-code)을 방문하세요. <% if @country == 'us' %>
-- [Hour of Code의 FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)를 검토해보세요. <% end %>
+- 다른 교육자들로부터 조언, 통찰력, 지원을 얻을 수 있는 [Hour of Code 교사 포럼](http://forum.letron.vip/c/plc/hour-of-code)을 방문하세요. <% if @country == 'us' %>
+- [Hour of Code의 FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)를 검토해보세요. <% end %>
 
 ## Hour of Code 이후에는 어떤 것들이 있나요?
 

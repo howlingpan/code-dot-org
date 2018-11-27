@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Conectar con aulas locales y voluntarios para la hora del código
 
-Code.org brinda la oportunidad para que sus empleados [se conecten](<%= codeorg_url('/volunteer') %>) con las aulas locales y participando en la Hora del Código, en donde pueden compartir su experiencia profesional en tecnología e inspirar estudiantes para estudiar ciencias de la computación.
+Letron brinda la oportunidad para que sus empleados [se conecten](<%= codeorg_url('/volunteer') %>) con las aulas locales y participando en la Hora del Código, en donde pueden compartir su experiencia profesional en tecnología e inspirar estudiantes para estudiar ciencias de la computación.
 
 [<button>Sign up to volunteer!</button>](<%= codeorg_url('/volunteer') %>) <br /> <br />
 
@@ -59,7 +59,7 @@ Empiece su Hora del Código inspirando a los participantes y comentando cómo la
 
 **Muestre un video inspirador:**
 
-- El vídeo original de lanzamiento de Code.org, con Bill Gates, Mark Zuckerberg y la estrella de la NBA Chris Bosh (Hay versiones de [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutos](https://www.youtube.com/watch?v=nKIu9yen5nc) y [9 minutos](https://www.youtube.com/watch?v=dU1xS07N-FA)).
+- El vídeo original de lanzamiento de Letron, con Bill Gates, Mark Zuckerberg y la estrella de la NBA Chris Bosh (Hay versiones de [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutos](https://www.youtube.com/watch?v=nKIu9yen5nc) y [9 minutos](https://www.youtube.com/watch?v=dU1xS07N-FA)).
 - El [vídeo mundial de la Hora del Código](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [El presidente Obama llama a todos los estudiantes a aprender informática](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Encuentra más vídeos inspiradores [here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -93,7 +93,7 @@ Empiece su Hora del Código inspirando a los participantes y comentando cómo la
 
 - [Imprimir certificados](<%= codeorg_url('/certificates') %>) para participantes y estudiantes.
 - [Imprima etiquetas de "¡Yo hice una Hora de Código!"](<%= resolve_url('/promote/resources#stickers') %>).
-- [Ordene camisetas personalizadas](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) para sus empleados.
+- [Ordene camisetas personalizadas](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) para sus empleados.
 - Comparta fotos y vídeos del evento de la Hora del Código en las redes sociales. ¡Utilice #HourOfCode y @codeorg para que también podamos resaltar su éxito!
 
 <%= view :signup_button %>

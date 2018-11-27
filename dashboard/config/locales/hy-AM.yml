@@ -43,7 +43,7 @@ hy:
   add_hint_form:
     placeholder: Խնդրում ենք մուտքագրել Ձեր ակնարկ այստեղ
     submit: Ավելացնել ակնարկ
-  appname: Code.org
+  appname: Letron
   stage: փուլ
   stage_number: Stage %{number}
   puzzle: վարանում
@@ -67,7 +67,7 @@ hy:
   auth:
     sign_in_with: Sign in with %{provider}
     signed_in: Ստորագրվել է!
-    signed_out: 'Դուք դուրս կգաք <a href=%{url}> Code.org </a>:'
+    signed_out: 'Դուք դուրս կգաք <a href=%{url}> Letron </a>:'
     sign_out_of: You used %{provider} to sign in. <a href="%{url}">Click here</a>
       to sign out of %{provider}.
     already_signedup: 'Արդեն ստորագրել:'
@@ -135,9 +135,9 @@ hy:
       confirm_password: Հաստատեք նոր գաղտնաբառը
       submit: Փոխել իմ գաղտնաբառը
   welcome_email:
-    subject: Գրանցման իմ դասարանում է (Code.org)
+    subject: Գրանցման իմ դասարանում է (Letron)
     body: |
-      Click the link below to sign up for computer science tutorials on Code.org (with me as your teacher):
+      Click the link below to sign up for computer science tutorials on Letron (with me as your teacher):
 
       %{link}
 
@@ -163,7 +163,7 @@ hy:
       cant_join_own_section: 'Ներեցեք, Դուք հակում միանալ ձեր սեփական բաժինը:'
     mail:
       student_disassociated:
-        subject: 'Code.org notification: %{student_name} is no longer associated as
+        subject: 'Letron notification: %{student_name} is no longer associated as
           your student.'
   reports:
     error:
@@ -259,7 +259,7 @@ hy:
     tried: փորձել
   home:
     title: Code Studio
-    description: Կոդ Studio տունն է առցանց դասընթացների ստեղծած Code.org
+    description: Կոդ Studio տունն է առցանց դասընթացների ստեղծած Letron
     lines_of_code: "%{lines_count} LINES OF CODE WRITTEN BY STUDENTS"
     lines_of_code_linebreak: "%{lines_count} LINES OF CODE<br/>WRITTEN BY %{students_count}
       MILLION STUDENTS"
@@ -284,7 +284,7 @@ hy:
     student_stats: Youve earned %{trophy_count} out of %{trophy_max} Concept Mastery
       trophies.
     student_left_off: 'Որտեղ դուք թողել դուրս:'
-    student_finished: You've completed all Code.org tutorials. Pick another class
+    student_finished: You've completed all Letron tutorials. Pick another class
       %{online_link} or at a %{local_school_link}.
     local_school: տեղական դպրոց
     online: առցանց
@@ -294,7 +294,7 @@ hy:
       միայն) 'մինչեւ $ 1,000 դասարանում պարգեւներով.
     tryfirst: 'Կամ, Դուք կարող եք փորձել այն առաջին, եւ ստորագրել մինչեւ ուշ:'
     trynow: Փորձել հիմա
-    add_hint_help: Խնդրում ենք օգնել մեզ է ավելացնել խելացի ակնարկներ Code.org ճանապարհները
+    add_hint_help: Խնդրում ենք օգնել մեզ է ավելացնել խելացի ակնարկներ Letron ճանապարհները
     20hour_overview: Այս 20-ժամյա դասընթացը ներկայացնում է հիմնական համակարգչային
       գիտության եւ ծրագրավորման հասկացությունները. Դասընթացը նախատեսված է օգտագործման
       համար դասարանների համար դասարանների K-8, բայց դա հաճելի է իմանալ, թե բոլոր տարիքի.
@@ -348,10 +348,10 @@ hy:
     student: Աշակերտ
     teacher: Teacher
   footer:
-    thank_you: 'Մենք շնորհակալ ենք մեր <a href=https://code.org/about/donors> դոնորներ
-      </a>, <a href=https://code.org/about/partners> գործընկերները </a>, մեր <ա href
-      = https: //code.org/about/team> երկարաձգվել թիմը </a>, մեր video Դերերում, եւ
-      մեր <a href=https://code.org/about/advisors> կրթության խորհրդականները </a> համար
+    thank_you: 'Մենք շնորհակալ ենք մեր <a href=https://letron.vip/about/donors> դոնորներ
+      </a>, <a href=https://letron.vip/about/partners> գործընկերները </a>, մեր <ա href
+      = https: //letron.vip/about/team> երկարաձգվել թիմը </a>, մեր video Դերերում, եւ
+      մեր <a href=https://letron.vip/about/advisors> կրթության խորհրդականները </a> համար
       նրանց աջակցությունը ստեղծել Code Studio.'
     help_from_html: 'Մենք հատկապես ուզում ենք ճանաչել ճարտարագետներ են Google- ը,
       Microsoft- ը, Facebook- ը, Twitter- ը, եւ շատ ուրիշներ, ովքեր օգնեց ստեղծել
@@ -374,11 +374,11 @@ hy:
       Rights Reserved. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and
       &copy; %{current_year} Cartoon Network.
-    code_from_html: 'Code.org օգտագործում է p5.play, որը լիցենզավորված տակ <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html>
+    code_from_html: 'Letron օգտագործում է p5.play, որը լիցենզավորված տակ <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html>
       է GNU @ item 2.1 </a>:'
     powered_by_aws: Powered by Սայլակ վեբ ծառայություններ
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo and
-      Hour of Code&reg; are trademarks of Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, the CODE logo and
+      Hour of Code&reg; are trademarks of Letron."
     copyright: հեղինակային իրավունք
     more: More
     feedback: ապահովել հետադարձ կապը
@@ -429,7 +429,7 @@ hy:
     flappy_og_title: Check out my Flappy Game
     studio_og_title: Check out my Խաղալ Lab App
     check_out_what_i_made: Ստուգել, ​​թե ինչ եմ արել
-    og_description: Ես գրել եմ, վարքականոնի ինքս ինձ հետ Code.org
+    og_description: Ես գրել եմ, վարքականոնի ինքս ինձ հետ Letron
     phone_number_not_allowed: 'Կարծես կա հեռախոսահամար դրան: Փորձեք փոխել տեքստը.'
     address_not_allowed: 'Կարծես կա հասցեն դրան: Փորձեք փոխել տեքստը.'
     email_not_allowed: 'Կարծես կա Փոստի դրան: Փորձեք փոխել տեքստը.'
@@ -606,7 +606,7 @@ hy:
     header: Հաշվի Տեղեկությունների թարմացման
     message: 'Էին գործընթացում թարմացնելու մեր փորձը Ձեզ տրամադրել հետ, նույնիսկ ուժեղ
       գաղտնիության պաշտպանության. Որպեսզի դա անել, մենք պետք առկա օգտվողներին մուտք
-      գործել իրենց տարիքը Մականուն: <br/> Ինչպես միշտ, code.org երբեք չի վարձակալել,
+      գործել իրենց տարիքը Մականուն: <br/> Ինչպես միշտ, letron.vip երբեք չի վարձակալել,
       վաճառել կամ կիսվել այս տեղեկատվության հետ որեւէ երրորդ անձանց:'
     sign_out: 'Եթե ​​դուք չեք ցանկանում ձեր տարիքը, դուք կարող եք <a href=%{url}>
       դուրս գալ </a>:'
@@ -622,8 +622,8 @@ hy:
     submit: Հաստատել
     decline: փակել
   zendesk_too_young_message: Ներեցեք, երիտասարդ օգտագործողները չեն կարող մուտք գործել
-    մեր աջակցության կայքում. Դուք կարող եք թերթել <a href=http://support.code.org>
-    support.code.org </a> առանց մուտք գործելու, կամ խնդրեք ձեր ծնողի կամ մանկավարժի
+    մեր աջակցության կայքում. Դուք կարող եք թերթել <a href=http://support.letron.vip>
+    support.letron.vip </a> առանց մուտք գործելու, կամ խնդրեք ձեր ծնողի կամ մանկավարժի
     կապնվել մեզ հետ է ձեզ համար.
   progress:
     not_started: չի սկսվել
@@ -678,9 +678,9 @@ hy:
     click_to_remix: 'Սեղմեք Remix է վազել դուրս ձեր սեփական տարբերակը:'
     edit_project: Խմբագրել Project
     abuse:
-      tos: 'Այս ծրագիրն արդեն տեղեկացրել խախտելու համար Code.orgs <a href=http://code.org/tos>
+      tos: 'Այս ծրագիրն արդեն տեղեկացրել խախտելու համար Letrons <a href=http://letron.vip/tos>
         Ծառայության պայմաններ </a> եւ չի կարող կիսել մյուսների հետ:'
-      contact_us: 'Եթե ​​կարծում եք, որ սա սխալ է, խնդրում ենք <a href=https://code.org/contact>
+      contact_us: 'Եթե ​​կարծում եք, որ սա սխալ է, խնդրում ենք <a href=https://letron.vip/contact>
         կապնվել մեզ հետ: </a>'
       go_to_code_studio: Գնալ օրենսգրքի Studio
       report_abuse_form:

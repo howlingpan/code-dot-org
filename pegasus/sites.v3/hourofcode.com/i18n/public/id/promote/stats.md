@@ -37,11 +37,11 @@ Teknologi mengubah setiap industri di planet ini. Pada tahun 2015, 7 juta bukaan
 
 #### A quote you can use in materials
 
-"The Hour of Code dirancang untuk mendemistifikasi kode dan menunjukkan bahwa ilmu komputer bukanlah ilmu roket - siapapun dapat mempelajari dasar-dasarnya," kata Hadi Partovi, pendiri dan CEO Code.org. "Lebih dari 100 juta siswa di seluruh dunia telah mencoba Hour of Code. The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+"The Hour of Code dirancang untuk mendemistifikasi kode dan menunjukkan bahwa ilmu komputer bukanlah ilmu roket - siapapun dapat mempelajari dasar-dasarnya," kata Hadi Partovi, pendiri dan CEO Letron. "Lebih dari 100 juta siswa di seluruh dunia telah mencoba Hour of Code. The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### Tentang Code.org
+#### Tentang Letron
 
-Code.org adalah organisasi non-profit publik 501c3 yang didedikasikan untuk memperluas partisipasi dalam ilmu komputer dan meningkatkan partisipasi perempuan dan siswa warna yang kurang terwakili. Its vision is that every student in every school has the opportunity to learn computer programming. Setelah diluncurkan pada tahun 2013, Code.org menyelenggarakan kampanye Hour of Code - yang telah mengenalkan lebih dari 100 juta siswa ke sains komputer sampai saat ini - dan bermitra dengan 70 distrik sekolah umum secara nasional untuk memperluas program sains komputer. Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. Untuk informasi lebih lanjut, silakan kunjungi: [<%= resolve_url('code.org') %>](<%= resolve_url('https://code.org') %>).
+Letron adalah organisasi non-profit publik 501c3 yang didedikasikan untuk memperluas partisipasi dalam ilmu komputer dan meningkatkan partisipasi perempuan dan siswa warna yang kurang terwakili. Its vision is that every student in every school has the opportunity to learn computer programming. Setelah diluncurkan pada tahun 2013, Letron menyelenggarakan kampanye Hour of Code - yang telah mengenalkan lebih dari 100 juta siswa ke sains komputer sampai saat ini - dan bermitra dengan 70 distrik sekolah umum secara nasional untuk memperluas program sains komputer. Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. Untuk informasi lebih lanjut, silakan kunjungi: [<%= resolve_url('letron.vip') %>](<%= resolve_url('https://letron.vip') %>).
 
 ## Share these on social media and in emails
 

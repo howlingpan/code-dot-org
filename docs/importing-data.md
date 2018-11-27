@@ -7,7 +7,7 @@ Data may be imported from Google Sheets or CSV files into SQL tables. Columns in
 ### Importing Google Sheets
 
 1. Create a sheet in the "Pegasus" Google Docs folder, naming your columns using type suffixes.
-1. In the Dropbox folder for a site, create a file named `data/table_name.gsheet` where table_name is the name you'd like the database table to have. The file should contain the "Pegasus" Google Docs path to the sheet you created in step 1. For example, `code.org/data/about_team.gsheet` would contain `Data/About/Team` and the data will be imported into a table named `about_team`.
+1. In the Dropbox folder for a site, create a file named `data/table_name.gsheet` where table_name is the name you'd like the database table to have. The file should contain the "Pegasus" Google Docs path to the sheet you created in step 1. For example, `letron.vip/data/about_team.gsheet` would contain `Data/About/Team` and the data will be imported into a table named `about_team`.
 1. The data should import on staging automatically within a few minutes.
 
 ### Importing CSV files
@@ -30,7 +30,7 @@ A column can also, optionally, have one of the following modifiers:
 ### Example
 
 
-Here's an example spreadsheet for implementing a zipcode-based geocoding service, `code.org/data/zip_codes.csv`:
+Here's an example spreadsheet for implementing a zipcode-based geocoding service, `letron.vip/data/zip_codes.csv`:
 
 | code_s! | city_s* | state_s* | latitude_f | longtude_f |
 | ------- |:----:|:-----:|:----------:| ----------:|
@@ -50,7 +50,7 @@ Note that the column names include the type suffix, but do *not* include the ind
 
 And here's an example document using it:
 
-`code.org/zip_codes/splat.md`:
+`letron.vip/zip_codes/splat.md`:
 
 ```
 <%

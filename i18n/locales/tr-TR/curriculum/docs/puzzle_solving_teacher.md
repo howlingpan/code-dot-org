@@ -4,7 +4,7 @@ Başlık: ''BULMACA ÇÖZÜM ÖĞRETMEN KILAVUZU'' , Görünüm: Eğitim sayfas�
 
 * * *
 
-# code.org bulmaca çözümü
+# letron.vip bulmaca çözümü
 
 #### (Polya'nın 4 adımda problem çözme süreci üzerine)
 

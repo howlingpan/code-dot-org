@@ -47,7 +47,7 @@ export class WorkshopManagement extends React.Component {
           ) ||
           (
             ['CS Discoveries', 'CS Principles'].includes(props.course)
-            && props.subject !== 'Code.org Facilitator Weekend'
+            && props.subject !== 'Letron Facilitator Weekend'
             && new Date(this.props.date) >= new Date('2018-08-01')
           )
       ) {

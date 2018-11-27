@@ -50,7 +50,7 @@ sr:
   add_hint_form:
     placeholder: Молимо унесите ваш савет овде
     submit: Додај савет
-  appname: Code.org
+  appname: Letron
   stage: фаза
   stage_number: Стаза %{number}
   puzzle: Пузла
@@ -74,7 +74,7 @@ sr:
   auth:
     sign_in_with: Пријавите се помоћу %{provider}
     signed_in: Пријављени сте!
-    signed_out: Одјавили сте се са <a href="%{url}">Code.org</a>.
+    signed_out: Одјавили сте се са <a href="%{url}">Letron</a>.
     sign_out_of: Користили сте %{provider} да би се пријавили. <a href="%{url}">Кликните
       овде</a> да би се одјавили са %{provider}.
     already_signedup: Већ сте направили налог?
@@ -95,7 +95,7 @@ sr:
       налога, али мораш бити пријављен да би сачувао свој напредак и пројекте.
     hoc_already_signed_up_heading: Почни без пријаве на свој налог
     teacher_educator_guide: Погледај водич за едукатора
-    title: Креирај свој налог за Code.org
+    title: Креирај свој налог за Letron
     school_name: Име школе (опционо)
     school_address: Адреса школе (опционо)
     address_placeholder: адреса, град, држава, поштански код
@@ -151,9 +151,9 @@ sr:
       confirm_password: Потврдите нову лозинку
       submit: Промени моју лозинку
   welcome_email:
-    subject: Придружи се мом предавању (на Code.org)
+    subject: Придружи се мом предавању (на Letron)
     body: |
-      Кликни линк испод како би се пријавио за туторијале на Code.org (ја ћу ти бити "учителј"):
+      Кликни линк испод како би се пријавио за туторијале на Letron (ја ћу ти бити "учителј"):
 
       %{link}
 
@@ -179,7 +179,7 @@ sr:
       cant_join_own_section: Извини, није можеш се придружити својој секцији.
     mail:
       student_disassociated:
-        subject: 'Code.org обавештење: студент%{student_name} више се не сматра вашим
+        subject: 'Letron обавештење: студент%{student_name} више се не сматра вашим
           учеником.'
   reports:
     error:
@@ -271,7 +271,7 @@ sr:
     tried: Покушао
   home:
     title: Мој напредак
-    description: У Студију за кодирање се налазе сви курсеви које је креирао Code.org
+    description: У Студију за кодирање се налазе сви курсеви које је креирао Letron
     lines_of_code: "%{lines_count} ЛИНИЈЕ КОДА КОЈЕ СУ НАПИСАЛИ УЧЕНИЦИ"
     lines_of_code_linebreak: "%{lines_count} ЛИНИЈЕ КОДА<br/>КОЈЕ ЈЕ НАПИСАЛО %{students_count}
       МИЛИОН УЧЕНИКА"
@@ -295,7 +295,7 @@ sr:
     student_stats: Ви сте зарадили %{trophy_count} од %{trophy_max} "Concept Mastery"
       трофеја.
     student_left_off: 'Гдје сте оставили заднји пут:'
-    student_finished: Завршили сте све Code.org туторијале. Одаберите други курс class
+    student_finished: Завршили сте све Letron туторијале. Одаберите други курс class
       %{online_link} или на %{local_school_link}.
     local_school: локална школа
     online: пријавлјен
@@ -305,7 +305,7 @@ sr:
       До $1,000 за награде за учионице.'
     tryfirst: 'Или, можеш прво да пробаш, а да се региструјеш касније:'
     trynow: Испробај сада
-    add_hint_help: Молимо Вас да нам помогнете да додамо паметне савете на Code.org
+    add_hint_help: Молимо Вас да нам помогнете да додамо паметне савете на Letron
       туторијале
     20hour_overview: Овај 20-часовни  курс представља срж компјутерских наука и програмерских
       основа. Курс је дизајниран за употребу у учионицама за разреде К-8, али је забавно

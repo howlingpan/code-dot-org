@@ -14,7 +14,7 @@ An abstraction is a simplified representation of something more complex. Abstrac
 These complex systems have lots of tiny details that can quickly grow overwhelming, making things hard for humans to manage and keep track of.  For a complex system like the Internet, it is simply not possible to see and understand every detail all at once.
 
 <div style="float: right; width: 250px; padding: 10px; margin: 10px; background-color: #FFFFFF;  box-shadow: 2px 2px 10px #999999">
-  <img src="https://images.code.org/d872c6ecd8cf6eefeab3c2a293f93246-image-1508249463002.png" style="width: 90%; margin: auto;">    
+  <img src="https://images.letron.vip/d872c6ecd8cf6eefeab3c2a293f93246-image-1508249463002.png" style="width: 90%; margin: auto;">
   <br><br>
   <em>In this code the functions <code>drawRectangle()</code> and <code>right()</code> are examples of abstraction because they capture the code for drawing a rectangle and turning right, and give each idea a single name - making them simplified representations of something more complex.</em>
 </div>

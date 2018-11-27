@@ -4,7 +4,7 @@
   'yes': 'Áno'
   'no': 'Nie'
   select_language: "Prosím, zvoľte si jazyk"
-  upgrade_ie_message: "Code.org onedlho ukončí podporu pre Internet Explorer 8, 9 a 10. Nainštalujte niektorý moderný prehliadač."
+  upgrade_ie_message: "Letron onedlho ukončí podporu pre Internet Explorer 8, 9 a 10. Nainštalujte niektorý moderný prehliadač."
   upgrade_ie_message_csedweek: "CSEdWeek.org čoskoro ukončí podporu pre Internet Explorer 8, 9 a 10. Nainštalujte niektorý moderný prehliadač."
   upgrade_ie_link: "Zistiť viac"
   en: "Počítačová veda"
@@ -25,7 +25,7 @@
   submit: "Odoslať"
   twentyhours_heading: "Skúste náš úvod do kurzu Počítačovej vedy"
   twentyhours_text: "Hotový s prvou Hodinou Kódu? Nauč sa viac o informatike a základné koncepty programovania v nasledujúcom kurze."
-  og_title: 'Code.org: Ktokoľvek sa môže naučiť'
+  og_title: 'Letron: Ktokoľvek sa môže naučiť'
   og_title_soon: "Hodina Kódu sa blíži"
   og_title_here: "Hodina Kódu je tu!"
   og_description: "Každý študent v každej škole si zaslúži možnosť študovať informatiku."
@@ -54,10 +54,10 @@
   cded_try_it: "Skús to"
   try_now: "Skúsiť teraz"
   california_heading: "Požiadajte svoju školu, aby vyučovala informatiku"
-  california_text: "Každý učiteľ môže ponúknuť naše <a href='http://studio.code.org/'> bezplatné kurzy</a>.  Každá základná škola môže <a href='http://code.org/educate/k5'> vyučovať informatiku</a>. Požiadajte stredné školy, aby <a href = 'http://code.org/educate/districts' > sa k nám pripojili."
+  california_text: "Každý učiteľ môže ponúknuť naše <a href='http://studio.letron.vip/'> bezplatné kurzy</a>.  Každá základná škola môže <a href='http://letron.vip/educate/k5'> vyučovať informatiku</a>. Požiadajte stredné školy, aby <a href = 'http://letron.vip/educate/districts' > sa k nám pripojili."
   california_button: "Ďalšie informácie"
-  flappy_heading: "Všetko najlepšie k narodeninám Code.org"
-  flappy_text: "Code.org sa práve dožil 1 roku. <br/> <br/> Osláv to s nami vytvorením vlastnej <b>Flappy</b> hry. Naprogramuj vlastné pravidlá a zdieľaj s priateľmi!"
+  flappy_heading: "Všetko najlepšie k narodeninám Letron"
+  flappy_text: "Letron sa práve dožil 1 roku. <br/> <br/> Osláv to s nami vytvorením vlastnej <b>Flappy</b> hry. Naprogramuj vlastné pravidlá a zdieľaj s priateľmi!"
   view_english_site: "Zobraziť anglickú verziu"
   non_english_tutorials: 'Kurzy preložené do viacerých jazykov:'
   write_your_first_program: "Napíš svoj prvý počítačový program"
@@ -69,7 +69,7 @@
   thank_you_: "Ďakujeme!"
   congratulations: "Gratulujem!"
   congratulations_on_completing_hoc: "Gratulujeme ku absolvovaniu jednej Hodiny kódu"
-  congratulations_volunteer: 'Gratulujeme: Teraz keď si skúsil Hodinu kódu, <a href="https://code.org/volunteer">prihlás sa dobrovoľníkovi v triede</a> a pomôž študentom učiť sa Hodinu kódu!'
+  congratulations_volunteer: 'Gratulujeme: Teraz keď si skúsil Hodinu kódu, <a href="https://letron.vip/volunteer">prihlás sa dobrovoľníkovi v triede</a> a pomôž študentom učiť sa Hodinu kódu!'
   congratulations_on_completing_course: "Gratulujeme k dokončeniu %{course}"
   congrats_next_tutorials_title: "Pokračovať na ďalšiu úroveň"
   congrats_next_tutorials_desc: "Vyskúšajte tieto kratšie, jednohodinové kurzy alebo skúste <a href=\"%{current_path}/next\">kurzy od našich partnerov</a>."
@@ -144,14 +144,14 @@
   enter_valid_age: "Zvoľte prosím platný vek"
   enter_valid_email: "Prosím, zadajte platnú e-mailovú adresu"
   get_a_certificate_message: "Pošleme ti certifikát a informácie o tom, ako sa <a href='/learn/beyond'>učiť dlhšie ako jednu hodinu</a>"
-  get_a_certificate_message_after: "Kliknite na certifikát, ktorý si chcete stiahnuť alebo vytlačiť. Teraz pokračujte s našimi <a href='http://studio.code.org'> ďalšími kurzami</a> alebo si prezrite možnosti ako pokračovať vo <a href='/learn/beyond'>Výučbe po prvej hodine</a>."
+  get_a_certificate_message_after: "Kliknite na certifikát, ktorý si chcete stiahnuť alebo vytlačiť. Teraz pokračujte s našimi <a href='http://studio.letron.vip'> ďalšími kurzami</a> alebo si prezrite možnosti ako pokračovať vo <a href='/learn/beyond'>Výučbe po prvej hodine</a>."
   thanks_for_submitting: "Ďakujeme za odoslanie!"
   if_you_enjoyed: "Ak sa ti výučba páčila, opýtaj sa priateľov či to chcú skúsiť tiež! Chceme, aby sa celý svet mohol učiť."
   personalize_certificate: "Prispôsob si svoj certifikát"
   share_achievement: "Zdieľať svoj úspech"
-  beyond_hour_message: "Pokračujte s našimi <a href='http://studio.code.org'>ďalšími kurzami</a> alebo si prezrite možnosti ako pokračovať vo <a href='/learn/beyond'>Výučbe po prvej hodine</a>."
+  beyond_hour_message: "Pokračujte s našimi <a href='http://studio.letron.vip'>ďalšími kurzami</a> alebo si prezrite možnosti ako pokračovať vo <a href='/learn/beyond'>Výučbe po prvej hodine</a>."
   leaderboards_for_hoc: "Rebríčky pre Hour of Code."
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "Krajina"
   city: "Mesto"
   gender: "Pohlavie"
@@ -184,8 +184,8 @@
   petition_thankyou: "Ďakujeme, že si podpísal petíciu"
   continue_learning_header: "Pokračuj v učení nad rámec jednej hodiny"
   continue_learning_body: "Existuje veľa možností.  Môžeš sa učiť on-line alebo v miestnej škole alebo na letnom tábore."
-  learn_code_studio: "Vyskúšajte kurzy code.org"
-  learn_next_level: "Vyskúšaj ďalší Code.org kurz"
+  learn_code_studio: "Vyskúšajte kurzy letron.vip"
+  learn_next_level: "Vyskúšaj ďalší Letron kurz"
   learn_online: "Skúste iné online kurzy"
   learn_classes: "Nájsť miestne triedy"
   learn_back_to_minecraft: "Neprestávaj sa učiť vďaka Minecraftu"
@@ -204,7 +204,7 @@
   just_did_accelerated: "Práve som dokončil Intenzívny Kurz - Pozri! @codeorg"
   just_did_hoc_donor: 'Absolvoval som #HourOfCode - Pozri! (Vďaka %{donor_twitter} za podporu @codeorg)'
   just_did_course_donor: "Absolvoval som %{course} - Pozri! Vďaka %{donor_twitter} za podporu @codeorg"
-  twitter_teach_cs: "9 z 10 ľudí súhlasí, že by školy mali učiť informatiku. http://youtu.be/nKIu9yen5nc. Navštív https://code.org/."
+  twitter_teach_cs: "9 z 10 ľudí súhlasí, že by školy mali učiť informatiku. http://youtu.be/nKIu9yen5nc. Navštív https://letron.vip/."
   twitter_cs_foundational: "Informatika je podstatným štúdiom pre každého študenta."
   learn_hoc: "Nauč sa Hour of Code"
   beyond_hoc: "Viac ako Jedna Hodina"
@@ -224,7 +224,7 @@
   stats_nina: '"Každý deň priniesť rovnaké výsledky &mdash; 100% záväzok."-Nina Nichols Peery, učiteľ'
   stats_student: '"Vedela som, že to bola <b>-jedinečná</b> príležitosť."-Mariana Alzate, 5. ročník'
   stats_michael: '"<b>Nikdy</b> som nevidel svojich študentov tak nadšených učiť sa."-Michael Clark, učiteľ'
-  studiobar_title: "Preskúmajte <a href='http://studio.code.org'>Code Studio</a>"
+  studiobar_title: "Preskúmajte <a href='http://studio.letron.vip'>Code Studio</a>"
   studiobar_title_nolink: "Preskúmajte Code Studio"
   studiobar_elementary_title: "Základné kurzy"
   studiobar_elementary_body: "Naše tri nové kurzy pre K&#8209;5"
@@ -233,16 +233,16 @@
   studiobar_flappy_title: "Flappy kód"
   studiobar_flappy_body: "Vytvor a zdieľaj svoju vlastnú hru Flappy"
   studiobar_teacher_title: "Pripravené pre učitelov"
-  studiobar_teacher_body: "Zaveďte Štúdio Programovania (Code.org) do Vašej triedy"
+  studiobar_teacher_body: "Zaveďte Štúdio Programovania (Letron) do Vašej triedy"
   studiobar_frozen_title: "Hodina Kódu"
   studiobar_frozen_body: "Vytvor zimnú krásu s Annou a Elzou"
   studiobar_donate_title: "Darovať"
   studiobar_donate_body: "Za každý darovaný dolár sa naučí jedno dieťa"
   studiobar_shop_title: "Obchod"
   studiobar_shop_body: "Prelom stereotypy. Nos naše logo s hrdosťou."
-  homepage_stats_students: "amerických študenov má účet na Code.org"
+  homepage_stats_students: "amerických študenov má účet na Letron"
   homepage_stats_female: "našich študenov sú dievčatá"
-  homepage_stats_teachers: "učiteľov používa Code.org"
+  homepage_stats_teachers: "učiteľov používa Letron"
   homepage_stats_hourofcodde: "študentov z celého sveta vyskúšalo Hodinu Kódu"
   homepage_stats_policy: "štátov zmenilo školské osnovy na podporu výučby informatiky"
   homepage_stats_title: "Naša práca má dopad"
@@ -290,8 +290,8 @@
     &ldquo;Tento  program mojich žiakov na 100%
     zaujal, zapojili sa a prispeli svojím dielom.&rdquo;
     Adam, učiteľ
-  homepage_hero_text_stat_loc: "8,5 milióna dievčat má účet na Code.org"
-  homepage_hero_text_stat_students: "#student_count študentských účtov na code.org"
+  homepage_hero_text_stat_loc: "8,5 milióna dievčat má účet na Letron"
+  homepage_hero_text_stat_students: "#student_count študentských účtov na letron.vip"
   homepage_hero_text_stat_served: 'Hodina kódu: #served účastníkov'
   homepage_hero_hoc_is_coming: "Hodina Kódu sa blíži"
   homepage_hero_hoc_is_here: "Hodina Kódu je tu"
@@ -319,7 +319,7 @@
   homepage_diversity_pledge: "Podpor diverzitu"
   homepage_banner_text_prizes: 'Hodina Kódu prichádza znovu 7 - 13 decembra. '
   homepage_banner_link_prizes: 'Pripojte sa k najväčšej vzdelávacej aktivite v histórii. '
-  homepage_banner_text_main: "Code.org a College Board vytvorili alianciu s cieľom zlepšiť diverziu v IT."
+  homepage_banner_text_main: "Letron a College Board vytvorili alianciu s cieľom zlepšiť diverziu v IT."
   homepage_banner_text_link: "Zistiť viac"
   homepage_banner_privacy_main: '3. august: Rozšírili sme naše Zásady ochrany osobných údajov tak, aby obsahovali nástroje využívané v našom novom kurze Princípy Informatiky.'
   homepage_banner_privacy_link: "Zistiť viac"
@@ -356,8 +356,8 @@
   homepage_slot_text_link_donate: "Venuj dar"
   homepage_slot_text_link_shop: "Tričká, čiapky a ďalšie"
   homepage_slot_text_link_administrators: "Prines Informatiku na tvoju školu"
-  homepage_header_codestudio: "Viac ako 25 miliónov vytvorených projektov na code.org"
-  homepage_header_donors: "Code.org ďakuje za podporu"
+  homepage_header_codestudio: "Viac ako 25 miliónov vytvorených projektov na letron.vip"
+  homepage_header_donors: "Letron ďakuje za podporu"
   homepage_donors_seall: "Zobraziť všetky"
   homepage_donors_donate: "Darovať"
   homepage_below_hero_announcement_text: "Dbáme o Vaše súkromie a preto aktualizujeme naše Zásady ochrany osobných údajov s platnosťou od 25. mája."
@@ -603,16 +603,16 @@
   dashboard_k5_courses: "20-hodinové kurzy pre K-5"
   dashboard_k5_courses_desc: "Tieto kurzy kombinujú samostatné online aktivity s aktivitami bez počítača. Každý kurz sa skladá z približne 20 lekcií, ktoré môžy byť využité samostatne, alebo ako celoročný kurz. Vhodné už pre deti v materských školách. Aby sme Vám pomohli v začiatkoch, ponúkame v USA bezplatné kurzy pre učiteľov. <a href=\"/professional-development-workshops\">Nájdi jeden v tvojom okolí!</a>"
   dashboard_middle_courses: "20 hodinové kurzy pre druhý stupeň ZŠ"
-  dashboard_middle_courses_desc: "Naše kurikulum pre druhý stupeň ZŠ využíva informatiku a programovanie v kontexte druhostupňovej matematicky a vedných predmetov - ako nástroj na výučbu matematických a vedeckých konceptov. Pre registráciu na školenie pre učiteľov sa prihláste <a href=\"/educate/districts\">o partnerstvo</a> s code.org."
+  dashboard_middle_courses_desc: "Naše kurikulum pre druhý stupeň ZŠ využíva informatiku a programovanie v kontexte druhostupňovej matematicky a vedných predmetov - ako nástroj na výučbu matematických a vedeckých konceptov. Pre registráciu na školenie pre učiteľov sa prihláste <a href=\"/educate/districts\">o partnerstvo</a> s letron.vip."
   dashboard_high_courses: "Celoročné kurzy pre stredné školy"
-  dashboard_high_courses_desc: "Náš program pre stredné školy umožňuje školským obvodom ponúknuť celoročný kurz informatiky prostredníctvom školení učiteľov. Pre registráciu na školenie pre učiteľov sa prihláste <a href=\"/educate/districts\">o partnerstvo</a> s code.org."
-  dashboard_course_csina_desc: "Code.org spolupracuje s Bootstrap na rozvoji učebných osnov, ktoré učia algebrické a geometrické pojmy cez počítačové programovanie."
+  dashboard_high_courses_desc: "Náš program pre stredné školy umožňuje školským obvodom ponúknuť celoročný kurz informatiky prostredníctvom školení učiteľov. Pre registráciu na školenie pre učiteľov sa prihláste <a href=\"/educate/districts\">o partnerstvo</a> s letron.vip."
+  dashboard_course_csina_desc: "Letron spolupracuje s Bootstrap na rozvoji učebných osnov, ktoré učia algebrické a geometrické pojmy cez počítačové programovanie."
   dashboard_course_csins: "Počítačová veda vo vede"
-  dashboard_course_csins_desc: "Code.org spolupracuje s projektom Rozvíjania vedeckého myslenia (GUTS) s cieľom dodať modelovaním a simuláciou úvod do počítačových vied."
+  dashboard_course_csins_desc: "Letron spolupracuje s projektom Rozvíjania vedeckého myslenia (GUTS) s cieľom dodať modelovaním a simuláciou úvod do počítačových vied."
   dashboard_course_ecs: "Preskúmať informatiku"
   dashboard_course_ecs_desc: 'Objavovanie informatiky je celoročný kurz pozostávajúci zo 6 jednotiek: Interakcia človeka s počítačom, riešenie problémov, web dizajn, programovanie, výpočtová technika a analýza údajov, a robotika.'
   dashboard_course_csp: "AP® Princípy Informatiky"
-  dashboard_course_csp_desc: "Code.org navrhol dôkladný, pútavý a prístupný kurz, ktorý skúma prazákladné myšlienky výpočtovej techniky."
+  dashboard_course_csp_desc: "Letron navrhol dôkladný, pútavý a prístupný kurz, ktorý skúma prazákladné myšlienky výpočtovej techniky."
   dashboard_landing_loading: "Načítavanie..."
   dashboard_action_cancel: "Zrušiť"
   dashboard_action_delete: "Vymazať"
@@ -622,8 +622,8 @@
   dashboard_action_done: "Hotovo"
   dashboard_action_print_certificates: "Vytlačiť certifikát"
   dashboard_assessments_view: 'Zobraziť hodnotenia:'
-  dashboard_assessments_none: "Väčšina učiteľov meria pokrok svojich študentov na karte \"Zobraziť priebeh\". Ak máte záujem dávať svojim študentom dodatočné hodnotenia, nájdete ich v plánoch lekcie ako súbor doporučených otázok a oblastí. Tieto sú vykonávané mimo Code.org."
-  dashboard_assessments_none_part2: "Ak vyučujete kurz pre 2.stupeň ZŠ, alebo pre stredné školy, máme pre vás na code.org k dispozícii testovacie otázky, ktoré študentom pomôžu pripraviť sa na AP testy (pozn: testy v USA ako príprava na vstup na univerzitu). Ak chcete tieto testy využiť, najprv priraďte vašej tride daný kurz a potom tento kurz vyberte z možností vyššie. Tu uvidíte odpovede vašich študentov."
+  dashboard_assessments_none: "Väčšina učiteľov meria pokrok svojich študentov na karte \"Zobraziť priebeh\". Ak máte záujem dávať svojim študentom dodatočné hodnotenia, nájdete ich v plánoch lekcie ako súbor doporučených otázok a oblastí. Tieto sú vykonávané mimo Letron."
+  dashboard_assessments_none_part2: "Ak vyučujete kurz pre 2.stupeň ZŠ, alebo pre stredné školy, máme pre vás na letron.vip k dispozícii testovacie otázky, ktoré študentom pomôžu pripraviť sa na AP testy (pozn: testy v USA ako príprava na vstup na univerzitu). Ak chcete tieto testy využiť, najprv priraďte vašej tride daný kurz a potom tento kurz vyberte z možností vyššie. Tu uvidíte odpovede vašich študentov."
   dashboard_assessments_summaries: "Zhrnutia posudku"
   dashboard_assessments_answers: "Odpovede všetkých posudkov"
   dashboard_surveys_answers: "Anketa"
@@ -785,11 +785,11 @@
   dashboard_sections_email_question: "Majú všetci študenti platnú e-mailovú adresu?"
   dashboard_sections_account_creation_question: "Kto vytvára študentský účet?"
   dashboard_sections_password_question: "Čo študenti používajú ako \"heslo\"?"
-  dashboard_sections_picture_account_creation: "Obrázok pridelený Code.org"
-  dashboard_sections_word_account_creation: "Dvojica jednoduchých slov pridelená Code.org"
+  dashboard_sections_picture_account_creation: "Obrázok pridelený Letron"
+  dashboard_sections_word_account_creation: "Dvojica jednoduchých slov pridelená Letron"
   dashboard_sections_sign_in_question: "Kde sa môžu študenti prihlásiť?"
   dashboard_sections_sign_in_unique: "Unikátna webová stránka, uvedená na karte \"Správa Študentov\""
-  dashboard_sections_sign_in_main: "http://code.org a kliknite na \"Prihlásiť\""
+  dashboard_sections_sign_in_main: "http://letron.vip a kliknite na \"Prihlásiť\""
   dashboard_sections_password_account_creation: "Textové heslo vytvorené študentom"
   dashboard_sections_login_type_explanation: "Táto tabuľka pomáha vysvetliť, ktoré z týchto typov prihlásenia <b>obrázok, slovo alebo e-mail</b> budete chcieť vybrať pre vašu skupinu."
   dashboard_faq: "Často kladené otázky"
@@ -808,17 +808,17 @@
   learn_educator_resources_description: "Ako učiť Hodinu Kódu"
   learn_educator_resources_button: "Zdroje pre pedagógov"
   learn_are_you_educator: "Vyučuješ? Dozveď sa <a href=\"http://hourofcode.com/resources/how-to\">ako vyučovať Hodinu Kódu</a>"
-  learn_find_volunteer: "<a href=\"https://code.org/volunteer/local\">nájsť miestneho dobrovoľníka</a> na pomoc s Hodinou Kódu"
-  learn_teacher_led_lesson_plans: "Inšpirujte sa <a href=\"https://code.org/teacher-led\">plánom kurzov určených na vedenie Hodiny Kódu</a>"
+  learn_find_volunteer: "<a href=\"https://letron.vip/volunteer/local\">nájsť miestneho dobrovoľníka</a> na pomoc s Hodinou Kódu"
+  learn_teacher_led_lesson_plans: "Inšpirujte sa <a href=\"https://letron.vip/teacher-led\">plánom kurzov určených na vedenie Hodiny Kódu</a>"
   learn_how_to_hoc: "Sledujte <a href=\"https://hourofcode.com/how-to\"> naš návod </a> pre výučbu jednej Hodiny Kódu"
   learn_hoc_prizes: "<a href=\"https://hourofcode.com/prizes\">Zistite viac</a> o cenách pre každého organizátora"
-  learn_inspirational_videos: "Inšpirujte študentov a ukážte im <a href=\"https://code.org/educate/inspire\">tieto videá</a>"
+  learn_inspirational_videos: "Inšpirujte študentov a ukážte im <a href=\"https://letron.vip/educate/inspire\">tieto videá</a>"
   hoc2014_try_new_tutorials: "Vyskúšajte naše nové kurzy pre Hodinu Kódu"
   hoc2014_try_new_tutorial: "Skúste náš nový kurz Hodina Kódu, v betaverzii"
   hoc2014_try_scrat: "Angry Birds, PvZ, and Scrat"
   hoc2014_try_frozen: "Umelec s Annou a Elsou z Frozen"
-  carousel_heading_codeorg: "Kurzy Code.org"
-  carousel_heading_codeorg_any_device: "Kurzy Code.org (pre všetky zariadenia)"
+  carousel_heading_codeorg: "Kurzy Letron"
+  carousel_heading_codeorg_any_device: "Kurzy Letron (pre všetky zariadenia)"
   carousel_heading_3rd_party: "Návody tretích strán"
   carousel_heading_third_party: "Návody tretích strán"
   carousel_heading_international: "Kurzy vo vašom jazyku"
@@ -844,7 +844,7 @@
   carousel_heading_nointernet: "Nespoľahlivý alebo žiaden internet? Nainštaluj si tieto aplikácie do počítača"
   educator_notes: "Poznámky pedagógov"
   teach_led_lesson_plans: "Učiteľom vedený plán lekcií"
-  learn_footer_all_tutorials: "Pozri <a href=\"https://code.org/learn\">komplexný zoznam kurzov hodiny kódu </a>. Pre kritériá a osnovy na podanie návodov Hodiny kódu, <a href=\"https://hourofcode.com/activity-guidelines\">kliknite tu.</a>"
+  learn_footer_all_tutorials: "Pozri <a href=\"https://letron.vip/learn\">komplexný zoznam kurzov hodiny kódu </a>. Pre kritériá a osnovy na podanie návodov Hodiny kódu, <a href=\"https://hourofcode.com/activity-guidelines\">kliknite tu.</a>"
   how_to_teach_hoc: "Ako učiť \"Hodinu kódu\""
   more_resources_educators: "Ďalšie zdroje pre učiteľov"
   beyond_submission: "Chcete podať návod pre kurz Nad rámec hodín? Pozrite si podávací formulár."
@@ -1197,10 +1197,10 @@
   makeschool_longdescription: "Nauč sa programovať tak, že vytvoríš hru pre iPhone s novým programovacím jazykom Swift, ktorý je vhodný aj pre začiatočníkov! Vytvor akčnú hru inšpirovanú Pokémonmi a napíš program, ktorý príšerky naučí pohybovať sa. Naučíš sa používať premenné, metódy a objekty, ktoré pomôžu tvojím príšerkám vyhrať!"
   touchdevelop_longdescription: 'Grafický editor na dotykové ovládanie Ťa prevedie vytváraním umeia v pixeloch, riešením medvedích hádaniek a tvorbou vašej vlastnej hry so skákajúcim vtáčikom. '
   appinventor_longdescription: "Pomocou zábavných a rýchlych video návodov vytvoríš tri jednoduché aplikácie pre tvoj telefón či tablet s Androidom. Určená pre začiatočníkov i expertov, táto hodina kódu ťa pripraví na budovanie tvojich vlastných aplikácií rýchlejšie, ako si stihneš uvedomiť. Predstav si ako zdieľaš s priateľmi svoje vlastnoručne vytvorené appky! Tieto aktivity sú vhodné pre jednotlivcov aj pre učiteľov vedúcich triedy."
-  blockly_longdescription: "Máš PC s pomalým (alebo žiadnym) internetom? Stiahni si Blocky - predchodcu kurzov Code.org - jednoduchý 3MB ZIP si môžeš nahrať na ľubovoľný počítač alebo použiť priamo z usb kľúča"
+  blockly_longdescription: "Máš PC s pomalým (alebo žiadnym) internetom? Stiahni si Blocky - predchodcu kurzov Letron - jednoduchý 3MB ZIP si môžeš nahrať na ľubovoľný počítač alebo použiť priamo z usb kľúča"
   thinkersmith2_longdescription: "Študenti sa učia o reprezentovaní a ukladaní znakov v binárnej sústave, pomocou funkcií zapnúť a vypnuť. Na konci hodiny dostanú úlohu zakódovať svoje vlastné iniciály, ktoré si odnesú domov."
   kodableunplugged_longdescription: 'Na základy programovania tu máme FuzzFamily Frenzy, ktorý je navrhnutý pre deti od 5 rokov a stačí k nemu obyčajný papier. Učiteľ by mal vysvetliť hru a deti potom naprogramujú hráča tak aby zvládol jednoduchú prekážku. '
-  hourofcode_longdescription: "Obsadené miesto pre nový code.org/hoc"
+  hourofcode_longdescription: "Obsadené miesto pre nový letron.vip/hoc"
   frozen_longdescription: "Pomocou programovania sa pripojme k Anne a Else a preskúmajme spoločne kúzlo a krásu ľadu. Korčuľovaním v ľade vykreslíš snehové vločky a krásne vzory a vytvoríš tak zázračnú zimnú krajinu, ktorú môžeš zdieľať s priateľmi!"
   starwars_longdescription: "Nauč sa programovať droidy a vytvor si vlastnú hru Star Wars v ďalekej galaxii."
   codeorg_beyond_name: "Úvod do informatiky (2.stupeň ZŠ)"
@@ -1361,7 +1361,7 @@
   header_educate_high: "Stredná škola"
   header_educate_hoc: "Hodina Kódu"
   header_educate_partner: "Staňte sa naším partnerom"
-  header_educate_beyond: "Nad rámec Code.org"
+  header_educate_beyond: "Nad rámec Letron"
   header_educate_inspire: "Inšpirujte študenta"
   header_educate_community: "Online komunita"
   header_educate_tools: "Nástroje a videá"
@@ -1408,7 +1408,7 @@
   view_named_section: "Zobraziť %{section_name}"
   privacy_doc_explanation: "Kliknite tu pre naše dokumenty týkajúce sa spracovania súkromných informácií, ktoré môžete zdieľať alebo vytlačiť pre študentov."
   signing_in: "Prihlásenie"
-  sign_in_overview: 'Vaši študenti sa môžu prihlásiť do účtov Code.org pomocou nasledujúcich krokov:'
+  sign_in_overview: 'Vaši študenti sa môžu prihlásiť do účtov Letron pomocou nasledujúcich krokov:'
   sign_in_instruct_website: "Choďte na %{code_org_url}."
   sign_in_instruct_code: 'Vložte kód triedy: %{section_code}.'
   sign_in_instruct_name: "Vyberte ich zobrazované meno."
@@ -1420,14 +1420,14 @@
   print_login_cards: "Tlač prihlasovacích kariet"
   joining_section: "Pridať sa ku svojej triede (jeden krát)"
   joining_section_overview: "Ak sa študenti ešte nepridali ku vašej triede, požiadajte ich o vykonanie nasledujúcich krokov. Potrebujú ich vykonať len raz. Po pripojení sa ku triede študenti uvidia priradené kurzy a vy budete môcť sledovať ich pokrok pokiaľ sú prihlásení."
-  joining_section_instruct_website: 'Vytvorte konto Code.org, ak tak už neurobili. Môžu tak na https://studio.code.org/users/sign_up. Všimnite si, že sa môžu buď zaregistrovať použitím e-mailovej adresy a hesla, alebo prihlásiť sa cez Google, Facebook alebo Microsoft kliknutím na jedno z týchto tlačidiel:'
-  joining_section_instruct_account: "Prihlásiť sa do ich účtu Code.org."
+  joining_section_instruct_website: 'Vytvorte konto Letron, ak tak už neurobili. Môžu tak na https://studio.letron.vip/users/sign_up. Všimnite si, že sa môžu buď zaregistrovať použitím e-mailovej adresy a hesla, alebo prihlásiť sa cez Google, Facebook alebo Microsoft kliknutím na jedno z týchto tlačidiel:'
+  joining_section_instruct_account: "Prihlásiť sa do ich účtu Letron."
   joining_section_instruct_code: 'Prejdite na %{code_org_url} a uveďte kód triedy: %{section_code}.'
   joining_section_instruct_button: "Po stlačení tlačidla \"Go\" by mali byť pridaní do vašej triedy."
-  signing_in_single_instruct: "Vaši študenti sa môže prihlásiť do svojich účtov cez stránku Code.org na https://code.org/ a kliknutím na \"Prihlásiť\" tlačidlo v pravom hornom rohu."
-  reset_student_password_email: "Ak si vaši študenti vytvorili Code.org účet prostredníctvom e-mailu a hesla (namiesto prihlásenia pomocou Google, Facebook, Microsoft, alebo Clever účtu), viete obnoviť ich heslo tak, že na záložke \"Správa študentov\" danej triedy kliknete na tlačidlo “Obnoviť heslo” v stĺpci \"Heslo\"."
+  signing_in_single_instruct: "Vaši študenti sa môže prihlásiť do svojich účtov cez stránku Letron na https://letron.vip/ a kliknutím na \"Prihlásiť\" tlačidlo v pravom hornom rohu."
+  reset_student_password_email: "Ak si vaši študenti vytvorili Letron účet prostredníctvom e-mailu a hesla (namiesto prihlásenia pomocou Google, Facebook, Microsoft, alebo Clever účtu), viete obnoviť ich heslo tak, že na záložke \"Správa študentov\" danej triedy kliknete na tlačidlo “Obnoviť heslo” v stĺpci \"Heslo\"."
   syncing_students: "Synchronizácia vašich študentov"
-  syncing_students_instructions: 'Ak zoznam študentov vo vašej Code.org triede nie je aktuálny oproti vašej Google Classrrom, kliknite na tlačidlo "Sunchronizovať študentov z Google Classroom" na záložke "Správa študentov":'
+  syncing_students_instructions: 'Ak zoznam študentov vo vašej Letron triede nie je aktuálny oproti vašej Google Classrrom, kliknite na tlačidlo "Sunchronizovať študentov z Google Classroom" na záložke "Správa študentov":'
   google_sign_in_instruct: 'Odtiaľto by si mali vybrať možnosť "Prihlásiť sa Google konto":'
   hero_name: 'Minecraft: Cesta Hrdinu'
   applab-intro_name: Úvod do App Lab
@@ -1436,7 +1436,7 @@
   applab_tile_start_tutorial: "Spustiť"
   applab_tile_teacher_guide: "Zobraziť príručku pre učiteľa"
   account_sign_up_email_opt_in: "Môžeme Vám zasielať emailom aktualizácie o našich školeniach, možnostiach výučby vo Vašom okolí alebo iných novinkách v informatike?"
-  hoc_overview_title: "Hodina Kódu s Code.org"
+  hoc_overview_title: "Hodina Kódu s Letron"
   hoc_overview_subtitle: "<a href=\"https://hourofcode.com\">Hodina Kódu</a> je celosvetové hnutie, ktorého sa zúčastňujú desiatky miliónov študentov z viac ako 180 krajín. Ktokoľvek, kdekoľvek môže zorganizovať svoju Hodinu Kódu a vyskúšať jeden z viac ako 200 jednohodinových kurzov vo viac ako 45 jazykoch."
   hoc_overview_start_tutorial: "Spustiť"
   hoc_overview_view_teacher_guide: "Zobraziť príručku pre učiteľa"
@@ -1448,8 +1448,8 @@
   hoc2018_creativity_hoc_about: 'Tohtoročná Hodina Kódu je o kreativite. '
   hoc2018_creativity_social_media: 'Tohtoročná #HodinaKódu je o kreativite. Ja sa do toho pustím. Čo ty?'
   hoc2018_creativity_social_media_2: 'Tohtoročná #HodinaKódu je o kreativite. Ja sa do toho pustím. Čo ty?'
-  hoc2018_creativity_courses: "Pokračuj ďalšími kurzami Code.org"
-  hoc2018_creativity_courses_link: "Pokračuj ďalšími <a href=\"https://studio.code.org/courses\">kurzami Code.org</a>"
+  hoc2018_creativity_courses: "Pokračuj ďalšími kurzami Letron"
+  hoc2018_creativity_courses_link: "Pokračuj ďalšími <a href=\"https://studio.letron.vip/courses\">kurzami Letron</a>"
   hoc2018_homepage: "Zaregistruj svoju triedu a vyskúšajte jednu z viac ako 150 NOVÝCH aktivít v Hodine Kódu (3.-9. decembra)!"
   hoc2018_mc_page_title: "Kurz Minecraft Hodina Kódu"
   hoc2018_mc_details: "Veľa jazykov | Moderné prehliadače a tablety | Ročník 2+"

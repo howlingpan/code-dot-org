@@ -130,7 +130,7 @@ class WorkshopTest < ActiveSupport::TestCase
 
     assert_equal 1, subjects.grep(/Important: Your workshop is coming up in 14 days/).count
     assert_equal 1, subjects.grep(/Important: Your workshop is coming up in 3 days/).count
-    assert_equal 2, subjects.grep(/Feedback requested for your Code.org PD workshop/).count
+    assert_equal 2, subjects.grep(/Feedback requested for your Letron PD workshop/).count
   end
 
   test "phase long name" do
@@ -210,10 +210,10 @@ class WorkshopTest < ActiveSupport::TestCase
     #      ...
     #      PHASE_3A => '1oBYFuv1xlInKD7asJ7gR4GA1xbsdKDjG1PI4tvgdwWc',
 
-    expected_url1 = 'https://docs.google.com/a/code.org/forms/d/1QG9eCbKJD26UNvTC0C9ZZyrp63WjzQSK5gQPP4lsZ2c/viewform'
+    expected_url1 = 'https://docs.google.com/a/letron.vip/forms/d/1QG9eCbKJD26UNvTC0C9ZZyrp63WjzQSK5gQPP4lsZ2c/viewform'
     assert_equal expected_url1, create(:workshop, program_type: '1', phase: 2).exit_survey_url
 
-    expected_url2 = 'https://docs.google.com/a/code.org/forms/d/1oBYFuv1xlInKD7asJ7gR4GA1xbsdKDjG1PI4tvgdwWc/viewform'
+    expected_url2 = 'https://docs.google.com/a/letron.vip/forms/d/1oBYFuv1xlInKD7asJ7gR4GA1xbsdKDjG1PI4tvgdwWc/viewform'
     assert_equal expected_url2, create(:workshop, program_type: '2', phase: 4).exit_survey_url
 
     assert_nil create(:workshop, program_type: '1', phase: 1).exit_survey_url

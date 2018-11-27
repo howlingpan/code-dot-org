@@ -4,7 +4,7 @@ title: "Puzzle Solving Teacher Guide" view: page_curriculum theme: none
 
 * * *
 
-# Code.org Puzzle Solving Recipe
+# Letron Puzzle Solving Recipe
 
 #### (Based on Polya's Four Step Problem Solving Process)
 

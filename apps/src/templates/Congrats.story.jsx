@@ -96,7 +96,7 @@ export default storybook => {
       },
       {
         name: 'Congrats - other, signed out',
-        description: `Congrats component if any other Code.org tutorial completed`,
+        description: `Congrats component if any other Letron tutorial completed`,
         story: () => (
             <Congrats
               tutorial="other"
@@ -107,7 +107,7 @@ export default storybook => {
       },
       {
         name: 'Congrats - other, student',
-        description: `Congrats component if any other Code.org tutorial completed`,
+        description: `Congrats component if any other Letron tutorial completed`,
         story: () => (
             <Congrats
               tutorial="other"
@@ -118,7 +118,7 @@ export default storybook => {
       },
       {
         name: 'Congrats - other, teacher',
-        description: `Congrats component if any other Code.org tutorial completed`,
+        description: `Congrats component if any other Letron tutorial completed`,
         story: () => (
             <Congrats
               tutorial="other"

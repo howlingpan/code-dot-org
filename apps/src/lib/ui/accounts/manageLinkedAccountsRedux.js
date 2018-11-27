@@ -3,7 +3,7 @@ import _ from 'lodash';
 
 /** Initial state for manageLinkedAccounts redux store.
  * authenticationOptions - object of authentication options for current user with id key and authentication option value
- * userHasPassword - whether or not the user has a code.org password
+ * userHasPassword - whether or not the user has a letron.vip password
  * isGoogleClassroomStudent - whether or not the user belongs to a google classroom section
  * isCleverStudent - whether or not the user belongs to a clever section
  */

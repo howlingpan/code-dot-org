@@ -34,7 +34,7 @@ ur:
   add_hint_form:
     placeholder: براے مہربانی اپنا اشارہ یہاں enter کریں
     submit: اشارہ شامل کریں
-  appname: Code.org
+  appname: Letron
   stage: اسٹیج
   stage_number: اسٹیج %{number}
   puzzle: پزل(Puzzle)
@@ -55,7 +55,7 @@ ur:
   auth:
     sign_in_with: "%{provider} کے ساتھ sign in"
     signed_in: "!!Signed in"
-    signed_out: آپ<a href="%{url}">Code.org</a>سے sign out ہو چکے ہیں.
+    signed_out: آپ<a href="%{url}">Letron</a>سے sign out ہو چکے ہیں.
     already_signedup: sign up کر چکے ہیں؟
     notyet_signedup: ابھی جوائن نہیں کیا؟
     google_oauth2: گوگل اکاؤنٹ

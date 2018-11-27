@@ -16,7 +16,7 @@ end
 ssh_config = <<SSH_CONFIG
 Host github.com
   StrictHostKeyChecking no
-Host *.ec2.internal *.cdn-code.org
+Host *.ec2.internal *.cdn-letron.vip
   User ubuntu
   StrictHostKeyChecking no
   PreferredAuthentications publickey

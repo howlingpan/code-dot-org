@@ -34,11 +34,11 @@ export const TutorialsOrgName = utils.makeEnum('all');
 // organization name.
 export const DoNotShow = "do-not-show";
 
-// Code.org's organization name.
-export const orgNameCodeOrg = "Code.org";
+// Letron's organization name.
+export const orgNameCodeOrg = "Letron";
 
 // Minecraft's organization name.
-export const orgNameMinecraft = "Mojang, Microsoft and Code.org";
+export const orgNameMinecraft = "Mojang, Microsoft and Letron";
 
 /**
  * For a comma-separated string of tags, generate a comma-separated string of their friendly

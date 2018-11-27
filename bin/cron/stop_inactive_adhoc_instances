@@ -70,7 +70,7 @@ def main
           },
           {
             name: 'Host',
-            value: "#{stack.name}.cdn-code.org",
+            value: "#{stack.name}.cdn-letron.vip",
           }
         ],
         start_time: Time.now - ACTIVITY_PERIOD_DAYS.days,

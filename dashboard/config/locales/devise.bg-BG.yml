@@ -20,9 +20,9 @@ bg:
       unconfirmed: Трябва да потвърдите вашия акаунт преди да продължите.
     mailer:
       confirmation_instructions:
-        subject: Инструкции за потвърждение на Code.org
+        subject: Инструкции за потвърждение на Letron
       reset_password_instructions:
-        subject: Инструкции за възстановяване на паролата в Code.org
+        subject: Инструкции за възстановяване на паролата в Letron
       unlock_instructions:
         subject: Инструкции за отключване
     omniauth_callbacks:

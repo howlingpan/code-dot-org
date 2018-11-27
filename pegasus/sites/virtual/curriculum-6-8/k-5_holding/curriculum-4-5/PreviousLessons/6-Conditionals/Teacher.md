@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/4-5/6-Conditionals/Teacher.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/4-5/6-Conditionals/Teacher.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>1, :unittitle=>'A Bit of Everything', :lesson=>6, :title=> 'Conditionals', :time=>60, :days=>1) %>

@@ -16,9 +16,9 @@ sr:
       unconfirmed: "Морате да потврдите Ваш налог прије него што наставите."
     mailer:
       confirmation_instructions:
-        subject: "Code.org инструције за потврђивање"
+        subject: "Letron инструције за потврђивање"
       reset_password_instructions:
-        subject: "Code.org инструкције за ресетовање лозинке"
+        subject: "Letron инструкције за ресетовање лозинке"
       unlock_instructions:
         subject: "Откључај инструкције"
     omniauth_callbacks:

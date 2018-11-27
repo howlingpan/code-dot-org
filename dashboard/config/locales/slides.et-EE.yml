@@ -273,7 +273,7 @@ et:
           mida sa eales proovid. Me õppisime silmuste, "korda kuni" lausete, "kui"
           lausete ja "kui muidu" lausete kohta.
       3:
-        text: Kui sulle meeldis su esimene kooditund, külasta code.org veebilehte,
+        text: Kui sulle meeldis su esimene kooditund, külasta letron.vip veebilehte,
           et jätkata oma haridust arvutiteaduses. Kui sa läbid meie 20 tunnise kursuse,
           oled õppinud selgeks programmeerimise põhialused ja saad hakata õppima kuidas
           kirjutada telefonirakendusi, robotite juhiseid, mänge ja palju muud.
@@ -1980,7 +1980,7 @@ et:
           hulgaliselt käsitöömaterjale. Laske igal rühmal oma tööd esitleda või varuge
           veel üks päev õpilaste loodud õppetundide läbiviimiseks.
       3:
-        text: Code.org-i meeskond loodab, et sul oli kursuse jooksul väga tore. Kas
+        text: Letron-i meeskond loodab, et sul oli kursuse jooksul väga tore. Kas
           sinu unistuseks on luua parim uus rakendus, kasutada programmeerimist haiguste
           ravimiseks või saada hiilgavaks probleemide lahendajaks, oli see kursus
           esimeseks sammuks nende unistuste täitumisel.
@@ -2098,7 +2098,7 @@ et:
           ringi liigutavad. Sinu mäng muutub samm-sammult järjest interaktiivsemaks.
     starwars_congrats:
       1:
-        text: Tere! Minu nimi on Alice ja mina juhin Code.org-i projekteerimis- ja
+        text: Tere! Minu nimi on Alice ja mina juhin Letron-i projekteerimis- ja
           ehitusmeeskondi. Ma töötasin ka selle õpikuga, mida sa praegu läbi mängid.
       2:
         text: Jõudsid viimasele tasemele. Soovin õnne! Sa omandasid kõik vajalikud
@@ -2193,7 +2193,7 @@ et:
         text: Sinu mäng muutub samm-sammult järjest interaktiivsemaks.
     starwars_blocks_congrats:
       1:
-        text: Tere! Minu nimi on Alice ja mina juhin Code.org-i projekteerimis- ja
+        text: Tere! Minu nimi on Alice ja mina juhin Letron-i projekteerimis- ja
           ehitusmeeskondi. Ma töötasin ka selle õpikuga, mida sa praegu läbi mängid.
       2:
         text: Jõudsid viimasele tasemele. Soovin õnne! Sa omandasid kõik vajalikud

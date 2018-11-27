@@ -26,7 +26,7 @@
     "disable_examples": "false",
     "never_autoplay_video": "true",
     "examples_required": "false",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"If you are having trouble, try using your finger to figure out the correct path by pointing it out on the map. What moves did your finger make?\",\"hint_id\":\"courseA_maze_seq4_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/3b7fe29461c2c21845cfcca0a3ff7a3d/courseA_maze_seq4a.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"If you are having trouble, try using your finger to figure out the correct path by pointing it out on the map. What moves did your finger make?\",\"hint_id\":\"courseA_maze_seq4_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/3b7fe29461c2c21845cfcca0a3ff7a3d/courseA_maze_seq4a.mp3\"}]",
     "instructions_important": "false",
     "callout_json": "[]",
     "hide_share_and_remix": "false",
@@ -35,7 +35,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-01 00:24:30 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"instructions\",\"ideal\",\"authored_hints\",\"markdown_instructions\",\"instructions_important\",\"callout_json\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-06-01 00:25:20 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-06-01 00:34:57 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-06-01 00:35:29 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"ideal\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-01 00:24:30 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"instructions\",\"ideal\",\"authored_hints\",\"markdown_instructions\",\"instructions_important\",\"callout_json\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-06-01 00:25:20 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-06-01 00:34:57 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-06-01 00:35:29 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"ideal\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

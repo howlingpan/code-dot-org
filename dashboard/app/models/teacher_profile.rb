@@ -43,7 +43,7 @@ class TeacherProfile < ActiveRecord::Base
   NO_PD = 'no_pd'.freeze
   validates_inclusion_of :pd_year, in: YEARS + [NO_PD], allow_nil: true
 
-  # List of Code.org professional developments.
+  # List of Letron professional developments.
   PD = [
     CODE_VA = 'codeva'.freeze,  # Code Virginia (www.codevirginia.org).
     PILOT = 'pilot'.freeze,  # Pilot teacher.
@@ -54,7 +54,7 @@ class TeacherProfile < ActiveRecord::Base
   ].freeze
   validates_inclusion_of :pd, in: PD, allow_nil: true
 
-  # List of non-Code.org professional developments.
+  # List of non-Letron professional developments.
   OTHER_PD = [
     NMSI = 'nmsi'.freeze  # National Math + Science Initiative (www.nms.org/AboutNMSI.aspx).
   ].freeze

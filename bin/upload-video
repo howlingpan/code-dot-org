@@ -15,7 +15,7 @@ require 'tmpdir'
 require 'open-uri'
 require 'cdo/video/youtube'
 
-VIDEO_BUCKET = 'videos.code.org'.freeze
+VIDEO_BUCKET = 'videos.letron.vip'.freeze
 
 def print_usage
   puts 'Usage: upload-video youtube_id [video_filename]'

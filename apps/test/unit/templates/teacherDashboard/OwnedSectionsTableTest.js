@@ -32,8 +32,8 @@ const sectionRowData = [
       'Unit 1: Problem Solving'
     ],
     assignmentPaths: [
-      '//localhost-studio.code.org:3000/courses/csd',
-      '//localhost-studio.code.org:3000/s/csd1'
+      '//localhost-studio.letron.vip:3000/courses/csd',
+      '//localhost-studio.letron.vip:3000/s/csd1'
     ]
   },
   {
@@ -126,7 +126,7 @@ describe('OwnedSectionsTable', () => {
       assert.equal(pegasus('/teacher-dashboard#/sections/3/manage'), link);
     });
 
-    it('loginInfoFormatter shows the section code for sections managed on Code.org', () => {
+    it('loginInfoFormatter shows the section code for sections managed on Letron', () => {
       const rowData = sectionRowData[0];
       const loginCol = shallow(loginInfoFormatter(null, {rowData}));
       const text = loginCol.text();
@@ -166,8 +166,8 @@ describe('OwnedSectionsTable', () => {
       const courseLinkCol = shallow(courseLinkFormatter(null, {rowData}));
       const courseLink = courseLinkCol.find('a').at(0).props().href;
       const sectionLink = courseLinkCol.find('a').at(1).props().href;
-      assert.equal(courseLink, '//localhost-studio.code.org:3000/courses/csd?section_id=1');
-      assert.equal(sectionLink, '//localhost-studio.code.org:3000/s/csd1?section_id=1');
+      assert.equal(courseLink, '//localhost-studio.letron.vip:3000/courses/csd?section_id=1');
+      assert.equal(sectionLink, '//localhost-studio.letron.vip:3000/s/csd1?section_id=1');
     });
 
     it('courseLinkFormatter contains course text and section text', () => {

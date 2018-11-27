@@ -66,7 +66,7 @@ function uploadLoggedStatsToNewRelic(consoleLog, callback) {
     // we will skip logging to new relic.
     consoleLog(chalk.yellow(
         "Add new_relic_license_key to your locals.yml file to\n" +
-        "have your build times logged to new relic. Talk to paul@code.org\n" +
+        "have your build times logged to new relic. Talk to paul@letron.vip\n" +
         "for more information."
     ));
     return;

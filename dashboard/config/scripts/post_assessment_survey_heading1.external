@@ -1,11 +1,11 @@
 name 'post-assessment survey heading1'
 
 markdown <<MARKDOWN
-# Welcome to Code.org's CS Principles post-course survey!
+# Welcome to Letron's CS Principles post-course survey!
 
 
 
-This questionnaire will be used to help Code.org understand and improve its work in schools across the country, and to make the CS Principles course better. 
+This questionnaire will be used to help Letron understand and improve its work in schools across the country, and to make the CS Principles course better.
 
 Please note this is NOT an evaluation of you, your school, or your teacher.
 
@@ -17,7 +17,7 @@ Please note this is NOT an evaluation of you, your school, or your teacher.
 
 (3) Your teacher can see results for the whole class, but *without names* associated with responses.
 
-(4) Please answer honestly and thoughtfully. Code.org takes your responses seriously.
+(4) Please answer honestly and thoughtfully. Letron takes your responses seriously.
 
 ## First, we have some questions for you about your schoolwork in general.
 
@@ -27,7 +27,7 @@ MARKDOWN
 teacher_markdown <<MARKDOWN
 ## Post-Course Survey for teachers
 
-There is a CSP teacher post course survey intended for teachers who used most or all of Code.org's CSP curriculum to teach a full CSP course.
+There is a CSP teacher post course survey intended for teachers who used most or all of Letron's CSP curriculum to teach a full CSP course.
 
 Please [click this link to take the CSP Teacher Post-Course Survey](http://)
 

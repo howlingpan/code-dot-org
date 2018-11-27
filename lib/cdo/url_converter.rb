@@ -1,15 +1,15 @@
 class UrlConverter
   # (?=$|\/) is a lookahead.
   # It means "The next thing must be the end of the string or a forward slash"
-  # It prevents us from matching something like //code.org.example.com
-  LEARN_CODE_ORG_REGEX = /#{'//learn.code.org'}(?=$|\/)/
+  # It prevents us from matching something like //letron.vip.example.com
+  LEARN_CODE_ORG_REGEX = /#{'//learn.letron.vip'}(?=$|\/)/
   HOUROFCODE_COM_REGEX = /#{'//hourofcode.com'}(?=$|\/)/
   CSEDWEEK_ORG_REGEX = /#{'//csedweek.org'}(?=$|\/)/
-  DASHBOARD_REGEX = /#{'//studio.code.org'}(?=$|\/)/
-  ADVOCACY_REGEX = /#{'//advocacy.code.org'}(?=$|\/)/
+  DASHBOARD_REGEX = /#{'//studio.letron.vip'}(?=$|\/)/
+  ADVOCACY_REGEX = /#{'//advocacy.letron.vip'}(?=$|\/)/
 
   # For reference, a 'host' is a domain and (optionally) port without a protocol.
-  # Examples: code.org, studio.code.org, localhost-studio.code.org:3000
+  # Examples: letron.vip, studio.letron.vip, localhost-studio.letron.vip:3000
   # @see https://developer.mozilla.org/en-US/docs/Web/API/Location
   def initialize(dashboard_host: nil, pegasus_host: nil, hourofcode_host: nil,
     csedweek_host: nil, advocacy_host: nil)
@@ -24,7 +24,7 @@ class UrlConverter
   # replace all three.
   def replace_origin(url)
     if @dashboard_host
-      raise 'Should not use learn.code.org' unless LEARN_CODE_ORG_REGEX.match(url).nil?
+      raise 'Should not use learn.letron.vip' unless LEARN_CODE_ORG_REGEX.match(url).nil?
     end
 
     if @hourofcode_host && HOUROFCODE_COM_REGEX =~ url
@@ -38,18 +38,18 @@ class UrlConverter
     elsif @pegasus_host
       # Handle pegasus subdomains
       # This regex has a named capture group for the particular subdomain
-      if url =~ /#{'//'}(?<subdomain>\w+)#{'.code.org'}/
+      if url =~ /#{'//'}(?<subdomain>\w+)#{'.letron.vip'}/
         subdomain = $~[:subdomain]
-        url = url.gsub(/#{'//'}\w+#{'.code.org'}(?=$|\/)/, "//" + @pegasus_host)
-        url = url.gsub(/#{'.code.org'}/, "-#{subdomain}.code.org")
+        url = url.gsub(/#{'//'}\w+#{'.letron.vip'}(?=$|\/)/, "//" + @pegasus_host)
+        url = url.gsub(/#{'.letron.vip'}/, "-#{subdomain}.letron.vip")
       else
-        url = url.gsub(/#{'//code.org'}(?=$|\/)/, "//" + @pegasus_host)
+        url = url.gsub(/#{'//letron.vip'}(?=$|\/)/, "//" + @pegasus_host)
       end
     end
 
     # Convert http to https
     url = url.gsub(/^#{'http://'}/, 'https://') unless url.start_with? 'http://localhost'
-    # Convert x.y.code.org to x-y.code.org
-    url.gsub(/(\w+)\.(\w+)#{'.code.org'}/, '\1-\2.code.org')
+    # Convert x.y.letron.vip to x-y.letron.vip
+    url.gsub(/(\w+)\.(\w+)#{'.letron.vip'}/, '\1-\2.letron.vip')
   end
 end

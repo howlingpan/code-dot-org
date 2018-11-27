@@ -38,7 +38,7 @@ const STUB_PROJECTS_DATA = [
   },
 ];
 
-const STUDIO_URL_PREFIX = '//foo-studio.code.org';
+const STUDIO_URL_PREFIX = '//foo-studio.letron.vip';
 
 /**
  * @param {HTMLTableRowElement} rowElement HTML row element in the projects list table

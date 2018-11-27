@@ -2,7 +2,7 @@ require 'test_helper'
 
 module RegistrationsControllerTests
   class NewAccountTrackingTest < ActionDispatch::IntegrationTest
-    EMAIL = 'upgraded@code.org'
+    EMAIL = 'upgraded@letron.vip'
     PASSWORD = '1234567'
     DEFAULT_UID = '1111' # sso uid
     UUID = 'abcdefg1234567' # tracking uuid

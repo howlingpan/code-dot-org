@@ -66,7 +66,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 சமூக மீடியாவில் உங்கள் நிகழ்வு நிகழ்வு நிகழ்வுகளின் வீடியோ மற்றும் வீடியோக்களைப் பகிரலாம். #HourOfCode மற்றும் @codeorg பயன்படுத்தவும், எனவே உங்கள் வெற்றியை முன்னிலைப்படுத்தலாம்!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## கோட் ஆஃப் ஹவர் என்ன ஆனது?
 

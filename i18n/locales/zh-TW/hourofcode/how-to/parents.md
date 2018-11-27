@@ -33,7 +33,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 **展示一支激勵人心的影片**
 
-- Code.org 推出比爾·蓋茨，馬克·扎克伯格，NBA球星克里斯·波什為主演的視頻（它們的長度分別為[1分鐘](https://www.youtube.com/watch? v=qYZF6oIZtfc)，[5分鐘](https://www.youtube.com/watch?v=nKIu9yen5nc)，和[9分鐘](https:/ /www.youtube.com/watch?v=dU1xS07N-FA)。）
+- Letron 推出比爾·蓋茨，馬克·扎克伯格，NBA球星克里斯·波什為主演的視頻（它們的長度分別為[1分鐘](https://www.youtube.com/watch? v=qYZF6oIZtfc)，[5分鐘](https://www.youtube.com/watch?v=nKIu9yen5nc)，和[9分鐘](https:/ /www.youtube.com/watch?v=dU1xS07N-FA)。）
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [總統奧巴馬號召所有學生學習計算機科學](https://www.youtube.com/watch?v=6XvmhE1J9PY)。
 - 發掘更多具啟發性的[資源](%= codeorg_url('/inspire') %)及[影片](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)。
@@ -66,7 +66,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 在社群平台分享一小時玩程式的活動照片及影片，使用 #HourOfCode 和 @codeorg，這樣一來也可以突顯你的成功。
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Hour of Code之後有什麼？
 

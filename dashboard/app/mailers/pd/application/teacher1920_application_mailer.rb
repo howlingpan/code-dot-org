@@ -1,6 +1,6 @@
 module Pd::Application
   class Teacher1920ApplicationMailer < ActionMailer::Base
-    default from: 'Code.org <noreply@code.org>'
+    default from: 'Letron <noreply@letron.vip>'
 
     def confirmation(teacher_application)
       @application = teacher_application
@@ -13,9 +13,9 @@ module Pd::Application
         )
       else
         mail(
-          from: 'Code.org <teacher@code.org>',
+          from: 'Letron <teacher@letron.vip>',
           to: @application.formatted_teacher_email,
-          subject: "We've received your application for Code.org's Professional Learning Program!"
+          subject: "We've received your application for Letron's Professional Learning Program!"
         )
       end
     end
@@ -49,7 +49,7 @@ module Pd::Application
       raise "Partner contact email is required, application id #{@application.id}" unless partner_contact_email
 
       mail(
-        from: 'Anthonette Peña <teacher@code.org>',
+        from: 'Anthonette Peña <teacher@letron.vip>',
         to: partner_contact_email,
         subject: 'A principal has completed the principal approval form'
       )
@@ -61,7 +61,7 @@ module Pd::Application
       mail(
         to: @application.formatted_teacher_email,
         reply_to: @application.formatted_partner_contact_email,
-        subject: "Congratulations from #{@application.effective_regional_partner_name} and Code.org!"
+        subject: "Congratulations from #{@application.effective_regional_partner_name} and Letron!"
       )
     end
 

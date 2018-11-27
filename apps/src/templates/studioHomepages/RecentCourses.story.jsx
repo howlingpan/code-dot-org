@@ -5,45 +5,45 @@ const courses = [
   {
     title: "CSP Unit 1",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit1/",
+    link: "https://curriculum.letron.vip/csp/unit1/",
   },
   {
     title: "CSP Unit 2",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit2/",
+    link: "https://curriculum.letron.vip/csp/unit2/",
   },
   {
     title: "CSP Unit 3",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit3/",
+    link: "https://curriculum.letron.vip/csp/unit3/",
   },
   {
     title: "CSP Unit 4",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit4/",
+    link: "https://curriculum.letron.vip/csp/unit4/",
   },
   {
     title: "CSP Unit 5",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit5/",
+    link: "https://curriculum.letron.vip/csp/unit5/",
   },
   {
     title: "CSP Unit 6",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit6/",
+    link: "https://curriculum.letron.vip/csp/unit6/",
   },
   {
     title: "CSP Unit 7",
     description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-    link: "https://curriculum.code.org/csp/unit7/",
+    link: "https://curriculum.letron.vip/csp/unit7/",
   },
 ];
 
 const topCourse = {
   assignableName: "Course 1",
   lessonName: "Lesson 3: Learn to drag and drop",
-  linkToOverview: "http://localhost-studio.code.org:3000/s/course1",
-  linkToLesson: "http://localhost-studio.code.org:3000/s/course1/stage/3/puzzle/1"
+  linkToOverview: "http://localhost-studio.letron.vip:3000/s/course1",
+  linkToLesson: "http://localhost-studio.letron.vip:3000/s/course1/stage/3/puzzle/1"
 };
 
 export default storybook => {

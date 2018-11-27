@@ -40,7 +40,7 @@ So we're going to need 4 event handlers, one for each button.</p>
 <p>Good thinking.  We can put that in this function too since it's called on every button click.  Let me sketch out what I'm thinking...</p>
 
 </div>
-<img src="https://images.code.org/69ec2ec89d37fea6848f09f58c2acab4-image-1481147311283.png" alt="" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/69ec2ec89d37fea6848f09f58c2acab4-image-1481147311283.png" alt="" style="display: block; margin: auto;">
 <div style="width: 400px; margin: auto">
 
 <p style="text-align: center"> MICHAEL </p>
@@ -55,7 +55,7 @@ So we're going to need 4 event handlers, one for each button.</p>
 <p>Here, let me add to the sketch...</p>
 
 </div>
-<img src="https://images.code.org/f58a4e1e12ff676948c45eac3cfc42d3-image-1481695210092.png" alt="" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/f58a4e1e12ff676948c45eac3cfc42d3-image-1481695210092.png" alt="" style="display: block; margin: auto;">
 <div style="width: 400px; margin: auto">
 
 <p style="text-align: center"> ALEXIS </p>
@@ -71,7 +71,7 @@ Ok, good.  <code>randButtonId</code> is actually the "correct" button to click i
 <p>Here, I'll sketch it out...</p>
 
 </div>
-<img src="https://images.code.org/c4fb61e94d04481fd7487f92b31af32f-image-1481695543998.png" alt="" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/c4fb61e94d04481fd7487f92b31af32f-image-1481695543998.png" alt="" style="display: block; margin: auto;">
 <div style="width: 400px; margin: auto">
 
 <p style="text-align: center"> MICHAEL </p>

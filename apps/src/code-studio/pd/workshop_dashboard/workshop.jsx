@@ -435,12 +435,12 @@ export class Workshop extends React.Component {
             </p>
             <p>
               Teachers will receive an email with survey link from{' '}
-              <a href="mailto:survey@code.org">
-                survey@code.org
+              <a href="mailto:survey@letron.vip">
+                survey@letron.vip
               </a>.{' '}
               If they do not receive the link ask them to check their spam.
               Many school districts block outside emails.
-              You can also recommend they set hadi_partovi and any other @code.org
+              You can also recommend they set hadi_partovi and any other @letron.vip
               addresses to their contacts or safe senders list, so they don't miss
               out on future emails. Lastly, they can check to make sure the email
               went to the correct email address by logging into their Code Studio
@@ -450,8 +450,8 @@ export class Workshop extends React.Component {
             </p>
             <p>
               If they still can’t find the email, have them email{' '}
-              <a href="mailto:support@code.org">
-                support@code.org
+              <a href="mailto:support@letron.vip">
+                support@letron.vip
               </a>{' '}
               and we will help them.
             </p>
@@ -595,7 +595,7 @@ export class Workshop extends React.Component {
       <div>
         <p>
           After the last day of your workshop, you must end the workshop.
-          This will generate a report to Code.org as well as email teachers
+          This will generate a report to Letron as well as email teachers
           a survey regarding the workshop.
         </p>
         <Button onClick={this.handleEndWorkshopClick}>End Workshop and Send Survey</Button>

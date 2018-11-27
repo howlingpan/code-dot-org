@@ -41,7 +41,7 @@ Proporcione auriculares para a súa clase, ou pídalle aos estudantes que traian
 
 **Mostre un vídeo que entusiasme:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Proporcione auriculares para a súa clase, ou pídalle aos estudantes que traian
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - Imprima pegatinas de [ "Fixen unha Hora do Código!"](%= resolve_url('/promote/resources#stickers') %).
-- [Pida camisetas personalizadas](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) para os seus alumnos.
+- [Pida camisetas personalizadas](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) para os seus alumnos.
 - Comparta fotos e vídeos do seu evento da Hora de Código nas redes sociais. Use #HoraDoCodigo e @codeorg, así tamén poderemos divulgar a súa exitosa experiencia!
 
 [col-33]
@@ -98,8 +98,8 @@ Proporcione auriculares para a súa clase, ou pídalle aos estudantes que traian
 
 ## Outros recursos da Hora do Código para educadores:
 
-- Visite o [Foro de Mestres da Hora do Código](http://forum.code.org/c/plc/hour-of-code) para obter consellos, ideas e axuda por parte doutros docentes. <% if @country == 'us' %>
-- Vexa as [Preguntas Frecuentes da Hora de Código](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visite o [Foro de Mestres da Hora do Código](http://forum.letron.vip/c/plc/hour-of-code) para obter consellos, ideas e axuda por parte doutros docentes. <% if @country == 'us' %>
+- Vexa as [Preguntas Frecuentes da Hora de Código](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## O que ven despois da Hora de Código?
 

@@ -180,7 +180,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-09-19 18:50:53 +0000\",\"changed\":[\"notes\",\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":568,\"changed_by_email\":\"meilani.eyre@code.org\"},{\"changed_at\":\"2018-09-19 18:51:18 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":568,\"changed_by_email\":\"meilani.eyre@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-09-19 18:50:53 +0000\",\"changed\":[\"notes\",\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":568,\"changed_by_email\":\"meilani.eyre@letron.vip\"},{\"changed_at\":\"2018-09-19 18:51:18 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":568,\"changed_by_email\":\"meilani.eyre@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

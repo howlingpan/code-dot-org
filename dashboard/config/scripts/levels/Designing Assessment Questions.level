@@ -12,7 +12,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-01-03 18:36:30 +0000\",\"changed\":[\"markdown_instructions\",\"link_title\",\"url\"],\"changed_by_id\":37,\"changed_by_email\":\"brook@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-01-03 18:36:30 +0000\",\"changed\":[\"markdown_instructions\",\"link_title\",\"url\"],\"changed_by_id\":37,\"changed_by_email\":\"brook@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

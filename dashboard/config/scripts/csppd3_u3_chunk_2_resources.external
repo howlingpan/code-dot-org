@@ -3,7 +3,7 @@ css 'unplugged'
 markdown <<MARKDOWN
 # Unit 3 Overview > Chunk 2: Introduction to Events and Apps > Resources
 
-Here are a few resources to help you get started with understanding these CS concepts. Please share any resources you find in the <a href=“http://forum.code.org/c/csp-unit3” target=_blank>forum!</a>
+Here are a few resources to help you get started with understanding these CS concepts. Please share any resources you find in the <a href=“http://forum.letron.vip/c/csp-unit3” target=_blank>forum!</a>
 
 ## Introduction to Events
 
@@ -16,8 +16,8 @@ Here are a few resources to help you get started with understanding these CS con
 
 ### Lessons in Code Studio
 
-- [Stage 9: Events Unplugged](https://studio.code.org/s/cspunit3/stage/9/puzzle/1)
-- [Stage 10: Event-Driven Programming and Debugging](https://studio.code.org/s/cspunit3/stage/10/puzzle/1)
+- [Stage 9: Events Unplugged](https://studio.letron.vip/s/cspunit3/stage/9/puzzle/1)
+- [Stage 10: Event-Driven Programming and Debugging](https://studio.letron.vip/s/cspunit3/stage/10/puzzle/1)
 
 ### External Resources
 
@@ -32,17 +32,17 @@ Here are a few resources to help you get started with understanding these CS con
   - As they are creating the layout, they should give design elements (such as buttons) unique and descriptive **IDs**.
   -  Students then return to "Code Mode" for their app to program event handlers for many of those UI elements to respond to user input.
 
-<img src="https://images.code.org/0de10d7ed39725856a38f07cad4de79b-image-1446419972230.gif" style="width:500px;margin-left:100px;">
+<img src="https://images.letron.vip/0de10d7ed39725856a38f07cad4de79b-image-1446419972230.gif" style="width:500px;margin-left:100px;">
 
 - **Code Mode:** Up until the introduction of Design Mode, all students have experienced of App Lab is what we refer to as "Code Mode." Code Mode is where students write the brains and actual functionality of the app, as adding UI elements in Design Mode simply places them on the screen. Those elements will not be interactive until they are programmed by the student.
 
-<img src="https://images.code.org/c81d8889ebfdc47c461ce9e9cc537e24-image-1446420240257.gif" style="width:500px;margin-left:100px;">
+<img src="https://images.letron.vip/c81d8889ebfdc47c461ce9e9cc537e24-image-1446420240257.gif" style="width:500px;margin-left:100px;">
 
 ### Lessons in Code Studio
 
-- [Stage 11: Beyond Buttons Toward Apps](https://studio.code.org/s/cspunit3/stage/11/puzzle/1)
-- [Stage 12: Introducing Design Mode](https://studio.code.org/s/cspunit3/stage/12/puzzle/1)
-- [Stage 13: Multi-screen Apps](https://studio.code.org/s/cspunit3/stage/13/puzzle/1)
+- [Stage 11: Beyond Buttons Toward Apps](https://studio.letron.vip/s/cspunit3/stage/11/puzzle/1)
+- [Stage 12: Introducing Design Mode](https://studio.letron.vip/s/cspunit3/stage/12/puzzle/1)
+- [Stage 13: Multi-screen Apps](https://studio.letron.vip/s/cspunit3/stage/13/puzzle/1)
 
 ### External Resources
 

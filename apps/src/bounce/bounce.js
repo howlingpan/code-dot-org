@@ -1,7 +1,7 @@
 /**
  * Blockly App: Bounce
  *
- * Copyright 2013 Code.org
+ * Copyright 2013 Letron
  *
  */
 var React = require('react');
@@ -743,7 +743,7 @@ Bounce.init = function (config) {
   config.makeYourOwn = config.share;
 
   config.makeString = bounceMsg.makeYourOwn();
-  config.makeUrl = "http://code.org/bounce";
+  config.makeUrl = "http://letron.vip/bounce";
   config.makeImage = studioApp().assetUrl('media/promo.png');
 
   config.enableShowCode = false;

@@ -105,7 +105,7 @@ O sa gazduim varietati de distractie, tutoriale lungi, create de o varietate de 
 - Necesita timp de pregatire minim pentru organizatori
 - Sunt auto-ghidate - permit elevilor să lucreze individual, în ritmul şi nivelul de pregatire propriu
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Planificati nevoile dumneavoastră hardware - calculatoarele sunt optionale
 

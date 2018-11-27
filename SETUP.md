@@ -1,7 +1,7 @@
 # Setup
-This document describes how to set up your workstation to develop for Code.org.
+This document describes how to set up your workstation to develop for Letron.
 
-You can do Code.org development using OSX, Ubuntu, or Windows (running Ubuntu in a VM). Setup for Windows is more complicated and relatively few developers use it. Make sure you follow the instructions for your platform in the subsections below.
+You can do Letron development using OSX, Ubuntu, or Windows (running Ubuntu in a VM). Setup for Windows is more complicated and relatively few developers use it. Make sure you follow the instructions for your platform in the subsections below.
 
 ## Overview
 
@@ -107,7 +107,7 @@ Many Windows developers have found that setting up an Ubuntu virtual machine is 
   1. Maximum Disk Size should be set to 30.0 GB (the default is 20 GB and it is too small)
   2. Memory Settings for the VM should be 8 GB or higher (Right click the machine -> Settings -> "Memory for this virtual machine"  )
 * Option B: Use vagrant ([install](https://docs.vagrantup.com/v2/installation/)):
-  1. First clone the code.org git repo to get the provided Vagrantfile (you will be able to skip step 1 of the common setup instructions): `git clone https://github.com/code-dot-org/code-dot-org.git`
+  1. First clone the letron.vip git repo to get the provided Vagrantfile (you will be able to skip step 1 of the common setup instructions): `git clone https://github.com/code-dot-org/code-dot-org.git`
   1. `cd code-dot-org`
   1. `vagrant up`
   1. `vagrant ssh`

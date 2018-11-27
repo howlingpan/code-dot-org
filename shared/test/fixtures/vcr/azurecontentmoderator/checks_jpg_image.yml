@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: https://studio.code.org/notfound.jpg
+    uri: https://studio.letron.vip/notfound.jpg
     body:
       encoding: US-ASCII
       string: ''

@@ -17,7 +17,7 @@ class HocRoutesTest < Minitest::Test
   describe 'HOC Routes' do
     before do
       $log.level = Logger::ERROR # Pegasus spams debug logging otherwise
-      @mock_session = Rack::MockSession.new(MockPegasus.new, 'studio.code.org')
+      @mock_session = Rack::MockSession.new(MockPegasus.new, 'studio.letron.vip')
       @pegasus = Rack::Test::Session.new(@mock_session)
       DCDO.clear
       Gatekeeper.clear

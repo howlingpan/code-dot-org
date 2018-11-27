@@ -46,7 +46,7 @@ mk:
         2-3_Artist_9_b: |-
           Don't forget to turn the artist left by 45 degrees before you start drawing your square!
 
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Remember, you want the control panel 10 pixels
           *wider*...so be sure to **add** 10 to whatever number you change.
@@ -191,7 +191,7 @@ mk:
         2-3_Bee_Conditionals_14_b: If the red flower were purple, could you figure
           out how to use an extra `repeat` loop to cut down on code?
         2-3_Bee_Conditionals_14_c: "Try breaking this up into two separate chunks:
-          \ \n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
+          \ \n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
           Gather nectar 3 times\n  - Move forward 5 times\n  - Check to see if nectar,
           if so: get it\n  - Turn left\n  \n2) Make honey \n  - Move forward one time\n
           \ - Make two honey"
@@ -223,7 +223,7 @@ mk:
       2-3 Bee Functions 8_authored_hint:
         2-3_Bee_Functions_8_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
@@ -231,7 +231,7 @@ mk:
         2-3_Bee_Functions_8_b: |-
           Remember to build your code inside of the green function block.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: You should end up with four blocks inside your loop.
       2-3 Bee Loops 3_authored_hint:
@@ -294,7 +294,7 @@ mk:
         2-3_Maze_Loops_21_a: If you are having trouble finding the stair-step pattern,
           try covering the blocked paths with your finger.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Within your loop, make sure the artist jumps backwards and
           upwards after drawing each line.
@@ -431,7 +431,7 @@ mk:
           **Solution**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: To use a `move forward` block, drag it from the toolbar area
           out into the workspace and connect it to the `when run` block.
@@ -1129,7 +1129,7 @@ mk:
           </xml>
       Course 4 SCF 1a_authored_hint:
         Course_4_SCF_1a_a: Remember your functions from stage 16.
-        Course_4_SCF_1a_b: "Look at this path as your main route:  \n\n![](https://images.code.org/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
+        Course_4_SCF_1a_b: "Look at this path as your main route:  \n\n![](https://images.letron.vip/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
         Course_4_SCF_1a_c: You should consider using a `for loop`. Not for the steps,
           but for the function parameter.
         Course_4_SCF_1a_d: |-
@@ -1357,7 +1357,7 @@ mk:
       Course 4 SCF 1b_authored_hint:
         Course_4_SCF_1b_a: "Notice that the shape of all honey points is similar.
           \ \n\nGood place for a function!"
-        Course_4_SCF_1b_b: "Look at this idea for how the bee might travel:  \n\n![](https://images.code.org/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
+        Course_4_SCF_1b_b: "Look at this idea for how the bee might travel:  \n\n![](https://images.letron.vip/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
         Course_4_SCF_1b_c: You should consider using a `for loop` for the distance
           the bee travels.
         Course_4_SCF_1b_d: |-
@@ -1654,7 +1654,7 @@ mk:
           </block>
           </xml>
       Course 4 SCF 3_authored_hint:
-        Course_4_SCF_3_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        Course_4_SCF_3_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         Course_4_SCF_3_b: 'This is a series of octagons with sides that are `counter`
           pixels long. '
         Course_4_SCF_3_c: 'Each octagon is called from inside a `for` loop that goes
@@ -1810,7 +1810,7 @@ mk:
           </block>
           </xml>
       Course 4 SCFL 1_authored_hint:
-        Course_4_SCFL_1_a: "Take a look at this option for movement:  \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1_a: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_1_b: 'Try using two `for` loops: One for climbing up and grabbing
           nectar, and the other for climbing down and making honey.'
         Course_4_SCFL_1_c: "Notice that one `for` loop needs several regular loops
@@ -1953,7 +1953,7 @@ mk:
       Course 4 SCFL 1a_authored_hint:
         Course_4_SCFL_1a_a: You may have to travel farther overall to use the smallest
           number of blocks.
-        Course_4_SCFL_1a_b: "Take a look at this option for movement:  \n\n![](https://images.code.org/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
+        Course_4_SCFL_1a_b: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
         Course_4_SCFL_1a_c: A `for loop` will help you execute the same pattern, but
           with a changing number of steps.  Notice that the number of steps needed
           decreases from 7 to 5 by 1.
@@ -2037,7 +2037,7 @@ mk:
           </xml>
       Course 4 SCFL 1b_authored_hint:
         Course_4_SCFL_1b_a: Try using a `for loop`.
-        Course_4_SCFL_1b_b: "Take a look at this option for movement:  \n\n![](https://images.code.org/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
+        Course_4_SCFL_1b_b: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
         Course_4_SCFL_1b_c: |-
           **Solution:**
 
@@ -2100,7 +2100,7 @@ mk:
           </block>
           </xml>
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Take a look at this option for movement:  \n\n![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
+        Course_4_SCFL_2_a: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
         Course_4_SCFL_2_b: Notice that there are three points during each iteration
           of this `for` loop where you stop to interact with objects.
         Course_4_SCFL_2_c: During each iteration of the `for` loop, the number for
@@ -2951,8 +2951,8 @@ mk:
           </xml>
       Course 4 SCV 2_authored_hint:
         Course_4_SCV_2_a: "The completed image is made up of 10 of these \"flowers\":
-          \ \n![](https://images.code.org/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n
-          \       \n...which are made up of 10 of these decagons:  \n![](https://images.code.org/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
+          \ \n![](https://images.letron.vip/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n
+          \       \n...which are made up of 10 of these decagons:  \n![](https://images.letron.vip/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
         Course_4_SCV_2_b: 'This design uses nested loops (three deep). All loops run
           `sides` times. '
         Course_4_SCV_2_c: The artist turns to the left when creating each decagon,
@@ -3173,7 +3173,7 @@ mk:
         Course_4_SCV_4_b: 'It will be very helpful to use three loops inside of your
           main loop.  One for moving forward, one for collecting nectar and one for
           making honey. '
-        Course_4_SCV_4_c: "Take a look at this option for movement:  \n\n![](https://images.code.org/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
+        Course_4_SCV_4_c: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
         Course_4_SCV_4_d: |-
           **Solution:**
 
@@ -3313,7 +3313,7 @@ mk:
         Course_4_SCV_5_a: |-
           Take a look at this option for movement:
 
-          ![](https://images.code.org/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
+          ![](https://images.letron.vip/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
         Course_4_SCV_5_b: Each time through the loop, the flowers have two less nectar
           and the bee needs to make one more honey.
         Course_4_SCV_5_c: Notice that at the beginning of the outside loop, the bee
@@ -3446,7 +3446,7 @@ mk:
         Course_4_SCV_6_a: |-
           Take a look at what a single completed shape looks like
 
-          ![](https://images.code.org/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
+          ![](https://images.letron.vip/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
         Course_4_SCV_6_b: 'You will benefit from creating 8 variables: red1, green1,
           blue1, red2, green2, blue2, length, and sides.'
         Course_4_SCV_6_c: Each of the shape's 5 sides is broken up into pieces of
@@ -3768,7 +3768,7 @@ mk:
         second_hint: |-
           This is the second hint. It has an image.
 
-          ![](https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+          ![](https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: This is the third and final hint. It doesn't have anything special.
       Farmer for TTS testing_authored_hint:
         first_hint: |-
@@ -3778,7 +3778,7 @@ mk:
         second_hint: |-
           This is the second hint. It has an image.
 
-          ![](https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+          ![](https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: This is the third and final hint. It doesn't have anything special.
       Function intro Ryan_authored_hint:
         Function_intro_Ryan_b: If you call the functions correctly, this is the path
@@ -3802,7 +3802,7 @@ mk:
           **Solution**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       InspirationalArtwork_authored_hint: []
       InspirationalArtwork_2018_authored_hint: []
       K2.0 sequence 1_authored_hint:
@@ -3889,7 +3889,7 @@ mk:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Crossing these two pressure plates will open the path for the player.
 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Use the `turn right` block to change the agent''s
           direction '
@@ -3955,7 +3955,7 @@ mk:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Crossing these two pressure plates will open the path for the player.
 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Press "Run"!
@@ -4252,14 +4252,14 @@ mk:
         conditional_pointer: |-
           Start by thinking about this part: what's different each step of the way? What kind of block can you use to make a *decision* about whether you're at a flower or honeycomb?
 
-          ![](https://images.code.org/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
+          ![](https://images.letron.vip/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
         turn_at_honeycomb_pointer: Other than making honey, do you see anything different
           that you have to do at each honeycomb?
       Planning Farmer_authored_hint:
         conditional_pointer: |-
           Start by thinking about this part: what's different each step of the way? What kind of block can you use to make a *decision* about whether you're at a flower or honeycomb?
 
-          ![](https://images.code.org/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
+          ![](https://images.letron.vip/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
         turn_at_honeycomb_pointer: Other than making honey, do you see anything different
           that you have to do at each honeycomb?
       Quantum Bee - Ryan_authored_hint:
@@ -4472,12 +4472,12 @@ mk:
 
 
 
-          ![](https://images.code.org/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
+          ![](https://images.letron.vip/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
 
-          Design your own or click the ![](https://images.code.org/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) for some ideas!
-        courseA_artist_loops_challenge1_b: "![](https://images.code.org/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
-        courseA_artist_loops_challenge1_c: "![](https://images.code.org/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
-        courseA_artist_loops_challenge1_d: "![](https://images.code.org/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
+          Design your own or click the ![](https://images.letron.vip/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) for some ideas!
+        courseA_artist_loops_challenge1_b: "![](https://images.letron.vip/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
+        courseA_artist_loops_challenge1_c: "![](https://images.letron.vip/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
+        courseA_artist_loops_challenge1_d: "![](https://images.letron.vip/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
       course1_artist_loops_challenge2_authored_hint:
         harvey_tictactoe: You can use `jump` blocks to move to other spaces.
       course1_artist_loops_challenge3_authored_hint:
@@ -4502,14 +4502,14 @@ mk:
         courseA_collector_loops_challenge1_c: There are 6 gems on the right side of
           the cave, but you only need to move and collect 5 times. Do you know why?
       course1_collector_loops_challenge2_authored_hint:
-        courseA_collector_loops_challenge2_b: 'You only need to use one ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34
+        courseA_collector_loops_challenge2_b: 'You only need to use one ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34
           PM.png) block to solve this.
 
 '
         courseA_collector_loops_challenge2_a: |-
           You can move back over the path a second time before moving south.
 
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       course1_collector_loops_challenge3_authored_hint:
         courseB_collector_loops_challenge1_b: |
           Start by looping the commands `move south` and `get treasure`.
@@ -4825,11 +4825,11 @@ mk:
         courseC_harvester_loops_challenge2_c: |
           This zig-zag pattern can be repeated twice to finish the puzzle with just 20 blocks!
 
-          ![](https://images.code.org/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
+          ![](https://images.letron.vip/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
         courseC_harvester_loops_challenge2_d: |-
           This spiral pattern can be coded with just 18 blocks!
 
-          ![](https://images.code.org/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
+          ![](https://images.letron.vip/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
       course2_maze_loops_challenge1_authored_hint:
         courseC_maze_loops_challenge1_a: Think about this path as being three different
           pieces. Each one has a pattern you can repeat.
@@ -4838,7 +4838,7 @@ mk:
         courseC_maze_loops_challenge1_c: |-
           If you make it this far, you just need to `turn left` then `move forward` a few times. Don't give up!
 
-          ![](https://images.code.org/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
+          ![](https://images.letron.vip/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
       course2_maze_programming_challenge1_authored_hint: []
       course2_maze_programming_challenge2_authored_hint:
         courseC_maze_programming_challenge2_a: "*If you send me backwards, be extra
@@ -4867,7 +4867,7 @@ mk:
           artist to any pixel on the grid, whenever you want. It works by moving him
           a number of pixels over to the right and a number of pixels down. This is
           always counted from the top left corner, which it means it doesn't matter
-          where the zombie artist is *before* the command is run!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+          where the zombie artist is *before* the command is run!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       course3_bee_debugging_challenge1_authored_hint:
         courseD_bee_debugging_challenge1_a: Why does the first half of this program
           work? Think about why the bee needs to move backward. How much nectar does
@@ -5016,7 +5016,7 @@ mk:
           </xml>
       course3_collector_debugging_challenge2_authored_hint:
         courseD_collector_debugging_challenge2_a: "Start by focusing on collect TWO
-          gems from each of the first two piles.\n\n![](https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04
+          gems from each of the first two piles.\n\n![](https://images.letron.vip/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04
           AM copy.png)\nUse these blocks.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block
           type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n
           \ </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title
@@ -5024,7 +5024,7 @@ mk:
           \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n
           \   <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
         courseD_collector_debugging_challenge2_b: "Next, collect the remaining gems
-          in this row.\n\n![](https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04
+          in this row.\n\n![](https://images.letron.vip/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04
           AM.png)\nAdd these blocks to your program.\n\n<xml><block type=\"maze_move\">\n
           \                   <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block
           type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement
@@ -5102,7 +5102,7 @@ mk:
         courseC_maze_debugging_challenge2_c: |-
           There are two different paths you can follow just using `move forward`, and only four turns. If you find a way to use the `repeat` block, there may be even more!
 
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       course3_maze_until_challenge1_authored_hint: []
       course3_playLab_challenge1_authored_hint:
         courseE_playLab_challenge1_a: |-
@@ -5191,7 +5191,7 @@ mk:
           artist to any pixel on the grid, whenever you want. It works by moving him
           a number of pixels over to the right and a number of pixels down. This is
           always counted from the top left corner, which it means it doesn't matter
-          where the zombie artist is *before* the command is run!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+          where the zombie artist is *before* the command is run!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       course4_artist_fwp_challenge1_authored_hint: []
       course4_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_a: Each vertical line has a length of
@@ -5203,7 +5203,7 @@ mk:
         courseF_artist_variables_challenge1_d: |-
           This puzzle just uses one loop. Without any variables, a similar path might just be a zig-zag.
 
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
 
           If you are having trouble, start by creating this image, then try to see where you can use variables to change the length of the horizontal lines.
         courseF_artist_variables_challenge1_e: |-
@@ -5364,7 +5364,7 @@ mk:
         courseF_artist_variables_challenge2_d: |-
           **Solution:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       course4_bee_for_challenge1_authored_hint: []
       course4_bee_fwp_challenge1_authored_hint:
         courseF_bee_fwp_challenge1_a: |-
@@ -5863,14 +5863,14 @@ mk:
         courseA_artist_loops3_b: |-
           You will want to use a block like this to solve this puzzle.
 
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops3_2018_authored_hint:
         courseA_artist_loops3_a: Trace slowly through the program with your finger
           to see where it goes wrong.
         courseA_artist_loops3_b: |-
           You will want to use a block like this to solve this puzzle.
 
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops4_authored_hint:
         courseA_artist_loops4_a: If you want the loop to repeat more than 4 times,
           you can change the number at the top of the block.
@@ -6196,8 +6196,8 @@ mk:
       courseA_collector_preLoops2_authored_hint: []
       courseA_collector_preLoops3_authored_hint: []
       courseA_collector_preLoops4_authored_hint:
-        courseA_collector_preLoops4_a: 'To grab the treasure, snap two ![](https://images.code.org/2df8a25d7e96207f57d1a6b504950b70-image-1508906116743.34.37.png)
-          blocks and one ![](https://images.code.org/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png)
+        courseA_collector_preLoops4_a: 'To grab the treasure, snap two ![](https://images.letron.vip/2df8a25d7e96207f57d1a6b504950b70-image-1508906116743.34.37.png)
+          blocks and one ![](https://images.letron.vip/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png)
           block to the bottom of the program and click "Run"!
 
 '
@@ -6205,7 +6205,7 @@ mk:
         courseA_collector_preLoops5_a: You'll need to go two different directions
           to get even one gem!
       courseA_collector_preLoops6_authored_hint:
-        courseA_collector_preLoops6_a: You will need to use two ![](https://images.code.org/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png)
+        courseA_collector_preLoops6_a: You will need to use two ![](https://images.letron.vip/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png)
           blocks to solve this puzzle.
       courseA_collector_preLoops7_authored_hint:
         courseA_collector_loops2_b: |-
@@ -6465,7 +6465,7 @@ mk:
         courseA_playLab_events5_b: |-
           Did you know that you can change the key for  the event arrow by clicking on the picture in the block and choosing a new key?
 
-          ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
+          ![](https://images.letron.vip/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events5_2018_authored_hint:
         courseA_playLab_events5_a: "Here are the event blocks that you will need to
           use to move Jorge up and down:\n\n<xml><block type=\"studio_whenArrow\">\n
@@ -6474,7 +6474,7 @@ mk:
         courseA_playLab_events5_b: |-
           Did you know that you can change the key for  the event arrow by clicking on the picture in the block and choosing a new key?
 
-          ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
+          ![](https://images.letron.vip/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events6_authored_hint:
         courseA_playLab_events6_a: |-
           Here is the event block that you would use to have Jorge do something when clicked:
@@ -6742,7 +6742,7 @@ mk:
         courseB_artist_loops7_b: |-
           Notice that every loop makes a stair pattern that goes a different direction.
 
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
         courseB_artist_loops7_c: "The loops should do this:\n- Loop 1\n  - Right\n
           \ - Down\n  \n- Loop 2\n  - Right\n  - Up\n\n- Loop 3\n  - Left\n  - Up\n\n-
           Loop 4\n  - Left\n  - Down"
@@ -6971,14 +6971,14 @@ mk:
           will either need to add two  <xml> <block type="collector_collect"/></xml>
           blocks inside your loop, or put the block inside of its own `repeat` block.
       courseB_collector_loops_challenge`_authored_hint:
-        courseA_collector_loops_challenge2_b: 'You only need to use one ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34
+        courseA_collector_loops_challenge2_b: 'You only need to use one ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34
           PM.png) block to solve this.
 
 '
         courseA_collector_loops_challenge2_a: |-
           You can move back over the path a second time before moving south.
 
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       courseB_collector_prog3_authored_hint:
         courseB_collector_prog3_a: Try using a `repeat` block to collect your gold.
       courseB_maze_seq1_authored_hint:
@@ -7044,7 +7044,7 @@ mk:
       courseB_maze_seqCold_authored_hint:
         courseB_maze_seqCold_a: Stuck? Try tracing the bird's path with your finger.
         courseB_maze_seqCold_b: The extra blocks need to be added before the last
-          ![](https://images.code.org/145dfc20c086bc8fc265de47f3cfe4b0-image-1467848177684.35.51
+          ![](https://images.letron.vip/145dfc20c086bc8fc265de47f3cfe4b0-image-1467848177684.35.51
           PM.png )
       courseB_maze_seqOld_authored_hint:
         courseB_maze_seqOld_a: If you're having trouble, try writing down the steps
@@ -7127,7 +7127,7 @@ mk:
         courseB_playlab_events6_b: |-
           Use the drop down arrows on the green `when ___ arrow pressed` event blocks to choose different directions.
 
-          ![](https://images.code.org/b4c76f19fc2d2694c1f731e5f6e786b8-image-1501003990996.gif)
+          ![](https://images.letron.vip/b4c76f19fc2d2694c1f731e5f6e786b8-image-1501003990996.gif)
         courseB_playlab_events6_c: Get to all of the flags to pass!
       courseB_playlab_events7_authored_hint:
         courseB_playlab_events7_a: |-
@@ -7160,15 +7160,15 @@ mk:
         courseB_playlab_events7_a: |-
           This is the event block that you will need:
 
-          ![](https://images.code.org/2ed42b3a3108c6affdfc866de57f2eec-image-1475624565390.42.18.png)
+          ![](https://images.letron.vip/2ed42b3a3108c6affdfc866de57f2eec-image-1475624565390.42.18.png)
         courseB_playlab_events7_b: |-
           This is the block you need to play a sound.
 
-          ![](https://images.code.org/58e9b9a146a4ca3a8eee25845110b805-image-1475624550269.42.00.png)
+          ![](https://images.letron.vip/58e9b9a146a4ca3a8eee25845110b805-image-1475624550269.42.00.png)
         courseB_playlab_events7_c: |-
           This is the block you need to make the knight vanish:
 
-          ![](https://images.code.org/f468611cbe51e1cb35531334f625395a-image-1475624478204.41.02.png)
+          ![](https://images.letron.vip/f468611cbe51e1cb35531334f625395a-image-1475624478204.41.02.png)
       courseB_playlab_events_challenge1_authored_hint:
         courseB_playlab_events_challenge1_a: "Make the other animals move down when
           you press `▼`. \n<xml>\n  <block type=\"studio_whenArrow\" movable=\"false\">\n
@@ -7299,7 +7299,7 @@ mk:
         courseB_starWars_prog5_da: |-
           Look what happens if you use the same solution as the stair-step puzzle:
 
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseB_starWars_prog6_authored_hint:
         courseB_starWars_prog6_a: This pattern is just a stair step with two moves
           per direction!
@@ -7417,13 +7417,13 @@ mk:
 
           **Who's there?** Make characters appear with random images, so no one knows who's showing up next.
 
-          ![](https://images.code.org/a56e03479801995d93ad5a4e4384a79e-image-1475340154498.gif)
+          ![](https://images.letron.vip/a56e03479801995d93ad5a4e4384a79e-image-1475340154498.gif)
         idea2: |-
           *Need an idea?*
 
           **Going on an Adventure** - Change the background, then have the characters talk about where they are now.
 
-          ![](https://images.code.org/010c4d919f841d6049caf9211ab65ccc-image-1475340583052.gif)
+          ![](https://images.letron.vip/010c4d919f841d6049caf9211ab65ccc-image-1475340583052.gif)
         idea3: |-
           *Need an idea?*
 
@@ -7467,7 +7467,7 @@ mk:
           </block>
           </value>
           </block></xml>
-          ![](https://images.code.org/b1559bf476ceb59f880c43271c5e10b2-image-1494111787192.59.49 PM.png)
+          ![](https://images.letron.vip/b1559bf476ceb59f880c43271c5e10b2-image-1494111787192.59.49 PM.png)
       courseC_artist_loop1_authored_hint:
         courseC_artist_loop1_a: You don't need to make any changes to the loop, just
           put one block above it.
@@ -7548,10 +7548,10 @@ mk:
       courseC_artist_loops6_authored_hint:
         courseC_artist_loops6_a: |
           Try a triangle flower:
-          <img src="https://images.code.org/4248a974a7631c4240effba06fdee731-image-1495821015097.49.18.png" width="150px" />
+          <img src="https://images.letron.vip/4248a974a7631c4240effba06fdee731-image-1495821015097.49.18.png" width="150px" />
 
           Or a little green bug:
-          <img src="https://images.code.org/b9454d6f1159e19c58d9f5b5b37fd156-image-1495821067980.52.43.png" width="150px" />
+          <img src="https://images.letron.vip/b9454d6f1159e19c58d9f5b5b37fd156-image-1495821067980.52.43.png" width="150px" />
       courseC_artist_loops6a_authored_hint:
         courseC_artist_loops6a_a: To make a design like the one above, jump forward
           less than 75 pixels between each sticker.
@@ -7569,11 +7569,11 @@ mk:
         courseC_artist_loopsPrePre1a_a: |-
           The first block you will need is:
 
-          ![](https://images.code.org/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
+          ![](https://images.letron.vip/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
         courseC_artist_loopsPrePre1a_b: |-
           To move forward 50 pixels, use this block:
 
-          ![](https://images.code.org/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
+          ![](https://images.letron.vip/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
       courseC_artist_prog1_authored_hint: []
       courseC_artist_prog1_2018_authored_hint: []
       courseC_artist_prog2_authored_hint:
@@ -7803,7 +7803,7 @@ mk:
           the puzzle!
       courseC_external_events_authored_hint: []
       courseC_flappy_events1_authored_hint:
-        courseC_flappy_events1_a: "![](https://images.code.org/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
+        courseC_flappy_events1_a: "![](https://images.letron.vip/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
       courseC_flappy_events2_authored_hint:
         courseC_flappy_events2_a: 'The block you need to add is called `set speed`. '
         courseC_flappy_events2_b: Connect the `set speed` block to the `when run`
@@ -7949,11 +7949,11 @@ mk:
         courseC_harvester_loops_challenge2_c: |
           This zig-zag pattern can be repeated twice to finish the puzzle with just 20 blocks!
 
-          ![](https://images.code.org/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
+          ![](https://images.letron.vip/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
         courseC_harvester_loops_challenge2_d: |-
           This spiral pattern can be coded with just 18 blocks!
 
-          ![](https://images.code.org/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
+          ![](https://images.letron.vip/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
       courseC_harvester_loops_forVid_authored_hint: []
       courseC_maze_debugging1_authored_hint:
         courseC_maze_debugging1_a: |-
@@ -7995,7 +7995,7 @@ mk:
 
           Finally, put your other blocks back where they belong.
 
-          ![](https://images.code.org/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
+          ![](https://images.letron.vip/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
         courseC_maze_debugging3_b: Can't figure out what's wrong? Try running the
           code a couple of times to see what happens.
       courseC_maze_debugging3_2018_authored_hint:
@@ -8006,7 +8006,7 @@ mk:
 
           Finally, put your other blocks back where they belong.
 
-          ![](https://images.code.org/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
+          ![](https://images.letron.vip/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
         courseC_maze_debugging3_b: Can't figure out what's wrong? Try running the
           code a couple of times to see what happens.
       courseC_maze_debugging4_authored_hint:
@@ -8092,7 +8092,7 @@ mk:
         courseC_maze_debugging_challenge2_c: |-
           There are two different paths you can follow by just moving forward and turning four times. If you find one way to use a loop, there may be even more!
 
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       courseC_maze_loops10_authored_hint: []
       courseC_maze_loops10_predict2_authored_hint: []
       courseC_maze_loops11_authored_hint: []
@@ -8171,7 +8171,7 @@ mk:
         courseC_maze_programming3_a: Try running the code first to see where it goes
           wrong.
         courseC_maze_programming3_b: |-
-          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
+          ![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
 
           To delete a block from the middle of your code, drag all of the blocks to another part of the workspace.
 
@@ -8299,14 +8299,14 @@ mk:
         course_starWars_loops8_c: |-
           Take a look at this path.
 
-          ![](https://images.code.org/7d696dd3b1e6984a1d6041f366d5c96b-image-1510198804955.37.04.png)
+          ![](https://images.letron.vip/7d696dd3b1e6984a1d6041f366d5c96b-image-1510198804955.37.04.png)
       courseC_starWars_loops9_authored_hint:
         course_starWars_loops9_b: You can put more than one block inside a `repeat`
           loop.
         course_starWars_loops9_c: |-
           You do not need to turn left to solve this puzzle. All of your turns can be to the right.
 
-          ![](https://images.code.org/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
+          ![](https://images.letron.vip/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
       courseD_artist_binary1_authored_hint:
         courseD_artist_binary1_a: Replace the "???" in the text block with the binary
           image you want, in zeroes and ones.
@@ -8315,7 +8315,7 @@ mk:
         courseD_artist_binary1_c: |-
           This is how you can input your binary code:
 
-          ![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+          ![](https://images.letron.vip/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
       courseD_artist_binary2_authored_hint:
         courseD_artist_binary2_a: Just click `Run` to see this program in action!
       courseD_artist_binary3_authored_hint:
@@ -8430,7 +8430,7 @@ mk:
         courseD_artist_nestedLoops1a_a: |-
           You will need to draw a total of 6 triangles. After finishing each triangle, rotate 60 degrees and move to start the next triangle.
 
-          ![](https://images.code.org/ad6c6d98298df9f4e3cea5bbe5ec776e-image-1497476332024.2_solution2.gif)
+          ![](https://images.letron.vip/ad6c6d98298df9f4e3cea5bbe5ec776e-image-1497476332024.2_solution2.gif)
         courseD_artist_nestedLoops1a_b: If you create your triangle with a loop, the
           artist should be facing the same way as they started. This will make the
           60 degree turns a lot easier.
@@ -8521,15 +8521,15 @@ mk:
       courseD_artist_nestedLoops9_predict1_authored_hint: []
       courseD_artist_nestedLoopsFP_authored_hint:
         courseD_artist_nestedLoopsFP_a: |-
-          <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
+          <img src="https://images.letron.vip/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
 
           This image was made using a single nested loop that repeats a hexagon (with 50px sides) 15 times using a 48 degree turn.
         courseD_artist_nestedLoopsFP_b: |-
-          <img src="https://images.code.org/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png" width="200px"/>
+          <img src="https://images.letron.vip/31a85d4e5be5209240195d34b17a177b-image-1478732674613.32.53.png" width="200px"/>
 
           This image was made using similar code to other levels you've done before, but with circles (repeat 360 times: move forward 1, turn 1 degree).
         courseD_artist_nestedLoopsFP_c: |-
-          <img src="https://images.code.org/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
+          <img src="https://images.letron.vip/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
 
           This image was made using a single nested loop that repeats a pentagon (with 50px sides) 15 times using a 48 degree turn.
       courseD_artist_nestedLoopsPre1_authored_hint: []
@@ -8561,14 +8561,14 @@ mk:
         courseD_artist_project1a_a: |
           This stair step uses a 76 degree turn and repeats 4 times.
 
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: These patterns are a lot like the stair steps
           from other puzzles, but using a different angle.
       courseD_artist_project1a_2018_authored_hint:
         courseD_artist_project1a_a: |
           This stair step uses a 76 degree turn and repeats 4 times.
 
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: These patterns are a lot like the stair steps
           from other puzzles, but using a different angle.
       courseD_artist_project2_authored_hint:
@@ -8587,12 +8587,12 @@ mk:
         courseD_artist_project2a_a: |
           This drawing was made by nesting a loop of 4 stairs and a `turn right 180 degrees` block inside of a `repeat 2 times` block.
 
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_artist_project2a_2018_authored_hint:
         courseD_artist_project2a_a: |
           This drawing was made by nesting a loop of 4 stairs and a `turn right 180 degrees` block inside of a `repeat 2 times` block.
 
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_artist_project3_authored_hint:
         courseD_artist_project3_a: Use the drop down menu on the `turn` blocks to
           choose the angle you need!
@@ -8619,46 +8619,46 @@ mk:
         courseD_artist_project4_a: |
           Here is the pentagon snowflake with a turn of 36 degrees before a triangle snowflake:
 
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
 
 
           Here's a set of hexagons with squares:
 
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: To try this, draw your first snowflake, turn, then
           draw a second snowflake.
       courseD_artist_project4_2018_authored_hint:
         courseD_artist_project4_a: |
           Here is the pentagon snowflake with a turn of 36 degrees before a triangle snowflake:
 
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
 
 
           Here's a set of hexagons with squares:
 
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: To try this, draw your first snowflake, turn, then
           draw a second snowflake.
       courseD_artist_project4a_authored_hint:
         courseD_artist_project4a_a: |
           Here are two different lengths of snowflake, drawn one after another (with a 30 degree turn in between.)
 
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_project4a_2018_authored_hint:
         courseD_artist_project4a_a: |
           Here are two different lengths of snowflake, drawn one after another (with a 30 degree turn in between.)
 
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_project5_authored_hint:
         courseD_artist_project4_a: |
           Lines of 2 hexagons and 4 triangles:
 
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       courseD_artist_project5_2018_authored_hint:
         courseD_artist_project4_a: |
           Lines of 2 hexagons and 4 triangles:
 
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       courseD_artist_projectTemplate_authored_hint: []
       courseD_artist_projectTemplate_2018_authored_hint: []
       courseD_artist_project_embedded_authored_hint: []
@@ -8792,7 +8792,7 @@ mk:
         courseD_bee_conditionals8_d: |-
           Even though there is a cloud right in front of you, you don't have to visit it first. Try starting with the cloud in the bottom right of the square.
 
-          ![](https://images.code.org/166e71553edf23bf13ecd290a8e7e721-image-1501013509361.09.09.png)
+          ![](https://images.letron.vip/166e71553edf23bf13ecd290a8e7e721-image-1501013509361.09.09.png)
         courseD_bee_conditionals8_hintVid2: Watch this video for help solving this
           puzzle.
       courseD_bee_conditionals9_authored_hint: []
@@ -8841,7 +8841,7 @@ mk:
 
           Where does it go wrong?
         courseD_bee_debugging2_b: "Do you see a pattern?   \nTry using nested loops
-          to solve this puzzle.\n\n![](https://images.code.org/72fbb8a06937479599b12804f990a0f3-image-1501012383369.50.27.png)"
+          to solve this puzzle.\n\n![](https://images.letron.vip/72fbb8a06937479599b12804f990a0f3-image-1501012383369.50.27.png)"
       courseD_bee_debugging3_authored_hint:
         courseD_bee_debugging3_a: Is there any place where the bee does something
           that doesn't make sense? What happens when you change those blocks?
@@ -8895,7 +8895,7 @@ mk:
         courseD_bee_debugging9_b: Figure out how you would solve the puzzle, then
           move step-by-step to try to make the code match what is in your head.
         courseD_bee_debugging9_c: "Envision one of these stair steps to the flowers.
-          \  \n\n![](https://images.code.org/d3dfd710961b9ff8571816a97d76ae46-image-1501012931437.59.18.png)\n\nCan
+          \  \n\n![](https://images.letron.vip/d3dfd710961b9ff8571816a97d76ae46-image-1501012931437.59.18.png)\n\nCan
           you build either of these with what's in the workspace and toolbox?\n\n"
       courseD_bee_debugging9_predict1_authored_hint: []
       courseD_bee_debugging_challenge1_authored_hint:
@@ -9256,7 +9256,7 @@ mk:
       courseD_collector_debugging9a_authored_hint: []
       courseD_collector_debugging_challenge2_authored_hint:
         courseD_collector_debugging_challenge2_a: "Start by collecting just **two**
-          gems from each of the first **two** piles.\n\n![](https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04
+          gems from each of the first **two** piles.\n\n![](https://images.letron.vip/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04
           AM copy.png)\nUse these blocks.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block
           type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n
           \ </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title
@@ -9264,7 +9264,7 @@ mk:
           \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n
           \   <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
         courseD_collector_debugging_challenge2_b: "Next, collect the remaining gems
-          in this row.\n\n![](https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04
+          in this row.\n\n![](https://images.letron.vip/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04
           AM.png)\nAdd these blocks to your program.\n\n<xml><block type=\"maze_move\">\n
           \                   <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block
           type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement
@@ -9525,7 +9525,7 @@ mk:
         courseD_farmer_condLoops7_a: |-
           Notice that the easiest path to get to all of the crops is still a spiral.
 
-          ![](https://images.code.org/ba8b8c624f21ade9ac823b045085c435-image-1479364378437.png)
+          ![](https://images.letron.vip/ba8b8c624f21ade9ac823b045085c435-image-1479364378437.png)
         courseD_farmer_condLoops7_b: Try using `when path ahead` to keep the farmer
           moving the right number of steps.
       courseD_farmer_condLoops8_authored_hint: []
@@ -9681,7 +9681,7 @@ mk:
         courseD_maze_nestedLoops4_a: |-
           Try using this path through the maze.
 
-          ![](https://images.code.org/565dbbcaf5862da0f60e54195820e814-image-1505961491245.36.09.png)
+          ![](https://images.letron.vip/565dbbcaf5862da0f60e54195820e814-image-1505961491245.36.09.png)
         courseD_maze_nestedLoops4_b: If the loop pattern is hard to see, try coding
           it all out first and see what code repeats over and over before you put
           the loops in.
@@ -9691,7 +9691,7 @@ mk:
         courseD_maze_nestedLoops4_a: |-
           Try using this path through the maze.
 
-          ![](https://images.code.org/565dbbcaf5862da0f60e54195820e814-image-1505961491245.36.09.png)
+          ![](https://images.letron.vip/565dbbcaf5862da0f60e54195820e814-image-1505961491245.36.09.png)
         courseD_maze_nestedLoops4_b: If the loop pattern is hard to see, try coding
           it all out first and see what code repeats over and over before you put
           the loops in.
@@ -9746,13 +9746,13 @@ mk:
         courseC_maze_programming2_b: Make sure all 3 blocks are clicked together and
           attached to the `when run` block.
       courseD_maze_ramp3_authored_hint:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseC_maze_programming3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
           put your other blocks back in place where they belong.\n"
       courseD_maze_ramp3_2018_authored_hint:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseC_maze_programming3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
@@ -9982,7 +9982,7 @@ mk:
         courseC_maze_programming2_b: Make sure all three `move forward` blocks are
           attached to the `when run` block.
       courseD_scrat_ramp3_authored_hint:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseC_maze_programming3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
@@ -9990,7 +9990,7 @@ mk:
         courseC_maze_programming3_b: Remember that turns to the right and left are
           from Scrat's perspective.
       courseD_scrat_ramp3_2018_authored_hint:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseC_maze_programming3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
@@ -10101,7 +10101,7 @@ mk:
         courseE_artist_concept_challenge1_c: |-
           This is the design you want to repeat to make the full shape:
 
-          ![](https://images.code.org/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
+          ![](https://images.letron.vip/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
       courseE_artist_concept_challenge1_2018_authored_hint:
         courseE_artist_concept_challenge1_a: 'The half-hexagon has a **length of 30**
           and turns right by **60 degrees**.  '
@@ -10110,7 +10110,7 @@ mk:
         courseE_artist_concept_challenge1_c: |-
           This is the design you want to repeat to make the full shape:
 
-          ![](https://images.code.org/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
+          ![](https://images.letron.vip/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
       courseE_artist_concept_challenge2_authored_hint:
         courseE_artist_concept_challenge2_a: Once you define a function, you can call
           it over and over again - whenever and wherever you want!
@@ -10144,7 +10144,7 @@ mk:
         courseD_artist_functions10_c: |-
           Do you see where this drawing could use a function called `line of hexagons`?
 
-          ![](https://images.code.org/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
+          ![](https://images.letron.vip/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
       courseE_artist_functions10_2018_authored_hint:
         courseD_artist_functions10_b: This drawing is a lot like the last one, but
           the `draw line` function is now drawing a different shape.
@@ -10153,7 +10153,7 @@ mk:
         courseD_artist_functions10_c: |-
           Do you see where this drawing could use a function called `line of hexagons`?
 
-          ![](https://images.code.org/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
+          ![](https://images.letron.vip/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
       courseE_artist_functions1_2018_authored_hint:
         courseE_artist_functions1_a: The squares each have 100 pixel sides, that means
           that you will have to move forward 175 pixels before drawing your second
@@ -10269,10 +10269,10 @@ mk:
         courseD_artist_functions8_b: |-
           Think of each row in this picture as a line of 3 squares. How many lines of squares are there and where do you start drawing each of them?
 
-          ![](https://images.code.org/22a6f5cc5551371057244eee01955f8e-image-1493135135468.4.10 Hint Drawing.png)
+          ![](https://images.letron.vip/22a6f5cc5551371057244eee01955f8e-image-1493135135468.4.10 Hint Drawing.png)
         courseD_artist_functions8_c: At the end of each line of squares, the artist
           will need to jump down and backward before he draws the next line of squares.
-        courseD_artist_functions8_g: "![](https://images.code.org/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
+        courseD_artist_functions8_g: "![](https://images.letron.vip/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
       courseE_artist_functions8_2018_authored_hint:
         courseD_artist_functions8_f: You only need one `move forward` block, but you
           will need quite a few `jump forward` and/or `jump backward` blocks!
@@ -10288,15 +10288,15 @@ mk:
         courseD_artist_functions8_b: |-
           Think of each row in this picture as a line of 3 squares. How many lines of squares are there and where do you start drawing each of them?
 
-          ![](https://images.code.org/22a6f5cc5551371057244eee01955f8e-image-1493135135468.4.10 Hint Drawing.png)
+          ![](https://images.letron.vip/22a6f5cc5551371057244eee01955f8e-image-1493135135468.4.10 Hint Drawing.png)
         courseD_artist_functions8_c: At the end of each line of squares, the artist
           will need to jump down and backward before he draws the next line of squares.
-        courseD_artist_functions8_g: "![](https://images.code.org/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
+        courseD_artist_functions8_g: "![](https://images.letron.vip/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
       courseE_artist_functions9_authored_hint:
         courseD_artist_functions9_e: |-
           Can you spot all four places that the `line of triangles` can be used in this drawing?
 
-          ![](https://images.code.org/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
+          ![](https://images.letron.vip/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
         courseD_artist_functions9_a: |-
           This puzzle can be broken into three parts:
           - make the `draw a triangle` function
@@ -10321,7 +10321,7 @@ mk:
         courseD_artist_functions9_e: |-
           Can you spot all four places that the `line of triangles` can be used in this drawing?
 
-          ![](https://images.code.org/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
+          ![](https://images.letron.vip/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
         courseD_artist_functions9_a: |-
           This puzzle can be broken into three parts:
           - make the `draw a triangle` function
@@ -10363,7 +10363,7 @@ mk:
           artist to any pixel on the grid, whenever you want. It works by moving him
           a number of pixels over to the right and a number of pixels down. This is
           always counted from the top left corner, which it means it doesn't matter
-          where the zombie artist is *before* the command is run!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+          where the zombie artist is *before* the command is run!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       courseE_artist_functions_challenge2_2018_authored_hint:
         courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n
           \   <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n
@@ -10371,7 +10371,7 @@ mk:
           artist to any pixel on the grid, whenever you want. It works by moving him
           a number of pixels over to the right and a number of pixels down. This is
           always counted from the top left corner, which it means it doesn't matter
-          where the zombie artist is *before* the command is run!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+          where the zombie artist is *before* the command is run!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       courseE_artist_functions_predict1_authored_hint: []
       courseE_artist_functions_predict1_2018_authored_hint: []
       courseE_artist_functions_predict2_authored_hint: []
@@ -10385,7 +10385,7 @@ mk:
         courseD_artist_ramp10_c: |-
           The artist will draw six triangles in total:
 
-          ![](https://images.code.org/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
+          ![](https://images.letron.vip/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
       courseE_artist_ramp11_authored_hint:
         courseD_artist_ramp11a: To draw a side, use the `move forward by 100 pixels`
           block, and change the 100 to a 200.
@@ -10496,7 +10496,7 @@ mk:
         courseE_bee_concept5_c: |-
           Here's a picture of a rectangular path the bee could take.
 
-          ![](https://images.code.org/39554a528b5ed168737e846c161f00ee-image-1510202150660.33.23.png)
+          ![](https://images.letron.vip/39554a528b5ed168737e846c161f00ee-image-1510202150660.33.23.png)
         courseE_bee_concept5_b: You can check every square for a flower using the
           `if` block, even if you already know there's not one there.
       courseE_bee_concept5_2018_authored_hint:
@@ -10506,7 +10506,7 @@ mk:
         courseE_bee_concept5_c: |-
           Here's a picture of a rectangular path the bee could take.
 
-          ![](https://images.code.org/39554a528b5ed168737e846c161f00ee-image-1510202150660.33.23.png)
+          ![](https://images.letron.vip/39554a528b5ed168737e846c161f00ee-image-1510202150660.33.23.png)
         courseE_bee_concept5_b: You can check every square for a flower using the
           `if` block, even if you already know there's not one there.
       courseE_bee_functions1_authored_hint:
@@ -10602,19 +10602,19 @@ mk:
       courseE_bee_functions6_authored_hint:
         courseE_bee_functions6_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseE_bee_functions6_b: It might help in this case to move inside of the
           function, but not all of your `move` blocks need to be there.
       courseE_bee_functions6_2018_authored_hint:
         courseE_bee_functions6_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseE_bee_functions6_b: It might help in this case to move inside of the
           function, but not all of your `move` blocks need to be there.
       courseE_bee_functions6test_authored_hint:
         courseE_bee_functions6_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseE_bee_functions6_b: It might help in this case to move inside of the
           function, but not all of your `move` blocks need to be there.
       courseE_bee_functions7_authored_hint:
@@ -10624,7 +10624,7 @@ mk:
         courseE_bee_functions7_b: |-
           Remember to build your code inside of the green function block.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         courseE_bee_functions7_c: This function should turn the bee to head him down
           the path, collect the nectar, make the honey, then turn the bee around and
           bring him back.
@@ -10635,7 +10635,7 @@ mk:
         courseE_bee_functions7_b: |-
           Remember to build your code inside of the green function block.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         courseE_bee_functions7_c: This function should turn the bee to head him down
           the path, collect the nectar, make the honey, then turn the bee around and
           bring him back.
@@ -11058,7 +11058,7 @@ mk:
         courseC_maze_programming2_b: Make sure all three `move forward` blocks are
           attached to the `when run` block.
       courseE_maze_ramp3_authored_hint:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseC_maze_programming3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
@@ -11336,7 +11336,7 @@ mk:
         courseF_artist_for1_a: |-
           Can you draw something like this:
 
-          ![](https://images.code.org/80ae9ab3e449db1ed4e13c86239f7617-image-1475906794954.06.12.png)
+          ![](https://images.letron.vip/80ae9ab3e449db1ed4e13c86239f7617-image-1475906794954.06.12.png)
       courseF_artist_for10_authored_hint:
         courseF_artist_for10_a: The image in the drawing was made using a counter
           for the `set alpha` and `counter` / 10 as a brush size.
@@ -11519,7 +11519,7 @@ mk:
         courseF_artist_for1_a: |-
           Can you draw something like this:
 
-          ![](https://images.code.org/80ae9ab3e449db1ed4e13c86239f7617-image-1475906794954.06.12.png)
+          ![](https://images.letron.vip/80ae9ab3e449db1ed4e13c86239f7617-image-1475906794954.06.12.png)
       courseF_artist_for2_authored_hint:
         courseF_artist_for2_a: |-
           Use `counter` for the length of your triangles inside your `repeat` loop.
@@ -11537,7 +11537,7 @@ mk:
         courseF_artist_for2_c: |-
           This is the pattern that the Artist will follow:
 
-          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
+          ![](https://images.letron.vip/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
       courseF_artist_for2_2018_authored_hint:
         courseF_artist_for2_a: |-
           Use `counter` for the length of your triangles inside your `repeat` loop.
@@ -11555,7 +11555,7 @@ mk:
         courseF_artist_for2_c: |-
           This is the pattern that the Artist will follow:
 
-          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
+          ![](https://images.letron.vip/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
       courseF_artist_for3_authored_hint:
         courseF_artist_for3_a: |-
           To have the `for` loop drive your movement, make sure that you're using `counter` as your distance in the `move forward` block.
@@ -12041,7 +12041,7 @@ mk:
           </block>
           </xml>
 
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2018_authored_hint:
         courseF_artist_for_challenge2_c: 'The `for loop` goes from 5 to 250 by 2. '
         courseF_artist_for_challenge2_a: The color change happens using the `set color
@@ -12139,7 +12139,7 @@ mk:
           </block>
           </xml>
 
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_fwp1_authored_hint:
         courseF_artist_fwp1_c: Put all of the code for drawing a square inside the
           function editor.
@@ -12171,13 +12171,13 @@ mk:
         courseF_artist_fwp3_b: |-
           Be sure to turn 90 degrees between each square!
 
-          ![](https://images.code.org/97bd8eded03c5aa39740876c8e9f7ff8-image-1469224745277.gif)
+          ![](https://images.letron.vip/97bd8eded03c5aa39740876c8e9f7ff8-image-1469224745277.gif)
       courseF_artist_fwp3_2018_authored_hint:
         courseF_artist_fwp3_a: This gets easier if you put it all in a `for` loop.
         courseF_artist_fwp3_b: |-
           Be sure to turn 90 degrees between each square!
 
-          ![](https://images.code.org/97bd8eded03c5aa39740876c8e9f7ff8-image-1469224745277.gif)
+          ![](https://images.letron.vip/97bd8eded03c5aa39740876c8e9f7ff8-image-1469224745277.gif)
       courseF_artist_fwp4_authored_hint:
         courseF_artist_fwp4_b: Remember to **add** a parameter.  Don't remove the
           one that is already there!
@@ -12237,11 +12237,11 @@ mk:
       courseF_artist_fwp9_authored_hint:
         courseF_artist_fwp9_a: |-
           Try one of these drawings.
-          ![](https://images.code.org/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
+          ![](https://images.letron.vip/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
       courseF_artist_fwp9_2018_authored_hint:
         courseF_artist_fwp9_a: |-
           Try one of these drawings.
-          ![](https://images.code.org/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
+          ![](https://images.letron.vip/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
       courseF_artist_fwp_challenge1_authored_hint:
         courseF_artist_fwp_challenge1_b: This is a series of polygons with sides that
           are counter pixels long.
@@ -12255,7 +12255,7 @@ mk:
           loop that goes from 3 down to 6 by an increment of 1. What shapes is it
           making?
       courseF_artist_fwp_challenge2_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'This is a series of octagons with sides
           that are `counter` pixels long. '
         courseF_artist_fwp_challenge1_c: 'Each octagon is called from inside a `for`
@@ -12267,9 +12267,9 @@ mk:
         courseF_artist_fwp_challenge1_f: |-
           **Solution:**
 
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_fwp_challenge2_2018_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'This is a series of octagons with sides
           that are `counter` pixels long. '
         courseF_artist_fwp_challenge1_c: 'Each octagon is called from inside a `for`
@@ -12281,7 +12281,7 @@ mk:
         courseF_artist_fwp_challenge1_f: |-
           **Solution:**
 
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_predict1_authored_hint: []
       courseF_artist_ramp10_authored_hint:
         courseF_artist_ramp10_a: Don't forget to turn by 60 degrees after each triangle.  Which
@@ -12291,7 +12291,7 @@ mk:
         courseF_artist_ramp10_c: |-
           You will draw six triangles in total for this design:
 
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_ramp8_authored_hint:
         courseF_artist_ramp8_a: To draw a side, use the <xml><block type="draw_move_by_constant"><title
           name="DIR">moveForward</title><title name="VALUE">100</title></block></xml>
@@ -12346,8 +12346,8 @@ mk:
         courseF_artist_variables4_c: |-
           This is the pattern your artist will be following:
 
-          ![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
-        courseF_artist_variables4_b: "![](https://images.code.org/fc31a4b60dc86d7b820c2d242f83e6ed-image-1477533361197.gif)"
+          ![](https://images.letron.vip/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
+        courseF_artist_variables4_b: "![](https://images.letron.vip/fc31a4b60dc86d7b820c2d242f83e6ed-image-1477533361197.gif)"
       courseF_artist_variables4_2018_authored_hint:
         courseF_artist_variables4_a: Your code won't be much different than it was
           in the last puzzle, except that you will need to turn the artist to jump
@@ -12355,8 +12355,8 @@ mk:
         courseF_artist_variables4_c: |-
           This is the pattern your artist will be following:
 
-          ![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
-        courseF_artist_variables4_b: "![](https://images.code.org/fc31a4b60dc86d7b820c2d242f83e6ed-image-1477533361197.gif)"
+          ![](https://images.letron.vip/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
+        courseF_artist_variables4_b: "![](https://images.letron.vip/fc31a4b60dc86d7b820c2d242f83e6ed-image-1477533361197.gif)"
       courseF_artist_variables5_authored_hint:
         courseF_artist_variables5_a: The second half of your code should look almost
           the same as the first half, except you will be turning *left*, jumping,
@@ -12368,7 +12368,7 @@ mk:
         courseF_artist_variables5_d: |-
           This is the pattern your artist will follow:
 
-          ![](https://images.code.org/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
+          ![](https://images.letron.vip/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
       courseF_artist_variables5_2018_authored_hint:
         courseF_artist_variables5_a: The second half of your code should look almost
           the same as the first half, except you will be turning *left*, jumping,
@@ -12380,7 +12380,7 @@ mk:
         courseF_artist_variables5_d: |-
           This is the pattern your artist will follow:
 
-          ![](https://images.code.org/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
+          ![](https://images.letron.vip/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
       courseF_artist_variables6_authored_hint:
         courseF_artist_variables6_a: Thanks to variables, you only need to change
           one number at the top to make this work.
@@ -12401,7 +12401,7 @@ mk:
         courseF_artist_variables6a_d: |-
           This is the pattern you'll follow!
 
-          ![](https://images.code.org/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
+          ![](https://images.letron.vip/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
       courseF_artist_variables6a_2018_authored_hint:
         courseF_artist_variables6a_a: Remember to use the variable `length` instead
           of an actual number to solve this puzzle.
@@ -12412,7 +12412,7 @@ mk:
         courseF_artist_variables6a_d: |-
           This is the pattern you'll follow!
 
-          ![](https://images.code.org/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
+          ![](https://images.letron.vip/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
       courseF_artist_variables7_authored_hint:
         courseF_artist_variables7_a: Start your code by using the `set length` block.
           Set the length variable to 150.
@@ -12474,16 +12474,16 @@ mk:
       courseF_artist_variablesFP_authored_hint:
         courseF_artist_variablesFP_a: |-
           Try one of these three drawings.
-          ![](https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
+          ![](https://images.letron.vip/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
       courseF_artist_variablesFP_2018_authored_hint:
         courseF_artist_variablesFP_a: |-
           Try one of these three drawings.
-          ![](https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
+          ![](https://images.letron.vip/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
       courseF_artist_variables_4_authored_hint:
         courseF_artist_variables_4_a: Your code won't be much different than it was
           in the last puzzle, except that you will need to turn the artist to move
           down, then turn him back to get ready to move forward again.
-        courseF_artist_variables_4_b: "![](https://images.code.org/fc31a4b60dc86d7b820c2d242f83e6ed-image-1477533361197.gif)"
+        courseF_artist_variables_4_b: "![](https://images.letron.vip/fc31a4b60dc86d7b820c2d242f83e6ed-image-1477533361197.gif)"
       courseF_artist_variables_6_authored_hint:
         courseF_artist_variables_6_a: Thanks to variables, you only need to change
           one number at the top to make this work.
@@ -12491,7 +12491,7 @@ mk:
         courseF_artist_variables6a_a: Remember to use the variable `length` instead
           of an actual number to solve this puzzle.
       courseF_artist_variables_8_authored_hint:
-        courseF_artist_variables_8_a: 'Try putting the set of ![](https://images.code.org/6525bebee31ee15b84a48761b2866f53-image-1477531948829.31.37.png)
+        courseF_artist_variables_8_a: 'Try putting the set of ![](https://images.letron.vip/6525bebee31ee15b84a48761b2866f53-image-1477531948829.31.37.png)
           blocks inside your loop at the end.
 
 '
@@ -12505,7 +12505,7 @@ mk:
         courseF_artist_variables_challenge1_d: |-
           This puzzle just uses one loop. Without any variables, a similar path might just be a zig-zag.
 
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
 
           If you are having trouble, start by creating this image, then try to see where you can use variables to change the length of the horizontal lines.
         courseF_artist_variables_challenge1_e: |-
@@ -12664,7 +12664,7 @@ mk:
         courseF_artist_variables_challenge1_d: |-
           This puzzle just uses one loop. Without any variables, a similar path might just be a zig-zag.
 
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
 
           If you are having trouble, start by creating this image, then try to see where you can use variables to change the length of the horizontal lines.
         courseF_artist_variables_challenge1_e: |-
@@ -12825,7 +12825,7 @@ mk:
         courseF_artist_variables_challenge1_d: |-
           **Solution:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_authored_hint:
         courseF_artist_variables_challenge2_a: Variables are helpful because you can
           add to them each time through a loop.
@@ -12835,7 +12835,7 @@ mk:
         courseF_artist_variables_challenge2_d: |-
           **Solution:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2018_authored_hint:
         courseF_artist_variables_challenge2_a: Variables are helpful because you can
           add to them each time through a loop.
@@ -12845,7 +12845,7 @@ mk:
         courseF_artist_variables_challenge2_d: |-
           **Solution:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_bee_conditionals10_authored_hint:
         courseF_bee_conditionals10_a: Imagine there is a cloud in every spot. Does
           this help simplify your code?
@@ -12970,7 +12970,7 @@ mk:
           the second set has **10** flowers, third set has **6** flowers, and the
           fourth set has **2** flowers.\n\nIn this drawing, notice there are **7**
           red squares, **5** orange squares, **3** green squares, and **1** blue block.
-          \n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11
+          \n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11
           Hint Drawing.png)\n\nHow do the numbers relate?"
         courseF_bee_for10_d: You'll need to have 2 repeats, one will use a math block.
       courseF_bee_for10_2018_authored_hint:
@@ -12984,7 +12984,7 @@ mk:
           the second set has **10** flowers, third set has **6** flowers, and the
           fourth set has **2** flowers.\n\nIn this drawing, notice there are **7**
           red squares, **5** orange squares, **3** green squares, and **1** blue block.
-          \n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11
+          \n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11
           Hint Drawing.png)\n\nHow do the numbers relate?"
         courseF_bee_for10_d: You'll need to have 2 repeats, one will use a math block.
       courseF_bee_for11_authored_hint:
@@ -13108,7 +13108,7 @@ mk:
       courseF_bee_for_challenge1_authored_hint: []
       courseF_bee_for_challenge1_2018_authored_hint: []
       courseF_bee_for_challenge2_authored_hint:
-        courseF_bee_for_challenge2_a: "Take a look at this option for movement:  \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Try using two `for` loops: One for climbing
           up and grabbing nectar, and the other for climbing down and making honey.'
         courseF_bee_for_challenge2_c: "Notice that one `for` loop needs several regular
@@ -13249,7 +13249,7 @@ mk:
           </block>
           </xml>
       courseF_bee_for_challenge2_2018_authored_hint:
-        courseF_bee_for_challenge2_a: "Take a look at this option for movement:  \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Try using two `for` loops: One for climbing
           up and grabbing nectar, and the other for climbing down and making honey.'
         courseF_bee_for_challenge2_c: "Notice that one `for` loop needs several regular
@@ -13390,7 +13390,7 @@ mk:
           </block>
           </xml>
       courseF_bee_for_challenge3_authored_hint:
-        courseF_bee_for_challenge2_a: "Take a look at this option for movement:  \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Take a look at this option for movement:  \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Try using two `for` loops: One for climbing
           up and grabbing nectar, and the other for climbing down and making honey.'
         courseF_bee_for_challenge2_c: "Notice that one `for` loop needs several regular
@@ -13607,7 +13607,7 @@ mk:
       courseF_bee_functions6_authored_hint:
         courseF_bee_functions6_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseF_bee_functions6_b: Your function should check if there is a flower
           or honeycomb, get nectar or make honey, then turn.
         courseF_bee_functions6_c: Since you are turning within your function, you
@@ -13615,7 +13615,7 @@ mk:
       courseF_bee_functions6_2018_authored_hint:
         courseF_bee_functions6_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseF_bee_functions6_b: Your function should check if there is a flower
           or honeycomb, get nectar or make honey, then turn.
         courseF_bee_functions6_c: Since you are turning within your function, you
@@ -13653,7 +13653,7 @@ mk:
         courseF_bee_functions7_b: |-
           Remember to build code inside of the green function block.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         courseF_bee_functions7_c: Which way should you turn if there is a honeycomb?
           What about a flower? What if there is nothing?
       courseF_bee_functionsPre7_2018_authored_hint:
@@ -13663,7 +13663,7 @@ mk:
         courseF_bee_functions7_b: |-
           Remember to build code inside of the green function block.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         courseF_bee_functions7_c: Which way should you turn if there is a honeycomb?
           What about a flower? What if there is nothing?
       courseF_bee_functions_challenge1_authored_hint:
@@ -13918,12 +13918,12 @@ mk:
           a `if` statement.
       courseF_bee_fwp2_authored_hint:
         courseF_bee_fwp2_a: "To turn this into a function, simply drag the code into
-          the existing function block.  \n\n\n![](https://images.code.org/4d918c677ecb9f1618c1556566805b32-image-1477621874625.gif)"
+          the existing function block.  \n\n\n![](https://images.letron.vip/4d918c677ecb9f1618c1556566805b32-image-1477621874625.gif)"
         courseF_bee_fwp2_b: Don't forget to connect the `rowOfNectar` block to `when
           run` to call the function that you just built.
       courseF_bee_fwp2_2018_authored_hint:
         courseF_bee_fwp2_a: "To turn this into a function, simply drag the code into
-          the existing function block.  \n\n\n![](https://images.code.org/4d918c677ecb9f1618c1556566805b32-image-1477621874625.gif)"
+          the existing function block.  \n\n\n![](https://images.letron.vip/4d918c677ecb9f1618c1556566805b32-image-1477621874625.gif)"
         courseF_bee_fwp2_b: Don't forget to connect the `rowOfNectar` block to `when
           run` to call the function that you just built.
       courseF_bee_fwp3_authored_hint:
@@ -14730,7 +14730,7 @@ mk:
         courseF_maze_ramp7_aa: |-
           Look at this path...
 
-          ![](https://images.code.org/e1d29901495eea9504c194b09efaa88e-image-1503437474226.29.32.png)
+          ![](https://images.letron.vip/e1d29901495eea9504c194b09efaa88e-image-1503437474226.29.32.png)
       courseF_playlab_variables1a_authored_hint:
         courseF_playlab_variables1a_a: You will want to replace the words “What should
           I shout?” in the green block with “Goal!”
@@ -15158,7 +15158,7 @@ mk:
 
           Have a friend try your app when it is finished!
       coursef_maze_ramp3_authored_hint:
-        courseF_maze_ramp3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseF_maze_ramp3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
@@ -15216,7 +15216,7 @@ mk:
         grade1_artist_loops6_b: |-
           Notice that every loop makes a stair pattern that travels in a different direction.
 
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
         grade1_artist_loops6_c: "The loops should do this:\n- Loop 1\n  - Right\n
           \ - Down\n  \n- Loop 2\n  - Right\n  - Up\n\n- Loop 3\n  - Left\n  - Up\n\n-
           Loop 4\n  - Left\n  - Down"
@@ -15226,7 +15226,7 @@ mk:
         artistLoopsK9_b: |-
           Notice that every loop makes a stair pattern that travels in a different direction.
 
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
         artistLoopsK9_c: "The loops should do this:\n- Loop 1\n  - Right\n  - Down\n
           \ \n- Loop 2\n  - Right\n  - Up\n\n- Loop 3\n  - Left\n  - Up\n\n- Loop
           4\n  - Left\n  - Down"
@@ -15260,7 +15260,7 @@ mk:
       grade1_maze_sequence8_authored_hint:
         grade1_maze_sequence8_a: Stuck? Try tracing the bird's path with your finger.
         grade1_maze_sequence8_b: The extra blocks need to be added before the last
-          ![](https://images.code.org/145dfc20c086bc8fc265de47f3cfe4b0-image-1467848177684.35.51
+          ![](https://images.letron.vip/145dfc20c086bc8fc265de47f3cfe4b0-image-1467848177684.35.51
           PM.png )
       grade1_maze_sequence9_authored_hint:
         grade1_maze_sequence9_a: If you're having trouble, try writing down the steps
@@ -15283,7 +15283,7 @@ mk:
           into the workspace and connect it to the `when run` block.
       grade2_CaringForNewPet_11_authored_hint: []
       grade2_CaringForNewPet_2courseC_maze_programming3_authored_hint:
-        courseC_maze_programming3_a: "![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
+        courseC_maze_programming3_a: "![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)\n\nTo
           delete a block from the middle of your code, drag all of the blocks underneath
           it away to the right and let them sit in the workspace for a while.  \n\nClick
           on the block you want to delete, and drag it back to the toolbox.\n\nFinally,
@@ -15336,7 +15336,7 @@ mk:
         2-3_Artist_Loops_New_11_a: |-
           Remember that the code from the last puzzle was:
 
-          ![](https://images.code.org/e5c7492f509dd41efe2888c7e7895c28-image-1461177002636.29.02.png)
+          ![](https://images.letron.vip/e5c7492f509dd41efe2888c7e7895c28-image-1461177002636.29.02.png)
         2-3_Artist_Loops_New_11_b: Your new turn should go at the **end** of the code
           inside the loop.
       grade2_MakeDogTag_BFP_authored_hint: []
@@ -15384,13 +15384,13 @@ mk:
 
           **Who's there?** Make characters appear with random images, so no one knows who's showing up next.
 
-          ![](https://images.code.org/a56e03479801995d93ad5a4e4384a79e-image-1475340154498.gif)
+          ![](https://images.letron.vip/a56e03479801995d93ad5a4e4384a79e-image-1475340154498.gif)
         idea2: |-
           *Need an idea?*
 
           **Going on an Adventure** - Change the background, then have the characters talk about where they are now.
 
-          ![](https://images.code.org/010c4d919f841d6049caf9211ab65ccc-image-1475340583052.gif)
+          ![](https://images.letron.vip/010c4d919f841d6049caf9211ab65ccc-image-1475340583052.gif)
         idea3: |-
           *Need an idea?*
 
@@ -15441,7 +15441,7 @@ mk:
         2-3_Bee_Conditionals_14_b: If the red flower were purple, could you figure
           out how to use an extra `repeat` loop to cut down on code?
         2-3_Bee_Conditionals_14_c: "Try breaking this up into two separate chunks:
-          \ \n\n![](https://images.code.org/670ac0889a8f523865ff4099b4c54844-image-1463445460440.36.42.png)\n\n1)
+          \ \n\n![](https://images.letron.vip/670ac0889a8f523865ff4099b4c54844-image-1463445460440.36.42.png)\n\n1)
           Gather nectar 3 times\n  - Move forward 5 times\n  - Check to see if nectar,
           if so: get it\n  - Turn left\n  \n2) Make honey \n  - Move forward one time\n
           \ - Make two honey"
@@ -15586,7 +15586,7 @@ mk:
         grade3_RunningFarm_7_a: |-
           Notice that the easiest path to get to all of the crops is still a spiral.
 
-          ![](https://images.code.org/ba8b8c624f21ade9ac823b045085c435-image-1479364378437.png)
+          ![](https://images.letron.vip/ba8b8c624f21ade9ac823b045085c435-image-1479364378437.png)
         grade3_RunningFarm_7_b: Try using `when path ahead` to keep the farmer moving
           the right number of steps.
         grade3_RunningFarm_7_c: 'Use nested `if` statements and `while there is` loops
@@ -15632,7 +15632,7 @@ mk:
         grade3_maze_loops2_a: |-
           Try using this path through the maze.
 
-          ![](https://images.code.org/6a8b4b97a8eef813d8a827b0b7b2d36b-image-1480446509692.05.22.png)
+          ![](https://images.letron.vip/6a8b4b97a8eef813d8a827b0b7b2d36b-image-1480446509692.05.22.png)
         grade3_maze_loops2_b: If the pattern is hard to see, try coding it all out
           first and see what things repeat over and over before you put the loops
           in.
@@ -15741,7 +15741,7 @@ mk:
         Course_4_SCF_1_e: |-
           **Solution:**
 
-          ![Solution Blocks](https://images.code.org/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
+          ![Solution Blocks](https://images.letron.vip/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
       grade4_artist_functions_challenge2_authored_hint:
         Course_4_SCF_1_a: Each hexagon has 40 pixel sides.
         Course_4_SCF_1_b: There is a 120 pixel jump between each hexagon in each horizontal
@@ -15758,7 +15758,7 @@ mk:
         Course_4_SCF_1_e: |-
           **Solution:**
 
-          ![Solution Blocks](https://images.code.org/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
+          ![Solution Blocks](https://images.letron.vip/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
       grade4_artist_functions_stars0_authored_hint:
         grade4_artist_functions_stars0_a: |-
           To solve this puzzle, you just need to add a  loop that repeats the starter code 8 times.
@@ -15851,7 +15851,7 @@ mk:
       grade4_bee_functions7_authored_hint:
         2-3_Bee_Functions_8_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
-          more, then try again.  Soon, you'll get there!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          more, then try again.  Soon, you'll get there!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "If the puzzle seems challenging, try building your
           function a little at a time.  \n\nAdd some blocks, then try it out. Add
@@ -15859,7 +15859,7 @@ mk:
         2-3_Bee_Functions_8_b: |-
           Remember to build your code inside of the green function block.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         2-3_Bee_Functions_8_c: This function should turn the bee to head him down
           the path, collect the nectar, make the honey, then turn the bee around and
           bring him back.
@@ -15928,12 +15928,12 @@ mk:
           1s and `16-(2 x counter)` for 0s.
         Course_4_Artist_Binary_Free_Play_2b_d: |-
           **Solution:**
-          ![solution](https://images.code.org/866a92e042a546de3afcf462a8b5c695-image-1444438735003.58.28.png)
+          ![solution](https://images.letron.vip/866a92e042a546de3afcf462a8b5c695-image-1444438735003.58.28.png)
       grade5_artist_for_loops1_authored_hint:
         grade5_artist_for_loops1_a: |-
           If you use this `for` loop, it will run just like a `repeat 3 times` loop.
 
-          ![](https://images.code.org/585d2e24f3021ac2561aec6e96dde430-image-1475906135993.54.11.png)
+          ![](https://images.letron.vip/585d2e24f3021ac2561aec6e96dde430-image-1475906135993.54.11.png)
       grade5_artist_for_loops10_authored_hint:
         Course_4_Artist_For_Loops_Challenge_a: The largest polygon has 19 sides.
         Course_4_Artist_For_Loops_Challenge_b: Each polygon is incomplete, with one
@@ -15942,17 +15942,17 @@ mk:
         grade5_artist_for_loops1b_a: |-
           Can you draw something like this:
 
-          ![](https://images.code.org/80ae9ab3e449db1ed4e13c86239f7617-image-1475906794954.06.12.png)
+          ![](https://images.letron.vip/80ae9ab3e449db1ed4e13c86239f7617-image-1475906794954.06.12.png)
       grade5_artist_for_loops2_authored_hint:
         grade5_artist_for_loops2_a: |-
           Use `counter` for the length of your triangles inside your `repeat` loop.
 
-          ![](https://images.code.org/5e9465321a0b7a4d791848a79f3e6715-image-1475908305872.31.26.png)
+          ![](https://images.letron.vip/5e9465321a0b7a4d791848a79f3e6715-image-1475908305872.31.26.png)
       grade5_artist_for_loops3_authored_hint:
         Course_4_Artist_For_Loops_3_a: |-
           To have the `for` loop drive your movement, make sure that you're using `counter` as your distance in the `move forward` block.
 
-          ![](https://images.code.org/15e87fc7fe408cbf1b63e0e8e69b7ffe-image-1475908502078.31.26.png)
+          ![](https://images.letron.vip/15e87fc7fe408cbf1b63e0e8e69b7ffe-image-1475908502078.31.26.png)
       grade5_artist_for_loops4_authored_hint:
         Course_4_Artist_For_Loops_4_a: "**What is the smallest number you will need?
           \ \nWhat is the largest number?  \nHow big is the increase each time?**\n\nThose
@@ -15984,7 +15984,7 @@ mk:
         Course_4_Artist_For_Loops_inspire_c: There are two iterations of the same
           repeat loop inside the `for` loop, but the second repeat turns the opposite
           direction.
-        Course_4_Artist_For_Loops_inspire_d: "**Solution:**  ![Solution](https://images.code.org/d619892fc17ff491c201d86bb917e523-image-1441005190828.12.30.png) "
+        Course_4_Artist_For_Loops_inspire_d: "**Solution:**  ![Solution](https://images.letron.vip/d619892fc17ff491c201d86bb917e523-image-1441005190828.12.30.png) "
       grade5_artist_for_loopsfreeplay12_authored_hint:
         grade5_artist_for_loopsfreeplay12_a: The image in the drawing was made using
           a counter for the `set alpha` and `counter` / 10 as a brush size.
@@ -15993,7 +15993,7 @@ mk:
         grade5_artist_for_loopsfreeplay12_c: |-
           Want to know how the sample image was done?
 
-          ![](https://images.code.org/fdc5d6c15b357ba9763ac9ea914967a9-image-1475911612774.23.51.png)
+          ![](https://images.letron.vip/fdc5d6c15b357ba9763ac9ea914967a9-image-1475911612774.23.51.png)
       grade5_artist_functionparameters10_authored_hint:
         brush_width: We set the brush width to 1, then the color to blue before we
           did anything else.
@@ -16007,7 +16007,7 @@ mk:
         solution: |-
           **Solution**
 
-          ![](https://images.code.org/7e9f4be39d45726d537fe8e6e9147986-image-1456445254361.png)
+          ![](https://images.letron.vip/7e9f4be39d45726d537fe8e6e9147986-image-1456445254361.png)
       grade5_artist_functionparameters8_authored_hint:
         NEW_Course_4_Artist_Params_13_a: The length of sides for each shape is 7 times
           the number of sides it has.
@@ -16043,7 +16043,7 @@ mk:
         grade5_artist_parameters_squares2_b: |-
           Be sure to turn 90 degrees between each square!
 
-          ![](https://images.code.org/97bd8eded03c5aa39740876c8e9f7ff8-image-1469224745277.gif)
+          ![](https://images.letron.vip/97bd8eded03c5aa39740876c8e9f7ff8-image-1469224745277.gif)
       grade5_artist_parameters_squares2a_authored_hint:
         grade5_artist_parameters_squares2a_a: You need to click the "edit" button
           to get into the function.  Once you're there, add a parameter called `length`
@@ -16065,7 +16065,7 @@ mk:
           a right turn of **360/sides**.
         Course_4_Artist_Inspire_d: |-
           **Solution:**
-          ![Blocks for solution](https://images.code.org/1865aaf1b4a8ba84a5e8a7408401092d-image-1440060930335.43.39.png)
+          ![Blocks for solution](https://images.letron.vip/1865aaf1b4a8ba84a5e8a7408401092d-image-1440060930335.43.39.png)
       grade5_artist_variables_octagons13_authored_hint:
         Course_4_Artist_Vars_13_a: You need two repeat loops (one inside the other)
           both repeating `sides` times.
@@ -16135,7 +16135,7 @@ mk:
           getting nectar from a flower.
       grade5_bee_parameters_new2_authored_hint:
         grade5_bee_parameters_new2_a: "To turn this into a function, simply drag the
-          code into the existing function block.  \n\n\n![](https://images.code.org/4d918c677ecb9f1618c1556566805b32-image-1477621874625.gif)"
+          code into the existing function block.  \n\n\n![](https://images.letron.vip/4d918c677ecb9f1618c1556566805b32-image-1477621874625.gif)"
         grade5_bee_parameters_new2_b: Don't forget to connect the `rowOfNectar` block
           to `when run` to call the function that you just built.
       grade5_bee_parameters_new3_authored_hint:
@@ -16234,36 +16234,36 @@ mk:
           event so that the cat moves up when the "up" button is pressed.
       gradek_playlab_events1c_authored_hint:
         gradek_playlab_events1c_a: "Here is the block you should connect to the `when
-          run` block: \n\n![](https://images.code.org/ae72d1270ad210cd00fae7e0dfb3549a-image-1478144412134.png)"
+          run` block: \n\n![](https://images.letron.vip/ae72d1270ad210cd00fae7e0dfb3549a-image-1478144412134.png)"
       gradek_playlab_events2c_authored_hint:
-        gradek_playlab_events2c_a: drag this block out ![](https://images.code.org/b3d6215901969328333d6393f8101c5b-image-1478142333199.png)
-          and connect it to ![](https://images.code.org/4f2130b2a3053695414a02c3d39ef864-image-1478143461271.png)
+        gradek_playlab_events2c_a: drag this block out ![](https://images.letron.vip/b3d6215901969328333d6393f8101c5b-image-1478142333199.png)
+          and connect it to ![](https://images.letron.vip/4f2130b2a3053695414a02c3d39ef864-image-1478143461271.png)
       gradek_playlab_events3c_authored_hint:
         gradek_playlab_events3c_a: |-
           Here is the event block that you will need to get Jorge to move right:
 
-          ![](https://images.code.org/cfc4b696b1ad5762ff40c1c8a17a194d-image-1478141370249.png)
+          ![](https://images.letron.vip/cfc4b696b1ad5762ff40c1c8a17a194d-image-1478141370249.png)
         gradek_playlab_events3c_b: |-
           Here is the block you should connect to the `when right` event:
 
-          ![](https://images.code.org/e5c559cc1deef643c8b997d17ecb78e3-image-1478141726783.png)
+          ![](https://images.letron.vip/e5c559cc1deef643c8b997d17ecb78e3-image-1478141726783.png)
       gradek_playlab_events4c_authored_hint:
         gradek_playlab_events4c_a: "Here are the event blocks that you will need to
-          use to move Jorge up and down:\n\n![](https://images.code.org/cf9a6992f7b4619dfb592fb6905effbb-image-1478140906017.png)\nand
-          \n![](https://images.code.org/bb2a117cef485e79119a63e5d027968e-image-1478140979742.png)"
+          use to move Jorge up and down:\n\n![](https://images.letron.vip/cf9a6992f7b4619dfb592fb6905effbb-image-1478140906017.png)\nand
+          \n![](https://images.letron.vip/bb2a117cef485e79119a63e5d027968e-image-1478140979742.png)"
       gradek_playlab_events5c_authored_hint:
         gradek_playlab_events5c_a: |-
           Here is the event block that you would use to have Jorge do something when clicked:
 
-          ![](https://images.code.org/6e3a654378643fd0590307ec3a0e429c-image-1478140058859.png)
+          ![](https://images.letron.vip/6e3a654378643fd0590307ec3a0e429c-image-1478140058859.png)
         gradek_playlab_events5c_b: |-
           Here is the block you would use to change the background:
 
-          ![](https://images.code.org/3f6d7a642b37c3abffe7b0de062ea076-image-1478140261440.png)
+          ![](https://images.letron.vip/3f6d7a642b37c3abffe7b0de062ea076-image-1478140261440.png)
         gradek_playlab_events5c_c: |-
           Here is the block you would use to play a random sound:
 
-          ![](https://images.code.org/81a8ef4f64023039438199fef67bb56b-image-1478140125332.png)
+          ![](https://images.letron.vip/81a8ef4f64023039438199fef67bb56b-image-1478140125332.png)
       gradek_playlab_eventsA_authored_hint:
         gradek_playlab_eventsA_a: |-
           If this seems like too much to do, try breaking it down into steps:
@@ -16417,12 +16417,12 @@ mk:
         2-3_Bee_Loops_3_a: You should have 6 blocks inside your loop.
       playLabDebugVideo1_authored_hint:
         courseA_playLab_events2_a: "Here is the block you should connect to the `when
-          run` block: \n\n![](https://images.code.org/ae72d1270ad210cd00fae7e0dfb3549a-image-1478144412134.png)"
+          run` block: \n\n![](https://images.letron.vip/ae72d1270ad210cd00fae7e0dfb3549a-image-1478144412134.png)"
       sample3_authored_hint:
         sample3_a: |-
           Try writing the code once and looping it seven times:
 
-          ![](https://images.code.org/2a116e75e31ee3a8a8683349c9460286-image-1464307689813.gif)
+          ![](https://images.letron.vip/2a116e75e31ee3a8a8683349c9460286-image-1464307689813.gif)
       sample5_authored_hint:
         sample5_a: Did you know that you can put as many blocks inside of a repeat
           loop as you want to?

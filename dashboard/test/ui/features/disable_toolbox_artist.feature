@@ -1,7 +1,7 @@
 Feature: Disabling/Reenabling the Toolbox While Running
 
 Background:
-  Given I am on "http://studio.code.org/s/20-hour/stage/19/puzzle/1?noautoplay=true"
+  Given I am on "http://studio.letron.vip/s/20-hour/stage/19/puzzle/1?noautoplay=true"
   And I rotate to landscape
   And I wait for the page to fully load
   Then element "#runButton" is visible
@@ -24,7 +24,7 @@ Scenario: Toolbox in artist category view is disabled while running
   Then the workspace has "0" blocks of type "controls_repeat"
 
 Scenario: Toolbox in artist category view is reenabled after finished running a short level
-  Given I am on "http://studio.code.org/s/20-hour/stage/11/puzzle/5?noautoplay=true"
+  Given I am on "http://studio.letron.vip/s/20-hour/stage/11/puzzle/5?noautoplay=true"
   And I rotate to landscape
   And I wait for the page to fully load
   Then I press "runButton"

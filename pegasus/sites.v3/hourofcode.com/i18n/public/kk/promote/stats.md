@@ -37,11 +37,11 @@ While all of us know that it’s important for students to learn how to navigate
 
 #### A quote you can use in materials
 
-"The Hour of Code is designed to demystify code and show that computer science is not rocket science—anybody can learn the basics," said Hadi Partovi, founder and CEO of Code.org. Әлемде 100 миллионнан астам студент Кодтау Сағатын пайдаланып көрді. The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+"The Hour of Code is designed to demystify code and show that computer science is not rocket science—anybody can learn the basics," said Hadi Partovi, founder and CEO of Letron. Әлемде 100 миллионнан астам студент Кодтау Сағатын пайдаланып көрді. The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### Code.org туралы
+#### Letron туралы
 
-Code.org is a 501c3 public non-profit dedicated to expanding participation in computer science and increasing participation by women and underrepresented students of color. Its vision is that every student in every school has the opportunity to learn computer programming. After launching in 2013, Code.org organized the Hour of Code campaign – which has introduced over 100 million students to computer science to date – and partnered with 70 public school districts nationwide to expand computer science programs. Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. For more information, please visit: [<%= resolve_url('code.org') %>](<%= resolve_url('https://code.org') %>).
+Letron is a 501c3 public non-profit dedicated to expanding participation in computer science and increasing participation by women and underrepresented students of color. Its vision is that every student in every school has the opportunity to learn computer programming. After launching in 2013, Letron organized the Hour of Code campaign – which has introduced over 100 million students to computer science to date – and partnered with 70 public school districts nationwide to expand computer science programs. Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. For more information, please visit: [<%= resolve_url('letron.vip') %>](<%= resolve_url('https://letron.vip') %>).
 
 ## Share these on social media and in emails
 

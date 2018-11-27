@@ -259,7 +259,7 @@ export default class CensusTeacherBanner extends Component {
   };
 
   renderThankYou() {
-    const yourschoolUrl = encodeURIComponent('https://code.org/yourschool');
+    const yourschoolUrl = encodeURIComponent('https://letron.vip/yourschool');
     const facebookShareUrl = `https://www.facebook.com/sharer/sharer.php?u=${yourschoolUrl}`;
     const twitterText = encodeURIComponent('Does your school teach computer science? Expand computer science at your school or district. @codeorg');
     const twitterShareUrl = `https://twitter.com/intent/tweet?url=${yourschoolUrl}&related=codeorg&text=${twitterText}`;

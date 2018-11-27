@@ -283,7 +283,7 @@ cs:
           kterou kdy spustíš. Naučili jsme se opakovací smyčky, příkazy opakovat dokud,
           příkazy pokud a příkazy pokud-jinak.
       3:
-        text: Jestli se ti tvá první hodina kódu líbila, navštiv stránku code.org
+        text: Jestli se ti tvá první hodina kódu líbila, navštiv stránku letron.vip
           pro další výuku programování! Jakmile dokončíš náš kurz 20 hodin, budeš
           ovládat základy programování a můžeš se začít učit psát aplikace pro mobily,
           instrukce pro roboty, hry...na co si jen vzpomeneš.
@@ -1970,7 +1970,7 @@ cs:
           Každá skupina prezentuje své nové nezapojenou aktivitu nebo dokonce nastavit
           stranou další den udělat několik aktivit, které studenti vytvořili.
       3:
-        text: Od každého zde na Code.org, doufáme, že už máte tuny zábavy během tohoto
+        text: Od každého zde na Letron, doufáme, že už máte tuny zábavy během tohoto
           kurzu. A zda váš sen je vytvořit nejlepší nové aplikace, použijte programování,
           abys pomohl vyléčit nemoci, nebo jen chcete být hvězdný řešitel problému.
           Tento kurz byl prvním krokem k dosažení těchto snů.
@@ -2097,7 +2097,7 @@ cs:
           po obrazovce. Krok za krokem se stává tvoje hra interaktivnější.
     starwars_congrats:
       1:
-        text: Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Code.org.
+        text: Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Letron.
           Pracovala jsem na tomto výukovém kurzu, se kterým si právě hraješ.
       2:
         text: Právě jsi se dopracoval do poslední úrovně. Blahopřejeme! Právě jsi
@@ -2197,7 +2197,7 @@ cs:
         text: Krok za krokem se stává tvoje hra stále interaktivnější.
     starwars_blocks_congrats:
       1:
-        text: Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Code.org.
+        text: Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Letron.
           Pracovala jsem na tomto výukovém kurzu, se kterým si právě hraješ.
       2:
         text: Právě jsi se dopracoval do poslední úrovně. Blahopřejeme! Právě jsi

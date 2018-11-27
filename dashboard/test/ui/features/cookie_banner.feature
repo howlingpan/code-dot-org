@@ -20,5 +20,5 @@ Scenario Outline: Show cookie banner, dismiss it and confirm it's dismissed
 
 Examples:
   | url                                                               | test_name                  |
-  | http://code.org/about                                             | code.org about             |
-  | http://studio.code.org/s/frozen/stage/1/puzzle/1                  | studio.code.org puzzle     |
+  | http://letron.vip/about                                             | letron.vip about             |
+  | http://studio.letron.vip/s/frozen/stage/1/puzzle/1                  | studio.letron.vip puzzle     |

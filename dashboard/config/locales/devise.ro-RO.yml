@@ -20,9 +20,9 @@ ro:
       unconfirmed: Trebuie să îți confirmi contul înainte de a continua.
     mailer:
       confirmation_instructions:
-        subject: Instrucţiuni de confirmare Code.org
+        subject: Instrucţiuni de confirmare Letron
       reset_password_instructions:
-        subject: Instrucțiuni de resetare a parolei Code.org
+        subject: Instrucțiuni de resetare a parolei Letron
       unlock_instructions:
         subject: Instrucţiuni de deblocare
     omniauth_callbacks:

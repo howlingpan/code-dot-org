@@ -32,7 +32,7 @@ nn:
         2-3_Artist_9_b: |-
           Ikkje gløym å snu kunstnaren 45 grader mot venstre før du byrjar å teikne kvadratet ditt!
           
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Hugs at du ønskjer at kontrollpanelet skal vere 10 piksel *breiare*, så ikkje gløym å **leggje til** 10 uansett kva tal du endrar.
         2-3_Artist_Debugging_10_b: "Prøving og feiling er heilt greitt her! \n\nStart med å endre eit tal om gangen. \n\nKva tal gjer hva?\n\nHvis du går deg heilt vill, klikk på \"Start på nytt\" og koden vert stilt tilbake."
@@ -159,7 +159,7 @@ nn:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: Har du vanskar med å finne ut korleis du kan få blokkene ned? Prøv å gjere det same med den røde blomen akkurat som den lilla blomen!
         2-3_Bee_Conditionals_14_b: Dersom den røde blomen var lilla, kan du finne ut korleis ein kan bruke en ekstra "gjenta"-løkke for å kutte ned på koden?
-        2-3_Bee_Conditionals_14_c: "Prøv å bryte dette opp i to separate delar:  \n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Samle Nektar 3 gonger\n  - Flytt framover 5 gonger\n  - Sjå om det er nektar, dersom nektar: samle den\n  - Snut til venstre\n  \n2) Lag honning \n  - Gå fram ein gong\n  - Lag to honningar"
+        2-3_Bee_Conditionals_14_c: "Prøv å bryte dette opp i to separate delar:  \n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Samle Nektar 3 gonger\n  - Flytt framover 5 gonger\n  - Sjå om det er nektar, dersom nektar: samle den\n  - Snut til venstre\n  \n2) Lag honning \n  - Gå fram ein gong\n  - Lag to honningar"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Hugs: Lilla blomsar har enten 0 eller 1 nektar, og dei kan endre seg kvar gong du køyrer programmet.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -177,13 +177,13 @@ nn:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: Du treng ikkje bruke ei løkke med ein funksjon. Prøv å flytte, bruk funksjonen og deretter flytt og bruk funksjonen på nytt.
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!"
         2-3_Bee_Functions_8_b: |-
           Hugs å bygge koden din inne i den grøne blokka.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Du skal ende opp med fire blokker inne i løkka di.
       2-3 Bee Loops 3_authored_hint:
@@ -224,7 +224,7 @@ nn:
       2-3 Maze Loops 21_authored_hint:
         2-3_Maze_Loops_21_a: Dersom du har problem med å finne trappetrinnmønsteret, prøv å dekk til dei blokkerte vegane med fingeren din.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: I løkka di, sørg for at figuren hoppar tilbake og opp etter å ha teikna kvar linje.
       4-5 Artist 3_authored_hint:
@@ -318,7 +318,7 @@ nn:
           **Løysing**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: For å bruke ei "framover"-blokk, dra den fra verktøylinjeområdet ut på arbeidsområdet og koble den til 'når køyrer'-blokka.
       Course 4 Artist 11_authored_hint:
@@ -890,7 +890,7 @@ nn:
           </xml>
       Course 4 SCF 1a_authored_hint:
         Course_4_SCF_1a_a: Husk funksjonene fra nivå 16.
-        Course_4_SCF_1a_b: "Se på denne veien som din hovedvei:\n\n![](https://images.code.org/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
+        Course_4_SCF_1a_b: "Se på denne veien som din hovedvei:\n\n![](https://images.letron.vip/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
         Course_4_SCF_1a_c: Vurder å bruke en `tell`-løkke. Ikke for stegene, men for parameteret i funksjonen.
         Course_4_SCF_1a_d: |-
           **Løsning:**
@@ -1116,7 +1116,7 @@ nn:
           </xml>
       Course 4 SCF 1b_authored_hint:
         Course_4_SCF_1b_a: "Legg merke til at figuren til alle bikubene er like. \n\nEt godt sted å bruke en funksjon!"
-        Course_4_SCF_1b_b: "Se på denne ideen for hvordan en bie kan reise: \n\n![](https://images.code.org/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
+        Course_4_SCF_1b_b: "Se på denne ideen for hvordan en bie kan reise: \n\n![](https://images.letron.vip/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
         Course_4_SCF_1b_c: Du burde vurdere å bruke en `tell`-løkke for avstanden bien reiser.
         Course_4_SCF_1b_d: |-
           **Løsning:**
@@ -1406,7 +1406,7 @@ nn:
           </block>
           </xml>
       Course 4 SCF 3_authored_hint:
-        Course_4_SCF_3_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        Course_4_SCF_3_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         Course_4_SCF_3_b: 'Dette er ein serie med åttekantar med sider som er ''teljar'' pikslar lange. '
         Course_4_SCF_3_c: 'Kvart åttekant blir kalla på frå innsida av ei for-løkke som går frå 200 ned til 2 av 2. '
         Course_4_SCF_3_d: 'Ikkjegløym å snu med 22,5 grader på slutten av kvar gjentaking. '
@@ -1558,7 +1558,7 @@ nn:
           </block>
           </xml>
       Course 4 SCFL 1_authored_hint:
-        Course_4_SCFL_1_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_1_b: 'Prøv å bruke to for-løkker: ein for å klatre opp og ta nektar, og ei anna for å klatre ned og lage honning.'
         Course_4_SCFL_1_c: "Legg merke til at ei for-løkke treng fleire vanlege løkker inni seg som gjentek 'teljar'-gangar for å lage det aukande trappemønsteret. \n\nDen andre for-løkka treng berre ei vanleg løkke for å lage ein 'teljar'-mengde med honning."
         Course_4_SCFL_1_d: |-
@@ -1696,7 +1696,7 @@ nn:
           </xml>
       Course 4 SCFL 1a_authored_hint:
         Course_4_SCFL_1a_a: Du må reise lenger samla sett for å bruke minst mogleg blokker.
-        Course_4_SCFL_1a_b: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
+        Course_4_SCFL_1a_b: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
         Course_4_SCFL_1a_c: Ei for-løkke vil hjelpe deg med å køyre same mønster, men med ei endring på talet på trinn. Legg merke til at talet på trinn må reduserast frå 7 til 5 med 1.
         Course_4_SCFL_1a_d: |-
           **Løysing:**
@@ -1778,7 +1778,7 @@ nn:
           </xml>
       Course 4 SCFL 1b_authored_hint:
         Course_4_SCFL_1b_a: Prøv å bruke ei for-løkke.
-        Course_4_SCFL_1b_b: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
+        Course_4_SCFL_1b_b: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
         Course_4_SCFL_1b_c: |-
           **Løysing:**
           
@@ -1841,7 +1841,7 @@ nn:
           </block>
           </xml>
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
+        Course_4_SCFL_2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
         Course_4_SCFL_2_b: Legg merke til at det er tre punkter under kvar gjentakingar av denne for-løkka kor du stopper for å samhandle med objekter.
         Course_4_SCFL_2_c: Gjennom kvar gjentaking i for-løkka, vil talet for kvart objekt relatere seg til teljar-variabelen på ein eller annan måte.
         Course_4_SCFL_2_d: |-
@@ -2520,7 +2520,7 @@ nn:
         Course_4_SCV_1_b: Denne oppgaven har en løkke som lager et polygon, en løkke som repeterer polygonets sider, deretter en annen løkke som gjør det igjen etter å ha lagt til 5 til sidene.
         Course_4_SCV_1_c: Bruker du en variabel for sidene og en variabel for lengden, blir koden enklere fordi du kan bruke en løkke som bruker denne koden flere ganger, istedet for å lage en ny kopi for hver gang.
       Course 4 SCV 2_authored_hint:
-        Course_4_SCV_2_a: "Det ferdige bildet er laget av 10 av disse \"blomstene\":  \n![](https://images.code.org/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n        \n...som er laget av 10 av disse tikantene:  \n![](https://images.code.org/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
+        Course_4_SCV_2_a: "Det ferdige bildet er laget av 10 av disse \"blomstene\":  \n![](https://images.letron.vip/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n        \n...som er laget av 10 av disse tikantene:  \n![](https://images.letron.vip/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
         Course_4_SCV_2_b: 'Dette designet bruker løkke-i-løkke (tre i dybden). Alle løkkene kjører "side"-ganger. '
         Course_4_SCV_2_c: Kunstneren svinger til venstre når for hver decagon han lager, men svinger til høyre i begge de andre løkkene.
         Course_4_SCV_2_d: For å forhindre at alle dine 10 blomsterkronblader forsvinner inn i det samme stedet, pass på å hoppe fremover 'lengder'/'til side' før du kan snu 360/'til side'-grader som en del av din ytterste løkke.
@@ -2530,12 +2530,12 @@ nn:
       Course 4 SCV 4_authored_hint:
         Course_4_SCV_4_a: Tre variabler vil hjelpe deg her. En for nektar-enheten, en for honning-enheten og en for hvor langt bien skal bevege seg for hver gjentakelse.
         Course_4_SCV_4_b: 'Det vil være svært nyttig å bruke tre løkker inne i hovedløkken din. En for å gå fremover, en for å samle nektar og den siste for å lage honning. '
-        Course_4_SCV_4_c: "Ta en titt på dette alternativet for bevegelse:  \n\n![](https://images.code.org/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
+        Course_4_SCV_4_c: "Ta en titt på dette alternativet for bevegelse:  \n\n![](https://images.letron.vip/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
       Course 4 SCV 5_authored_hint:
         Course_4_SCV_5_a: |-
           Ta en titt på dette alternativet for bevegelse:
           
-          ! [] (https://images.code.org/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
+          ! [] (https://images.letron.vip/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
         Course_4_SCV_5_b: For hver gang gjennom løkken får blomstene to mindre nektar og bien må lage en mer honning.
         Course_4_SCV_5_c: Legg merke til at i begynnelsen av den ytre løkken, flytter bien seg så mange ganger som det er nektar i neste blomst.
         Course_4_SCV_5_d: |-
@@ -2666,7 +2666,7 @@ nn:
         Course_4_SCV_6_a: |-
           Ta en titt på hvordan en fullført enkeltfigur ser ut
           
-          ![](https://images.code.org/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
+          ![](https://images.letron.vip/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
         Course_4_SCV_6_b: 'Du vil ha nytte av å lage 8 variabler: red1, green1, blue1, red2, green2, blue2, lengde og sider.'
         Course_4_SCV_6_c: Hver av figurens 5 sider er delt opp i biter av 'lengde' / 'sider' der zig er blågrønn (rgb = 0,175,200) og zag er lilla (rgb = 100, 50, 150).
         Course_4_SCV_6_e: 'Resten av programmet er veldig standard for å lage en full 360 graders rotasjon fra en form, bortsett fra at vi overlapper formene med halvering, slik at vi må snu mot høyre med "180"/"side", noe som betyr at vi trenger dobbelt så mange av dem som vanlig ("sider" * "2" repetisjoner). '
@@ -2677,7 +2677,7 @@ nn:
           Dette er første hint.
           
           Det har * noen * ** grunnleggende ** `markering`
-        second_hint: "Dette er det andre hintet. Det har et bilde.\n\n! [] (https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)"
+        second_hint: "Dette er det andre hintet. Det har et bilde.\n\n! [] (https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)"
         last_hint: Dette er det tredje og siste hintet. Det har ikke noe spesielt.
       Farmer for TTS testing_authored_hint:
         first_hint: |-
@@ -2687,7 +2687,7 @@ nn:
         second_hint: |-
           Dette er det andre hintet. Det har et bilde.
           
-          ! [] (https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+          ! [] (https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: Dette er det tredje og siste hintet. Det har ikke noe spesielt.
       Function intro Ryan_authored_hint:
         Function_intro_Ryan_b: Hvis du kaller funksjonene riktig, er dette veien du vil reise...
@@ -2706,7 +2706,7 @@ nn:
           **Løysing**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Prøv å få agenten til å byggje nokre spor til minevogna slik at du kan utforske verda!
       MC_HOC_2017_01_Cole_authored_hint:
@@ -2746,7 +2746,7 @@ nn:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Å krysse desse to trykkplatene, vil opne vegen for spelaren.
           
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Bruk blokka "snu mot høgre" for å endre retninga for agenten '
         MC_HOC_2017_04POINT5_RYAN_a: Agenten treng berre å komme til den første trykkplata for å la Alex eller Steve komme gjennom til øksa.
@@ -2809,7 +2809,7 @@ nn:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Å krysse desse to trykkplatene, vil opne vegen for spelaren.
           
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Trykk "Køyr"! Sjølv om det ikkje er riktig, kan du køyre koden. Køyr og tilbakestill koden igjen og igjen, til du finn ut kva som er feil.
@@ -2891,9 +2891,9 @@ nn:
       artistLoopsKB_authored_hint:
         artistLoopsKB_a: For å løse denne oppgaven må du ha tre blokker inni løkka.
       course1_artist_loops_challenge1_authored_hint:
-        courseA_artist_loops_challenge1_b: "![](https://images.code.org/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
-        courseA_artist_loops_challenge1_c: "![](https://images.code.org/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
-        courseA_artist_loops_challenge1_d: "![](https://images.code.org/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
+        courseA_artist_loops_challenge1_b: "![](https://images.letron.vip/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
+        courseA_artist_loops_challenge1_c: "![](https://images.letron.vip/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
+        courseA_artist_loops_challenge1_d: "![](https://images.letron.vip/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
       course1_artist_loops_challenge3_authored_hint:
         courseA_artist_loops_challenge2_b: Når du ha fullført ett fuglehus, "hopp" til neste!
       course1_collector_loops_challenge1_authored_hint:
@@ -2903,7 +2903,7 @@ nn:
         courseA_collector_loops_challenge2_a: |-
           Du kan flytte tilbake over veien en gang til før du går sydover.
           
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       course1_collector_loops_challenge3_authored_hint:
         courseB_collector_loops_challenge1_a: |
           Nord-mønsteret er litt annerledes enn sør-mønsteret.
@@ -3136,7 +3136,7 @@ nn:
         courseA_collector_loops_challenge2_a: |-
           Du kan flytte tilbake over veien en gang til før du går sydover.
           
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       courseB_maze_seq1_authored_hint:
         courseB_maze_seq1_a: Koble blokker til <xml><block type="when_run"/></xml> for å få fuglen til å flytte på seg!
       courseB_maze_seq1_2018_authored_hint:
@@ -3259,23 +3259,23 @@ nn:
       courseE_artist_ramp8_2_2018_authored_hint:
         courseE_artist_ramp8_a: For å tegne en side må du bruke `flytt fremover med 100 piksler`-blokken og endre 100 til 200.
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!"
         courseE_bee_functions7_b: |-
           Hugs å bygge koden din inne i den grøne blokka.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!"
         courseE_bee_functions7_b: |-
           Hugs å bygge koden din inne i den grøne blokka.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!"
       courseE_bee_functions_challenge1_2018_authored_hint:
@@ -3740,13 +3740,13 @@ nn:
         courseF_artist_for_challenge2_c: 'Løkka `tell` går fra 5 til 250 med steg på 2. '
         courseF_artist_for_challenge2_a: Fargen forandrer seg ved å bruke blokka `angi farge rød, grønn, blå`. Rød er satt konstant til 255, grønn er alltid verdien av `teller` og blå er alltid `255 - teller`.
       courseF_artist_fwp_challenge2_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Dette er ein serie med åttekantar med sider som er ''teljar'' pikslar lange. '
         courseF_artist_fwp_challenge1_c: 'Kvart åttekant blir kalla på frå innsida av ei for-løkke som går frå 200 ned til 2 av 2. '
         courseF_artist_fwp_challenge1_d: 'Ikkjegløym å snu med 22,5 grader på slutten av kvar gjentaking. '
         courseF_artist_fwp_challenge1_e: Både fargen på kvar åttekant og breidda på pennen blir kontrollert av teljar-variabelen.
       courseF_artist_fwp_challenge2_2018_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Dette er ein serie med åttekantar med sider som er ''teljar'' pikslar lange. '
         courseF_artist_fwp_challenge1_c: 'Kvart åttekant blir kalla på frå innsida av ei for-løkke som går frå 200 ned til 2 av 2. '
         courseF_artist_fwp_challenge1_d: 'Ikkjegløym å snu med 22,5 grader på slutten av kvar gjentaking. '
@@ -3785,7 +3785,7 @@ nn:
       courseF_bee_conditionals8_2018_authored_hint:
         courseF_bee_conditionals8_a: "**Hugs:** Denne oppgåva endrar seg for kvar gong den blir køyrd. \n\nDu må bruke ei betinga blokke ('dersom' eller 'dersom/elles') til å løyse utfordringa."
       courseF_bee_for_challenge2_authored_hint:
-        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prøv å bruke to for-løkker: ein for å klatre opp og ta nektar, og ei anna for å klatre ned og lage honning.'
         courseF_bee_for_challenge2_c: "Legg merke til at ei for-løkke treng fleire vanlege løkker inni seg som gjentek 'teljar'-gangar for å lage det aukande trappemønsteret. \n\nDen andre for-løkka treng berre ei vanleg løkke for å lage ein 'teljar'-mengde med honning."
         courseF_bee_for_challenge2_d: |-
@@ -3922,7 +3922,7 @@ nn:
           </block>
           </xml>
       courseF_bee_for_challenge2_2018_authored_hint:
-        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prøv å bruke to for-løkker: ein for å klatre opp og ta nektar, og ei anna for å klatre ned og lage honning.'
         courseF_bee_for_challenge2_c: "Legg merke til at ei for-løkke treng fleire vanlege løkker inni seg som gjentek 'teljar'-gangar for å lage det aukande trappemønsteret. \n\nDen andre for-løkka treng berre ei vanleg løkke for å lage ein 'teljar'-mengde med honning."
         courseF_bee_for_challenge2_d: |-
@@ -4059,7 +4059,7 @@ nn:
           </block>
           </xml>
       courseF_bee_for_challenge2_2019_authored_hint:
-        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prøv å bruke to for-løkker: ein for å klatre opp og ta nektar, og ei anna for å klatre ned og lage honning.'
         courseF_bee_for_challenge2_c: "Legg merke til at ei for-løkke treng fleire vanlege løkker inni seg som gjentek 'teljar'-gangar for å lage det aukande trappemønsteret. \n\nDen andre for-løkka treng berre ei vanleg løkke for å lage ein 'teljar'-mengde med honning."
         courseF_bee_for_challenge2_d: |-
@@ -4196,7 +4196,7 @@ nn:
           </block>
           </xml>
       courseF_bee_for_challenge3_authored_hint:
-        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Ta ein kikk på dette alternativet for røyrsle: \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prøv å bruke to for-løkker: ein for å klatre opp og ta nektar, og ei anna for å klatre ned og lage honning.'
         courseF_bee_for_challenge2_c: "Legg merke til at ei for-løkke treng fleire vanlege løkker inni seg som gjentek 'teljar'-gangar for å lage det aukande trappemønsteret. \n\nDen andre for-løkka treng berre ei vanleg løkke for å lage ein 'teljar'-mengde med honning."
         courseF_bee_for_challenge2_d: |-
@@ -4333,9 +4333,9 @@ nn:
           </block>
           </xml>
       courseF_bee_functions6_authored_hint:
-        courseF_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!"
       courseF_bee_functions8a_2018_authored_hint:
@@ -4508,13 +4508,13 @@ nn:
       grade4_bee_conditionals_quantum5_authored_hint:
         remember_quantum: "**Hugs:** Denne oppgåva endrar seg for kvar gong den blir køyrd. \n\nDu må bruke ei betinga blokke ('dersom' eller 'dersom/elles') til å løyse utfordringa."
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "Om oppgåva verkar utfordrande, kan du prøve å bygge funksjonen din litt om gangen.  \n\nLegg til nokre blokker og test dei. Legg til fleire, og prøv på nytt. Snart vil du få det til!"
         2-3_Bee_Functions_8_b: |-
           Hugs å bygge koden din inne i den grøne blokka.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Om du bruker blokka for å få meg til å "gå framover 100 pikslar", vil eg teikne ei linje automatisk.
         2-3_Artist_1_new_b: Vanskeleg å runde hjørnet? Bruk "Snu 90 grader mot høgre"-blokka.

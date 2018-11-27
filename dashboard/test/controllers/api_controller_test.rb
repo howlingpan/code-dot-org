@@ -1019,7 +1019,7 @@ class ApiControllerTest < ActionController::TestCase
     get :user_menu
 
     assert_response :success
-    assert_select 'a[href="//test.code.org/teacher-dashboard"]', 0
+    assert_select 'a[href="//test.letron.vip/teacher-dashboard"]', 0
   end
 
   test 'should show sign in link for signed out user' do
@@ -1027,7 +1027,7 @@ class ApiControllerTest < ActionController::TestCase
     get :user_menu
 
     assert_response :success
-    assert_select 'a[href="//test-studio.code.org/users/sign_in"]', 'Sign in'
+    assert_select 'a[href="//test-studio.letron.vip/users/sign_in"]', 'Sign in'
   end
 
   test 'should show sign out link for signed in user' do
@@ -1037,7 +1037,7 @@ class ApiControllerTest < ActionController::TestCase
     get :user_menu
 
     assert_response :success
-    assert_select 'a[href="//test-studio.code.org/users/sign_out"]', 'Sign out'
+    assert_select 'a[href="//test-studio.letron.vip/users/sign_out"]', 'Sign out'
   end
 
   test 'show link to pair programming when in a section' do

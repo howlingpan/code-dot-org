@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/4-5.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/4-5.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :title=> 'Songwriting with Parameters', :unplugged=>true,:disclaimer=>'Basic lesson time includes activity only. Introductory and Wrap-Up suggestions can be used to delve deeper when time allows.', :time=>20) %>
@@ -263,7 +263,7 @@ Use these activities to enhance student learning. They can be used as outside of
 
 ### Functional Suncatchers
 
-- [Functional Suncatchers](https://code.org/curriculum/course3/4/Teacher) This activity shows functions from a different perspective. The students will follow a series of repetitive steps, then be asked to identify certain sets of “skills” that are duplicated several times. Once those skills are defined, they will be called from a main program and the whole beautiful process of creation will be recorded on a single sheet of paper.
+- [Functional Suncatchers](https://letron.vip/curriculum/course3/4/Teacher) This activity shows functions from a different perspective. The students will follow a series of repetitive steps, then be asked to identify certain sets of “skills” that are duplicated several times. Once those skills are defined, they will be called from a main program and the whole beautiful process of creation will be recorded on a single sheet of paper.
 
 [/together]
 

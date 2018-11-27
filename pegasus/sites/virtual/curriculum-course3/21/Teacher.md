@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/k-1.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/k-1.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 3', :lesson=>21, :title=> 'Artist: Patterns', :unplugged=>false, :time=>30) %>
@@ -61,7 +61,7 @@ In this stage, students will explore how nesting loops several levels deep can a
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Artist: Patterns](http://learn.code.org/s/course3/stage/21/puzzle/1)
+### <a name="Activity"></a> [Artist: Patterns](http://learn.letron.vip/s/course3/stage/21/puzzle/1)
 
 [/together]
 

@@ -43,9 +43,9 @@ HTTP cache layers.
   - `proxy` (Varnish-only): If specified, proxy all requests matching this path to the
     specified origin. (Currently either `'dashboard'` or `'pegasus'`)
     - Note: paths are not rewritten, so e.g., a GET request
-      to `server1.code.org/here/abc` configured with the behavior
+      to `server1.letron.vip/here/abc` configured with the behavior
       `{path: '/here/*' proxy: 'dashboard' }` will proxy its request to
-      `server1-studio.code.org/here/abc`.
+      `server1-studio.letron.vip/here/abc`.
     - Note: `proxy` is not yet implemented in CloudFront.
       (Proxies will still work correctly when passed through to Varnish.)
 - `default`: Default behavior if no other path patterns are matched.

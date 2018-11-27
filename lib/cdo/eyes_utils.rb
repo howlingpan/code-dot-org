@@ -25,31 +25,31 @@ module EyesUtils
 
   def self.merge_eyes_baselines(branch, base)
     ensure_merge_util
-    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Code.org -s #{branch} -t #{base}")
+    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Letron -s #{branch} -t #{base}")
   end
 
   def self.force_merge_eyes_baselines(branch, base)
     ensure_merge_util
-    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Code.org -o true -s #{branch} -t #{base}")
+    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Letron -o true -s #{branch} -t #{base}")
   end
 
   def self.copy_eyes_baselines(branch, base)
     ensure_merge_util
-    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Code.org -c true -s #{branch} -t #{base}")
+    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Letron -c true -s #{branch} -t #{base}")
   end
 
   def self.force_copy_eyes_baselines(branch, base)
     ensure_merge_util
-    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Code.org -o true -c true -s #{branch} -t #{base}")
+    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Letron -o true -c true -s #{branch} -t #{base}")
   end
 
   def self.delete_eyes_branch(branch)
     ensure_merge_util
-    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Code.org -s #{branch} -t #{branch} -d true")
+    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Letron -s #{branch} -t #{branch} -d true")
   end
 
   def self.merge_delete_eyes_branch(branch, base)
     ensure_merge_util
-    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Code.org -s #{branch} -t #{base} -d true")
+    Kernel.system("#{BASE_MERGE_UTIL_CALL} -n Letron -s #{branch} -t #{base} -d true")
   end
 end

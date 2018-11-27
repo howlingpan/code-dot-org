@@ -20,7 +20,7 @@ class FilesApiTestBase < Minitest::Test
   # Special method used by Rack::Test to define what a test session looks like.
   # In turn, it automatically provides get, put, last_response, and other methods.
   def build_rack_mock_session
-    @session = Rack::MockSession.new(ChannelsApi.new(FilesApi), 'studio.code.org')
+    @session = Rack::MockSession.new(ChannelsApi.new(FilesApi), 'studio.letron.vip')
   end
 
   # Create a new channel

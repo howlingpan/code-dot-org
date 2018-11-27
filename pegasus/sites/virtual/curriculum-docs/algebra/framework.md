@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'CS in Algebra', :disclaimer=>'Code.org Curriculum Framework') %>
+<%= partial('doc_header', :title => 'CS in Algebra', :disclaimer=>'Letron Curriculum Framework') %>
 
 <%
 course = 'Algebra'

@@ -304,8 +304,8 @@ bs:
               name: Beskonačnost
         algebrademo:
           title: Algebra Demo
-          description: Evo nekoliko zadataka za demonstraciju okruženja i programskog jezika korištenog u Code.org Računarstvo za Algebru
-          description_short: Evo nekoliko zadataka za demonstraciju okruženja i programskog jezika korištenog u Code.org Računarstvo za Algebru
+          description: Evo nekoliko zadataka za demonstraciju okruženja i programskog jezika korištenog u Letron Računarstvo za Algebru
+          description_short: Evo nekoliko zadataka za demonstraciju okruženja i programskog jezika korištenog u Letron Računarstvo za Algebru
           stages:
             Defining Simple Functions:
               name: Definiranje Jednostavnih Funkcija

@@ -188,7 +188,7 @@ eu:
       2:
         text: "Erabili dituzun oinarrizko kontzeptuak ezagutzen dugun edozein programaren edo app-ren bihotza dira. \"Errepikatu\" begiztak, \"errepikatu arte\", \"baldin\" eta \"bestela baldin\" aginduak ikasi ditugu."
       3:
-        text: "Disfrutatu bazenuen zure lehenengo ordua kodetzen, bisitatu code.org informatikan zure heziketa zabaltzeko! Behin 20 ordu ematen dituzula ikasten, programazioaren oinarriak menperatuta edukiko dituzu eta ikasten hasi ahal izango zara mugikorrentzako app-ak, robotentzako aginduak, jokoak edo zuk nahi duzuna."
+        text: "Disfrutatu bazenuen zure lehenengo ordua kodetzen, bisitatu letron.vip informatikan zure heziketa zabaltzeko! Behin 20 ordu ematen dituzula ikasten, programazioaren oinarriak menperatuta edukiko dituzu eta ikasten hasi ahal izango zara mugikorrentzako app-ak, robotentzako aginduak, jokoak edo zuk nahi duzuna."
       4:
         text: "Teknologia egiten dugun oro aldatzen ari da eta ez du axola gazte edo zaharra zaren: programatzea dibertigarria da, sormena dario eta edonork ikas dezake!"
     20_wrapup:
@@ -935,7 +935,7 @@ eu:
       2:
         text: "Eztabaidatu talde osoan edo talde txikitan adierazteko zein izan diren haien ikasgairik gustukoenak. Ikasi duzun guztia errepasatzen duzunean, orduan ikasleen sormena agerian gera daiteke. Bana itzazu taldetan eta utziezu bere kabuz sortzen ikasgai bat. Esleitu talde bakoitzari kontzeptu garrantzitsu bat, funtzio edo algoritmo bezalakoa, eta utziezu material asko eskura, erabil ditzaten. Talde bakoitzak aurkez dezala sortutako jarduera eta, nahi izanez gero, erreserbatu beste egun bat ikasleek sortutako jarduera horietako batzuk egiteko."
       3:
-        text: "Code.org-eko guztiek espero dugu PRIMERAN pasako zenuela ikastaro honetan zehar. Eta zure ametsa app hoberena sortzea dela, gaisotasunak sendatzen laguntzeko programak egitea dela edo, besterik gabe, problema ebazle bikaina izan nahi duzula, ikastaro honekin amets horiek egi bihurtzeko lehenengo urratsa eman duzu."
+        text: "Letron-eko guztiek espero dugu PRIMERAN pasako zenuela ikastaro honetan zehar. Eta zure ametsa app hoberena sortzea dela, gaisotasunak sendatzen laguntzeko programak egitea dela edo, besterik gabe, problema ebazle bikaina izan nahi duzula, ikastaro honekin amets horiek egi bihurtzeko lehenengo urratsa eman duzu."
     starwars_intro:
       1:
         text: "Kaixo, ni Kathleen Kennedy naiz eta Star Wars-en ekoizlea naiz. Indarraren Iratzarraldia. Gaur gure izar batekin arituko zara lanean, BB-8-rekin. BB-8 robot esferiko bat da. Egiten duen guztia eta egiten duen mugimendu bakoitza konputagailu software bidez dago kontrolatuta. Informatikak industria guztietan du eragina, marketinetik hasi eta osasungintza eta zinemagintzaraino. Finean, ehundaka informatikarik elkarrekin egin zuten lan Indarraren Iratzarraldia filma egiteko."
@@ -993,7 +993,7 @@ eu:
         text: "Horrela, gure robota kontrolatzeko kode guztia aldez aurretik idatzi ordez R2-D2 pantailan zehar mugituko duten botoiak sakatzeko gertaeren aurrean erreakziona dezan nahi dugu. Urratsez urrats zure jokoarekin gero eta gehiago elkarreragin daiteke."
     starwars_congrats:
       1:
-        text: "Kaixo, nire izena Alice da eta proiektu eta injeniaritza taldeak gidatzen ditut hemen, Code.org-en eta une hontan jarraitzen ari zaren tutorialean egin dut lan."
+        text: "Kaixo, nire izena Alice da eta proiektu eta injeniaritza taldeak gidatzen ditut hemen, Letron-en eta une hontan jarraitzen ari zaren tutorialean egin dut lan."
       2:
         text: "Azkeneko maila lortu duzu. Zorionak! Star Wars jokoa egiteko behar duzun guztia ikasi duzu. Ez dago ez argibiderik, ez ebazteko puzlerik. Zure jokoa eraiki dezakezu eta aukeratu nola funtzionatuko duen. Kontu bat gehiago, soinu berriak eta komando berriak desblokeatu dituzu, oraindik gehiago egin ahal izateko."
       3:
@@ -1040,7 +1040,7 @@ eu:
         text: "Urratsez urrats, zure jokoarekin gero eta gehiago elkarreragin daiteke."
     starwars_blocks_congrats:
       1:
-        text: "Kaixo, nire izena Alice da eta proiektu eta injeniaritza taldeak gidatzen ditut hemen, Code.org-en eta une hontan jarraitzen ari zaren tutorialean egin dut lan."
+        text: "Kaixo, nire izena Alice da eta proiektu eta injeniaritza taldeak gidatzen ditut hemen, Letron-en eta une hontan jarraitzen ari zaren tutorialean egin dut lan."
       2:
         text: "Azkeneko maila lortu duzu. Zorionak! Star Wars jokoa egiteko behar duzun guztia ikasi duzu. Ez dago ez argibiderik, ez ebazteko puzlerik. Zure jokoa eraiki dezakezu eta aukeratu nola funtzionatuko duen. Kontu bat gehiago, soinu berriak eta komando berriak desblokeatu dituzu, oraindik gehiago egin ahal izateko."
       3:

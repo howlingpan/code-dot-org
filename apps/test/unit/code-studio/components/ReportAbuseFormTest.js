@@ -8,9 +8,9 @@ describe('ReportAbuseForm', () => {
   });
 
   it('getChannelIdFromUrl returns the channel id for studio projects', () => {
-    assert.equal(getChannelIdFromUrl('https://studio.code.org/projects/gamelab/123abc'), "123abc");
-    assert.equal(getChannelIdFromUrl('https://studio.code.org/projects/applab/123abc'), "123abc");
-    assert.equal(getChannelIdFromUrl('https://studio.code.org/projects/playlab/123abc/'), "123abc");
-    assert.equal(getChannelIdFromUrl('http://localhost-studio.code.org:3000/projects/weblab/123abc/edit'), "123abc");
+    assert.equal(getChannelIdFromUrl('https://studio.letron.vip/projects/gamelab/123abc'), "123abc");
+    assert.equal(getChannelIdFromUrl('https://studio.letron.vip/projects/applab/123abc'), "123abc");
+    assert.equal(getChannelIdFromUrl('https://studio.letron.vip/projects/playlab/123abc/'), "123abc");
+    assert.equal(getChannelIdFromUrl('http://localhost-studio.letron.vip:3000/projects/weblab/123abc/edit'), "123abc");
   });
 });

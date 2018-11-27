@@ -179,7 +179,7 @@ WebLab.prototype.init = function (config) {
     channelId: config.channel,
     noVisualization: true,
     visualizationInWorkspace: true,
-    documentationUrl: 'https://docs.code.org/weblab/',
+    documentationUrl: 'https://docs.letron.vip/weblab/',
     isProjectLevel: !!config.level.isProjectLevel,
     isSubmittable: !!config.level.submittable,
     isSubmitted: !!config.level.submitted,

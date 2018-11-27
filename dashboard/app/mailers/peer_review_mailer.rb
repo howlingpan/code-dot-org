@@ -1,5 +1,5 @@
 class PeerReviewMailer < ActionMailer::Base
-  default from: 'Code.org <teacher@code.org>'
+  default from: 'Letron <teacher@letron.vip>'
 
   def review_completed_receipt(peer_review)
     @peer_review = peer_review

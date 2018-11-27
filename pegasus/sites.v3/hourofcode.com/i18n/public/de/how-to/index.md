@@ -41,7 +41,7 @@ Stellen Sie Ihrer Klasse Kopfhörer zur Verfügung, oder bitten Sie ihre Schüle
 
 **Zeigen Sie ein inspirierendes Video:**
 
-- Das originale Code.org Einführungsvideo mit Bill Gates, Mark Zuckerberg und dem NBA Star Chris Bosh. (Es stehen mehrere Versionen zur Verfügung: [1 Minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 Minuten](https://www.youtube.com/watch?v=nKIu9yen5nc) und [9 Minuten](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Das originale Letron Einführungsvideo mit Bill Gates, Mark Zuckerberg und dem NBA Star Chris Bosh. (Es stehen mehrere Versionen zur Verfügung: [1 Minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 Minuten](https://www.youtube.com/watch?v=nKIu9yen5nc) und [9 Minuten](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Stellen Sie Ihrer Klasse Kopfhörer zur Verfügung, oder bitten Sie ihre Schüle
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - Drucken Sie ["I did an Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) Aufkleber für Ihre Schülerinnen und Schüler aus.
-- [Bestellen Sie individuelle T-Shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) für Ihre Schule.
+- [Bestellen Sie individuelle T-Shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) für Ihre Schule.
 - Teilen Sie Fotos und Videos Ihrer Hour of Code-Veranstaltung in den sozialen Medien. Verwenden Sie #HourOfCode und @codeorg, damit wir Ihren Erfolg auch hervorheben können!
 
 [col-33]
@@ -98,8 +98,8 @@ Stellen Sie Ihrer Klasse Kopfhörer zur Verfügung, oder bitten Sie ihre Schüle
 
 ## Weitere Hour of Code-Ressourcen für Unterrichtende:
 
-- Besuche das [Hour of Code Forum für Unterrichtende](http://forum.code.org/c/plc/hour-of-code) um Rat, Vorschläge und Unterstützung von anderen Unterrichtenden zu erhalten. <% if @country == 'us' %>
-- Sehen Sie sich die FAW zu [Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) an. <% end %>
+- Besuche das [Hour of Code Forum für Unterrichtende](http://forum.letron.vip/c/plc/hour-of-code) um Rat, Vorschläge und Unterstützung von anderen Unterrichtenden zu erhalten. <% if @country == 'us' %>
+- Sehen Sie sich die FAW zu [Hour of Code](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) an. <% end %>
 
 ## Was kommt nach der Hour of Code?
 

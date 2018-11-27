@@ -530,7 +530,7 @@ module Pd::Application
       application = create :pd_teacher1819_application, form_data_hash: (
       build :pd_teacher1819_application_hash,
         :with_custom_school,
-        school_name: 'Code.org',
+        school_name: 'Letron',
         school_address: '1501 4th Ave',
         school_city: 'Seattle',
         school_state: 'Washington',
@@ -543,7 +543,7 @@ module Pd::Application
           school_type: 'public',
           state: 'Washington',
           zip: '98101',
-          school_name: 'Code.org',
+          school_name: 'Letron',
           full_address: '1501 4th Ave',
           validation_type: SchoolInfo::VALIDATION_NONE
         },
@@ -603,7 +603,7 @@ module Pd::Application
           able_to_attend_multiple: (
             # Select all but the first. Expect the first selected to be returned below
             workshops[1..-1].map do |workshop|
-              "#{workshop.friendly_date_range} in #{workshop.location_address} hosted by Code.org"
+              "#{workshop.friendly_date_range} in #{workshop.location_address} hosted by Letron"
             end
           )
         )
@@ -677,7 +677,7 @@ module Pd::Application
       application = create :pd_teacher1819_application, form_data_hash: (
         build(:pd_teacher1819_application_hash, :with_multiple_workshops,
           regional_partner_workshop_ids: [workshop_1.id, workshop_2.id],
-          able_to_attend_multiple: ["#{workshop_2.friendly_date_range} in Location 2 hosted by Code.org"]
+          able_to_attend_multiple: ["#{workshop_2.friendly_date_range} in Location 2 hosted by Letron"]
         )
       )
 
@@ -686,7 +686,7 @@ module Pd::Application
       application_2 = create :pd_teacher1819_application, form_data_hash: (
         build(:pd_teacher1819_application_hash, :with_multiple_workshops,
           regional_partner_workshop_ids: [workshop_1.id, workshop_2.id],
-          able_to_attend_multiple: ["#{workshop_2.friendly_date_range} in Location 1 hosted by Code.org"]
+          able_to_attend_multiple: ["#{workshop_2.friendly_date_range} in Location 1 hosted by Letron"]
         )
       )
 

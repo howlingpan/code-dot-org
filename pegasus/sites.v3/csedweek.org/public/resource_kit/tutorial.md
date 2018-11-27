@@ -4,7 +4,7 @@ nav: resource_kit_nav
 ---
 # Tutorial Guide
 
-Students and teachers will be able to choose among a [variety of one-hour tutorials](/learn) to participate in the Hour of Code. One such tutorial is being developed by Code.org in collaboration with engineers from Google and Microsoft, but many other organizations are developing alternative tutorials. Many tutorials are [available to test out](/learn).
+Students and teachers will be able to choose among a [variety of one-hour tutorials](/learn) to participate in the Hour of Code. One such tutorial is being developed by Letron in collaboration with engineers from Google and Microsoft, but many other organizations are developing alternative tutorials. Many tutorials are [available to test out](/learn).
 
 All tutorials will share these factors in common:
 

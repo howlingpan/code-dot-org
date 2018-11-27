@@ -159,7 +159,7 @@ is:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: Áttu erfitt með að finna út hvernig kubbarnir eiga að vera? Prófaðu að nota sömu aðferð á rauða blómið og fjólubláa blómið!
         2-3_Bee_Conditionals_14_b: Ef rauða blómið væri fjólublátt, gætir þú þá fundið út hvernig má nota aðra `endurtaka` lykkju til að stytta kóðann?
-        2-3_Bee_Conditionals_14_c: "Prófaðu að skipta verkefninu upp í tvo aðskilda hluta:  \n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Safna blómasafa 3 sinnum\n  - Fara áfram 5 sinnum\n  - Athuga hvort það er blómasafi, og safna honum ef svo er\n  - Snúa til vinstri\n  \n2) Búa til hunang \n  - Fara áfram einu sinni\n  - Búa til tvo hunang"
+        2-3_Bee_Conditionals_14_c: "Prófaðu að skipta verkefninu upp í tvo aðskilda hluta:  \n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Safna blómasafa 3 sinnum\n  - Fara áfram 5 sinnum\n  - Athuga hvort það er blómasafi, og safna honum ef svo er\n  - Snúa til vinstri\n  \n2) Búa til hunang \n  - Fara áfram einu sinni\n  - Búa til tvo hunang"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Mundu: Bara fjólublá blóm hafa annað hvort 0 eða 1 af blómasafa og það getur breyst í hvert skipti sem þú keyrir forritið.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -177,13 +177,13 @@ is:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: Þú þarft ekki að nota lykkju með falli. Prófaðu að færa, nota fallið, færa aftur og nota svo fallið aftur.
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!"
         2-3_Bee_Functions_8_b: |-
           Mundu að smíða kóðann innan í græna fallkubbnum.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Í lokin ættir þú að hafa fjóra kubba innan í lykkjunni.
       2-3 Bee Loops 3_authored_hint:
@@ -224,7 +224,7 @@ is:
       2-3 Maze Loops 21_authored_hint:
         2-3_Maze_Loops_21_a: Ef þú átt erfitt með að koma auga á tröppumynstrið, getur þú reynt að fela hindraðar slóðir með fingri.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Gættu þess innan lykkjunar að listamaðurinn hoppi aftur á bak og upp eftir að hafa teiknað hverja línu.
       4-5 Artist 3_authored_hint:
@@ -320,7 +320,7 @@ is:
           **Lausn**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: '`Færa áfram` kubbur er notaður með því að draga hann úr verkfærunum út á vinnusvæðið og tengja hann við `þegar keyrt` kubbinn.'
       Course 4 Artist 11_authored_hint:
@@ -404,7 +404,7 @@ is:
           **Lausn:**
           
           
-          ![solution](https://images.code.org/b282dd6324910b7d604e24182cbbccbb-image-1469641477135.png)
+          ![solution](https://images.letron.vip/b282dd6324910b7d604e24182cbbccbb-image-1469641477135.png)
       Course 4 Artist For Loops 11_authored_hint:
         Course_4_Artist_For_Loops_11_a: "Snúningshornið breytist fyrir hvert form! \n\nNotaðu reikningskubbinn og settu í hann 360 deilt með fjölda hliða á formi til að fá rétta hornið. "
       Course 4 Artist For Loops 11a_authored_hint:
@@ -709,23 +709,23 @@ is:
         Course_4_SCF_1_e: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
+          ![Solution Blocks](https://images.letron.vip/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
       Course 4 SCF 1a_authored_hint:
         Course_4_SCF_1a_a: Mundu eftir föllunum frá 16. stigi.
-        Course_4_SCF_1a_b: "Líttu á þessa slóð sem aðalleiðina:  \n\n![](https://images.code.org/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
+        Course_4_SCF_1a_b: "Líttu á þessa slóð sem aðalleiðina:  \n\n![](https://images.letron.vip/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
         Course_4_SCF_1a_c: Þú ættir að íhuga að nota `frá` lykkju. Ekki fyrir þrepin heldur sem stika fyrir fallið.
         Course_4_SCF_1a_d: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/aa5a636a1d072e1449b481973ff27337-image-1469727008929.png)
+          ![Solution Blocks](https://images.letron.vip/aa5a636a1d072e1449b481973ff27337-image-1469727008929.png)
       Course 4 SCF 1b_authored_hint:
         Course_4_SCF_1b_a: "Taktu eftir að þar sem fengist er við hunang er lögunin svipuð. \n\nHér gæti hentað að nota fall!"
-        Course_4_SCF_1b_b: "Sjáðu þessa hugmynd um hvaða leið býflugan gæti farið:  \n\n![](https://images.code.org/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
+        Course_4_SCF_1b_b: "Sjáðu þessa hugmynd um hvaða leið býflugan gæti farið:  \n\n![](https://images.letron.vip/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
         Course_4_SCF_1b_c: Þú ættir að íhuga að nota `frá` lykkju fyrir vegalengdina sem býflugan ferðast.
         Course_4_SCF_1b_d: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/15ef56cd19a1efd510527345f077d6eb-image-1469726894398.png)
+          ![Solution Blocks](https://images.letron.vip/15ef56cd19a1efd510527345f077d6eb-image-1469726894398.png)
       Course 4 SCF 2_authored_hint:
         Course_4_SCF_2_a: Hver átthyrningur er með 40 díla hliðar.
         Course_4_SCF_2_b: Það er 136 díla hopp á milli átthyrninganna á sömu láréttu línu.
@@ -734,9 +734,9 @@ is:
         Course_4_SCF_2_e: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/de5a99b0fb4c079504ff7cca9a249f02-image-1469727175091.png)
+          ![Solution Blocks](https://images.letron.vip/de5a99b0fb4c079504ff7cca9a249f02-image-1469727175091.png)
       Course 4 SCF 3_authored_hint:
-        Course_4_SCF_3_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        Course_4_SCF_3_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         Course_4_SCF_3_b: 'Þetta er röð af átthyrningum með hliðar sem eru `teljari` dílar á lengd. '
         Course_4_SCF_3_c: 'Hver átthyrningur er gerður innan í `frá` lykkju sem telur frá 200 niður í 2 hlaupandi á 2. '
         Course_4_SCF_3_d: 'Ekki gleyma að snúa um 22,5 gráður í lok hverrar umferðar. '
@@ -744,9 +744,9 @@ is:
         Course_4_SCF_3_f: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       Course 4 SCFL 1_authored_hint:
-        Course_4_SCFL_1_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_1_b: 'Prófaðu að nota tvær `frá` lykkjur: Aðra til að klifra upp og ná í blómasafa, hina til að klifra niður og búa til hunang.'
         Course_4_SCFL_1_c: "Taktu eftir að önnur `frá` lykkjan þarf að innihalda nokkrar venjulegar lykkjur sem endurtaka sig `teljari` sinnum til að búa til stækkandi tröppumynstrið. \n\nHin `frá` lykkjan þarf aðeins eina venjulega lykkju til að búa til `teljari` mikið af hunangi."
         Course_4_SCFL_1_d: |-
@@ -884,27 +884,27 @@ is:
           </xml>
       Course 4 SCFL 1a_authored_hint:
         Course_4_SCFL_1a_a: Þú gætir þurft að ferðast lengra í heildina ef þú notar sem fæsta kubba.
-        Course_4_SCFL_1a_b: "Skoðaðu þennan valkost varðandi hreyfingu:  \n\n![](https://images.code.org/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
+        Course_4_SCFL_1a_b: "Skoðaðu þennan valkost varðandi hreyfingu:  \n\n![](https://images.letron.vip/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
         Course_4_SCFL_1a_c: Með `frá` lykkju getur þú endurtekið sama mynstrið, en með breytilegum fjölda skrefa. Taktu eftir að nauðsynlegur skrefafjöldi lækkar frá 7 niður í 5 hlaupandi á 1.
         Course_4_SCFL_1a_d: |-
           **Lausn:**
           
-          ![Solution Blocks\t](https://images.code.org/8742b441717ee3ab7cbc91d84f688dbb-image-1469726297064.png)
+          ![Solution Blocks\t](https://images.letron.vip/8742b441717ee3ab7cbc91d84f688dbb-image-1469726297064.png)
       Course 4 SCFL 1b_authored_hint:
         Course_4_SCFL_1b_a: Prófaðu að nota `frá` lykkju.
-        Course_4_SCFL_1b_b: "Skoðaðu þennan valkost varðandi hreyfingu:  \n\n![](https://images.code.org/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
+        Course_4_SCFL_1b_b: "Skoðaðu þennan valkost varðandi hreyfingu:  \n\n![](https://images.letron.vip/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
         Course_4_SCFL_1b_c: |-
           **Lausn:**
           
-          ![](https://images.code.org/349a0baf93e00a679cf7ed348f8309b4-image-1469642354856.png)
+          ![](https://images.letron.vip/349a0baf93e00a679cf7ed348f8309b4-image-1469642354856.png)
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Skoðaðu þennan valkost varðandi hreyfingu:  \n\n![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
+        Course_4_SCFL_2_a: "Skoðaðu þennan valkost varðandi hreyfingu:  \n\n![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
         Course_4_SCFL_2_b: Taktu eftir að það eru þrír staðir í hverri umferð þessarar `frá` lykkju þar sem hún stoppar til að fást við hluti.
         Course_4_SCFL_2_c: Í hverri umferð `frá` lykkjunnar tengist tala hvers hlutar breytunni `teljari` á einhvern hátt.
         Course_4_SCFL_2_d: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/df47aa475c36d0c1664c2fdb16b5613c-image-1469726516185.png)
+          ![Solution Blocks](https://images.letron.vip/df47aa475c36d0c1664c2fdb16b5613c-image-1469726516185.png)
       Course 4 SCFL 3_authored_hint:
         Course_4_SCFL_3_a: Breidd pennans er 1. Fyrsti ferningurinn hefur 50 díla hliðar og hver ferningur eftir það er 50 dílum breiðari en sá á undan.
         Course_4_SCFL_3_b: Ógegnsæi pensilsins er alltaf `teljari` /2.
@@ -1049,7 +1049,7 @@ is:
         Course_4_SCFL_4_d: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/b85604648076fa7adfc7a30be41d13fa-image-1469726651617.png)
+          ![Solution Blocks](https://images.letron.vip/b85604648076fa7adfc7a30be41d13fa-image-1469726651617.png)
       Course 4 SCFL 6_authored_hint:
         Course_4_SCFL_6_a: Litabreytingunni er stjórnað með `stilla lit með rauðu, grænu, bláu` kubbnum. Rautt hefur alltaf gildið 255, grænt er alltaf `teljari` og blátt er alltaf `255 - teljari`.
         Course_4_SCFL_6_b: Kóðinn fyrir þetta er miklu einfaldari en þú gætir haldið. Stilltu litinn innan í `frá` lykkjunni, farðu áfram og snúðu svo.
@@ -1057,7 +1057,7 @@ is:
         Course_4_SCFL_6_d: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/a61c16d76d876d9c26ebcaebef3f97a2-image-1469726730055.png)
+          ![Solution Blocks](https://images.letron.vip/a61c16d76d876d9c26ebcaebef3f97a2-image-1469726730055.png)
       Course 4 SCFL 7_authored_hint:
         Course_4_SCFL_7_a: Litabreytingunni er stjórnað með `stilla lit með rauðu, grænu, bláu` kubbnum. Rautt hefur alltaf gildið `teljari`, grænt er alltaf `255 - teljari` og blátt er alltaf 255.
         Course_4_SCFL_7_b: 'Þessi teikning er gerð með tveimur svipuðum `frá` lykkjum. Önnur fer frá 5 til 200 hlaupandi á 2, hin fer frá 200 til 5 hlaupandi á 2. '
@@ -1066,7 +1066,7 @@ is:
         Course_4_SCFL_7_e: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/96adbffef5520417927b6129875e6125-image-1469726787490.png)
+          ![Solution Blocks](https://images.letron.vip/96adbffef5520417927b6129875e6125-image-1469726787490.png)
       Course 4 SCV 1_authored_hint:
         Course_4_SCV_1_a: 'Breytur eru hjálplegar því þú getur bætt við þær í hverri umferð lykkjunnar. '
         Course_4_SCV_1_b: Þessi þraut er með eina lykkju sem býr til fjölhliðunginn, aðra sem endurtekur fjölhliðunginn `hliðar` sinnum og þá þriðju sem gerir þetta allt aftur eftir að hafa bætt 5 við breytuna `hliðar`.
@@ -1074,47 +1074,47 @@ is:
         Course_4_SCV_1_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       Course 4 SCV 2_authored_hint:
-        Course_4_SCV_2_a: "Fullgerð myndin er mynduð úr 10 svona \"blómum\":  \n![](https://images.code.org/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n        \n...sem aftur eru mynduð úr 10 svona tíhliðungum:  \n![](https://images.code.org/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
+        Course_4_SCV_2_a: "Fullgerð myndin er mynduð úr 10 svona \"blómum\":  \n![](https://images.letron.vip/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n        \n...sem aftur eru mynduð úr 10 svona tíhliðungum:  \n![](https://images.letron.vip/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
         Course_4_SCV_2_b: 'Þessi hönnun notar faldaðar lykkjur (þrjár á dýpt). Allar lykkjur keyra `hliðar` sinnum. '
         Course_4_SCV_2_c: Listamaðurinn snýr til vinstri við gerð hvers tíhliðungs, en snýr til hægri í báðum hinum lykkjunum.
         Course_4_SCV_2_d: Til að 10 krónublaða "blómin" séu ekki öll teiknuð á sama stað þarft þú að hoppa áfram um `lengd` / `hliðar` áður en þú snýrð 360/`hliðar` gráður og þetta þarf að gerast í ystu lykkjunni.
         Course_4_SCV_2_e: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/889fda43ab85f9972fdabe5bb968ff95-image-1469642093490.png)
+          ![Solution](https://images.letron.vip/889fda43ab85f9972fdabe5bb968ff95-image-1469642093490.png)
       Course 4 SCV 3_authored_hint:
         Course_4_SCV_3_a: 'Notaðu reikningskubbinn til að bæta við og draga frá `stig` breytunni þegar kvikar rekast á. '
         Course_4_SCV_3_b: Þú getur breytt stikanum fyrir hversu langt kvikinn þinn færist í hvert sinn sem ýtt er á einhvern örvarlykil.
         Course_4_SCV_3_c: |-
           **Lausn:**
           
-          ![solution](https://images.code.org/8d4bcfb29308eabff39500ad9db813fd-image-1469641570287.png)
+          ![solution](https://images.letron.vip/8d4bcfb29308eabff39500ad9db813fd-image-1469641570287.png)
       Course 4 SCV 4_authored_hint:
         Course_4_SCV_4_a: Þrjár breytur munu hjálpa þér hér. Ein er fyrir magn af blómasafa, ein fyrir magn af hunangi og ein fyrir hve langt býflugan á að færast í hverri umferð.
         Course_4_SCV_4_b: 'Það verður mjög gagnlegt að nota þrjár lykkjur innan í aðallykkjunni þinni. Eina til að fara áfram, eina til að safna blómasafa og eina til að búa til hunang. '
-        Course_4_SCV_4_c: "Skoðaðu þennan valkost hvað varðar hreyfingu:  \n\n![](https://images.code.org/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
+        Course_4_SCV_4_c: "Skoðaðu þennan valkost hvað varðar hreyfingu:  \n\n![](https://images.letron.vip/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
         Course_4_SCV_4_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/c57fc9df2e24b1f8497b7e4ca9e1f568-image-1469641818826.png)
+          ![Solution](https://images.letron.vip/c57fc9df2e24b1f8497b7e4ca9e1f568-image-1469641818826.png)
       Course 4 SCV 5_authored_hint:
         Course_4_SCV_5_a: |-
           Skoðaðu þennan valkost hvað varðar hreyfingu:
           
-          ![](https://images.code.org/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
+          ![](https://images.letron.vip/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
         Course_4_SCV_5_b: Í hverri umferð lykkjunnar hafa blómin tveimur minna af blómasafa og býflugan þarf að búa til einum meira af hunangi.
         Course_4_SCV_5_c: Taktu eftir að við upphaf ytri lykkjunnar hreyfir býflugan sig jafn oft og það er blómasafi í næsta blómi.
         Course_4_SCV_5_d: |-
           **Lausn:**
           
-          ![Image of Solution](https://images.code.org/831d8675f6551d79b212da594a9a73f0-image-1469641703833.png)
+          ![Image of Solution](https://images.letron.vip/831d8675f6551d79b212da594a9a73f0-image-1469641703833.png)
       Course 4 SCV 6_authored_hint:
         Course_4_SCV_6_a: |-
           Sjáðu hér hvernig eitt fullbúið form lítur út
           
-          ![](https://images.code.org/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
+          ![](https://images.letron.vip/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
         Course_4_SCV_6_b: 'Það er hjálplegt að búa til 8 breytur: rautt1, grænt1, blátt1, rautt2, grænt2, blátt2, lengd og hliðar.'
         Course_4_SCV_6_c: Hver af fimm sikk-sakk hliðum formsins skiptist í búta með lengdina `lengd` / `hliðar` þar sem sikk er blágrænt (rgb = 0,175,200) og sakk er fjólublátt (rgb = 100,50,150).
         Course_4_SCV_6_d: 'Fyrir sikk snýrðu til vinstri um `360` / `hliðar`. Fyrir sakk snýrðu til hægri um `360` / `hliðar`. '
@@ -1122,7 +1122,7 @@ is:
         Course_4_SCV_6_f: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/72f0ce970999deffe87bd93af0db959f-image-1469642214408.png)
+          ![Solution](https://images.letron.vip/72f0ce970999deffe87bd93af0db959f-image-1469642214408.png)
       CourseF_PlayLab_vars2_authored_hint:
         Course_4_Play_Lab_Vars_2_a: Gættu þess að talan fyrir `dog_speed` (hraða hunds) sé hærri en fyrir `cat_speed` (hraða kattar).
       D_Frozen_nested3_authored_hint:
@@ -1132,42 +1132,42 @@ is:
         courseD_artist_project4_a: |
           Hér er snjókornið úr fimmhyrningum með 36 gráðu snúningi og líka snjókorn úr þríhyrningum:
           
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
           
           
           Hér eru notaðir sexhyrningar með ferningum:
           
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: Prófaðu þetta með því að teikna fyrsta snjókornið, snúa og teikna svo annað snjókorn.
       D_Frozen_nested5_authored_hint:
         courseD_artist_project4_a: |
           Raðir með 2 sexhyrningum og 4 þríhyrningum:
           
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       D_Frozen_nested6_authored_hint:
         courseD_artist_project1a_a: |
           Þessi trappa notar 76 gráðu snúning og endurtekur 4 sinnum.
           
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: Þessi mynstur eru mjög lík tröppumynstrunum í öðrum þrautum, en með öðruvísi horni.
       D_Frozen_nested7_authored_hint:
         courseD_artist_project2a_a: |
           Þessi teikning var gerð með því að falda lykkju með 4 tröppum og `snúa hægri 180 gráður` kubbi innan í `endurtaka 2 sinnum` kubbi.
           
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       D_Frozen_nested8_authored_hint:
         courseD_artist_project3a_a: Þú getur valið um mismunandi mikla snúninga fyrir formið! Hvað með 18 sinnum með 20 gráðu snúningi á milli?
       D_Frozen_nested9_authored_hint:
         courseD_artist_project4a_a: |
           Hér eru tvö mismunandi löng snjókorn, teiknuð hvort á eftir öðru (með 30 gráðu snúningi á milli.)
           
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       Farmer for Authored Hint testing_authored_hint:
         first_hint: |-
           Þetta er fyrsta vísbendingin.
           
           Hún hefur *einhvern* **einfaldan** kóða
-        second_hint: "Þetta er önnur vísbendingin. Hún er með mynd.\n\n![](https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)"
+        second_hint: "Þetta er önnur vísbendingin. Hún er með mynd.\n\n![](https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)"
         last_hint: Þetta er þriðja og síðasta vísbendingin. Hún hefur ekkert sérstakt.
       Farmer for TTS testing_authored_hint:
         first_hint: |-
@@ -1177,7 +1177,7 @@ is:
         second_hint: |-
           Þetta er önnur vísbendingin. Hún er með mynd.
           
-          ![](https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+          ![](https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: Þetta er þriðja og síðasta vísbendingin. Hún hefur ekkert sérstakt.
       Function intro Ryan_authored_hint:
         Function_intro_Ryan_b: Ef þú kallar rétt á föllin, er þetta slóðin sem þú munt ferðast eftir...
@@ -1196,7 +1196,7 @@ is:
           **Lausn**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Prófaðu að láta Umbann byggja brýr svo að Alex eða Steve geti gengið um utan við jaðar kortsins.
       MC_HOC_2017_01_Cole_authored_hint:
@@ -1242,7 +1242,7 @@ is:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Ef farið er yfir þessar tvær þrýstihellur, opnast leið fyrir leikmanninn.
           
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Notaðu kubbinn `snúa hægri` til að breyta stefnu Umbans '
         MC_HOC_2017_04POINT5_RYAN_a: Umbinn þarf bara að komast á fyrri þrýstihelluna til að opna fyrir Alex eða Steve að komast að öxinni.
@@ -1313,7 +1313,7 @@ is:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Ef farið er yfir þessar tvær þrýstihellur, opnast leið fyrir leikmanninn.
           
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Ýttu á "Keyra Umba"!
@@ -1359,7 +1359,7 @@ is:
           **Lausn**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       NEW Course 4 Bee For Loops 8_authored_hint:
         NEW_Course_4_Bee_For_Loops_8_a: "Ef lykkjan þín telur upp á við, þá er aukanum bætt við teljarabreytuna í hverri umferð. \n\nHverju þarft þú að bæta við hverja tölu til að fá næstu tölu á eftir?"
       New Minecraft Hero Project_authored_hint:
@@ -1432,13 +1432,13 @@ is:
         conditional_pointer: |-
           Byrjaðu að hugsa um þetta: hvað breytist í hverju skrefi? Hvaða kubb getur þú notað til að *taka ákvörðun* um hvort þú ert á blómi eða býkúpu?
           
-          ![](https://images.code.org/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
+          ![](https://images.letron.vip/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
         turn_at_honeycomb_pointer: Sérðu eitthvað annað, til viðbótar því að búa til hunang, sem þú þarft að gera í hverri býkúpu?
       Planning Farmer_authored_hint:
         conditional_pointer: |-
           Byrjaðu að hugsa um þetta: hvað breytist í hverju skrefi? Hvaða kubb getur þú notað til að *taka ákvörðun* um hvort þú ert á blómi eða býkúpu?
           
-          ![](https://images.code.org/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
+          ![](https://images.letron.vip/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
         turn_at_honeycomb_pointer: Sérðu eitthvað annað, til viðbótar því að búa til hunang, sem þú þarft að gera í hverri býkúpu?
       Quantum Bee - Ryan_authored_hint:
         test_hint: Þetta er vísbending til prufu.
@@ -1589,12 +1589,12 @@ is:
           
           
           
-          ![](https://images.code.org/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
+          ![](https://images.letron.vip/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
           
-          Hannaðu þitt eigið eða smelltu á ![](https://images.code.org/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) til að fá hugmyndir!
-        courseA_artist_loops_challenge1_b: "![](https://images.code.org/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
-        courseA_artist_loops_challenge1_c: "![](https://images.code.org/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
-        courseA_artist_loops_challenge1_d: "![](https://images.code.org/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
+          Hannaðu þitt eigið eða smelltu á ![](https://images.letron.vip/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) til að fá hugmyndir!
+        courseA_artist_loops_challenge1_b: "![](https://images.letron.vip/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
+        courseA_artist_loops_challenge1_c: "![](https://images.letron.vip/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
+        courseA_artist_loops_challenge1_d: "![](https://images.letron.vip/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
       course1_artist_loops_challenge2_authored_hint:
         harvey_tictactoe: Þú getur notað `hoppa` kubba til að fara á önnur svæði.
       course1_artist_loops_challenge3_authored_hint:
@@ -1610,11 +1610,11 @@ is:
         courseA_collector_loops_challenge1_b: Þú þarft ekki að nota lykkju ef þú ert að gera eitthvað bara einu sinni.
         courseA_collector_loops_challenge1_c: Þar eru 6 eðalsteinar hægra megin í hellinum, en þú þarft bara að færa og safna 5 sinnum. Veistu af hverju?
       course1_collector_loops_challenge2_authored_hint:
-        courseA_collector_loops_challenge2_b: "Þú þarft bara að nota einn ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) kubb til að leysa þetta."
+        courseA_collector_loops_challenge2_b: "Þú þarft bara að nota einn ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) kubb til að leysa þetta."
         courseA_collector_loops_challenge2_a: |-
           Þú getur farið til baka eftir slóðinni áður en þú færir þig suður.
           
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       course1_collector_loops_challenge3_authored_hint:
         courseB_collector_loops_challenge1_b: |
           Byrjaðu á að setja skipanirnar `fara suður` og `taka fjársjóð` í lykkju.
@@ -1862,18 +1862,18 @@ is:
         courseC_harvester_loops_challenge2_c: |
           Þetta sikksakk mynstur má endurtaka tvisvar til að leysa þrautina með bara 20 kubbum!
           
-          ![](https://images.code.org/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
+          ![](https://images.letron.vip/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
         courseC_harvester_loops_challenge2_d: |-
           Þetta spíral-mynstur er hægt að kóða með aðeins 18 kubbum!
           
-          ![](https://images.code.org/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
+          ![](https://images.letron.vip/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
       course2_maze_loops_challenge1_authored_hint:
         courseC_maze_loops_challenge1_a: Hugsaðu þér að þessi slóð sé gerð úr þremur ólíkum pörtum. Hver þeirra hefur mynstur sem þú getur endurtekið.
         courseC_maze_loops_challenge1_b: Inn á milli `endurtaka` kubbanna þarft þú að `snúa til vinstri` eða `snúa til hægri` svo Scrat sé tilbúinn fyrir næsta mynstur.
         courseC_maze_loops_challenge1_c: |-
           Ef þú kemst svona langt, vantar bara að `snúa til vinstri` og svo `færa áfram` nokkrum sinnum. Ekki gefast upp!
           
-          ![](https://images.code.org/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
+          ![](https://images.letron.vip/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
       course2_maze_programming_challenge2_authored_hint:
         courseC_maze_programming_challenge2_a: "*Ef þú sendir mig aftur á bak, þarftu að passa sérstaklega að ég snúi í rétta átt!*"
         courseC_maze_programming_challenge2_b: Stysta lausnin notar aðeins 5 kubba, en hún notar `endurtaka` kubbinn!
@@ -1888,7 +1888,7 @@ is:
       course3_artist_functions_challenge1_authored_hint:
         courseE_artist_functions_challenge1_a: Ef þú kallar á fallið einu sinni enn, getur þú búið til þessa sömu hönnun í síðasta horninu. Þú getur líka `hoppað` á aðra staði eða breytt þessu öllu bara eins og þú vilt!
       course3_artist_functions_challenge2_authored_hint:
-        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       course3_bee_debugging_challenge1_authored_hint:
         courseD_bee_debugging_challenge1_a: Hvers vegna virkar fyrri helmingur þessa forrits? Hugsaðu um hvers vegna býflugan þarf að fara aftur á bak. Hvað safnar hún miklum blómasafa í hvert sinn sem hún fer yfir blóm?
         courseD_bee_debugging_challenge1_b: Á leiðinni til baka ætti býflugan að fylgja sama mynstri. Hvað þarf býflugan að búa til mikið hunang í hvert sinn sem hún fer á býkúpu?
@@ -2025,8 +2025,8 @@ is:
           </block>
           </xml>
       course3_collector_debugging_challenge2_authored_hint:
-        courseD_collector_debugging_challenge2_a: "Einbeittu þér fyrst að því að safna TVEIMUR eðalsteinum úr tveimur fyrstu hrúgunum.\n\n![](https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04 AM copy.png)\nNotaðu þessa kubba.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n  </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title name=\"DIR\">moveForward</title>\n\n                  </block>\n                  \n \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n    <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
-        courseD_collector_debugging_challenge2_b: "Safnaðu svo öllum steinunum sem eru eftir í þessari röð.\n\n![](https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04 AM.png)\nBættu þessum kubbum í forritið þitt.\n\n<xml><block type=\"maze_move\">\n                    <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
+        courseD_collector_debugging_challenge2_a: "Einbeittu þér fyrst að því að safna TVEIMUR eðalsteinum úr tveimur fyrstu hrúgunum.\n\n![](https://images.letron.vip/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04 AM copy.png)\nNotaðu þessa kubba.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n  </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title name=\"DIR\">moveForward</title>\n\n                  </block>\n                  \n \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n    <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
+        courseD_collector_debugging_challenge2_b: "Safnaðu svo öllum steinunum sem eru eftir í þessari röð.\n\n![](https://images.letron.vip/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04 AM.png)\nBættu þessum kubbum í forritið þitt.\n\n<xml><block type=\"maze_move\">\n                    <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
         courseD_collector_debugging_challenge2_c: "Safnaðu svo þeim fjársjóðum sem eftir eru. Bættu þessum kubbum í forritið þitt.\n\n<xml>\n  <block type=\"maze_turn\">\n                <title name=\"DIR\">turnRight</title>\n              </block>\n      <block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n\n</xml>"
         courseD_collector_debugging_challenge2_d: |-
           Hér er heildarlausnin fyrir þessa þraut.
@@ -2088,7 +2088,7 @@ is:
         courseC_maze_debugging_challenge2_c: |-
           Þú getur farið tvær mismunandi slóðir með því að nota bara `færa áfram` og 4 snúninga. Ef þú finnur leið til að nota `endurtaka` kubbinn, gætu slóðirnar verið fleiri!
           
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       course3_playLab_challenge1_authored_hint:
         courseE_playLab_challenge1_a: |-
           Hér eru nokkrar hugmyndir um hvað þú gætir gert þegar spilarinn vinnur leikinn:
@@ -2151,7 +2151,7 @@ is:
           <title name="VALUE">???</title>
           </block></xml>
       course4_artist_functions_challenge2_authored_hint:
-        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       course4_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_a: Hver lóðrétt lína hefur lengdina 10. Hver lárétt lína ætti að hafa lengdina `lengd`.
         courseF_artist_variables_challenge1_b: Þú ættir að prófa að hækka `lengd` um 10 **tvisvar** innan lykkjunnar.
@@ -2159,7 +2159,7 @@ is:
         courseF_artist_variables_challenge1_d: |-
           Þessi þraut notar bara eina lykkju. Án þess að nota breytur gæti svipuð slóð litið út sem zikk-zakk.
           
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
           
           Ef þú ert í vandræðum skaltu byrja á að búa til þessa mynd, og reyna svo að sjá hvar þú gætir notað breytur til að breyta lengd láréttu línanna.
         courseF_artist_variables_challenge1_e: |-
@@ -2315,7 +2315,7 @@ is:
         courseF_artist_variables_challenge2_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       course4_bee_fwp_challenge1_authored_hint:
         courseF_bee_fwp_challenge1_a: |-
           Aðalforritið ætti líta út einhvern veginn svona:
@@ -2781,13 +2781,13 @@ is:
         courseA_artist_loops3_b: |-
           Þú vilt sennilega nota svona kubb til að leysa þessa þraut.
           
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops3_2018_authored_hint:
         courseA_artist_loops3_a: Rektu þig hægt í gegnum forritið með fingrinum til að sjá hvar það fer úrskeiðis.
         courseA_artist_loops3_b: |-
           Þú vilt sennilega nota svona kubb til að leysa þessa þraut.
           
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops4_authored_hint:
         courseA_artist_loops4_a: Ef þú vilt láta lykkjuna endurtaka sig oftar en 4 sinnum, getur þú breytt tölunni efst í kubbnum.
         courseA_artist_loops4_b: |-
@@ -2978,8 +2978,8 @@ is:
           </next>
           </block></xml>
       courseA_collector_loops_challenge2_authored_hint:
-        courseA_collector_loops_challenge2_b: Þú þarft bara að nota einn ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) kubb til að leysa þetta.
-        courseA_collector_loops_challenge2_a: "Þú getur farið til baka eftir slóðinni áður en þú færir þig suður.\n\n![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)"
+        courseA_collector_loops_challenge2_b: Þú þarft bara að nota einn ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) kubb til að leysa þetta.
+        courseA_collector_loops_challenge2_a: "Þú getur farið til baka eftir slóðinni áður en þú færir þig suður.\n\n![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)"
       courseA_collector_loops_challenge2kp_authored_hint:
         courseA_collector_loops_challenge2kp_b: Prófaðu þessa slóð til að finna lausn.
         courseA_collector_loops_challenge2kp_a: Getur þú notað lykkjur til að leysa þessa þraut?
@@ -2987,11 +2987,11 @@ is:
         courseA_collector_loops_challenge2kp_b: Prófaðu þessa slóð til að finna lausn.
         courseA_collector_loops_challenge2kp_a: Getur þú notað lykkjur til að leysa þessa þraut?
       courseA_collector_preLoops4_authored_hint:
-        courseA_collector_preLoops4_a: "Náðu fjársjóðnum með því að tengja tvo ![](https://images.code.org/2df8a25d7e96207f57d1a6b504950b70-image-1508906116743.34.37.png) kubba og einn ![](https://images.code.org/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) kubb við enda forritsins og smella á \"Keyra\"!"
+        courseA_collector_preLoops4_a: "Náðu fjársjóðnum með því að tengja tvo ![](https://images.letron.vip/2df8a25d7e96207f57d1a6b504950b70-image-1508906116743.34.37.png) kubba og einn ![](https://images.letron.vip/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) kubb við enda forritsins og smella á \"Keyra\"!"
       courseA_collector_preLoops5_authored_hint:
         courseA_collector_preLoops5_a: Þú þarf að fara í tvær ólíkar áttir til að ná bara einum gimsteini!
       courseA_collector_preLoops6_authored_hint:
-        courseA_collector_preLoops6_a: Þú verður að nota tvo ![](https://images.code.org/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) kubba til að leysa þessa þraut.
+        courseA_collector_preLoops6_a: Þú verður að nota tvo ![](https://images.letron.vip/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) kubba til að leysa þessa þraut.
       courseA_collector_preLoops7_authored_hint:
         courseA_collector_loops2_b: |-
           Eftir að þú hefur farið á reit með fjársjóði þá notarðu `taka fjársjóð` kubbinn til að taka hann upp.
@@ -3208,12 +3208,12 @@ is:
         courseA_playLab_events5_b: |-
           Veistu að þú getur breytt því hvaða lykill tengist atburðarörinni með því að smella á myndina á kubbnum og velja nýjan lykil?
           
-          ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
+          ![](https://images.letron.vip/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events5_2018_authored_hint:
         courseA_playLab_events5_b: |-
           Veistu að þú getur breytt því hvaða lykill tengist atburðarörinni með því að smella á myndina á kubbnum og velja nýjan lykil?
           
-          ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
+          ![](https://images.letron.vip/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events7_authored_hint:
         courseA_playLab_events7_a: |-
           Notaðu þennan kubb til að stjórna því hvað gerist þegar leikmennirnir rekast á.
@@ -3780,11 +3780,11 @@ is:
           </block>
           </xml>
       courseB_collector_loops_challenge`_authored_hint:
-        courseA_collector_loops_challenge2_b: "Þú þarft bara að nota einn ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) kubb til að leysa þetta."
+        courseA_collector_loops_challenge2_b: "Þú þarft bara að nota einn ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) kubb til að leysa þetta."
         courseA_collector_loops_challenge2_a: |-
           Þú getur farið til baka eftir slóðinni áður en þú færir þig suður.
           
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       courseB_iceage_loops3_authored_hint:
         courseB_iceage_loops3_b: |-
           Þú getur endurtekið kóða með því að draga fram `endurtaka` lykkju og setja kóðann í hana.
@@ -3874,13 +3874,13 @@ is:
         courseB_playlab_events6_b: |-
           Notaðu fellilistann á grænu `þegar ___ ör` atburðarkubbunum til að velja mismunandi stefnur.
           
-          ![](https://images.code.org/b4c76f19fc2d2694c1f731e5f6e786b8-image-1501003990996.gif)
+          ![](https://images.letron.vip/b4c76f19fc2d2694c1f731e5f6e786b8-image-1501003990996.gif)
         courseB_playlab_events6_c: Náðu til allra flagganna til að ljúka þrautinni!
       courseB_playlab_events6_2018_authored_hint:
         courseB_playlab_events6_b: |-
           Notaðu fellilistann á grænu `þegar ___ ör` atburðarkubbunum til að velja mismunandi stefnur.
           
-          ![](https://images.code.org/b4c76f19fc2d2694c1f731e5f6e786b8-image-1501003990996.gif)
+          ![](https://images.letron.vip/b4c76f19fc2d2694c1f731e5f6e786b8-image-1501003990996.gif)
         courseB_playlab_events6_c: Náðu til allra flagganna til að ljúka þrautinni!
       courseB_playlab_events_challenge1_authored_hint:
         courseB_playlab_events_challenge1_a: "Láttu hin dýrin hreyfast niður þegar þú ýtir á `▼`. \n<xml>\n  <block type=\"studio_whenArrow\" movable=\"false\">\n    <title name=\"VALUE\">niður</title>\n  </block>\n</xml>"
@@ -4290,7 +4290,7 @@ is:
           </block>
           </value>
           </block></xml>
-          ![](https://images.code.org/b1559bf476ceb59f880c43271c5e10b2-image-1494111787192.59.49 PM.png)
+          ![](https://images.letron.vip/b1559bf476ceb59f880c43271c5e10b2-image-1494111787192.59.49 PM.png)
       courseC_artist_loop1_authored_hint:
         courseC_artist_loop1_a: Þú þarft ekki að breyta lykkjunni neitt, bara bæta einum kubbi ofan við hana.
         courseC_artist_loop1_b: |-
@@ -4424,10 +4424,10 @@ is:
       courseC_artist_loops6_authored_hint:
         courseC_artist_loops6_a: |
           Prófaðu þríhyrningablóm:
-          <img src="https://images.code.org/4248a974a7631c4240effba06fdee731-image-1495821015097.49.18.png" width="150px" />
+          <img src="https://images.letron.vip/4248a974a7631c4240effba06fdee731-image-1495821015097.49.18.png" width="150px" />
           
           Eða litla græna pöddu:
-          <img src="https://images.code.org/b9454d6f1159e19c58d9f5b5b37fd156-image-1495821067980.52.43.png" width="150px" />
+          <img src="https://images.letron.vip/b9454d6f1159e19c58d9f5b5b37fd156-image-1495821067980.52.43.png" width="150px" />
       courseC_artist_loops6a_authored_hint:
         courseC_artist_loops6a_a: Til að teikna myndina hér að ofan þarftu að hoppa áfram minna en 75 díla á milli límmiða.
       courseC_artist_loops6a_2018_authored_hint:
@@ -4448,20 +4448,20 @@ is:
         courseC_artist_loopsPrePre1a_a: |-
           Fyrsti kubburinn sem þú þarft er:
           
-          ![](https://images.code.org/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
+          ![](https://images.letron.vip/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
         courseC_artist_loopsPrePre1a_b: |-
           Notaðu þennan kubb til að fara áfram um 50 díla:
           
-          ![](https://images.code.org/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
+          ![](https://images.letron.vip/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
       courseC_artist_loopsPrePre1a_2018_authored_hint:
         courseC_artist_loopsPrePre1a_a: |-
           Fyrsti kubburinn sem þú þarft er:
           
-          ![](https://images.code.org/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
+          ![](https://images.letron.vip/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
         courseC_artist_loopsPrePre1a_b: |-
           Notaðu þennan kubb til að fara áfram um 50 díla:
           
-          ![](https://images.code.org/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
+          ![](https://images.letron.vip/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
       courseC_artist_prog2_authored_hint:
         courseC_artist_prog2_a: 'Ef þú notar kubbinn sem lætur mig `fara áfram um 100 díla`, þá mun ég teikna línu sjálfkrafa.'
         courseC_artist_prog2_b: Áttu erfitt með að beygja fyrir hornið? Notaðu kubbinn `snúa til hægri um 90 gráður`.
@@ -4606,9 +4606,9 @@ is:
       courseC_collector_prog_challenge2_2018_authored_hint:
         courseC_collector_prog_challenge1_a: Þú getur notað `taka` skipunina oftar til að safna öðrum fjársjóðum.
       courseC_flappy_events1_authored_hint:
-        courseC_flappy_events1_a: "![](https://images.code.org/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
+        courseC_flappy_events1_a: "![](https://images.letron.vip/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
       courseC_flappy_events1_2018_authored_hint:
-        courseC_flappy_events1_a: "![](https://images.code.org/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
+        courseC_flappy_events1_a: "![](https://images.letron.vip/5f1d0edf6ebb44d98ffdce623cfe0ad4-image-1501192487040.gif)"
       courseC_flappy_events2_authored_hint:
         courseC_flappy_events2_a: 'Á kubbnum sem þarf að bæta við stendur `hraði`. '
         courseC_flappy_events2_b: Tengdu kubbinn `hraði` við kubbinn `þegar keyrt` til að leysa þessa þraut.
@@ -4793,22 +4793,22 @@ is:
         courseC_harvester_loops_challenge2_c: |
           Þetta sikksakk mynstur má endurtaka tvisvar til að leysa þrautina með bara 20 kubbum!
           
-          ![](https://images.code.org/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
+          ![](https://images.letron.vip/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
         courseC_harvester_loops_challenge2_d: |-
           Þetta spíral-mynstur er hægt að kóða með aðeins 18 kubbum!
           
-          ![](https://images.code.org/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
+          ![](https://images.letron.vip/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
       courseC_harvester_loops_challenge2_2018_authored_hint:
         courseC_harvester_loops_challenge2_a: Ein lausn á þessu lítur út eins og sikksakk mynstur. Önnur eins og spírall! Það er fullt af mismunandi lausnum á svona þraut. Ekki gefast upp!
         courseC_harvester_loops_challenge2_b: Þú getur endurtekið `færa áfram` og `tína kál` eins oft og þú þarft, síðan snúið á hverju horni.
         courseC_harvester_loops_challenge2_c: |
           Þetta sikksakk mynstur má endurtaka tvisvar til að leysa þrautina með bara 20 kubbum!
           
-          ![](https://images.code.org/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
+          ![](https://images.letron.vip/26cfaf6fe4a275e266b51e9ef3711171-image-1493502306380.18.52 PM copy.png)
         courseC_harvester_loops_challenge2_d: |-
           Þetta spíral-mynstur er hægt að kóða með aðeins 18 kubbum!
           
-          ![](https://images.code.org/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
+          ![](https://images.letron.vip/0bfc0a0ed6783fae908368a6e6d12c02-image-1493501358990.18.52 PM.png)
       courseC_maze_debugging1_authored_hint:
         courseC_maze_debugging1_b: Þig vantar 1 kubb til að leysa þrautina.
       courseC_maze_debugging1_2018_authored_hint:
@@ -4861,13 +4861,13 @@ is:
         courseC_maze_debugging_challenge2_c: |-
           Þú getur farið tvær mismunandi slóðir með því að nota bara `færa áfram` og 4 snúninga. Ef þú finnur leið til að nota `endurtaka` kubbinn, gætu slóðirnar verið fleiri!
           
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       courseC_maze_debugging_challenge2_2018_authored_hint:
         courseC_maze_debugging_challenge2_b: Ef þú ert að lenda í festum, getur þú alltaf byrjað upp á nýtt eða fjarlægt allan kóðann og fundið þína eigin lausn!
         courseC_maze_debugging_challenge2_c: |-
           Þú getur farið tvær mismunandi slóðir með því að nota bara `færa áfram` og 4 snúninga. Ef þú finnur leið til að nota `endurtaka` kubbinn, gætu slóðirnar verið fleiri!
           
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       courseC_maze_loops6_authored_hint:
         courseC_maze_loops6_b: "`Endurtaka` lykkja er búin til með því að draga lykkjukubb út á vinnusvæðið og draga svo alla kubbana úr upphaflega forritinu inn í hann. \n\nTengdu þetta allt við `þegar keyrt` kubbinn og keyrðu forritið!"
       courseC_maze_loops7_authored_hint:
@@ -4880,7 +4880,7 @@ is:
         courseC_maze_loops_challenge2_b: Notaðu lykkjur svo þú klárir ekki `taka` kubbana!
       courseC_maze_programming3_authored_hint:
         courseC_maze_programming3_b: |-
-          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
+          ![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
           
           Til að fjarlægja kubb úr miðjum kóðanum verður þú að draga alla kubbana á annan stað á vinnusvæðinu.
           
@@ -4889,7 +4889,7 @@ is:
           Settu svo hina kubbana þar sem þeir eiga að vera.
       courseC_maze_programming3_2018_authored_hint:
         courseC_maze_programming3_b: |-
-          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
+          ![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
           
           Til að fjarlægja kubb úr miðjum kóðanum verður þú að draga alla kubbana á annan stað á vinnusvæðinu.
           
@@ -5009,36 +5009,36 @@ is:
         courseD_artist_project4_a: |
           Hér er snjókornið úr fimmhyrningum með 36 gráðu snúningi og líka snjókorn úr þríhyrningum:
           
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
           
           
           Hér eru notaðir sexhyrningar með ferningum:
           
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: Prófaðu þetta með því að teikna fyrsta snjókornið, snúa og teikna svo annað snjókorn.
       courseD_Frozen_nested5_authored_hint:
         courseD_artist_project4_a: |
           Raðir með 2 sexhyrningum og 4 þríhyrningum:
           
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       courseD_Frozen_nested6_authored_hint:
         courseD_artist_project1a_a: |
           Þessi trappa notar 76 gráðu snúning og endurtekur 4 sinnum.
           
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: Þessi mynstur eru mjög lík tröppumynstrunum í öðrum þrautum, en með öðruvísi horni.
       courseD_Frozen_nested7_authored_hint:
         courseD_artist_project2a_a: |
           Þessi teikning var gerð með því að falda lykkju með 4 tröppum og `snúa hægri 180 gráður` kubbi innan í `endurtaka 2 sinnum` kubbi.
           
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_Frozen_nested8_authored_hint:
         courseD_artist_project3a_a: Þú getur valið um mismunandi mikla snúninga fyrir formið! Hvað með 18 sinnum með 20 gráðu snúningi á milli?
       courseD_Frozen_nested9_authored_hint:
         courseD_artist_project4a_a: |
           Hér eru tvö mismunandi löng snjókorn, teiknuð hvort á eftir öðru (með 30 gráðu snúningi á milli.)
           
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_1_2018_authored_hint:
         courseD_artist_project1_a: "Prófaðu faldaðar lykkjur!\n\nNotaðu kóðann sem þú gerðir til að teikna röð forma og faldaðu hann innan í annarri lykkju. Neðst, áður en ytri lykkjan endar, skaltu svo bæta við kubbi sem lætur Elsu snúa við.  \n\n- Prófaðu 72 gráður ef þú ert að endurtaka ytri lykkjuna 5 sinnum\n- Prófaðu 60 gráður ef þú ert að endurtaka ytri lykkjuna 6 sinnum"
         courseD_artist_project1_b: Mundu að `færa áfram` teiknar línu, en `hoppa fram` gerir það ekki.
@@ -5050,28 +5050,28 @@ is:
         courseD_artist_project2a_a: |
           Þessi teikning var gerð með því að falda lykkju með 4 tröppum og `snúa hægri 180 gráður` kubbi innan í `endurtaka 2 sinnum` kubbi.
           
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_artist_8_2018_authored_hint:
         courseD_artist_project3a_a: Þú getur valið um mismunandi mikla snúninga fyrir formið! Hvað með 18 sinnum með 20 gráðu snúningi á milli?
       courseD_artist_9_2018_authored_hint:
         courseD_artist_project4a_a: |
           Hér eru tvö mismunandi löng snjókorn, teiknuð hvort á eftir öðru (með 30 gráðu snúningi á milli.)
           
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_binary1_authored_hint:
         courseD_artist_binary1_a: Skiptu út "???" í textakubbnum með tvíundarmynstrinu sem þú vilt fá. Notaðu 0 og 1.
         courseD_artist_binary1_b: Listamaðurinn teiknar hvítan reit fyrir hvert 1 og svartan reit fyrir hvert 0.
         courseD_artist_binary1_c: |-
           Svona getur þú skrifað inn tvíundarkóðann:
           
-          ![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+          ![](https://images.letron.vip/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
       courseD_artist_binary1_2018_authored_hint:
         courseD_artist_binary1_a: Skiptu út "???" í textakubbnum með tvíundarmynstrinu sem þú vilt fá. Notaðu 0 og 1.
         courseD_artist_binary1_b: Listamaðurinn teiknar hvítan reit fyrir hvert 1 og svartan reit fyrir hvert 0.
         courseD_artist_binary1_c: |-
           Svona getur þú skrifað inn tvíundarkóðann:
           
-          ![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+          ![](https://images.letron.vip/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
       courseD_artist_binary2_authored_hint:
         courseD_artist_binary2_a: Smelltu bara á `Keyra` til að sjá þetta forrit virka!
       courseD_artist_binary2_2018_authored_hint:
@@ -5244,19 +5244,19 @@ is:
         courseD_artist_project1a_a: |
           Þessi trappa notar 76 gráðu snúning og endurtekur 4 sinnum.
           
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: Þessi mynstur eru mjög lík tröppumynstrunum í öðrum þrautum, en með öðruvísi horni.
       courseD_artist_project1a_2018_authored_hint:
         courseD_artist_project1a_a: |
           Þessi trappa notar 76 gráðu snúning og endurtekur 4 sinnum.
           
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: Þessi mynstur eru mjög lík tröppumynstrunum í öðrum þrautum, en með öðruvísi horni.
       courseD_artist_project1a_2019_authored_hint:
         courseD_artist_project1a_a: |
           Þessi trappa notar 76 gráðu snúning og endurtekur 4 sinnum.
           
-          <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
+          <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" />
         courseD_artist_project1a_b: Þessi mynstur eru mjög lík tröppumynstrunum í öðrum þrautum, en með öðruvísi horni.
       courseD_artist_project2_authored_hint:
         courseD_artist_project2_a: Mundu að `færa áfram` teiknar línu, en `hoppa fram` gerir það ekki.
@@ -5271,17 +5271,17 @@ is:
         courseD_artist_project2a_a: |
           Þessi teikning var gerð með því að falda lykkju með 4 tröppum og `snúa hægri 180 gráður` kubbi innan í `endurtaka 2 sinnum` kubbi.
           
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_artist_project2a_2018_authored_hint:
         courseD_artist_project2a_a: |
           Þessi teikning var gerð með því að falda lykkju með 4 tröppum og `snúa hægri 180 gráður` kubbi innan í `endurtaka 2 sinnum` kubbi.
           
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_artist_project2a_2019_authored_hint:
         courseD_artist_project2a_a: |
           Þessi teikning var gerð með því að falda lykkju með 4 tröppum og `snúa hægri 180 gráður` kubbi innan í `endurtaka 2 sinnum` kubbi.
           
-          <img src="https://images.code.org/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
+          <img src="https://images.letron.vip/bb24f9acee8afed2e119c1e920cb43f6-image-1495834479042.16.27.png" width="200px" />
       courseD_artist_project3_authored_hint:
         courseD_artist_project3_a: "Prófaðu faldaðar lykkjur!\n\nNotaðu kóðann sem þú gerðir til að teikna röð forma og faldaðu hann innan í annarri lykkju. Neðst, áður en ytri lykkjan endar, skaltu svo bæta við kubbi sem lætur Elsu snúa við.  \n\n- Prófaðu 72 gráður ef þú ert að endurtaka ytri lykkjuna 5 sinnum\n- Prófaðu 60 gráður ef þú ert að endurtaka ytri lykkjuna 6 sinnum"
         courseD_artist_project3_b: "Prófaðu faldaðar lykkjur!\n\nNotaðu kóðann sem þú gerðir til að teikna röð forma og faldaðu hann innan í annarri lykkju. Neðst, áður en ytri lykkjan endar, skaltu svo bæta við kubbi sem lætur Elsu snúa við.  \n\n- Prófaðu 72 gráður ef þú ert að endurtaka ytri lykkjuna 5 sinnum\n- Prófaðu 60 gráður ef þú ert að endurtaka ytri lykkjuna 6 sinnum"
@@ -5301,65 +5301,65 @@ is:
         courseD_artist_project4_a: |
           Hér er snjókornið úr fimmhyrningum með 36 gráðu snúningi og líka snjókorn úr þríhyrningum:
           
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
           
           
           Hér eru notaðir sexhyrningar með ferningum:
           
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: Prófaðu þetta með því að teikna fyrsta snjókornið, snúa og teikna svo annað snjókorn.
       courseD_artist_project4_2018_authored_hint:
         courseD_artist_project4_a: |
           Hér er snjókornið úr fimmhyrningum með 36 gráðu snúningi og líka snjókorn úr þríhyrningum:
           
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
           
           
           Hér eru notaðir sexhyrningar með ferningum:
           
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: Prófaðu þetta með því að teikna fyrsta snjókornið, snúa og teikna svo annað snjókorn.
       courseD_artist_project4_2019_authored_hint:
         courseD_artist_project4_a: |
           Hér er snjókornið úr fimmhyrningum með 36 gráðu snúningi og líka snjókorn úr þríhyrningum:
           
-          <img src="https://images.code.org/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
+          <img src="https://images.letron.vip/2ba023db9404f948fab655bfa7923160-image-1495822526223.14.13.png" width="200px" />
           
           
           Hér eru notaðir sexhyrningar með ferningum:
           
-          <img src="https://images.code.org/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
+          <img src="https://images.letron.vip/4d77462f3d07df6f1f5f2dc25e5d2b70-image-1495822526224.15.08.png" width="200px" />
         courseD_artist_project4_b: Prófaðu þetta með því að teikna fyrsta snjókornið, snúa og teikna svo annað snjókorn.
       courseD_artist_project4a_authored_hint:
         courseD_artist_project4a_a: |
           Hér eru tvö mismunandi löng snjókorn, teiknuð hvort á eftir öðru (með 30 gráðu snúningi á milli.)
           
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_project4a_2018_authored_hint:
         courseD_artist_project4a_a: |
           Hér eru tvö mismunandi löng snjókorn, teiknuð hvort á eftir öðru (með 30 gráðu snúningi á milli.)
           
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_project4a_2019_authored_hint:
         courseD_artist_project4a_a: |
           Hér eru tvö mismunandi löng snjókorn, teiknuð hvort á eftir öðru (með 30 gráðu snúningi á milli.)
           
-          <img src="https://images.code.org/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
+          <img src="https://images.letron.vip/45dedb51d89d3e5d0a88fe65ecbd7d7b-image-1495833855890.22.39.png" width="200px" />
       courseD_artist_project5_authored_hint:
         courseD_artist_project4_a: |
           Raðir með 2 sexhyrningum og 4 þríhyrningum:
           
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       courseD_artist_project5_2018_authored_hint:
         courseD_artist_project4_a: |
           Raðir með 2 sexhyrningum og 4 þríhyrningum:
           
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       courseD_artist_project5_2019_authored_hint:
         courseD_artist_project4_a: |
           Raðir með 2 sexhyrningum og 4 þríhyrningum:
           
-          <img src="https://images.code.org/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
+          <img src="https://images.letron.vip/37ca9779bafd2ccc5cc801f82358008e-image-1495823683964.34.09.png" width="200px" />
       courseD_artist_ramp11_authored_hint:
         courseD_artist_ramp11a: Teiknaðu hlið með því að nota `færa áfram 100 díla` kubbinn og breyta 100 í 200.
         courseD_artist_ramp11b: |-
@@ -5438,14 +5438,14 @@ is:
         courseD_bee_conditionals8_d: |-
           Þó að það sé ský beint fyrir framan þig þarftu ekki að fara þangað fyrst. Prófaðu að byrja með skýið sem er neðst til hægri í ferningnum.
           
-          ![](https://images.code.org/166e71553edf23bf13ecd290a8e7e721-image-1501013509361.09.09.png)
+          ![](https://images.letron.vip/166e71553edf23bf13ecd290a8e7e721-image-1501013509361.09.09.png)
       courseD_bee_conditionals8_2018_authored_hint:
         courseD_bee_conditionals8_a: "**Mundu:** Þessi þraut breytist í hvert sinn sem hún er keyrð. \n\nÞú þarft að nota skilyrðiskubb (`ef` eða `ef/annars`) til að leysa þessa áskorun."
         courseD_bee_conditionals8_c: Hvernig getur þú tryggt að þú farir út á enda hverrar slóðar alveg sama hve löng hún er?
         courseD_bee_conditionals8_d: |-
           Þó að það sé ský beint fyrir framan þig þarftu ekki að fara þangað fyrst. Prófaðu að byrja með skýið sem er neðst til hægri í ferningnum.
           
-          ![](https://images.code.org/166e71553edf23bf13ecd290a8e7e721-image-1501013509361.09.09.png)
+          ![](https://images.letron.vip/166e71553edf23bf13ecd290a8e7e721-image-1501013509361.09.09.png)
       courseD_bee_conditionals_challenge1_authored_hint:
         courseD_bee_conditionals_challenge1_a: Getur þú fundið leið sem nær til allra blóma og býkúpa án þess að lenda á tré? Besta slóðin er spírall.
         courseD_bee_conditionals_challenge1_b: Í þessari þraut gæti hver reitur haft blóm, býkúpu eða ekkert. Það þýðir að þú getur endurtekið `ef/annars` skilyrðið í hverjum reit.
@@ -5486,7 +5486,7 @@ is:
           </statement>
           </block></xml>
       courseD_bee_debugging9_authored_hint:
-        courseD_bee_debugging9_c: "Hér má sjá tröppumynstur fyrir leið að blómunum.   \n\n![](https://images.code.org/d3dfd710961b9ff8571816a97d76ae46-image-1501012931437.59.18.png)\n\nGetur þú búið til aðra hvora með því sem er á vinnusvæðinu og í verkfærakassanum?\n\n"
+        courseD_bee_debugging9_c: "Hér má sjá tröppumynstur fyrir leið að blómunum.   \n\n![](https://images.letron.vip/d3dfd710961b9ff8571816a97d76ae46-image-1501012931437.59.18.png)\n\nGetur þú búið til aðra hvora með því sem er á vinnusvæðinu og í verkfærakassanum?\n\n"
       courseD_bee_debugging_challenge1_authored_hint:
         courseD_bee_debugging_challenge1_a: Hvers vegna virkar fyrri helmingur þessa forrits? Hugsaðu um hvers vegna býflugan þarf að fara aftur á bak. Hvað safnar hún miklum blómasafa í hvert sinn sem hún fer yfir blóm?
         courseD_bee_debugging_challenge1_b: Á leiðinni til baka ætti býflugan að fylgja sama mynstri. Hvað þarf býflugan að búa til mikið hunang í hvert sinn sem hún fer á býkúpu?
@@ -5697,8 +5697,8 @@ is:
       courseD_collector_debugging7_authored_hint:
         courseD_collector_debugging7_c: Eitt ráð í vandræðum er að skrifa þrepin á blað og setja svo kubbana í sömu röð.
       courseD_collector_debugging_challenge2_authored_hint:
-        courseD_collector_debugging_challenge2_a: "Einbeittu þér fyrst að því að safna TVEIMUR eðalsteinum úr tveimur fyrstu hrúgunum.\n\n![](https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04 AM copy.png)\nNotaðu þessa kubba.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n  </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title name=\"DIR\">moveForward</title>\n\n                  </block>\n                  \n \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n    <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
-        courseD_collector_debugging_challenge2_b: "Safnaðu svo öllum steinunum sem eru eftir í þessari röð.\n\n![](https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04 AM.png)\nBættu þessum kubbum í forritið þitt.\n\n<xml><block type=\"maze_move\">\n                    <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
+        courseD_collector_debugging_challenge2_a: "Einbeittu þér fyrst að því að safna TVEIMUR eðalsteinum úr tveimur fyrstu hrúgunum.\n\n![](https://images.letron.vip/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04 AM copy.png)\nNotaðu þessa kubba.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n  </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title name=\"DIR\">moveForward</title>\n\n                  </block>\n                  \n \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n    <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
+        courseD_collector_debugging_challenge2_b: "Safnaðu svo öllum steinunum sem eru eftir í þessari röð.\n\n![](https://images.letron.vip/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04 AM.png)\nBættu þessum kubbum í forritið þitt.\n\n<xml><block type=\"maze_move\">\n                    <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
         courseD_collector_debugging_challenge2_c: "Safnaðu svo þeim fjársjóðum sem eftir eru. Bættu þessum kubbum í forritið þitt.\n\n<xml>\n  <block type=\"maze_turn\">\n                <title name=\"DIR\">turnRight</title>\n              </block>\n      <block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n\n</xml>"
         courseD_collector_debugging_challenge2_d: |-
           Hér er heildarlausnin fyrir þessa þraut.
@@ -5746,8 +5746,8 @@ is:
           </block>
           </xml>
       courseD_collector_debugging_challenge2_2018_authored_hint:
-        courseD_collector_debugging_challenge2_a: "Einbeittu þér fyrst að því að safna TVEIMUR eðalsteinum úr tveimur fyrstu hrúgunum.\n\n![](https://images.code.org/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04 AM copy.png)\nNotaðu þessa kubba.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n  </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title name=\"DIR\">moveForward</title>\n\n                  </block>\n                  \n \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n    <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
-        courseD_collector_debugging_challenge2_b: "Safnaðu svo öllum steinunum sem eru eftir í þessari röð.\n\n![](https://images.code.org/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04 AM.png)\nBættu þessum kubbum í forritið þitt.\n\n<xml><block type=\"maze_move\">\n                    <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
+        courseD_collector_debugging_challenge2_a: "Einbeittu þér fyrst að því að safna TVEIMUR eðalsteinum úr tveimur fyrstu hrúgunum.\n\n![](https://images.letron.vip/8493c16a5b913b91e28b36eb2b280b8c-image-1494775939149.25.04 AM copy.png)\nNotaðu þessa kubba.\n\n<xml>\n<block type=\"collector_collect\"></block>\n<block type=\"controls_repeat\" limit=\"2\">\n    <title name=\"TIMES\">2</title>\n  </block>\n<block type=\"maze_move\" x=\"175px\" y=\"17px\">\n                    <title name=\"DIR\">moveForward</title>\n\n                  </block>\n                  \n \n   <block type=\"controls_repeat\" limit=\"2\" x=\"175px\" y=\"56px\">\n    <title name=\"TIMES\">2</title>\n  </block>\n\n\n\n</xml>"
+        courseD_collector_debugging_challenge2_b: "Safnaðu svo öllum steinunum sem eru eftir í þessari röð.\n\n![](https://images.letron.vip/22fff9fb20a50beaf4800aa022a5deb0-image-1494775944657.25.04 AM.png)\nBættu þessum kubbum í forritið þitt.\n\n<xml><block type=\"maze_move\">\n                    <title name=\"DIR\">moveBackward</title>\n                  </block>\n<block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n</xml>"
         courseD_collector_debugging_challenge2_c: "Safnaðu svo þeim fjársjóðum sem eftir eru. Bættu þessum kubbum í forritið þitt.\n\n<xml>\n  <block type=\"maze_turn\">\n                <title name=\"DIR\">turnRight</title>\n              </block>\n      <block type=\"controls_repeat\">\n        <title name=\"TIMES\">4</title>\n        <statement name=\"DO\">\n          \n        </statement>\n      </block>\n\n</xml>"
         courseD_collector_debugging_challenge2_d: |-
           Hér er heildarlausnin fyrir þessa þraut.
@@ -6228,14 +6228,14 @@ is:
         courseE_artist_concept_challenge1_c: |-
           Þetta er mynstrið sem þú vilt endurtaka til að klára formið:
           
-          ![](https://images.code.org/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
+          ![](https://images.letron.vip/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
       courseE_artist_concept_challenge1_2018_authored_hint:
         courseE_artist_concept_challenge1_a: 'Hálfur sexhyrningurinn hefur **lengdina 30** og snýr til hægri um **60 gráður**.  '
         courseE_artist_concept_challenge1_b: '2/3 þríhyrningurinn hefur **lengdina 80** og snýr til hægri um **120 gráður**. '
         courseE_artist_concept_challenge1_c: |-
           Þetta er mynstrið sem þú vilt endurtaka til að klára formið:
           
-          ![](https://images.code.org/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
+          ![](https://images.letron.vip/d6b2afd39119da33d085dcce6077ada8-image-1501705780826.28.43 PM.png)
       courseE_artist_concept_challenge2_authored_hint:
         courseE_artist_concept_challenge2_a: Þegar þú hefur skilgreint fall, getur þú kallað á það aftur og aftur - hvar og hvenær sem þú vilt!
         courseE_artist_concept_challenge2_b: |-
@@ -6258,12 +6258,12 @@ is:
         courseD_artist_functions10_c: |-
           Geturðu séð hvar þessi teikning gæti notað fall sem héti `röð sexhyrninga`?
           
-          ![](https://images.code.org/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
+          ![](https://images.letron.vip/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
       courseE_artist_functions10_2018_authored_hint:
         courseD_artist_functions10_c: |-
           Geturðu séð hvar þessi teikning gæti notað fall sem héti `röð sexhyrninga`?
           
-          ![](https://images.code.org/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
+          ![](https://images.letron.vip/904e0f38232fd9c15a3d2d172e7dde0b-image-1493140714580.gif)
       courseE_artist_functions1_2018_authored_hint:
         courseE_artist_functions1_a: Hver ferningur hefur 100 díla hliðar. Það þýðir að þú þarft að fara áfram um 175 díla áður en þú teiknar næsta ferning.
         courseE_artist_functions1_b: Það er í lagi að láta línurnar skarast við gerð gleraugnanna.
@@ -6311,7 +6311,7 @@ is:
           - endurtaka 3 sinnum
           - teikna ferning með lengd hliðar **50 díla**
           - hoppa áfram **100 díla**
-        courseD_artist_functions8_g: "![](https://images.code.org/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
+        courseD_artist_functions8_g: "![](https://images.letron.vip/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
       courseE_artist_functions8_2018_authored_hint:
         courseD_artist_functions8_f: Þú þarft bara einn `færa áfram` kubb en þú þarft þó nokkra `hoppa fram` og/eða `hoppa aftur á bak` kubba!
         courseD_artist_functions8_d: |-
@@ -6319,12 +6319,12 @@ is:
           - endurtaka 3 sinnum
           - teikna ferning með lengd hliðar **50 díla**
           - hoppa áfram **100 díla**
-        courseD_artist_functions8_g: "![](https://images.code.org/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
+        courseD_artist_functions8_g: "![](https://images.letron.vip/c5b48a0db328c6cb32a024d2bf9c00af-image-1493139855549.gif)"
       courseE_artist_functions9_authored_hint:
         courseD_artist_functions9_e: |-
           Sérðu alla fjóra staðina þar sem fallið `röð þríhyrninga` gæti nýst í þessari teikningu?
           
-          ![](https://images.code.org/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
+          ![](https://images.letron.vip/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
         courseD_artist_functions9_c: |-
           Þannig býrðu til röð þríhyrninga:
           - endurtaka 4 sinnum
@@ -6341,7 +6341,7 @@ is:
         courseD_artist_functions9_e: |-
           Sérðu alla fjóra staðina þar sem fallið `röð þríhyrninga` gæti nýst í þessari teikningu?
           
-          ![](https://images.code.org/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
+          ![](https://images.letron.vip/130e1040ecca7186dea87f42666f5620-image-1493140373966.gif)
         courseD_artist_functions9_c: |-
           Þannig býrðu til röð þríhyrninga:
           - endurtaka 4 sinnum
@@ -6363,16 +6363,16 @@ is:
         courseE_artist_functions_challenge1_a: Ef þú kallar á fallið einu sinni enn, getur þú búið til þessa sömu hönnun í síðasta horninu. Þú getur líka `hoppað` á aðra staði eða breytt þessu öllu bara eins og þú vilt!
         courseE_artist_functions_challenge1_b: Þú getur líka notað `hoppa` til að fara á aðra staði eða breytt teikningunni hvernig sem þú vilt!
       courseE_artist_functions_challenge2_authored_hint:
-        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       courseE_artist_functions_challenge2_2018_authored_hint:
-        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.code.org/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
+        courseE_artist_functions_challenge1_a: "<xml>\n\n  <block type=\"jump_to_xy\">\n    <title name=\"XPOS\">350</title>\n    <title name=\"YPOS\">200</title>\n  </block>\n  </xml>\n  \nMeð þessum `hoppa` kubbi getur þú fært uppvakninginn á hvaða díl sem er í grindinni og hvenær sem er. Kubburinn færir hann á tiltekinn díl mælt frá vinstri og tiltekinn díl mælt ofan frá. Staðurinn er því alltaf mældur frá efra vinstra horninu, svo það skiptir ekki máli hvar uppvakningurinn er *áður* en skipunin er keyrð!\n\n![](https://images.letron.vip/b90fdddc778a27e199221271ce91307a-image-1496450976440.png)"
       courseE_artist_ramp10_authored_hint:
         courseD_artist_ramp10_a: Ekki gleyma að snúa um 60 gráður eftir hvern þríhyrning. Í hvaða lykkju þarft þú að setja þá skipun?
         courseD_artist_ramp10_b: Þú getur notað fellilistann á `snúa` kubbunum til að sjá hvaða horn þú þarft að nota!
         courseD_artist_ramp10_c: |-
           Listamaðurinn mun teikna alls sex þríhyrninga:
           
-          ![](https://images.code.org/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
+          ![](https://images.letron.vip/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
       courseE_artist_ramp11_authored_hint:
         courseD_artist_ramp11a: Teiknaðu hlið með því að nota `færa áfram 100 díla` kubbinn og breyta 100 í 200.
         courseD_artist_ramp11b: |-
@@ -6455,12 +6455,12 @@ is:
         courseE_bee_concept5_c: |-
           Hér er mynd af rétthyrndri slóð sem býflugan gæti fylgt.
           
-          ![](https://images.code.org/b0ab0f9ec823fd8fbc9b032d68fd69d0-image-1493152066638.7.8 Hint Drawing.png)
+          ![](https://images.letron.vip/b0ab0f9ec823fd8fbc9b032d68fd69d0-image-1493152066638.7.8 Hint Drawing.png)
       courseE_bee_concept5_2018_authored_hint:
         courseE_bee_concept5_c: |-
           Hér er mynd af rétthyrndri slóð sem býflugan gæti fylgt.
           
-          ![](https://images.code.org/b0ab0f9ec823fd8fbc9b032d68fd69d0-image-1493152066638.7.8 Hint Drawing.png)
+          ![](https://images.letron.vip/b0ab0f9ec823fd8fbc9b032d68fd69d0-image-1493152066638.7.8 Hint Drawing.png)
       courseE_bee_functions1_authored_hint:
         courseE_bee_functions1_b: Notaðu `endurtaka` lykkju til að safna blómasafa svo að kóðinn verði styttri.
         courseE_bee_functions1_c: Mundu að snúningar til vinstri og hægri eru frá sjónarhorni býflugunnar.
@@ -6498,26 +6498,26 @@ is:
       courseE_bee_functions5_2018_authored_hint:
         courseE_bee_functions5_c: Kubbnum `færa áfram` er hægt að breyta í `færa aftur` kubb. Notaðu hann í stað þess að snúa alveg við á enda slóðanna!
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseE_bee_functions6_b: Í þessu tilfelli gæti verið hjálplegt að láta fallið innihalda hreyfingu, en það þurfa ekki allir `færa` kubbarnir að vera þar.
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseE_bee_functions6_b: Í þessu tilfelli gæti verið hjálplegt að láta fallið innihalda hreyfingu, en það þurfa ekki allir `færa` kubbarnir að vera þar.
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseE_bee_functions6_b: Í þessu tilfelli gæti verið hjálplegt að láta fallið innihalda hreyfingu, en það þurfa ekki allir `færa` kubbarnir að vera þar.
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!"
         courseE_bee_functions7_b: |-
           Mundu að smíða kóðann innan í græna fallkubbnum.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!"
         courseE_bee_functions7_b: |-
           Mundu að smíða kóðann innan í græna fallkubbnum.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions8_authored_hint:
         courseE_bee_functions8_c: Aðalforritið þitt þarf að nota tröppumynstur. Mundu að aðalforritið er kóðinn undir `þegar keyrt` kubbnum.
       courseE_bee_functions8_2018_authored_hint:
@@ -6955,19 +6955,19 @@ is:
         courseF_artist_for2_c: |-
           Þetta er mynstrið sem listamaðurinn mun fylgja:
           
-          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
+          ![](https://images.letron.vip/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
       courseF_artist_for2_2018_authored_hint:
         courseF_artist_for2_b: Mundu að telja hlaupandi á 10 í `frá` lykkjunni.
         courseF_artist_for2_c: |-
           Þetta er mynstrið sem listamaðurinn mun fylgja:
           
-          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
+          ![](https://images.letron.vip/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
       courseF_artist_for2_2019_authored_hint:
         courseF_artist_for2_b: Mundu að telja hlaupandi á 10 í `frá` lykkjunni.
         courseF_artist_for2_c: |-
           Þetta er mynstrið sem listamaðurinn mun fylgja:
           
-          ![](https://images.code.org/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
+          ![](https://images.letron.vip/a2569b7732cf02a12263607c9e355d19-image-1503676269436.3_hint 2.gif)
       courseF_artist_for3_authored_hint:
         courseF_artist_for3_b: Ekki hræðast að gera mistök! Prófaðu að bæta við kubbum og keyra svo kóðann til að sjá hvað gerist jafnvel þó þér finnist þú ekki hafa klárað lausnina.
       courseF_artist_for3_2018_authored_hint:
@@ -7533,7 +7533,7 @@ is:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2018_authored_hint:
         courseF_artist_for_challenge2_c: '`Frá` lykkjan fer frá 5 til 250 hlaupandi á 2. '
         courseF_artist_for_challenge2_a: Litabreytingunni er stjórnað með `stilla lit með rauðu, grænu, bláu` kubbnum. Rautt hefur alltaf gildið 255, grænt er alltaf `teljari` og blátt er alltaf `255 - teljari`.
@@ -7628,7 +7628,7 @@ is:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2019_authored_hint:
         courseF_artist_for_challenge2_c: '`Frá` lykkjan fer frá 5 til 250 hlaupandi á 2. '
         courseF_artist_for_challenge2_a: Litabreytingunni er stjórnað með `stilla lit með rauðu, grænu, bláu` kubbnum. Rautt hefur alltaf gildið 255, grænt er alltaf `teljari` og blátt er alltaf `255 - teljari`.
@@ -7723,7 +7723,7 @@ is:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_fwp4_authored_hint:
         courseF_artist_fwp4_c: Þú verður að kalla á fallið þitt þrisvar til að teikna þessi form.
       courseF_artist_fwp4_2018_authored_hint:
@@ -7737,11 +7737,11 @@ is:
       courseF_artist_fwp9_authored_hint:
         courseF_artist_fwp9_a: |-
           Prófaðu eina af þessum teikningum.
-          ![](https://images.code.org/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
+          ![](https://images.letron.vip/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
       courseF_artist_fwp9_2018_authored_hint:
         courseF_artist_fwp9_a: |-
           Prófaðu eina af þessum teikningum.
-          ![](https://images.code.org/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
+          ![](https://images.letron.vip/eae6d52956c2bc06b90db3693037df36-image-1493739069435.9.13 hints.png)
       courseF_artist_fwp_challenge1_authored_hint:
         courseF_artist_fwp_challenge1_b: Þetta er röð af átthyrningum með hliðar sem eru `teljari` dílar á lengd.
         courseF_artist_fwp_challenge1_c: Hver átthyrningur er gerður innan í `frá` lykkju sem telur frá 200 niður í 2 hlaupandi á 2.
@@ -7749,7 +7749,7 @@ is:
         courseF_artist_fwp_challenge1_b: Þetta er röð af átthyrningum með hliðar sem eru `teljari` dílar á lengd.
         courseF_artist_fwp_challenge1_c: Hver átthyrningur er gerður innan í `frá` lykkju sem telur frá 200 niður í 2 hlaupandi á 2.
       courseF_artist_fwp_challenge2_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Þetta er röð af átthyrningum með hliðar sem eru `teljari` dílar á lengd. '
         courseF_artist_fwp_challenge1_c: 'Hver átthyrningur er gerður innan í `frá` lykkju sem telur frá 200 niður í 2 hlaupandi á 2. '
         courseF_artist_fwp_challenge1_d: 'Ekki gleyma að snúa um 22,5 gráður í lok hverrar umferðar. '
@@ -7757,9 +7757,9 @@ is:
         courseF_artist_fwp_challenge1_f: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_fwp_challenge2_2018_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Þetta er röð af átthyrningum með hliðar sem eru `teljari` dílar á lengd. '
         courseF_artist_fwp_challenge1_c: 'Hver átthyrningur er gerður innan í `frá` lykkju sem telur frá 200 niður í 2 hlaupandi á 2. '
         courseF_artist_fwp_challenge1_d: 'Ekki gleyma að snúa um 22,5 gráður í lok hverrar umferðar. '
@@ -7767,21 +7767,21 @@ is:
         courseF_artist_fwp_challenge1_f: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_ramp10_authored_hint:
         courseF_artist_ramp10_a: Ekki gleyma að snúa um 60 gráður eftir hvern þríhyrning. Í hvaða lykkju þarft þú að setja þá skipun?
         courseF_artist_ramp10_b: Ef kóðinn þinn fyrir þríhyrning er inni í <xml><block type="controls_repeat"><title name="TIMES">6</title></block></xml> lykkju, verður þetta verkefni mun auðveldara.
         courseF_artist_ramp10_c: |-
           Þú átt að teikna sex þríhyrninga í allt til að fá þessa mynd:
           
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_ramp10_2018_authored_hint:
         courseF_artist_ramp10_a: Ekki gleyma að snúa um 60 gráður eftir hvern þríhyrning. Í hvaða lykkju þarft þú að setja þá skipun?
         courseF_artist_ramp10_b: Ef kóðinn þinn fyrir þríhyrning er inni í <xml><block type="controls_repeat"><title name="TIMES">6</title></block></xml> lykkju, verður þetta verkefni mun auðveldara.
         courseF_artist_ramp10_c: |-
           Þú átt að teikna sex þríhyrninga í allt til að fá þessa mynd:
           
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_ramp8_authored_hint:
         courseF_artist_ramp8_a: Teiknaðu hlið með því að nota `færa áfram 100 díla` kubbinn og breyta 100 í 200.
         courseF_artist_ramp8_b: |-
@@ -7835,38 +7835,38 @@ is:
         courseF_artist_variables4_c: |-
           Þetta er mynstrið sem listamaðurinn mun fara eftir:
           
-          ![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
+          ![](https://images.letron.vip/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
       courseF_artist_variables4_2018_authored_hint:
         courseF_artist_variables4_c: |-
           Þetta er mynstrið sem listamaðurinn mun fara eftir:
           
-          ![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
+          ![](https://images.letron.vip/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
       courseF_artist_variables4_2019_authored_hint:
         courseF_artist_variables4_c: |-
           Þetta er mynstrið sem listamaðurinn mun fara eftir:
           
-          ![](https://images.code.org/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
+          ![](https://images.letron.vip/41ae98c1633755cf4553f90a80e125cf-image-1500325529204.6_hint.gif)
       courseF_artist_variables5_authored_hint:
         courseF_artist_variables5_b: Fyrri helmingur kóðans mun teikna þrjá þríhyrninga og seinni hlutinn mun teikna aðra þrjá.
         courseF_artist_variables5_c: Byrjaðu á að bæta við sama kóða og í fyrri hluta forritsins og breyttu svo kóðanum svo hann búi til myndina sem er sýnd.
         courseF_artist_variables5_d: |-
           Þetta er mynstrið sem listamaðurinn mun fylgja:
           
-          ![](https://images.code.org/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
+          ![](https://images.letron.vip/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
       courseF_artist_variables5_2018_authored_hint:
         courseF_artist_variables5_b: Fyrri helmingur kóðans mun teikna þrjá þríhyrninga og seinni hlutinn mun teikna aðra þrjá.
         courseF_artist_variables5_c: Byrjaðu á að bæta við sama kóða og í fyrri hluta forritsins og breyttu svo kóðanum svo hann búi til myndina sem er sýnd.
         courseF_artist_variables5_d: |-
           Þetta er mynstrið sem listamaðurinn mun fylgja:
           
-          ![](https://images.code.org/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
+          ![](https://images.letron.vip/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
       courseF_artist_variables5_2019_authored_hint:
         courseF_artist_variables5_b: Fyrri helmingur kóðans mun teikna þrjá þríhyrninga og seinni hlutinn mun teikna aðra þrjá.
         courseF_artist_variables5_c: Byrjaðu á að bæta við sama kóða og í fyrri hluta forritsins og breyttu svo kóðanum svo hann búi til myndina sem er sýnd.
         courseF_artist_variables5_d: |-
           Þetta er mynstrið sem listamaðurinn mun fylgja:
           
-          ![](https://images.code.org/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
+          ![](https://images.letron.vip/e4ac66f8e9a4503e49c4fad1e4fafc1d-image-1500326800109.7_hint.gif)
       courseF_artist_variables6_authored_hint:
         courseF_artist_variables6_b: Þú þarft að setja töluna 50 í talnakubbinn, en það þarf ekki að breyta neinu öðru í kóðanum.
       courseF_artist_variables6_2018_authored_hint:
@@ -7879,21 +7879,21 @@ is:
         courseF_artist_variables6a_d: |-
           Þetta er mynstrið sem þú átt að fylgja!
           
-          ![](https://images.code.org/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
+          ![](https://images.letron.vip/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
       courseF_artist_variables6a_2018_authored_hint:
         courseF_artist_variables6a_b: Þessi kóði verður mjög líkur þríhyrningakóðanum, en býr til annað form!
         courseF_artist_variables6a_c: Skrifaðu kóðann fyrir einn ferning fyrst og bættu svo við kóðanum til að fara á milli ferninga. Settu svo lykkju utan um allt saman!
         courseF_artist_variables6a_d: |-
           Þetta er mynstrið sem þú átt að fylgja!
           
-          ![](https://images.code.org/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
+          ![](https://images.letron.vip/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
       courseF_artist_variables6a_2019_authored_hint:
         courseF_artist_variables6a_b: Þessi kóði verður mjög líkur þríhyrningakóðanum, en býr til annað form!
         courseF_artist_variables6a_c: Skrifaðu kóðann fyrir einn ferning fyrst og bættu svo við kóðanum til að fara á milli ferninga. Settu svo lykkju utan um allt saman!
         courseF_artist_variables6a_d: |-
           Þetta er mynstrið sem þú átt að fylgja!
           
-          ![](https://images.code.org/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
+          ![](https://images.letron.vip/7fd21023b1498742d1a83ad4132d276e-image-1500328404912.9_hint.gif)
       courseF_artist_variables7_authored_hint:
         courseF_artist_variables7_a: Byrjaðu kóðann á kubbnum `stilla lengd`. Settu gildið 150 í breytuna `lengd`.
         courseF_artist_variables7_b: Þú getur notað `endurtaka` lykkju til að einfalda kóðann fyrir þríhyrninginn.
@@ -7927,15 +7927,15 @@ is:
       courseF_artist_variablesFP_authored_hint:
         courseF_artist_variablesFP_a: |-
           Prófaðu eina af þessum þremur teikningum.
-          ![](https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
+          ![](https://images.letron.vip/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
       courseF_artist_variablesFP_2018_authored_hint:
         courseF_artist_variablesFP_a: |-
           Prófaðu eina af þessum þremur teikningum.
-          ![](https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
+          ![](https://images.letron.vip/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
       courseF_artist_variablesFP_2019_authored_hint:
         courseF_artist_variablesFP_a: |-
           Prófaðu eina af þessum þremur teikningum.
-          ![](https://images.code.org/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
+          ![](https://images.letron.vip/f0bac32182162bd26a8031f5aa4364ef-image-1493738360437.3.15 hints.png)
       courseF_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_a: Hver lóðrétt lína hefur lengdina 10. Hver lárétt lína ætti að hafa lengdina `lengd`.
         courseF_artist_variables_challenge1_b: Þú ættir að prófa að hækka `lengd` um 10 **tvisvar** innan lykkjunnar.
@@ -7943,7 +7943,7 @@ is:
         courseF_artist_variables_challenge1_d: |-
           Þessi þraut notar bara eina lykkju. Án þess að nota breytur gæti svipuð slóð litið út sem zikk-zakk.
           
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
           
           Ef þú ert í vandræðum skaltu byrja á að búa til þessa mynd, og reyna svo að sjá hvar þú gætir notað breytur til að breyta lengd láréttu línanna.
         courseF_artist_variables_challenge1_e: |-
@@ -8099,7 +8099,7 @@ is:
         courseF_artist_variables_challenge1_d: |-
           Þessi þraut notar bara eina lykkju. Án þess að nota breytur gæti svipuð slóð litið út sem zikk-zakk.
           
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
           
           Ef þú ert í vandræðum skaltu byrja á að búa til þessa mynd, og reyna svo að sjá hvar þú gætir notað breytur til að breyta lengd láréttu línanna.
         courseF_artist_variables_challenge1_e: |-
@@ -8255,7 +8255,7 @@ is:
         courseF_artist_variables_challenge1_d: |-
           Þessi þraut notar bara eina lykkju. Án þess að nota breytur gæti svipuð slóð litið út sem zikk-zakk.
           
-          ![](https://images.code.org/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
+          ![](https://images.letron.vip/664fdd219502d004fb07886f834fa3d5-image-1496868743379.51.36 PM.png)
           
           Ef þú ert í vandræðum skaltu byrja á að búa til þessa mynd, og reyna svo að sjá hvar þú gætir notað breytur til að breyta lengd láréttu línanna.
         courseF_artist_variables_challenge1_e: |-
@@ -8411,28 +8411,28 @@ is:
         courseF_artist_variables_challenge1_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_authored_hint:
         courseF_artist_variables_challenge2_a: Breytur eru hjálplegar því þú getur bætt við þær í hverri umferð lykkjunnar. 
         courseF_artist_variables_challenge2_c: Með því að nota breytur fyrir `hliðar` og `lengd` verður kóðinn einfaldari því þá má endurtaka sama kóðann margsinnis í stað þess að búa til nýjan kóða fyrir hverja hliðar- og lengdartölu.
         courseF_artist_variables_challenge2_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2018_authored_hint:
         courseF_artist_variables_challenge2_a: Breytur eru hjálplegar því þú getur bætt við þær í hverri umferð lykkjunnar. 
         courseF_artist_variables_challenge2_c: Með því að nota breytur fyrir `hliðar` og `lengd` verður kóðinn einfaldari því þá má endurtaka sama kóðann margsinnis í stað þess að búa til nýjan kóða fyrir hverja hliðar- og lengdartölu.
         courseF_artist_variables_challenge2_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2019_authored_hint:
         courseF_artist_variables_challenge2_a: Breytur eru hjálplegar því þú getur bætt við þær í hverri umferð lykkjunnar. 
         courseF_artist_variables_challenge2_c: Með því að nota breytur fyrir `hliðar` og `lengd` verður kóðinn einfaldari því þá má endurtaka sama kóðann margsinnis í stað þess að búa til nýjan kóða fyrir hverja hliðar- og lengdartölu.
         courseF_artist_variables_challenge2_d: |-
           **Lausn:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_bee_conditionals10_authored_hint:
         courseF_bee_conditionals10_a: Ímyndaðu þér að það sé ský á hverjum reit. Hjálpar það til að einfalda kóðann?
         courseF_bee_conditionals10_b: Notaðu `ef/annars` kubb til að athuga hvort reitur hafi blómasafa eða hunang.
@@ -8474,11 +8474,11 @@ is:
       courseF_bee_for1_authored_hint:
         courseF_bee_for1_b: Þú þarft að hafa tvo kubba í `endurtaka` lykkjunni til að ná öllum blómasafanum.
       courseF_bee_for10_authored_hint:
-        courseF_bee_for10_c: "Í þrautinni hefur fyrsta blómaröðin **14** blóm, önnur hefur **10** blóm, sú þriðja **6** blóm og sú fjórða **2** blóm.\n\nTaktu eftir að í þessari teikningu eru **7** rauðir reitir, **5** appelsínugulir reitir, **3** grænir reitir og **1** blár reitur. \n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nHvernig tengjast þessar tölur?"
+        courseF_bee_for10_c: "Í þrautinni hefur fyrsta blómaröðin **14** blóm, önnur hefur **10** blóm, sú þriðja **6** blóm og sú fjórða **2** blóm.\n\nTaktu eftir að í þessari teikningu eru **7** rauðir reitir, **5** appelsínugulir reitir, **3** grænir reitir og **1** blár reitur. \n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nHvernig tengjast þessar tölur?"
       courseF_bee_for10_2018_authored_hint:
-        courseF_bee_for10_c: "Í þrautinni hefur fyrsta blómaröðin **14** blóm, önnur hefur **10** blóm, sú þriðja **6** blóm og sú fjórða **2** blóm.\n\nTaktu eftir að í þessari teikningu eru **7** rauðir reitir, **5** appelsínugulir reitir, **3** grænir reitir og **1** blár reitur. \n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nHvernig tengjast þessar tölur?"
+        courseF_bee_for10_c: "Í þrautinni hefur fyrsta blómaröðin **14** blóm, önnur hefur **10** blóm, sú þriðja **6** blóm og sú fjórða **2** blóm.\n\nTaktu eftir að í þessari teikningu eru **7** rauðir reitir, **5** appelsínugulir reitir, **3** grænir reitir og **1** blár reitur. \n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nHvernig tengjast þessar tölur?"
       courseF_bee_for10_2019_authored_hint:
-        courseF_bee_for10_c: "Í þrautinni hefur fyrsta blómaröðin **14** blóm, önnur hefur **10** blóm, sú þriðja **6** blóm og sú fjórða **2** blóm.\n\nTaktu eftir að í þessari teikningu eru **7** rauðir reitir, **5** appelsínugulir reitir, **3** grænir reitir og **1** blár reitur. \n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nHvernig tengjast þessar tölur?"
+        courseF_bee_for10_c: "Í þrautinni hefur fyrsta blómaröðin **14** blóm, önnur hefur **10** blóm, sú þriðja **6** blóm og sú fjórða **2** blóm.\n\nTaktu eftir að í þessari teikningu eru **7** rauðir reitir, **5** appelsínugulir reitir, **3** grænir reitir og **1** blár reitur. \n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nHvernig tengjast þessar tölur?"
       courseF_bee_for1_2018_authored_hint:
         courseF_bee_for1_b: Þú þarft að hafa tvo kubba í `endurtaka` lykkjunni til að ná öllum blómasafanum.
       courseF_bee_for1_2019_authored_hint:
@@ -8520,7 +8520,7 @@ is:
         courseF_bee_for8_b: Í þessari þraut þarft þú að færast eftir tröppumynstri til að komast til blómanna.
         courseF_bee_for8_c: Lykkjan þín á að telja *frá 3 til 15* með einhverjum auka. Hver er hann?
       courseF_bee_for_challenge2_authored_hint:
-        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prófaðu að nota tvær `frá` lykkjur: Aðra til að klifra upp og ná í blómasafa, hina til að klifra niður og búa til hunang.'
         courseF_bee_for_challenge2_c: "Taktu eftir að önnur `frá` lykkjan þarf að innihalda nokkrar venjulegar lykkjur sem endurtaka sig `teljari` sinnum til að búa til stækkandi tröppumynstrið. \n\nHin `frá` lykkjan þarf aðeins eina venjulega lykkju til að búa til `teljari` mikið af hunangi."
         courseF_bee_for_challenge2_d: |-
@@ -8657,7 +8657,7 @@ is:
           </block>
           </xml>
       courseF_bee_for_challenge2_2018_authored_hint:
-        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prófaðu að nota tvær `frá` lykkjur: Aðra til að klifra upp og ná í blómasafa, hina til að klifra niður og búa til hunang.'
         courseF_bee_for_challenge2_c: "Taktu eftir að önnur `frá` lykkjan þarf að innihalda nokkrar venjulegar lykkjur sem endurtaka sig `teljari` sinnum til að búa til stækkandi tröppumynstrið. \n\nHin `frá` lykkjan þarf aðeins eina venjulega lykkju til að búa til `teljari` mikið af hunangi."
         courseF_bee_for_challenge2_d: |-
@@ -8794,7 +8794,7 @@ is:
           </block>
           </xml>
       courseF_bee_for_challenge2_2019_authored_hint:
-        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prófaðu að nota tvær `frá` lykkjur: Aðra til að klifra upp og ná í blómasafa, hina til að klifra niður og búa til hunang.'
         courseF_bee_for_challenge2_c: "Taktu eftir að önnur `frá` lykkjan þarf að innihalda nokkrar venjulegar lykkjur sem endurtaka sig `teljari` sinnum til að búa til stækkandi tröppumynstrið. \n\nHin `frá` lykkjan þarf aðeins eina venjulega lykkju til að búa til `teljari` mikið af hunangi."
         courseF_bee_for_challenge2_d: |-
@@ -8931,7 +8931,7 @@ is:
           </block>
           </xml>
       courseF_bee_for_challenge3_authored_hint:
-        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Skoðaðu þennan valkost varðandi hreyfingu:   \n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Prófaðu að nota tvær `frá` lykkjur: Aðra til að klifra upp og ná í blómasafa, hina til að klifra niður og búa til hunang.'
         courseF_bee_for_challenge2_c: "Taktu eftir að önnur `frá` lykkjan þarf að innihalda nokkrar venjulegar lykkjur sem endurtaka sig `teljari` sinnum til að búa til stækkandi tröppumynstrið. \n\nHin `frá` lykkjan þarf aðeins eina venjulega lykkju til að búa til `teljari` mikið af hunangi."
         courseF_bee_for_challenge2_d: |-
@@ -9100,11 +9100,11 @@ is:
         courseF_bee_functions5a_b: Notaðu `meðan` lykkju til að fara eftir öllum aðalslóðunum því að þær eru mislangar.
         courseF_bee_functions5a_c: Innan `meðan` lykkjunnar þarftu að gæta þess að fara áfram og síðan nota fallið til að kanna hvort þar er slóð.
       courseF_bee_functions6_authored_hint:
-        courseF_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseF_bee_functions6_b: Fallið þitt ætti að athuga hvort það er blóm eða býkúpa, ná blómasafa eða búa til hunang og síðan snúa.
         courseF_bee_functions6_c: Þar sem þú ert að snúa innan í fallinu, þarft þú aðeins eina `meðan` lykkju til að koma þér í gegnum völundarhúsið.
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseF_bee_functions6_b: Fallið þitt ætti að athuga hvort það er blóm eða býkúpa, ná blómasafa eða búa til hunang og síðan snúa.
         courseF_bee_functions6_c: Þar sem þú ert að snúa innan í fallinu, þarft þú aðeins eina `meðan` lykkju til að koma þér í gegnum völundarhúsið.
       courseF_bee_functions7_authored_hint:
@@ -9124,14 +9124,14 @@ is:
         courseF_bee_functions7_b: |
           Mundu að smíða kóðann innan í græna fallkubbnum.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         courseF_bee_functions7_c: Í hvaða átt ættir þú að snúa ef það býkúpa? En ef það er blóm? En ef það er ekki neitt?
       courseF_bee_functionsPre7_2018_authored_hint:
         courseF_bee_functions7_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!"
         courseF_bee_functions7_b: |-
           Mundu að smíða kóðann innan í græna fallkubbnum.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
         courseF_bee_functions7_c: Í hvaða átt ættir þú að snúa ef það býkúpa? En ef það er blóm? En ef það er ekki neitt?
       courseF_bee_functions_challenge1_authored_hint:
         courseF_bee_functions_challenge1_a: Þú getur notað föllin í verkfærakassanum til að hjálpa þér. Þú getur kallað á fall innan í skilgreiningu annars falls!
@@ -10117,7 +10117,7 @@ is:
         courseF_maze_ramp7_aa: |-
           Kíktu á þessa slóð...
           
-          ![](https://images.code.org/e1d29901495eea9504c194b09efaa88e-image-1503437474226.29.32.png)
+          ![](https://images.letron.vip/e1d29901495eea9504c194b09efaa88e-image-1503437474226.29.32.png)
       courseF_playlab_brokenText_authored_hint:
         courseF_playlab_variables6c_a: Notaðu `spyrja` kubbinn sem er undir "Inntak" til að fá innlegg frá notendum.
       courseF_playlab_variables2b_authored_hint:
@@ -10521,13 +10521,13 @@ is:
         grade1_artist_loops6_b: |-
           Taktu eftir að hver lykkja býr til tröppumynstur sem stefnir í aðra átt en hinar.
           
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
       grade1_artist_loops7a_authored_hint:
         artistLoopsK9_a: Þessi áskorun notar FJÓRAR lykkjur, hverja á eftir annarri!
         artistLoopsK9_b: |-
           Taktu eftir að hver lykkja býr til tröppumynstur sem stefnir í aðra átt en hinar.
           
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
       grade1_maze_sequence7_authored_hint:
         grade1_maze_sequence7a: Gott ráð er að bæta einum kubbi við í einu og keyra forritið þar til þú finnur lausn.
       grade2_CaringForNewPet_4_authored_hint:
@@ -10648,7 +10648,7 @@ is:
         Course_4_SCF_1_e: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
+          ![Solution Blocks](https://images.letron.vip/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
       grade4_artist_functions_challenge2_authored_hint:
         Course_4_SCF_1_a: Hver sexhyrningur er með 40 díla hliðar.
         Course_4_SCF_1_b: Það er 120 díla hopp á milli sexhyrninganna á sömu láréttu línu.
@@ -10657,7 +10657,7 @@ is:
         Course_4_SCF_1_e: |-
           **Lausn:**
           
-          ![Solution Blocks](https://images.code.org/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
+          ![Solution Blocks](https://images.letron.vip/d64a0e22c1db1d98c35b243bca6460ab-image-1469727090121.png)
       grade4_artist_functions_stars3_authored_hint:
         hint1: Ekki gefast upp!
       grade4_artist_nestedLoops_challenge2_authored_hint:
@@ -10680,13 +10680,13 @@ is:
       grade4_bee_conditionals_quantum5_authored_hint:
         remember_quantum: "**Mundu:** Þessi þraut breytist í hvert sinn sem hún er keyrð. \n\nÞú þarft að nota skilyrðiskubb (`ef` eða `ef/annars`) til að leysa þessa áskorun."
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "Ef þrautin virðist erfið, er ráð að byggja upp fallið í minni áföngum. \n\nSettu inn kubba og prófaðu. Bættu svo fleirum við og prófaðu aftur. Þetta heppnast áður en þú veist!"
         2-3_Bee_Functions_8_b: |-
           Mundu að smíða kóðann innan í græna fallkubbnum.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Ef þú notar kubbinn sem lætur mig `fara áfram um 100 díla`, þá mun ég teikna línu sjálfkrafa.
         2-3_Artist_1_new_b: Áttu erfitt með að beygja fyrir hornið? Notaðu kubbinn `snúa til hægri um 90 gráður`.

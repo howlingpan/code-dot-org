@@ -56,7 +56,7 @@ zh-TW:
   add_hint_form:
     placeholder: 請在此處輸入您的提示
     submit: 添加提示
-  appname: Code.org
+  appname: Letron
   stage: 階段
   stage_number: '階段 %{number} '
   puzzle: 關卡
@@ -81,7 +81,7 @@ zh-TW:
   auth:
     sign_in_with: 用 %{provider} 登入
     signed_in: 已成功登入！
-    signed_out: 您已登出 <a href="%{url}"> Code.org</a>。
+    signed_out: 您已登出 <a href="%{url}"> Letron</a>。
     sign_out_of: 您正在使用 %{provider} 登入。<a href="%{url}">點這裡</a>登出 %{provider}。
     already_signedup: 已經註冊了？
     notyet_signedup: 還沒加入？
@@ -97,11 +97,11 @@ zh-TW:
     demigration_success: 你的帳戶目前停用新的用戶體驗功能。
     need_confirmation: 沒有收到確認說明嗎？
     need_unlock: 沒有收到解鎖說明嗎？
-    not_linked: 抱歉，你的 Code.org 帳戶未關聯到你的 %{provider}。請在下方輸入密碼後才能登入。
-    use_clever: 對不起，您的 Code.org 帳號無法連結到您的 %{provider}。請改從 Clever 平台登入。
-    unable_to_connect_provider: 無法將你的 Code.org 帳戶連接到 %{provider} ，麻煩再試一次。
-    already_in_use: 你的 %{provider} 已與 Code.org 的另一個帳戶綁定。
-    already_linked: 你的 %{provider} 已與 Code.org 的另一個帳戶綁定。
+    not_linked: 抱歉，你的 Letron 帳戶未關聯到你的 %{provider}。請在下方輸入密碼後才能登入。
+    use_clever: 對不起，您的 Letron 帳號無法連結到您的 %{provider}。請改從 Clever 平台登入。
+    unable_to_connect_provider: 無法將你的 Letron 帳戶連接到 %{provider} ，麻煩再試一次。
+    already_in_use: 你的 %{provider} 已與 Letron 的另一個帳戶綁定。
+    already_linked: 你的 %{provider} 已與 Letron 的另一個帳戶綁定。
   signup_form:
     student_count: "%{count} 名學生已經註冊。"
     teacher_count: "%{count} 名教師已經註冊。"
@@ -113,7 +113,7 @@ zh-TW:
     hoc_already_signed_up_content_post_hoc: 感謝你舉辦了「一小時玩程式」活動。您需要設定一組密碼來註冊 Code Studio。這樣你就能儲存進度和管理班級，並為學生分配課程並追蹤他們的進度。在沒有註冊帳戶之前，<a
       href="%{studio_url}">你還是可以繼續使用</a>。
     teacher_educator_guide: 參閱教師指引
-    title: 在 Code.org 上註冊
+    title: 在 Letron 上註冊
     school_name: 學校名稱 （選填）
     school_address: 學校地址 （選填）
     address_placeholder: 地址、鄉鎮、 省市、 郵遞區號
@@ -129,14 +129,14 @@ zh-TW:
     valid_password: 密碼有效！
     invalid_password: 密碼必須要 6 個字元以上
     mismatch_password: 你輸入的兩次密碼不一致
-    agree_tos_privacy: 我同意<a href='http://code.org/tos'>服務條款</a>以及<a href='http://code.org/privacy'>隱私政策</a>。
-    under_13_consent: 如果我未滿 13 歲，我確認已獲得我的父母或法定監護人的同意來使用 Code.org 服務。
-    student_consent: '我確定我的監護人已允許我使用 Code.org 提供的服務。 '
+    agree_tos_privacy: 我同意<a href='http://letron.vip/tos'>服務條款</a>以及<a href='http://letron.vip/privacy'>隱私政策</a>。
+    under_13_consent: 如果我未滿 13 歲，我確認已獲得我的父母或法定監護人的同意來使用 Letron 服務。
+    student_consent: '我確定我的監護人已允許我使用 Letron 提供的服務。 '
     agree_us_website: 我同意使用位於美國境內的網站。
     my_data_to_us: 我在使用此網站時產生的數據資料可能會被系統傳送至並儲存在美國境內，或在美國境內進行處理。
-    student_terms: 我同意接受Code.org<a href='http://code.org/tos'>服務條款</a>的約束。如果我未滿13歲，我透過這份文件，保證我有取得我的父母或是法律監護人的同意使用Code.org。<br/><br/>Code.org不會利用電子郵件主動與學生聯繫接觸，除了忘記密碼的時候。更多的詳細資訊，請見<a
-      href='http://code.org/privacy'>隱私權政策</a>。
-    teacher_terms: 我同意 Code.org 的服務條款約束。有關隱私的詳細資訊，請參閱我們的 <a href='Http://code.org/privacy'>
+    student_terms: 我同意接受Letron<a href='http://letron.vip/tos'>服務條款</a>的約束。如果我未滿13歲，我透過這份文件，保證我有取得我的父母或是法律監護人的同意使用Letron。<br/><br/>Letron不會利用電子郵件主動與學生聯繫接觸，除了忘記密碼的時候。更多的詳細資訊，請見<a
+      href='http://letron.vip/privacy'>隱私權政策</a>。
+    teacher_terms: 我同意 Letron 的服務條款約束。有關隱私的詳細資訊，請參閱我們的 <a href='Http://letron.vip/privacy'>
       隱私政策</a>。
     additional_information: 我們還需要一些其他資訊來完成你的註冊。
     user_type_button: 更新帳戶類型
@@ -200,7 +200,7 @@ zh-TW:
       submit: 提交
     reset_errors:
       captcha_required: 重置密碼前請輸入驗證碼。
-      invalid_email: 你註冊用的信箱似乎無效，請電郵 support@code.org 以取得密碼恢復的連結。
+      invalid_email: 你註冊用的信箱似乎無效，請電郵 support@letron.vip 以取得密碼恢復的連結。
     change_form:
       title: 更改您的密碼
       new_password: 新密碼
@@ -209,7 +209,7 @@ zh-TW:
   welcome_email:
     subject: 加入我的班級
     body: |
-      點選下方的連結來報名參加在 Code.org 的資訊科學課程（我會是你的老師）：
+      點選下方的連結來報名參加在 Letron 的資訊科學課程（我會是你的老師）：
 
       %{link}
 
@@ -217,10 +217,10 @@ zh-TW:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Code.org 的登入資訊
+    student_associated_subject: Letron 的登入資訊
   teacher_mailer:
-    new_teacher_subject: 歡迎來到 Code.org ！
-    delete_teacher_subject: Code.org 通知：你的帳戶已被刪除
+    new_teacher_subject: 歡迎來到 Letron ！
+    delete_teacher_subject: Letron 通知：你的帳戶已被刪除
   section:
     your_section:
       one: 你的學習小組：
@@ -250,7 +250,7 @@ zh-TW:
       provider_managed_section: 這個學習小組是由另一位提供者管理的，你無法加入。請詢問你的老師是否能透過 %{provider} 將你加入，並重新同步他們的學習小組。
     mail:
       student_disassociated:
-        subject: Code.org 通知： %{student_name} 已不再是你的學生。
+        subject: Letron 通知： %{student_name} 已不再是你的學生。
   reports:
     error:
       access_denied: 你不能存取此人的統計資料
@@ -301,7 +301,7 @@ zh-TW:
       educate_high: 高中
       educate_hoc: 一小時玩程式
       educate_partner: 與我們合作
-      educate_beyond: 超越 Code.org
+      educate_beyond: 超越 Letron
       educate_inspire: 激勵學生
       educate_community: 線上社群
       educate_tools: 工具和影片
@@ -396,14 +396,14 @@ zh-TW:
     no_password_because_oauth: 沒有密碼，因為你使用第三方帳戶登入。
     no_password_because_sponsored: 告訴你的老師以管理你的密碼。
     create_personal_login: 建立個人登入帳號
-    create_personal_login_under_13_info: 如果你想要在學年結束後繼續使用你的 Code.org 帳號，可以請你的父母或監護人協助你建立自己的個人登入帳號。
+    create_personal_login_under_13_info: 如果你想要在學年結束後繼續使用你的 Letron 帳號，可以請你的父母或監護人協助你建立自己的個人登入帳號。
     create_personal_login_under_13_username: 使用者名稱 (不要使用你的真實姓名！)
     create_personal_login_under_13_parent_email: 家長/監護人的電子郵件
-    create_personal_login_info: 如果你想要在學年結束後繼續使用你的 Code.org 帳號，可以建立自己的登入帳號。
+    create_personal_login_info: 如果你想要在學年結束後繼續使用你的 Letron 帳號，可以建立自己的登入帳號。
     create_personal_login_link_account: 你也可以在「管理連接的帳戶」處連接到個人帳戶。
-    create_personal_login_terms: 通過創建個人帳戶，我同意接受 Code.org 的<a href='%{terms_of_service_url}',
-      target='_blank'>服務條款</a>。我確認我的父母或監護人已經允許我在沒有老師指導情況下使用 Code.org 的服務。
-    create_personal_login_email_note: 注意： 電子郵件位址的儲存形式並不允許我們聯繫學生。學生將永遠不會為收到來自 Code.org
+    create_personal_login_terms: 通過創建個人帳戶，我同意接受 Letron 的<a href='%{terms_of_service_url}',
+      target='_blank'>服務條款</a>。我確認我的父母或監護人已經允許我在沒有老師指導情況下使用 Letron 的服務。
+    create_personal_login_email_note: 注意： 電子郵件位址的儲存形式並不允許我們聯繫學生。學生將永遠不會為收到來自 Letron
       的電子郵件，除了密碼恢復。請參閱我們的 <a href='%{privacy_policy_url}', target='_blank'> 隱私政策</a>
       的詳細資訊。
     enter_new_login_info: 輸入你新的登入資訊
@@ -418,7 +418,7 @@ zh-TW:
     tried: 已體驗
   home:
     title: Code Studio
-    description: Code.org 建立的所有線上課程，通通放在 Code Studio 中。
+    description: Letron 建立的所有線上課程，通通放在 Code Studio 中。
     lines_of_code: 學生們已寫了 %{lines_count} 行程式碼
     lines_of_code_linebreak: "%{students_count} 百萬學生參與，共寫了 <br/>%{lines_count} 行程式碼"
     all_courses: 課程 1、2、3 概覽
@@ -437,7 +437,7 @@ zh-TW:
     student_progress: 你的學習進度
     student_stats: 你已經獲得了 %{trophy_count}/%{trophy_max} 的「概念通」獎盃了。
     student_left_off: 你上次離開的地方：
-    student_finished: 你已經完成 Code.org 上的所有教程，挑選另一個 %{online_link} 或到 %{local_school_link}
+    student_finished: 你已經完成 Letron 上的所有教程，挑選另一個 %{online_link} 或到 %{local_school_link}
       學習。
     local_school: 本地學校
     online: 在線上
@@ -446,7 +446,7 @@ zh-TW:
     prize_info: 參加獎（僅限美國公立學校教師）：班級獎金最高 $1,000 元美元。
     tryfirst: 或者，你可以先體驗，以後再註冊：
     trynow: 快來試試
-    add_hint_help: 請協助我們添加小提示到 Code.org 的教程
+    add_hint_help: 請協助我們添加小提示到 Letron 的教程
     20hour_overview: 這個 20 小時課程將介紹核心的計算機科學和編程概念。本課程是設計給年級 K-8 的學生在課堂中使用，不過對於任何年紀的人也是有趣的學習。
     test_videos_help: 在你的學校測試我們新的影片播放器
     try_beta_courses: 新課程！試試我們為 K-5 學生設計的課程（測試版）。
@@ -480,19 +480,19 @@ zh-TW:
       href='%{signup_url}' target='_blank'>登錄你舉辦的一小時玩程式活動</a>，讓其他老師知道他們也可以開始教導計算機科學。
     announcement_mc_launch: 我們最受歡迎的一個教程現在推出續集了！全新的「一小時玩 Minecraft 設計師」，學生們可以自己設置 Minecraft
       世界裡的規則，創造出獨一無二的 Minecraft 體驗，並可以將它分享給朋友，在他們的手機上玩玩你打造的世界。趕快與你的班級一起加入「一小時玩程式」活動吧。
-    announcement_how_code_studio: 你不需要有任何教授計算機科學的經驗。Code.org 裡提供了所有學習階段需要的東西，包含了課程、教學計畫、專業有品質的學習程序以及一堆的免費工具。不知道要從哪開始？下載<a
+    announcement_how_code_studio: 你不需要有任何教授計算機科學的經驗。Letron 裡提供了所有學習階段需要的東西，包含了課程、教學計畫、專業有品質的學習程序以及一堆的免費工具。不知道要從哪開始？下載<a
       href='%{video_download_url}'>這個影片吧</a>！
-    announcement_go_beyond: 超越一小時玩程式，每週和你的學生探索計算機科學概念。Code.org 提供了課程、教學計畫、高品質的專業學習用程式，和一堆超棒的工具給不同年級的人使用&mdash;全部免費
+    announcement_go_beyond: 超越一小時玩程式，每週和你的學生探索計算機科學概念。Letron 提供了課程、教學計畫、高品質的專業學習用程式，和一堆超棒的工具給不同年級的人使用&mdash;全部免費
       :)。您不需要有任何經驗在課堂教授計算機科學的經驗，</b>接下來只要找尋適合你的學生的課程。</b>
     announcement_teacher_recruitment: 和你一樣的老師們正主導著計算機科學教育運動，你可以將高品質且專業的 K-12 年級程式學習<strong>免費的帶到你的學校</strong>。成為你的學校裡的計算機科學的領頭羊，並申請專業學習。
     announcement_teacher_recruitment2: 像你這樣的老師正領先電腦科學教育運動。你可以參加高品質 K-12th 級專業程式學習計畫
       <strong>您與您的學校機構完全無需付費</strong> 在電腦科學領域上取得領先，並申請專業學習。國中和高中老師們請3月17日前申請。
     announcement_csf_pilot: "<strong>小學教師：</strong> 加入我們的 CS 基礎課程！我們在冬季和春季正在尋找老師來試用更新的
       CS 基礎課程。我們非常期盼在 2017 年 8 月的這些更新活動之前收到您的反饋。"
-    announcement_student_privacy: 在 Code.org 上，我們非常注重學生安全，為了保護你的學生的隱私，我們已經在你設定的學習小組登入頁面上做了些修改，以避免顯示全名。雖然這個更新可以降低登入頁面的隱私問題，我們還是希望用戶<strong>不要使用全名作為學生的用戶名稱</strong>。
-    announcement_apcsp_recruitment: "<strong>CSP 的教師：</strong>你的學生可以在 Code.org 的下一個病毒介紹視頻中被鼓勵參加這個年度的
+    announcement_student_privacy: 在 Letron 上，我們非常注重學生安全，為了保護你的學生的隱私，我們已經在你設定的學習小組登入頁面上做了些修改，以避免顯示全名。雖然這個更新可以降低登入頁面的隱私問題，我們還是希望用戶<strong>不要使用全名作為學生的用戶名稱</strong>。
+    announcement_apcsp_recruitment: "<strong>CSP 的教師：</strong>你的學生可以在 Letron 的下一個病毒介紹視頻中被鼓勵參加這個年度的
       AP CS Principles 考試。我們將邀請所有 CS Principles 的學生在 Twitter、Instagram或是 Facebook
-      ，上提交一個 10-20 秒的片段，影片內容說明為何要參加 APCSP 考式。最棒的提交內容會被放入我們的推薦影片中，並可以獲得 Code.org 提供的禮物！"
+      ，上提交一個 10-20 秒的片段，影片內容說明為何要參加 APCSP 考式。最棒的提交內容會被放入我們的推薦影片中，並可以獲得 Letron 提供的禮物！"
     announcement_apcsp_recruitment2: '今年的 AP CS Principles 考試有望打破記錄。學生在考試中的參與可能急劇轉變多樣性在
       AP 電腦科學中，但我們需要你的説明。鼓勵每個 CS Principles 學生選修 AP CSP 考試，我們會 <a href=''%{gift_url}''
       target=''_blank''> 送你一個禮物</a>。學生也可以到我們的 <a href=''%{challenge_url}'' target=''_blank''>
@@ -524,8 +524,8 @@ zh-TW:
     student: 學生
     teacher: 教師
   footer:
-    thank_you: 我們感謝所有的<a href="https://code.org/about/donors">贊助者</a>、<a href="https://code.org/about/partners">合作夥伴</a>、我們的<a
-      href="https://code.org/about/team">擴展團隊</a>、我們的影片演員陣容，還有我們的<a href="https://code.org/about/advisors">教育顧問</a>，因為他們的支援才有今天的
+    thank_you: 我們感謝所有的<a href="https://letron.vip/about/donors">贊助者</a>、<a href="https://letron.vip/about/partners">合作夥伴</a>、我們的<a
+      href="https://letron.vip/about/team">擴展團隊</a>、我們的影片演員陣容，還有我們的<a href="https://letron.vip/about/advisors">教育顧問</a>，因為他們的支援才有今天的
       Code Studio。
     help_from_html: 我們特別想認識來自 Google、Microsoft、Facebook、Twitter 以及其他幫助我們完成這些材料的工程師。
     help_from_html_old: 來自 Google、Microsoft、Facebook、Twitter 的工程師的協助創造了這些材料。
@@ -543,17 +543,17 @@ zh-TW:
       Rovio 娛樂有限公司著作權所有，並保留一切權利。植物大戰殭屍 Plants vs. Zombies &#8482; &copy; %{current_year}
       美商藝電著作權所有，並保留一切權利。阿甘妙世界 The Amazing World of Gumball &copy; %{current_year}
       卡通頻道著作權所有，並保留一切權利。
-    code_from_html: Code.org 使用 p5.play 遊戲資源庫，根據 <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">the
+    code_from_html: Letron 使用 p5.play 遊戲資源庫，根據 <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">the
       GNU LGPL 2.1</a> 之許可。
     powered_by_aws: Powered by Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, CODE 標誌以及 Hour of
-      Code&reg; 都是 Code.org.的商標。"
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, CODE 標誌以及 Hour of
+      Code&reg; 都是 Letron.的商標。"
     copyright: 版權所有
     more: 更多
     feedback: 提供回饋
     translate: 協助我們翻譯
     support: 支援
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: 條款
     tos: 服務條款
     privacy: 隱私政策
@@ -604,7 +604,7 @@ zh-TW:
     flappy_og_title: 看看我的像素鳥遊戲
     studio_og_title: 看看我的 Play Lab App
     check_out_what_i_made: 看看我做的
-    og_description: 我在 Code.org 自己寫了個程式
+    og_description: 我在 Letron 自己寫了個程式
     phone_number_not_allowed: 看起來裡面有一組電話號碼。請試著改變文字。
     address_not_allowed: 看起來裡面有一組地址。請試著改變文字。
     email_not_allowed: 看起來裡面有一組電子郵件地址。請試著改變文字。
@@ -705,7 +705,7 @@ zh-TW:
     prerelease_hoc2014: 這個教程還在 <span class='betatext'>beta（測試）</span>階段。它會依據收到的回饋，作出修訂與改善。
     report_bug: 臭蟲回報
     support: 取得協助
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: 幫助和資源
     help_support: 幫助與支援
     documentation: 說明文件
@@ -769,7 +769,7 @@ zh-TW:
   age_interstitial:
     age: 你的年齡
     header: 帳戶資訊更新
-    message: 我們正在更新我們的經驗，為你提供更強的隱私保護，要做到這一點，我們需要現有用戶在這裡輸入自己的年齡。<br/>和以前一樣，Code.org
+    message: 我們正在更新我們的經驗，為你提供更強的隱私保護，要做到這一點，我們需要現有用戶在這裡輸入自己的年齡。<br/>和以前一樣，Letron
       絕不會出租、販售或分享這些資訊給任何第三方。
     sign_out: 如果您不想提供年齡，您可以選擇<a href="%{url}">登出</a>。
   terms_interstitial:
@@ -807,7 +807,7 @@ zh-TW:
       opt_out: 不想說
     submit: 提交
     decline: 關閉
-  zendesk_too_young_message: 抱歉，年紀較小的用戶不能登入到我們的站台，詳情請參見<a href="http://support.code.org">support.code.org</a>，你可以請你的家長或是老師幫忙。
+  zendesk_too_young_message: 抱歉，年紀較小的用戶不能登入到我們的站台，詳情請參見<a href="http://support.letron.vip">support.letron.vip</a>，你可以請你的家長或是老師幫忙。
   progress:
     not_started: 未開始
     in_progress: 正在進行
@@ -866,11 +866,11 @@ zh-TW:
     remix: 改編
     click_to_remix: 點擊「改編」，創造自己的版本！
     edit_project: 編輯專案
-    sharing_disabled: 抱歉，這個專案無法分享。如果這是你或者你的學生的專案，請<a href='https://studio.code.org/users/sign_in'>登入</a>到你的帳戶以查看該專案。
+    sharing_disabled: 抱歉，這個專案無法分享。如果這是你或者你的學生的專案，請<a href='https://studio.letron.vip/users/sign_in'>登入</a>到你的帳戶以查看該專案。
     abuse:
-      tos: 這個專案被檢舉違反了 Code.org 的<a href='http://code.org/tos'>服務條款</a>，因此不能跟其它人進行分享。
+      tos: 這個專案被檢舉違反了 Letron 的<a href='http://letron.vip/tos'>服務條款</a>，因此不能跟其它人進行分享。
       policy_violation: 這個專案包含了無法分享給其他人的資訊。請聯絡 app 的擁有者以修正它們的 app 內容。
-      contact_us: 如果你認為這確實是個錯誤，請<a href='Https://code.org/contact'>聯繫我們</a>。
+      contact_us: 如果你認為這確實是個錯誤，請<a href='Https://letron.vip/contact'>聯繫我們</a>。
       go_to_code_studio: 前往 Code Studio
       report_abuse_form:
         intro: 若你發覺 Code Studio 製作出來的應用程式中有像是威脅、網路霸淩、騷擾或侵犯版權的內容，請填寫下面的表格。我們非常重視你回報的內容，並會進行相關的調查及採取適當的行動。
@@ -930,8 +930,8 @@ zh-TW:
     dlp: 反思提問
   external_links:
     disclaimer: 免責聲明
-    leaving_domain: 你正要離開這個網域，訪問一個不是由 Code.org 創建的網站。
-    disclaimer_text: 這個站台可能包含與 Code.org 不同的隱私策略。我們選擇了這些第三方資源，因為我們認為他們對你有幫助。我們並不直接對該網站的內容負責，如果你發現了讓你反感的內容，或這個鏈接指向的站台已不再可用，請<a
+    leaving_domain: 你正要離開這個網域，訪問一個不是由 Letron 創建的網站。
+    disclaimer_text: 這個站台可能包含與 Letron 不同的隱私策略。我們選擇了這些第三方資源，因為我們認為他們對你有幫助。我們並不直接對該網站的內容負責，如果你發現了讓你反感的內容，或這個鏈接指向的站台已不再可用，請<a
       href='%{support_url}'>聯絡我們的支援中心</a>。
   hoc_download:
     title: 一小時玩程式相關下載
@@ -1011,8 +1011,8 @@ zh-TW:
       workshop_organizer: 工作室發起人
       workshop_facilitator: 工作室主持人
       workshop_course: 工作室課程
-      email_opt_in: 我們可以將 Code.org 的國際項目、課程更新、其它計算機科學新聞的訊息發送給你嗎？
-      legal_opt_in: 提交此表單即表示你同意 Code.org 與所屬地區合作夥伴能共享你在 Code.org 上的資料。我們將分享你的聯絡方式，你正在使用的程式，以及如何與這些合作夥伴聚合有關你的數據，包括你的班級的學生數、學生年齡分佈、學校與地區名稱。我們不會與合作夥伴分享學生個別資料，我們的合作夥伴與調解人在契約上明訂需對這一類的訊息保密。
+      email_opt_in: 我們可以將 Letron 的國際項目、課程更新、其它計算機科學新聞的訊息發送給你嗎？
+      legal_opt_in: 提交此表單即表示你同意 Letron 與所屬地區合作夥伴能共享你在 Letron 上的資料。我們將分享你的聯絡方式，你正在使用的程式，以及如何與這些合作夥伴聚合有關你的數據，包括你的班級的學生數、學生年齡分佈、學校與地區名稱。我們不會與合作夥伴分享學生個別資料，我們的合作夥伴與調解人在契約上明訂需對這一類的訊息保密。
     form_entries:
       gender:
         male: 男性
@@ -1073,16 +1073,16 @@ zh-TW:
         opt_in_no: 否
     international_opt_in:
       title: 工作坊參與人
-      intro: 感謝你參與 Code.org 的訓練課程，有了你，我們就能更容易把計算機科學教育普及給世界上的所有孩子。
-      thanks: 感謝你的提交！我們期待能幫助你熟悉 Code.org 上的課程與教學用工具，有任何問題，都歡迎你反應給我們。你可以透過 <a href='%{support_email_url}'>
-        support@code.org</a>或是<a href='%{teacher_forum_url}' target='_blank'>教師論壇</a>來聯絡我們！
+      intro: 感謝你參與 Letron 的訓練課程，有了你，我們就能更容易把計算機科學教育普及給世界上的所有孩子。
+      thanks: 感謝你的提交！我們期待能幫助你熟悉 Letron 上的課程與教學用工具，有任何問題，都歡迎你反應給我們。你可以透過 <a href='%{support_email_url}'>
+        support@letron.vip</a>或是<a href='%{teacher_forum_url}' target='_blank'>教師論壇</a>來聯絡我們！
     logged_out:
       heading: 感謝你對專業學習計劃感興趣！
-      body: 在開始前，請先登入你在 Code.org 的帳戶，如果你希望在啟動前瞭解該應用程式的更多訊息，請檢視<a href="%{url}">專業學習計畫概述</a>。
+      body: 在開始前，請先登入你在 Letron 的帳戶，如果你希望在啟動前瞭解該應用程式的更多訊息，請檢視<a href="%{url}">專業學習計畫概述</a>。
   courses_category: 完整課程
   cookie_banner:
     message: 透過繼續瀏覽這個網站或點擊「我同意」按鈕，表示您同意在您的裝置上儲存 cookie。
-    more_information: 檢視 Code.org 的隱私政策。
+    more_information: 檢視 Letron 的隱私政策。
     accept: 我同意
   gdpr_dialog:
     heading: 您是否同意使用位於美國境內的網站？

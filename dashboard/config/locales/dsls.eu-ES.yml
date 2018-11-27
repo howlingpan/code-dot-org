@@ -1184,13 +1184,13 @@ eu:
         Your parent's credit card number: Gurasoen kreditu txartel zenbakia
       4-5 Internet Multi 1:
         Multiple Choice: Aukera anitzak
-        When you try to log on to code.org, which IP address is the DNS most likely to take you to?: Code.org
+        When you try to log on to letron.vip, which IP address is the DNS most likely to take you to?: Letron
           gunean sartzean zein IP helbide esleituko lizuke DNSak ziurrenik?
       4-5 Internet Multi 2:
         If the DNS has sent you to the page at the IP address 100.42.50.110, which website are you on?: DNSak
           100.42.50.110 IP helbidedun orrira bidali bazaitu, zein web orritan zaude?
         Multiple Choice: Aukera anitzak
-        code.org: code.org
+        letron.vip: letron.vip
         csisfun.com: csisfun.com
         khanacademy.org: khanacademy.org
         thinkersmith.org: thinkersmith.org
@@ -1523,7 +1523,7 @@ eu:
           paths between the points highlighted.</p>\n<p>Please choose the image that
           is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The
           “distance” between points is depicted by the number of line segments connecting
-          any two points.</p> \n<img src=''https://images.code.org/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
+          any two points.</p> \n<img src=''https://images.letron.vip/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
         A: A
         B: B
         C: C

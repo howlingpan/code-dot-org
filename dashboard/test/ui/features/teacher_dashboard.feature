@@ -5,24 +5,24 @@
 Feature: Using the teacher dashboard
 
   Scenario: Loading the teacher dashboard
-    Given I am on "http://code.org/"
+    Given I am on "http://letron.vip/"
     And I am a teacher
-    And I am on "http://code.org/teacher-dashboard?no_home_redirect=1"
+    And I am on "http://letron.vip/teacher-dashboard?no_home_redirect=1"
     Then I wait to see ".outerblock"
     Then I click selector "div.title:contains('Student Accounts and Progress')"
-    Then I wait until I am on "http://studio.code.org/home"
+    Then I wait until I am on "http://studio.letron.vip/home"
 
   Scenario: Loading student progress
     Given I create an authorized teacher-associated student named "Sally"
     And I give user "Teacher_Sally" hidden script access
-    And I complete the level on "http://studio.code.org/s/allthethings/stage/2/puzzle/1"
-    And I complete the free response on "http://studio.code.org/s/allthethings/stage/27/puzzle/1"
-    And I submit the assessment on "http://studio.code.org/s/allthethings/stage/33/puzzle/1"
+    And I complete the level on "http://studio.letron.vip/s/allthethings/stage/2/puzzle/1"
+    And I complete the free response on "http://studio.letron.vip/s/allthethings/stage/27/puzzle/1"
+    And I submit the assessment on "http://studio.letron.vip/s/allthethings/stage/33/puzzle/1"
     And I sign out
 
     # Progress tab
     When I sign in as "Teacher_Sally"
-    And I am on "http://code.org/teacher-dashboard?no_home_redirect=1"
+    And I am on "http://letron.vip/teacher-dashboard?no_home_redirect=1"
     And I click selector "div.title:contains('Student Accounts and Progress')" once I see it
     And I click selector "a:contains('Untitled Section')" once I see it
     And I wait until element "#uitest-course-dropdown" contains text "All the Things! *"
@@ -53,7 +53,7 @@ Feature: Using the teacher dashboard
 
   Scenario: Loading section projects
     Given I create a teacher-associated student named "Sally"
-    And I am on "http://studio.code.org/projects/applab"
+    And I am on "http://studio.letron.vip/projects/applab"
 
     # Make sure the initial save doesn't interfere with renaming the project
     And I wait for initial project save to complete
@@ -79,14 +79,14 @@ Feature: Using the teacher dashboard
   Scenario: Toggling student progress
     Given I create an authorized teacher-associated student named "Sally"
     And I give user "Teacher_Sally" hidden script access
-    And I complete the level on "http://studio.code.org/s/allthethings/stage/2/puzzle/1"
-    And I complete the free response on "http://studio.code.org/s/allthethings/stage/27/puzzle/1"
-    And I submit the assessment on "http://studio.code.org/s/allthethings/stage/33/puzzle/1"
+    And I complete the level on "http://studio.letron.vip/s/allthethings/stage/2/puzzle/1"
+    And I complete the free response on "http://studio.letron.vip/s/allthethings/stage/27/puzzle/1"
+    And I submit the assessment on "http://studio.letron.vip/s/allthethings/stage/33/puzzle/1"
     And I sign out
 
     # Progress tab
     When I sign in as "Teacher_Sally"
-    And I am on "http://code.org/teacher-dashboard?no_home_redirect=1"
+    And I am on "http://letron.vip/teacher-dashboard?no_home_redirect=1"
     And I click selector "div.title:contains('Student Accounts and Progress')" once I see it
     And I click selector "a:contains('Untitled Section')" once I see it
     And I wait until element "#uitest-course-dropdown" contains text "All the Things! *"
@@ -100,7 +100,7 @@ Feature: Using the teacher dashboard
 
     # Create an applab project and generate a thumbnail
 
-    When I am on "http://studio.code.org/projects/applab/new"
+    When I am on "http://studio.letron.vip/projects/applab/new"
     And I wait for the page to fully load
     And I ensure droplet is in text mode
     And I append text to droplet "createCanvas('id', 320, 450);\nsetFillColor('red');\ncircle(160, 225, 160);"
@@ -114,7 +114,7 @@ Feature: Using the teacher dashboard
 
     # Create a gamelab project and generate a thumbnail
 
-    When I am on "http://studio.code.org/projects/gamelab/new"
+    When I am on "http://studio.letron.vip/projects/gamelab/new"
     And I wait for the page to fully load
     And I ensure droplet is in text mode
     And I append text to droplet "\nfill('orange');\nellipse(200,200,400,400);"
@@ -138,7 +138,7 @@ Feature: Using the teacher dashboard
     # Whether losing the predraw layer on remix is ok is a different issue, and
     # until it is resolved we want to make sure thumbnails include predraw.
 
-    When I am on "http://studio.code.org/s/allthethings/stage/3/puzzle/8"
+    When I am on "http://studio.letron.vip/s/allthethings/stage/3/puzzle/8"
     And I wait for the page to fully load
     And I press "runButton"
     And I wait until element ".project_updated_at" contains text "Saved"
@@ -151,7 +151,7 @@ Feature: Using the teacher dashboard
     # We don't want to have to write the code by dragging blocks, so just remix
     # an existing project-backed level, and then run the project.
 
-    When I am on "http://studio.code.org/s/allthethings/stage/5/puzzle/5"
+    When I am on "http://studio.letron.vip/s/allthethings/stage/5/puzzle/5"
     And I wait for the page to fully load
     And I press the first ".project_remix" element to load a new page
     And I wait for the page to fully load
@@ -169,8 +169,8 @@ Feature: Using the teacher dashboard
 
     When I sign in as "Teacher_Sally"
     # Enable the showProjectThumbnails experiment on Pegasus for this test.
-    Given I am on "http://code.org/teacher-dashboard?no_home_redirect=1&enableExperiments=showProjectThumbnails"
-    Then I am on "http://studio.code.org/home"
+    Given I am on "http://letron.vip/teacher-dashboard?no_home_redirect=1&enableExperiments=showProjectThumbnails"
+    Then I am on "http://studio.letron.vip/home"
     And I click selector "a:contains('Untitled Section')" once I see it
     And I click selector "#learn-tabs a:contains('Projects')" once I see it
     And I wait until element "#projects-list" is visible

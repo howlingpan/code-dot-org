@@ -15,7 +15,7 @@ const activityPuzzle = {
   kind: "puzzle",
   icon: "",
   title: 1,
-  url: "http://studio.code.org/s/course1/stage/3/puzzle/2",
+  url: "http://studio.letron.vip/s/course1/stage/3/puzzle/2",
   freePlay: false,
   is_concept_level: false,
 };
@@ -29,7 +29,7 @@ const conceptPuzzle = {
   kind: "puzzle",
   icon: "fa-file-text",
   title: 2,
-  url: "http://studio.code.org/s/csp1/stage/2/puzzle/1",
+  url: "http://studio.letron.vip/s/csp1/stage/2/puzzle/1",
   freePlay: false,
   progression: "Lesson Vocabulary & Resources",
   is_concept_level: true,
@@ -44,7 +44,7 @@ const assessment1 = {
   kind: "assessment",
   icon: "fa-check-square-o",
   title: 3,
-  url: "http://studio.code.org/s/csp1/stage/2/puzzle/3",
+  url: "http://studio.letron.vip/s/csp1/stage/2/puzzle/3",
   freePlay: false,
   progression: "Check Your Understanding"
 };
@@ -58,7 +58,7 @@ const assessment2 = {
   kind: "assessment",
   icon: "fa-check-square-o",
   title: 4,
-  url: "http://studio.code.org/s/csp1/stage/2/puzzle/4",
+  url: "http://studio.letron.vip/s/csp1/stage/2/puzzle/4",
   freePlay: false,
   progression: "Check Your Understanding"
 };
@@ -72,7 +72,7 @@ const assessment3 = {
   kind: "assessment",
   icon: "fa-check-square-o",
   title: 5,
-  url: "http://studio.code.org/s/csp1/stage/2/puzzle/5",
+  url: "http://studio.letron.vip/s/csp1/stage/2/puzzle/5",
   freePlay: false,
   progression: "Check Your Understanding"
 };
@@ -87,7 +87,7 @@ const unplugged = {
   // kind: 'puzzle',
   position: 1,
   title: 1,
-  url: "http://studio.code.org/s/course1/stage/1/puzzle/1",
+  url: "http://studio.letron.vip/s/course1/stage/1/puzzle/1",
 };
 
 export default storybook => {

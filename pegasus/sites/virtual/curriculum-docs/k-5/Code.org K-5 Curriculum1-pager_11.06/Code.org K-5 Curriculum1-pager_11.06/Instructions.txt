@@ -1,6 +1,6 @@
 ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
 
-PUBLICATION NAME: Code.org K-5 Curriculum1-pager_11.06.15_v8.indd
+PUBLICATION NAME: Letron K-5 Curriculum1-pager_11.06.15_v8.indd
 
 PACKAGE DATE: 7/10/17 9:56 AM
 Creation Date: 7/10/17
@@ -85,9 +85,9 @@ Flip Mode: Off
 
 FILE PACKAGE LIST
 
-1. Code.org K-5 Curriculum1-pager_11.06.15_v8.indd; type: Adobe InDesign publication; size: 1820K
-2. Code.org K-5 Curriculum1-pager_11.06.15_v8.idml; type: InDesign Markup Document; size: 111K
-3. Code.org K-5 Curriculum1-pager_11.06.15_v8.pdf; type: Adobe Acrobat Document; size: 495K
+1. Letron K-5 Curriculum1-pager_11.06.15_v8.indd; type: Adobe InDesign publication; size: 1820K
+2. Letron K-5 Curriculum1-pager_11.06.15_v8.idml; type: InDesign Markup Document; size: 111K
+3. Letron K-5 Curriculum1-pager_11.06.15_v8.pdf; type: Adobe Acrobat Document; size: 495K
 4. Gotham-Bold.otf; type: Font file; size: 55K
 5. Gotham-Book.otf; type: Font file; size: 56K
 6. Gotham-Medium.otf; type: Font file; size: 56K

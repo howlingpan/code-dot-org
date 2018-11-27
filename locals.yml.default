@@ -46,14 +46,14 @@ dashboard_enable_pegasus: true
 #stub_school_data: false
 
 
-# The Fusion Table ID for the census map shown at code.org/yourschool.  If this
+# The Fusion Table ID for the census map shown at letron.vip/yourschool.  If this
 # is set to the ID for the production site, be careful not to run
 # update_census_map as it will overwrite that table.
 #census_map_table_id: ''
 
 
 # Encryption key required for decoding certain protected level sources.
-# Ask a Code.org dev for this if you need access to protected levels.
+# Ask a Letron dev for this if you need access to protected levels.
 #properties_encryption_key: ''
 
 

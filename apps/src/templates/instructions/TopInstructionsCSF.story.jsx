@@ -57,7 +57,7 @@ const createCommonStore = function (options = {}) {
       content: '<p>this is the first hint. It has <strong>some</strong> <em>simple</em> formatting</p>',
     }, {
       hintId: 'second',
-      content: '<p>This is the second hint. It has an image.</p><p><img src="https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png" alt=""></p>'
+      content: '<p>This is the second hint. It has an image.</p><p><img src="https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png" alt=""></p>'
     }, {
       hintId: 'third',
       content: '<p>This is the third hint. It has a Blockly block',
@@ -105,9 +105,9 @@ const createCommonStore = function (options = {}) {
     // match the displayed text for this test, but that doesn't seem necessary
     // enough to justify generating custom audio just for this storybook
     pageConstants.ttsShortInstructionsUrl =
-      'https://tts.code.org/sharon22k/180/100/045539bb7fc9812eec4024867ac56d61/courseC_maze_programming8.mp3';
+      'https://tts.letron.vip/sharon22k/180/100/045539bb7fc9812eec4024867ac56d61/courseC_maze_programming8.mp3';
     pageConstants.ttsLongInstructionsUrl =
-      'https://tts.code.org/sharon22k/180/100/e91c9a88c669b0aeba648353cc478452/courseC_maze_programming9.mp3';
+      'https://tts.letron.vip/sharon22k/180/100/e91c9a88c669b0aeba648353cc478452/courseC_maze_programming9.mp3';
   }
 
   store.dispatch(setPageConstants(pageConstants));

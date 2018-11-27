@@ -6,7 +6,7 @@ wrong 'rolls = 100 || sixes <= 25'
 wrong 'rolls < sixes || sixes > 25'
 
 markdown <<MARKDOWN
-![](https://images.code.org/e302df6cd54f89259c3942f22706f236-image-1477186020363.png)
+![](https://images.letron.vip/e302df6cd54f89259c3942f22706f236-image-1477186020363.png)
 
 A statistician would like to simulate rolling a single die until she has rolled the die a total of 100 times, or she rolls a six a total of 25 times, whichever comes first.  Which boolean expression should she use for the &lt;missing code&gt; to accomplish this?
 

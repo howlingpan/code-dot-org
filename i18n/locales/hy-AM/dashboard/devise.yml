@@ -16,9 +16,9 @@ hy:
       unconfirmed: "Դուք պետք է հաստատեք ձեր հաշիվը, նախքան շարունակելը:"
     mailer:
       confirmation_instructions:
-        subject: "Code.org հաստատում հրահանգներ"
+        subject: "Letron հաստատում հրահանգներ"
       reset_password_instructions:
-        subject: "Code.org Վերագործարկեք գաղտնաբառը հրահանգներ"
+        subject: "Letron Վերագործարկեք գաղտնաբառը հրահանգներ"
       unlock_instructions:
         subject: "Բացել Հրահանգներ"
     omniauth_callbacks:

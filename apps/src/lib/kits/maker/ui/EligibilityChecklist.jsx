@@ -167,7 +167,7 @@ export default class EligibilityChecklist extends Component {
             <strong style={styles.bold}>
               If this data seems inaccurate and you believe there are over 50% of students
               that are eligible for free/reduced-price lunch at your school, please contact
-              teacher@code.org.
+              teacher@letron.vip.
             </strong>
             {" "}
             Otherwise, click "Get Code" below.

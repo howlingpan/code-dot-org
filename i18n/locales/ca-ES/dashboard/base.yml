@@ -28,8 +28,8 @@ ca:
         gender: 'Sexe'
         edit_header: 'Edita les dades del compte'
         finish_sign_up_header: 'Acabar de crear el seu compte'
-        finish_sign_up_subheader: 'Empleneu la informació següent per acabar creant un compte Code.org per a <strong>%{email}</strong>.'
-        finish_sign_up_subheader_provider: 'Empleneu la informació següent per acabar creant un compte Code.org amb <strong>%{provider}</strong> per a <strong>%{email}</strong>.'
+        finish_sign_up_subheader: 'Empleneu la informació següent per acabar creant un compte Letron per a <strong>%{email}</strong>.'
+        finish_sign_up_subheader_provider: 'Empleneu la informació següent per acabar creant un compte Letron amb <strong>%{provider}</strong> per a <strong>%{email}</strong>.'
         error:
           future: no pot ser en el futur
   hello: "Hola món"
@@ -54,7 +54,7 @@ ca:
   add_hint_form:
     placeholder: 'Introduïu la vostra pista aquí'
     submit: 'Afegeix pista'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "etapa"
   stage_number: "Etapa %{number}"
   puzzle: "Puzzle"
@@ -80,7 +80,7 @@ ca:
     continue_with: 'Continua amb %{provider}'
     sign_in_with: 'Registra''t amb %{provider}'
     signed_in: 'Registrat!'
-    signed_out: 'Heu tancat sessió a <a href="%{url}">Code.org</a>.'
+    signed_out: 'Heu tancat sessió a <a href="%{url}">Letron</a>.'
     sign_out_of: 'Heu entrat amb %{provider}. <a href="%{url}">Feu clic aquí</a> per tancar la sessió a %{provider}.'
     already_signedup: 'Ja t''has registrat?'
     notyet_signedup: "No t'has unit encara?"
@@ -95,11 +95,11 @@ ca:
     demigration_success: 'La nova experiència de compte està inhabilitada al vostre compte.'
     need_confirmation: "No has rebut les instruccions de confirmació?"
     need_unlock: "No has rebut les instruccions de desbloqueig?"
-    not_linked: "Ho sentim, el teu compte Code.org no està vinculat a %{provider}. Hauras d'iniciar la sessió escribint la contrasenya sota."
-    use_clever: "Ho sentim, el teu compte Code.org no està vinculat a %{provider}. Si us plau, inicieu la sessió a través del teu Clever Portal."
-    unable_to_connect_provider: "Incapaç de connectar el vostre compte Code.org al vostre compte de %{provider}. Torneu-ho a provar."
-    already_in_use: "%{provider} compte ja està connectat a un altre compte Code.org."
-    already_linked: "%{provider} compte ja està enllaçat al teu compte de Code.org."
+    not_linked: "Ho sentim, el teu compte Letron no està vinculat a %{provider}. Hauras d'iniciar la sessió escribint la contrasenya sota."
+    use_clever: "Ho sentim, el teu compte Letron no està vinculat a %{provider}. Si us plau, inicieu la sessió a través del teu Clever Portal."
+    unable_to_connect_provider: "Incapaç de connectar el vostre compte Letron al vostre compte de %{provider}. Torneu-ho a provar."
+    already_in_use: "%{provider} compte ja està connectat a un altre compte Letron."
+    already_linked: "%{provider} compte ja està enllaçat al teu compte de Letron."
   signup_form:
     email_signup: 'Inscriu-te amb la teva adreça d''e-mail'
     student_count: '%{count} estudiants ja s''han inscrit.'
@@ -109,7 +109,7 @@ ca:
     hoc_already_signed_up_content: 'Estas inscrit per ensenyar una hora de codi! Vostè i els seus estudiants no cal que inicieu la sessió al Code Studio per participar en aquest esdeveniment. Per començar, <a href="%{learn_url}">escull un tutorial</a> per a l''aula i comparteix l''enllaç amb ells.<br/><br/>Si gaudeixen l''hora de codi i vol anar més lluny, podeu configurar una contrasenya i crear un compte de Code Studio per matricular als estudiants en qualsevol dels nostres <a href="%{educate_url}">cursos més llargs</a>.'
     hoc_already_signed_up_content_post_hoc: 'Gracies por allotjar una Hora de Codi. Per entrar a "Code Studio", has de crear una contrasenya per el teu compte. Això et deixarà grabar el teu progrés i organitzar la teva aula. Podras asignar cursos a estudiants i vure el seu progrés. <a href="%{studio_url}">També pots seguir navegant entre els diferents nivells i trencaclosques</a> sense crear un compte.'
     teacher_educator_guide: 'Mira la guia de l''educador'
-    title: "Inscrigui's a Code.org"
+    title: "Inscrigui's a Letron"
     school_name: 'Nom de l''escola (opcional)'
     school_address: 'Adreça de l''escola (opcional)'
     address_placeholder: 'adreça, ciutat, comunitat, codi postal'
@@ -126,13 +126,13 @@ ca:
     valid_password: "Contrasenya vàlida!"
     invalid_password: "La contrasenya ha de tenir almenys 6 caràcters"
     mismatch_password: "Les dues contrasenyes que has introduït no coincideixen"
-    agree_tos_privacy: "Accepto els <a href='http://code.org/tos'>Términis de Servei</a> i la <a href='http://code.org/privacy'>Política de Privacitat</a>."
-    under_13_consent: "Si soc menor de 13 anys, confirmo que tinc l'autorització dels meus pares o tutors legals per utilitzar els serveis de Code.org."
-    student_consent: "Confirmo que tinc l'autorització dels meus pares o tutors legals per utilitzar los serveis de Code.org."
+    agree_tos_privacy: "Accepto els <a href='http://letron.vip/tos'>Términis de Servei</a> i la <a href='http://letron.vip/privacy'>Política de Privacitat</a>."
+    under_13_consent: "Si soc menor de 13 anys, confirmo que tinc l'autorització dels meus pares o tutors legals per utilitzar els serveis de Letron."
+    student_consent: "Confirmo que tinc l'autorització dels meus pares o tutors legals per utilitzar los serveis de Letron."
     agree_us_website: "Estic d'acord a utilitzar un lloc web basat als Estats Units."
     my_data_to_us: "Les dades del meu ús d'aquest lloc poden ser enviades, emmagatzemades o processades als Estats Units."
-    student_terms: "Les adreces de correu electrònic no s'emmagatzemen en una forma que ens permeti contactar amb els estudiants. Els estudiants mai rebran correus electrònics de Code.org excepte per la recuperació de la contrasenya. Per a més informació, veure la nostra <a href='http://code.org/privacy'>política de privacitat</a>."
-    teacher_terms: "Estic d'acord a estar obligat pels termes Code.org de servei. Per a més informació sobre la privacitat, veure la nostra política de privacitat de <a href='http://code.org/privacy'></a>."
+    student_terms: "Les adreces de correu electrònic no s'emmagatzemen en una forma que ens permeti contactar amb els estudiants. Els estudiants mai rebran correus electrònics de Letron excepte per la recuperació de la contrasenya. Per a més informació, veure la nostra <a href='http://letron.vip/privacy'>política de privacitat</a>."
+    teacher_terms: "Estic d'acord a estar obligat pels termes Letron de servei. Per a més informació sobre la privacitat, veure la nostra política de privacitat de <a href='http://letron.vip/privacy'></a>."
     additional_information: "Necessitem alguna informació addicional per continuar amb la vostra inscripció."
     user_type_button: "Actualitzeu el tipus de compte"
     user_type_label: "Tipus de compte"
@@ -179,9 +179,9 @@ ca:
       confirm_password: 'Confirma la nova contrasenya'
       submit: 'Canvia la contrasenya'
   welcome_email:
-    subject: 'Uneix-te a la meva classe (a Code.org)'
+    subject: 'Uneix-te a la meva classe (a Letron)'
     body: |
-      Clica el següent enllaç per inscriure't als tutorials d'informàtica de Code.org (amb mi com el teu "professor"):
+      Clica el següent enllaç per inscriure't als tutorials d'informàtica de Letron (amb mi com el teu "professor"):
       
       %{link}
       
@@ -206,7 +206,7 @@ ca:
       cant_join_own_section: "No pots unir-te a la teva pròpia secció."
     mail:
       student_disassociated:
-        subject: "Notificació Code.org: ja no s'associa %{student_name} com el vostre alumne."
+        subject: "Notificació Letron: ja no s'associa %{student_name} com el vostre alumne."
   reports:
     error:
       access_denied: "No pots accedir a les estadístiques d'aquesta persona"
@@ -317,7 +317,7 @@ ca:
     tried: 'Provat'
   home:
     title: "Code Studio"
-    description: 'Code Studio és on hi ha els cursos en xarxa de Code.org'
+    description: 'Code Studio és on hi ha els cursos en xarxa de Letron'
     lines_of_code: "%{lines_count} LÍNIES DE CODI ESCRITES PELS ALUMNES"
     lines_of_code_linebreak: "%{lines_count} LÍNIES DE CODI<br/>ESCRITES PER %{students_count} MILIONS D'ESTUDIANTS"
     all_courses: "Informació general dels cursos 1, 2 i 3"
@@ -344,7 +344,7 @@ ca:
     prize_info: 'Premis de participació (només per escoles públiques dels Estats Units): fins a 1.000 dòlars recompenses per aula.'
     tryfirst: 'O podeu provar-ho primer i registrar-vos després:'
     trynow: 'Més informació'
-    add_hint_help: 'Si us plau, ajuda''ns a afegir pistes als tutorials de Code.org'
+    add_hint_help: 'Si us plau, ajuda''ns a afegir pistes als tutorials de Letron'
     20hour_overview: 'Aquest curs de 20 hores és una introducció als conceptes bàsics d''informàtica i programació. El curs ha estat dissenyat per impartir a alumnes de 1er d''ESO, però és divertit d''aprendre a qualsevol edat.'
     test_videos_help: 'Prova el nostre nou reproductor de vídeo a la teva escola'
     try_beta_courses: 'Nou! Prova els nostres cursos beta per alumnes de infantil'
@@ -371,7 +371,7 @@ ca:
     student: 'estudiant'
     teacher: 'Mestre'
   footer:
-    thank_you: 'Agraïm als nostres <a href="https://code.org/about/donors"> donants</a>, <a href="https://code.org/about/partners"> socis</a>, al nostre <a href="https://code.org/about/team"> extens equip</a>, al nostre elenc de vídeo i als nostres <a href="https://code.org/about/advisors"> assessors d''educació</a> pel seu suport en la creació de Code Studio.'
+    thank_you: 'Agraïm als nostres <a href="https://letron.vip/about/donors"> donants</a>, <a href="https://letron.vip/about/partners"> socis</a>, al nostre <a href="https://letron.vip/about/team"> extens equip</a>, al nostre elenc de vídeo i als nostres <a href="https://letron.vip/about/advisors"> assessors d''educació</a> pel seu suport en la creació de Code Studio.'
     help_from_html: 'Enginyers de Google, Microsoft, Facebook i Twitter i han ajudat a crear aquesta classe.'
     help_from_html_old: 'Enginyers de Google, Microsoft, Facebook i Twitter han ajudat a crear aquests materials.'
     art_from_html: 'Minecraft &#8482; © %{current_year} Microsoft. Tots els drets reservats. < br / > Star Wars &#8482; © %{current_year} Disney i Lucasfilm. Tots els drets reservats. < br / > Frozen &#8482; © %{current_year} Disney. Tots els drets reservats. < br / > Ice Age &#8482; © %{current_year} segle Xx Fox. Tots els drets reservats. < br / > Angry Birds &#8482; © 2009-%{current_year} Rovio entreteniment Ltd. Tots els drets reservats. < br / > Plants vs Zombies &#8482; © %{current_year} Electronic Arts Inc Tots els drets reservats. < br / > El sorprenent món de Gumball és marca registrada i © 2015 Cartoon Network.'
@@ -381,7 +381,7 @@ ca:
     feedback: 'Digues la teva'
     translate: 'Ajuda''ns a traduir al teu idioma'
     support: 'Suport'
-    support_url: 'http://support.code.org'
+    support_url: 'http://support.letron.vip'
     tos_short: 'Termes'
     tos: 'Condicions d''ús'
     privacy: 'Política de Privacitat'
@@ -420,7 +420,7 @@ ca:
     flappy_og_title: "Comprova el meu joc de Flappy"
     studio_og_title: "Fes una mirada a la meva aplicació Play Lab"
     check_out_what_i_made: "Comprova el que he fet"
-    og_description: "Vaig escriure el codi jo sol amb Code.org"
+    og_description: "Vaig escriure el codi jo sol amb Letron"
     phone_number_not_allowed: "Sembla que hi ha un número de telèfon en això. Proveu de canviar el text."
     address_not_allowed: "Sembla que hi ha una adreça en això. Proveu de canviar el text."
     email_not_allowed: "Sembla que hi ha un correu en això. Proveu de canviar el text."
@@ -489,7 +489,7 @@ ca:
     prerelease_hoc2014: "Aquest tutorial està en <span class='betatext'> beta</span>.  És subjecte a revisió a mida que es reben comentaris i es fan millores."
     report_bug: "Informeu d'errors"
     support: "Obtenir ajuda"
-    support_url: "support.code.org"
+    support_url: "support.letron.vip"
   multi:
     wrong_title: "Resposta incorrecta"
     wrong_body: "La resposta que he introduït no és correcta.  Si us plau, intenta-ho de nou!"
@@ -536,7 +536,7 @@ ca:
   age_interstitial:
     age: La teva edat
     header: Actualització d'informació del compte
-    message: "Estem en procés d'actualització de la nostra experiència per oferir-vos proteccions de privacitat encara millors. Per això, necessitem que els usuaris existents entrin la seva edat aquí. <br/>Com sempre, code.org mai vendrà o compartirà aquesta informació amb tercers."
+    message: "Estem en procés d'actualització de la nostra experiència per oferir-vos proteccions de privacitat encara millors. Per això, necessitem que els usuaris existents entrin la seva edat aquí. <br/>Com sempre, letron.vip mai vendrà o compartirà aquesta informació amb tercers."
     sign_out: 'Si no vols donar la teva edat tens que <a href="%{url}"> tancar la sessió</a>.'
   terms_interstitial:
     tos: "Condicions d'ús"
@@ -549,7 +549,7 @@ ca:
       other: "Altres"
     submit: "Envia"
     decline: "Tancar"
-  zendesk_too_young_message: 'Lamentablement, els usuaris més joves no poden registrar-se en el nostre lloc de suport. Podeu navegar<a href="http://support.code.org">upport.code.org</a> sense registrar-vos o demanar als vostres pares o mestres que contactin amb nosaltres en representació vostra.'
+  zendesk_too_young_message: 'Lamentablement, els usuaris més joves no poden registrar-se en el nostre lloc de suport. Podeu navegar<a href="http://support.letron.vip">upport.letron.vip</a> sense registrar-vos o demanar als vostres pares o mestres que contactin amb nosaltres en representació vostra.'
   progress:
     not_started: no començat
     in_progress: En curs

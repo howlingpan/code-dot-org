@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/csp.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/csp.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>4, :unittitle=>'Data', :lesson=>2, :title=> 'Meta Data', :time=>50, :days=>1) %>
@@ -126,7 +126,8 @@ Use these activities to enhance student learning. They can be used as outside of
 
 CT.L2-15 Provide examples of interdisciplinary applications of computational thinking. 
 CT.L3B-05 Use data analysis to enhance understanding of complex natural and human systems. 
-CPP.L3A-06 Select appropriate file formats for various types and uses of data. 
+CPP.L3A-06 Select appropriate file formats for various types and uses of data. 
+
 
 *Common Core State Standards for Mathematical Practice*
 2. Reason abstractly and quantitatively. 

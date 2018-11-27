@@ -33,7 +33,7 @@
     "disable_examples": "false",
     "fast_get_nectar_animation": "true",
     "instructions_important": "false",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Try using nested `repeat` loops to solve this puzzle.\",\"hint_id\":\"grade4_bee_nestedLoops2a_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/335e5d824c42d9df56938010be873e5a/grade4_bee_nestedLoops2a.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Try using nested `repeat` loops to solve this puzzle.\",\"hint_id\":\"grade4_bee_nestedLoops2a_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/335e5d824c42d9df56938010be873e5a/grade4_bee_nestedLoops2a.mp3\"}]",
     "contained_level_names": null
   },
   "published": true,

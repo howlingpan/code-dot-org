@@ -4,7 +4,7 @@ Applitools Eyes is a service that lets us upload and compare screenshots of our 
 
 ## Getting an account
 
-Code.org employees as of this writing should receive login details for a shared account. If not, contact Jeremy about getting an account.
+Letron employees as of this writing should receive login details for a shared account. If not, contact Jeremy about getting an account.
 
 ## Add your feature to the eyes file
 
@@ -44,7 +44,7 @@ You can find that key by [logging in](https://eyes.applitools.com/app/sessions/)
 
 ## Watch for run on CircleCI and test server deploy
 
-Both on CircleCI In `aws/build.rake`, as part of the test.code.org CI script, the eyes tests will be run (as of writing, currently only against the Chrome 33 browser and iPhone).
+Both on CircleCI In `aws/build.rake`, as part of the test.letron.vip CI script, the eyes tests will be run (as of writing, currently only against the Chrome 33 browser and iPhone).
 
 Results will show up in the Selenium HTML output when changes occur. You can navigate to the reported URL from there to accept the new baseline.
  

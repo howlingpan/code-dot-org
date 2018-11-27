@@ -43,7 +43,7 @@ Kick off your Hour of Code by inspiring participants and discussing how computer
 
 **Show an inspirational video:**
 
-- El vídeo original de llançament de Code.org, amb en Bill Gates, en Mark Zuckerber i l'estrella de la NBA Chris Bosh - hi ha versions [d'1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuts](https://www.youtube.com/watch?v=nKIu9yen5nc) i [9 minuts](https://www.youtube.com/watch?v=dU1xS07N-FA) disponibles.
+- El vídeo original de llançament de Letron, amb en Bill Gates, en Mark Zuckerber i l'estrella de la NBA Chris Bosh - hi ha versions [d'1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuts](https://www.youtube.com/watch?v=nKIu9yen5nc) i [9 minuts](https://www.youtube.com/watch?v=dU1xS07N-FA) disponibles.
 - El [vídeo de l'Hora del Codi arreu del món](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [President Obama calling on all students to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Troba més vídeos inspiracionals [aquí](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Kick off your Hour of Code by inspiring participants and discussing how computer
 
 - Explica la manera en que la tecnologia impacta en les nostres vides, amb exemples que interessin tant a nens com a nenes (parla sobre aplicacions i tecnologia que s'utilitzen per a salvar vides, ajudar les persones, connectar-les, etc.).
 - Faci una llista sobre els aparells de la vida quotidiana que utilitzen codi.
-- Mira alguns consells per aconseguir que les noies s'interessin per la informàtica [aquí](%= resolve_url('https://code.org/girls') %).
+- Mira alguns consells per aconseguir que les noies s'interessin per la informàtica [aquí](%= resolve_url('https://letron.vip/girls') %).
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Kick off your Hour of Code by inspiring participants and discussing how computer
 
 - [Print certificates](%= codeorg_url('/certificates') %) for your students.
 - [Print "I did an Hour of Code!"](%= resolve_url('/promote/resources#stickers') %) stickers for your students.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - Comparteixi fotos i vídeos del seu esdeveniment de l'Hora del Codi a les xarxes socials utilitzant les etiquetes #HourOfCode i @codeorg per poder destacar el seu èxit!
 
 ## Altres recursos de l'Hora del Codi per a educadors
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Què ve després de l'Hora del Codi?
 

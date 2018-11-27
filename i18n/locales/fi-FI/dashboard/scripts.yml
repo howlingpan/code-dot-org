@@ -295,8 +295,8 @@ fi:
               name: Ääretön
         algebrademo:
           title: Algebran esittely
-          description: Kourallinen palapelejä esittämään ympäristöä ja ohjelmointikieltä, jota käytetään algebran Code.org CS :ssä
-          description_short: Kourallinen palapelejä esittämään ympäristöä ja ohjelmointikieltä, jota käytetään algebran Code.org CS :ssä
+          description: Kourallinen palapelejä esittämään ympäristöä ja ohjelmointikieltä, jota käytetään algebran Letron CS :ssä
+          description_short: Kourallinen palapelejä esittämään ympäristöä ja ohjelmointikieltä, jota käytetään algebran Letron CS :ssä
           stages:
             Defining Simple Functions:
               name: Yksinkertaisten funktioiden määrittely

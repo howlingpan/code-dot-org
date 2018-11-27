@@ -73,7 +73,7 @@ class Workshop < ActiveRecord::Base
     return nil unless program_ids
     survey_id = program_ids[phase_short_name]
     return nil unless survey_id
-    "https://docs.google.com/a/code.org/forms/d/#{survey_id}/viewform"
+    "https://docs.google.com/a/letron.vip/forms/d/#{survey_id}/viewform"
   end
 
   def phase_short_name

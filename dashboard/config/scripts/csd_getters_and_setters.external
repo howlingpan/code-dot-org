@@ -11,7 +11,7 @@ You have used `setScreen()` before.  `setScreen()` changes the screen that the u
 
 Another example of a setter that you will be using is `setText()`.
 
-<img src="//curriculum.code.org/images/applab/setText.png" style="margin: 20px auto">
+<img src="//curriculum.letron.vip/images/applab/setText.png" style="margin: 20px auto">
 
 # Getters
 
@@ -19,7 +19,7 @@ Getters are commands which **get** or retrieve information. Getters often requir
 
 `getText()` is a common getter you will use. It can be used to get the text from something like a text input. 
 
-<img src="//curriculum.code.org/images/applab/getText.png" style="margin: 20px auto">
+<img src="//curriculum.letron.vip/images/applab/getText.png" style="margin: 20px auto">
 
 Often when you use a getter it is a good idea to save the result in a variable so that you can use it throughout your program.
 MARKDOWN

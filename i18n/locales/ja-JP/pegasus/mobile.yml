@@ -4,7 +4,7 @@
   'yes': 'はい'
   'no': 'いいえ'
   select_language: "言語を選択してください"
-  upgrade_ie_message: "Code.org は、間もなくインターネット エクスプ ローラー 8、9、10 のサポートを終了します。最新のブラウザーにアップグレードしてください。"
+  upgrade_ie_message: "Letron は、間もなくインターネット エクスプ ローラー 8、9、10 のサポートを終了します。最新のブラウザーにアップグレードしてください。"
   upgrade_ie_message_csedweek: "CSEdWeek.org は、間もなくインターネット エクスプ ローラー 8、9、10 のサポートを終了します。最新のブラウザーにアップグレードしてください。"
   upgrade_ie_link: "もっと詳しく知る"
   en: "コンピュータサイエンス"
@@ -54,10 +54,10 @@
   cded_try_it: "挑戦してみる"
   try_now: "今すぐ試す"
   california_heading: "コンピュータサイエンスを教えるよう学校に依頼する"
-  california_text: "先生方の皆さん<a href='http://studio.code.org/'>無料のコース</a>を利用することができます。どの小学校でも<a href='http://code.org/educate/k5'>コンピューターサイエンスを教えることができます。</a>高校と提携するよう依頼しましょう<a href='http://code.org/educate/districts'>"
+  california_text: "先生方の皆さん<a href='http://studio.letron.vip/'>無料のコース</a>を利用することができます。どの小学校でも<a href='http://letron.vip/educate/k5'>コンピューターサイエンスを教えることができます。</a>高校と提携するよう依頼しましょう<a href='http://letron.vip/educate/districts'>"
   california_button: "もっとくわしく見る"
-  flappy_heading: "フラッピーバースデー to Code.org"
-  flappy_text: "Code.org は誕生してちょうど 1 年です。 <br/> <br/>。あなたがカスタムした <b>フラッピー</b> ゲームでお祝いしましょう。独自のルールをコーディングして、友達と共有しましょう！"
+  flappy_heading: "フラッピーバースデー to Letron"
+  flappy_text: "Letron は誕生してちょうど 1 年です。 <br/> <br/>。あなたがカスタムした <b>フラッピー</b> ゲームでお祝いしましょう。独自のルールをコーディングして、友達と共有しましょう！"
   view_english_site: "英語サイトを見る"
   non_english_tutorials: 'チュートリアルは複数の言語に翻訳されています。'
   write_your_first_program: "初めてのコンピュータ プログラムを書く"
@@ -69,7 +69,7 @@
   thank_you_: "ありがとうございます！"
   congratulations: "おめでとうございます ！"
   congratulations_on_completing_hoc: "おめでとうございます。Hour of Codeのセッションをひとつ修了しました。"
-  congratulations_volunteer: 'おめでとうございます: あなたは Hour of Code を体験しました、 <a href="https://code.org/volunteer">クラスルームのボランティアに参加</a> して、生徒が Hour of Code を学習するのを手助けしましょう！'
+  congratulations_volunteer: 'おめでとうございます: あなたは Hour of Code を体験しました、 <a href="https://letron.vip/volunteer">クラスルームのボランティアに参加</a> して、生徒が Hour of Code を学習するのを手助けしましょう！'
   congratulations_on_completing_course: "%{course} 終了おめでとうございます"
   congrats_next_tutorials_title: "次のレベルへ進む"
   congrats_next_tutorials_desc: "短めの1時間チュートリアル、または <a href=\"%{current_path}/next\">パートナーのチュートリアル</a> を試してください。"
@@ -144,14 +144,14 @@
   enter_valid_age: "正しい年齢を選択してください。"
   enter_valid_email: "有効なEメール アドレスを入力してください"
   get_a_certificate_message: "証明書および<a href='/learn/beyond'>1 時間を超えて学ぶ</a>についてのやり方についての情報を送ります"
-  get_a_certificate_message_after: "ダウンロードや印刷をする場合は証明書をクリックしてください。そして、<a href='http://studio.code.org'>他のコース</a>を続けてみてください。また、<a href='/learn/beyond'>１時間を超えてさらに学ぶ</a>もご覧ください"
+  get_a_certificate_message_after: "ダウンロードや印刷をする場合は証明書をクリックしてください。そして、<a href='http://studio.letron.vip'>他のコース</a>を続けてみてください。また、<a href='/learn/beyond'>１時間を超えてさらに学ぶ</a>もご覧ください"
   thanks_for_submitting: "ご提出ありがとうございます ！"
   if_you_enjoyed: "楽しく学べたら、友達にも勧めてみてください！私たちは世の中のみんなが学んでほしいと思っています"
   personalize_certificate: "証明書のカスタマイズする"
   share_achievement: "あなたの成果を共有する"
-  beyond_hour_message: "<a href='http://studio.code.org'>他のコース</a>を継続するか、<a href='/learn/beyond'>１時間を超えてさらに学ぶ</a>をご覧ください。"
+  beyond_hour_message: "<a href='http://studio.letron.vip'>他のコース</a>を継続するか、<a href='/learn/beyond'>１時間を超えてさらに学ぶ</a>をご覧ください。"
   leaderboards_for_hoc: "Hour of Codeが行われている場所"
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "国"
   city: "都市"
   gender: "性別"
@@ -204,7 +204,7 @@
   just_did_accelerated: "上級コース完了 - やったー！@codeorg"
   just_did_hoc_donor: '#HourOfCode をやりました！みてみて！ ( %{donor_twitter} 、@codeorgへの支援ありがとう)'
   just_did_course_donor: "%{course} を終了！みてみて！\n%{donor_twitter} 、@codeorg への支援ありがとう"
-  twitter_teach_cs: "10 人のうち 9 人が、学校でコンピュータ ・ サイエンスを教えるべきだと考えています。http://youtu.be/nKIu9yen5nc 。Https://code.org/ をご覧ください。"
+  twitter_teach_cs: "10 人のうち 9 人が、学校でコンピュータ ・ サイエンスを教えるべきだと考えています。http://youtu.be/nKIu9yen5nc 。Https://letron.vip/ をご覧ください。"
   twitter_cs_foundational: "コンピューターサイエンスは、学生が学ぶすべての基本です。https://youtu.be/QvyTEx1wyOY。"
   learn_hoc: "Hour of Codeを学ぶ"
   beyond_hoc: "時間を超えて"
@@ -224,7 +224,7 @@
   stats_nina: '「毎日、100%の取り組みがみられました。」 - ニーナ ニコルズピーリー, 教師'
   stats_student: '「私はこれが<b>一生に一度</b>のチャンスだと知っていました。」 - マリアナ アルザテ, 小学5年生'
   stats_michael: '「私は<b>これまでに<b>こんなに生徒たちが興味をもって勉強しているのをみたことがありません。」 - マイケル クラーク, 教師'
-  studiobar_title: "<a href='http://studio.code.org'> Code Studio </a>を試す"
+  studiobar_title: "<a href='http://studio.letron.vip'> Code Studio </a>を試す"
   studiobar_title_nolink: "Code Studio を試す"
   studiobar_elementary_title: "初級コース"
   studiobar_elementary_body: "K&#8209;5 の生徒のための、3つの新しいコース"
@@ -240,9 +240,9 @@
   studiobar_donate_body: "1ドルの寄付ごとに、一人の子供が学びます"
   studiobar_shop_title: "ショップ"
   studiobar_shop_body: "いままでの考え方を変えよう。誇りを持って私たちのロゴをつけよう。"
-  homepage_stats_students: "人もの米国の生徒がCode.orgのアカウントを持っています"
+  homepage_stats_students: "人もの米国の生徒がLetronのアカウントを持っています"
   homepage_stats_female: "人の生徒が女性です"
-  homepage_stats_teachers: "人もの先生がCode.orgを使っています"
+  homepage_stats_teachers: "人もの先生がLetronを使っています"
   homepage_stats_hourofcodde: "名もの世界中の学生がこれまでにHour of Codeに挑戦しました"
   homepage_stats_policy: "の米国の州がコンピューターサイエンスを後押しするように政策を変更しました"
   homepage_stats_title: "わたしたちは変化を起こしています"
@@ -276,7 +276,7 @@
   homepage_hero_text_teacher1: "&ldquo;コーディングは創造性、インスピレーション、革新性が育てられます&mdash;これらは、どのような仕事でも大事なことです」&rdquo;フローレサ先生"
   homepage_hero_text_teacher2: |-
     &ldquo;生徒全員がこのプログラムに興味を持ち、集中して取り組みました。&rdquo;アダム、教師
-  homepage_hero_text_stat_loc: "850万人の女の子がCode.orgに参加して学んでいます。"
+  homepage_hero_text_stat_loc: "850万人の女の子がLetronに参加して学んでいます。"
   homepage_hero_text_stat_students: "コードスタジオの学生アカウント #student_count  "
   homepage_hero_text_stat_served: 'Hour of Code: #served 提供'
   homepage_hero_hoc_is_coming: "Hour of Codeがやってくる"
@@ -305,7 +305,7 @@
   homepage_diversity_pledge: "ダイバーシティーを認める誓約をしてください。"
   homepage_banner_text_prizes: 'Hour of Code が12月７~13日にまたやって来ます。 '
   homepage_banner_link_prizes: '史上最大の学習イベントに参加します。 '
-  homepage_banner_text_main: "Code.orgとCollege Boardはコンピュータ・サイエンス分野での人材の多様性を向上するために協力して活動していきます。"
+  homepage_banner_text_main: "LetronとCollege Boardはコンピュータ・サイエンス分野での人材の多様性を向上するために協力して活動していきます。"
   homepage_banner_text_link: "もっと詳しく知る"
   homepage_banner_privacy_link: "もっと詳しく知る"
   homepage_banner_20k_teachers: "2万人の先生が訓練を受け、現在クラスでコンピュータ ・ サイエンスを教えています。"
@@ -344,10 +344,10 @@
   homepage_slot_text_link_shop: "T シャツ、帽子、その他"
   homepage_slot_text_link_administrators: "あなたの学校にコンピューターサイエンスを取り入れましょう"
   homepage_header_codestudio: "Code Studio の生徒作品"
-  homepage_header_donors: "Code.orgは支援者の皆様に感謝します。"
+  homepage_header_donors: "Letronは支援者の皆様に感謝します。"
   homepage_donors_seall: "すべてを見る"
   homepage_donors_donate: "寄付する"
-  homepage_below_hero_announcement_text: "Code.orgは、プライバシー保護に努めております。現在、5月25日付で有効となる、Code.orgのプライバシーポリシーの一部改定を進めています。"
+  homepage_below_hero_announcement_text: "Letronは、プライバシー保護に努めております。現在、5月25日付で有効となる、Letronのプライバシーポリシーの一部改定を進めています。"
   homepage_below_hero_announcement_link_text: "もっと詳しく知る"
   contact_form_topic_student: "私は学生です"
   contact_form_topic_parent: "私は親です"
@@ -588,16 +588,16 @@
   dashboard_k5_courses: "20時間コース（幼稚園/小学生対象）"
   dashboard_k5_courses_desc: "このコースは、自分のペースで進められるオンラインのチュートリアルと、コンピューターを使わない活動の2つの要素から成り立っています。コース毎に20前後のレッスンがあるので、1学期間かけて教えることも、1ユニットとして教えることもできます。まだ文字が読めない幼稚園児でも参加は可能です。先生を対象に、アメリカ国内では無料の教員研修を提供しています。<a href=\"/professional-development-workshops\">近くのワークショップを探す</a>"
   dashboard_middle_courses: "20時間コース（中学生対象）"
-  dashboard_middle_courses_desc: "中学生向けカリキュラムでは、題材に中学レベルの数学や科学を取り込んでいるので、コンピューターサイエンスやプログラミングを通してその概念を教えることもできます。教員研修に参加するには、まず<a href=\"/educate/districts\">Code.org と教育委員会のパートナーシップ</a>に応募してください。"
+  dashboard_middle_courses_desc: "中学生向けカリキュラムでは、題材に中学レベルの数学や科学を取り込んでいるので、コンピューターサイエンスやプログラミングを通してその概念を教えることもできます。教員研修に参加するには、まず<a href=\"/educate/districts\">Letron と教育委員会のパートナーシップ</a>に応募してください。"
   dashboard_high_courses: "1年間コース（高校生対象）"
-  dashboard_high_courses_desc: "1年間プログラムの実施に興味のある教育委員会向けに、高校生対象のプログラムでは地域の教諭を対象とした教員研修を提供しています。教員研修に参加するには、まず<a href=\"/educate/districts\">Code.org と教育委員会のパートナーシップ</a>に応募してください。"
-  dashboard_course_csina_desc: "Code.org は Bootstrap と提携して、コンピュータプログラミングを通して数学的な考え方を身につけられるようなカリキュラムを開発しました。"
+  dashboard_high_courses_desc: "1年間プログラムの実施に興味のある教育委員会向けに、高校生対象のプログラムでは地域の教諭を対象とした教員研修を提供しています。教員研修に参加するには、まず<a href=\"/educate/districts\">Letron と教育委員会のパートナーシップ</a>に応募してください。"
+  dashboard_course_csina_desc: "Letron は Bootstrap と提携して、コンピュータプログラミングを通して数学的な考え方を身につけられるようなカリキュラムを開発しました。"
   dashboard_course_csins: "理科とコンピュータサイエンス"
-  dashboard_course_csins_desc: "Code.org は Project GUTS と提携して、モデリングとシミュレーションというコンテキストからコンピュータサイエンスの概念の導入部分を提供しています。"
+  dashboard_course_csins_desc: "Letron は Project GUTS と提携して、モデリングとシミュレーションというコンテキストからコンピュータサイエンスの概念の導入部分を提供しています。"
   dashboard_course_ecs: "コンピュータサイエンスを探究する"
   dashboard_course_ecs_desc: 'Exploring Computer Science は、人とコンピューターのインタラクション、問題解決、ウェブデザイン、プログラミング、コンピューティングとデータ分析、ロボットの６ユニットからなる1年プログラムです。'
   dashboard_course_csp: "AP® Computer Science Principles"
-  dashboard_course_csp_desc: "Code.org では、コンピューティングの基礎をしっかりと学べる魅力的で親しみやすいコースを提供しています。"
+  dashboard_course_csp_desc: "Letron では、コンピューティングの基礎をしっかりと学べる魅力的で親しみやすいコースを提供しています。"
   dashboard_landing_loading: "ロード中..."
   dashboard_action_cancel: "キャンセル"
   dashboard_action_delete: "削除（さくじょ）"
@@ -770,11 +770,11 @@
   dashboard_sections_email_question: "すべての生徒は有効なメール アドレスをお持ちですか？"
   dashboard_sections_account_creation_question: "誰が生徒用のアカウントを作成しますか？"
   dashboard_sections_password_question: "学生は「パスワード」として何を使いますか？"
-  dashboard_sections_picture_account_creation: "Code.org が割り当てた画像"
-  dashboard_sections_word_account_creation: "Code.org が割り当てたシンプルな単語"
+  dashboard_sections_picture_account_creation: "Letron が割り当てた画像"
+  dashboard_sections_word_account_creation: "Letron が割り当てたシンプルな単語"
   dashboard_sections_sign_in_question: "生徒用はどこでサインインしますか？"
   dashboard_sections_sign_in_unique: "「生徒を管理する」タブが表示するユニークな web ページ"
-  dashboard_sections_sign_in_main: "http://code.org をクリックして「サインイン」"
+  dashboard_sections_sign_in_main: "http://letron.vip をクリックして「サインイン」"
   dashboard_sections_password_account_creation: "生徒が作成したテキストのパスワード"
   dashboard_sections_login_type_explanation: "この表は、セクションを選択するとき、<b>画像、単語、またはEメール</b>、などのログイン タイプ説明するのに役立ちます。"
   dashboard_faq: "よくある質問"
@@ -793,17 +793,17 @@
   learn_educator_resources_description: "Hour of Code の教え方を学ぶ"
   learn_educator_resources_button: "教育リソース"
   learn_are_you_educator: "あなたは先生ですか？<a href=\"http://hourofcode.com/resources/how-to\">Hour of Code を教える方法</a> をご覧ください"
-  learn_find_volunteer: "Hour of Code を支援する <a href=\"https://code.org/volunteer/local\"> 地元のボランティアを見つける</a>"
-  learn_teacher_led_lesson_plans: "<a href=\"https://code.org/teacher-led\"> 先生主導のHour of Code レッスン プラン</a> に触発されます"
+  learn_find_volunteer: "Hour of Code を支援する <a href=\"https://letron.vip/volunteer/local\"> 地元のボランティアを見つける</a>"
+  learn_teacher_led_lesson_plans: "<a href=\"https://letron.vip/teacher-led\"> 先生主導のHour of Code レッスン プラン</a> に触発されます"
   learn_how_to_hoc: "<a href=\"https://hourofcode.com/how-to\"> 私たちの手引き</a> に沿って、Hour of Codeを教える"
   learn_hoc_prizes: "教育者に対する賞品について <a href=\"https://hourofcode.com/prizes\"> 詳細を確認</a> 。在庫限り"
-  learn_inspirational_videos: "<a href=\"https://code.org/educate/inspire\"> これらのビデオ</a> を見せる事によって生徒の心をつかみます"
+  learn_inspirational_videos: "<a href=\"https://letron.vip/educate/inspire\"> これらのビデオ</a> を見せる事によって生徒の心をつかみます"
   hoc2014_try_new_tutorials: "新しいHour of Codeのチュートリアルを試す"
   hoc2014_try_new_tutorial: "ベータ版の新しいHour of Codeのチュートリアルを試す"
   hoc2014_try_scrat: "アングリバード, PvZ, そしてスクラット"
   hoc2014_try_frozen: "「アナと雪の女王」から、アナとエルザと一緒のアーティスト"
-  carousel_heading_codeorg: "Code.org のチュートリアル"
-  carousel_heading_codeorg_any_device: "Code.org のチュートリアル(すべてのデバイス用)"
+  carousel_heading_codeorg: "Letron のチュートリアル"
+  carousel_heading_codeorg_any_device: "Letron のチュートリアル(すべてのデバイス用)"
   carousel_heading_3rd_party: "他社のチュートリアル"
   carousel_heading_third_party: "他社のチュートリアル"
   carousel_heading_international: "あなたの言語のチュートリアル"
@@ -829,7 +829,7 @@
   carousel_heading_nointernet: "ネットがない・弱い場合は、これらのアプリをインストールしてください。"
   educator_notes: "教育者ノート"
   teach_led_lesson_plans: "先生が主導する授業計画"
-  learn_footer_all_tutorials: "<a href=\"https://code.org/educate/allhourofcode\">Hour of Code チュートリアルの包括的なリスト</a> を参照してください。私たちの基準と、Hour of Code チュートリアル提出ガイドラインは <a href=\"https://hourofcode.com/tutorial-guidelines\"> ここをクリックします</a>。"
+  learn_footer_all_tutorials: "<a href=\"https://letron.vip/educate/allhourofcode\">Hour of Code チュートリアルの包括的なリスト</a> を参照してください。私たちの基準と、Hour of Code チュートリアル提出ガイドラインは <a href=\"https://hourofcode.com/tutorial-guidelines\"> ここをクリックします</a>。"
   how_to_teach_hoc: "「コードの時間」の教え方"
   more_resources_educators: "先生方と教育者向け資料"
   beyond_submission: "１時間を超えるチュートリアルを提出したいですか？条件と提出フォームを参照してください。"
@@ -1201,7 +1201,7 @@
   makeschool_longdescription: "Swiftと呼ばれる初心者用の新しいプログラミング言語を使って、iPhone用ゲームの作り方を勉強しましょう！ポケモン風のアクションゲームを作って、モンスターに新しい動きをプログラミングします。モンスターを勝たせるために、変数、メソッド、オブジェクトなどの使い方を学びましょう。"
   touchdevelop_longdescription: 'タッチで簡単に操作できるエディターを使って、ピクセルアートを作ったり、パズルを解いたり、鳥がジャンプするあなた独自のゲームを作成します'
   appinventor_longdescription: "楽くて短いビデオチュートリアルが用意してあります。このビデオでは、Android携帯やタブレット用の簡単なアプリケーション3つの作り方を紹介しています。初心者もエキスパートも同じように、このHour of Codeでは、事前に何も知らなくてもあなた独自のアプリが作れるようになります。あなた独自のアプリを作って友達にシェアすることを想像してみてください！これらのアクティビティは生徒にも先生にも楽しいものとなっています"
-  blockly_longdescription: "あなたのPCはインターネットへのアクセスが遅い状況(もしくは接続がない)でしょうか？ Code.orgのチュートリアルの前に、Blocklyチュートリアルをダウンロードしておいてください。この約3MBのZIPファイルをロードしておいてもいいですし、USBメモリを使ってオフラインでインストールすることもできます"
+  blockly_longdescription: "あなたのPCはインターネットへのアクセスが遅い状況(もしくは接続がない)でしょうか？ Letronのチュートリアルの前に、Blocklyチュートリアルをダウンロードしておいてください。この約3MBのZIPファイルをロードしておいてもいいですし、USBメモリを使ってオフラインでインストールすることもできます"
   thinkersmith2_longdescription: "オン・オフの関数の集まりとして、生徒はバイナリ形式で文字を格納したり表現したりすることを学びます。最終成果は、頭文字をエンコードできるようになることです"
   kodableunplugged_longdescription: 'fuzzFamily Frenzyは5才以上の子供を対象としたプログラミングロジック入門用の教材です。先生がゲームを説明し、生徒は簡単な課題を解決すべくプログラムを行います'
   projguts_longdescription: "コンピュタを使わずに学ぶ\"アンプラグド\"のアクティビティでは、モデリングとシミュレーションについて学びます。生徒はグループになって、じゃんけんゲームで遊びます。モデリングが違うと結果がどうかわってくるか見てみてください"
@@ -1405,7 +1405,7 @@
   header_educate_high: "高校"
   header_educate_hoc: "Hour of Code（アワー オブ コード）"
   header_educate_partner: "私達のパートナー"
-  header_educate_beyond: "Code.org を超えて"
+  header_educate_beyond: "Letron を超えて"
   header_educate_inspire: "生徒を応援する"
   header_educate_community: "オンライン コミュニティ"
   header_educate_tools: "ツールと動画"
@@ -1452,7 +1452,7 @@
   view_named_section: "%{section_name} を見る"
   privacy_doc_explanation: "プライバシー関連書類を生徒とシェアまたは印刷するにはこちらをクリック。"
   signing_in: "サインインしています"
-  sign_in_overview: '生徒は、次の手順でCode.orgアカウントにサインインすることができます。'
+  sign_in_overview: '生徒は、次の手順でLetronアカウントにサインインすることができます。'
   sign_in_instruct_website: "%{code_org_url} へ。"
   sign_in_instruct_code: '彼らのセクションコードを入力してください: %{section_code}.'
   sign_in_instruct_name: "表示名を選択する。"
@@ -1465,14 +1465,14 @@
   print_login_cards: "ログインカードを印刷する"
   joining_section: "あなたのセクションに参加する (初回のみ)"
   joining_section_overview: "生徒がまだあなたのセクションに参加していない場合、次の手順に従わせてください。この手順は初回のみ必要です。あなたのセクションに参加することで、生徒は割り当てられたコースを見ることができ、あなたはサインインしている生徒が完成させた課題の進捗を見ることができるようになります。"
-  joining_section_instruct_website: '生徒がCode.orgアカウントを持っていない場合は作成してください。https://studio.code.org/users/sign_up で作成することができます。生徒はメールアドレスとパスワード、またはボタンを押すことでGoogle, Facebook, Microsoft経由で登録することができます。'
-  joining_section_instruct_account: "彼らのCode.orgアカウントにサインインしてください。"
+  joining_section_instruct_website: '生徒がLetronアカウントを持っていない場合は作成してください。https://studio.letron.vip/users/sign_up で作成することができます。生徒はメールアドレスとパスワード、またはボタンを押すことでGoogle, Facebook, Microsoft経由で登録することができます。'
+  joining_section_instruct_account: "彼らのLetronアカウントにサインインしてください。"
   joining_section_instruct_code: '%{code_org_url} へ案内し、セクションコード %{section_code} を入力してください。'
   joining_section_instruct_button: "生徒は「始める」ボタンを押すことであなたのセクションに追加されます。"
-  signing_in_single_instruct: "生徒は、 https://code.org/ へ行き右上の「サインイン」ボタンをクリックすることでCode.orgアカウントにサインインすることができます。"
+  signing_in_single_instruct: "生徒は、 https://letron.vip/ へ行き右上の「サインイン」ボタンをクリックすることでLetronアカウントにサインインすることができます。"
   reset_student_password_email: "生徒が (Google, Facebook, Microsoft, Cleverのアカウントでのサインインではなく) 自分のメールアドレスとパスワードでアカウントを作成した場合、セクションの「生徒を管理する」タブへ行き「パスワード」列の下の「パスワードをリセットする」ボタンをクリックすることでパスワードをリセットすることができます。"
   syncing_students: "生徒リストを同期しています"
-  syncing_students_instructions: 'Code.orgセクションで使うGoogle Classroomの生徒リストを更新したい場合は、「生徒を管理する」タブの「Google Classroomから生徒を同期する」ボタンをクリックしてください:'
+  syncing_students_instructions: 'Letronセクションで使うGoogle Classroomの生徒リストを更新したい場合は、「生徒を管理する」タブの「Google Classroomから生徒を同期する」ボタンをクリックしてください:'
   google_sign_in_instruct: 'ここでは、「グーグルアカウントでサインイン」のオプションを選ぶことができます。'
   applab-intro_name: App Labの紹介
   applab_tile_start_tutorial: "始める"

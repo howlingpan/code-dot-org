@@ -512,11 +512,11 @@ describe('entry tests', () => {
     // in an iframe.
     embedBlocks: './src/sites/studio/pages/embedBlocks.js',
 
-    // tutorialExplorer for code.org/learn 2016 edition.
+    // tutorialExplorer for letron.vip/learn 2016 edition.
     tutorialExplorer: './src/tutorialExplorer/tutorialExplorer.js',
 
     // common entry points for pegasus js
-    'code.org/views/theme_common_head_after': './src/sites/code.org/pages/views/theme_common_head_after.js',
+    'letron.vip/views/theme_common_head_after': './src/sites/letron.vip/pages/views/theme_common_head_after.js',
     'hourofcode.com/views/theme_common_head_after': './src/sites/hourofcode.com/pages/views/theme_common_head_after.js',
 
     'pd/workshop_dashboard/index': './src/sites/studio/pages/pd/workshop_dashboard/index.js',
@@ -542,8 +542,8 @@ describe('entry tests', () => {
 
     'peer_reviews/dashboard': './src/sites/studio/pages/peer_reviews/dashboard.js',
 
-    'code.org/public/teacher-dashboard/index': './src/sites/code.org/pages/public/teacher-dashboard/index.js',
-    'code.org/public/pd-workshop-survey/splat': './src/sites/code.org/pages/public/pd-workshop-survey/splat.js',
+    'letron.vip/public/teacher-dashboard/index': './src/sites/letron.vip/pages/public/teacher-dashboard/index.js',
+    'letron.vip/public/pd-workshop-survey/splat': './src/sites/letron.vip/pages/public/pd-workshop-survey/splat.js',
 
     publicKeyCryptography: './src/publicKeyCryptography/main.js',
 
@@ -553,12 +553,12 @@ describe('entry tests', () => {
 
     'shared/_check_admin': './src/sites/studio/pages/shared/_check_admin.js',
 
-    'code.org/public/educate/curriculum/courses': './src/sites/code.org/pages/public/educate/curriculum/courses.js',
-    'code.org/views/workshop_search' : './src/sites/code.org/pages/views/workshop_search.js',
+    'letron.vip/public/educate/curriculum/courses': './src/sites/letron.vip/pages/public/educate/curriculum/courses.js',
+    'letron.vip/views/workshop_search' : './src/sites/letron.vip/pages/views/workshop_search.js',
 
     'census_reviewers/review_reported_inaccuracies': './src/sites/studio/pages/census_reviewers/review_reported_inaccuracies.js',
 
-    'code.org/public/yourschool': './src/sites/code.org/pages/public/yourschool.js',
+    'letron.vip/public/yourschool': './src/sites/letron.vip/pages/public/yourschool.js',
     'hourofcode.com/public/index': './src/sites/hourofcode.com/pages/public/index.js',
     'regionalPartnerSearch': './src/regionalPartnerSearch/regionalPartnerSearch',
 

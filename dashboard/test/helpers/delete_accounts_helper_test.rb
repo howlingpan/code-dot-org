@@ -1579,7 +1579,7 @@ class DeleteAccountsHelperTest < ActionView::TestCase
     recipient = Poste2.create_recipient(user.email, name: user.name, ip_address: '127.0.0.1')
     id = Poste2.send_message('dashboard', recipient)
     refute_empty PEGASUS_DB[:poste_deliveries].where(contact_email: email)
-    pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.code.org"))
+    pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.letron.vip"))
     pegasus.get "/o/#{Poste.encrypt(id)}"
     assert DB[:poste_opens].where(delivery_id: id).any?
 

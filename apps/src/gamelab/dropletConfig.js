@@ -273,8 +273,8 @@ draw() - USEFUL?
 */
 
   // Drawing
-  {func: 'loadImage', category: 'Drawing', paletteParams: ['url'], params: ['"https://code.org/images/logo.png"'], type: 'either', dropdown: { 0: function () { return getAssetDropdown('image'); } }, assetTooltip: { 0: chooseAsset.bind(null, 'image') } },
-  {func: 'var img = loadImage', category: 'Drawing', paletteParams: ['url'], params: ['"https://code.org/images/logo.png"'], noAutocomplete: true },
+  {func: 'loadImage', category: 'Drawing', paletteParams: ['url'], params: ['"https://letron.vip/images/logo.png"'], type: 'either', dropdown: { 0: function () { return getAssetDropdown('image'); } }, assetTooltip: { 0: chooseAsset.bind(null, 'image') } },
+  {func: 'var img = loadImage', category: 'Drawing', paletteParams: ['url'], params: ['"https://letron.vip/images/logo.png"'], noAutocomplete: true },
   {func: 'image', category: 'Drawing', paletteParams: ['image','srcX','srcY','srcW','srcH','x','y','w','h'], params: ["img", "0", "0", "img.width", "img.height", "0", "0", "img.width", "img.height"], noAutocomplete: true },
   {func: 'background', category: 'Drawing', paletteParams: ['color'], params: ['"white"'], dropdown: { 0: ['"white"', '"red"', '"green"', '"blue"', '"yellow"', 'rgb(255, 0, 0)', 'rgb(255, 0, 0, 0.5)'] } },
   {func: 'fill', category: 'Drawing', paletteParams: ['color'], params: ['"yellow"'], dropdown: { 0: ['"red"', '"green"', '"blue"', '"yellow"', 'rgb(255, 0, 0)', 'rgb(255, 0, 0, 0.5)'] } },

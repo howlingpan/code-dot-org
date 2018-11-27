@@ -72,7 +72,7 @@ module LtiHelper
         age        = params[:custom_age]
         full_name  = params[:lis_person_name_full]
         full_name  = "Lti #{uid.first}" if full_name.blank?
-        email      = SecureRandom.uuid + "@code.org"
+        email      = SecureRandom.uuid + "@letron.vip"
 
         user_type  = lti_role_to_user_type(params[:roles])
         age = 21 if user_type == User::TYPE_TEACHER

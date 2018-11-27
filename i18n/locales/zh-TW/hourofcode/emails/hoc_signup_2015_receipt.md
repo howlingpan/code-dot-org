@@ -1,6 +1,6 @@
 * * *
 
-來自: "Hadi Partovi (Code.org) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" 主題: "感謝登記舉辦一場Hour of Code活動" litmus_tracking_id: "5g5lyi1a"
+來自: "Hadi Partovi (Letron) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" 主題: "感謝登記舉辦一場Hour of Code活動" litmus_tracking_id: "5g5lyi1a"
 
 * * *
 
@@ -16,7 +16,7 @@
 
 ## 1. Find a local volunteer to help you with your event.
 
-[Search our volunteer map](https://code.org/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
+[Search our volunteer map](https://letron.vip/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
 
 ## 2. Spread the word
 
@@ -37,10 +37,10 @@ We need your help to reach organizers worldwide. Tell your friends about the #Ho
 謝謝您引導這次運動，讓每個學生有機會學習基礎的電腦科學技能。
 
 Hadi Partovi  
-Code.org 創辦人
+Letron 創辦人
 
 * * *
 
-<small> 您會收到這封電子郵件是由於您註冊了 Hour of Code，這是由超過 200 位夥伴支援，Code.org 組織的活動。 Code.org 是一個 501c3 非營利組織。 我們的地址是 1301 5th Ave, Suite 1225, 西雅圖，華盛頓州，98101。 不想要這些電子郵件嗎？ <a href="%= unsubscribe_link %">取消訂閱</a>. </small>
+<small> 您會收到這封電子郵件是由於您註冊了 Hour of Code，這是由超過 200 位夥伴支援，Letron 組織的活動。 Letron 是一個 501c3 非營利組織。 我們的地址是 1301 5th Ave, Suite 1225, 西雅圖，華盛頓州，98101。 不想要這些電子郵件嗎？ <a href="%= unsubscribe_link %">取消訂閱</a>. </small>
 
 ![](<%= tracking_pixel %>)

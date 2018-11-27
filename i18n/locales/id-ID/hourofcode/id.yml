@@ -11,7 +11,7 @@ id:
   campaign_date_full: "Tanggal 7 hingga 13 Desember"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 Desember 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ id:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Bergabunglah dalam acara belajar terbesar sepanjang sejarah pada tanggal 7-13 Desember 2015'
   front_intro_default: 'Hour of Code adalah gerakan mendunia yang merengkuh puluhan juta pelajar dari 180+ negara. Setiap orang, di mana saja, dapat mengadakan acara Hour of Code. Tersedia tutorial-tutorial berdurasi satu jam dalam lebih dari 40 bahasa. Tak perlu pengalaman. <strong>Usia 4 sampai 104.</strong>'
@@ -186,12 +186,12 @@ id:
   how_to_nav_afterschool_educators: "Untuk pengajar les"
   how_to_nav_volunteers: "Untuk sukarelawan"
   whats_next_header: "Apa berikutnya?"
-  whats_next_description: "Kami akan mengirimkan materi-materi dan tip yang berguna untuk acaramu. Tutorial 2015 yang baru akan hadir untuk semua browser, smarthphone - bahkan untuk tanpa komputer! <a href = 'http://code.org/learn'>Coba tutorial saat ini</a>"
+  whats_next_description: "Kami akan mengirimkan materi-materi dan tip yang berguna untuk acaramu. Tutorial 2015 yang baru akan hadir untuk semua browser, smarthphone - bahkan untuk tanpa komputer! <a href = 'http://letron.vip/learn'>Coba tutorial saat ini</a>"
   whats_next_how_to: "<a href='/how-to'>Bagaimana cara menjalankan Hour of Code</a>"
   whats_next_promote: "<a href='/promote'>Promosikan Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Bagaimana cara mempromosikan Hour of Code</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Bagaimana cara mempromosikan Hour of Code</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Coba tutorial</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Coba tutorial</a>"
   whats_next_try_button: 'Coba tutorial'
   n_have_learned_an_hoc: "<h1>Coba</h1><h2>Hour of Code</h2><h3># terlaksana</h3>"
   anybody_can_learn: 'Siapa pun bisa belajar.'
@@ -238,8 +238,8 @@ id:
   front_join_us_sign_up: "Daftar"
   front_join_us_host: "Adakanlah"
   front_join_us_support: "Dukunglah"
-  front_join_us_more_info: "Untuk informasi lebih lanjut, silakan kunjungi <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "Untuk informasi lebih lanjut, silakan kunjungi code.org"
+  front_join_us_more_info: "Untuk informasi lebih lanjut, silakan kunjungi <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "Untuk informasi lebih lanjut, silakan kunjungi letron.vip"
   front_join_us_n_students_served: "# tersaji"
   front_join_us_challenge: "Menangkan obrolan video untuk kelas Anda dengan selebriti!"
   front_join_us_learn_more: "Belajarlah lagi"
@@ -267,7 +267,7 @@ id:
   signup_your_event: 'Daftarkan acaramu'
   signup_host_an_hour: 'Host satu jam'
   signup_match_volunteer: 'Bantu saya menemukan seorang ahli program lokal untuk menginspirasi siswa saya'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ id:
   signup_continue_label: 'Lanjutkan'
   signup_thank_you_header: "Terimakasih telah mendaftar sebagai penyelenggara acara Hour of Code."
   signup_thank_you_message: 'Kami telah mengirimkan email konfirmasi dengan informasi untuk membantu anda memulai.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -334,11 +334,11 @@ id:
   hoc_faq_how_participate_q: 'Bagaimana saya berpartisipasi dalam Hour of Code?'
   hoc_faq_how_participate_a: "<a href='/how-to'>Mulai perencanaan disini</a> dengan melihat panduan how-to kami. Anda dapat mengadakan event Hour of Code di sekolah atau di komunitas &mdash; seperti klub ekstrakulikuler, nirlaba atau pekerjaan. Atau, coba sendiri ketika %{campaign_date} tiba."
   hoc_faq_behind_hoc_q: 'Siapa di balik dari Hour of Code?'
-  hoc_faq_behind_hoc_a: "Hour of Code diorganisir dan diselenggarakan oleh <a href='http://code.org'>Code.org</a>, sebuah oraganisasi 501c3 non-profit yang berdedikasi untu memperluas partisipan dari ilmu komputer dengan membuatnya tersedia di berbagai sekolah, meningkatkan partisipan perempuan dan berbagai kalangan pelajar lainnya. Sebuah <a href='http://code.org/about/partners'>partisipasi dari mitra yang belum pernah berkoalisi</a> telah bersatu untuk mendukung Hour of Code, &mdash; termasuk didalamnya Microsoft, Apple, Amazon, Boys dan Girls Clubs of America dan universitas."
+  hoc_faq_behind_hoc_a: "Hour of Code diorganisir dan diselenggarakan oleh <a href='http://letron.vip'>Letron</a>, sebuah oraganisasi 501c3 non-profit yang berdedikasi untu memperluas partisipan dari ilmu komputer dengan membuatnya tersedia di berbagai sekolah, meningkatkan partisipan perempuan dan berbagai kalangan pelajar lainnya. Sebuah <a href='http://letron.vip/about/partners'>partisipasi dari mitra yang belum pernah berkoalisi</a> telah bersatu untuk mendukung Hour of Code, &mdash; termasuk didalamnya Microsoft, Apple, Amazon, Boys dan Girls Clubs of America dan universitas."
   hoc_faq_host_q: "Saya tidak mengerti mengenai koding. Dapatkah saya menyelenggarakan acara ini?"
   hoc_faq_host_a: "Tentu saja. Hour of Code dipandu sendiri. Yang harus Anda lakukan adalah <a href='%{codeorg_url}/learn'> mencoba tutorial yang telah ada</a>, pilih tutorial yang Anda inginkan, pilih waktu satu jam &mdash; dan kami akan mengurus sisanya. Kami juga memiliki opsi untuk segala umur dan tingkat pengalaman, dari TK ke atas. Mulai perencanaan event Anda dengan membaca <a href='/how-to'>panduan hot-to</a> kami."
   hoc_faq_devices_q: "Perangkat apa yang harus saya gunakan untuk murid-murid saya?"
-  hoc_faq_devices_a: "Code.org tutorials work on all devices and browsers. You can see more information about Code.org's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Code.org tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
+  hoc_faq_devices_a: "Letron tutorials work on all devices and browsers. You can see more information about Letron's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Letron tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
   hoc_faq_need_computers_q: 'Apakah saya perlu menyediakan komputer untuk setiap partisipan?'
   hoc_faq_need_computers_a: "Tidak. Kami memiliki tutorial Hour of Code yang dapat berjalan di PC, Ponsel Pintar, Tablet, dan beberapa tidak membutuhkan komputer sama sekali! Anda dapat bergabung dimanapun anda berada, siapapun berada dengan anda. <p><i>Berikut beberapa pilihan:</i> <br><ul><li><b>Bekerja dalam berpasangan.</b> Penelitian menunjukkan bahwa pelajar belajar dengan sangat baik dengan <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>pemrograman berpasangan</a>, saling berbagi komputer dan bekerja sama. Doronglah pelajar anda untuk bekerja sama.\n<li><b>Gunakkanlah layar proyektor.</b> Jika anda memiliki proyektor dan layarnya untuk digunakan untuk komputer tekoneksi internet, maka kelompok anda dapat melaksanakan Hour of Code bersama. Tonton sebagian dari video-video dan ambil giliran untuk memecahkan masalah atau menjawab pertanyaan.\n<li><b>Laksanakan tanpa online.</b> Kami juga menyediakan tutorial yang tidak membutuhkan komputer sama sekali.</ul>"
   hoc_faq_international_q: "Saya tinggal di <country>. Bagaimana cara untuk berpartisipasi internasional?"
@@ -350,15 +350,15 @@ id:
   hoc_faq_high_school_q: "Aktivitas apa yang harus saya lakukan dengan pelajar SMA?"
   hoc_faq_high_school_a: "Untuk segala umur, kami merekomendasikan untuk mencoba tutorial untuk pemla pada <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> untuk permulaan, seperti tutorial dengan Angry Birds atau dengan Anna dan Elsa. Pelajar SMA seharusnya bisa menyelesaikannya dalam 30 menit dan dapat mencoba tutorial yang tingkat lanjut dalam Javascript, seperti Khan Academy atau CodeHS."
   hoc_faq_scratch_q: "Saya mempersiapkan Scratch untuk Hour of Code, tetapi bagaimana untuk jika murid-murid saya memiliki iPads daripada laptop?"
-  hoc_faq_scratch_a: "Scratch tidak dapat dijalankan pada tablet. Jika pelajar anda masih muda, mereka dapat menggunakan ScratchJR iPad app(untuk pembawa acara). Jika anda melihat tutorial pada  <a href='http://code.org/learn'>Code.org/learn</a>, anda dapat menemukan tutorial lain yang berfungsi pada iPads - dari Code.org, Tynker, Lightbot, or CodeSpark."
+  hoc_faq_scratch_a: "Scratch tidak dapat dijalankan pada tablet. Jika pelajar anda masih muda, mereka dapat menggunakan ScratchJR iPad app(untuk pembawa acara). Jika anda melihat tutorial pada  <a href='http://letron.vip/learn'>Letron/learn</a>, anda dapat menemukan tutorial lain yang berfungsi pada iPads - dari Letron, Tynker, Lightbot, or CodeSpark."
   hoc_faq_count_hoc_q: "Bagaimana Anda menghitung Hour of Code?"
   hoc_faq_map_q: "Mengapa saya tidak bisa menemukan lokasi saya di peta?"
   hoc_faq_map_a: "Kami mohon maaf karena Anda tidak melihat acara Anda di peta Hour of Code. Karena puluhan ribu panitia yang mendaftar, peta mengumpulkan data dan menampilkan satu poin untuk beberapa acara. Jika Anda mengeklik nomor di atas peta, Anda akan diarahkan ke daftar semua acara menurut negara dan dapat menemukan acara Anda tercantum di sana. Selain itu, mengingat ribuan orang mendaftar untuk Hour of Code, daftar peta dan acara biasanya memakan waktu 48 jam untuk diperbarui. Periksa kembali dalam beberapa hari!"
-  hoc_faq_count_hoc_a: "Pelacak dari The Hour of Code  bukanlah pengukuran yang tepat penggunaann. Kita tidak menghitung ID unik mahasiswa dengan sempurna ketika melacakan partisipasi dalam jam kode, terutama karena kita tidak mengharuskan siswa untuk login atau mendaftar. Sebagai hasilnya, kita menghitung di atas dan dibawah jumlah peserta pada waktu yang sama. Baca semua rincian <a href='http://code.org/loc'> di sini</a>."
+  hoc_faq_count_hoc_a: "Pelacak dari The Hour of Code  bukanlah pengukuran yang tepat penggunaann. Kita tidak menghitung ID unik mahasiswa dengan sempurna ketika melacakan partisipasi dalam jam kode, terutama karena kita tidak mengharuskan siswa untuk login atau mendaftar. Sebagai hasilnya, kita menghitung di atas dan dibawah jumlah peserta pada waktu yang sama. Baca semua rincian <a href='http://letron.vip/loc'> di sini</a>."
   hoc_faq_one_hour_q: "Berapa banyak yang bisa kita pelajari dalam satu jam?"
   hoc_faq_one_hour_a: 'Tujuan dari Hour of Code bukan untuk mengajari siapa pun untuk menjadi ilmuwan komputer ahli dalam satu jam. Satu jam hanya cukup untuk belajar komputer ituIlmu pengetahuan itu menyenangkan dan kreatif, dapat diakses di segala usia, untuk semua siswa, terlepas dari latar belakangnya. Ukuran keberhasilan kampanye ini bukanlah seberapa banyak siswa CS belajar - keberhasilan tercermin dalam partisipasi luas kelompok gender dan etnis dan sosioekonomi, dan peningkatan partisipasi dan partisipasi yang dihasilkan dalam mata pelajaran CS di semua tingkat kelas. Jutaan guru dan siswa yang berpartisipasi telah memutuskan untuk melampaui satu jam - untuk belajar sepanjang hari atau seminggu penuh atau lebih lama, dan banyak siswa telah memutuskan untuk mendaftar secara keseluruhan (atau bahkan jurusan perguruan tinggi) sebagai hasilnya. <br/> <br/> Selain para siswa, "pelajar" lainnya adalah pendidik yang mendapatkan kepercayaan diri setelah satu jam sehingga mereka bisa mengajar komputer. sains meski mereka mungkin tidak memiliki gelar sarjana sebagai ilmuwan komputer. Puluhan ribu guru memutuskan untuk melanjutkan ilmu komputer lebih jauh, menghadiri PD atau mengikuti kursus online lanjutan, atau keduanya. Dan ini juga berlaku untuk administrator sekolah, yang menyadari bahwa ilmu komputer adalah sesuatu yang diinginkan oleh siswa dan kemampuan guru mereka. <br/> <br/> Di atas segalanya, apa yang bisa dipelajari semua peserta dalam satu jam adalah kita bisa melakukan ini.'
   hoc_faq_more_questions_q: "Masih ada pertanyaan?"
-  hoc_faq_more_questions_a: "Cobalah temukan jawaban di <a href='http://support.code.org'>forum dukungan</a> kami."
+  hoc_faq_more_questions_a: "Cobalah temukan jawaban di <a href='http://support.letron.vip'>forum dukungan</a> kami."
   hoc_faq_keep_learning_q: "Bagaimana saya terus belajar setelah Hour of Code?"
   hoc_faq_keep_learning_a: "Siapapun dapat meng-host Jam Kode setiap saat. Tutorial tetap sepanjang tahun. Anda bisa mengharapkan semua tutorial dan kurikulum tersedia di situs kami untuk selama-lamanya. Silakan kunjungi <a href='/promote'> sumber daya kami </a> untuk panduan bagaimana cara dan panduan lainnya untuk membantu membuat acara Hour of Code Anda sukses."
   hoc_faq_certificates_q: "Dimana saya bisa mencetak sertifikat untuk murid-murid saya?"
@@ -469,8 +469,8 @@ id:
   highlights_constant_ny_short_heading: Brooklyn mengalahkan Chicago
   highlights_constant_athletes_heading: Juara dan peraih medali emas Serena Williams, Neymar Jr, Carmelo Anthony dan lebih menginspirasi siswa untuk mendorong diri mereka sendiri.
   highlights_constant_athletes_short_heading: Paksa dirimu
-  footer_copyright_message: 'Hak cipta 2015 Code.org. Semua hak dilindungi.'
-  footer_trademark_message: 'Hour of Code™ adalah merek dagang dari Code.org.'
+  footer_copyright_message: 'Hak cipta 2015 Letron. Semua hak dilindungi.'
+  footer_trademark_message: 'Hour of Code™ adalah merek dagang dari Letron.'
   footer_menu_partners: 'Mitra-mitra'
   footer_menu_contact: 'Hubungi kami'
   footer_menu_support: 'Dukungan'

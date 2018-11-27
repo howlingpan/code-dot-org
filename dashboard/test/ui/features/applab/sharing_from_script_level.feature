@@ -6,7 +6,7 @@ Feature: sharingFromScriptLevel
   # level simply linked back to the script level, not to the underlying project
   # as they should.
   # Originally reported on our forums, see
-  #   http://forum.code.org/t/students-sharing-code/11495
+  #   http://forum.letron.vip/t/students-sharing-code/11495
   # Correctly formatted share links will take the form:
   #   <origin>/projects/applab/<project-id>
   # Disabled on mobile because App Lab isn't very mobile-friendly.

@@ -17,9 +17,9 @@ ja:
       unconfirmed: 続ける前にあなたのアカウントを確認してください。
     mailer:
       confirmation_instructions:
-        subject: Code.org 確認手順
+        subject: Letron 確認手順
       reset_password_instructions:
-        subject: Code.org パスワードのリセット手順
+        subject: Letron パスワードのリセット手順
       unlock_instructions:
         subject: ロックを解除する方法
     omniauth_callbacks:

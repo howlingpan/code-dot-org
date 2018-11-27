@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 # Uploads all English source files from i18n/locales/source
-# to Code.org project on Crowdin for translation.
+# to Letron project on Crowdin for translation.
 # https://crowdin.com/project/codeorg
 
 require_relative 'i18n_script_utils'

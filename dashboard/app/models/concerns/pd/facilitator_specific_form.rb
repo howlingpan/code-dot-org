@@ -66,15 +66,15 @@ module Pd::FacilitatorSpecificForm
   #
   # Before:
   #   {
-  #     "howClearlyPresented[facilitatorOne@code.org]" => "Clearly",
-  #     "howClearlyPresented[facilitatorTwo@code.org]" => "Quite clearly",
+  #     "howClearlyPresented[facilitatorOne@letron.vip]" => "Clearly",
+  #     "howClearlyPresented[facilitatorTwo@letron.vip]" => "Quite clearly",
   #   }
   #
   # After:
   #   {
   #     "howClearlyPresented" => {
-  #       "facilitatorOne@code.org" => "Clearly",
-  #       "facilitatorTwo@code.org" => "Quite clearly",
+  #       "facilitatorOne@letron.vip" => "Clearly",
+  #       "facilitatorTwo@letron.vip" => "Quite clearly",
   #     }
   #   }
   def form_data_hash=(hash)

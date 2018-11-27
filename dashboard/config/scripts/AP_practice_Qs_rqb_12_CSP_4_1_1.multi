@@ -5,7 +5,7 @@ wrong '`Hello. Is anyone there?`'
 wrong '`Hello. Better late than never.`'
 markdown <<MARKDOWN
 Consider the code segment below. 
-<br><img src="https://curriculum.code.org/media/uploads/csp/c1ed99b57bb3fea817238ff5ae87153e" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/c1ed99b57bb3fea817238ff5ae87153e" width="300"><br>
 If the variables `onTime` and `absent` both have the value `false`, what is displayed as a result of running the code segment?
 MARKDOWN
 teacher_markdown <<MARKDOWN

@@ -51,7 +51,7 @@ const stageData = [
         kind: LevelKind.unplugged,
         icon: null,
         title: "Unplugged Activity",
-        url: "http://localhost-studio.code.org:3000/s/course3/stage/1/puzzle/1",
+        url: "http://localhost-studio.letron.vip:3000/s/course3/stage/1/puzzle/1",
         previous: false,
         is_concept_level: false,
       },
@@ -62,7 +62,7 @@ const stageData = [
           kind: LevelKind.assessment,
           icon: null,
           title: 1,
-          url: "http://localhost-studio.code.org:3000/s/course3/stage/1/puzzle/2",
+          url: "http://localhost-studio.letron.vip:3000/s/course3/stage/1/puzzle/2",
           is_concept_level: false,
       },
       {
@@ -72,13 +72,13 @@ const stageData = [
           kind: LevelKind.assessment,
           icon: null,
           title: 2,
-          url: "http://localhost-studio.code.org:3000/s/course3/stage/1/puzzle/3",
+          url: "http://localhost-studio.letron.vip:3000/s/course3/stage/1/puzzle/3",
           next: [2, 1],
           is_concept_level: false,
       }
     ],
-    lesson_plan_html_url: "//localhost.code.org:3000/curriculum/course3/1/Teacher",
-    lesson_plan_pdf_url: "//localhost.code.org:3000/curriculum/course3/1/Teacher.pdf"
+    lesson_plan_html_url: "//localhost.letron.vip:3000/curriculum/course3/1/Teacher",
+    lesson_plan_pdf_url: "//localhost.letron.vip:3000/curriculum/course3/1/Teacher.pdf"
   },
   // stage 2 (hacked to have 3 levels)
   {
@@ -100,7 +100,7 @@ const stageData = [
         kind: LevelKind.puzzle,
         icon: null,
         title: 1,
-        url: "http://localhost-studio.code.org:3000/s/course3/stage/2/puzzle/1",
+        url: "http://localhost-studio.letron.vip:3000/s/course3/stage/2/puzzle/1",
         previous: [1, 3],
         is_concept_level: false,
       }, {
@@ -110,7 +110,7 @@ const stageData = [
         kind: LevelKind.puzzle,
         icon: null,
         title: 2,
-        url: "http://localhost-studio.code.org:3000/s/course3/stage/2/puzzle/2",
+        url: "http://localhost-studio.letron.vip:3000/s/course3/stage/2/puzzle/2",
         is_concept_level: false,
       }, {
         ids: [341],
@@ -119,13 +119,13 @@ const stageData = [
         kind: LevelKind.puzzle,
         icon: null,
         title: 3,
-        url: "http://localhost-studio.code.org:3000/s/course3/stage/2/puzzle/3",
+        url: "http://localhost-studio.letron.vip:3000/s/course3/stage/2/puzzle/3",
         is_concept_level: false,
       }
     ],
-    lesson_plan_html_url: "//localhost.code.org:3000/curriculum/course3/2/Teacher",
-    lesson_plan_pdf_url: "//localhost.code.org:3000/curriculum/course3/2/Teacher.pdf",
-    stage_extras_level_url: "//localhost.code.org:3000/s/course3/stage/2/extras"
+    lesson_plan_html_url: "//localhost.letron.vip:3000/curriculum/course3/2/Teacher",
+    lesson_plan_pdf_url: "//localhost.letron.vip:3000/curriculum/course3/2/Teacher.pdf",
+    stage_extras_level_url: "//localhost.letron.vip:3000/s/course3/stage/2/extras"
   }
 ];
 
@@ -577,7 +577,7 @@ describe('progressReduxTest', () => {
         [
           {
             status: 'not_tried',
-            url: "http://localhost-studio.code.org:3000/s/course3/stage/1/puzzle/1",
+            url: "http://localhost-studio.letron.vip:3000/s/course3/stage/1/puzzle/1",
             name: undefined,
             progression: undefined,
             readonlyAnswers: undefined,
@@ -591,7 +591,7 @@ describe('progressReduxTest', () => {
           },
           {
             status: 'not_tried',
-            url: "http://localhost-studio.code.org:3000/s/course3/stage/1/puzzle/2",
+            url: "http://localhost-studio.letron.vip:3000/s/course3/stage/1/puzzle/2",
             name: undefined,
             progression: undefined,
             readonlyAnswers: undefined,
@@ -605,7 +605,7 @@ describe('progressReduxTest', () => {
           },
           {
             status: 'not_tried',
-            url: "http://localhost-studio.code.org:3000/s/course3/stage/1/puzzle/3",
+            url: "http://localhost-studio.letron.vip:3000/s/course3/stage/1/puzzle/3",
             name: undefined,
             progression: undefined,
             readonlyAnswers: undefined,
@@ -621,7 +621,7 @@ describe('progressReduxTest', () => {
         [
           {
             status: 'not_tried',
-            url: "http://localhost-studio.code.org:3000/s/course3/stage/2/puzzle/1",
+            url: "http://localhost-studio.letron.vip:3000/s/course3/stage/2/puzzle/1",
             name: undefined,
             progression: undefined,
             readonlyAnswers: undefined,
@@ -635,7 +635,7 @@ describe('progressReduxTest', () => {
           },
           {
             status: 'perfect',
-            url: "http://localhost-studio.code.org:3000/s/course3/stage/2/puzzle/2",
+            url: "http://localhost-studio.letron.vip:3000/s/course3/stage/2/puzzle/2",
             name: undefined,
             progression: undefined,
             readonlyAnswers: undefined,
@@ -649,7 +649,7 @@ describe('progressReduxTest', () => {
           },
           {
             status: 'attempted',
-            url: "http://localhost-studio.code.org:3000/s/course3/stage/2/puzzle/3",
+            url: "http://localhost-studio.letron.vip:3000/s/course3/stage/2/puzzle/3",
             name: undefined,
             progression: undefined,
             readonlyAnswers: undefined,
@@ -1028,7 +1028,7 @@ describe('progressReduxTest', () => {
 
 
       assert.strictEqual(stageExtrasUrl(state, state.stages[0].id),
-        "//localhost.code.org:3000/s/course3/stage/2/extras");
+        "//localhost.letron.vip:3000/s/course3/stage/2/extras");
     });
   });
 

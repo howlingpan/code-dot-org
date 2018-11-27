@@ -352,9 +352,9 @@ fr:
         algebrademo:
           title: Démo de l'algèbre
           description: Une poignée de puzzles pour montrer l'environnement et le langage
-            de programmation utilisé dans Code.org CS en algèbre
+            de programmation utilisé dans Letron CS en algèbre
           description_short: Une poignée de puzzles pour montrer l'environnement et
-            le langage de programmation utilisé dans Code.org CS en algèbre
+            le langage de programmation utilisé dans Letron CS en algèbre
           stages:
             Defining Simple Functions:
               name: Définir des fonctions simples

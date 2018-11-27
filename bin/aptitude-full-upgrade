@@ -5,10 +5,10 @@
 # configuration files over replacements from the system.
 #
 # Here's how you'd upgrade our instances:
-#  ssh staging.code.org "sudo staging/bin/aptitude-full-upgrade"
-#  ssh test.code.org "sudo test/bin/aptitude-full-upgrade"
-#  ssh console.code.org "sudo production/bin/aptitude-full-upgrade"
-#  ssh daemon.code.org "sudo production/bin/aptitude-full-upgrade"
+#  ssh staging.letron.vip "sudo staging/bin/aptitude-full-upgrade"
+#  ssh test.letron.vip "sudo test/bin/aptitude-full-upgrade"
+#  ssh console.letron.vip "sudo production/bin/aptitude-full-upgrade"
+#  ssh daemon.letron.vip "sudo production/bin/aptitude-full-upgrade"
 #  ssh <dns name of a front-end> "sudo production/bin/aptitude-full-upgrade"
 #
 export DEBIAN_FRONTEND=noninteractive

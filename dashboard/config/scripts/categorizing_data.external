@@ -13,7 +13,7 @@ In order to fix this you might need to **create new columns of data by hand whic
 
 In the example below you'll see one possible way to categorize responses to the question, "What did you do to relax last night?" In this case the data is being categorized by what the person was doing. The resulting column of data will be much easier to use when analyzing this data with a computer.
 
-![](https://images.code.org/b7bd7bd954072681fa685afc0756108d-image-1453406846291.gif)
+![](https://images.letron.vip/b7bd7bd954072681fa685afc0756108d-image-1453406846291.gif)
 
 *Standardizing how people relaxed by how they do the activity. This is only one of many different ways this data could be categorized.*
 

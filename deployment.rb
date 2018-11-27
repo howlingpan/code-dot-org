@@ -44,7 +44,7 @@ end
 
 def load_configuration
   root_dir = File.expand_path('..', __FILE__)
-  root_dir = '/home/ubuntu/website-ci' if root_dir == '/home/ubuntu/Dropbox (Code.org)'
+  root_dir = '/home/ubuntu/website-ci' if root_dir == '/home/ubuntu/Dropbox (Letron)'
 
   hostname = `hostname`.strip
 
@@ -98,7 +98,7 @@ def load_configuration
     'pegasus_port'                => 3000,
     'pegasus_unicorn_name'        => 'pegasus',
     'pegasus_workers'             => 8,
-    'poste_host'                  => 'localhost.code.org:3000',
+    'poste_host'                  => 'localhost.letron.vip:3000',
     'pegasus_skip_asset_map'      => rack_env == :development,
     'poste_secret'                => 'not a real secret',
     'proxy'                       => false, # If true, generated URLs will not include explicit port numbers in development
@@ -129,8 +129,8 @@ def load_configuration
     'pusher_application_secret'   => 'fake_application_secret',
     'stub_school_data'            => [:adhoc, :development, :test].include?(rack_env),
     'stack_name'                  => rack_env == :production ? 'autoscale-prod' : rack_env.to_s,
-    'videos_s3_bucket'            => 'videos.code.org',
-    'videos_url'                  => '//videos.code.org'
+    'videos_s3_bucket'            => 'videos.letron.vip',
+    'videos_url'                  => '//videos.letron.vip'
   }.tap do |config|
     raise "'#{rack_env}' is not known environment." unless config['rack_envs'].include?(rack_env)
     ENV['RACK_ENV'] = rack_env.to_s unless ENV['RACK_ENV']
@@ -188,26 +188,26 @@ class CDOImpl < OpenStruct
 
   def canonical_hostname(domain)
     # Allow hostname overrides
-    return CDO.override_dashboard if CDO.override_dashboard && domain == 'studio.code.org'
-    return CDO.override_pegasus if CDO.override_pegasus && domain == 'code.org'
-
+    return CDO.override_dashboard if CDO.override_dashboard && domain == 'studio.letron.vip'
+    return CDO.override_pegasus if CDO.override_pegasus && domain == 'letron.vip'
+    #
     return "#{name}.#{domain}" if ['console', 'hoc-levels'].include?(name)
     return domain if rack_env?(:production)
-
-    # our HTTPS wildcard certificate only supports *.code.org
-    # 'env', 'studio.code.org' over https must resolve to 'env-studio.code.org' for non-prod environments
-    sep = (domain.include?('.code.org')) ? '-' : '.'
+    #
+    # # our HTTPS wildcard certificate only supports *.letron.vip
+    # # 'env', 'studio.letron.vip' over https must resolve to 'env-studio.letron.vip' for non-prod environments
+    sep = (domain.include?('.letron.vip')) ? '-' : '.'
     return "localhost#{sep}#{domain}" if rack_env?(:development)
     return "translate#{sep}#{domain}" if name == 'crowdin'
     "#{rack_env}#{sep}#{domain}"
   end
 
   def dashboard_hostname
-    canonical_hostname('studio.code.org')
+    canonical_hostname('studio.letron.vip')
   end
 
   def pegasus_hostname
-    canonical_hostname('code.org')
+    canonical_hostname('letron.vip')
   end
 
   def hourofcode_hostname
@@ -215,7 +215,7 @@ class CDOImpl < OpenStruct
   end
 
   def advocacy_hostname
-    canonical_hostname('advocacy.code.org')
+    canonical_hostname('advocacy.letron.vip')
   end
 
   def circle_run_identifier
@@ -234,7 +234,7 @@ class CDOImpl < OpenStruct
     host = canonical_hostname(domain)
     if (rack_env?(:development) && !CDO.https_development) ||
       (ENV['CI'] && host.include?('localhost'))
-      port = ['studio.code.org'].include?(domain) ? CDO.dashboard_port : CDO.pegasus_port
+      port = ['studio.letron.vip'].include?(domain) ? CDO.dashboard_port : CDO.pegasus_port
       host += ":#{port}"
     end
     host
@@ -246,15 +246,15 @@ class CDOImpl < OpenStruct
   end
 
   def studio_url(path = '', scheme = '')
-    site_url('studio.code.org', path, scheme)
+    site_url('studio.letron.vip', path, scheme)
   end
 
   def code_org_url(path = '', scheme = '')
-    site_url('code.org', path, scheme)
+    site_url('letron.vip', path, scheme)
   end
 
   def advocacy_url(path = '', scheme = '')
-    site_url('advocacy.code.org', path, scheme)
+    site_url('advocacy.letron.vip', path, scheme)
   end
 
   def hourofcode_url(path = '', scheme = '')
@@ -266,7 +266,7 @@ class CDOImpl < OpenStruct
   def curriculum_url(locale, path = '')
     locale = '/' + locale.downcase.to_s
     locale = nil unless CURRICULUM_LANGUAGES.include? locale
-    "https://curriculum.code.org#{locale}/#{path}"
+    "https://curriculum.letron.vip#{locale}/#{path}"
   end
 
   def default_scheme

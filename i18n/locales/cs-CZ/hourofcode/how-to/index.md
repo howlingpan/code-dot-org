@@ -41,8 +41,8 @@ Rozdejte sluchátka studentům, nebo požádejte studenty, aby si přinesli své
 
 **Ukažte inspirativní video:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
-- Najděte další inspirativní [zdroje](%= resolve_url('https://code.org/inspire') %) a [videa](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- Najděte další inspirativní [zdroje](%= resolve_url('https://letron.vip/inspire') %) a [videa](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
 
@@ -85,7 +85,7 @@ Rozdejte sluchátka studentům, nebo požádejte studenty, aby si přinesli své
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [Tisk "Udělal jsem Hodinu kódu!"](%= resolve_url('/promote/resources#stickers') %) nálepek pro vaše studenty.
-- [Objednejte si volitelné trička](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) pro vaší školu.
+- [Objednejte si volitelné trička](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) pro vaší školu.
 - Sdílejte fotografie a videa události Hodiny kódu na sociálních médií. Použijte #HourOfCode a @codeorg, umíme též zvýraznit váš úspěch!
 
 [col-33]
@@ -98,8 +98,8 @@ Rozdejte sluchátka studentům, nebo požádejte studenty, aby si přinesli své
 
 ## Jiné zdroje Hodiny kódu pro pedagogy:
 
-- Navštivte [fórum učitelů Hodiny kódu ](http://forum.code.org/c/plc/hour-of-code) a získejte radu, vhled a podporu od ostatních pedagogů. <% if @country == 'us' %>
-- Projděte si [Nejčastěji kladené otázky (FAQ) o Hodině kódu](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Navštivte [fórum učitelů Hodiny kódu ](http://forum.letron.vip/c/plc/hour-of-code) a získejte radu, vhled a podporu od ostatních pedagogů. <% if @country == 'us' %>
+- Projděte si [Nejčastěji kladené otázky (FAQ) o Hodině kódu](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Co následuje po Hodině kódu?
 

@@ -11,8 +11,8 @@ On the last level we were trying to figure out what happens after an `if` statem
     <th>What We Want</th>
   </tr>
   <tr>
-    <td><img src="https://images.code.org/171826eb82aeb62313254b346533adf6-image-1446168575073.png" style="width: 200px; float: right; border: solid 1px black"></td>
-    <td><img src="https://images.code.org/3bf3ce903141f4e6a6dad3d02d973f71-image-1446168572265.png" style="width: 306px;  float: right; border: solid 1px black"></td>
+    <td><img src="https://images.letron.vip/171826eb82aeb62313254b346533adf6-image-1446168575073.png" style="width: 200px; float: right; border: solid 1px black"></td>
+    <td><img src="https://images.letron.vip/3bf3ce903141f4e6a6dad3d02d973f71-image-1446168572265.png" style="width: 306px;  float: right; border: solid 1px black"></td>
   </tr>
 </table>
 <br>
@@ -26,8 +26,8 @@ We can use an `else` statement to fix the program. An `else` statement executes 
     <th>Code</th>
   </tr>
   <tr>
-    <td><img src="https://images.code.org/9d05dec5582e13242f8ee41826f95f47-image-1446521472672.png" style="width: 350px; float: right"></td>
-    <td><img src="https://images.code.org/937a5de6657e761d528bba3a45d378c2-image-1446521590755.33.00 PM.png" style="width: 200px; float: left"></td>
+    <td><img src="https://images.letron.vip/9d05dec5582e13242f8ee41826f95f47-image-1446521472672.png" style="width: 350px; float: right"></td>
+    <td><img src="https://images.letron.vip/937a5de6657e761d528bba3a45d378c2-image-1446521590755.33.00 PM.png" style="width: 200px; float: left"></td>
   </tr>
 </table><br>
 

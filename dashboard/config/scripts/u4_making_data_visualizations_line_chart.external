@@ -24,7 +24,7 @@ To select cells in non-adjacent columns, you need to use some fancy hotkeys: <br
 4. Repeat steps 2-3 for any additional columns you want to select (i.e., F1 through F62).
 </details><br>
 
-![](https://images.code.org/19de3c9486f50fe1fc1aa7fa8a1da283-image-1454102836246.gif)
+![](https://images.letron.vip/19de3c9486f50fe1fc1aa7fa8a1da283-image-1454102836246.gif)
 *Select the cells to include in the chart.*
 
 ---
@@ -37,7 +37,7 @@ To select cells in non-adjacent columns, you need to use some fancy hotkeys: <br
 * Check the boxes for **“Use row 1 as headers”** and **“Use column A as labels.”**
 * Click **“Insert”** to add your chart to the spreadsheet.
 
-![](https://images.code.org/210a6d48dd0266ee192d7cd374839ddf-image-1454102597958.gif)
+![](https://images.letron.vip/210a6d48dd0266ee192d7cd374839ddf-image-1454102597958.gif)
 *Change chart type and insert your line chart into the spreadsheet.*
 
 ---
@@ -46,7 +46,7 @@ To select cells in non-adjacent columns, you need to use some fancy hotkeys: <br
 
 At this point, your chart should look something like this:
 
-![](https://images.code.org/87f354db26d09449f68a4fa56cb57352-image-1454102624517.PNG)
+![](https://images.letron.vip/87f354db26d09449f68a4fa56cb57352-image-1454102624517.PNG)
 
 Once your chart looks close to the one above, switch to **View** mode and take a moment to look at your visualization.
 

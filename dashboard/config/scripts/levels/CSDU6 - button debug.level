@@ -109,7 +109,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-05-31 18:07:49 +0000\",\"changed\":[\"code_functions\",\"start_blocks\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-05-31 18:07:49 +0000\",\"changed\":[\"code_functions\",\"start_blocks\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

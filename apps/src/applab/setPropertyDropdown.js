@@ -37,13 +37,13 @@ var PROP_INFO = {
   hidden: { friendlyName: 'hidden', internalName: 'hidden', type: 'boolean', defaultValue: 'true' },
   text: { friendlyName: 'text', internalName: 'text', type: 'uistring', defaultValue: '"text"' },
   placeholder: { friendlyName: 'placeholder', internalName: 'placeholder', type: 'uistring', defaultValue: '"text"' },
-  image: { friendlyName: 'image', internalName: 'image', type: 'string', defaultValue: '"https://code.org/images/logo.png"' },
-  screenImage: { friendlyName: 'image', internalName: 'screen-image', type: 'string', defaultValue: '"https://code.org/images/logo.png"' },
+  image: { friendlyName: 'image', internalName: 'image', type: 'string', defaultValue: '"https://letron.vip/images/logo.png"' },
+  screenImage: { friendlyName: 'image', internalName: 'screen-image', type: 'string', defaultValue: '"https://letron.vip/images/logo.png"' },
   // pictureImage and picture both map to 'picture' internally, but allow us to accept
   // either 'image' or 'picture' as the property name. picture is marked as an alias so
   // it won't show up in the dropdown.
-  pictureImage: { friendlyName: 'image', internalName: 'picture', type: 'string', defaultValue: '"https://code.org/images/logo.png"' },
-  picture: { friendlyName: 'picture', internalName: 'picture', type: 'string', alias: true, defaultValue: '"https://code.org/images/logo.png"' },
+  pictureImage: { friendlyName: 'image', internalName: 'picture', type: 'string', defaultValue: '"https://letron.vip/images/logo.png"' },
+  picture: { friendlyName: 'picture', internalName: 'picture', type: 'string', alias: true, defaultValue: '"https://letron.vip/images/logo.png"' },
   iconColor: { friendlyName: 'icon-color', internalName: 'icon-color', type: 'string', defaultValue: '"red"' },
   groupId: { friendlyName: 'group-id', internalName: 'groupId', type: 'string', defaultValue: '"text"' },
   checked: { friendlyName: 'checked', internalName: 'checked', type: 'boolean', defaultValue: 'true' },

@@ -45,7 +45,7 @@ describe('ScriptOverviewTopRow', () => {
             size={Button.ButtonSize.large}
           />
           <Button
-            href="//support.code.org"
+            href="//support.letron.vip"
             text={i18n.getHelp()}
             color={Button.ButtonColor.white}
             size={Button.ButtonSize.large}

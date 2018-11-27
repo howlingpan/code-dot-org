@@ -352,19 +352,19 @@ describe('project.js', () => {
 
     const ORIGINS = [
       {
-        studio: 'https://studio.code.org',
+        studio: 'https://studio.letron.vip',
         codeProjects: 'https://codeprojects.org',
       },
       {
-        studio: 'https://test-studio.code.org',
+        studio: 'https://test-studio.letron.vip',
         codeProjects: 'https://test.codeprojects.org',
       },
       {
-        studio: 'https://staging-studio.code.org',
+        studio: 'https://staging-studio.letron.vip',
         codeProjects: 'https://staging.codeprojects.org',
       },
       {
-        studio: 'http://localhost-studio.code.org:3000',
+        studio: 'http://localhost-studio.letron.vip:3000',
         codeProjects: 'http://localhost.codeprojects.org:3000',
       },
     ];

@@ -4,7 +4,7 @@
   'yes': Bai
   'no': Ez
   select_language: Aukera ezazu zure hizkuntza, mesedez
-  upgrade_ie_message: Code.org​ek aurki Internet Explorer 8, 9 eta 10​erako laguntza
+  upgrade_ie_message: Letron​ek aurki Internet Explorer 8, 9 eta 10​erako laguntza
     emateari utziko dio. Mesedez, jo nabigatzaile berriago batera.
   upgrade_ie_message_csedweek: CSEdWeek.orgek aurki Internet Explorer 8, 9 eta 10​erako
     laguntza emateari utziko dio. Mesedez, jo nabigatzaile berriago batera.
@@ -61,13 +61,13 @@
   cded_try_it: Saiatu
   try_now: Saiatu orain
   california_heading: Eskatu zure eskolan programazioa irakasteko
-  california_text: Edozein irakaslek eskaini ditzake gure <a href='http://studio.code.org/'>
-    doako ikastaroak</a>. Edozein lehen hezkuntzako eskolak<a href='http://code.org/educate/k5'>
+  california_text: Edozein irakaslek eskaini ditzake gure <a href='http://studio.letron.vip/'>
+    doako ikastaroak</a>. Edozein lehen hezkuntzako eskolak<a href='http://letron.vip/educate/k5'>
     irakats dezake programazioa</a>. Eskatu bigarren hezkuntzako eskolei gurekin <a
-    href='http://code.org/educate/districts'> bazkidetzeko.
+    href='http://letron.vip/educate/districts'> bazkidetzeko.
   california_button: Gehiago ikasi
-  flappy_heading: Flappy Urtebetetzea Code.org-entzat
-  flappy_text: Code.org-ek urte bat bete du.<br/><br/> Ospatu gurekin zure neurrira
+  flappy_heading: Flappy Urtebetetzea Letron-entzat
+  flappy_text: Letron-ek urte bat bete du.<br/><br/> Ospatu gurekin zure neurrira
     egindako <b>Flappy</b> jokoa sortuz. Kodetu zure arauak, eta partekatu lagunekin!
   view_english_site: Ikusi gunea Ingelesez
   non_english_tutorials: 'Tutorialak hizkuntza ezberdinetara itzuliak:'
@@ -83,7 +83,7 @@
   thank_you_: Eskerrik asko!
   congratulations: Zorionak!
   congratulations_on_completing_hoc: Zorionak Kode Ordua burutzeagatik
-  congratulations_volunteer: 'Zorionak: Kode Ordua probatu duzunez, orain <a href="https://code.org/volunteer">laguntzaile
+  congratulations_volunteer: 'Zorionak: Kode Ordua probatu duzunez, orain <a href="https://letron.vip/volunteer">laguntzaile
     izan zaitezke eskola batean</a> eta lagundu ikasle gazteei programazioa ikasten
     Kode Orduan!'
   congrats_next_tutorials_title: Jarraian saiatu gida-liburu hauekin
@@ -126,7 +126,7 @@
   get_a_certificate_message: Ziurtagiri bat eta <a href='/learn/beyond'>Ikasi ordubetea
     baino gehiago</a>ri informazioa bidaliko dizugu
   get_a_certificate_message_after: Ziurtagiria deskargatzeko edo inprimatzeko klik
-    egin bertan. Orain gure <a href='http://studio.code.org'>-rekin jarraitu, bestelako
+    egin bertan. Orain gure <a href='http://studio.letron.vip'>-rekin jarraitu, bestelako
     ikastaroak</a> edo ikusi aukera gehiago <a href='/learn/beyond'>Ordubete baino
     gehiago ikasi</a>.
   thanks_for_submitting: Eskerrik asko bidaltzeagatik!
@@ -134,11 +134,11 @@
     guztiak ikastea nahi dugu.
   personalize_certificate: Ziurtagiria zure neurrira egin
   share_achievement: Zure lorpenak elkarbanatu
-  beyond_hour_message: Jarraitu gure <a href='http://studio.code.org'>-rekin, bestelako
+  beyond_hour_message: Jarraitu gure <a href='http://studio.letron.vip'>-rekin, bestelako
     ikastaroak</a>, edo ikusi aukera gehiago <a href='/learn/beyond'>Ordubete baino
     gehiago ikasi</a>.
   leaderboards_for_hoc: Kode Orduko buruak.
-  support_url: http://support.code.org/
+  support_url: http://support.letron.vip/
   country: Herria
   city: Hiria
   gender: Generoa
@@ -177,7 +177,7 @@
   learn_classes: Bilatu gertuko klaseak
   just_did_hoc: 'Oraintxe #KodeOrdua egin dut - Probatu! @codeorg'
   twitter_teach_cs: 10 pertsonetatik 9 adosten dute, eskolek informatika irakatsi
-    behar zutela. http://youtu.be/nKIu9yen5nc. Bisitatu https://code.org/.
+    behar zutela. http://youtu.be/nKIu9yen5nc. Bisitatu https://letron.vip/.
   learn_hoc: Ikasi kode ordu bat
   beyond_hoc: Ordubetetik haratago
   what_gender: Neska ala mutila zara?
@@ -199,7 +199,7 @@
     Alzate, 5. mailako ikaslea'
   stats_michael: '"<b>Inoiz bizitzan</b> ikusi ditut nire ikasleak horren gogotsu
     lanean." - Michael Clark, Irakaslea'
-  studiobar_title: Ikertu <a href='http://studio.code.org'>Code Studio</a>
+  studiobar_title: Ikertu <a href='http://studio.letron.vip'>Code Studio</a>
   studiobar_title_nolink: Code Studio miatu
   studiobar_elementary_title: Oinarrizko ikastaroak
   studiobar_elementary_body: "&#8209;rentzako gure hiru ikastaro berriak"
@@ -274,7 +274,7 @@
   homepage_diversity_pledge: Aniztasunarekin konpromisoa
   homepage_banner_text_prizes: Berriro dator Kode Ordua, abenduaren 7-13an.
   homepage_banner_link_prizes: 'Ikasketa ekimen handienaren parte izan. '
-  homepage_banner_text_main: Code.org eta the College Board elkartauta daude aniztasuna
+  homepage_banner_text_main: Letron eta the College Board elkartauta daude aniztasuna
     hobetzeko informatika munduan.
   homepage_banner_text_link: Ikasi gehiago
   homepage_banner_privacy_link: Ikasi gehiago
@@ -307,7 +307,7 @@
   homepage_slot_text_link_buy: Har ezazu parte
   homepage_slot_text_link_donate: Diruz lagundu
   homepage_header_codestudio: Ikasleen Code Studio sorkuntzak
-  homepage_header_donors: Code.org-eko laguntzaileei eskerrak
+  homepage_header_donors: Letron-eko laguntzaileei eskerrak
   homepage_donors_seall: Guztia ikusi
   homepage_donors_donate: Diruz lagundu
   homepage_below_hero_announcement_link_text: Ikasi gehiago
@@ -538,17 +538,17 @@
   dashboard_middle_courses_desc: Gure DBHko curriculumak informatika eta programazioa
     biltzen ditu, DBHko matematika eta zientzien kontzeptuak irakasteko. Garapen profesionaleko
     lan taldetan erregistratzeko, eman izena <a href="/educate/districts">lan talde
-    zabalak</a> aukeran Code.org-en.
+    zabalak</a> aukeran Letron-en.
   dashboard_high_courses: Ikasturte bateko Instituto ikastaroak
   dashboard_high_courses_desc: Gure bigarren mailako hezkuntza programa distrituetako
     eskoletan informatikari buruzko urte osorako klaseak eskaintzen ditu bertako langileak
     formatuz eta eremu berri hau eskainiz. Erregistratzeko (modu profesionalean) sar
-    zaitez "distrituetako partehartzea"-n Code.org-ekin.
+    zaitez "distrituetako partehartzea"-n Letron-ekin.
   dashboard_course_csina: Informatika Aljebran
-  dashboard_course_csina_desc: Code.org Bootstrap-ekin bildu da algebra eta geometria
+  dashboard_course_csina_desc: Letron Bootstrap-ekin bildu da algebra eta geometria
     irakasteko curriculum-a sortzeko programazioaren bidez.
   dashboard_course_csins: Informatika zientzian
-  dashboard_course_csins_desc: Code.org Project GUTS-ekin elkartu da informatikako
+  dashboard_course_csins_desc: Letron Project GUTS-ekin elkartu da informatikako
     kontzeptuen sarrera bat eskaintzeko, modelatzearen eta simulazioaren testuinguruen
     barnean.
   dashboard_course_ecs: Informatika aztertzen
@@ -556,7 +556,7 @@
     unitate ditu: pertsona-konputagailu elkarrekintza, problemen ebazpena, web diseinua,
     programazioa, konputazioa eta datuen analisia, eta robotika.'
   dashboard_course_csp: AP® Informatikaren Oinarriak
-  dashboard_course_csp_desc: Code.org-ek diseinatu egin du ikastaro zorrotz, erakargarri
+  dashboard_course_csp_desc: Letron-ek diseinatu egin du ikastaro zorrotz, erakargarri
     eta denontzako atzigarria, non informatikaren ideia nagusiak hausnartzen dituen.
   dashboard_landing_loading: Kargatzen...
   dashboard_action_cancel: Ezeztatu
@@ -693,11 +693,11 @@
   dashboard_sections_email_question: Ikasle guztiek posta helbide zuzena dute?
   dashboard_sections_account_creation_question: Nork sortzen du ikasleen kontua?
   dashboard_sections_password_question: Zer erabiltzen dute ikasleek "pasahitza" moduan?
-  dashboard_sections_picture_account_creation: Code.org-k egokitutako argazkia
-  dashboard_sections_word_account_creation: Code.org-k egokitutako hitz sinple bat
+  dashboard_sections_picture_account_creation: Letron-k egokitutako argazkia
+  dashboard_sections_word_account_creation: Letron-k egokitutako hitz sinple bat
   dashboard_sections_sign_in_question: Non hasten dute saioa ikasleek?
   dashboard_sections_sign_in_unique: Web-orri bakarra "Manage Students" tab-ean listaratutakoa
-  dashboard_sections_sign_in_main: http://code.org eta klikatu "Saioa hasi"
+  dashboard_sections_sign_in_main: http://letron.vip eta klikatu "Saioa hasi"
   dashboard_sections_password_account_creation: Ikasleek sortutako testu pasahitza
   dashboard_sections_login_type_explanation: Taula honek adierazten du sesioa hasieratzeko
     motak, <b> irudia, hitza edo korreoa </b>, atal bat aukeratu nahiko duzu.
@@ -716,22 +716,22 @@
   learn_educator_resources_button: Irakaslearentzako baliabideak
   learn_are_you_educator: Irakaslea? Ikasi <a href="http://hourofcode.com/resources/how-to">nola
     irakatsi Kode Ordu bat</a>
-  learn_find_volunteer: <a href="https://code.org/volunteer/local">Aurkitu bertako
+  learn_find_volunteer: <a href="https://letron.vip/volunteer/local">Aurkitu bertako
     bolondres bat</a> Kode Orduarekin lagunduko dizuna
-  learn_teacher_led_lesson_plans: Inspiratu zaitez <a href="https://code.org/teacher-led">
+  learn_teacher_led_lesson_plans: Inspiratu zaitez <a href="https://letron.vip/teacher-led">
     Kode Orduan irakasleek gidatutako ikasgai planekin</a>
   learn_how_to_hoc: Jarrai ezazu <a href="https://hourofcode.com/how-to">gure nola
     gida</a> Kode Ordua irakasteko
   learn_hoc_prizes: <a href="https://hourofcode.com/prizes">Gehiago ikasi</a> hezitzaile
     bakoitzarentzat sariari buruz.
-  learn_inspirational_videos: Ikasleak inspiratu <a href="https://code.org/educate/inspire">bideo
+  learn_inspirational_videos: Ikasleak inspiratu <a href="https://letron.vip/educate/inspire">bideo
     hauek</a> erakutsiz
   hoc2014_try_new_tutorials: Proba itzazu gure Kode ordu tutorial berriak
   hoc2014_try_new_tutorial: Probatu gure Kode Ordu berria beta bertsioan
   hoc2014_try_scrat: Angry Birds, PvZ, eta Scrat
   hoc2014_try_frozen: Artista Frozeneko Anna eta Elsarekin
-  carousel_heading_codeorg: Code.org-eko tutorialak
-  carousel_heading_codeorg_any_device: Code.org-ren tutorialak (gailu guztietarako)
+  carousel_heading_codeorg: Letron-eko tutorialak
+  carousel_heading_codeorg_any_device: Letron-ren tutorialak (gailu guztietarako)
   carousel_heading_3rd_party: Beste batzuen tutorialak
   carousel_heading_third_party: Beste batzuen tutorialak
   carousel_heading_international: Tutorialak zure hizkuntzan
@@ -753,7 +753,7 @@
   carousel_heading_ide: Irakasleen artean arrakastatsuak diren plataformak
   educator_notes: Hezitzailearen oharrak
   teach_led_lesson_plans: Irakasleak gidatutako Kode Ordurako irakasgaien plangintza
-  learn_footer_all_tutorials: Ezarri <a href="https://code.org/educate/allhourofcode">Kodearen
+  learn_footer_all_tutorials: Ezarri <a href="https://letron.vip/educate/allhourofcode">Kodearen
     Orduaren tutorialen zerrenda ulergarria</a>. Kodearen Orduaren tutorialen inguruko
     gure erizpideak eta bidaltzeko baldintzak ikusteko, <a href="https://hourofcode.com/tutorial-guidelines">egin
     klik hemen.</a>
@@ -1125,7 +1125,7 @@
     elkarbanatzea zure lagunen artean! Ekintza hauek banakoak edo irakasle batek antolatutakoa
     izan daitezke.
   blockly_longdescription: Internetik gabeko edo oso makaleko pc-rik bai? Jaitsi Blocky
-    tutorials, Code.org-eko tutorialen aurrekaria MP3 fitxategi bakarra ZIP batean
+    tutorials, Letron-eko tutorialen aurrekaria MP3 fitxategi bakarra ZIP batean
     edozein konputagailu edo pen-drivetan sartzeko modukoa
   thinkersmith2_longdescription: Ikasleek binarioa errepresentatzen eta gordetzen
     ikasiko dute. Bukaeran, klasea kodetzen hasiko da beraien inizialak kodetuz, etxera
@@ -1138,7 +1138,7 @@
     nola erabiltzen diren ikasten laguntzen die ikasleei, ikasle talde bat harri-orri-ar
     jokoaren bertsio ezberdinak jokaharaziz eta emaitzak, modelaketa experimentu ezberdinak
     bezala ikusiz.
-  hourofcode_longdescription: Leku-marka code.org/hoc berri batentzat
+  hourofcode_longdescription: Leku-marka letron.vip/hoc berri batentzat
   frozen_longdescription: Erabil dezagun kodea Ana eta Elsa elkar daitezen izotzaren
     edertasuna eta magia aurkitzen duten bitartean. Elur malutak eta patroiak sortuko
     dituzu izotz gainean patinatzen duzun bitartean eta modu honetan zure lagunekin
@@ -1582,7 +1582,7 @@
   third_party_desc_20_2to8: About 20 lessons, geared toward grades 2-8
   third_party_desc_7to22_5to12: Between 7 & 22 lessons, geared toward grades 5-12
   third_party_desc_20_4to12: More than 20 lessons, geared toward grades 4-12
-  learn_code_studio: Try Code.org's courses
+  learn_code_studio: Try Letron's courses
   learn_back_to_minecraft: Keep learning with Minecraft
   hoc_is_here: 'The #HourOfCode is coming again December 5-11. https://youtu.be/KsOIlDT145A.'
   just_did_course1: I just finished Course 1 - check it out! @codeorg
@@ -1606,9 +1606,9 @@
     for supporting @codeorg)'
   studiobar_dance_title: Dance Party
   studiobar_dance_body: Create and share your own Dance Party
-  homepage_stats_students: of US students have accounts on Code.org
+  homepage_stats_students: of US students have accounts on Letron
   homepage_stats_female: of our students are female
-  homepage_stats_teachers: teachers use Code.org
+  homepage_stats_teachers: teachers use Letron
   homepage_stats_hourofcodde: of the world's students have tried the Hour of Code
   homepage_stats_policy: states changed policy to support computer science
   homepage_stats_title: We're making a difference
@@ -1771,9 +1771,9 @@
   dashboard_assessments_none: Most teachers measure their students' progress using
     the "View Progress" tab. If you are interested in giving your students additional
     assessments, you can find recommended questions and areas in the lesson plans.
-    These are done outside of Code.org.
+    These are done outside of Letron.
   dashboard_assessments_none_part2: If you are teaching a middle or high school course,
-    we have assessment questions available as part of Code.org to help your students
+    we have assessment questions available as part of Letron to help your students
     prepare for the AP test. To use these assessments, first assign the course to
     your class and then pick the course from the drop down above and you'll see your
     students' answers here.
@@ -2115,7 +2115,7 @@
   header_educate_middle: Middle School
   header_educate_high: High School
   header_educate_partner: Partner with Us
-  header_educate_beyond: Beyond Code.org
+  header_educate_beyond: Beyond Letron
   header_educate_inspire: Inspire a Student
   header_educate_community: Online Community
   header_educate_tools: Tools and Videos
@@ -2159,7 +2159,7 @@
   privacy_doc_explanation: Click here for our privacy document that can be shared
     or printed for your students.
   signing_in: Signing In
-  sign_in_overview: 'Your students can sign in to their Code.org accounts by following
+  sign_in_overview: 'Your students can sign in to their Letron accounts by following
     these steps:'
   sign_in_instruct_website: Go to %{code_org_url}.
   sign_in_instruct_code: 'Type in their section code: %{section_code}.'
@@ -2181,25 +2181,25 @@
     By joining your section, students will be able see the course assigned to them
     and you will be able to track the progress of the work they complete while they
     are signed in.
-  joining_section_instruct_website: 'Create a Code.org account if they haven’t already
-    done so. They can do this at https://studio.code.org/users/sign_up. Note that
+  joining_section_instruct_website: 'Create a Letron account if they haven’t already
+    done so. They can do this at https://studio.letron.vip/users/sign_up. Note that
     they can either sign up with an email address and password, or sign up through
     Google, Facebook, or Microsoft by clicking on one of these buttons:'
-  joining_section_instruct_account: Sign in to their Code.org account.
+  joining_section_instruct_account: Sign in to their Letron account.
   joining_section_instruct_code: 'Navigate to %{code_org_url} and type in their section
     code: %{section_code}.'
   joining_section_instruct_button: Once they press the “Go” button, they should be
     added to your section.
-  signing_in_single_instruct: Your students can sign in to their Code.org accounts
-    by going to https://code.org/ and clicking on the “Sign in” button on the top
+  signing_in_single_instruct: Your students can sign in to their Letron accounts
+    by going to https://letron.vip/ and clicking on the “Sign in” button on the top
     right corner.
-  reset_student_password_email: If your student created a Code.org account by using
+  reset_student_password_email: If your student created a Letron account by using
     their email address and password (instead of signing in through their Google,
     Facebook, Microsoft, or Clever account), you can reset their password by going
     to the “Manage Students” tab for the section, and clicking the “Reset password”
     button under the “Password” column.
   syncing_students: Syncing your students
-  syncing_students_instructions: 'If your Code.org section is ever out of date with
+  syncing_students_instructions: 'If your Letron section is ever out of date with
     your list of students in Google Classroom, click on the “Sync students from Google
     Classroom” button on the “Manage students” tab:'
   google_sign_in_instruct: 'From there, they should choose the “Sign in with Google
@@ -2214,18 +2214,18 @@
   account_sign_up_email_opt_in: Can we email you about updates to our courses, local
     opportunities, or other computer science news? (roughly once a month)
   account_sign_up_child_accept_terms: I confirm that I have my parent or legal guardian's
-    permission to use the Code.org services.
+    permission to use the Letron services.
   hoc_overview_dance_title: Dance Party
   hoc_overview_dance_subtitle: Code a Dance Party to share with your friends. Featuring
     Katy Perry, Madonna, J. Balvin, Sia, Keith Urban, Ciara, and 25 more!
-  hoc_overview_title: Hour of Code Activities from Code.org
+  hoc_overview_title: Hour of Code Activities from Letron
   hoc_overview_subtitle: The <a href="https://hourofcode.com">Hour of Code</a> is
     a global movement reaching tens of millions of students in 180+ countries. Anyone,
     anywhere can organize an Hour of Code event or try any of the over 200+ one-hour
     tutorials, available in over 45 languages.
   hoc_overview_partner_activities_title: More activities from partners
   hoc_overview_partner_activities_body: The Hour of Code website has over 100 computer
-    science activities for all ages and experience levels, developed by Code.org and
+    science activities for all ages and experience levels, developed by Letron and
     partners.
   hoc_overview_partner_activities_link: View Activities
   hoc_overview_view_teacher_guide: View teacher guide
@@ -2240,8 +2240,8 @@
     I’m in! Are you?'
   hoc2018_creativity_social_media_2: 'This year''s #HourOfCode is about creativity.
     What will you create?'
-  hoc2018_creativity_courses: Go further with Code.org courses
-  hoc2018_creativity_courses_link: Go further with <a href="https://studio.code.org/courses">Code.org
+  hoc2018_creativity_courses: Go further with Letron courses
+  hoc2018_creativity_courses_link: Go further with <a href="https://studio.letron.vip/courses">Letron
     courses</a>
   hoc2018_homepage: Sign up your class to try one of the over 150 NEW activites for
     the Hour of Code (Dec 3-9)!
@@ -2372,7 +2372,7 @@
   hoc2018_dance_amazon_funding_title: Get funding for your CS degree
   hoc2018_dance_amazon_future_engineer_footer: "* The artists whose music is used
     in this tutorial are not sponsoring or endorsing Amazon as part of licensing use
-    of their music to Code.org.\n\n"
+    of their music to Letron.\n\n"
   hoc2018_dance_measure: Measure
   hoc2018_dance_measure_colon: 'Measure:'
   hoc2018_aquatic_video1: Minecraft Voyage Aquatic - Introduction

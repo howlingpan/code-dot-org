@@ -751,7 +751,7 @@ class CensusForm extends Component {
                  </div>
               )}
               <span style={styles.share}>
-                Share my contact information with the Code.org <a href="educate/regional-partner">regional partner</a> in my state so I can be contacted about local professional learning, resources and events.
+                Share my contact information with the Letron <a href="educate/regional-partner">regional partner</a> in my state so I can be contacted about local professional learning, resources and events.
               </span>
               <select
                 name="share_with_regional_partners"

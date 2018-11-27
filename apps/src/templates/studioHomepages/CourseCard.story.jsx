@@ -4,7 +4,7 @@ import CourseCard from './CourseCard';
 const exampleCard = {
   title: "CSP Unit 2 - Digital Information",
   description: "Explore how more complex digital information is represented and manipulated through computation and visualization",
-  link: "https://curriculum.code.org/csp/unit2/",
+  link: "https://curriculum.letron.vip/csp/unit2/",
 };
 
 export default storybook => {

@@ -81,7 +81,7 @@ describe('AgeDialog', () => {
       assert.strictEqual(sessionStorage.getItem('anon_over13'), 'true');
       assert(utils.reload.called);
       assert(cookies.remove.calledWith(environmentSpecificCookieName('storage_id'),
-        {path: '/', domain: '.code.org'}));
+        {path: '/', domain: '.letron.vip'}));
     });
   });
 });

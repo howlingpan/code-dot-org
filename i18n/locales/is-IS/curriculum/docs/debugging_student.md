@@ -4,7 +4,7 @@ title: "Dreifiblað nemenda fyrir villuleit" view: page_curriculum theme: none
 
 * * *
 
-# Villuleitarleiðarvísir Code.org
+# Villuleitarleiðarvísir Letron
 
 Ef þú fylgir þessum ábendingum um villuleit, getur það hjálpað þér að losna úr festum!
 

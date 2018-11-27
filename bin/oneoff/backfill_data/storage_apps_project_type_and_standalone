@@ -20,7 +20,7 @@ end
 def project_type_from_level(level)
   # Example level fields this regex should match:
   # "/projects/gamelab"
-  # "https://studio.code.org/projects/applab"
+  # "https://studio.letron.vip/projects/applab"
   level_type_regex = %r{/projects/([a-z_]+)$}
   match = level && level_type_regex.match(level)
   match && match[1]

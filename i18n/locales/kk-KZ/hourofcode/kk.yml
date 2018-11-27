@@ -11,7 +11,7 @@ kk:
   campaign_date_full: "5-11 желтоқсан"
   campaign_date_year: "2016"
   campaign_date_full_year: "Желтоқсан 5-11, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ kk:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Тарихтағы ең ірі үйрену оқиғасына қосылыңыз, 7-13 желтоқсан, 2015'
   front_intro_default: 'Кодтау сағаты - бұл 180+ мемлекетте ондаған миллион оқушыларға жететін ғаламдық бастама. Әркім кез-келген жерде Кодтау сағатын өткізе алады. Бір сағаттық жаттығулар 40-тан астам тілде дайын. Тәжірибе міндетті емес.<strong> 4 жастан 104 жасқа дейін </strong>'
@@ -186,12 +186,12 @@ kk:
   how_to_nav_afterschool_educators: "Мектептен тыс сабақ ұстаздары үшін"
   how_to_nav_volunteers: "Волонтер үшін"
   whats_next_header: "Келесі не?"
-  whats_next_description: "Біз сізге іс-шараға байланысты материалдар мен пайдалы кеңестерді жібереміз. Жақында жаңа 2015 жылдың нұсқаулықтары кез-келген браузер мен смартфонға жарыққа шығады – немесе компьютерсіз де қарауға болады! <a href='http://code.org/learn'>Бар нұсқаулықтарды қарау</a>"
+  whats_next_description: "Біз сізге іс-шараға байланысты материалдар мен пайдалы кеңестерді жібереміз. Жақында жаңа 2015 жылдың нұсқаулықтары кез-келген браузер мен смартфонға жарыққа шығады – немесе компьютерсіз де қарауға болады! <a href='http://letron.vip/learn'>Бар нұсқаулықтарды қарау</a>"
   whats_next_how_to: "<a href='/how-to'>Кодтау Сағатын қалай өткіземін</a>"
   whats_next_promote: "<a href='/promote'>Кодтау Сағатын жарнамалау</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Кодтау Сағатын қалай жарнамалаймын</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Кодтау Сағатын қалай жарнамалаймын</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Нұсқаулықтарды қарау</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Нұсқаулықтарды қарау</a>"
   whats_next_try_button: 'Жаттығуларды көр'
   n_have_learned_an_hoc: "<h1>Қараңыз</h1><h2>Кодтау Сағаты</h2><h3># өткізілді</h3>"
   anybody_can_learn: 'Әркім үйрене алады.'
@@ -238,8 +238,8 @@ kk:
   front_join_us_sign_up: "Тіркелу"
   front_join_us_host: "Өткіз"
   front_join_us_support: "Қолда"
-  front_join_us_more_info: "Толық мәлімет үшін <a href='https://code.org'>code.org</a> бетіне өтіңіз."
-  front_join_us_code_info: "Толық мәлімет үшін code.org бетіне өтіңіз"
+  front_join_us_more_info: "Толық мәлімет үшін <a href='https://letron.vip'>letron.vip</a> бетіне өтіңіз."
+  front_join_us_code_info: "Толық мәлімет үшін letron.vip бетіне өтіңіз"
   front_join_us_n_students_served: "Қызмет етілген саны"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ kk:
   signup_your_event: 'Бастамаңызды тіркеу'
   signup_host_an_hour: 'Кодтау сағатын жүргіз'
   signup_match_volunteer: 'Оқушыларды бағдарлама жазуға шабыттандыру үшін жергілікті бағдарламалаушыны табуға көмек беріңіз'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ kk:
   signup_continue_label: 'Continue'
   signup_thank_you_header: "Кодтау Сағатының иесі ретінде тіркелгеніңізге рахмет."
   signup_thank_you_message: 'Бастау көмектесу үшін ақпарат растау біз сізге бар электрондық пошта хабарын жіберген болатынбыз.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ kk:
   hoc_faq_host_q: "Бағдарламалау жайлы ештеңе білмеймін. Бұл жағдайда қатыса аламын ба?"
   hoc_faq_host_a: "Əрине! Біздің материалдар өз бетімен үйренуге арналған. Сізден керегі тек <a href='%{codeorg_url}/learn'> сабақты өтіп көру</a>, қалаған сабақты таңдап, қалаған сағатты таңдап &mdash; қалғаны бізден. Кез-келген жасқа және тәжірибеге арналған сабақтар да бар; бала-бақшадан басталып жоғарыға қарай. Сабақты алдын-ала жоспарлап, <a href='/how-to'>қалай өткізу нұсқаулығын </a> оқыңыз."
   hoc_faq_devices_q: "Оқушыларым үшін қандай құрылғы пайдалануым керек?"
-  hoc_faq_devices_a: "Code.org үйрену материалдары барлық құрылғы мен браузерлерде жұмыс істейді. Code.org өзінің материалдарын игеруге қойылатын талаптарды <a href='%{codeorg_url}/educate/it'>мына жерден</a>, ал Code.org басқа материалдарды игеруге қойылатын талаптарды <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> арқылы үйрену материалына қатысты сипаттамадан білуге болады. Мектебіңіз үйрену материалдарын талаптарын орындай алмаса, <a href='%{unplugged_url}'>жүйеге қосылмай орындайтын шараға</a> қатысып көріңіз."
+  hoc_faq_devices_a: "Letron үйрену материалдары барлық құрылғы мен браузерлерде жұмыс істейді. Letron өзінің материалдарын игеруге қойылатын талаптарды <a href='%{codeorg_url}/educate/it'>мына жерден</a>, ал Letron басқа материалдарды игеруге қойылатын талаптарды <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> арқылы үйрену материалына қатысты сипаттамадан білуге болады. Мектебіңіз үйрену материалдарын талаптарын орындай алмаса, <a href='%{unplugged_url}'>жүйеге қосылмай орындайтын шараға</a> қатысып көріңіз."
   hoc_faq_need_computers_q: 'Əр қатысушыға компьютер керек пе?'
   hoc_faq_need_computers_a: "Жоқ. Кодтау сағатының компьютерде, смартфонда, планшетте және мүлдем компьютерсіз өткізуге болатын сабақтары бар! Кез-келген жерден, кез-келген техникамен қосыла аласыз! <p><i> Міне, бірнеше жолдар:</i> <br> <ul> <li><b>\nЖұпта жұмыс істеңіз. </b> Көптеген зерттеулер оқушылардың бір компьютерді бөліп, <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'> бірге жұмыс жасағанда </a> нəтіжелері жақсы болатындығын дəлелдеуде. Бірге жұмыс істегенді мадақтаңыз. <li><b>\nПроектірді қолданыңыз.</b>Проектор мен экран болса, интернет жүйесіне жақсы қосылатын болса, бүкіл сынып кодтаумен айналыса алады. Бейне-роликті бірге көріп, тапсырмаларды кезек-кезек орындаңыз. <li><b>Жүйеге қосылмай жұмыс істеңіз. </b> Сабақты өткізу нұсқауларында тіпті компьютерсіз жүргізілетін сабақ бар. </ul>"
   hoc_faq_international_q: "Мен <country>-дамын. Басқа мемлекеттен қалай қатысуға болады?"
@@ -350,7 +350,7 @@ kk:
   hoc_faq_high_school_q: "Жоғары сынып оқушыларымен қандай шараға қатысқан дұрыс?"
   hoc_faq_high_school_a: "Жұлдызды соғыстар мен Minecraft сабақтары жоғары сынып оқушыларына қызық болады, әсіресе Жұлдызды соғыстардың JavaScript нұсқасы мен екі сабақтағы да еркін ойнау режимі ұнайды. Жаңадан үйреніп келе жатқандар үшін <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> бетінде көрсетілген Angry Birds, Анна мен Эльза сияқты сабақтарды ұсынуға болады. Жоғары сынып оқушылары бұларды жарты сағатта аяқтап, JavaScript білімін одан әрі Khan Academy немесе CodeHS арқылы жетілдіре алады."
   hoc_faq_scratch_q: "Мен кодтау сағатын Скретчте жасағым келеді, бірақ оқушыларымның ноутбук емес планшеттері бар болса ше?"
-  hoc_faq_scratch_a: "Скретч планшетте жұмыс істемейді. Егер оқушыларыңыз кішкентай болса, Скретч Джуниор Ipad планшеттеріне арналған қосымшасында өтсін. Сабақтарға көз салсаңыз <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, планшетпен жұмыс істейтін басқа Code.org, Tynker, Lightbot, немесе CodeSpark ұсынған сабақтарды таңдай аласыз."
+  hoc_faq_scratch_a: "Скретч планшетте жұмыс істемейді. Егер оқушыларыңыз кішкентай болса, Скретч Джуниор Ipad планшеттеріне арналған қосымшасында өтсін. Сабақтарға көз салсаңыз <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, планшетпен жұмыс істейтін басқа Letron, Tynker, Lightbot, немесе CodeSpark ұсынған сабақтарды таңдай аласыз."
   hoc_faq_count_hoc_q: "Кодтау сағаттарын қалай санайсыз?"
   hoc_faq_map_q: "Менің нүктемді неліктен көрмеймін?"
   hoc_faq_map_a: "Кодтау сағатының картасынан өзіңіздің шараңызды таппағаныңыз өкінішті. Он мыңнан астам ұйымдастырушы қосылған кезде бір нүктенің астына бірнеше шара топтасады. Картаның жоғары жағындағы санды шертсеңіз әр елдегі шараларды жеке-жеке көре аласыз. Сонымен қатар Кодтау сағатына он мыңнан астам адам жиналған кезде, карта мен шаралар тізімі 48 сағатқа дейін кешігіп жаңаруы мүмкін. Бір-екі күннен кейін тағы тексеріп көрсеңіз болады."
@@ -358,13 +358,13 @@ kk:
   hoc_faq_one_hour_q: "Бір сағаттан біреу қаншалықты үйрене алады?"
   hoc_faq_one_hour_a: 'Кодтау сағатының мақсаты бір сағат ішінде әркімнен компьютер ғалымын жасап шығару емес. Бір сағат компьютерлік ғылыммен танысуға, оның қызық әрі шығармашылыққа толы екендігін білуге, информатиканың әркімге жасына қарамай, біліміне қарамай қол жетімді екендігін көрсетуге ғана жетеді. Бұл кампанияның табысты болу не болмауы үйрететін материалдардың мөлшерінде жатқан жоқ. Кампанияның табысты болуы жыныстық, этникалық, әлеуметтік-экономикалық топтардың барлық өкілдерін қатыстыра отырып, олардың одан әрі мектепте, жоғары оқу орындарында және т.с.с жерлерде информатиканы таңдауында жатыр. Шараға қатысқан миллиондаған оқытушы мен оқушы бір сағатпен шектеліп жатқан жоқ - олар күні бойы, апта бойы және одан да көбірек оқып жатыр. Нәтижесінде көптеген оқушылар оқитын орындарында арнайы пән таңдап, мамандықтарын информатикаға арнап жатыр.<br/><br/> Оқушылар қатарында оқытушылардың өздері де бар - арасында компьютерлік ғылымдарды арнайы оқығаны бар, оқымағаны бар олар бірсағаттық оқытудан кейін өздерін информатиканы түсіндіре алатындай сенімді сезінеді. Он мыңнан астам оқытушы информатиканы одан әрі үйренуге шешім қабылдайды: қосымша курстарға жазылады, докторлыққа таңдадйды. Мұндай өзгерістер мектеп әкімшілігіне де қатысты, олардың компьютерлік ғылымның оқушылар арасында сұранысқа ие екендігіне, ал оқытушыларының қолынан көп нәрсе келетіндігіне көзі жетеді.<br/><br/>Осы шарадан алынған ең маңызды сабақ - қолымыздан бәрі келеді.'
   hoc_faq_more_questions_q: "әлі де сұрағыңыз бар ма?"
-  hoc_faq_more_questions_a: "Жауапты біздің <a href='http://support.code.org'>қолдау форумында</a> тауып көріңіз."
+  hoc_faq_more_questions_a: "Жауапты біздің <a href='http://support.letron.vip'>қолдау форумында</a> тауып көріңіз."
   hoc_faq_keep_learning_q: "Кодтау Сағатынан кейін қалай үйрену жалғастыра аламын?"
   hoc_faq_keep_learning_a: "Кодтау сағатын әркім қалаған уақытынды ұйымдастыра алады. Үйрену материалдары жылдап сақталып тұрады. Материалдар мен сабақ жоспарларын осы сайттан кез-келген уақытта алуға болады. Кодтау сағатын табысты өткізуге көмектесетін нұсқаулықтар мен басқа да ресурстарды көру үшін <a href='/promote'>мына жерге</a> өтіңіз."
   hoc_faq_certificates_q: "Студенттеріме сертификаттарды қай жерден бастырып алсам болады?"
   hoc_faq_certificates_a: "<a href='%{codeorg_url}/certificates'>Сертификаттар бетіне</a> өтсеңіз, сол жерден бүкіл сыныбыңызға арналған сертификаттарды алдын-ала шығарып ала аласыз. Бұған қоса Minecraft сабағын өткен оқушыларға берілетін <a href='%{codeorg_url}/certificates?course=mc'>арнайы сертификаттарды</a> да шығарып алуға болады."
   hoc_faq_logo_q: "Кодтау сағатының логотипін пайдалансам бола ма?"
-  hoc_faq_logo_a: "Кодтау сағаты тіркелген тауар белгісі болып табылады. Оны дұрыс пайдаланатындарға еш қарсылығымыз жоқ, алайда белгіні пайдалануда кейбір шектеулер бар. Логотипті дұрыс пайдалануға қатысты <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>нұсқаулықпен</a> танысып шығыңыз."
+  hoc_faq_logo_a: "Кодтау сағаты тіркелген тауар белгісі болып табылады. Оны дұрыс пайдаланатындарға еш қарсылығымыз жоқ, алайда белгіні пайдалануда кейбір шектеулер бар. Логотипті дұрыс пайдалануға қатысты <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>нұсқаулықпен</a> танысып шығыңыз."
   stats_hoc_2013_image_alt: 'Кодтау сағаты 2013-тен статистика'
   stats_growth: "Ең жылдам 15 миллион пайдаланушыларына қол жеткізді."
   stats_i18n: "Оқушылар 40-тан астам тілде үйренуде"
@@ -469,8 +469,8 @@ kk:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: '2015 Code.org авторлық құқығы. Барлық құқықтар сақталған.'
-  footer_trademark_message: 'Кодтау Сағаты™ Code.org-тың тауар кепілі.'
+  footer_copyright_message: '2015 Letron авторлық құқығы. Барлық құқықтар сақталған.'
+  footer_trademark_message: 'Кодтау Сағаты™ Letron-тың тауар кепілі.'
   footer_menu_partners: 'Серіктестер'
   footer_menu_contact: 'Бізбен байланыс'
   footer_menu_support: 'Қолдау'
@@ -506,7 +506,7 @@ kk:
   tutorial_spritebox_name: "Спрайтты кодтау"
   tutorial_tynkerch_name: "Есепшіні хактау"
   tutorial_lightbot_name: "Лайт бот"
-  tutorial_hoc_name: "Жаңа code.org/hoc толтырғышы"
+  tutorial_hoc_name: "Жаңа letron.vip/hoc толтырғышы"
   tutorial_code_name: "Бірінші өз компьютер бағдарламасын жаз"
   tutorial_tinspire_name: "TI-Nspire CX үшін 10 минуттық кодтау"
   tutorial_itchbounceball_name: "ITCH секіретін доп (Скретчте)"
@@ -1086,7 +1086,7 @@ kk:
   tutorial_spritebox_shortdescription: "Үш түрлі әлемде жүгіру, секіру және кодтау арқылы жол тауып, жұлдыздар жина да, финишқа жет! Команданы тізбектеп орындау, бағдарламаны ретке келтіруді үйрен. Циклдарды түсініп, Swift, Java тілінде немесе Icons арқылы кодтауды үйрен."
   tutorial_tynkerch_shortdescription: "Вирустарды жеңе отырып Javascript үйрен!"
   tutorial_lightbot_shortdescription: "Процедуралар мен циклдарды пайдаланып Жарық ботты түрлі жұмбақтарды шешуге үйрет!"
-  tutorial_hoc_shortdescription: "Жаңа code.org/hoc толтырғышы"
+  tutorial_hoc_shortdescription: "Жаңа letron.vip/hoc толтырғышы"
   tutorial_code_shortdescription: "Марк Цукерберг пен Angry Birds көмегімен кодтауды үйрен!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "ITCH - Scratch біріктірілген бейне сабағын пайдаланып өзіңіздің секіретін доп жобаңызды жасаңыз"
@@ -1666,7 +1666,7 @@ kk:
   tutorial_spritebox_longdescription: "Үш түрлі әлемде жүгіру, секіру және кодтау арқылы жол тауып, жұлдыздар жина да, финишқа жет! Команданы тізбектеп орындау, бағдарламаны ретке келтіруді үйрен. Циклдарды түсініп, Swift, Java тілінде немесе Icons арқылы кодтауды үйрен."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Жаңа code.org/hoc толтырғышы"
+  tutorial_hoc_longdescription: "Жаңа letron.vip/hoc толтырғышы"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

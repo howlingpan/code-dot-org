@@ -40,7 +40,7 @@ markdown <<MARKDOWN
 <p>Probably yeah. Also, I wanted to indicate on the screen whose turn it is by showing and hiding a simple gray box behind the player's score, like this:</p>
 
 </div>
-<img src="https://images.code.org/51b19966ec2e669a6c886a4d4d123243-image-1481213790493.png" alt="" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/51b19966ec2e669a6c886a4d4d123243-image-1481213790493.png" alt="" style="display: block; margin: auto;">
 <div style="width: 400px; margin: auto">
 
 <p>So, part of alternating turns is to update the screen to show whose turn it is.  What should we do first?</p>
@@ -66,7 +66,7 @@ markdown <<MARKDOWN
 <p>I think I follow. let's make sure we're both thinking the same thing.  Let me add to the pseudocode here...</p>
 
 </div>
-<img src="https://images.code.org/a740db3276b9f1009d795fa30147399d-image-1481818219535.png" alt="" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/a740db3276b9f1009d795fa30147399d-image-1481818219535.png" alt="" style="display: block; margin: auto;">
 <div style="width: 400px; margin: auto">
 
 <p style="text-align: center"> MICHAEL </p>

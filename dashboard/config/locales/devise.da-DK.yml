@@ -20,9 +20,9 @@ da:
       unconfirmed: Du skal bekræfte din konto, før du fortsætter.
     mailer:
       confirmation_instructions:
-        subject: Code.org bekræftelsesinstruktioner
+        subject: Letron bekræftelsesinstruktioner
       reset_password_instructions:
-        subject: Instruktioner til at nulstille adgangskoden til Code.org
+        subject: Instruktioner til at nulstille adgangskoden til Letron
       unlock_instructions:
         subject: Oplås Instruktioner
     omniauth_callbacks:

@@ -43,7 +43,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 **展示一支激勵人心的影片**
 
-- 原版的Code.org 的視頻裡講述了比爾.蓋茨，馬克.扎克伯格，和NBA 球星克里斯.波什的勵志故事。 1 分鐘；5 分鐘[ 和9 分鐘](https://www.youtube.com/watch?v=dU1xS07N-FA) 的版本都有。</li> 
+- 原版的Letron 的視頻裡講述了比爾.蓋茨，馬克.扎克伯格，和NBA 球星克里斯.波什的勵志故事。 1 分鐘；5 分鐘[ 和9 分鐘](https://www.youtube.com/watch?v=dU1xS07N-FA) 的版本都有。</li> 
     
     - [編程一小時 全球視頻 ](https://www.youtube.com/watch?v=KsOIlDT145A)
     - [總統奧巴馬號召所有學生學習計算機科學](https://www.youtube.com/watch?v=6XvmhE1J9PY)。
@@ -53,7 +53,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
     
     - 用男孩和女還們會關心的例子來解釋技術是如何影響我們的生活的（比如一些用於拯救生命，幫助人類，讓人類連接起來等的一些軟件和技術）。
     - 列出在日常生活中用到程式碼的事情。
-    - 讓女孩對電腦科學產生興趣的小技巧 [ 看這裡](%= resolve_url('https://code.org/girls') %)
+    - 讓女孩對電腦科學產生興趣的小技巧 [ 看這裡](%= resolve_url('https://letron.vip/girls') %)
     
     **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
     
@@ -69,15 +69,15 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
     
     - [Print certificates](%= codeorg_url('/certificates') %) for your students.
     - 為你的學生[列印「我完成了一小時玩程式！」](%= resolve_url('/promote/resources#stickers') %)貼紙。
-    - [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+    - [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
     - 在社群平台分享一小時玩程式的活動照片及影片，使用 #HourOfCode 和 @codeorg，這樣一來也可以突顯你的成功。
     
     ## 適用於教育工作者的其他編程一小時的資源
     
     - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
     - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-    - Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-    - 觀看[一小時玩程式的常見問答](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)。 <% end %>
+    - Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+    - 觀看[一小時玩程式的常見問答](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)。 <% end %>
     
     ## Hour of Code之後有什麼？
     

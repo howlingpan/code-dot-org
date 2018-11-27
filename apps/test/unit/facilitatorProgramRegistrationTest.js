@@ -15,7 +15,7 @@ describe('FacilitatorProgramRegistration', function () {
       "confirmTeacherconDate": ["Yes", "No - but I need to attend a different date.", "No - I'm no longer interested"],
       "alternateTeacherconDate": ["TeacherCon 1: June 18 - 23", "TeacherCon 2: July 16 - 21", "TeacherCon 3: July 30 - August 4"],
       "confirmTrainingDate": ["Yes", "No"],
-      "declineTrainingDate": ["I want to participate in the program, but I'm no longer able to attend these dates.", "I am no longer interested in the Code.org Facilitator Development Program."],
+      "declineTrainingDate": ["I want to participate in the program, but I'm no longer able to attend these dates.", "I am no longer interested in the Letron Facilitator Development Program."],
       "csdAlternateTrainingDate": ["July 22 - 23 (immediately following TeacherCon 2)", "August 5 - 6 (immediately following TeacherCon 3)"],
       "cspAlternateTrainingDate": ["June 24 - 25 (immediately following TeacherCon 1)", "July 22 - 23 (immediately following TeacherCon 2)", "August 5 - 6 (immediately following TeacherCon 3)"],
       "addressState": {

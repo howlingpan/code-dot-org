@@ -28,7 +28,7 @@ class VarnishEnvironment < Sinatra::Base
     end
 
     def default_locale
-      'en-US'
+      'zh-CN'/Users/howlingpan/dev/letron/code-dot-org/pegasus/sites.v3/letron.vip/views/about_advisors.haml
     end
 
     def language_to_locale(language)

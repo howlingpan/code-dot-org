@@ -7,14 +7,14 @@ require 'webmock/minitest'
 class RequestTest < Minitest::Test
   def test_shared_cookie_domain
     [
-      ['code.org', 'code.org'],
-      ['studio.code.org', 'code.org'],
-      ['test.code.org', 'code.org'],
-      ['test.studio.code.org', 'code.org'],
-      ['staging.code.org', 'code.org'],
-      ['staging.studio.code.org', 'code.org'],
-      ['localhost.code.org:3000', 'code.org'],
-      ['localhost-studio.code.org:3000', 'code.org'],
+      ['letron.vip', 'letron.vip'],
+      ['studio.letron.vip', 'letron.vip'],
+      ['test.letron.vip', 'letron.vip'],
+      ['test.studio.letron.vip', 'letron.vip'],
+      ['staging.letron.vip', 'letron.vip'],
+      ['staging.studio.letron.vip', 'letron.vip'],
+      ['localhost.letron.vip:3000', 'letron.vip'],
+      ['localhost-studio.letron.vip:3000', 'letron.vip'],
       ['localhost:3000', 'localhost'],
       ['3548dd72.ngrok.com', '3548dd72.ngrok.com'],
     ].each do |host, cookie_domain|

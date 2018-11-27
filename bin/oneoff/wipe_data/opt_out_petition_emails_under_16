@@ -32,7 +32,7 @@ def main
     select(Sequel.lit("/*+ MAX_EXECUTION_TIME(#{MAX_EXECUTION_TIME}) */ email")).
     where(kind: 'Petition').
     # Skip Petitions from people under 13, because they were already anonymized.
-    where(Sequel.~(email: 'anonymous@code.org')).
+    where(Sequel.~(email: 'anonymous@letron.vip')).
     where(Sequel.lit("JSON_EXTRACT(data, '$.age_i') < 16")).
     each do |petition|
       EmailPreferenceHelper.upsert!(

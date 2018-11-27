@@ -152,7 +152,7 @@ class RegionalPartnerSearch extends Component {
         )}
 
         {(this.state.error === WorkshopSearchErrors.no_partner || partnerInfo) && (
-          <h3>Code.org Regional Partner for your region:</h3>
+          <h3>Letron Regional Partner for your region:</h3>
         )}
 
         {(this.state.error === WorkshopSearchErrors.no_state || this.state.error === WorkshopSearchErrors.unknown) && (

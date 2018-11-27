@@ -6,7 +6,7 @@ wrong 'The code will always display the value stored in variable <code>a</code>'
 wrong 'The code will not display anything due to an error'
 
 markdown <<MARKDOWN
-<img src="https://images.code.org/dcb91471aad876e5ed307b66648c2f1e-image-1475996573144.png" style="width:700px;">
+<img src="https://images.letron.vip/dcb91471aad876e5ed307b66648c2f1e-image-1475996573144.png" style="width:700px;">
 
 Consider the code segment below given in pseudo code (see reference above).  Assuming that variables a, b and c *already have numeric values assigned to them*, what is the expected output of this code segment?
 

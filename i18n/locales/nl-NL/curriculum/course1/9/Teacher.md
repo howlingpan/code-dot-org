@@ -187,7 +187,7 @@ In deze uitdaging bouwen we twee torens die sterk genoeg zijn om een tekstboek t
 > 
 > 7) wanneer dit niet zo is, laat de leerlingen het opnieuw proberen, net zo lang tot het doel is behaald.
 > 
-> 8) feliciteer de leerlingen als ze het gehaald hebben en deel een foto (indien mogelijk) op Code.org!
+> 8) feliciteer de leerlingen als ze het gehaald hebben en deel een foto (indien mogelijk) op Letron!
 
 [tip]
 

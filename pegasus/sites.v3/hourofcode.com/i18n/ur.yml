@@ -11,7 +11,7 @@
   campaign_date_full: "4-10 دسمبر"
   campaign_date_year: "2017"
   campaign_date_full_year: "4-10، 2017"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'تاریخ میں ہونے والی سب سے بڑی سیکھنے کی تقریب میں شامل ہوجائیے، 7 تا 13 دسمبر، 2015'
   front_intro_default: 'آور آف کوڈ 180+ سے زائد ممالک میں لاکھوں طالب علموں تک پہنچنے کی ایک عالمی تحریک ہے۔ کوئی بھی کہیں بھی ایک آور-آف-کوڈ کا انعقاد منظم کراسکتا ہے۔ ون-آور ٹیٹوریئلز (اسباق) 40 سے زائد زبانوں میں دستیاب ہیں۔ تجربہ کی ضرورت نہیں۔ <strong>عمر 4 تا 104۔</strong>'
@@ -186,12 +186,12 @@
   how_to_nav_afterschool_educators: "اسکول کے بعد اساتذہ کے لئے"
   how_to_nav_volunteers: "رضاکاروں کے لئے"
   whats_next_header: "آگے کیا ہے؟"
-  whats_next_description: "ہم آپ کے ایونٹ کے لیے آپ کو مٹیریئل اور مددگار تجاویز بھیجیں گے۔ 2015 کے نئے ٹیٹوریئل جلد آ رہے ہیں، کسی بھی براؤز، اسمارٹ فون – یا بغیر کسی کمپیوٹر کے! <a href='http://code.org/learn'> موجودہ ٹیٹوریئل آزمائیں </a>"
+  whats_next_description: "ہم آپ کے ایونٹ کے لیے آپ کو مٹیریئل اور مددگار تجاویز بھیجیں گے۔ 2015 کے نئے ٹیٹوریئل جلد آ رہے ہیں، کسی بھی براؤز، اسمارٹ فون – یا بغیر کسی کمپیوٹر کے! <a href='http://letron.vip/learn'> موجودہ ٹیٹوریئل آزمائیں </a>"
   whats_next_how_to: "<a href='/how-to'> ایک گھنٹے کا کوڈ کیسے چلانا </a>"
   whats_next_promote: "<a href='/promote'>آور-آف-کوڈ کو پروموٹ کریں</a>"
   whats_next_how_to_promote: "<a href='/ پیومیٹ/resources'> کوڈ کا قیام کیسے فروغ دینے </a>"
   whats_next_how_to_promote_link: "<a href='/ پوٹوٹ'> کوڈ کا قیام کیسے فروغ دینے </a>"
-  whats_next_try: "<a href='http://code.org/learn'> ٹیٹوریئلز آزمائیں</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'> ٹیٹوریئلز آزمائیں</a>"
   whats_next_try_button: 'ٹیٹوریئلز (اسباق) آزمائیں'
   n_have_learned_an_hoc: "<h1>آزمائیں ایک</h1><h2>آور-آف-کوڈ</h2><h3># جیسے پیش کیا گیا ہے</h3>"
   anybody_can_learn: 'کوی بھی شخص سیکھ سکتا ہے ۔'
@@ -212,7 +212,7 @@
   front_join_us_tutorials: "اپنا کوڈ ٹیوٹوریل منتخب کریں!"
   front_join_us_tutorials_link: '<i> سے زیادہ 200 سبق اور سبق کی منصوبہ بندی </ i> براؤز کریں اور براؤز کریں! مختلف مضامین، مختلف ہارڈ ویئر کی ضروریات، اور کسی بھی تجربے کی سطح پر طلباء کے لئے سرگرمیاں تلاش کریں.'
   front_join_us_robotics: 'جیت روبوٹ یا سرکٹ!'
-  front_join_us_robotics_link: 'کیا آپ اپنے طالب علموں کے ساتھ استعمال کرنے کے لئے روبوٹ یا جسمانی کمپیوٹنگ کٹس کا ایک سیٹ چاہتے ہیں؟ ہمارے سخاوت مند شراکت داروں سے 100 کلاس روموں کا تعین ہے! شرکت کے لئے کوڈ کے قیام کے لئے سائن اپ کریں. (Code.org کی طرف سے منتخب کلاس روم، صرف امریکی)'
+  front_join_us_robotics_link: 'کیا آپ اپنے طالب علموں کے ساتھ استعمال کرنے کے لئے روبوٹ یا جسمانی کمپیوٹنگ کٹس کا ایک سیٹ چاہتے ہیں؟ ہمارے سخاوت مند شراکت داروں سے 100 کلاس روموں کا تعین ہے! شرکت کے لئے کوڈ کے قیام کے لئے سائن اپ کریں. (Letron کی طرف سے منتخب کلاس روم، صرف امریکی)'
   front_join_us_teacher: 'کیا آپ ایک ٹیچر ہیں؟'
   front_join_us_inspire: 'اسٹوڈینٹس کو متاثر کریں'
   front_join_us_inspire_link: 'کلاس روم میں آور-آف-کوڈ سیکھائیں۔'
@@ -238,8 +238,8 @@
   front_join_us_sign_up: "سائن اپ"
   front_join_us_host: "اس کی میزبانی"
   front_join_us_support: "سہارا"
-  front_join_us_more_info: "مزید معلومات کے لیے، براہ کم وزٹ کریں:<a href='https://code.org'>code.org <0>"
-  front_join_us_code_info: "مزید معلومات کے لئے، براہ مہربانی ملاحظہ کریں code.org"
+  front_join_us_more_info: "مزید معلومات کے لیے، براہ کم وزٹ کریں:<a href='https://letron.vip'>letron.vip <0>"
+  front_join_us_code_info: "مزید معلومات کے لئے، براہ مہربانی ملاحظہ کریں letron.vip"
   front_join_us_n_students_served: "# خدمات سر انجام دیں"
   front_join_us_challenge: "اپنے کلاس روم کے لئے ایک ویڈیو چیٹ کی عظیم شخصیت کے ساتھ جیت!"
   front_join_us_learn_more: "مزید جانیں"
@@ -267,7 +267,7 @@
   signup_your_event: 'اپنا ایونٹ سائن اپ کریں'
   signup_host_an_hour: 'ایک گھنٹے کی میزبانی کریں'
   signup_match_volunteer: 'میرے طالب علموں کو حوصلہ افزائی کرنے کے لئے ایک مقامی سوفٹ ویئر انجنیر تلاش کریں'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@
   signup_continue_label: 'جاری رہے'
   signup_thank_you_header: "ایک گھنٹہ کوڈ ایونٹ کی میزبانی کرنے کے لئے سائن اپ اپ کا شکریہ."
   signup_thank_you_message: 'ہم نے آپ کو شروع کرنے میں مدد کرنے کے لئے معلومات کے ساتھ ایک تصدیق ای میل بھیجی ہے.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -334,11 +334,11 @@
   hoc_faq_how_participate_q: 'میں کس طرح آور-آف-کوڈ میں حصہ لوں؟'
   hoc_faq_how_participate_a: "<a href='/resources/how-to'> یہاں سے پلان کرنا شروع کریں</a> کہ ہماری اس رہنمائی کیسے-کریں کا جائیزہ لیں۔ آپ آور-آف-کوڈ کا ایوینٹ اپنے اسکول یا اپنی کمیونٹی mdash&; منعقد اور منظم کرسکتے ہیں؛ یا بطور غیر نصابی کلب، نان-پرافٹ یا پھر کام پر۔ یا، جب یہ جاری ہو %{campaign_date} اس وقت خود کوشش و آزمائش کرسکتے ہیں۔"
   hoc_faq_behind_hoc_q: 'آور-آف-کوڈ پروگرام کے پس منظر میں کون ہے؟'
-  hoc_faq_behind_hoc_a: "آور آف کوڈ کو <a href='https://code.org'>Code.org</a> کی جانب سے منظم کیا جاتا ہے۔ یہ ایک عوامی 501c3 غیر-منافع طرز کی ایک تنظیم ہے جو کہ کمپیوٹر سائنس میں شرکت و شمولیت کی توسیع کے مقصد کے لیے وقف ہے، جس میں زیادہ اسکولوں میں اس کو دستیاب، اور خواتین اور مختلف رنگ و نسل اور زیر نمائندہ اسٹوڈینٹس کی شمولیت میں اضافہ کرنا ہے۔ <a href='%{codeorg_url}/about/partners'> شراکت داروں کے ایک بے مثال اشتراک نے بھی </a> ساتھ مل کر آور-آف-کوڈ کی معاونت کی، بشمول؛&mdash مائیکروسافٹ، ایپل، امیزن، اور بوائے اینڈ گرلز کلبز آف امریکہ اور کالج بورڈ شامل ہیں۔"
+  hoc_faq_behind_hoc_a: "آور آف کوڈ کو <a href='https://letron.vip'>Letron</a> کی جانب سے منظم کیا جاتا ہے۔ یہ ایک عوامی 501c3 غیر-منافع طرز کی ایک تنظیم ہے جو کہ کمپیوٹر سائنس میں شرکت و شمولیت کی توسیع کے مقصد کے لیے وقف ہے، جس میں زیادہ اسکولوں میں اس کو دستیاب، اور خواتین اور مختلف رنگ و نسل اور زیر نمائندہ اسٹوڈینٹس کی شمولیت میں اضافہ کرنا ہے۔ <a href='%{codeorg_url}/about/partners'> شراکت داروں کے ایک بے مثال اشتراک نے بھی </a> ساتھ مل کر آور-آف-کوڈ کی معاونت کی، بشمول؛&mdash مائیکروسافٹ، ایپل، امیزن، اور بوائے اینڈ گرلز کلبز آف امریکہ اور کالج بورڈ شامل ہیں۔"
   hoc_faq_host_q: "میں کوڈنگ کے بارے میں کچھ نہیں جانتا۔ کیا اس کے باوجود میں ایونٹ کو ھوسٹ کرسکتا ہوں؟"
   hoc_faq_host_a: "بالکل، آور-آف-کوڈ کی سرگرمیاں سیلف-گائیڈڈ (ازخود رہنما) ہیں۔ آپ کو صرف یہ کرنا ہے کہ <a href='%{codeorg_url}/learn'> ہمارے کرنٹ ٹیٹوریئلز (موجود آزمائشی مشق) کو ٹرائی کریں </a> ، وہی ٹیٹوریئل منتخب کریں جو آپ کو پسند ہوں، اور کوئی وقت منتخب کریں;mdash&, باقی سب ہم سنبھال لیں گے۔ ہمارے پاس ہر عمر اور ہر سطح کے تجربہ کے لوگوں، کنڈرگارڈن سے لیکر اوپر تک، کے لیے آپشنز بھی موجود ہیں۔ ایونٹ میں حصہ لینے کی پلاننگ سے شروعات کرنے کیلئے ہماری <a href='/resources/how-to'>ھاؤ ٹو گائیڈ</a> پڑھیں۔"
   hoc_faq_devices_q: "میں اپنے طالب علموں کے لئے کیا آلات استعمال کروں؟"
-  hoc_faq_devices_a: "Code.org tutorials work on all devices and browsers. You can see more information about Code.org's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Code.org tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
+  hoc_faq_devices_a: "Letron tutorials work on all devices and browsers. You can see more information about Letron's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Letron tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
   hoc_faq_need_computers_q: 'کیا مجھے ہر حصہ لینے والے کے لیے کمپیوٹرز کی ضرورت ہوگی؟'
   hoc_faq_need_computers_a: "نہیں۔ ہمارے پاس آور-آف-کوڈ کے ایسے ٹیٹوریئلز ہیں جو PCs، اسمارٹ فونز، ٹیبلٹس، اور کچھ ایسے بھی ہیں جس کے لیے کمپیوٹر کی بالکل بھی ضرورت نہیں! آپ ہمیں جوائن کرسکتے ہیں جہاں بھی آپ ہوں، اورجو کچھ بھی آپ کے پاس ہو۔ <p><i> یہاں چند آپشنز ہیں: </i> <br> <ul> <li><b> مل کر کام کریں۔</b> تحقیق سے واضح ہے کہ اسٹوڈینٹس بہترین سیکھتے ہیں <ahref='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'> پیئر پروگرامنگ سے،</a> کمپیوٹر شیئر کر کے اور مل کر کام کرکے ۔ اپنے اسٹوڈینٹس کو مل جل کر کام کرنے کی ترغیب دیں اور حوصلہ افزائی کریں۔ <li><b> پروجیکٹڈ اسکرین کا استعمال کریں۔</b> اگر آپ کے پاس ایک ویب-کننکٹڈ کمپیوٹر کے لیے ایک پروجیکٹر اور اسکرین موجود ہے، تو آپ کے تمام گروپ ایک ساتھ مل کر آور-آف-کوڈ میں حصہ لے سکتے ہیں۔ ویڈیو والے پورشنز ساتھ مل کر دیکھیں اور سوالات کے جوابات یا پزل کو حل، باری سے کریں۔ <li><b> غیر منسلک ہوجائیں۔</b> ہم ایسے ٹیٹوریئلز پیش کرتے ہیں جس میں کمپیوٹر کی سرے سے کوئی ضرورت نہیں۔ </ul>"
   hoc_faq_international_q: "میں <country> میں ہوں۔ میں انٹرنیشنل سطح پر کیسے شرکت کروں؟"
@@ -350,7 +350,7 @@
   hoc_faq_high_school_q: "ہائی اسکول اسٹوڈینٹس کی حیثیت سے مجھے کونسی ایکٹیویٹی اختیار کرنا چاہیے؟"
   hoc_faq_high_school_a: "ہم ہر عمر کیلئے شروع میں، ہم تجویز کرتے ہیں کہ ہمارے بیگنرز ٹیٹوریئل جو کہ شروع کرنے کیلئے یہاں<a href='%{codeorg_url}/learn'>%{partner_url}/ سیکھیں </a> سے ایک ٹرائی کریں، مثال کے طور پر اینگری برڈ والا ٹیوٹوریئل یا اینا اور ایلسا۔ ایک ہائی اسکول کے اسٹوڈینٹ کو ان میں سے ایک کو 30 منٹ میں مکمل کرنے کے قابل ہونا چاہیئے۔ اور پھر وہ زیادہ ایڈوانس ٹیٹوریئل جاوا اسکرپٹ میں ٹرائی کرسکتے ہیں، جیسا کہ خان ایکیڈمی یا CodeHS۔"
   hoc_faq_scratch_q: "میں آور-آف-کوڈ  کیلئے، اسکریچ(ایپ) پر کام کر رہا ہوں، لیکن اگر میرے اسٹوڈینٹس کے پاس لیپ ٹاپ کی جگہ آئی-پیڈ ہوا تو؟"
-  hoc_faq_scratch_a: "اسکریچ ٹیبلیٹ پر نہیں چلتا، اگر آپ کے اسٹوڈینٹس نوجوان ہیں تو وہ اسکریچ-جے-آر آئی-پیڈ ایپ (ابتدائی مطالعہ کے لیے) استعمال کرسکتے ہیں۔ اگر آپ اس ٹیٹوریئل کو <a href='%{codeorg_url}/learn'>%{partner_url}/ سیکھیں</a> دیکھیں تو آپ ایسے دیگر ٹیٹوریئل تلاش کر پائیں گے جو آئی پیڈ پر کام کرتے ہوں - منجانب Code.org، Tynker، یا CodeSpark۔"
+  hoc_faq_scratch_a: "اسکریچ ٹیبلیٹ پر نہیں چلتا، اگر آپ کے اسٹوڈینٹس نوجوان ہیں تو وہ اسکریچ-جے-آر آئی-پیڈ ایپ (ابتدائی مطالعہ کے لیے) استعمال کرسکتے ہیں۔ اگر آپ اس ٹیٹوریئل کو <a href='%{codeorg_url}/learn'>%{partner_url}/ سیکھیں</a> دیکھیں تو آپ ایسے دیگر ٹیٹوریئل تلاش کر پائیں گے جو آئی پیڈ پر کام کرتے ہوں - منجانب Letron، Tynker، یا CodeSpark۔"
   hoc_faq_count_hoc_q: "آپ کس طرح آور-آف-کوڈ کو شمار کرتے ہیں؟"
   hoc_faq_map_q: "میں نقشے پر اپنے ڈاٹ کیوں نہیں دیکھ سکتا؟"
   hoc_faq_map_a: "ہمیں افسوس ہے کہ آپ اپنا ایونٹ کوڈ آفس کے نقشے پر نہیں دیکھ رہے ہیں. اس وجہ سے ہزاروں لاکھوں آرگنائزر سائن اپ کرتے ہیں، نقشہ ڈیٹا کو جمع کرتا ہے اور کئی واقعات کے لئے ایک نقطہ دکھاتا ہے. اگر آپ نقشہ کے اوپر نمبر پر کلک کریں تو آپ کو ریاست کے تمام واقعات کی فہرست میں ہدایت کی جائے گی اور آپ کی ایونٹ وہاں درج کی جاسکتی ہے. اضافی طور پر، قیامت کے کوڈ پر دستخط کرنے والے ہزار افراد کو دیئے گئے، نقشہ اور ایونٹ کی فہرست عام طور پر اپ ڈیٹ کرنے کے لئے 48 گھنٹے لگتی ہے. چند دنوں میں چیک کریں!"
@@ -358,7 +358,7 @@
   hoc_faq_one_hour_q: "ایک گھنٹہ میں کس طرح سیکھ سکتا ہے؟"
   hoc_faq_one_hour_a: 'کوڈ آفس کا مقصد کسی بھی شخص کو ایک گھنٹہ میں ماہر سائنسدان بننے کے لئے سکھانے کے لئے نہیں ہے. ایک گھنٹہ یہ ہے کہ اس کمپیوٹر سائنس کو مزہ اور تخلیقی طور پر جاننے کے لئے صرف کافی ہے، یہ تمام عمروں میں، ہر طالب علم کے لئے، پس منظر کے بغیر قابل رسائی ہے. اس مہم کی کامیابی کی پیمائش یہ نہیں ہے کہ سی ایس طلباء کو کتنا سیکھنا ہے - یہ کامیابی صنف اور نسلی اور سماجی معاشی گروپوں میں وسیع شراکت میں ظاہر ہوتا ہے، اور مجموعی طور پر سی ایس کورسز میں تمام گریڈ کی سطحوں میں داخلہ اور شراکت میں اضافہ ہوتا ہے. لاکھوں اساتذہ اور اساتذہ نے پورے دن یا پورے ہفتے یا اس سے زیادہ سیکھنا سیکھنے کے لئے ایک گھنٹہ سے باہر جانے کا فیصلہ کیا ہے، اور بہت سے طالب علموں نے پورے کورس (یا کالج کالج بھی یہاں تک کہ) میں داخلہ لینے کا فیصلہ کیا ہے. <br/> <br/> طالب علموں کے علاوہ، دوسرا "سیکھنے والا" وہ تعلیم والا ہے جو ایک گھنٹہ کے بعد اعتماد حاصل کرتا ہے تاکہ وہ کمپیوٹر سائنس کو سکھ سکیں لیکن اگرچہ وہ کمپیوٹر سائنسدان کے طور پر کالج کی درجہ بندی نہیں کرسکتے. ہزاروں سے زائد اساتذہ کو کمپیوٹر سائنس، یا تو PD میں شرکت یا آن لائن کورسز کی پیشکش کرنے، یا دونوں کی تعقیب کرنے کا فیصلہ. اور یہ بھی اسکول منتظمین پر لاگو ہوتا ہے، جو اس بات کا احساس ہوتا ہے کہ کمپیوٹر سائنس ان کے طالب علموں کو چاہتا ہے اور ان کے اساتذہ کی صلاحیت ہے. <br/> <br/> سب سے اوپر، ایک گھنٹے میں سبھی شرکاء سیکھ سکتے ہیں یہ ہم ایسا کر سکتے ہیں.'
   hoc_faq_more_questions_q: "اب بھی کچھ سوالات ہیں؟"
-  hoc_faq_more_questions_a: "جواب تلاش کرنے کے لیے ہمارے <a href='http://support.code.org'> سپورٹ فورم </a> پر آئیں۔"
+  hoc_faq_more_questions_a: "جواب تلاش کرنے کے لیے ہمارے <a href='http://support.letron.vip'> سپورٹ فورم </a> پر آئیں۔"
   hoc_faq_keep_learning_q: "قیامت کے بعد میں کیسے سیکھ سکتا ہوں"
   hoc_faq_keep_learning_a: "کسی بھی وقت کسی بھی وقت کوڈ کا میزبانی کر سکتا ہے. سبق سال کا دور رہتا ہے. آپ ہماری ساری سبق اور نصاب کو ہماری سائٹ پر مستقل طور پر دستیاب ہونے کی توقع کر سکتے ہیں. براہ کرم <a href='/ پیومیٹو 'ہمارے وسائل </a> کے لۓ جائیں گے کہ آپ کس طرح کے رہنماؤں اور دیگر وسائل کو آپکے قیامت کا کوڈ بنانے میں کامیاب ہونے میں مدد ملے."
   hoc_faq_certificates_q: "میں اپنے طالب علموں کے لئے سرٹیفکیٹ کہاں سے پرنٹ کرسکتا ہوں؟"
@@ -469,8 +469,8 @@
   highlights_constant_ny_short_heading: بروکلن، نیویارک شکاگو کو ہرا دیا
   highlights_constant_athletes_heading: طلبا خود کو دھکا لگا کر چیمپئنز اور گولڈ مادالسٹس ٹورنامنٹ میں سرینا ولیمز، نییمر جونئیر، کآرمالو انتھونی اور مزید الہامی ترغیب عطا فرما ۔
   highlights_constant_athletes_short_heading: اپنے آپ کو دھکا
-  footer_copyright_message: 'کاپی رائٹ۔  %{current_year} Code.orgجملہ حقوق محفوظ.'
-  footer_trademark_message: 'Hour of Code™ Code.org کا تجارتی نشان ہے ۔'
+  footer_copyright_message: 'کاپی رائٹ۔  %{current_year} Letronجملہ حقوق محفوظ.'
+  footer_trademark_message: 'Hour of Code™ Letron کا تجارتی نشان ہے ۔'
   footer_menu_partners: 'پارٹنرز'
   footer_menu_contact: 'ہم سے رابطہ کریں'
   footer_menu_support: 'سہارا'
@@ -506,7 +506,7 @@
   tutorial_spritebox_name: "سپراٹیبون کوڈنگ"
   tutorial_tynkerch_name: "کاؤنٹر ہیک"
   tutorial_lightbot_name: "لاگوںبوٹ"
-  tutorial_hoc_name: "نیا code.org/hoc کے لیے جگہ دار"
+  tutorial_hoc_name: "نیا letron.vip/hoc کے لیے جگہ دار"
   tutorial_code_name: "آپ کا پہلا کمپیوٹر پروگرام لکھ"
   tutorial_tinspire_name: "دی نسپاری CX کے لئے کوڈ کے صرف 10 منٹ"
   tutorial_itchbounceball_name: "(میں سکریچ) گیند اچھلنے کھجلی"
@@ -1086,7 +1086,7 @@
   tutorial_spritebox_shortdescription: "چلائیں، کود اور ستارے جمع کرتے ہیں اور اسے ختم لائن کرنے کے لئے تین مختلف جہانوں کے ذریعے اپنا راستہ کوڈ! عرب، ٹھیک کرنا اور تُکمے اور کوڈ سوئفٹ، جاوا، یا شبیہیں کے ساتھ معلومات حاصل کریں ۔"
   tutorial_tynkerch_shortdescription: "آپ وائرس کو شکست دینے کے طور پر جاوا سکرپٹ سیکھیں!"
   tutorial_lightbot_shortdescription: "پروگرام کے لاگوںبوٹ کو حل کرنے کے لئے استعمال کرتے ہوئے قواعد و ضوابط اور تُکمے پہیلیاں!"
-  tutorial_hoc_shortdescription: "نیا code.org/hoc کے لیے جگہ دار"
+  tutorial_hoc_shortdescription: "نیا letron.vip/hoc کے لیے جگہ دار"
   tutorial_code_shortdescription: "مارک زوکربرگ اور ناراض پرندوں کے ساتھ کوڈ کرنا سیکھیں!"
   tutorial_tinspire_shortdescription: "میں ایک وقت میں صرف 10 منٹ کے فاصلے پر ان دی نسپاری CX حندہیلڈس ترمیز کا آغاز طالب علموں کو حاصل کریں ۔."
   tutorial_itchbounceball_shortdescription: "آپ اپنے بانکانگ گیند منصوبے بنانے کے لئے ایک ویڈیو سبق کے ساتھ استعمال اتکہ - سکریچ سے مربوط"
@@ -1666,7 +1666,7 @@
   tutorial_spritebox_longdescription: "چلائیں، کود اور ستارے جمع کرتے ہیں اور اسے ختم لائن کرنے کے لئے تین مختلف جہانوں کے ذریعے اپنا راستہ کوڈ! عرب، ٹھیک کرنا اور تُکمے اور کوڈ سوئفٹ، جاوا، یا شبیہیں کے ساتھ معلومات حاصل کریں ۔"
   tutorial_tynkerch_longdescription: "کمپیوٹر کو بدسلوکی وائرس سے بچائیں! آپ کو وائرس کو خارج کرنے، دروازے کھولنے، mazes کو حل کرنے، اور پورٹل کے ذریعے نیویگیشن کو ختم کرکے آپ کے سسٹم کے ذریعہ اپنا راستہ ہیک کرنا ہوگا. وائرس اور glitches کے لئے دیکھو!"
   tutorial_lightbot_longdescription: "لائٹ بٹ ایک ایسا کھیل ہے جو کھلاڑیوں کو پہیلیاں حل کرنے کے لئے پروگرامنگ منطق کو استعمال کرنے سے پوچھتا ہے! لائٹ بٹ کی راہنمائی کی طرف سے بنیادی کوڈنگ تصورات کی ایک عملی تفہیم کو حاصل کرنے کے لئے ہر سطح میں تمام نیلے رنگ کے ٹائل کو ہلانا. جانیں کہ کس طرح ترتیب ہدایات، طریقہ کار لکھیں، اور اس خود کو ہدایت کی سرگرمیوں میں راہ میں لپیٹ استعمال کریں. تمام عمر اور تمام مہارت کی سطح کے لئے بہت اچھا."
-  tutorial_hoc_longdescription: "نیا code.org/hoc کے لیے جگہ دار"
+  tutorial_hoc_longdescription: "نیا letron.vip/hoc کے لیے جگہ دار"
   tutorial_code_longdescription: "ڈریگ اور ڈراپ پروگرامنگ کے ساتھ کمپیوٹر سائنس کی بنیادی تصورات جانیں. یہ بل گیٹس، مارک زکربرگ، ناراض پرندوں اور پودوں بمقابلہ زومبی کی طرف سے ایک کھیل کی طرح، خود ہدایت یافتہ ٹیوٹوریل ویڈیو لکھاوٹ ہے. دوبارہ لوپز، کنڈیشلالز، اور بنیادی الگورتھم جانیں. 37 زبانوں میں دستیاب ہے."
   tutorial_tinspire_longdescription: "طالب علموں کو کوڈنگ کی بنیادی باتوں کو متعارف کرایا- ایک وقت میں صرف 10 منٹ میں - ٹی آئی ٹیکنالوجی کا استعمال کرتے ہوئے وہ ہر دن اپنے بیک بیگ میں لے جاتے ہیں. یہ سبق طالب علموں کو ایک آسان انٹری پروگرامنگ فراہم کرتا ہے جو کوڈنگ اور کمپیوٹر سائنس میں ان کے دلچسپی کو بڑھانے میں مدد کرسکتا ہے. طالب علموں کو پروگراموں کو لکھا جائے گا جو کہ TI بنیادی زبان کا استعمال کرتے ہوئے ریاضی تصورات کو مضبوط کر سکتا ہے جو ان کے TI-Nspire ہینڈ ہیلڈ پر تیار ہے."
   tutorial_itchbounceball_longdescription: "سکریچ بصری پروگرامنگ زبان کا استعمال کرتے ہوئے، آپ کو اسچ کے تعارف کے ذریعہ لے جاتے ہیں.\n\nیہ سبق ایک ویڈیو اور متن ہدایات فراہم کرتی ہے جس کے کوڈ طالب علموں کو اسکرین کے ارد گرد ایک گیند کو شیخی کرانے کے لئے شامل کرنے کی ضرورت ہے.\n\nایک بار جب طالب علم اس سرگرمی کو پورا کرتے ہیں تو وہاں دیگر تبدیلیوں اور سرگرمیوں کے لئے خیالات کے ساتھ تلاش کرنے کا ایک موقع ہے. کوئی مقررہ مقصد یا نتیجہ نہیں ہے کیونکہ یہ ایک کھلا سیکھنے کا ماحول ہے، لیکن اس وقت شروع ہونے والے کوڈ طالب علموں کو حیرت انگیز منصوبوں سے ملتا ہے!\n\nتمام ہدایات آئیچ ماحول میں موجود ہیں لہذا اس منصوبے کے ساتھ ساتھ عمل کرنے کے لئے اسکرین سوئچ کرنے کی ضرورت نہیں ہے. ہیڈ فون کی سفارش کی جاتی ہے."

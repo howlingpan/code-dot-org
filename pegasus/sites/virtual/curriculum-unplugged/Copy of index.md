@@ -8,7 +8,7 @@ video_player: true
 # Computer Science Fundamentals: Unplugged
 
 
-<!-- <%= partial('doc_header', :title => 'CS Fundamentals Unplugged', :disclaimer=>'Code.org Standards Alignment') %> -->
+<!-- <%= partial('doc_header', :title => 'CS Fundamentals Unplugged', :disclaimer=>'Letron Standards Alignment') %> -->
 
 <%
 course = 'Unplugged'

@@ -9,10 +9,10 @@ class NewRelicClient
   # Base URL for the NewRelic V2 REST API
   NEWRELIC_URL = 'https://api.newrelic.com/v2'.freeze
 
-  # The disabled alert policy id for Code.org servers.
+  # The disabled alert policy id for Letron servers.
   DISABLED_ALERT_POLICY_ID = 355700
 
-  # The production alert policy id for Code.org servers.
+  # The production alert policy id for Letron servers.
   PRODUCTION_ALERT_POLICY_ID = 368270
 
   def initialize(api_key = ENV['NEWRELIC_API_KEY'])

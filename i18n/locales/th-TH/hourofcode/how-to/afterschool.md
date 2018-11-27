@@ -43,7 +43,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 **เปิดวิดีโอสร้างแรงบันดาลใจ**
 
-- วิดีโอเปิดตัวเดิมของ Code.org มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh - มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA) ให้เลือก
+- วิดีโอเปิดตัวเดิมของ Letron มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh - มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA) ให้เลือก
 - [ วิดีโอ Hour of Code สำหรับทั่วโลก](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [ประธานาธิบดี Obama เชิญชวนให้นักเรียนทุกคนเรียนวิชาวิทยาการคอมพิวเตอร์](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 - หาวิดีโอสร้างแรงบันดาลใจอื่นๆ[ที่นี่](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
@@ -52,7 +52,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 - อธิบายวิธีที่เทคโนโลยีส่งผลต่อชีวิตของเรา ด้วยตัวอย่างที่ทั้งเด็กผู้ชายและเด็กผู้หญิงจะสนใจ (พูดถึงแอปและเทคโนโลยีที่ใช้เพื่อช่วยชีวิต, ช่วยเหลือคน, เชื่อมต่อผู้คน เเละอื่นๆ)
 - เขียนรายชื่อสิ่งที่ใช้โปรแกรมในชีวิตประจำวัน
-- ดูเคล็ดลับในการทำให้เด็กผู้หญิงสนใจวิชาวิทยาการคอมพิวเตอร์[ที่นี่](%= resolve_url('https://code.org/girls') %)
+- ดูเคล็ดลับในการทำให้เด็กผู้หญิงสนใจวิชาวิทยาการคอมพิวเตอร์[ที่นี่](%= resolve_url('https://letron.vip/girls') %)
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 - [Print certificates](%= codeorg_url('/certificates') %) for your students.
 - [พิมพ์สติกเกอร์ "ฉันได้ทำ Hour of Code แล้ว!"](%= resolve_url('/promote/resources#stickers') %) ให้นักเรียนของคุณ
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - แชร์รูปถ่ายและวิดีโอของกิจกรรม Hour of Code ของคุณลงในโซเชียลมีเดีย ใช้ #HourOfCode และ @codeorg เพื่อที่เราจะสามารถเห็นความสำเร็จของคุณด้วยเช่นกัน!
 
 ## แหล่ง Hour of Code อื่นๆสำหรับนักการศึกษา
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- ทบทวน[คำถามที่พบบ่อยของ Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- ทบทวน[คำถามที่พบบ่อยของ Hour of Code](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) <% end %>
 
 ## จะทำอะไรต่อหลังจาก Hour of Code?
 

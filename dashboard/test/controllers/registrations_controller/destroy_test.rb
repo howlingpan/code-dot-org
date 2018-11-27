@@ -150,7 +150,7 @@ module RegistrationsControllerTests
       mail = ActionMailer::Base.deliveries.last
       assert_equal I18n.t('teacher_mailer.delete_teacher_subject'), mail.subject
       assert_equal [user.email], mail.to
-      assert_equal ['noreply@code.org'], mail.from
+      assert_equal ['noreply@letron.vip'], mail.from
       assert_match 'Your account has been deleted', mail.body.encoded
     end
   end

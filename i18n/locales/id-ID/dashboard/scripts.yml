@@ -308,8 +308,8 @@ id:
               name: '∞'
         algebrademo:
           title: Demo Aljabar
-          description: Sejumlah teka-teki untuk menunjukkan lingkungan dan bahasa pemrograman yang digunakan dalam Code.org CS di Aljabar
-          description_short: Sejumlah teka-teki untuk menunjukkan lingkungan dan bahasa pemrograman yang digunakan dalam Code.org CS di Aljabar
+          description: Sejumlah teka-teki untuk menunjukkan lingkungan dan bahasa pemrograman yang digunakan dalam Letron CS di Aljabar
+          description_short: Sejumlah teka-teki untuk menunjukkan lingkungan dan bahasa pemrograman yang digunakan dalam Letron CS di Aljabar
           stages:
             Defining Simple Functions:
               name: Mendefinisikan fungsi sederhana
@@ -662,7 +662,7 @@ id:
             PDK5 Intro:
               name: Introduksi PDK5
         cspunit3:
-          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             APIs and Function Parameters:
@@ -1540,7 +1540,7 @@ id:
             Unit 3 Overview:
               name: 3 satuan ikhtisar
         cspunit3temp:
-          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             Canvas and Arrays in Apps:
@@ -1872,7 +1872,7 @@ id:
             Practice PT - Encode an Experience:
               name: Praktek PT - Mengkodekan pengalaman
         csp3-2017:
-          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             APIs and Function Parameters:
@@ -3641,7 +3641,7 @@ id:
             Unit 3 Chapter 1 Assessment:
               name: Unit 3 Penilaian bab 3
           description_short: Pemrograman
-          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
         csd4-draft:
           stages:
             Analysis of Design:
@@ -4256,7 +4256,7 @@ id:
             Unit 2 Chapter 2 Assessment:
               name: Unit 2 penilaian bab 2
         csp3-2018:
-          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+          description: "Unit ini memerkenalkan konsep dasar dari pemograman komputer, agar kemampuan mereka menjadi berkembang dan membuat aplikasi yang interaktif. kursus ini menggunakan javaScript sebagai bahasa pemograman, dan aplikasi lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat pemograman. \\r\n\\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017. baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             The Need For Programming Languages:

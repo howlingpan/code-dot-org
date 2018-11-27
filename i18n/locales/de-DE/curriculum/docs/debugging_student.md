@@ -4,7 +4,7 @@ title: "Debugging Student Handout" view: page_curriculum theme: none
 
 * * *
 
-# Code.org Debuggen Rezept
+# Letron Debuggen Rezept
 
 Diese Debuggen Tipps helfen Ihnen weiter, wenn Sie feststecken!
 

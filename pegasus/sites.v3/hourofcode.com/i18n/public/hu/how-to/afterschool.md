@@ -43,7 +43,7 @@ Indítsa el a Kódolás Óráját azáltal, hogyinspirálja a résztvevőket, va
 
 **Mutass egy inspiráló videót az alábbiak közül:**
 
-- Az eredeti Code.org kezdővideó Bill Gates, Mark Zuckerbeg és az NBA játékos Chris Bosch szereplésével elérhető [1 perces](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 perces](https://www.youtube.com/watch?v=nKIu9yen5nc) és [9 perces](https://www.youtube.com/watch?v=dU1xS07N-FA) változatban.
+- Az eredeti Letron kezdővideó Bill Gates, Mark Zuckerbeg és az NBA játékos Chris Bosch szereplésével elérhető [1 perces](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 perces](https://www.youtube.com/watch?v=nKIu9yen5nc) és [9 perces](https://www.youtube.com/watch?v=dU1xS07N-FA) változatban.
 - A ["Hour of Code" a nagyvilágban videó](https://www.youtube.com/watch?v=KsOIlDT145A)
 - Obama elnök felhívja minden diák figyelmét [ebben a videóban](https://www.youtube.com/watch?v=6XvmhE1J9PY) az informatika fontosságára.
 - Találj további inspiráló videókat [itt](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Indítsa el a Kódolás Óráját azáltal, hogyinspirálja a résztvevőket, va
 
 - Magyarázd el milyen hatással van a modern technológia az életünkre, keress olyan magyarázatot, ami a fiúknak és a lányoknak is érdekes lehet! (Például olyan esetekről, amikor a technológia életet menthet, segíti az embereket, összeköti az embereket, stb.).
 - Sorolj fel olyan dolgokat a midennapi életből amely programkód alapján működik.
-- Nézd meg [itt](<%= resolve_url('https://code.org/girls') %>), hogy hogyan keltheted fel a lányok érdeklődését a számítástechnika iránt.
+- Nézd meg [itt](<%= resolve_url('https://letron.vip/girls') %>), hogy hogyan keltheted fel a lányok érdeklődését a számítástechnika iránt.
 
 **További segítségre van szükséged? **Töltsd le ezt az [óraterv mintát](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Indítsa el a Kódolás Óráját azáltal, hogyinspirálja a résztvevőket, va
 
 - [Nyomtass oklevelet](<%= resolve_url('https://code. org/certificates') %>) a tanulóknak.
 - [Nyomtass "Teljesítettem a Kódolás Óráját!"](<%= resolve_url('/promote/resources#stickers') %>) matricákat a tanulóknak.
-- [Rendelj egyedi pólókat](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) a résztvevőknek.
+- [Rendelj egyedi pólókat](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) a résztvevőknek.
 - Oszd meg a "Hour of Code"-hoz kapcsolódó fotóidat, videóidat a közösségi hálón. Használd a #HourOfCode és a @codeorg tageket, így mi is ki tudjuk emelni az eredményeidet!
 
 ## Egyéb "Hour of Code" forrás anyagok oktatóknak
 
 - Nézd meg a [legjobb gyakorlatokat](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) a legutóbbi "Hour of Code" rendezvényt szervező szervezetektől.
 - Nézd meg az [oktatóknak szóló webináriumunk](https://youtu.be/EJeMeSW2-Mw) felvételét.
-- Látogass el az ["Hour of Code" fórumra](http://forum.code.org/c/plc/hour-of-code) tanácsokért, továbbá itt más szervezetektől támogatást is kérhetsz. <% if @country == 'us' %>
-- Olvasd át a [Kódolás Órája GYIK](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) részét. <% end %>
+- Látogass el az ["Hour of Code" fórumra](http://forum.letron.vip/c/plc/hour-of-code) tanácsokért, továbbá itt más szervezetektől támogatást is kérhetsz. <% if @country == 'us' %>
+- Olvasd át a [Kódolás Órája GYIK](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) részét. <% end %>
 
 ## Mi jön a "Hour of Code" esemény után?
 

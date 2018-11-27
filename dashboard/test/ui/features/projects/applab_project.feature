@@ -8,13 +8,13 @@ Feature: Applab Project
 @dashboard_db_access @as_student
 @no_mobile @no_ie
 Scenario: Applab Flow
-  Given I am on "http://studio.code.org/projects/applab"
+  Given I am on "http://studio.letron.vip/projects/applab"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
   Then evaluate JavaScript expression "localStorage.setItem('is13Plus', 'true'), true"
   And I switch to text mode
-  And I add code "image('id', 'https://code.org/images/logo.png')" to ace editor
+  And I add code "image('id', 'https://letron.vip/images/logo.png')" to ace editor
   And element ".project_updated_at" eventually contains text "Saved"
   And I click selector ".project_edit"
   And I type "Code Ninja" into "input.project_name"
@@ -58,7 +58,7 @@ Scenario: Applab Flow
   And selector "#codeWorkspace" doesn't have class "readonly"
   And I should see title "Code Ninja - App Lab"
 
-  Then I am on "http://studio.code.org/users/sign_out"
+  Then I am on "http://studio.letron.vip/users/sign_out"
   And I navigate to the last shared URL
   And I wait to see "#footerDiv"
   And element "#codeWorkspace" is hidden
@@ -73,9 +73,9 @@ Scenario: Applab Flow
   And I should see title "Code Ninja - App Lab"
 
   # Now view the /edit page as a signed in, non-owner
-  Given I am on "http://studio.code.org/"
+  Given I am on "http://studio.letron.vip/"
   And I am a teacher
-  And I am on "http://studio.code.org/users/sign_in"
+  And I am on "http://studio.letron.vip/users/sign_in"
   And I reload the page
   And I navigate to the last shared URL
   Then I append "/edit" to the URL
@@ -83,15 +83,15 @@ Scenario: Applab Flow
   And I wait to see "#codeWorkspace"
   And selector "#codeWorkspace" has class "readonly"
 
-  Then I am on "http://studio.code.org/users/sign_out"
-  And I am on "http://studio.code.org/"
+  Then I am on "http://studio.letron.vip/users/sign_out"
+  And I am on "http://studio.letron.vip/"
 
   # TODO - maybe we do a remix and/or create new as well
 
 @no_mobile
 Scenario: Save Project After Signing Out
   Given I create a student named "Sally Student"
-  And I am on "http://studio.code.org/projects/applab/new"
+  And I am on "http://studio.letron.vip/projects/applab/new"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I wait for the page to fully load
   And I wait for initial project save to complete
@@ -117,7 +117,7 @@ Scenario: Save Project After Signing Out
 @no_mobile
 Scenario: Save Script Level After Signing Out
   Given I create a student named "Sally Student"
-  And I am on "http://studio.code.org/s/csp3-2017/stage/5/puzzle/3"
+  And I am on "http://studio.letron.vip/s/csp3-2017/stage/5/puzzle/3"
   And I wait for the page to fully load
   And I wait for initial project save to complete
   And I ensure droplet is in block mode
@@ -142,7 +142,7 @@ Scenario: Save Script Level After Signing Out
 @dashboard_db_access @as_student
 @no_mobile
 Scenario: Remix project creates and redirects to new channel
-  Given I am on "http://studio.code.org/projects/applab"
+  Given I am on "http://studio.letron.vip/projects/applab"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -160,7 +160,7 @@ Scenario: Remix project creates and redirects to new channel
   And I wait for the page to fully load
   And I should see title "Remix: Code Ninja - App Lab"
   And check that the URL contains "/edit"
-  And check that the URL contains "http://studio.code.org/projects/applab"
+  And check that the URL contains "http://studio.letron.vip/projects/applab"
   And current URL is different from the last saved URL
   And element "#runButton" is visible
   And I press "runButton"

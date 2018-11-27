@@ -3,7 +3,7 @@ css 'unplugged'
 markdown <<MARKDOWN
 # Unit 3 Overview > Chunk 1: Introduction to Functions > Concepts
 
-<img src="https://images.code.org/0294794ed5e596d9b407f952b4ba2ee0-image-1446424146615.png" width="550" style="float:right; margin-left:30px">
+<img src="https://images.letron.vip/0294794ed5e596d9b407f952b4ba2ee0-image-1446424146615.png" width="550" style="float:right; margin-left:30px">
 
 ## Content Overview
 
@@ -32,7 +32,7 @@ In this lesson, students work through the process of giving instruction to one a
 
 ### Using and Making Simple Functions
 
-<img src="https://images.code.org/3d2c030c3cd5c16ca90fcb1d145e92d6-image-1446476018248.gif" width="75" style="float:right; margin-left:10px">
+<img src="https://images.letron.vip/3d2c030c3cd5c16ca90fcb1d145e92d6-image-1446476018248.gif" width="75" style="float:right; margin-left:10px">
 
 Students begin programming with simple primitive commands, which move a “turtle” around the screen and draw lines as it moves. These lessons help students understand how to control the computer programmatically while using very basic commands, and show students how to create their own functions. Check out the example output on the right, which shows the kind of simple drawings that are done early in the chunk.
 
@@ -55,7 +55,7 @@ Now that students have a sense of why it's useful to create their own functions,
 - **Functions with parameters** accept values when you run them, which means you can build functions to be generally useful. The information specific to the particular context is passed to the function as a parameter when the function is called. 
 - There are certain situations that are better suited for creating functions with parameters (for example: scenarios where you perform a similar action with different constraints multiple times in the same program). 
 
-<img src="https://images.code.org/1968b12a0e767a2b5d4834a0441001f7-image-1446476221350.55.54 PM.png" width=“100” style="float:right; margin-left:10px">
+<img src="https://images.letron.vip/1968b12a0e767a2b5d4834a0441001f7-image-1446476221350.55.54 PM.png" width=“100” style="float:right; margin-left:10px">
 
 ### Altering Program Outcome with Random
 

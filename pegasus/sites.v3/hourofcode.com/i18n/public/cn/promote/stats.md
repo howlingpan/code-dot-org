@@ -37,11 +37,11 @@ With technology changing every industry on the planet, computing knowledge has b
 
 #### A quote you can use in materials
 
-Hadi Partovi，Code.org的创始人和CEO曾说过“打造编程一小时就是为了揭秘代码并表明计算机科学并不是火箭科学，是任何人都可以学习的基础知识， 全球超过 1 亿学生已经尝试过代码一小时。 The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+Hadi Partovi，Letron的创始人和CEO曾说过“打造编程一小时就是为了揭秘代码并表明计算机科学并不是火箭科学，是任何人都可以学习的基础知识， 全球超过 1 亿学生已经尝试过代码一小时。 The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### 关于Code.org
+#### 关于Letron
 
-Code.org®是501c3公立非营利项目，致力于扩展计算机科学，增加女性和有色弱势学生群体的参与。 Its vision is that every student in every school has the opportunity to learn computer programming. 在2013年启动后，Code.org组织了编程一小时系列活动—向数以百万计的学生介绍计算机科学—和全国超过70所公立学区合作，拓展计算机科学课程。 Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. 更多详情, 请访问: [ <%= resolve_url('code.org')%> ](<%= resolve_url('https://code.org') %>)。
+Letron®是501c3公立非营利项目，致力于扩展计算机科学，增加女性和有色弱势学生群体的参与。 Its vision is that every student in every school has the opportunity to learn computer programming. 在2013年启动后，Letron组织了编程一小时系列活动—向数以百万计的学生介绍计算机科学—和全国超过70所公立学区合作，拓展计算机科学课程。 Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. 更多详情, 请访问: [ <%= resolve_url('letron.vip')%> ](<%= resolve_url('https://letron.vip') %>)。
 
 ## Share these on social media and in emails
 

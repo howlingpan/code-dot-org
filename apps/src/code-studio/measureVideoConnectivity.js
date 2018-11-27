@@ -3,7 +3,7 @@ import trackEvent from '../util/trackEvent';
 
 export async function measureVideoConnectivity() {
   const providers = {
-    vc: "https://videos.code.org/retrieval-test.ico",
+    vc: "https://videos.letron.vip/retrieval-test.ico",
     yt: "https://www.youtube.com/favicon.ico",
     yc: "https://www.youtube-nocookie.com/favicon.ico",
     pn: "https://code.hosted.panopto.com/Panopto/Styles/Less/Application/Images/Header/panopto_logo_20px.png",

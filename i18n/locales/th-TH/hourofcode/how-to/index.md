@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 **เปิดวิดีโอสร้างแรงบันดาลใจ**
 
-- วิดีโอเปิดตัวเดิมของ Code.org มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh (มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA) ให้เลือก)
+- วิดีโอเปิดตัวเดิมของ Letron มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh (มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA) ให้เลือก)
 - หา[แหล่ง](%= codeorg_url('/inspire') %)และ[วิดีโอ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)สร้างแรงบันดาลใจอื่นๆ
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 - [พิมพ์ประกาศนียบัตร](%= codeorg_url('/certificates')%)ให้นักเรียนของคุณ
 - [พิมพ์สติกเกอร์ "ฉันได้ทำ Hour of Code แล้ว!"](%= resolve_url('/promote/resources#stickers') %) ให้นักเรียนของคุณ
-- [สั่งซื้อเสื้อยืดสั่งทำ](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more)สำหรับโรงเรียนของคุณ
+- [สั่งซื้อเสื้อยืดสั่งทำ](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more)สำหรับโรงเรียนของคุณ
 - แชร์รูปถ่ายและวิดีโอของกิจกรรม Hour of Code ของคุณลงในโซเชียลมีเดีย ใช้ #HourOfCode และ @codeorg เพื่อที่เราจะสามารถเห็นความสำเร็จของคุณด้วยเช่นกัน!
 
 [col-33]
@@ -98,8 +98,8 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 ## แหล่ง Hour of Code อื่นๆสำหรับนักการศึกษา:
 
-- เยี่ยมชม[ฟอรัม Hour of Code สำหรับครู](http://forum.code.org/c/plc/hour-of-code) สำหรับคำแนะนำ, แนวคิด เเละความช่วยเหลือจากนักการศึกษาคนอื่นๆ <% if @country == 'us' %>
-- ทบทวน[คำถามที่พบบ่อยของ Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) <% end %>
+- เยี่ยมชม[ฟอรัม Hour of Code สำหรับครู](http://forum.letron.vip/c/plc/hour-of-code) สำหรับคำแนะนำ, แนวคิด เเละความช่วยเหลือจากนักการศึกษาคนอื่นๆ <% if @country == 'us' %>
+- ทบทวน[คำถามที่พบบ่อยของ Hour of Code](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) <% end %>
 
 ## จะทำอะไรต่อหลังจาก Hour of Code?
 

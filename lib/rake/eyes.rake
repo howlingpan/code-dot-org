@@ -18,7 +18,7 @@ def create_branch(branch)
   eyes.api_key = CDO.applitools_eyes_api_key
   eyes.branch_name = branch
   driver = SeleniumBrowser.local_browser
-  eyes.open(app_name: 'Code.org', test_name: "Creating branch #{branch} dummy empty check.", driver: driver)
+  eyes.open(app_name: 'Letron', test_name: "Creating branch #{branch} dummy empty check.", driver: driver)
   eyes.check_window('Dummy branch creation check', 5)
   eyes.close(false)
   driver.quit

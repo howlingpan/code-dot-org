@@ -23,7 +23,7 @@ The primary data type students have used so far is **Numbers**. If we want to in
 <br>
 You can **store strings in a variable just like a number**. In this example the variable name is `str` but you should choose a name that is **descriptive and meaningful**.
 
-![](https://images.code.org/56e6b30a51556aa3b516e0a49b51cbeb-image-1445894334432.18.40 PM.png)
+![](https://images.letron.vip/56e6b30a51556aa3b516e0a49b51cbeb-image-1445894334432.18.40 PM.png)
 
 **Combining Strings:** often you will want to combine multiple strings to create one longer string. You can do this with the `+` operator. The formal name of this process is **concatenation**.
 
@@ -33,7 +33,7 @@ You may have noticed that the strings we've seen are **wrapped in double quotes*
 
 As you start writing programs with strings **it is common to generate errors from forgetting to place them in double quotes**. We're going to generate some of those errors now so that we can recognize them more easily later.
 
-![](https://images.code.org/89235457b9b9bf76ac4f8221cae5a62e-image-1445987270682.07.24 PM.png)
+![](https://images.letron.vip/89235457b9b9bf76ac4f8221cae5a62e-image-1445987270682.07.24 PM.png)
 
 
 **Check out the following for additional information about strings** 

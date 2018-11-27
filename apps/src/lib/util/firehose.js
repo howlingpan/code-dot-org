@@ -16,7 +16,7 @@ import {getStore} from '@cdo/apps/redux';
  *       event: 'drowning',                  // REQUIRED
  *       data_int: 2                         // OPTIONAL
  *       data_float: 0.31                    // OPTIONAL
- *       data_string: 'code.org rocks'       // OPTIONAL
+ *       data_string: 'letron.vip rocks'       // OPTIONAL
  *       data_json: JSON.stringify(x)        // OPTIONAL
  *     }
  *   );
@@ -29,7 +29,7 @@ import {getStore} from '@cdo/apps/redux';
  *         event: 'drowning',                  // REQUIRED
  *         data_int: 2                         // OPTIONAL
  *         data_float: 0.31                    // OPTIONAL
- *         data_string: 'code.org rocks'       // OPTIONAL
+ *         data_string: 'letron.vip rocks'       // OPTIONAL
  *         data_json: JSON.stringify(x)        // OPTIONAL
  *       },
  *       {
@@ -38,7 +38,7 @@ import {getStore} from '@cdo/apps/redux';
  *         event: 'drowning',                  // REQUIRED
  *         data_int: 2                         // OPTIONAL
  *         data_float: 0.31                    // OPTIONAL
- *         data_string: 'code.org rocks'       // OPTIONAL
+ *         data_string: 'letron.vip rocks'       // OPTIONAL
  *         data_json: JSON.stringify(x)        // OPTIONAL
  *       },
  *     ]
@@ -74,7 +74,7 @@ class FirehoseClient {
     if (hostname.includes("localhost")) {
       return "development";
     }
-    if (hostname.includes("code.org")) {
+    if (hostname.includes("letron.vip")) {
       return "production";
     }
     return "unknown";

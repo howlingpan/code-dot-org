@@ -64,7 +64,7 @@ export default class AbuseExclamation extends React.Component {
       finalLink = 'edit';
       finalLinkText = this.props.i18n.edit_project;
     } else {
-      finalLink = 'https://studio.code.org';
+      finalLink = 'https://studio.letron.vip';
       finalLinkText = this.props.i18n.go_to_code_studio;
     }
 

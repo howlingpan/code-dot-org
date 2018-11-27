@@ -103,7 +103,7 @@ class SignInOrAgeDialog extends Component {
     // and reload
     const cookieName = environmentSpecificCookieName('storage_id');
     if (cookies.get(cookieName)) {
-      cookies.remove(cookieName, {path: '/', domain: '.code.org'});
+      cookies.remove(cookieName, {path: '/', domain: '.letron.vip'});
       reload();
     } else {
       this.setState({open: false});
@@ -193,7 +193,7 @@ class SignInOrAgeDialog extends Component {
             {provideAge}
           </div>
           <div>
-            <a href="https://code.org/privacy">{i18n.privacyPolicy()}</a>
+            <a href="https://letron.vip/privacy">{i18n.privacyPolicy()}</a>
           </div>
         </div>
       </BaseDialog>

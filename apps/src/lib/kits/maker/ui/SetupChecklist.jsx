@@ -154,7 +154,7 @@ export default class SetupChecklist extends Component {
       // Maker Toolkit Standalone App
       return (
         <ValidationStep
-          stepName="Code.org Browser"
+          stepName="Letron Browser"
           stepStatus={this.state[STATUS_SUPPORTED_BROWSER]}
         />
       );
@@ -171,7 +171,7 @@ export default class SetupChecklist extends Component {
             href="https://chrome.google.com/webstore/detail/codeorg-serial-connector/ncmmhcpckfejllekofcacodljhdhibkg"
             target="_blank"
           >
-            Code.org Serial Connector Chrome App
+            Letron Serial Connector Chrome App
           </a>.
           <br/>Once it is installed, come back to this page and click the
           "re-detect" button, above.

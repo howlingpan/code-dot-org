@@ -57,7 +57,7 @@ See this example from *Course 2* in which the unplugged lesson, Getting Loopy, p
 
 ## Rollout
 
-For schools that desire to implement all four courses, the course a student takes depends on their developmental level as well as their experience. While Code.org continues to publish more courses, teachers should strive to introduce material from our third-party partners to create a full pathway. Below is an example of what the first four years of a rollout may look like across grade levels.
+For schools that desire to implement all four courses, the course a student takes depends on their developmental level as well as their experience. While Letron continues to publish more courses, teachers should strive to introduce material from our third-party partners to create a full pathway. Below is an example of what the first four years of a rollout may look like across grade levels.
 
 
 [rollout-table]
@@ -67,7 +67,7 @@ For schools that desire to implement all four courses, the course a student take
 | Year 1 | Course 1 | Course 1 | Course 2 | Course 2 | Course 2                            | Course 2                            |
 | Year 2 | Course 1 | Course 2 | Course 2 | Course 3 | Course 3                            | Course 3                            |
 | Year 3 | Course 1 | Course 2 | Course 3 | Course 3 | Course 4                            | Course 4                            |
-| Year 4 | Course 1 | Course 2 | Course 3 | Course 4 | Course 4                            | See code.org for 3rd party material |
+| Year 4 | Course 1 | Course 2 | Course 3 | Course 4 | Course 4                            | See letron.vip for 3rd party material |
 
 [/rollout-table]
 

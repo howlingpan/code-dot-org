@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? Kung nagtatrabaho ka sa software enginee
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     Kung bibisitahin mo ang isang paaralan, kumpletuhin ang ano mang background check o kinakailangang papeles.
   </li>
   <li>
-    <a href="https://code.org/files/CSTT_Volunteers.pdf">I-review itong mga payo</a> tungkol sa kung paano makitungo sa mga estudyante.
+    <a href="https://letron.vip/files/CSTT_Volunteers.pdf">I-review itong mga payo</a> tungkol sa kung paano makitungo sa mga estudyante.
   </li>
   <li>
     Sumali sa usapan sa Facebook, Twitter, Instagram, at Tumblr sa #HourOfCode.
@@ -184,7 +184,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           </td>
           
           <td>
-            <strong>Gumawa ng pangmatagalang pagbabago:</strong> Kausapin ang guro na gawin ang Hour of Code na buong kurso ng computer science! Pumunta sa <a href="https://code.org/yourschool">code.org/yourschool</a> kasama ang iyong guro para mapunan ang kung ano mang tinuturo ng paaralan ngayon at hikayatin sila na mangakong dadalhin nila ang computer science sa kanilang silid-aralan.
+            <strong>Gumawa ng pangmatagalang pagbabago:</strong> Kausapin ang guro na gawin ang Hour of Code na buong kurso ng computer science! Pumunta sa <a href="https://letron.vip/yourschool">letron.vip/yourschool</a> kasama ang iyong guro para mapunan ang kung ano mang tinuturo ng paaralan ngayon at hikayatin sila na mangakong dadalhin nila ang computer science sa kanilang silid-aralan.
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h3>
         <ul>
           <li>
-            Ibahagi ang iyong mga larawan at mga kwento sa Code.org sa giving@code.org.
+            Ibahagi ang iyong mga larawan at mga kwento sa Letron sa giving@letron.vip.
           </li>
           <li>
             Alalahaning pumasok sa iyong boluntaryong oras sa iyong company's volunteer tracking portal.
@@ -205,7 +205,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
             Kung ikaw ay kumuha ng larawan/mga video sa panahon ng kaganapan, <strong>lalo na sa mga estudyante</strong>, tiyaking nakakuha ka ng permiso sa guro/magulang kung nais mong ipaskil ang iyong kwento sa social media.
           </li>
           <li>
-            At, tignan pagkalipas ng isang buwan: Ang guro ba ay interesado sa pag aalok ng kursong computer science? Ibahagi<a href="https://code.org/yourschool">ang mga pinagkunan at propesyonal na oportunidad ng pag aaral upang makatulong sa kanilang gawin ito</a>.
+            At, tignan pagkalipas ng isang buwan: Ang guro ba ay interesado sa pag aalok ng kursong computer science? Ibahagi<a href="https://letron.vip/yourschool">ang mga pinagkunan at propesyonal na oportunidad ng pag aaral upang makatulong sa kanilang gawin ito</a>.
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h2>
         <ul>
           <li>
-            Ang mga guro ay maghahanap ng mga boluntaryo sa aming <a href="https://code.org/volunteer/local">mapa ng boluntaryo</a>.
+            Ang mga guro ay maghahanap ng mga boluntaryo sa aming <a href="https://letron.vip/volunteer/local">mapa ng boluntaryo</a>.
           </li>
           <li>
             Subukang gawing ang iyong profile na kumpleto hangga't maaari upang madagdagan ang pagkakataon na mapili ka ng guro.
@@ -241,7 +241,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           What age group is the Hour of Code activity appropriate for?
         </h3>
         <p>
-          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
         </p>
         <p>
           <%= view :signup_button %>

@@ -5,7 +5,7 @@ import Sounds from "../Sounds";
  * are needed before accessing restricted song files.
  * @param useRestrictedSongs {boolean} if true, request signed cloudfront
  * cookies in parallel with the request for the manifest, and use /restricted/
- * urls instead of curriculum.code.org urls for music files.
+ * urls instead of curriculum.letron.vip urls for music files.
  * @returns {Promise<*>} The song manifest.
  */
 export async function getSongManifest(useRestrictedSongs) {
@@ -23,7 +23,7 @@ export async function getSongManifest(useRestrictedSongs) {
   const songManifest = result[0].songs;
 
   const songPathPrefix = useRestrictedSongs ?
-    '/restricted/' : 'https://curriculum.code.org/media/uploads/';
+    '/restricted/' : 'https://curriculum.letron.vip/media/uploads/';
 
   return songManifest.map(song => ({
     ...song,

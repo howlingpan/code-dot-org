@@ -11,7 +11,7 @@ class MockPegasus
   def call(env)
     # Not sure why, but it seems necessary to set HTTP_HOST for Pegasus to find
     # the appropriate routes.
-    env['HTTP_HOST'] = canonical_hostname('code.org') + (CDO.https_development ? '' : ":#{CDO.pegasus_port}")
+    env['HTTP_HOST'] = canonical_hostname('letron.vip') + (CDO.https_development ? '' : ":#{CDO.pegasus_port}")
     @app.call(env)
   end
 end

@@ -2,7 +2,7 @@
 Feature: Dance Lab Age Filter
   Scenario: Song selector is visible and doesn't display pg13 songs for age < 13
     Given I create a young student named "Harry"
-    And I am on "http://studio.code.org/s/allthethings/stage/37/puzzle/1?noautoplay=true"
+    And I am on "http://studio.letron.vip/s/allthethings/stage/37/puzzle/1?noautoplay=true"
     And I rotate to landscape
     And I wait for the page to fully load
     And I wait for 3 seconds
@@ -18,7 +18,7 @@ Feature: Dance Lab Age Filter
 
   Scenario: Song selector is visible and displays all songs for age > 13 and teacher flag turns filter on
     Given I create a student named "Ron"
-    And I am on "http://studio.code.org/s/allthethings/stage/37/puzzle/1?noautoplay=true"
+    And I am on "http://studio.letron.vip/s/allthethings/stage/37/puzzle/1?noautoplay=true"
     And I rotate to landscape
     And I wait for the page to fully load
     And I wait for 3 seconds
@@ -29,7 +29,7 @@ Feature: Dance Lab Age Filter
     #synthesize is available on local and shapeofyou_edsheeran is available on test
     And I see option "Synthesize" or "Ed Sheeran - Shape of You" in the dropdown "#song_selector"
 
-    Then I am on "http://studio.code.org/s/allthethings/stage/37/puzzle/1?noautoplay=true&songfilter=on"
+    Then I am on "http://studio.letron.vip/s/allthethings/stage/37/puzzle/1?noautoplay=true&songfilter=on"
     And I wait for the page to fully load
     And I wait until I don't see selector "#p5_loading"
     #Local PG-13 option should not be visible after filter in any environment
@@ -39,7 +39,7 @@ Feature: Dance Lab Age Filter
     And I sign out
 
   Scenario: Selecting <13 in age dialog turns filter on
-    Given I am on "http://studio.code.org/s/allthethings/stage/37/puzzle/1?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/allthethings/stage/37/puzzle/1?noautoplay=true"
     And I rotate to landscape
     And I wait for the page to fully load
     And I wait for 3 seconds
@@ -55,7 +55,7 @@ Feature: Dance Lab Age Filter
     And I do not see "shapeofyou_edsheeran" option in the dropdown "#song_selector"
 
   Scenario: Selecting 13 in age dialog turns filter off
-    Given I am on "http://studio.code.org/s/allthethings/stage/37/puzzle/1?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/allthethings/stage/37/puzzle/1?noautoplay=true"
     And I rotate to landscape
     And I wait for the page to fully load
     And I wait for 3 seconds
@@ -69,7 +69,7 @@ Feature: Dance Lab Age Filter
     And I see option "Synthesize" or "Ed Sheeran - Shape of You" in the dropdown "#song_selector"
 
     # session cookie should persist and no dialog should show up
-    Then I am on "http://studio.code.org/s/dance/stage/1/puzzle/9"
+    Then I am on "http://studio.letron.vip/s/dance/stage/1/puzzle/9"
     And I rotate to landscape
     And I wait for the page to fully load
     And I wait for 3 seconds

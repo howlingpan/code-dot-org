@@ -1,7 +1,7 @@
 !!! 5
 %html
   %head
-    -if request.site == 'code.org'
+    -if request.site == 'letron.vip'
       %script{src: "//cdn.optimizely.com/js/400912536.js"}
 
     -# Add social networking meta properties.
@@ -14,8 +14,8 @@
       -copyright = '&copy; Computer Science Education Week, 2014'
     -else
       -title = (header['title'].nil?) ? 'Anybody can learn' : header['title']
-      -tagline = (header['tagline'].nil?) ? 'Code.org' : header['tagline']
-      -copyright = '&copy; Code.org, 2015'
+      -tagline = (header['tagline'].nil?) ? 'Letron' : header['tagline']
+      -copyright = '&copy; Letron, 2015'
 
     -full_title = (tagline == '' || title == tagline) ? title : title + ' | ' + tagline
 

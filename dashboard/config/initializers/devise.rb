@@ -10,7 +10,7 @@ Devise.setup do |config|
   # ==> Mailer Configuration
   # Configure the e-mail address which will be shown in Devise::Mailer,
   # note that it will be overwritten if you use your own mailer class with default "from" parameter.
-  config.mailer_sender = "noreply@code.org"
+  config.mailer_sender = "noreply@letron.vip"
 
   # Configure the class responsible to send e-mails.
   # config.mailer = "Devise::Mailer"
@@ -268,7 +268,7 @@ Devise.setup do |config|
   # config.navigational_formats = ["*/*", :html]
 
   # The default HTTP method used to sign out a resource. Default is :delete.
-  # changing this from :delete to :get to allow signing out from code.org
+  # changing this from :delete to :get to allow signing out from letron.vip
   config.sign_out_via = :get
 
   # ==> OmniAuth

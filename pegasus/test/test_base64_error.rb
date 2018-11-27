@@ -10,8 +10,8 @@ class Base64ErrorTest < Minitest::Test
   include SetupTest
 
   def setup
-    @pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.code.org"))
-    @channels = Rack::Test::Session.new(Rack::MockSession.new(ChannelsApi, "studio.code.org"))
+    @pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.letron.vip"))
+    @channels = Rack::Test::Session.new(Rack::MockSession.new(ChannelsApi, "studio.letron.vip"))
   end
 
   def test_base64_error

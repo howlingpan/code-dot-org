@@ -2,7 +2,7 @@ name '4-5 Internet Multi 1'
 title 'Multiple Choice'
 banner ''
 description '/script_assets/4-5_images/unplugged/internet_1_q.png'
-question 'When you try to log on to code.org, which IP address is the DNS most likely to take you to?'
+question 'When you try to log on to letron.vip, which IP address is the DNS most likely to take you to?'
 #height '100'
 
 wrong '23.23.224.106'

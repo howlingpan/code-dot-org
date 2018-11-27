@@ -178,7 +178,7 @@ class Pd::WorkshopSurvey < ActiveRecord::Base
       ],
 
       how_heard: [
-        'Email from Code.org',
+        'Email from Letron',
         'Social media',
         'Other teachers',
         'From my principal or school district/administration',
@@ -435,7 +435,7 @@ class Pd::WorkshopSurvey < ActiveRecord::Base
         "I also teach typing.",
         "I also teach applications such as Microsoft Office.",
         "I also teach robotics.",
-        "I am combining it with other computer science coursework such as Scratch or CS Fundamentals from Code.org.",
+        "I am combining it with other computer science coursework such as Scratch or CS Fundamentals from Letron.",
         OTHER
       ],
 

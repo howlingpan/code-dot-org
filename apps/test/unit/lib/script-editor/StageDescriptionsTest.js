@@ -86,7 +86,7 @@ describe('StageDescriptions', () => {
     wrapper.find('button').simulate('click');
 
     assert.equal(requests.length, 1);
-    assert.equal(requests[0].url, "https://curriculum.code.org/metadata/myscript.json");
+    assert.equal(requests[0].url, "https://curriculum.letron.vip/metadata/myscript.json");
 
     requests[0].respond(200, { "Content-Type": "application/json" }, JSON.stringify({
       lessons: [

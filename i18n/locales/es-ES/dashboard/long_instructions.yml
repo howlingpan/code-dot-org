@@ -8,7 +8,7 @@ es:
       2-3 Artist 3.4: "El bloque Salta mueve el artista sin dibujar.\nDibuja la línea punteada utilizando los bloques Salta y Dibuja."
       2-3 Artist 3new: "El gorro rojo tiene 100 píxeles de alto. Termina\nde dibujar un gorro negro 70 píxeles más corto. \\r\n\\r\n*(Nota: El ancho de cada\ngorro es de 50 píxeles)*"
       2-3 Artist 4: Ayúdame a completar la casa para este gato.
-      2-3 Artist 6: "¡Esta casa necesita un techo! Dibuja el triángulo. \\r\n\\r\nPista:\nlos tres lados son igual de anchos.\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      2-3 Artist 6: "¡Esta casa necesita un techo! Dibuja el triángulo. \\r\n\\r\nPista:\nlos tres lados son igual de anchos.\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       2-3 Artist 7: "Termina de dibujar el último grupo de ventanas\nen la escuela para que todos en la clase vean el exterior. \\r\n\\r\nLos lados\nde cada panel de ventana cuadrado miden 25 píxeles. "
       2-3 Artist 8: "¡Hora de construir un granero!\\r\n\\r\nHaz las habitaciones\npara cada animal separando el granero en 2 cuadrados de igual tamaño.\\r\n\\r\nPista:\nEl rectángulo mide 200 píxeles de ancho y 100 de alto.\\r\n\\r\nHay muchas\nformas diferentes de resolver este puzle."
       2-3 Artist 9 NEW: Termina esta cometa
@@ -292,7 +292,7 @@ es:
         "Ejecuta" tu aplicación una vez para probarla. Luego presiona "Finalizar" para moverte
         para aprender a agregar sonidos.\r
         \r
-        ![expandable](https://images.code.org/5b977b1c127b3fcb1761aadcb74c79e8-image-1505772215256.gif)
+        ![expandable](https://images.letron.vip/5b977b1c127b3fcb1761aadcb74c79e8-image-1505772215256.gif)
         Haga clic para ver GIF de todos los pasos
       AppLab Intro 2 - finish and share: |-
         ¡Felicidades por terminar
@@ -850,7 +850,7 @@ es:
         \r
         Aquí hay un widget que puede calcular números de hasta ocho bits. (Si tiene un número más corto, puede dejar los bits adicionales de la izquierda desactivados). Puede usarlo para encontrar los valores de los dos récords mundiales a continuación.\r
         \r
-        ! [] (https://images.code.org/e86788ff9b92a2b01b99749fa1aba8e8-image-1505426626592.01.14
+        ! [] (https://images.letron.vip/e86788ff9b92a2b01b99749fa1aba8e8-image-1505426626592.01.14
         PM.png)\r
         \r
         1. la cola de perro más larga (en pulgadas) (5 bits)\r
@@ -863,7 +863,7 @@ es:
         \r
         Aquí hay un widget que puede calcular números de hasta ocho bits. (Si tiene un número más corto, puede dejar los bits adicionales de la izquierda desactivados). Puede usarlo para encontrar los valores de los dos récords mundiales a continuación.\r
         \r
-        ! [] (https://images.code.org/e86788ff9b92a2b01b99749fa1aba8e8-image-1505426626592.01.14
+        ! [] (https://images.letron.vip/e86788ff9b92a2b01b99749fa1aba8e8-image-1505426626592.01.14
         PM.png)\r
         \r
         1. la cola de perro más larga (en pulgadas) (5 bits)\r
@@ -997,18 +997,18 @@ es:
       Fish Tank 5-validated_simple: El pez quiere un amigo. Agrega un nuevo sprite.
       Function intro Ryan: "Cuentas con una **función** llamada \"construir puente\" en tu espacio de trabajo. ¡Todo el código que necesitas para cruzar el río ya está implementado! \\r\n \\r\nLleva dos veces el pequeño bloque verde a tu espacio de trabajo para arreglar el camino y conseguir que {currentPlayerName} alcance la antorcha de redstone [redstone_torch]."
       Function intro Ryan_2019: "Cuentas con una **función** llamada \"construir puente\" en tu espacio de trabajo. ¡Todo el código que necesitas para cruzar el río ya está implementado! \\r\n \\r\nLleva dos veces el pequeño bloque verde a tu espacio de trabajo para arreglar el camino y conseguir que {currentPlayerName} alcance la antorcha de redstone [redstone_torch]."
-      HOC 2018 Level_1: "Necesitarás suministros para el viaje. Consigue un **barco** ![](https://images.code.org/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png) del **cofre** ![](https://images.code.org/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png).\n\n"
-      HOC 2018 Level_10: "Hay un **calamar** ![](https://images.code.org/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png) en algún lugar de este monumento oceánico, ¿puedes encontrarlo?\n\n"
-      HOC 2018 Level_11: Construye un muro de **prismarina** ![](https://images.code.org/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png) alrededor del hormigón negro. ¡Esto activará el **conducto** ![](https://images.code.org/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png) y completará tu desafío!
+      HOC 2018 Level_1: "Necesitarás suministros para el viaje. Consigue un **barco** ![](https://images.letron.vip/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png) del **cofre** ![](https://images.letron.vip/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png).\n\n"
+      HOC 2018 Level_10: "Hay un **calamar** ![](https://images.letron.vip/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png) en algún lugar de este monumento oceánico, ¿puedes encontrarlo?\n\n"
+      HOC 2018 Level_11: Construye un muro de **prismarina** ![](https://images.letron.vip/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png) alrededor del hormigón negro. ¡Esto activará el **conducto** ![](https://images.letron.vip/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png) y completará tu desafío!
       HOC 2018 Level_12: '¡Enhorabuena! El mundo acuático abierto te espera. ¡Construye un arrecife de coral! ¡Un volcán! ¡Un naufragio! Tú decides.'
       HOC 2018 Level_2: '¡Es más fácil ir en barco que nadar en aguas abiertas! Ve hacia el final del muelle para saltar a bordo.'
-      HOC 2018 Level_3: Coge los remos y maneja tu barco por mar abierto para pescar el **bacalao** ![](https://images.code.org/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png).
-      HOC 2018 Level_4: Alimenta al **delfín** con el bacalao ![](https://images.code.org/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png). Usa un bloque de repetición para atravesar más rápido el océano.
-      HOC 2018 Level_5: '¡Hay una **concha de Nautilus** ![](https://images.code.org/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png) escondida en alguna parte! Explora el naufragio para alcanzar el **cofre** ![](https://images.code.org/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png).'
-      HOC 2018 Level_6: '¡Parece que hace mucho frío fuera! Pesca un **salmón** ![](https://images.code.org/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png) para abrirte camino hasta las ruinas subacuáticas.'
-      HOC 2018 Level_7a: "Has encontrado las ruinas subacuáticas. Busca un **cofre** en la arenisca ![](https://images.code.org/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png), contiene un tesoro de **prismarina** ![](https://images.code.org/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png).\n\n"
-      HOC 2018 Level_8: "¿Primero icebergs y ahora lava? Atraviesa esta isla volcánica y encuentra el **pez tropical** ![](https://images.code.org/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png) en el arrecife de coral.\n\n"
-      HOC 2018 Level_9b: "¡Has llegado al arrecife, ahora busca el **corazón del mar** ![](https://images.code.org/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png) ! Usa el coral azul y rojo para alcanzar el **cofre** ![](https://images.code.org/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png).\n\n"
+      HOC 2018 Level_3: Coge los remos y maneja tu barco por mar abierto para pescar el **bacalao** ![](https://images.letron.vip/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png).
+      HOC 2018 Level_4: Alimenta al **delfín** con el bacalao ![](https://images.letron.vip/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png). Usa un bloque de repetición para atravesar más rápido el océano.
+      HOC 2018 Level_5: '¡Hay una **concha de Nautilus** ![](https://images.letron.vip/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png) escondida en alguna parte! Explora el naufragio para alcanzar el **cofre** ![](https://images.letron.vip/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png).'
+      HOC 2018 Level_6: '¡Parece que hace mucho frío fuera! Pesca un **salmón** ![](https://images.letron.vip/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png) para abrirte camino hasta las ruinas subacuáticas.'
+      HOC 2018 Level_7a: "Has encontrado las ruinas subacuáticas. Busca un **cofre** en la arenisca ![](https://images.letron.vip/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png), contiene un tesoro de **prismarina** ![](https://images.letron.vip/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png).\n\n"
+      HOC 2018 Level_8: "¿Primero icebergs y ahora lava? Atraviesa esta isla volcánica y encuentra el **pez tropical** ![](https://images.letron.vip/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png) en el arrecife de coral.\n\n"
+      HOC 2018 Level_9b: "¡Has llegado al arrecife, ahora busca el **corazón del mar** ![](https://images.letron.vip/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png) ! Usa el coral azul y rojo para alcanzar el **cofre** ![](https://images.letron.vip/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png).\n\n"
       HOC Dance 4_draft: |-
         ¡Utiliza otro bloque nuevo para que el bailarín cambie de movimientos **cada 2 compases**!
         
@@ -1297,7 +1297,7 @@ es:
       grade4_frozen_square_loop1: '¡Hola! Soy Anna de Arandelle. Dibujemos un cuadrado con el bloque de "Repetir", lo que nos permitirá utilizar menos bloques. ¿Cuántas veces (???) se deberían repetir los bloques que están dentro del bloque "Repetir" para formar un cuadrado?'
       grade4_frozen_square_loop2: Ahora crearemos tres cuadrados, girando al terminar cada cuadrado. Asegúrate de girar 120 grados antes de iniciar un nuevo cuadrado.
       grade4_frozen_square_loop3: '¿Puedes dibujar un copo de nieve utilizando el bloque "Repetir" para dibujar un cuadrado 10 veces y el bloque "Girar" para girar 36 grados entre cada cuadrado?'
-      grade4_review_artist2: "¡Esta casa necesita un techo! Dibuja el triángulo. \\r\n\\r\nPista:\nlos tres lados son igual de anchos.\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      grade4_review_artist2: "¡Esta casa necesita un techo! Dibuja el triángulo. \\r\n\\r\nPista:\nlos tres lados son igual de anchos.\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       grade4_review_artist3: "El bloque Salta mueve el artista sin dibujar.\nDibuja la línea punteada utilizando los bloques Salta y Dibuja."
       grade4_review_bee1: Ahora usa el bloque 'repetir' para recolectar todo el néctar y crear toda la miel.
       grade4_review_bee3: |-

@@ -31,7 +31,7 @@ nl:
         2-3_Artist_9_a: Deze diamant is eigenlijk geween een vierkant die 45 graden is gedraaid.
         2-3_Artist_9_b: |-
           Vergeet niet om de kunstenaar 45 graden naar links te draaien voor je begint je vierkant te tekenen
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Denk eraan, je wilt het controle paneel 10 pixels * breder *... dus zorg ervoor dat je 10 tot welk nummer je wilt veranderen * toevoegt *.
         2-3_Artist_Debugging_10_b: "** Proberen en fouten maken is prima hier!**."
@@ -86,7 +86,7 @@ nl:
         2-3_Artist_Loops_New_11_a: |-
           Vergeet niet dat de code van de laatste puzzel was:
           
-          ![] (https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+          ![] (https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
         2-3_Artist_Loops_New_11_b: Je nieuwe bocht moet komen aan het ** einde ** van de code binnen de lus.
       2-3 Artist Loops New 12_authored_hint:
         2-3_Artist Loops_New_12_a: Voordat je begint met de diamant, moet de kunstenaar 60 graden naar rechts draaien om op de goede weg te komen.
@@ -115,7 +115,7 @@ nl:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: Vind je het lastig om te bedenken hoe je de blokken beneden kunt krijgen? Probeer de rode bloem op precies dezelfde manier te behandelen als de paarse bloem!
         2-3_Bee_Conditionals_14_b: Als de rode bloem paars zou zijn, kun je dan uitzoeken hoe je een extra 'herhaal-lus' kunt gebruiken om de code korter te maken?
-        2-3_Bee_Conditionals_14_c: "Probeer dit  eens in twee aparte stukken op te delen.\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Haal 3 keer nectar op\n- Beweeg 5 keer vooruit\n- Controleer of het nectar is, als dat zo is, haal het op\n- Draai naar links\n\n2) Maak honing\n- Beweeg één keer vooruit\n- Maak twee honing"
+        2-3_Bee_Conditionals_14_c: "Probeer dit  eens in twee aparte stukken op te delen.\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Haal 3 keer nectar op\n- Beweeg 5 keer vooruit\n- Controleer of het nectar is, als dat zo is, haal het op\n- Draai naar links\n\n2) Maak honing\n- Beweeg één keer vooruit\n- Maak twee honing"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Denk er aan: Paarse bloemen hebben 0 of 1 nectar en ze kunnen veranderen, iedere keer dat je het programma uitvoert.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -178,7 +178,7 @@ nl:
       2-3 Maze Loops 21_authored_hint:
         2-3_Maze_Loops_21_a: Als je het lastig vindt om het traptrede patroon te vinden, volg dan eerst het pad met je vinger.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Wees er zeker van dat je artiest in je lus, na het tekenen van iedere lijn, achterwaarts en naar boven springt.
       4-5 Artist 3_authored_hint:
@@ -274,7 +274,7 @@ nl:
           **Oplossing**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Om het "beweeg vooruit" blok te gebruiken, sleep je het vanuit het blokken gebied naar de werkplaats en plak je het direct onder het blok "als gestart".
       Course 4 Artist 11_authored_hint:
@@ -1736,7 +1736,7 @@ nl:
           </block>
           </xml>
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Bekijk deze optie voor een bewegingspatroon:\n\n![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
+        Course_4_SCFL_2_a: "Bekijk deze optie voor een bewegingspatroon:\n\n![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
         Course_4_SCFL_2_b: Merk op dat je bij elke iteratie van de `herhaal` lus op drie punten stopt om interactie te hebben met de objecten.
         Course_4_SCFL_2_d: |-
           **Oplossing:**
@@ -3528,7 +3528,7 @@ nl:
         Function_intro_Ryan_b: Als je de functies correct aanroept, dan is dit het pad dat je zal volgen...
         Function_intro_Ryan_a: Je kunt een functie meerdere keren aanroepen in je programma!  Probeer de functie twee keer aan te roepen om deze puzzel op te lossen.
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Zie je de **zeelantaarns** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Hoe kun je een voorwaardelijk opdrachtblok met ze combineren om door het Oceaanmonument te komen?"
+        voyage_aquatic_10a: "Zie je de **zeelantaarns** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Hoe kun je een voorwaardelijk opdrachtblok met ze combineren om door het Oceaanmonument te komen?"
       HOC 2018 Level_9b_authored_hint:
         voyage_aquatic_9a: Wat een prachtig koraalrif! Blauw koraal geeft de ** rechte ** manier aan, en zorg ervoor dat je rood koraal niet ** links ** laat liggen!
       HOC Dance 0_draft_authored_hint:
@@ -3627,7 +3627,7 @@ nl:
           **Oplossing**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Probeer de agent wat bruggen te laten bouwen zodat Alex of Steve voorbij de grenzen van de kaart kunnen komen.
       MC_HOC_2017_01_Cole_authored_hint:
@@ -3669,7 +3669,7 @@ nl:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Door deze twee drukplaten te passeren, wordt het pad voor de speler geopend. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Gebruik het ''rechtsom''-blok om de richting van de agent te veranderen. '
         MC_HOC_2017_04POINT5_RYAN_a: De agent hoeft alleen de eerste drukplaat te bereiken, zodat Alex of Steve naar de bijl kunnen.
@@ -3733,7 +3733,7 @@ nl:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Door deze twee drukplaten te passeren, wordt het pad voor de speler geopend. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Druk op 'Uitvoeren'! 
@@ -4352,7 +4352,7 @@ nl:
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       course4_bee_fwp_challenge1_authored_hint:
         courseF_bee_fwp_challenge1_e: |
           **Oplossing:**
@@ -4929,12 +4929,12 @@ nl:
         courseB_starWars_prog5_da: |-
           Bekijk wat er gebeurt wanneer je dezelfde oplossing zou gebruiken als de trap-stap puzzel:
           
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseB_starWars_prog5_2018_authored_hint:
         courseB_starWars_prog5_da: |-
           Bekijk wat er gebeurt wanneer je dezelfde oplossing zou gebruiken als de trap-stap puzzel:
           
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseC_artist_prog2_authored_hint:
         courseC_artist_prog2_a: 'Als je het blok ''beweeg vooruit door 100 pixels'', zal ik automatisch een lijn tekenen.'
         courseC_artist_prog2_b: Problemen met het draaien van de hoek? Gebruik het blok 'rechts 90 graden'.
@@ -5235,7 +5235,7 @@ nl:
         courseD_artist_ramp10_c: |-
           De artiest zal 6 driehoeken in totaal tekenen:
           
-          ![](https://images.code.org/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
+          ![](https://images.letron.vip/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
       courseE_bee_functions6_authored_hint:
         courseE_bee_functions6_a: "Als de puzzel moeilijk lijkt, probeer dan je functie stap voor stap te maken. \n\nVoeg een paar blokken toe en test je programma. Voeg daarna weer een paar blokken toe en test dan opnieuw. Zo kom je er wel!"
       courseE_bee_functions6_2018_authored_hint:
@@ -5780,7 +5780,7 @@ nl:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2018_authored_hint:
         courseF_artist_for_challenge2_c: 'De `for lus` gaat van 5 tot 250 in stappen van 2. '
         courseF_artist_for_challenge2_d: |-
@@ -5873,7 +5873,7 @@ nl:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2019_authored_hint:
         courseF_artist_for_challenge2_c: 'De `for lus` gaat van 5 tot 250 in stappen van 2. '
         courseF_artist_for_challenge2_d: |-
@@ -5966,27 +5966,27 @@ nl:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_fwp_challenge2_authored_hint:
         courseF_artist_fwp_challenge1_f: |-
           **Oplossing:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_fwp_challenge2_2018_authored_hint:
         courseF_artist_fwp_challenge1_f: |-
           **Oplossing:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_ramp10_authored_hint:
         courseF_artist_ramp10_c: |-
           Voor deze uitdaging moet je 6 driehoeken in totaal tekenen:
           
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_ramp10_2018_authored_hint:
         courseF_artist_ramp10_c: |-
           Voor deze uitdaging moet je 6 driehoeken in totaal tekenen:
           
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_e: |-
           **Oplossing:**
@@ -6435,28 +6435,28 @@ nl:
         courseF_artist_variables_challenge1_d: |-
           **Oplossing:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_authored_hint:
         courseF_artist_variables_challenge2_a: Variabelen kunnen handig zijn omdat je ermee kan optellen doorheen een lus. 
         courseF_artist_variables_challenge2_c: Een variabele voor `sides` en één voor `length` maakt de code properder omdat je meerdere keren over dezelfde code kan loopen, in de plaats van een kopij te creëren voor elke set getallen.
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2018_authored_hint:
         courseF_artist_variables_challenge2_a: Variabelen kunnen handig zijn omdat je ermee kan optellen doorheen een lus. 
         courseF_artist_variables_challenge2_c: Een variabele voor `sides` en één voor `length` maakt de code properder omdat je meerdere keren over dezelfde code kan loopen, in de plaats van een kopij te creëren voor elke set getallen.
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2019_authored_hint:
         courseF_artist_variables_challenge2_a: Variabelen kunnen handig zijn omdat je ermee kan optellen doorheen een lus. 
         courseF_artist_variables_challenge2_c: Een variabele voor `sides` en één voor `length` maakt de code properder omdat je meerdere keren over dezelfde code kan loopen, in de plaats van een kopij te creëren voor elke set getallen.
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_bee_conditionals8_authored_hint:
         courseF_bee_conditionals8_a: "**Herinnering:** De puzzel verandert iedere keer hij wordt uitgevoerd.\n\nJe zult een voorwaardelijke blok (`als` of `als/anders`) moeten gebruiken om deze uitdaging op te lossen."
       courseF_bee_conditionals8_2018_authored_hint:

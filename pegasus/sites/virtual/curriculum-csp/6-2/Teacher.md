@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/csp.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/csp.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>5, :unittitle=>'Web Applications', :lesson=>2, :title=> 'Programming Simulations', :time=>100, :days=>2) %>
@@ -114,7 +114,8 @@ Use these activities to enhance student learning. They can be used as outside of
 
 *CSTA K-12 Computer Science Standards*
 
-CPP.L3A-12 Describe how mathematical and statistical functions, sets, and logic are used in computation. 
+CPP.L3A-12 Describe how mathematical and statistical functions, sets, and logic are used in computation. 
+
 
 *Common Core State Standards for Mathematical Practice*
 1. Make sense of problems and persevere in solving them. 

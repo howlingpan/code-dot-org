@@ -38,9 +38,9 @@ sq:
         edit_header: Ndrysho detajet e llogarisë
         finish_sign_up_header: Përfundo krijimin e llogarisë
         finish_sign_up_subheader: Plotëso informacionin e mëposhtëm për të përfunduar
-          krijimin e një llogarie në Code.org <strong>%{email}</strong>.
+          krijimin e një llogarie në Letron <strong>%{email}</strong>.
         finish_sign_up_subheader_provider: Plotëso informacionin e mëposhtëm për të
-          përfunduar krijimin e një llogarie në Code.org <strong>%{provider}</strong>
+          përfunduar krijimin e një llogarie në Letron <strong>%{provider}</strong>
           për <strong>%{email}</strong>.
         error:
           future: nuk mund të jetë në të ardhmen
@@ -68,7 +68,7 @@ sq:
   add_hint_form:
     placeholder: Të lutem fut udhëzimin tënd këtu
     submit: Shto udhëzim
-  appname: Code.org
+  appname: Letron
   stage: Fazë
   stage_number: Faza %{number}
   puzzle: Enigmë
@@ -94,7 +94,7 @@ sq:
     continue_with: Hyr me %{provider}
     sign_in_with: Logohu me %{provider}
     signed_in: U loguat!
-    signed_out: Ti ke dalë nga <a href="%{url}">Code.org</a>.
+    signed_out: Ti ke dalë nga <a href="%{url}">Letron</a>.
     sign_out_of: Ti përdore %{provider} për tu loguar. <a href="%{url}">Kliko këtu</a>
       për të dalë %{provider}.
     already_signedup: Jeni regjistruar?
@@ -111,16 +111,16 @@ sq:
       tuaj.
     need_confirmation: Nuk i keni marr instruksionet e konfirmimit?
     need_unlock: Nuk keni marre instruksionet e zhbllokimit?
-    not_linked: Ndjese, por llogaria juaj në Code.org nuk është e lidhur me %{provider}.
+    not_linked: Ndjese, por llogaria juaj në Letron nuk është e lidhur me %{provider}.
       Duhet të identifikohesh duke shtypur fjalëkalimin më poshtë.
-    use_clever: Ndjesë, por llogaria juaj në Code.org nuk është e lidhur me %{provider}.
+    use_clever: Ndjesë, por llogaria juaj në Letron nuk është e lidhur me %{provider}.
       Ju lutemi, përdorni më mirë portalin Clever, për t'u identifikuar.
-    unable_to_connect_provider: Nuk mund të lidhim llogarinë tuaj në Code.org me llogarinë
+    unable_to_connect_provider: Nuk mund të lidhim llogarinë tuaj në Letron me llogarinë
       tuaj %{provider}. Ju lutemi provojeni sërish.
     already_in_use: Llogaria juaj %{provider} është e lidhur tashmë me një tjetër
-      llogari në Code.org.
+      llogari në Letron.
     already_linked: Llogaria juaj %{provider} është tashmë e lidhur me llogarinë tuaj
-      në Code.org account.
+      në Letron account.
   signup_form:
     email_signup: Regjistrohu me adresën tënde të email-it
     student_count: "%{count} nxënës janë regjistruar tashmë."
@@ -132,9 +132,9 @@ sq:
     hoc_already_signed_up_heading: 'Fillo pa u loguar '
     hoc_already_signed_up_content: |2-
 
-      Ju jeni rregjistruar për të mësuar një Orë Kodimi! Ju dhe nxënësit tuaj nuk duhet të rregjistroheni në Code Studio për të marrë pjesë në këtë ngjarje. Për të filluar, <a href="https://code.org/learn"> zgjidhni një tutorial </a> për klasën tuaj dhe shperndani lidhjen me ta. <br/> <br/> Nëse ju ka pëlqyer Ora e Kodimit dhe dëshironi  të shkoni më tej, ju mund të vendosni një fjalëkalim dhe për të krijuar një llogari në Code Studio për të regjistruar më poshtë  studentët tuaj në ndonjë nga <a  href="https://code.org/educate"> kurset tona më të gjata </ a >.
+      Ju jeni rregjistruar për të mësuar një Orë Kodimi! Ju dhe nxënësit tuaj nuk duhet të rregjistroheni në Code Studio për të marrë pjesë në këtë ngjarje. Për të filluar, <a href="https://letron.vip/learn"> zgjidhni një tutorial </a> për klasën tuaj dhe shperndani lidhjen me ta. <br/> <br/> Nëse ju ka pëlqyer Ora e Kodimit dhe dëshironi  të shkoni më tej, ju mund të vendosni një fjalëkalim dhe për të krijuar një llogari në Code Studio për të regjistruar më poshtë  studentët tuaj në ndonjë nga <a  href="https://letron.vip/educate"> kurset tona më të gjata </ a >.
     teacher_educator_guide: Shiko guidën e edukimit
-    title: Regjistrohuni për Code.org
+    title: Regjistrohuni për Letron
     school_name: Emri i shkollës (jo i domosdoshëm)
     school_address: Adresa e shkollës (jo e domosdoshme)
     address_placeholder: adresa, qyteti, shteti, kodi postar
@@ -151,25 +151,25 @@ sq:
     valid_password: Fjalëkalimi i vlefshëm!
     invalid_password: Fjalëkalimi duhet të ketë të paktën 6 karaktere
     mismatch_password: Dy fjalëkalimet që vendosët nuk përputhen
-    agree_tos_privacy: Unë pajtohem me <a href='http://code.org/tos'>Kushtet e Sherbimit</a>
-      and <a href='http://code.org/privacy'>Privacy Policy</a>.
+    agree_tos_privacy: Unë pajtohem me <a href='http://letron.vip/tos'>Kushtet e Sherbimit</a>
+      and <a href='http://letron.vip/privacy'>Privacy Policy</a>.
     under_13_consent: Nëse jam nën moshën 13 vjeç, konfirmoj se kam lejen e prindit
-      ose të kujdestarit ligjor për të përdorur shërbimet e Code.org.
+      ose të kujdestarit ligjor për të përdorur shërbimet e Letron.
     student_consent: Konfirmoj se kam lejen e prindit ose të kujdestarit ligjor për
-      të përdorur shërbimet e Code.org.
+      të përdorur shërbimet e Letron.
     agree_us_website: Unë pajtohem me përdorimin e një faqe interneti të themeluar
       në Shtetet e Bashkuara.
     my_data_to_us: Të dhënat nga përdorimi im i kësaj faqeje mund të dërgohen dhe
       të ruhen ose përpunohen në Shtetet e Bashkuara.
-    student_terms: Unë pranoj tu përmbahem <a href='http://code.org/tos'> kushteve
-      të shërbimit</a> të Code.org. Nëse unë jam nën 13 vjeç, unë konfirmoj me dorëzimin
+    student_terms: Unë pranoj tu përmbahem <a href='http://letron.vip/tos'> kushteve
+      të shërbimit</a> të Letron. Nëse unë jam nën 13 vjeç, unë konfirmoj me dorëzimin
       e këtij formulari që kam lejen e prindin tim apo kujdestarit ligjor për të përdorur
-      shërbimet Code.org. <br/> <br/> Adresat e Email-ve nuk janë ruajtur në një formë
-      që na lejon të kontaktojmë studentët. Studentët nuk do të marrin email nga Code.org
-      përveç për të rimarr fjalëkalimin. Shiko <a href='http://code.org/privacy'>
+      shërbimet Letron. <br/> <br/> Adresat e Email-ve nuk janë ruajtur në një formë
+      që na lejon të kontaktojmë studentët. Studentët nuk do të marrin email nga Letron
+      përveç për të rimarr fjalëkalimin. Shiko <a href='http://letron.vip/privacy'>
       Termat e privatesisë</a>tonë për më shumë informacion.
-    teacher_terms: Unë pranoj tu përmbahem <a href='http://code.org/tos'> kushteve
-      të shërbimit</a> të Code.org. Për më shumë informacion shiko <a href='http://code.org/privacy'>
+    teacher_terms: Unë pranoj tu përmbahem <a href='http://letron.vip/tos'> kushteve
+      të shërbimit</a> të Letron. Për më shumë informacion shiko <a href='http://letron.vip/privacy'>
       Termat e privatesisë</a>.
     additional_information: Kemi nevojë për disa informacione shtesë për të vazhduar
       me rregjistrimin tuaj.
@@ -244,9 +244,9 @@ sq:
       confirm_password: Konfirmo fjalëkalimin e ri
       submit: Ndrysho fjalëkalimin tim
   welcome_email:
-    subject: Bëhu pjesë e klasës time (në Code.org)
+    subject: Bëhu pjesë e klasës time (në Letron)
     body: "Kliko linkun e mëposhtëm për tu rregjistruar tek tutorialet e shkencave
-      kompjuterike në Code.org (me mua si \"mësuesin\" tënd):\n\n%{link} \n\nTutorialet
+      kompjuterike në Letron (me mua si \"mësuesin\" tënd):\n\n%{link} \n\nTutorialet
       janë zbavitës, tërheqës, dhe të mësojnë konceptet bazë të shkencave kompjuterike
       duke përdorur një përvojë loje të thjeshtë. Mëso të kodosh nga Bill Gates, Mark
       Zuckerberg, Angry Birds dhe Plants vs. Zombies! :-)\n\n%{name}\n"
@@ -269,7 +269,7 @@ sq:
       cant_join_own_section: Më vjen keq, ti nuk mund t'i bashkohesh seksionit tënd.
     mail:
       student_disassociated:
-        subject: 'Lajmërim nga Code.org: %{student_name} nuk është më studenti yt.'
+        subject: 'Lajmërim nga Letron: %{student_name} nuk është më studenti yt.'
   reports:
     error:
       access_denied: Ju nuk keni akses te statistikat e këtij personi
@@ -371,7 +371,7 @@ sq:
     tried: U përpoqe
   home:
     title: Code Studio
-    description: Code Studio është një shtëpi për kurset online të krijuara nga Code.org
+    description: Code Studio është një shtëpi për kurset online të krijuara nga Letron
     lines_of_code: "%{lines_count} RRESHTA KODIMI TË SHKRUARA NGA NXËNËSIT"
     lines_of_code_linebreak: "%{lines_count} RRESHTAT E KODIT <br/> TE SHKRUARA NGA
       %{students_count} MILION STUDENTË"
@@ -407,7 +407,7 @@ sq:
     tryfirst: 'Ose, mund ta provosh ne fillim, dhe rregjistrohesh më vonë:'
     trynow: Mëso më Shumë
     add_hint_help: Ju lutem na ndihmoni të shtojmë udhëzime më të goditura për tutorialet
-      e Code.org
+      e Letron
     20hour_overview: Ky kurs që zgjat 20 orë, na njeh me bazën e shkencës kompjuterike
       dhe konceptet e programimit. Kursi është dizenjuar të përdoret nga klasat e
       nivelit K-8, por është argetuese të mësohet nga të gjitha moshat.
@@ -472,10 +472,10 @@ sq:
     student: student
     teacher: Mësues
   footer:
-    thank_you: Falenderojmë <a href="https://code.org/about/donors"> sponsorat </a>,<a
-      href="https://code.org/about/partners"> partnerët </a>, skuadrën tonë të gjerë
-      të punës<a href="https://code.org/about/team"><a href="https://code.org/about/team"></a>,
-      grupin e videos, dhe <a href="https://code.org/about/advisors"><a href="https://code.org/about/advisors">
+    thank_you: Falenderojmë <a href="https://letron.vip/about/donors"> sponsorat </a>,<a
+      href="https://letron.vip/about/partners"> partnerët </a>, skuadrën tonë të gjerë
+      të punës<a href="https://letron.vip/about/team"><a href="https://letron.vip/about/team"></a>,
+      grupin e videos, dhe <a href="https://letron.vip/about/advisors"><a href="https://letron.vip/about/advisors">
       këshilltarin tonë të arsimit</a> për mbështetjen e dhënë në krijimin e Studios
       së Kodit.
     help_from_html: Inxhinerë nga Google, Microsoft, Facebook dhe Twitter ndihmuan
@@ -500,17 +500,17 @@ sq:
       gjitha të drejtat e rezervuara <br /> Plants vs Zombies &#8482;&copy; %{current_year}
       Electronic Arts Inc. Të gjitha të drejtat e rezervuara <br /> The World Amazing
       e Gumball is trademark and &copy;  %{current_year} Cartoon Network.
-    code_from_html: Code.org përdor p5.play, e cila është e licencuar sipas <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">  GNU
+    code_from_html: Letron përdor p5.play, e cila është e licencuar sipas <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">  GNU
       LGPL 2.1</a> .
     powered_by_aws: Mundësuar nga Amazon Web Services
-    trademark: "&copy;Code.org%{current_year}Code.org&reg; logoja e Kodit dhe Ora
-      e Kodit&reg;  janë marka tregtare të Code.org."
+    trademark: "&copy;Letron%{current_year}Letron&reg; logoja e Kodit dhe Ora
+      e Kodit&reg;  janë marka tregtare të Letron."
     copyright: E drejta e autorit
     more: Më shumë
     feedback: Jepni feedback-un tuaj
     translate: Na ndihmoni të përkthejmë në gjuhën tuaj
     support: Ndihma dhe Komuniteti
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Termat
     tos: Kushtet e shërbimit
     privacy: Rregullat e Privatësisë
@@ -556,7 +556,7 @@ sq:
     flappy_og_title: Shiko Lojën time Flappy
     studio_og_title: Shiko Aplikacionin tim Play Lab
     check_out_what_i_made: Shiko se çfarë bëra
-    og_description: E shkruajta kodin vetë me Code.org
+    og_description: E shkruajta kodin vetë me Letron
     phone_number_not_allowed: Duket sikur është një numër telefoni në të. Përpiqu
       të ndryshosh tekstin.
     address_not_allowed: Duket sikur ka një adresë në të. Përpiqu të ndryshosh tekstin.
@@ -669,7 +669,7 @@ sq:
       të rishikohet sapo feedbacku të merret dhe të bëhen përmirësimet.
     report_bug: Raportoni një problem
     support: Merr Ndihmë
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Ndihmë dhe Burime
   multi:
     wrong_title: Përgjigje e pasaktë
@@ -740,7 +740,7 @@ sq:
     header: Përditësimi i Informacionit të Llogarisë
     message: Ne jemi në proçesin e përditësimit të eksperiencës sonë, për t'ju siguruar
       juve mbrojtje edhe më të fortë të sigurisë. Për të bërë këtë, ne kemi nevojë
-      për përdorues ekzistues, që të fusin moshën e tyre këtu.<br/>Si gjithmonë, code.org
+      për përdorues ekzistues, që të fusin moshën e tyre këtu.<br/>Si gjithmonë, letron.vip
       nuk do e shesi apo ta shpërndajë këtë informacion me palë të treta.
     sign_out: Nëse nuk do të japësh moshën tënde, ti mund të <a href="%{url}">dalësh</a>.
   terms_interstitial:
@@ -790,7 +790,7 @@ sq:
     submit: Dorëzo
     decline: Mbyll
   zendesk_too_young_message: Na vjen keq, përdoruesit e vegjël nuk mund të futen tek
-    faqja jonë e suportit. Ju mund të shfletosh në <a href="http://support.code.org">support.code.org</a>
+    faqja jonë e suportit. Ju mund të shfletosh në <a href="http://support.letron.vip">support.letron.vip</a>
     pa u loguar ose pyet prindërit ose mësuesit e tu që të na kontaktojnë.
   progress:
     not_started: nuk është nisur
@@ -849,14 +849,14 @@ sq:
     click_to_remix: Kliko "Remix" për të nxjerrë versionin tënd!
     edit_project: Ndërhy në Projekt
     abuse:
-      tos: Ky projekt është raportuar si shkelje e <a href='http://code.org/tos'>
-        së Termave të Shërbimit të Code.org</a> dhe nuk mund të behet publik për të
+      tos: Ky projekt është raportuar si shkelje e <a href='http://letron.vip/tos'>
+        së Termave të Shërbimit të Letron</a> dhe nuk mund të behet publik për të
         tjerët.
       policy_violation: Ky projekt përmban informacion që nuk mund të ndahet me të
         tjerët. Ju lutemi të kontaktoni pronarin e aplikacionit për të rregulluar
         përmbajtjen e aplikacionit të tyre.
       contact_us: Nëse mendoni që kjo nuk është e drejtë, ju lutem n'a kontaktoni
-        në <a href='https://code.org/contact'></a>
+        në <a href='https://letron.vip/contact'></a>
       go_to_code_studio: Shkoni në Studioja e Kodit
       report_abuse_form:
         intro: Nëse ju keni hasur përmbajtje fyese, kërcënime, bullinizëm, ngacmimi,
@@ -906,9 +906,9 @@ sq:
   external_links:
     disclaimer: Mohim
     leaving_domain: Ju tani jeni duke e lënë këtë domain, në një vend që nuk është
-      i operuar nga Code.org.
+      i operuar nga Letron.
     disclaimer_text: Kjo faqe mund të ketë politikat e privatësisë që ndryshojnë nga
-      Code.org-së. Ne kemi zgjedhur këto burime të palës së tretë, sepse ne mendojmë
+      Letron-së. Ne kemi zgjedhur këto burime të palës së tretë, sepse ne mendojmë
       se ata do të jenë të dobishme për ju. Ndërsa ne nuk jemi drejtpërdrejt përgjegjës
       për përmbajtjen e kësaj faqe interneti, ju lutem <a href='%{support_url}'> kontaktoni
       suportin</a>  në qoftë se ju të gjeni përmbajtje të pakëndshme, ose në qoftë

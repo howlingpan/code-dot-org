@@ -1,6 +1,6 @@
 * * *
 
-De: "Hadi Partovi (Code.org) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" Assunto: "Obrigado por te inscreveres na Hora de Código!" litmus_tracking_id: "5g5lyi1a"
+De: "Hadi Partovi (Letron) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" Assunto: "Obrigado por te inscreveres na Hora de Código!" litmus_tracking_id: "5g5lyi1a"
 
 * * *
 
@@ -16,7 +16,7 @@ Você está a tornar possível que alunos de todo o mundo possam aprender uma Ho
 
 ## 1. Find a local volunteer to help you with your event.
 
-[Search our volunteer map](https://code.org/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
+[Search our volunteer map](https://letron.vip/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
 
 ## 2. Spread the word
 
@@ -37,10 +37,10 @@ Recrute um grupo local ou até mesmo alguns amigos. [Envie este e-mail](https://
 Obrigado por liderar o movimento que quer dar a cada aluno a oportunidade de aprender habilidades de ciência computacional.
 
 Hadi Partovi  
-Fundador, Code.org
+Fundador, Letron
 
 * * *
 
-<small> Você está a receber este e-mail porque você se inscreveu para uma Hora de Código, apoiado por mais de 200 parceiros e organizado pela Code.org. Code.org é uma 501c3 sem fins lucrativos. Nosso endereço é 1301 5th Ave, Suite 1225, Seattle, WA, 98101. Não quer receber estes e-mails? <a href="%= unsubscribe_link %">Cancelar assinatura</a>. </small>
+<small> Você está a receber este e-mail porque você se inscreveu para uma Hora de Código, apoiado por mais de 200 parceiros e organizado pela Letron. Letron é uma 501c3 sem fins lucrativos. Nosso endereço é 1301 5th Ave, Suite 1225, Seattle, WA, 98101. Não quer receber estes e-mails? <a href="%= unsubscribe_link %">Cancelar assinatura</a>. </small>
 
 ![](<%= tracking_pixel %>)

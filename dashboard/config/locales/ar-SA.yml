@@ -52,7 +52,7 @@ ar:
   add_hint_form:
     placeholder: الرجاء إدخال التلميح الخاص بك هنا
     submit: إضافة تلميح
-  appname: Code.org
+  appname: Letron
   stage: المرحلة
   stage_number: المرحلة %{number}
   puzzle: لغز
@@ -77,7 +77,7 @@ ar:
   auth:
     sign_in_with: تسجيل الدخول باستخدام %{provider}
     signed_in: تم تسجيل الدخول!
-    signed_out: لقد قمت بتسجيل الخروج من <a href="%{url}">Code.org</a>.
+    signed_out: لقد قمت بتسجيل الخروج من <a href="%{url}">Letron</a>.
     sign_out_of: لقد استخدمت %{provider} لتسجيل الدخول، <a href="%{url}">انقر هنا</a>
       لتسجيل الخروج من %{provider}.
     already_signedup: هل قمت بالتسجيل مسبقاً؟
@@ -104,7 +104,7 @@ ar:
       حساب استوديو البرمجة في الأسفل ليندرج كل تلاميذك في أي من <a href="%{educate_url}">الدروس
       الأطول</a>.
     teacher_educator_guide: راجع دليل المعلم
-    title: الاشتراك في Code.org
+    title: الاشتراك في Letron
     school_name: اسم المدرسة (اختياري)
     school_address: عنوان المدرسة (اختياري)
     address_placeholder: العنوان، المدينة، الدولة، الرمز البريدي
@@ -121,18 +121,18 @@ ar:
     invalid_password: كلمة المرور يجب ان تكون على الاقل 6 احرف
     mismatch_password: كلمة المرور التي ادخلتها غير متطابقة
     under_13_consent: إذا كان عمري أقل من 13 عامًا، أؤكد أنني قد حصلت على إذن من والدي
-      أو الوصي القانوني باستخدام خدمات Code.org.
+      أو الوصي القانوني باستخدام خدمات Letron.
     agree_us_website: أوافق على استخدام موقع على شبكة الإنترنت مقره في الولايات المتحدة.
     my_data_to_us: قد تُرسَل بيانات عن استخدامي لهذا الموقع إلى الولايات المتحدة وتُخزّن
       أو تُعالج فيها.
-    student_terms: أوافق على الالتزام <a href='http://code.org/tos'> شروط الخدمة</a>
-      Code.org. إذا كنت دون سن 13 عاماً، اؤكد بتقديم هذه الاستمارة بان أحد والدي أو
-      وأي امري اذن باستخدام الخدمات Code.org. <br/> <br/> لا يتم تخزين عناوين البريد
+    student_terms: أوافق على الالتزام <a href='http://letron.vip/tos'> شروط الخدمة</a>
+      Letron. إذا كنت دون سن 13 عاماً، اؤكد بتقديم هذه الاستمارة بان أحد والدي أو
+      وأي امري اذن باستخدام الخدمات Letron. <br/> <br/> لا يتم تخزين عناوين البريد
       الإلكتروني في شكل يسمح لنا بالاتصال بالطلاب. سوف يتلقى الطلاب ابدأ رسائل البريد
-      الإلكتروني من Code.org باستثناء استرداد كلمة المرور. الاطلاع على <a href='http://code.org/privacy'>
+      الإلكتروني من Letron باستثناء استرداد كلمة المرور. الاطلاع على <a href='http://letron.vip/privacy'>
       سياسة الخصوصية</a> لمزيد من المعلومات.
-    teacher_terms: أوافق على الالتزام بشروط الخدمة Code.org. لمزيد من المعلومات حول
-      الخصوصية، راجع لدينا <a href='http://code.org/privacy'> سياسة الخصوصية</a>.
+    teacher_terms: أوافق على الالتزام بشروط الخدمة Letron. لمزيد من المعلومات حول
+      الخصوصية، راجع لدينا <a href='http://letron.vip/privacy'> سياسة الخصوصية</a>.
     additional_information: نحتاج للمزيد من المعلومات لمواصلة تسجيلك في الموقع.
     user_type_label: نوع الحساب
     user_type_teacher: المدرس
@@ -177,8 +177,8 @@ ar:
       confirm_password: تأكيد كلمة المرور الجديدة
       submit: تغيير كلمة المرور الخاصة بي
   welcome_email:
-    subject: أنضم إلى صفي (في Code.org)
-    body: "انقر على الرابط أدناه للتسجيل في دروس علوم الكمبيوتر في Code.org ( مثل
+    subject: أنضم إلى صفي (في Letron)
+    body: "انقر على الرابط أدناه للتسجيل في دروس علوم الكمبيوتر في Letron ( مثل
       \"معلمك الخاص\"): \n\n%{link}\n\n\nالدروس تجلب لكم المتعة لانها تعمل بشكل مرئي
       وتقدم لكم مجموعة من المفاهيم الأساسية لعلوم الكمبيوتر الآلي باستخدام التبسيط
       \ والارشادات. تعلم البرمجة من بيل جيتس ومارك زوكربيرج، الطيور الغاضبة والنباتات
@@ -202,7 +202,7 @@ ar:
       cant_join_own_section: عذراً، لا يمكنك الانضمام إلى القسم الخاص بك.
     mail:
       student_disassociated:
-        subject: 'إعلام من Code.org: الطالب %{student_name} لم يعد مقترن بك كطالب.'
+        subject: 'إعلام من Letron: الطالب %{student_name} لم يعد مقترن بك كطالب.'
   reports:
     error:
       access_denied: لا يوجد لديك الصلاحيات للوصول إلى إحصائيات الخاصة بهذا المستخدم
@@ -305,7 +305,7 @@ ar:
     tried: حاول
   home:
     title: ستوديو كود
-    description: Code Studio هو موقع الدروس المتوفرة على الإنترنت من Code.org
+    description: Code Studio هو موقع الدروس المتوفرة على الإنترنت من Letron
     lines_of_code: "%{lines_count} الأسطر من التعليمات البرمجية التي كتبها الطلاب"
     lines_of_code_linebreak: "%{lines_count} هو عدد سطور التعليمات البرمجية<br/> كتبها
       %{students_count} مليون طالب"
@@ -327,7 +327,7 @@ ar:
     student_progress: تقدم تعلمك
     student_stats: لقد حصلت %{trophy_count} من %{trophy_max}  جائزة "اتقان المفهوم".
     student_left_off: 'اين كنت آخر مرة:'
-    student_finished: لقد أتممت جميع دروس Code.org. قم باختيار صف آخر %{online_link}
+    student_finished: لقد أتممت جميع دروس Letron. قم باختيار صف آخر %{online_link}
       أو في %{local_school_link}.
     local_school: مدرسة محلية
     online: متصل
@@ -337,7 +337,7 @@ ar:
       إلى 1000 $ في المكافآت الفصول الدراسية.'
     tryfirst: 'أو، يمكنك تجربتها أولاً، والتسجيل في وقت لاحق:'
     trynow: جرب الآن
-    add_hint_help: الرجاء مساعدتنا لإضافة تلميحات ذكية لبرامج Code.org التعليمية
+    add_hint_help: الرجاء مساعدتنا لإضافة تلميحات ذكية لبرامج Letron التعليمية
     20hour_overview: هذا الكورس 20 ساعة حول مقدمة عن علوم الكمبيوتر ومفاهيم البرمجة.
       تم تصميم هذا الكورس للاستخدام في الفصول الدراسية للصفوف الابتدائية والمتوسطة،
       ولكن أنها متعة للتعلم لكل الإعمار.
@@ -393,9 +393,9 @@ ar:
     student: طالب
     teacher: المدرس
   footer:
-    thank_you: نشكر <a href="https://code.org/about/donors"> الجهات المانحة</a> و
-      <a href="https://code.org/about/partners"> الشركاء</a>، و <a href="https://code.org/about/team">
-      الفريق الموسع</a>، وفريق تصوير الفيديو و <a href="https://code.org/about/advisors">
+    thank_you: نشكر <a href="https://letron.vip/about/donors"> الجهات المانحة</a> و
+      <a href="https://letron.vip/about/partners"> الشركاء</a>، و <a href="https://letron.vip/about/team">
+      الفريق الموسع</a>، وفريق تصوير الفيديو و <a href="https://letron.vip/about/advisors">
       مستشاري التعليم</a> لدعمهم في إنشاء "استوديو التعليمات البرمجية".
     help_from_html: نود بالأخص تكريم المهندسين من جوجل ومايكروسوفت والفيس بوك وتويتر
       الذين ساعدوا في إنشاء هذه البرامج التعليمية.
@@ -416,17 +416,17 @@ ar:
       ريفيو المتحدة للترفيه. جميع الحقوق محفوظة. النباتات ضد المتبلدين&#8482;&copy;%{current_year}
       الكترونكس ارتس. جميع الحقوق محفوظة. عالم غامبل المدهش علامة مسجلة و&copy; 2015
       شبكة الكرتون.
-    code_from_html: Code.org يستخدم p5.play الذي قد تم ترخيصه تحت <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
+    code_from_html: Letron يستخدم p5.play الذي قد تم ترخيصه تحت <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
       GNU LGPL 2.1</a>.
     powered_by_aws: تعمل على خدمات أمازون للويب
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;، إن شعار CODE و Hour
-      of Code&reg; هما علامات تجارية لـ Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;، إن شعار CODE و Hour
+      of Code&reg; هما علامات تجارية لـ Letron."
     copyright: حقوق النسخ
     more: المزيد
     feedback: توفير التغذية الرجعية
     translate: ساعدنا على ترجمة لغتك
     support: الدعم
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: الشروط
     tos: شروط الخدمة
     privacy: سياسة الخصوصية
@@ -471,7 +471,7 @@ ar:
     flappy_og_title: هل تريد تجربة لعبة Flappy الخاصة بي
     studio_og_title: هل تريد تجربة مختبر اللعب خاصتي
     check_out_what_i_made: انظر ما الذي صنعته
-    og_description: كتبت البرنامج بنفسي على Code.org
+    og_description: كتبت البرنامج بنفسي على Letron
     phone_number_not_allowed: يبدو أنه يحتوي على رقم هاتف. حاول تغيير النص.
     address_not_allowed: يبدو أنه يحتوي على عنوان. حاول تغيير النص.
     email_not_allowed: يبدو أنه يحتوي على بريد إلكتروني. حاول تغيير النص.
@@ -575,7 +575,7 @@ ar:
       عليها.
     report_bug: الإبلاغ عن خلل
     support: للحصول على المساعدة
-    support_url: support.code.org
+    support_url: support.letron.vip
     help_resources: المساعدة والموارد
   multi:
     wrong_title: الإجابة غير صحيحة
@@ -635,7 +635,7 @@ ar:
     age: عمرك
     header: تحديث معلومات الحساب
     message: نحن في طور ترقية خبراتنا لنقدم لك حماية خصوصية أفضل مما سبق، لنقوم بذلك
-      نحتاج أن يدخل المستخدمون الحاليون عمرهم هنا. <br/> ولن يقوم Code.org على الإطلاق
+      نحتاج أن يدخل المستخدمون الحاليون عمرهم هنا. <br/> ولن يقوم Letron على الإطلاق
       بإعارة أو بيع أو مشاركة هذه المعلومات مع أي طرف آخر.
     sign_out: إذا كنت لا ترغب بالإدلاء بعمرك، يمكنك <a href="%{url}"> تسجيل الخروج</a>.
   terms_interstitial:
@@ -669,7 +669,7 @@ ar:
     submit: تسجيل
     decline: إغلاق
   zendesk_too_young_message: عذراً، لا يمكن للمستخدمين الصغار تسجيل الدخول إلى موقع
-    دعمنا، يمكنك تصفح <a href="http://support.code.org">صفحة الدعم</a> دون تسجيل الدخول
+    دعمنا، يمكنك تصفح <a href="http://support.letron.vip">صفحة الدعم</a> دون تسجيل الدخول
     أو الطلب من والديك أو معلمك التواصل معنا نيابة عنك.
   progress:
     not_started: لم تبدأ
@@ -732,11 +732,11 @@ ar:
     click_to_remix: انقر فوق "إعادة المزج" لعرض نسختك المعدلة!
     edit_project: تعديل المشروع
     abuse:
-      tos: هذا المشروع قد تم الإبلاغ عنه بانتهاكه Code.org، <a href='http://code.org/tos'>
+      tos: هذا المشروع قد تم الإبلاغ عنه بانتهاكه Letron، <a href='http://letron.vip/tos'>
         شروط الخدمة</a>، ولا يمكن مشاركته مع الآخرين.
       policy_violation: هذا المشروع يحتوي على معلومات لا يمكن مشاركتها مع الآخرين.
         الرجاء الاتصال بمالك التطبيق لإصلاح محتويات على التطبيق.
-      contact_us: إذا كنت تعتقد أن هذا خطأ، الرجاء <a href='https://code.org/contact'>
+      contact_us: إذا كنت تعتقد أن هذا خطأ، الرجاء <a href='https://letron.vip/contact'>
         مراسلتنا.</a>
       go_to_code_studio: الذهاب الي Code Studio
       report_abuse_form:

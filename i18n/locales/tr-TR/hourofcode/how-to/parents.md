@@ -33,7 +33,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 **İlham verici bir video gösterin:**
 
-- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'un olduğu orjinal Code.org videoları ([1 dakika](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 dakika](https://www.youtube.com/watch?v=nKIu9yen5nc) ve [9 dakika](https://www.youtube.com/watch?v=dU1xS07N-FA) versiyonları vardır).
+- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'un olduğu orjinal Letron videoları ([1 dakika](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 dakika](https://www.youtube.com/watch?v=nKIu9yen5nc) ve [9 dakika](https://www.youtube.com/watch?v=dU1xS07N-FA) versiyonları vardır).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [ Başkan Obama tüm öğrencileri kodlama öğrenmeye çağırıyor](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Cevap vermek sorun değil:
 
 Kod Saati etkinliğinize ait fotoğrafları ve videoları sosyal medyada paylaşın. Paylaşımlarınızda #HourOfCode ve @codeorg etiketlerini kullanın böylece başarılarınızı biz de vurgularız!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Kod Saati etkinliğinden sonra ne yapmalı?
 

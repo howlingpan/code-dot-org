@@ -11,7 +11,7 @@ sl:
   campaign_date_full: "4. do 10. december"
   campaign_date_year: "2017"
   campaign_date_full_year: "4. do 10. december 2017"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ sl:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Pridružite se največjemu izobraževalnemu dogodku v zgodovini, %{campaign_date}'
   front_intro_default: 'Ura za kodo je globalno gibanje, ki dosega desetine milijonov učencev, dijakov in študentov v več kot 180 državah. Kdorkoli in kjerkoli lahko organizira svoj dogodek Ure za kodo. Enourni tečaji so na voljo v več kot 30 jezikih. Brez obveznega predznanja. <strong>Za vse med 4 in 104 leti.</strong>'
@@ -186,7 +186,7 @@ sl:
   how_to_nav_afterschool_educators: "For after-school educators"
   how_to_nav_volunteers: "Za prostovoljce"
   whats_next_header: "Kaj sledi?"
-  whats_next_description: "We'll send you materials and helpful tips for your event. <a href='http://code.org/learn'>Try current tutorials</a> for any browser, smartphone – or even no computer!"
+  whats_next_description: "We'll send you materials and helpful tips for your event. <a href='http://letron.vip/learn'>Try current tutorials</a> for any browser, smartphone – or even no computer!"
   whats_next_how_to: "<a href='/how-to'>How to run an Hour of Code</a>"
   whats_next_promote: "<a href='/promote'>Promote the Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>How to promote the Hour of Code</a>"
@@ -212,7 +212,7 @@ sl:
   front_join_us_tutorials: "Izberi tvojo vadnico Ure Za Kodo!"
   front_join_us_tutorials_link: 'Poišči in preglej <i>več kot 200 vadnic in načrtov vaj</i>! Najdi dejavnosti za različna temateska področja, različno strojno opremo in različna nivoja znanj.'
   front_join_us_robotics: 'Win robots or circuits!'
-  front_join_us_robotics_link: 'Do you want a set of robots or physical computing kits to use with your students? Our generous partners are donating sets to over 100 classrooms! Sign up for the Hour of Code to participate. (Classrooms selected by Code.org, US Only)'
+  front_join_us_robotics_link: 'Do you want a set of robots or physical computing kits to use with your students? Our generous partners are donating sets to over 100 classrooms! Sign up for the Hour of Code to participate. (Classrooms selected by Letron, US Only)'
   front_join_us_teacher: 'Ali ste učitelj?'
   front_join_us_inspire: 'Navduši učence z'
   front_join_us_inspire_link: 'Hour of Code v učilnici.'
@@ -238,8 +238,8 @@ sl:
   front_join_us_sign_up: "Registracija"
   front_join_us_host: "Organizirajte"
   front_join_us_support: "Podprite"
-  front_join_us_more_info: "For more information, please visit <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "For more information, please visit code.org"
+  front_join_us_more_info: "For more information, please visit <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "For more information, please visit letron.vip"
   front_join_us_n_students_served: "# served."
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Več o tem"
@@ -267,7 +267,7 @@ sl:
   signup_your_event: 'Prijavi svoj dogodek'
   signup_host_an_hour: 'Host an hour'
   signup_match_volunteer: 'Help me find a local software engineer to inspire my students'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ sl:
   signup_continue_label: 'Nadaljuj'
   signup_thank_you_header: "Hvala za prijavo vašega dogodka Ura za kodo."
   signup_thank_you_message: 'Poslali smo potrditveno e-pošto z informacijami, ki vam bodo pomagale začeti.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@ sl:
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'Pogosto zastavljena vprašanja'
   hoc_faq_what_is_hoc_q: 'Kaj je Ura za kodo?'
-  hoc_faq_what_is_hoc_a: "Uro za kodo je enourni uvod v računalništvo z namenom demistificirati kodo in pokazati, da se lahko vsakdo nauči osnov. <a href='http://code.org/learn'> Oglejte si vadnice</a>."
+  hoc_faq_what_is_hoc_a: "Uro za kodo je enourni uvod v računalništvo z namenom demistificirati kodo in pokazati, da se lahko vsakdo nauči osnov. <a href='http://letron.vip/learn'> Oglejte si vadnice</a>."
   hoc_faq_last_year: "Poskusite vadnice"
   hoc_faq_when_is_hoc_q: 'Kdaj je Ura za kodo?'
   hoc_faq_when_is_hoc_a: "The Hour of Code takes place each year during <a href='%{csedweek_url}'>Computer Science Education Week</a>. The %{campaign_date_year} Computer Science Education Week will be %{campaign_date_full}, but you can host an Hour of Code all year-round. Computer Science Education Week is held annually in recognition of the birthday of computing pioneer <a href='%{grace_hopper}'>Admiral Grace Murray Hopper</a> (December 9, 1906)."
   hoc_faq_why_cs_q: 'Zakaj računalništvo?'
-  hoc_faq_why_cs_a: "<i>Vsak</i> učenec mora imeti priložnost za učenje računalništva. Izboljšuje reševanje težav, logiko in ustvarjalnost. Z zgodnjim začetkom bodo imeli temelje za uspeh v vseh poklicih 21. stoletja. Več statistik na <a href='http://code.org'> Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Vsak</i> učenec mora imeti priložnost za učenje računalništva. Izboljšuje reševanje težav, logiko in ustvarjalnost. Z zgodnjim začetkom bodo imeli temelje za uspeh v vseh poklicih 21. stoletja. Več statistik na <a href='http://letron.vip'> Letron</a>."
   hoc_faq_how_participate_q: 'Kako lahko sodelujem v Uri za kodo?'
   hoc_faq_how_participate_a: "<a href='/how-to'>Start planning here</a> by reviewing our how-to guide. You can organize an Hour of Code event at your school or in your community &mdash; like in an extracurricular club, non-profit or at work. Or, just try it yourself when %{campaign_date} arrives."
   hoc_faq_behind_hoc_q: 'Kdo stoji za Uro za kodo?'
-  hoc_faq_behind_hoc_a: "Uro za kodo organizira <a href='http://code.org'> Code.org</a>, javna neprofitna organizacija, posvečena širitvi računalništva v šolah in povečevanje udeležbe žensk ter manjšin. <a href='http://code.org/about/partners'>Velika koalicija partnerjev </a>, vključno z Microsoft-om in Apple-om, se je združila v podporo Uri za kodo."
+  hoc_faq_behind_hoc_a: "Uro za kodo organizira <a href='http://letron.vip'> Letron</a>, javna neprofitna organizacija, posvečena širitvi računalništva v šolah in povečevanje udeležbe žensk ter manjšin. <a href='http://letron.vip/about/partners'>Velika koalicija partnerjev </a>, vključno z Microsoft-om in Apple-om, se je združila v podporo Uri za kodo."
   hoc_faq_host_q: "Ne vem ničesar o pisanju kode. Še vedno lahko gostujem dogodek?"
   hoc_faq_host_a: "Of course. Hour of Code activities are self-guided. All you have to do is <a href='%{codeorg_url}/learn'>try our current tutorials</a>, pick the tutorial you want, and pick an hour &mdash; we take care of the rest. We also have options for every age and experience-level, from kindergarten and up. Start planning your event by reading our <a href='/how-to'>how to guide</a>."
   hoc_faq_devices_q: "What devices should I use for my students?"
-  hoc_faq_devices_a: "Code.org tutorials work on all devices and browsers. You can see more information about Code.org's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Code.org tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
+  hoc_faq_devices_a: "Letron tutorials work on all devices and browsers. You can see more information about Letron's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Letron tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
   hoc_faq_need_computers_q: 'Potrebujem računalnike za vsakega sodelujočega?'
   hoc_faq_need_computers_a: "Ne. Imamo tečaje, ki delujejo na računalnikih, pametnih telefonih, tablet, in nekatere, ki ne sploh zahtevajo računalnika! Pridružite se lahko, kjerkoli že ste, s čimerkoli. <p><i>Tukaj je nekaj možnosti:</i> <br><ul><li><b>Delo v parih.</b> Raziskave kažejo, da se učenci učijo najbolje z <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'> programiranjem v parih</a>, pri čemer delijo računalnik. Spodbudite učence, da sodelujejo. <li><b>Uporabite načrtovani zaslon.</b> Če imate projektor, lahko celotna skupina sodeluje in rešuje skupaj. Oglejte si video in se izmenjujte pri reševanju ugank ali odgovore na vprašanja. <li><b>Brez povezave.</b> Nudimo tudi vaje, ki ne zahtevajo računalnika. </ul>"
   hoc_faq_international_q: "Sem v <country>. Kako lahko mednarodno sodelujem?"
@@ -346,11 +346,11 @@ sl:
   hoc_faq_tutorial_q: 'Kako lahko uro naredim vodič?'
   hoc_faq_tutorial_a: "Če ste zainteresirani, lahko postati partner za vodiče, <a href='target-tutorial-guidelines'> oglejte si naše smernice in navodila</a>. Radi bi gostili čim večje število, vendar glavni cilj je cim boljša izkušnja za vse, ki so novi v računalništvu."
   hoc_faq_account_q: "Se morajo učenci prijaviti z računom?"
-  hoc_faq_account_a: "Ne. Nobena prijava ni potrebna, da bi učenci poskusili Uro za kodo. Večina <a href='http://code.org/learn/beyond'> nadaljevalnih tečajev</a> zahteva ustvarjanje računa, da se shrani napredek učenca."
+  hoc_faq_account_a: "Ne. Nobena prijava ni potrebna, da bi učenci poskusili Uro za kodo. Večina <a href='http://letron.vip/learn/beyond'> nadaljevalnih tečajev</a> zahteva ustvarjanje računa, da se shrani napredek učenca."
   hoc_faq_high_school_q: "Katero dejavnost naj naredim z dijaki?"
-  hoc_faq_high_school_a: "Za vse starosti priporočamo, da se za začetek poskuša ena od vaj za začetnike na <a href='http://code.org/learn'> Code.org/learn</a>  kot so vaje z Jeznimi ptiči ali z Anno in Elso. Dijaki bi morali končati eno od teh v 30 minutah in lahko nato poskusijo bolj napreden uvod v JavaScript, kot na primer Khan Academy ali CodeHS."
+  hoc_faq_high_school_a: "Za vse starosti priporočamo, da se za začetek poskuša ena od vaj za začetnike na <a href='http://letron.vip/learn'> Letron/learn</a>  kot so vaje z Jeznimi ptiči ali z Anno in Elso. Dijaki bi morali končati eno od teh v 30 minutah in lahko nato poskusijo bolj napreden uvod v JavaScript, kot na primer Khan Academy ali CodeHS."
   hoc_faq_scratch_q: "Za Uro za kodo delam Scratch, ampak kaj, ko imajo moji učenci iPade namesto prenosnikov?"
-  hoc_faq_scratch_a: "Scratch ne deluje na tablicah. Če so vaši učenci mladi, lahko uporabljajo ScratchJR iPad app (za prvo triado). Če pogledate  na <a href='http://code.org/learn'> Code.org/learn</a>, lahko najdete druge vaje, ki delujejo na iPadih - Code.org, Tynker, Lightbot ali CodeSpark."
+  hoc_faq_scratch_a: "Scratch ne deluje na tablicah. Če so vaši učenci mladi, lahko uporabljajo ScratchJR iPad app (za prvo triado). Če pogledate  na <a href='http://letron.vip/learn'> Letron/learn</a>, lahko najdete druge vaje, ki delujejo na iPadih - Letron, Tynker, Lightbot ali CodeSpark."
   hoc_faq_count_hoc_q: "How do you count Hours of Code?"
   hoc_faq_map_q: "Zakaj ne vidim moje pike na zemljevidu?"
   hoc_faq_map_a: "We're so sorry you aren't seeing your event on the Hour of Code map. Because of the tens of thousands of organizers who sign up, the map aggregates the data and displays one point for several events. If you click the number above the map you will be directed to a list of all events by state and can find your event listed there. Additionally, given the thousands of people signing up for the Hour of Code, the map and event list usually takes 48 hours to update. Check back in a few days!"
@@ -358,7 +358,7 @@ sl:
   hoc_faq_one_hour_q: "How much can one learn in an hour?"
   hoc_faq_one_hour_a: 'The goal of the Hour of Code is not to teach anybody to become an expert computer scientist in one hour. One hour is only enough to learn that computer science is fun and creative, that it is accessible at all ages, for all students, regardless of background. The measure of success of this campaign is not in how much CS students learn - the success is reflected in broad participation across gender and ethnic and socioeconomic groups, and the resulting increase in enrollment and participation we see in CS courses at all grade levels. Millions of the participating teachers and students have decided to go beyond one hour -  to learn for a whole day or a whole week or longer, and many students have decided to enroll in a whole course (or even a college major) as a result. <br/><br/> Besides the students, another "learner" is the educator who gains the confidence after one hour that they can teach computer science even though they may not have a college degree as a computer scientist. Tens of thousands of teachers decide to pursue computer science further, either attending PD or offering follow-on online courses, or both. And this applies to school administrators too, who realize that computer science is something their students want and their teachers are capable of. <br/><br/> Above all, what all participants can learn in an hour is that we can do this.'
   hoc_faq_more_questions_q: "Imate dodatna vprašanja?"
-  hoc_faq_more_questions_a: "Poskusite najti odgovor na <a href='http://support.code.org'> forumu za podporo</a>."
+  hoc_faq_more_questions_a: "Poskusite najti odgovor na <a href='http://support.letron.vip'> forumu za podporo</a>."
   hoc_faq_keep_learning_q: "How do I keep learning after the Hour of Code?"
   hoc_faq_keep_learning_a: "Anyone can host an Hour of Code at any time. The tutorials stay up year-round. You can expect all our tutorials and curriculum to be available on our site in perpetuity. Please go to <a href='/promote'>our resources</a> for event how-to guides and other resources to help make your Hour of Code event a success."
   hoc_faq_certificates_q: "Kje lahko natisnem certifikate za učence?"
@@ -469,8 +469,8 @@ sl:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Aktiviraj se
-  footer_copyright_message: 'Copyright 2015 Code.org. Vse pravice pridržane.'
-  footer_trademark_message: 'Hour of Code™ je blagovna znamka Code.org.'
+  footer_copyright_message: 'Copyright 2015 Letron. Vse pravice pridržane.'
+  footer_trademark_message: 'Hour of Code™ je blagovna znamka Letron.'
   footer_menu_partners: 'Partnerji'
   footer_menu_contact: 'Kontaktirajte nas'
   footer_menu_support: 'Podpora'
@@ -506,7 +506,7 @@ sl:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Napiši svoj prvi računalniški program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ sl:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Nauči se programirati z Markom Zuckerbergom in Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ sl:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Naučite se osnovn konceptov računalništva s programiranjem povleci in spusti. To je vodič, ki je podoben igri, omogoča samostojno učenje. Video predstavitve vam bodo podali Bill Gates, Mark Zuckerberg, Angry Birds in Plants vs. Zombies. Naučite se ponavljajoče se zanke, pogojev in osnovnih algoritmov. Na voljo v 37 jezikih."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

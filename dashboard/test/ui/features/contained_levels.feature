@@ -4,7 +4,7 @@ Feature: Contained Levels
 
 Scenario: Applab with free response contained level
   When I open my eyes to test "applab contained level"
-  Given I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/15"
+  Given I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/15"
   And I rotate to landscape
   And I wait for the page to fully load
   Then I see no difference for "initial load"
@@ -14,7 +14,7 @@ Scenario: Applab with free response contained level
   And I see no difference for "level run"
   # At this point, we should have submitted our result to the server, do
   # a reload and make sure we have the submission
-  Then I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/15"
+  Then I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/15"
   And I rotate to landscape
   And I wait for the page to fully load
   And I see no difference for "reloaded with contained level answered"
@@ -28,7 +28,7 @@ Scenario: Applab with free response contained level
 
 Scenario: Gamelab with multiple choice contained level
   When I open my eyes to test "gamelab contained level"
-  Given I am on "http://studio.code.org/s/allthehiddenthings/stage/2/puzzle/1"
+  Given I am on "http://studio.letron.vip/s/allthehiddenthings/stage/2/puzzle/1"
   And I rotate to landscape
   And I wait for the page to fully load
   Then I see no difference for "initial load"
@@ -38,7 +38,7 @@ Scenario: Gamelab with multiple choice contained level
   And I see no difference for "level run"
   # At this point, we should have submitted our result to the server, do
   # a reload and make sure we have the submission
-  Then I am on "http://studio.code.org/s/allthehiddenthings/stage/2/puzzle/1"
+  Then I am on "http://studio.letron.vip/s/allthehiddenthings/stage/2/puzzle/1"
   And I rotate to landscape
   And I wait for the page to fully load
   And I see no difference for "reloaded with contained level answered"

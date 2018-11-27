@@ -35,7 +35,7 @@
     "markdown_instructions": "Repeat loops work for Artist, too!",
     "ideal": "4",
     "instructions_important": "false",
-    "images": "[\r\n  {\"filename\": \"https://images.code.org/6502bc59737a861d230d871c92de4808-image-1477108259646.png\", \"position\": [0, 0]}\r\n]\r\n\r\n",
+    "images": "[\r\n  {\"filename\": \"https://images.letron.vip/6502bc59737a861d230d871c92de4808-image-1477108259646.png\", \"position\": [0, 0]}\r\n]\r\n\r\n",
     "callout_json": "[]",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
@@ -43,7 +43,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-05-10 19:19:07 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"authored_hints\",\"markdown_instructions\",\"callout_json\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-05-10 19:19:07 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"authored_hints\",\"markdown_instructions\",\"callout_json\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

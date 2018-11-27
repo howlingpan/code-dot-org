@@ -1,7 +1,7 @@
 include FactoryGirl::Syntax::Methods
 
 class SampleData
-  SAMPLE_TEACHER_EMAIL = 'testteacher@code.org'.freeze
+  SAMPLE_TEACHER_EMAIL = 'testteacher@letron.vip'.freeze
   SAMPLE_TEACHER_PASSWORD = '00secret'.freeze
   SAMPLE_TEACHER_NAME = 'TestTeacher Codeberg'.freeze
   SAMPLE_STUDENT_NAME_FORMAT = 'TestStudent%s Codeberg'.freeze

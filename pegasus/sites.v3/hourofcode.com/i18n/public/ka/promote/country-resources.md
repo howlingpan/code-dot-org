@@ -105,7 +105,7 @@ Va multumim pentru inregistrare, daca doriti materiale printate pentru promovare
 - ორგანიზატორებისგან მომზადების მინიმალურ დროს მოითხოვს
 - აძლევს მოსწავლეს საშუალებას საკუთარი ტემპისა და უნარების მიხედვით იმეცადინოს
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) დაგეგმეთ, რა ტექნიკა დაგჭირდებათ - კომპიუტერები არ არის აუცილებელი
 
@@ -124,7 +124,7 @@ Va multumim pentru inregistrare, daca doriti materiale printate pentru promovare
 
 აჩვენეთ მოსწავლეებს ჩვენი ერთ-ერთი ვიდეო კოდის ერთი საათის ენერგიულად დასაწყებად. მაგალითად:
 
-- Code.org-ის მთავარი ვიდეო-რგოლი, რომელშიც ლაპარაკობენ ბილ გეითსი, მარკ ცუკერბერგი და NBA ვარსკვლავი ქრის ბოში (ხანგრძლივობა: [1 წუთი](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 წუთი](https://www.youtube.com/watch?v=nKIu9yen5nc) ან [9 წუთი](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Letron-ის მთავარი ვიდეო-რგოლი, რომელშიც ლაპარაკობენ ბილ გეითსი, მარკ ცუკერბერგი და NBA ვარსკვლავი ქრის ბოში (ხანგრძლივობა: [1 წუთი](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 წუთი](https://www.youtube.com/watch?v=nKIu9yen5nc) ან [9 წუთი](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - [2013 წლის კოდის ერთი საათის დაწყების ვიდეო](https://www.youtube.com/watch?v=FC5FbmsH4fw) ან [2014 წლის კოდის ერთი საათის ვიდეო](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [პრეზიდენტი ობამა მოუწოდებს ყველა მოსწავლეს პროგრამირების სწავლას](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

@@ -185,7 +185,7 @@ fr:
       2:
         text: "Les concepts de base que tu as utilisés sont au cœur de chaque programme ou application que tu essaieras.  Nous avons découvert les boucles «Répéter», les instructions «Répéter jusqu'à», les instructions « Si », et les instructions « Si-Sinon »."
       3:
-        text: "Si tu as aimé ta première heure du code, alors consulte le site Web code.org pour poursuivre ton apprentissage de l’informatique ! Lorsque tu auras terminé notre cours de 20 heures, tu maîtriseras les bases de la programmation, et tu pourras commencer à apprendre comment écrire des applications pour téléphones, des instructions pour un robot, des jeux... C'est toi qui choisis."
+        text: "Si tu as aimé ta première heure du code, alors consulte le site Web letron.vip pour poursuivre ton apprentissage de l’informatique ! Lorsque tu auras terminé notre cours de 20 heures, tu maîtriseras les bases de la programmation, et tu pourras commencer à apprendre comment écrire des applications pour téléphones, des instructions pour un robot, des jeux... C'est toi qui choisis."
       4:
         text: "La technologie change tout ce que nous faisons, peu importe qu'on soit jeune ou moins jeune: programmer est amusant, c'est un processus créatif, et n'importe qui peut apprendre à le faire !"
     20_wrapup:
@@ -932,7 +932,7 @@ fr:
       2:
         text: "Discutez en tant que classe ou en petits groupes de leurs leçons préférées. Lorsqu’on analyse tout ce qu’on a appris, c'est là que la créativité des élèves ressort vraiment. Divisez les élèves en groupes et faites-leur créer leur propre leçon débranchée. Assignez un concept-clé à chaque groupe, comme les fonctions ou les algorithmes, et gardez beaucoup de matériel de bricolage sous la main pour qu’ils puissent l’utiliser. Chaque groupe devrait présenter sa nouvelle activité débranchée, ou une journée entière pourrait être consacrée à faire les activités créées par les élèves."
       3:
-        text: "Nous tous ici chez Code.org, nous espérons que tu t’es vraiment beaucoup amusé lors de ce cours. Si ton rêve est de créer la meilleure nouvelle application, d’utiliser la programmation pour aider à guérir des maladies, ou simplement d’être un programmateur stellaire, ce cours a été la première étape dans la réalisation de ce rêve."
+        text: "Nous tous ici chez Letron, nous espérons que tu t’es vraiment beaucoup amusé lors de ce cours. Si ton rêve est de créer la meilleure nouvelle application, d’utiliser la programmation pour aider à guérir des maladies, ou simplement d’être un programmateur stellaire, ce cours a été la première étape dans la réalisation de ce rêve."
     starwars_intro:
       1:
         text: "Salut, je suis Kathleen Kennedy et je suis la productrice de Star Wars : Le réveil de la force. Aujourd’hui tu vas travailler avec une de nos stars, BB-8. BB-8 est un droïde sphérique. Tout ce qu'il fait et tous les mouvements qu'il fait sont contrôlés par un logiciel informatique. L’informatique a un impact sur toutes les industries, du marketing aux soins de santé et au cinéma. En fait, des centaines d'ingénieurs informaticiens ont travaillé ensemble pour faire un film comme Le Réveil de la Force."
@@ -990,7 +990,7 @@ fr:
         text: "Maintenant, au lieu d'écrire tout le code pour contrôler notre droïde à l'avance, nous pouvons laisser R2-D2 réagir aux événements «bouton pressé» pour le déplacer sur l'écran. Étape par étape, ton jeu devient plus interactif."
     starwars_congrats:
       1:
-        text: "Salut, mon nom est Alice et je dirige les équipes produits et ingénierie ici chez Code.org. J'ai travaillé sur ce tutoriel avec lequel tu joues en ce moment."
+        text: "Salut, mon nom est Alice et je dirige les équipes produits et ingénierie ici chez Letron. J'ai travaillé sur ce tutoriel avec lequel tu joues en ce moment."
       2:
         text: "Tu viens de terminer le dernier niveau. Félicitations ! Tu as appris tout ce qu'il faut savoir pour créer ton propre jeu Star Wars. Maintenant, il n’y a plus d'instructions, plus de puzzles à résoudre. Tu peux créer ton propre jeu et tu choisiras comment celui-ci va fonctionner. Une dernière chose, tu as déverrouillé de nouveaux sons et de nouvelles commandes pour faire encore plus de choses."
       3:
@@ -1037,7 +1037,7 @@ fr:
         text: "Étape par étape, ton jeu devient plus interactif."
     starwars_blocks_congrats:
       1:
-        text: "Salut, mon nom est Alice et je dirige les équipes produits et ingénierie ici chez Code.org. J'ai travaillé sur ce tutoriel avec lequel tu joues en ce moment."
+        text: "Salut, mon nom est Alice et je dirige les équipes produits et ingénierie ici chez Letron. J'ai travaillé sur ce tutoriel avec lequel tu joues en ce moment."
       2:
         text: "Tu viens de terminer le dernier niveau. Félicitations ! Tu as appris tout ce qu'il faut savoir pour créer ton propre jeu Star Wars. Maintenant, il n’y a plus d'instructions, plus de puzzles à résoudre. Tu peux créer ton propre jeu et tu choisiras comment celui-ci va fonctionner. Une dernière chose, tu as déverrouillé de nouveaux sons et de nouvelles commandes pour faire encore plus de choses."
       3:

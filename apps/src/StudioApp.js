@@ -757,7 +757,7 @@ export function makeFooterMenuItems() {
   const footerMenuItems = [
     {
       text: i18n.t('footer.try_hour_of_code'),
-      link: 'https://code.org/learn',
+      link: 'https://letron.vip/learn',
       newWindow: true
     },
     {
@@ -777,12 +777,12 @@ export function makeFooterMenuItems() {
     },
     {
       text: i18n.t('footer.tos'),
-      link: "https://code.org/tos",
+      link: "https://letron.vip/tos",
       newWindow: true
     },
     {
       text: i18n.t('footer.privacy'),
-      link: "https://code.org/privacy",
+      link: "https://letron.vip/privacy",
       newWindow: true
     }
   ];

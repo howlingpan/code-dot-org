@@ -3,7 +3,7 @@
   'yes': 'Āe'
   'no': 'Kāore'
   select_language: "Tēnā kōwhiritia tō reo"
-  upgrade_ie_message: "Kāore e roa ka poroa e Code.org te āheinga mō Internet Explorer 8, 9, and 10. Tēna, whakahoungia tō pūtitotiro."
+  upgrade_ie_message: "Kāore e roa ka poroa e Letron te āheinga mō Internet Explorer 8, 9, and 10. Tēna, whakahoungia tō pūtitotiro."
   upgrade_ie_message_csedweek: "Kāore e roa ka poroa e CSEdWeek.org te āheinga mō Internet Explorer 8, 9, and 10. Tēna, whakahoungia tō pūtitotiro."
   upgrade_ie_link: "Me ako tonu"
   en: "Pūtaiao Rorohiko"
@@ -24,7 +24,7 @@
   submit: "Tāpaetia"
   twentyhours_heading: "Whakamātauria tā mātou Akoranga Whakarāpopotonga o te Pūtaiao Rorohiko"
   twentyhours_text: "Kua oti tō Hour of Code tuatahi? Ako he pūtaiao rorohiko me ngā huatau waehere anō i tei akomanga whai-ake."
-  og_title: 'Code.org: Ka taea te ako, ahakoa ko wai'
+  og_title: 'Letron: Ka taea te ako, ahakoa ko wai'
   og_description: "E tika ana kia whai wāhi ia ākonga, i ia kura ki te ako i te pūtaiao rorohiko."
   csedweek_og_title: "E tata mai ana te Hour of Code"
   csedweek_og_description: "He kuhunga ā-ao te Hour of Code kua pā ki ngā ākonga piriona pakeke katoa, kua horapa ki ngā whenua 180 neke atu, kua whakamāoritia hoki ki ngā reo e 45 neke atu."
@@ -47,9 +47,9 @@
   cded_try_it: "Whakamātauria"
   try_now: "Ngana ināianei"
   california_heading: "Tono atu ki tō kura ki te whakaako i te pūtaiao rorohiko"
-  california_text: "E āhei ana ngā kaiako katou ki te whakaako ā mātou <a href='http://studio.code.org/'>akomanga kore utu</a>. Ka taea e ngā kura tuatahi katoa ki te <a href='http://code.org/educate/k5'>whakaako i te pūtaiao rorohiko</a>. Tono atu ki ngā whaerekura ki <a href='http://code.org/educate/districts'>mahitahi i a mātou."
+  california_text: "E āhei ana ngā kaiako katou ki te whakaako ā mātou <a href='http://studio.letron.vip/'>akomanga kore utu</a>. Ka taea e ngā kura tuatahi katoa ki te <a href='http://letron.vip/educate/k5'>whakaako i te pūtaiao rorohiko</a>. Tono atu ki ngā whaerekura ki <a href='http://letron.vip/educate/districts'>mahitahi i a mātou."
   california_button: "Ako Tonu"
-  flappy_heading: "Hari Flappy-tau ki Code.org"
+  flappy_heading: "Hari Flappy-tau ki Letron"
   gender: "Ira"
   learn_back_to_minecraft: "Kia kaha tonu ki te ako me Mahimaina"
   studiobar_flappy_title: "Waehere Flappy"
@@ -99,7 +99,7 @@
   homepage_diversity_pledge: "Kawea ake te kī taurangi kanorau"
   homepage_banner_text_prizes: 'E kainamu ana te rā ka tīmata anō ai te Hour of Code ā te 7-13 o Hakihea. '
   homepage_banner_link_prizes: 'Whakapiri mai ki te takunetanga ako rahi rawa o te wā. '
-  homepage_banner_text_main: "E tū tahi ana a Code.org me te College Board ki te whakapai ake i ngā āhuatanga kanorau o te pūtaiao rorohiko."
+  homepage_banner_text_main: "E tū tahi ana a Letron me te College Board ki te whakapai ake i ngā āhuatanga kanorau o te pūtaiao rorohiko."
   homepage_banner_text_link: "Me ako tonu"
   homepage_banner_privacy_link: "Me ako tonu"
   homepage_banner_20k_teachers: "E 20,000 ngā pouako kua whakangungua, ā, ko rātou kei te whakaako i te pūtaiao rorohiko ināianei."
@@ -131,7 +131,7 @@
   homepage_slot_text_link_donate: "Tāpaetia he koha"
   homepage_slot_text_link_shop: "Tīhāte, pōtae, aha atu"
   homepage_header_codestudio: "Ngā waihangatanga nā ngā ākonga i Code Studio"
-  homepage_header_donors: "Ka mihia ōna kaitautoko e Code.org"
+  homepage_header_donors: "Ka mihia ōna kaitautoko e Letron"
   homepage_donors_seall: "Tirohia te katoa"
   homepage_donors_donate: "Tāpaetia he koha"
   homepage_below_hero_announcement_link_text: "Me ako tonu"

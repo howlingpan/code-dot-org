@@ -157,7 +157,7 @@ pt-BR:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: Está tendo dificuldade em descobrir como abaixar os blocos?  Tente tratar a flor vermelha exatamente como uma flor roxa!
         2-3_Bee_Conditionals_14_b: Se as flores vermelhas fossem roxas, você conseguiria reduzir o código usando mais um ciclo 'repeat'?
-        2-3_Bee_Conditionals_14_c: "Tente separar isso em dois códigos distintos:\n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Coletar nectar 3 vezes\n  - Andar para frente 5 vezes\n  - Verifique se há nectar, se houver: pqgue\n  - Vire à esquerda\n  \n2) Fazer mel\n  - Andar para frente 1 vez\n  - Faça mel 2 vezes"
+        2-3_Bee_Conditionals_14_c: "Tente separar isso em dois códigos distintos:\n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Coletar nectar 3 vezes\n  - Andar para frente 5 vezes\n  - Verifique se há nectar, se houver: pqgue\n  - Vire à esquerda\n  \n2) Fazer mel\n  - Andar para frente 1 vez\n  - Faça mel 2 vezes"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Lembre-se: Flores roxas só tem 0 ou 1 néctar e eles podem mudar cada vez que você executar o programa.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -175,12 +175,12 @@ pt-BR:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: Você não precisa usar um loop com uma função. Tente mover, usando a função, e então, mover-se e usar a função novamente.
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!"
         2-3_Bee_Functions_8_b: |-
           Lembre-se de construir o seu código dentro do bloco de função verde. 
-          ! [a] (https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ! [a] (https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Ao terminar, você deve ter cinco blocos dentro do seu loop.
       2-3 Bee Loops 3_authored_hint:
@@ -221,7 +221,7 @@ pt-BR:
       2-3 Maze Loops 21_authored_hint:
         2-3_Maze_Loops_21_a: Se você está tendo dificuldades para encontrar o padrão de degrau, tente cobrir os caminhos bloqueados com o dedo.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Dentro de seu loop, certifique-se que o artista salta para trás e para cima depois que desenha cada linha.
       4-5 Artist 3_authored_hint:
@@ -307,7 +307,7 @@ pt-BR:
           **Solução**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Para usar um bloco `Avançar`, arraste-o da área de blocos para fora, na área de trabalho e conecte-o ao bloco `quando executar`.
       Course 4 Artist 11_authored_hint:
@@ -875,7 +875,7 @@ pt-BR:
           </xml>
       Course 4 SCF 1a_authored_hint:
         Course_4_SCF_1a_a: Lembre-se de suas funções da fase 16.
-        Course_4_SCF_1a_b: "Veja este caminho como sua rota principal:\n\n![](https://images.code.org/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
+        Course_4_SCF_1a_b: "Veja este caminho como sua rota principal:\n\n![](https://images.letron.vip/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
         Course_4_SCF_1a_c: Você deve considerar usar um laço `para`. Não para as etapas, mas para o parâmetro da função.
         Course_4_SCF_1a_d: |-
           **Solução:**
@@ -1101,7 +1101,7 @@ pt-BR:
           </xml>
       Course 4 SCF 1b_authored_hint:
         Course_4_SCF_1b_a: "Observe que a forma de todos os pontos de mel é semelhante.\n\nBom lugar para uma função!"
-        Course_4_SCF_1b_b: "Veja esta idéia de como a abelha pode viajar: \n\n![](https://images.code.org/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
+        Course_4_SCF_1b_b: "Veja esta idéia de como a abelha pode viajar: \n\n![](https://images.letron.vip/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
         Course_4_SCF_1b_c: Você deve considerar o uso de um laço 'para' na distância percorrida pela abelha.
         Course_4_SCF_1b_d: |-
           **Solução:**
@@ -1223,9 +1223,9 @@ pt-BR:
         Course_4_SCF_2_e: |-
           ** Solução: **
           
-          ![Solução blocos] (https://images.code.org/de5a99b0fb4c079504ff7cca9a249f02-image-1469727175091.png)
+          ![Solução blocos] (https://images.letron.vip/de5a99b0fb4c079504ff7cca9a249f02-image-1469727175091.png)
       Course 4 SCF 3_authored_hint:
-        Course_4_SCF_3_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        Course_4_SCF_3_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         Course_4_SCF_3_b: 'Esta é uma série de octógonos com lados que são de comprimento do ''contador'' em pixels. '
         Course_4_SCF_3_c: 'Cada octógono é chamado de dentro de um laço ''for'' que vai de 200 até 2 por 2. '
         Course_4_SCF_3_d: 'Não esqueça de virar 22,5 graus no final de cada iteração. '
@@ -1377,7 +1377,7 @@ pt-BR:
           </block>
           </xml>
       Course 4 SCFL 1_authored_hint:
-        Course_4_SCFL_1_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_1_b: 'Tente usar dois laços ''para'': um para subir e pegar o néctar e o outro para descer e fazer mel.'
         Course_4_SCFL_1_c: "Observe que um laço 'para' precisa de várias execuções de seu interior que se repetem o número de vezes do 'contador' para seguir o padrão da escada. \n\nO outro laço 'para' só precisa de uma execução para fazer do 'contador' a quantidade de mel."
         Course_4_SCFL_1_d: |-
@@ -1515,7 +1515,7 @@ pt-BR:
           </xml>
       Course 4 SCFL 1a_authored_hint:
         Course_4_SCFL_1a_a: Você pode ter que viajar mais longe no geral para usar o menor número de blocos.
-        Course_4_SCFL_1a_b: "Dê uma olhada nesta opção de movimento:  \n\n![](https://images.code.org/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
+        Course_4_SCFL_1a_b: "Dê uma olhada nesta opção de movimento:  \n\n![](https://images.letron.vip/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
         Course_4_SCFL_1a_c: Um laço 'para' irá ajudá-lo a executar o mesmo padrão, mas com uma mudança no número de passos. Observe que o número de passos necessários diminui de 7 para 5 por 1.
         Course_4_SCFL_1a_d: |-
           **Solução:**
@@ -1597,7 +1597,7 @@ pt-BR:
           </xml>
       Course 4 SCFL 1b_authored_hint:
         Course_4_SCFL_1b_a: Tente usar um laço 'para'.
-        Course_4_SCFL_1b_b: "Dê uma olhada nesta opção de movimento:  \n\n![](https://images.code.org/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
+        Course_4_SCFL_1b_b: "Dê uma olhada nesta opção de movimento:  \n\n![](https://images.letron.vip/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
         Course_4_SCFL_1b_c: |-
           **Solução:**
           
@@ -1660,7 +1660,7 @@ pt-BR:
           </block>
           </xml>
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Dê uma olhada nesta opção de movimento:  \n\n![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
+        Course_4_SCFL_2_a: "Dê uma olhada nesta opção de movimento:  \n\n![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
         Course_4_SCFL_2_b: Observe que há três pontos durante cada iteração deste laço 'para' onde você para de interagir com objetos.
         Course_4_SCFL_2_c: Durante cada iteração do laço `for`, o número de cada objeto se relaciona com a variável `contador` de alguma forma.
         Course_4_SCFL_2_d: |-
@@ -2489,7 +2489,7 @@ pt-BR:
           </block>
           </xml>
       Course 4 SCV 2_authored_hint:
-        Course_4_SCV_2_a: "A imagem completa é feita de 10 destas \"flores\": \n![](https://images.code.org/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n\n...que são feitas de 10 destes decágonos:  \n![](https://images.code.org/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
+        Course_4_SCV_2_a: "A imagem completa é feita de 10 destas \"flores\": \n![](https://images.letron.vip/bac2a606dfa59c00409294499540267d-image-1469641972385.png)\n\n...que são feitas de 10 destes decágonos:  \n![](https://images.letron.vip/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
         Course_4_SCV_2_b: 'Este projeto usa laços aninhados (três profundos). Todos os laços percorrem ''sides'' vezes. '
         Course_4_SCV_2_c: O artista vira à esquerda quando cria cada decágono, mas vira a direita em todos os outros laços.
         Course_4_SCV_2_d: Para prevenir que todas as suas "flores" de 10 pétalas sejam desenhadas no mesmo lugar, assegure-se de pular pra frente por 'length' / 'sides' antes de de virar 360/'sides' graus como parte do seu laço mais externo.
@@ -2700,7 +2700,7 @@ pt-BR:
       Course 4 SCV 4_authored_hint:
         Course_4_SCV_4_a: Três variáveis irão ajudá-lo. Uma para unidades de néctar, uma para unidades de mel, e uma para quão longe a abelha deve mover em cada iteração.
         Course_4_SCV_4_b: 'Será bastante útil usar três laços dentro de seu laço principal. Um para mover para frente, um para coletar o néctar e um para fazer mel. '
-        Course_4_SCV_4_c: "Veja esta opção para movimento: \n\n![](https://images.code.org/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
+        Course_4_SCV_4_c: "Veja esta opção para movimento: \n\n![](https://images.letron.vip/78f8fb83da67c5b80126555a362b8b20-image-1469641782259.png)"
         Course_4_SCV_4_d: |-
           **Solução:**
           
@@ -2840,7 +2840,7 @@ pt-BR:
         Course_4_SCV_5_a: |-
           Veja esta opção para movimento: 
           
-          ![](https://images.code.org/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
+          ![](https://images.letron.vip/7f6f09c55cf9552a91fc1d33f44a7315-image-1469641639330.png)
         Course_4_SCV_5_b: Toda vez dentro do laço, as flores terão duas vezes menos néctar e a abelha precisará fazer mais um mel.
         Course_4_SCV_5_c: Veja que no começo do laço externo a abelha se move tantas vezes quanto há de néctar na próxima flor.
         Course_4_SCV_5_d: |-
@@ -2971,7 +2971,7 @@ pt-BR:
         Course_4_SCV_6_a: |-
           Veja como uma forma completa se parece
           
-          ![](https://images.code.org/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
+          ![](https://images.letron.vip/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
         Course_4_SCV_6_b: 'Você se beneficiará criando 8 variáveis: red1, green1, blue1, red2, green2, blue2, length e sides.'
         Course_4_SCV_6_c: Cada uma das formas de 5 lados está dividida em peças de 'length' / 'sides onde o zigue é verde-azulado (rgb = 0,175,200) e o zague é roxo (rgb = 100,50,150).
         Course_4_SCV_6_d: 'Para o zigue, vire a esquerda por ''360'' / ''sides''. Para o zague, vire a direita por  ''360'' / ''sides''. '
@@ -3481,7 +3481,7 @@ pt-BR:
       Function intro Ryan_2019_authored_hint:
         Function_intro_Ryan_a: Você pode executar uma função muitas vezes dentro de seu programa! Tente executá-la duas vezes para resolver este enigma.
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Vê as **Lanternas do Mar** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Como você pode usar uma condicional nos itens para chegar ao Monumento Oceânico?\n\n"
+        voyage_aquatic_10a: "Vê as **Lanternas do Mar** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Como você pode usar uma condicional nos itens para chegar ao Monumento Oceânico?\n\n"
       HOC 2018 Level_7a_authored_hint:
         aquatic7: Você pode usar o bloco de caminho se para ajudá-lo a fazer as curvas certas.
       HOC 2018 Level_9b_authored_hint:
@@ -3582,7 +3582,7 @@ pt-BR:
           **Solução**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       K2.0 sequence 10_authored_hint:
         K2.0_sequence_10_a: Se você estiver tendo problemas, tente escrever os passos em um pedaço de papel primeiro.
       K2.0 sequence 3_authored_hint:
@@ -3637,7 +3637,7 @@ pt-BR:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Cruzar essas duas placas de pressão abrirá o caminho para o jogador. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Use o bloco ''virar à direita'' para mudar a direção do Agent '
         MC_HOC_2017_04POINT5_RYAN_a: O Agent só precisa chegar até a primeira placa de pressão para passar o Alex ou o Steve pelo machado.
@@ -3695,7 +3695,7 @@ pt-BR:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Cruzar essas duas placas de pressão abrirá o caminho para o jogador. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Pressione "Executar"! 
@@ -3847,12 +3847,12 @@ pt-BR:
           
           
           
-          ![](https://images.code.org/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
+          ![](https://images.letron.vip/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
           
-          Faça o seu próprio ou clique o ![](https://images.code.org/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) para algumas ideias!
-        courseA_artist_loops_challenge1_b: "![](https://images.code.org/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
-        courseA_artist_loops_challenge1_c: "![](https://images.code.org/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
-        courseA_artist_loops_challenge1_d: "![](https://images.code.org/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
+          Faça o seu próprio ou clique o ![](https://images.letron.vip/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) para algumas ideias!
+        courseA_artist_loops_challenge1_b: "![](https://images.letron.vip/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
+        courseA_artist_loops_challenge1_c: "![](https://images.letron.vip/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
+        courseA_artist_loops_challenge1_d: "![](https://images.letron.vip/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
       course1_artist_loops_challenge3_authored_hint:
         courseA_artist_loops_challenge2_a: 'Blocos como este: <xml><block type="simple_move_up_left"/></xml> permitirão que o seu artista se mova em uma inclinação!'
         courseA_artist_loops_challenge2_b: Quando você terminar uma casa de pássaro, 'pule' para a próxima!
@@ -3862,11 +3862,11 @@ pt-BR:
         courseA_collector_loops_challenge1_b: Você não precisa de usar um laço se você está fazendo algo apenas uma vez.
         courseA_collector_loops_challenge1_c: Existem 6 gemas no lado direito da caverna, porém você precisa apenas se mover e coletar 5 vezes. Você sabe porquê?
       course1_collector_loops_challenge2_authored_hint:
-        courseA_collector_loops_challenge2_b: "Você precisa usar apenas um bloco ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) para resolver isto."
+        courseA_collector_loops_challenge2_b: "Você precisa usar apenas um bloco ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) para resolver isto."
         courseA_collector_loops_challenge2_a: |-
           Você pode se mover de volta pelo caminho uma segunda vez antes de se mover ao sul.
           
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       course1_maze_debugging_challenge1_authored_hint:
         courseA_maze_seq_challenge1_a: Alguns caminhos levarão a TNT, se você se mover para muito longe.
       course1_maze_seq_challenge1_authored_hint:
@@ -4224,7 +4224,7 @@ pt-BR:
         courseF_artist_variables_challenge2_d: |-
           **Solução:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       course4_bee_fwp_challenge1_authored_hint:
         courseF_bee_fwp_challenge1_e: |
           **Aqui está a solução:**
@@ -4364,13 +4364,13 @@ pt-BR:
         courseA_artist_loops3_b: |-
           Você vai querer usar um bloco como esse para resolver a charada.
           
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops3_2018_authored_hint:
         courseA_artist_loops3_a: Trace lentamente através do programa com o seu dedo para ver onde está errado.
         courseA_artist_loops3_b: |-
           Você vai querer usar um bloco como esse para resolver a charada.
           
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops4_authored_hint:
         courseA_artist_loops4_b: |-
           Já que você só pode usar um bloco <xml><block type="simple_move_right"/></xml>, tente colocá-lo dentro do laço <block type="controls_repeat_simplified_dropdown"><title name="TIMES" config="2-6">5</title></block>.
@@ -4540,11 +4540,11 @@ pt-BR:
         courseA_collector_loops_challenge2kp_b: Tente esse caminho para chegar a solução.
         courseA_collector_loops_challenge2kp_a: Você consegue usar laços para resolver esse problema?
       courseA_collector_preLoops4_authored_hint:
-        courseA_collector_preLoops4_a: "Para pegar o tesouro, encaixe dois blocos ![](https://images.code.org/2df8a25d7e96207f57d1a6b504950b70-image-1508906116743.34.37.png) blocks and one ![](https://images.code.org/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) ao final do programa e clique em \"Executar\"!\n\n"
+        courseA_collector_preLoops4_a: "Para pegar o tesouro, encaixe dois blocos ![](https://images.letron.vip/2df8a25d7e96207f57d1a6b504950b70-image-1508906116743.34.37.png) blocks and one ![](https://images.letron.vip/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) ao final do programa e clique em \"Executar\"!\n\n"
       courseA_collector_preLoops5_authored_hint:
         courseA_collector_preLoops5_a: Você vai precisar ir em duas direções diferentes para pegar uma única gema!
       courseA_collector_preLoops6_authored_hint:
-        courseA_collector_preLoops6_a: Você vai precisar usar dois blocos ![](https://images.code.org/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) para resolver esse problema.
+        courseA_collector_preLoops6_a: Você vai precisar usar dois blocos ![](https://images.letron.vip/563c0deb5c51d43cdfa72d62dec3419d-image-1508904559201.05.30.png) para resolver esse problema.
       courseA_collector_preLoops7_authored_hint:
         courseA_collector_loops2_b: |-
           Após você ter se movido para um quadrado com tesouro, use esse bloco para pegá-lo.
@@ -4650,7 +4650,7 @@ pt-BR:
       courseA_maze_ramp2a_2018_authored_hint:
         '1': Conecte ambos os blocos `Leste` embaixo do bloco `quando executar`.
       courseA_maze_ramp3_2018_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseA_maze_ramp3a_2018_authored_hint:
         '1': |
           Seu código deve se parecer com: 
@@ -4907,13 +4907,13 @@ pt-BR:
         courseA_playLab_events5_b: |-
           Você sabia que você pode mudar a chave para a seta de evento clicando na imagem no bloco e escolhendo uma nova chave?
           
-          ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
+          ![](https://images.letron.vip/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events5_2018_authored_hint:
         courseA_playLab_events5_a: "Aqui estão os blocos de evento que você vai precisar usar para mover Jorge para cima e para baixo:\n\n<xml><block type=\"studio_whenArrow\">\n  <title name=\"VALUE\">acima</title>\n  </block></xml>\n\ne\n<xml><block type=\"studio_whenArrow\">\n  <title name=\"VALUE\">abaixo</title>\n</block></xml>"
         courseA_playLab_events5_b: |-
           Você sabia que você pode mudar a chave para a seta de evento clicando na imagem no bloco e escolhendo uma nova chave?
           
-          ![](https://images.code.org/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
+          ![](https://images.letron.vip/b010b6a8131689af53b33148753c15b4-image-1492639642316.gif)
       courseA_playLab_events6_authored_hint:
         courseA_playLab_events6_a: |-
           Aqui está o bloco de evento que você vai usar para que Jorge faça algo quando você clicar nele:
@@ -5159,11 +5159,11 @@ pt-BR:
       courseB_collector_loops4_2018_authored_hint:
         courseB_collector_loops4_b: Para mudar o quão longe vai Laurel, mude o número de vezes que o laço executa.
       courseB_collector_loops_challenge`_authored_hint:
-        courseA_collector_loops_challenge2_b: "Você precisa usar apenas um bloco ![](https://images.code.org/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) para resolver isto."
+        courseA_collector_loops_challenge2_b: "Você precisa usar apenas um bloco ![](https://images.letron.vip/803e9ee8b5bc9311a26edf955cd3c03f-image-1491001702274.07.34 PM.png) para resolver isto."
         courseA_collector_loops_challenge2_a: |-
           Você pode se mover de volta pelo caminho uma segunda vez antes de se mover ao sul.
           
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       courseB_maze_seq8_authored_hint:
         courseB_maze_seq8_b: Existem duas maneiras de resolver este quebra-cabeças!
       courseB_maze_seq8_2018_authored_hint:
@@ -5464,11 +5464,11 @@ pt-BR:
       courseD_maze_ramp1_2019_authored_hint:
         courseC_maze_programming1_b: Não tenha medo de cometer um erro! Tente adicionar blocos e executar o código para ver o que vai acontecer, mesmo se você achar que ainda não resolveu o quebra-cabeça.
       courseD_maze_ramp3_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseD_maze_ramp3_2018_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseD_maze_ramp3_2019_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseD_maze_ramp5_authored_hint:
         courseC_maze_programming5_a: Tente usar o botão "Passo" para executar o seu código linha a linha. Você consegue descobrir o que você precisa fazer em seguida?
         courseC_maze_programming5_b: Lembre-se de que viradas são na perspectiva do pássaro.
@@ -5512,9 +5512,9 @@ pt-BR:
       courseD_scrat_ramp1_2018_authored_hint:
         courseC_maze_programming1_b: Não tenha medo de cometer um erro! Tente adicionar blocos e executar o código para ver o que vai acontecer, mesmo se você achar que ainda não resolveu o quebra-cabeça.
       courseD_scrat_ramp3_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseD_scrat_ramp3_2018_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseD_scrat_ramp4_authored_hint:
         courseC_maze_programming4_c: Não tenha medo de cometer um erro! Tente adicionar blocos e executar o código para ver o que vai acontecer, mesmo se você achar que ainda não resolveu o quebra-cabeça.
       courseD_scrat_ramp4_2018_authored_hint:
@@ -5561,23 +5561,23 @@ pt-BR:
         courseD_artist_ramp10_c: |-
           Este artista irá desenhar, ao todo, seis triângulos:
           
-          ![](https://images.code.org/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
+          ![](https://images.letron.vip/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!"
         courseE_bee_functions7_b: |-
           Lembre-se de construir o seu código dentro do bloco de função verde. 
-          ! [a] (https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ! [a] (https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!"
         courseE_bee_functions7_b: |-
           Lembre-se de construir o seu código dentro do bloco de função verde. 
-          ! [a] (https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ! [a] (https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!"
       courseE_bee_functions_challenge1_2018_authored_hint:
@@ -5596,9 +5596,9 @@ pt-BR:
       courseE_farmer_ramp12e_2019_authored_hint:
         courseE_farmer_ramp12e_b: A solução deste quebra-cabeças vai ser muito parecida com a do anterior, mas virando em outra direção.
       courseE_maze_ramp3_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseE_maze_ramp3_2018_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       courseE_maze_ramp4_authored_hint:
         courseC_maze_programming4_c: Não tenha medo de cometer um erro! Tente adicionar blocos e executar o código para ver o que vai acontecer, mesmo se você achar que ainda não resolveu o quebra-cabeça.
       courseE_maze_ramp4_2018_authored_hint:
@@ -6129,7 +6129,7 @@ pt-BR:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2018_authored_hint:
         courseF_artist_for_challenge2_c: 'O `laço for` vai de 5 a 250 de 2 em 2. '
         courseF_artist_for_challenge2_a: A mudança de cor acontece usando o bloco `defina a cor com vermelho, verde, azul`. Vermelho é definido constante em 255, verde é sempre o valor do`contador`, e azul é sempre `255 - contador`.
@@ -6223,7 +6223,7 @@ pt-BR:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2019_authored_hint:
         courseF_artist_for_challenge2_c: 'O `laço for` vai de 5 a 250 de 2 em 2. '
         courseF_artist_for_challenge2_a: A mudança de cor acontece usando o bloco `defina a cor com vermelho, verde, azul`. Vermelho é definido constante em 255, verde é sempre o valor do`contador`, e azul é sempre `255 - contador`.
@@ -6317,9 +6317,9 @@ pt-BR:
           </block>
           </xml>
           
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_fwp_challenge2_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Esta é uma série de octógonos com lados que são de comprimento do ''contador'' em pixels. '
         courseF_artist_fwp_challenge1_c: 'Cada octógono é chamado de dentro de um laço ''for'' que vai de 200 até 2 por 2. '
         courseF_artist_fwp_challenge1_d: 'Não esqueça de virar 22,5 graus no final de cada iteração. '
@@ -6327,9 +6327,9 @@ pt-BR:
         courseF_artist_fwp_challenge1_f: |-
           **Solução:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_fwp_challenge2_2018_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Esta é uma série de octógonos com lados que são de comprimento do ''contador'' em pixels. '
         courseF_artist_fwp_challenge1_c: 'Cada octógono é chamado de dentro de um laço ''for'' que vai de 200 até 2 por 2. '
         courseF_artist_fwp_challenge1_d: 'Não esqueça de virar 22,5 graus no final de cada iteração. '
@@ -6337,17 +6337,17 @@ pt-BR:
         courseF_artist_fwp_challenge1_f: |-
           **Solução:**
           
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_ramp10_authored_hint:
         courseF_artist_ramp10_c: |-
           Você irá desenhar, ao todo, seis triângulos:
           
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_ramp10_2018_authored_hint:
         courseF_artist_ramp10_c: |-
           Você irá desenhar, ao todo, seis triângulos:
           
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_e: |-
           Aqui está a solução.
@@ -6796,28 +6796,28 @@ pt-BR:
         courseF_artist_variables_challenge1_d: |-
           **Solução:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_authored_hint:
         courseF_artist_variables_challenge2_d: |-
           **Solução:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2018_authored_hint:
         courseF_artist_variables_challenge2_d: |-
           **Solução:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2019_authored_hint:
         courseF_artist_variables_challenge2_d: |-
           **Solução:**
           
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_bee_conditionals8_authored_hint:
         courseF_bee_conditionals8_a: "** Lembre-se: ** este quebra-cabeça muda cada vez que ele é executado.    Você vai querer usar um bloco condicional (`se` ou  `se/senão`) para resolver o desafio."
       courseF_bee_conditionals8_2018_authored_hint:
         courseF_bee_conditionals8_a: "** Lembre-se: ** este quebra-cabeça muda cada vez que ele é executado.    Você vai querer usar um bloco condicional (`se` ou  `se/senão`) para resolver o desafio."
       courseF_bee_for_challenge2_authored_hint:
-        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Tente usar dois laços ''para'': um para subir e pegar o néctar e o outro para descer e fazer mel.'
         courseF_bee_for_challenge2_c: "Observe que um laço 'para' precisa de várias execuções de seu interior que se repetem o número de vezes do 'contador' para seguir o padrão da escada. \n\nO outro laço 'para' só precisa de uma execução para fazer do 'contador' a quantidade de mel."
         courseF_bee_for_challenge2_d: |-
@@ -6954,7 +6954,7 @@ pt-BR:
           </block>
           </xml>
       courseF_bee_for_challenge2_2018_authored_hint:
-        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Tente usar dois laços ''para'': um para subir e pegar o néctar e o outro para descer e fazer mel.'
         courseF_bee_for_challenge2_c: "Observe que um laço 'para' precisa de várias execuções de seu interior que se repetem o número de vezes do 'contador' para seguir o padrão da escada. \n\nO outro laço 'para' só precisa de uma execução para fazer do 'contador' a quantidade de mel."
         courseF_bee_for_challenge2_d: |-
@@ -7091,7 +7091,7 @@ pt-BR:
           </block>
           </xml>
       courseF_bee_for_challenge2_2019_authored_hint:
-        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Tente usar dois laços ''para'': um para subir e pegar o néctar e o outro para descer e fazer mel.'
         courseF_bee_for_challenge2_c: "Observe que um laço 'para' precisa de várias execuções de seu interior que se repetem o número de vezes do 'contador' para seguir o padrão da escada. \n\nO outro laço 'para' só precisa de uma execução para fazer do 'contador' a quantidade de mel."
         courseF_bee_for_challenge2_d: |-
@@ -7228,7 +7228,7 @@ pt-BR:
           </block>
           </xml>
       courseF_bee_for_challenge3_authored_hint:
-        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Dê uma olhada nesta opção de movimento:  \n\n! [a] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Tente usar dois laços ''para'': um para subir e pegar o néctar e o outro para descer e fazer mel.'
         courseF_bee_for_challenge2_c: "Observe que um laço 'para' precisa de várias execuções de seu interior que se repetem o número de vezes do 'contador' para seguir o padrão da escada. \n\nO outro laço 'para' só precisa de uma execução para fazer do 'contador' a quantidade de mel."
         courseF_bee_for_challenge2_d: |-
@@ -7365,9 +7365,9 @@ pt-BR:
           </block>
           </xml>
       courseF_bee_functions6_authored_hint:
-        courseF_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!"
       courseF_bee_functions8a_2018_authored_hint:
@@ -7992,9 +7992,9 @@ pt-BR:
         courseC_maze_programming1_a: Se o pássaro não estiver chegando ao porco, certifique-se de que ambos os blocos foram completamente conectados, e então clique em "Executar" de novo.
         courseC_maze_programming1_b: Não tenha medo de errar! Tente algo, e se não funcionar, tente algo diferente!
       coursef_maze_ramp3_authored_hint:
-        courseF_maze_ramp3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseF_maze_ramp3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       coursef_maze_ramp3_2018_authored_hint:
-        courseF_maze_ramp3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseF_maze_ramp3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       drawings!_authored_hint:
         triangle_geometry_hint: 'Lembre-se: um triângulo equilátero tem 3 lados com 60 graus de de angulo entre eles!'
         repeat_pointer: You tem que desenhar um lado e virar 3 vezes... qual bloco você pode usar para executar as mesmas instruções varias vezes?
@@ -8012,10 +8012,10 @@ pt-BR:
         grade1_adventurer_loops9_a: 'Isso parece muito difícil? quebre o problema em 4 problemas menores para fazer ficar mais facil.  '
       grade1_artist_loops6_authored_hint:
         grade1_artist_loops6_b: |-
-          Observe que cada repetição faz um padrão de escada que viaja em uma direção diferente. ! [a] (https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          Observe que cada repetição faz um padrão de escada que viaja em uma direção diferente. ! [a] (https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
       grade1_artist_loops7a_authored_hint:
         artistLoopsK9_b: |-
-          Observe que cada repetição faz um padrão de escada que viaja em uma direção diferente. ! [a] (https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          Observe que cada repetição faz um padrão de escada que viaja em uma direção diferente. ! [a] (https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
       grade1_maze_sequence10_authored_hint:
         grade1_maze_sequence10_a: Se você estiver tendo problemas, tente escrever os passos em um pedaço de papel primeiro.
       grade1_maze_sequence6_authored_hint:
@@ -8033,7 +8033,7 @@ pt-BR:
       grade1_maze_sequenceC_authored_hint:
         grade1_maze_sequenceC_a: Se você estiver tendo problemas, tente escrever os passos em um pedaço de papel primeiro.
       grade2_CaringForNewPet_2courseC_maze_programming3_authored_hint:
-        courseC_maze_programming3_a: "! [] (https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
+        courseC_maze_programming3_a: "! [] (https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif) \nPara excluir um bloco de no meio do seu código, arraste todos os blocos abaixo dele para a direita solte-os na área de trabalho por um tempo.\n\nClique sobre o bloco que você deseja excluir e arraste-o de volta à caixa de ferramentas. \n\nFinalmente, coloque seus outros blocos no lugar onde eles pertencem.\n"
       grade2_CaringForNewPet_4_authored_hint:
         2-3_Maze_6_a: Existem duas maneiras de resolver este quebra-cabeças!
       grade2_MakeDogTag_1_authored_hint:
@@ -8166,12 +8166,12 @@ pt-BR:
       grade4_bee_conditionals_quantum5_authored_hint:
         remember_quantum: "** Lembre-se: ** este quebra-cabeça muda cada vez que ele é executado.    Você vai querer usar um bloco condicional (`se` ou  `se/senão`) para resolver o desafio."
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!\n ! [a] (https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "Se o quebra-cabeça parece desafiador, tente construir sua função aos poucos.\nAdicione alguns blocos e os experimente. Adicione mais alguns e experimente novamente.  \nEm breve, você terá sua função!"
         2-3_Bee_Functions_8_b: |-
           Lembre-se de construir o seu código dentro do bloco de função verde. 
-          ! [a] (https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ! [a] (https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Se você usar o bloco para me fazer `avançar por 100 pixels`, eu desenharei uma linha automaticamente.
         2-3_Artist_1_new_b: Você está tendo problemas para virar a esquina? Use o bloco 'virar à direita 90 graus'.

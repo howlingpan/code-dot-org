@@ -17,10 +17,10 @@ Here’s an example of an `if` statement (shown in both block and text form)
 <table>
 <tr>
 <td>
-<img src="https://images.code.org/621491cac1e3b105c9c2794b01d8de23-image-1446153210916.png" style="width: 230px">
+<img src="https://images.letron.vip/621491cac1e3b105c9c2794b01d8de23-image-1446153210916.png" style="width: 230px">
 </td>
 <td>
-<img src="https://images.code.org/5ca15eabd31a8a60ab9a3960a105faae-image-1446153241063.png" style="width: 230px">
+<img src="https://images.letron.vip/5ca15eabd31a8a60ab9a3960a105faae-image-1446153241063.png" style="width: 230px">
 </td>
 </tr>
 </table>
@@ -31,7 +31,7 @@ There are a couple of things happening here that we should explain.
 
 In the toolbox you’ll now see an `if` statement.  To add it to your program just drag it out.  For our current program we want to check the value of count *inside* the up arrow event handler.
 
-<img src="https://images.code.org/285ec021f4f5e12ea409c2a6d2603645-image-1446153790212.gif" style="width: 500px">
+<img src="https://images.letron.vip/285ec021f4f5e12ea409c2a6d2603645-image-1446153790212.gif" style="width: 500px">
 
 You’ll notice it has an empty space where you need to insert the **condition** that you want to check.  We’ll get to that next.
 
@@ -48,7 +48,7 @@ This means that you need to insert an `if` statement into your code **at the exa
 
 This is why we need to **check the value of <code>count</code> EVERY time the up arrow is clicked**.  So that means the `if` statment must be written into the event handler for the up arrow, and checked *after* we update the value of `count`.  Here's what the full event handler should look like:
 
-![](https://images.code.org/a65dec71bc103397f2ceed603f328531-image-1446154248803.png)
+![](https://images.letron.vip/a65dec71bc103397f2ceed603f328531-image-1446154248803.png)
 
 # How to Define a Condition for an *if* Statement
 
@@ -85,7 +85,7 @@ To state what should be obvious by this point: `=` is for assigning a value to a
 
 | code | read as |
 |:---|---|
-| ![](https://images.code.org/acf7d36df4d669f284b35ccc82509f1b-image-1446154925792.png) | "var *a* gets 7.<br>If *a* equal-equal 9 then<br> *a* gets 0" |
+| ![](https://images.letron.vip/acf7d36df4d669f284b35ccc82509f1b-image-1446154925792.png) | "var *a* gets 7.<br>If *a* equal-equal 9 then<br> *a* gets 0" |
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>
 

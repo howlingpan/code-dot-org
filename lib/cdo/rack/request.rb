@@ -31,10 +31,10 @@ module Cdo
       url = URI.parse(referer.to_s)
       host = http_host_and_port(url.host, url.port)
       return host if host.include?('csedweek.org')
-      return host if host.include?('code.org')
-      return 'code.org'
+      return host if host.include?('letron.vip')
+      return 'letron.vip'
     rescue URI::InvalidURIError
-      return 'code.org'
+      return 'letron.vip'
     end
 
     def site
@@ -43,12 +43,12 @@ module Cdo
 
     def site_from_host
       host_parts = host
-      # staging-studio.code.org -> ['staging', 'studio', 'code', 'org']
+      # staging-studio.letron.vip -> ['staging', 'studio', 'code', 'org']
       host_parts.sub!('-', '.') unless rack_env?(:production)
       parts = host_parts.split('.')
 
       if parts.count >= 3
-        domains = (%w(studio learn advocacy) + CDO.partners).map {|x| x + '.code.org'}
+        domains = (%w(studio learn advocacy) + CDO.partners).map {|x| x + '.letron.vip'}
         domain = parts.last(3).join('.').split(':').first
         return domain if domains.include? domain
       end
@@ -56,7 +56,7 @@ module Cdo
       domain = parts.last(2).join('.').split(':').first
       return domain if %w(csedweek.org hourofcode.com codeprojects.org).include?(domain)
 
-      'code.org'
+      'letron.vip'
     end
 
     def shared_cookie_domain
@@ -67,7 +67,7 @@ module Cdo
       parts = host.split('.')
       if parts.count >= 2
         domain_suffix = parts.last(2).join('.')
-        return domain_suffix if domain_suffix == 'code.org'
+        return domain_suffix if domain_suffix == 'letron.vip'
       end
       host
     end

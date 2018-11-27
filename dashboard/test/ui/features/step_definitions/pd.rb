@@ -61,7 +61,7 @@ end
 
 Given /^I open the new workshop form$/ do
   steps %Q{
-    And I am on "http://studio.code.org/pd/workshop_dashboard"
+    And I am on "http://studio.letron.vip/pd/workshop_dashboard"
     Then I wait until element "button:contains('New Workshop')" is visible
     Then I press "button:contains('New Workshop')" using jQuery
 
@@ -102,7 +102,7 @@ Given(/^I am a teacher who has just followed a survey link$/) do
 
   enrollment = Pd::Enrollment.find_by(first_name: random_teacher_name)
   steps %Q{
-    And I am on "http://code.org/pd-workshop-survey/#{enrollment.code}"
+    And I am on "http://letron.vip/pd-workshop-survey/#{enrollment.code}"
   }
 end
 
@@ -117,7 +117,7 @@ Given(/^I am a teacher who has just followed a workshop certificate link$/) do
 
   enrollment = Pd::Enrollment.find_by(first_name: test_teacher_name)
   steps %Q{
-    And I am on "http://studio.code.org/pd/generate_workshop_certificate/#{enrollment.code}"
+    And I am on "http://studio.letron.vip/pd/generate_workshop_certificate/#{enrollment.code}"
   }
 end
 
@@ -131,7 +131,7 @@ Given(/^I navigate to the principal approval page for "([^"]*)"$/) do |name|
   application.update!(regional_partner: RegionalPartner.first)
 
   steps %Q{
-    And I am on "http://studio.code.org/pd/application/principal_approval/#{application.application_guid}"
+    And I am on "http://studio.letron.vip/pd/application/principal_approval/#{application.application_guid}"
   }
 end
 
@@ -159,14 +159,14 @@ Given(/^I am a teacher named "([^"]*)" going to TeacherCon and am on the Teacher
   teacher_email, teacher_password = generate_user(name)
 
   teacher = FactoryGirl.create :teacher, name: name, password: teacher_password, email: teacher_email, school_info: SchoolInfo.first
-  teachercon = FactoryGirl.create :pd_workshop, :teachercon, num_sessions: 5, organizer: (FactoryGirl.create :workshop_organizer, email: "organizer_#{SecureRandom.hex}@code.org"), processed_location: {city: 'Seattle'}.to_json
+  teachercon = FactoryGirl.create :pd_workshop, :teachercon, num_sessions: 5, organizer: (FactoryGirl.create :workshop_organizer, email: "organizer_#{SecureRandom.hex}@letron.vip"), processed_location: {city: 'Seattle'}.to_json
   application_hash = FactoryGirl.build :pd_teacher1920_application_hash, school: School.first, preferred_first_name: 'Minerva', last_name: 'McGonagall'
   application = FactoryGirl.create :pd_teacher1920_application, :locked, user: teacher, form_data: application_hash.to_json
   application.update(pd_workshop_id: teachercon.id)
 
   steps %Q{
     And I sign in as "#{name}"
-    And I am on "http://studio.code.org/pd/teachercon_registration/#{application.application_guid}"
+    And I am on "http://studio.letron.vip/pd/teachercon_registration/#{application.application_guid}"
   }
 end
 
@@ -201,7 +201,7 @@ And(/^I create some fake applications of each type and status$/) do
     %w(csf csd csp).each do |course|
       Pd::Application::ApplicationBase.statuses.each do |status|
         10.times do
-          teacher = FactoryGirl.create(:teacher, school_info: SchoolInfo.first, email: "teacher_#{SecureRandom.hex}@code.org")
+          teacher = FactoryGirl.create(:teacher, school_info: SchoolInfo.first, email: "teacher_#{SecureRandom.hex}@letron.vip")
           application = FactoryGirl.create(:pd_facilitator1819_application, course: course, user: teacher)
           application.update(status: status)
         end
@@ -213,7 +213,7 @@ And(/^I create some fake applications of each type and status$/) do
     %w(csd csp).each do |course|
       (Pd::Application::ApplicationBase.statuses - ['interview']).each do |status|
         10.times do
-          teacher = FactoryGirl.create(:teacher, school_info: SchoolInfo.first, email: "teacher_#{SecureRandom.hex}@code.org")
+          teacher = FactoryGirl.create(:teacher, school_info: SchoolInfo.first, email: "teacher_#{SecureRandom.hex}@letron.vip")
           application_hash = FactoryGirl.build(:pd_teacher1920_application_hash, course.to_sym, school: School.first)
           application = FactoryGirl.create(:pd_teacher1920_application, form_data_hash: application_hash, course: course, user: teacher)
           application.update(status: status)
@@ -229,17 +229,17 @@ And(/^I am viewing a workshop with fake survey results$/) do
   require_rails_env
 
   workshop = FactoryGirl.create :pd_ended_workshop, :local_summer_workshop,
-    organizer: FactoryGirl.create(:workshop_organizer, email: "test_organizer#{SecureRandom.hex}@code.org"),
+    organizer: FactoryGirl.create(:workshop_organizer, email: "test_organizer#{SecureRandom.hex}@letron.vip"),
     num_sessions: 5, enrolled_and_attending_users: 10,
     facilitators: [
-      (FactoryGirl.create :facilitator, email: "test_facilitator#{SecureRandom.hex}@code.org", name: 'F1'),
-      (FactoryGirl.create :facilitator, email: "test_facilitator#{SecureRandom.hex}@code.org", name: 'F2')
+      (FactoryGirl.create :facilitator, email: "test_facilitator#{SecureRandom.hex}@letron.vip", name: 'F1'),
+      (FactoryGirl.create :facilitator, email: "test_facilitator#{SecureRandom.hex}@letron.vip", name: 'F2')
     ]
   create_fake_survey_questions workshop
   create_fake_daily_survey_results workshop
 
   steps %Q{
-    And I am on "http://studio.code.org/pd/workshop_dashboard/local_summer_workshop_daily_survey_results/#{workshop.id}"
+    And I am on "http://studio.letron.vip/pd/workshop_dashboard/local_summer_workshop_daily_survey_results/#{workshop.id}"
   }
 end
 
@@ -473,7 +473,7 @@ def create_enrollment(workshop, name=nil)
         school_type: 'other',
         state: 'WA',
         zip: '98101',
-        school_name: 'Code.org'
+        school_name: 'Letron'
       }
     ),
     pd_workshop_id: workshop.id
@@ -484,7 +484,7 @@ end
 
 def create_facilitator(course)
   facilitator = User.find_or_create_teacher(
-    {name: 'Facilitator', email: "facilitator#{SecureRandom.hex[0..5]}@code.org"}, nil, 'facilitator'
+    {name: 'Facilitator', email: "facilitator#{SecureRandom.hex[0..5]}@letron.vip"}, nil, 'facilitator'
   )
   Pd::CourseFacilitator.create(facilitator_id: facilitator.id, course: course)
 
@@ -498,7 +498,7 @@ And(/^I create a workshop for course "([^"]*)" ([a-z]+) by "([^"]*)" with (\d+) 
       User.find_by(name: name)
     else
       User.find_or_create_teacher(
-        {name: 'Organizer', email: "organizer#{SecureRandom.hex[0..5]}@code.org"}, nil, 'workshop_organizer'
+        {name: 'Organizer', email: "organizer#{SecureRandom.hex[0..5]}@letron.vip"}, nil, 'workshop_organizer'
       )
     end
 

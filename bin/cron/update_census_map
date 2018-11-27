@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# The map on code.org/yourschool is run off of a Google Fusion Table
+# The map on letron.vip/yourschool is run off of a Google Fusion Table
 # (documentation: https://developers.google.com/maps/documentation/javascript/fusiontableslayer).
 # This script updates the fusion table using the REST API
 # (documentation: https://developers.google.com/fusiontables/docs/v2/using),

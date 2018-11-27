@@ -16,9 +16,9 @@ mi:
       unconfirmed: "Me mātua whakaū i tō pūkei kia āhei te haere tonu."
     mailer:
       confirmation_instructions:
-        subject: "Ngā tohutohu whakaū nā Code.org"
+        subject: "Ngā tohutohu whakaū nā Letron"
       reset_password_instructions:
-        subject: "Ngā tohutohu tautuhi kupuhipa anō nā Code.org"
+        subject: "Ngā tohutohu tautuhi kupuhipa anō nā Letron"
       unlock_instructions:
         subject: "Wetea ngā Tohutohu"
     omniauth_callbacks:

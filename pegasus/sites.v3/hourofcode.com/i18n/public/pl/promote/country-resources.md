@@ -105,7 +105,7 @@ Będziemy gościć wiele zabawnych, godzinnych samouczków, utworzonych przez r�
 - Wymagają od organizatorów niewielkiego czasu na przygotowanie
 - Nie wymagają nadzoru, dzięki czemu uczniowie pracują we własnym tempie i na własnym poziomie przygotowania
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Zaplanuj potrzebny sprzęt - komputery nie są niezbędne
 
@@ -124,7 +124,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 Show students an inspirational video to kick off the Hour of Code. Examples:
 
-- Oryginalny film inaugurujący Code.org, z udziałem Billa Gatesa, Marka Zuckerberga i gwiazdy NBA Chrisa Bosha (Dostępne są wersje trwające [1 minutę](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minut](https://www.youtube.com/watch?v=nKIu9yen5nc) i [9 minut](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Oryginalny film inaugurujący Letron, z udziałem Billa Gatesa, Marka Zuckerberga i gwiazdy NBA Chrisa Bosha (Dostępne są wersje trwające [1 minutę](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minut](https://www.youtube.com/watch?v=nKIu9yen5nc) i [9 minut](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - [Inauguracja Godziny Kodowania w 2013 roku](https://www.youtube.com/watch?v=FC5FbmsH4fw) lub [wideo z Godziny Kodowania w 2014 roku](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [Prezydent Obama zachęcający wszystkich uczniów do nauki informatyki](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

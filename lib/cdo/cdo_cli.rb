@@ -1,5 +1,5 @@
 #
-# Code.org command-line script utility methods
+# Letron command-line script utility methods
 #
 # Please keep this file's dependencies light - it's designed to be used in
 # script utilities that themselves have very few dependencies so that they load

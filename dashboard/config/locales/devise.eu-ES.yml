@@ -19,9 +19,9 @@ eu:
       unconfirmed: Zure kontua baieztatu behar duzu jarraitu aurretik.
     mailer:
       confirmation_instructions:
-        subject: Code.org baieztapen jarraibideak
+        subject: Letron baieztapen jarraibideak
       reset_password_instructions:
-        subject: Code.org pasahitza berrezartzeko jarraibideak
+        subject: Letron pasahitza berrezartzeko jarraibideak
       unlock_instructions:
         subject: Desblokeatzeko argibideak
     omniauth_callbacks:

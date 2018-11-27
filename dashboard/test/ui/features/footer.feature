@@ -2,7 +2,7 @@ Feature: Checking the footer appearance
 
   @eyes
   Scenario: Desktop puzzle using light small footer
-    Given I am on "http://studio.code.org/s/allthethings/stage/2/puzzle/1?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/allthethings/stage/2/puzzle/1?noautoplay=true"
     And I wait for the page to fully load
 
     When I open my eyes to test "Desktop puzzle using light small footer"
@@ -56,7 +56,7 @@ Feature: Checking the footer appearance
 
   @eyes
   Scenario: Desktop Minecraft puzzle using dark small footer
-    Given I am on "http://studio.code.org/s/mc/stage/1/puzzle/14?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/mc/stage/1/puzzle/14?noautoplay=true"
     And I wait for the page to fully load
 
     When I open my eyes to test "Desktop Minecraft puzzle using dark small footer"
@@ -76,7 +76,7 @@ Feature: Checking the footer appearance
 
   @eyes
   Scenario: Desktop Star Wars share small footer
-    Given I am on "http://studio.code.org/s/starwars/stage/1/puzzle/15?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/starwars/stage/1/puzzle/15?noautoplay=true"
     And I wait for the page to fully load
     And I press "runButton"
     And I wait until element "#finishButton" is visible
@@ -117,7 +117,7 @@ Feature: Checking the footer appearance
   # TODO: Fix and re-enable (find #sharing-input element)
   @eyes @skip
   Scenario: Desktop Minecraft share small footer
-    Given I am on "http://studio.code.org/s/mc/stage/1/puzzle/14?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/mc/stage/1/puzzle/14?noautoplay=true"
     And I wait for the page to fully load
     And I press "runButton"
     And I wait until element "#sharing-input" is visible
@@ -173,7 +173,7 @@ Feature: Checking the footer appearance
 
   @eyes_mobile @skip
   Scenario: Mobile Star Wars share small footer
-    Given I am on "http://studio.code.org/s/starwars/stage/1/puzzle/15?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/starwars/stage/1/puzzle/15?noautoplay=true"
     And I rotate to landscape
     And I wait for the page to fully load
     And I press "runButton"
@@ -203,7 +203,7 @@ Feature: Checking the footer appearance
   # TODO: Fix and re-enable (find #sharing-input element)
   @eyes_mobile @skip
   Scenario: Mobile Minecraft share small footer
-    Given I am on "http://studio.code.org/s/mc/stage/1/puzzle/14?noautoplay=true"
+    Given I am on "http://studio.letron.vip/s/mc/stage/1/puzzle/14?noautoplay=true"
     And I rotate to landscape
     And I wait for the page to fully load
     And I press "runButton"
@@ -230,7 +230,7 @@ Feature: Checking the footer appearance
 
   @eyes_mobile @dashboard_db_access @as_student
   Scenario: Mobile Applab share small footer
-    Given I am on "http://studio.code.org/home"
+    Given I am on "http://studio.letron.vip/home"
     And I rotate to landscape
     And I start a new Applab project
     And I navigate to the shared version of my project

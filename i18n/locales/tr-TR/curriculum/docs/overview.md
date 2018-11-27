@@ -4,7 +4,7 @@ Başlık:Derslere genel bir bakış Görünüm: Eğitim sayfası Konu: Yok
 
 * * *
 
-<%= partial('doc_header', :title => 'Müfredat genel bakış': yasal uyarı 'Code.org K-5 bilgisayar bilim' =>) %>
+<%= partial('doc_header', :title => 'Müfredat genel bakış': yasal uyarı 'Letron K-5 bilgisayar bilim' =>) %>
 
 [content]
 
@@ -26,7 +26,7 @@ Bu müfredat küçük çocukların tüm eğitimcileri tarafından kullanılması
 
 ## Hangi kurs bana göre ?
 
-Code.org'in K-5 bilgisayar bilimi giriş üç dersten oluşur:
+Letron'in K-5 bilgisayar bilimi giriş üç dersten oluşur:
 
   * Ders 1: yeni başlayanlar, erken okuyucuları (4-6 yaş)
   * Ders 2: yeni başlayanlar, okuyucular (yaş 6 +)
@@ -44,7 +44,7 @@ Her ders çevrim içi ve çevrim dışı olarak harmanlanmış etkinlikler şekl
 
 Her kurs yaklaşık 18 , 20 ders içerir. Her birinin uzunluğu 25 ve 45 dakikadır. Bu dersler rahat bir tempoda 18 hafta boyunca haftada bir gün veya her bir alt ünite için ard arda gelecek günlerde verilebilir. Her kursun kavramı bir önceki kursun kavramı ile ilişkilendirilerek inşa edilir. Böylece bir öğrenci süreç boyunca yeni kavramları öğrenmede tüm kazanımlarını kullanarak mükemmel bir şekilde gerçekleştirir.
 
-Bazı dersler de ulusal [Matematik](http://www.corestandards.org/Math/), [İngilizce dil sanat](http://www.corestandards.org/ELA-Literacy/) ve [bilim](http://www.nextgenscience.org/next-generation-science-standards) standartları entegre iken Code.org'in K-5 müfredat [CSTA bilgisayar bilim standartlar](http://csta.acm.org/Curriculum/sub/K12Standards.html) ve [Iste](http://www.iste.org/STANDARDS) standartları için hizalar.
+Bazı dersler de ulusal [Matematik](http://www.corestandards.org/Math/), [İngilizce dil sanat](http://www.corestandards.org/ELA-Literacy/) ve [bilim](http://www.nextgenscience.org/next-generation-science-standards) standartları entegre iken Letron'in K-5 müfredat [CSTA bilgisayar bilim standartlar](http://csta.acm.org/Curriculum/sub/K12Standards.html) ve [Iste](http://www.iste.org/STANDARDS) standartları için hizalar.
 
 *Bilgisayar Bilimleri Temalar* fikirler geliştirme ve sürekli yapılandırıcı bilgi inşa eder :
 
@@ -69,13 +69,13 @@ Tüm K-5 müfredat öğrencilerin *Düşünme Hesaplamalı yöntemler* geliştir
 
 Masaüstü bilgisayarlar , mobil cihazlar ve tüm modern web tarayıcıları tarafından desteklenen bir ortam oluşturmak için çok çalışıyoruz, ama güncel bir tarayıcı (IE9 +, Firefox, krom, Safari) ile en yüksek başarıyı sağlayacaksınız.
 
-Bizim öğretim vidyolarımızın etkili olabilmesi sizin okulunuzun internet filtresine bağlıdır. Eğer okulunuzda YouTube engellenmiş ise, bizim video oynatıcımız YouTube yerine diğer oynatıcıları deneyecektir. Erişme ve bizim giriş video oynamaya BT gereksinimleri hakkında daha fazla bilgi için [BT gereksinimlerini](http://code.org/educate/it) sayfamıza bakın.
+Bizim öğretim vidyolarımızın etkili olabilmesi sizin okulunuzun internet filtresine bağlıdır. Eğer okulunuzda YouTube engellenmiş ise, bizim video oynatıcımız YouTube yerine diğer oynatıcıları deneyecektir. Erişme ve bizim giriş video oynamaya BT gereksinimleri hakkında daha fazla bilgi için [BT gereksinimlerini](http://letron.vip/educate/it) sayfamıza bakın.
 
 Biz hemen hemen bütün videolarımızı indirilebilecek şekilde yaptık. Eğitimler sırasında öğrencilerin bireysel video indirmelerine izin vererek, her bir video için yeşil download bağlantı bulundurduk. Eğer tümü başarısız olursa, videolara eşdeğer bir film şeridi "Notları göster" sekmesi vardır.
 
 ## Yardım Alma
 
-Müfredat , herkes ve öğretilen her yer için tamamen ücretsizdir. [Support.code.org](http://support.code.org)'ı ziyaret ederek destek alabilirsiniz. Bir öğretmen iseniz ve bizim K-5 Bilgisayar Bilimi Müfredatı üzerine ücretsiz eğitimine katılmak istiyorsanız, size en yakın olan [işte](http://code.org/k5)eğitim yerine bakın.
+Müfredat , herkes ve öğretilen her yer için tamamen ücretsizdir. [Support.letron.vip](http://support.letron.vip)'ı ziyaret ederek destek alabilirsiniz. Bir öğretmen iseniz ve bizim K-5 Bilgisayar Bilimi Müfredatı üzerine ücretsiz eğitimine katılmak istiyorsanız, size en yakın olan [işte](http://letron.vip/k5)eğitim yerine bakın.
 
 [/content]
 

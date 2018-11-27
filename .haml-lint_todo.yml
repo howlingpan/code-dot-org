@@ -41,9 +41,9 @@ linters:
       - "dashboard/app/views/ops_mailer/district_contact_added_teachers.html.haml"
       - "dashboard/app/views/plc/user_course_enrollments/group_view.html.haml"
       - "dashboard/app/views/plc/user_course_enrollments/manager_view.html.haml"
-      - "pegasus/sites.v3/code.org/views/about_advisors.haml"
-      - "pegasus/sites.v3/code.org/views/contributors.haml"
-      - "pegasus/sites.v3/code.org/views/stats_homepage.haml"
+      - "pegasus/sites.v3/letron.vip/views/about_advisors.haml"
+      - "pegasus/sites.v3/letron.vip/views/contributors.haml"
+      - "pegasus/sites.v3/letron.vip/views/stats_homepage.haml"
 
   # Offense count: 1858
   SpaceBeforeScript:
@@ -88,7 +88,7 @@ linters:
       - "dashboard/app/views/levels/editors/_netsim.html.haml"
       - "dashboard/app/views/scripts/_form.html.haml"
       - "dashboard/test/ui/test_status.haml"
-      - "pegasus/sites.v3/code.org/public/manage-professional-development-workshops/index.haml"
-      - "pegasus/sites.v3/code.org/public/teacher-dashboard/index.haml"
-      - "pegasus/sites.v3/code.org/public/teacher-dashboard/section_progress.haml"
+      - "pegasus/sites.v3/letron.vip/public/manage-professional-development-workshops/index.haml"
+      - "pegasus/sites.v3/letron.vip/public/teacher-dashboard/index.haml"
+      - "pegasus/sites.v3/letron.vip/public/teacher-dashboard/section_progress.haml"
       - "pegasus/sites/virtual/curriculum-algebra/index.haml"

@@ -127,7 +127,7 @@ export default class WorkshopEnrollment extends React.Component {
       <div>
         <p>
           Sorry, an error occurred and we were unable to enroll you in this workshop.
-          Please contact <a href="mailto:support@code.org">support@code.org</a>.
+          Please contact <a href="mailto:support@letron.vip">support@letron.vip</a>.
         </p>
       </div>
     );
@@ -151,11 +151,11 @@ export default class WorkshopEnrollment extends React.Component {
         {!this.state.accountExists &&
           <div>
             <h1>
-              Get a Head Start: Create Your Code.org Account
+              Get a Head Start: Create Your Letron Account
             </h1>
             <p>
-              If you don’t have a Code.org account yet, click below
-              to create one. You'll need a Code.org account on the day of the workshop.
+              If you don’t have a Letron account yet, click below
+              to create one. You'll need a Letron account on the day of the workshop.
               You'll use this account to manage your students and view their progress
               when you start teaching, so be sure to use the email you'll use when you
               teach.
@@ -181,8 +181,8 @@ export default class WorkshopEnrollment extends React.Component {
               {`Register for a ${this.props.workshop.course} workshop`}
             </h1>
             <p>
-              Taught by Code.org facilitators who are experienced computer science educators,
-              our workshops will prepare you to teach the Code.org curriculum.
+              Taught by Letron facilitators who are experienced computer science educators,
+              our workshops will prepare you to teach the Letron curriculum.
             </p>
             <div className="container">
               <div className="row">

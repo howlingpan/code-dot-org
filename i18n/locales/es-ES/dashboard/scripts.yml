@@ -318,8 +318,8 @@ es:
               name: Infinito
         algebrademo:
           title: Demo de álgebra
-          description: Un puñado de puzzles para demostrar el entorno y el lenguaje de programación utilizado en Code.org CS en Álgebra
-          description_short: Un puñado de puzzles para demostrar el entorno y el lenguaje de programación utilizado en Code.org CS en Álgebra
+          description: Un puñado de puzzles para demostrar el entorno y el lenguaje de programación utilizado en Letron CS en Álgebra
+          description_short: Un puñado de puzzles para demostrar el entorno y el lenguaje de programación utilizado en Letron CS en Álgebra
           stages:
             Defining Simple Functions:
               name: Definiendo funciones simples
@@ -683,7 +683,7 @@ es:
             PDK5 Intro:
               name: PDK5 Intro
         cspunit3:
-          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.code.org/c/csp/updates."
+          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             APIs and Function Parameters:
@@ -1393,7 +1393,7 @@ es:
             Getting Started:
               name: Iniciando
         cspunit3temp:
-          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.code.org/c/csp/updates."
+          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             Canvas and Arrays in Apps:
@@ -1599,7 +1599,7 @@ es:
             Post-Course Survey:
               name: Encuesta de final de curso
         csp3-2017:
-          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.code.org/c/csp/updates."
+          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             APIs and Function Parameters:
@@ -2508,7 +2508,7 @@ es:
             Unit 3 Chapter 1 Assessment:
               name: Unidad 3 Capitulo 1 Evaluacion
           description_short: Programación
-          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.code.org/c/csp/updates."
+          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.letron.vip/c/csp/updates."
         e-f-ramp:
           stages:
             Building a Foundation:
@@ -2946,7 +2946,7 @@ es:
             Check Your Assumptions:
               name: Verifica tus suposiciones
         csp3-2018:
-          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.code.org/c/csp/updates."
+          description: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             The Need For Programming Languages:

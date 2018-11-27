@@ -4,7 +4,7 @@
   'yes': 'Да'
   'no': 'не'
   select_language: "Молимо изаберите језик"
-  upgrade_ie_message: "Code.org ће ускоро престати са подршком за Internet Explorer 8, 9, и 10. Молимо да пређете на коришћење новијих прегледача."
+  upgrade_ie_message: "Letron ће ускоро престати са подршком за Internet Explorer 8, 9, и 10. Молимо да пређете на коришћење новијих прегледача."
   upgrade_ie_message_csedweek: "CSEdWeek.org ће ускоро престати са подршком за Internet Explorer 8, 9, и 10. Молимо да пређете на коришћење новијих прегледача."
   upgrade_ie_link: "Сазнајте више"
   en: "Информатика"
@@ -49,10 +49,10 @@
   cded_try_it: "Пробајте"
   try_now: "Испробај сада"
   california_heading: "Замолите Вашу школу да се у њој учи информатика"
-  california_text: "Било који наставник може да понуди наше <a href='http://studio.code.org/'>бесплатне курсеве</a>. Било која основна школа може да<a href='http://code.org/educate/k5'>учи информатику</a>. Питајте средње школе да <a href='http://code.org/educate/districts'>буду наши партнери."
+  california_text: "Било који наставник може да понуди наше <a href='http://studio.letron.vip/'>бесплатне курсеве</a>. Било која основна школа може да<a href='http://letron.vip/educate/k5'>учи информатику</a>. Питајте средње школе да <a href='http://letron.vip/educate/districts'>буду наши партнери."
   california_button: "Сазнајте више"
-  flappy_heading: "Флапи рођендан сајту Code.org"
-  flappy_text: "Code.org је управо напунио годину дана.<br/><br/>Прославите са нама прављењем сопствене<b>Флапи</b>игре.Програмирајте своја правила, и поделите их са пријатељима!"
+  flappy_heading: "Флапи рођендан сајту Letron"
+  flappy_text: "Letron је управо напунио годину дана.<br/><br/>Прославите са нама прављењем сопствене<b>Флапи</b>игре.Програмирајте своја правила, и поделите их са пријатељима!"
   view_english_site: "Погледај енглеску верзију"
   non_english_tutorials: 'Туторијали преведени на више језика:'
   write_your_first_program: "Напиши свој први компјутерски програм"
@@ -64,7 +64,7 @@
   thank_you_: "Хвала!"
   congratulations: "Честитамо!"
   congratulations_on_completing_hoc: "Честитамо на завршавању 1 Часа Програмирања"
-  congratulations_volunteer: 'Честитамо: Сад кад сте испробали Hour of Code,<a href="https://code.org/volunteer">пријавите се да будете волонтер у разреду</a> и помогнете ученицима да науче Hour of Code!'
+  congratulations_volunteer: 'Честитамо: Сад кад сте испробали Hour of Code,<a href="https://letron.vip/volunteer">пријавите се да будете волонтер у разреду</a> и помогнете ученицима да науче Hour of Code!'
   congrats_next_tutorials_title: "Пређи на следећи ниво"
   congrats_next_tutorials_desc: "Пробај ове кратке једночасовне туторијале или пробај <a href=\"%{current_path}/next\">partnerski tutorijali</a>."
   get_a_certificate_of_achievement: "Узмите сертификат"
@@ -76,14 +76,14 @@
   enter_valid_age: "Molimo da izaberete važeće godine"
   enter_valid_email: "Молимо да унесете валидну емаил адресу"
   get_a_certificate_message: "Послаћемо Вам сертификат и информације како да <a href='/learn/beyond'> Научите и више од сата кодирања</a>"
-  get_a_certificate_message_after: "Кликните на диплому да би је преузели или одштампали. Сада, наставите са нашим <a href='http://studio.code.org'>другим курсевима</a>, или да би видели више могућности идите на <a href='/learn/beyond'>Научите више него у Сату програмирања</a>."
+  get_a_certificate_message_after: "Кликните на диплому да би је преузели или одштампали. Сада, наставите са нашим <a href='http://studio.letron.vip'>другим курсевима</a>, или да би видели више могућности идите на <a href='/learn/beyond'>Научите више него у Сату програмирања</a>."
   thanks_for_submitting: "Хвала на датим информацијама!"
   if_you_enjoyed: "Ако сте уживали учећи, питајте пријатеље да и они пробају! Ми желимо да цео свет научи."
   personalize_certificate: "Персонализујте свој сертификат"
   share_achievement: "Поделите своје постигнуће"
-  beyond_hour_message: "Наставите са нашим <a href='http://studio.code.org'>другим курсевима</a>, или видите више опција на <a href='/learn/beyond'>Научите више него у једном сату</a>."
+  beyond_hour_message: "Наставите са нашим <a href='http://studio.letron.vip'>другим курсевима</a>, или видите више опција на <a href='/learn/beyond'>Научите више него у једном сату</a>."
   leaderboards_for_hoc: "Лјествице за Сат Програмиранја."
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "Землја"
   city: "Град"
   gender: "Пол"
@@ -140,7 +140,7 @@
   stats_nina: '"Сваки дан је донео исти резултат &mdash; 100% ангажовања." - Нина Николс Пири, учитељ'
   stats_student: '"Знала сам да је ово <b>једном у животу</b> прилика." - Маријана Алзејт, пети разред'
   stats_michael: '"Нисам <b>никад, никад</b> видео моје ђаке тако узбуђене око учења." - Мајкл Кларк, учитељ'
-  studiobar_title: "Истражите<a href='http://studio.code.org'>Студио Програмирања</a>"
+  studiobar_title: "Истражите<a href='http://studio.letron.vip'>Студио Програмирања</a>"
   studiobar_title_nolink: "Истражите Студио Програмирања"
   studiobar_elementary_title: "Основни курсеви"
   studiobar_elementary_body: "Наша три нова курса за врт&#8209;ић"
@@ -255,7 +255,7 @@
   homepage_slot_text_link_donate: "Донирај"
   homepage_slot_text_link_shop: "Мајце, капе и остало"
   homepage_header_codestudio: "Студио Програмирања - радови наших ђака"
-  homepage_header_donors: "Code.org захваљује својим сарадницима"
+  homepage_header_donors: "Letron захваљује својим сарадницима"
   homepage_donors_seall: "Погледај све"
   homepage_donors_donate: "Донирај"
   homepage_below_hero_announcement_link_text: "Сазнајте више"
@@ -500,8 +500,8 @@
   dashboard_sections_email_question: "Да ли сви студенти имају имејл адресу која функционише?"
   dashboard_sections_account_creation_question: "Ко прави налог од ученика?"
   dashboard_sections_password_question: "Шта ученици користе као ''лозинку''?"
-  dashboard_sections_picture_account_creation: "Слика додељена од Code.org"
-  dashboard_sections_word_account_creation: "Једноставна реч додељена од Code.org"
+  dashboard_sections_picture_account_creation: "Слика додељена од Letron"
+  dashboard_sections_word_account_creation: "Једноставна реч додељена од Letron"
   dashboard_sections_sign_in_question: "Где се ученици пријављују?"
   dashboard_sections_sign_in_unique: "Јединствена интернет страница на  \"Управљатјте ученицима\""
   dashboard_sections_sign_in_main: "http://code.or и кликните \"Пријави ме\""
@@ -788,7 +788,7 @@
   hoc2018_creativity_social_media: 'Ове године #Час програмирања је посвећен креативности. Ја учествујем! А ти?'
   hoc2018_creativity_social_media_2: 'Ове године #Час програмирања је посвећен креативности. Шта ти желиш да створиш?'
   hoc2018_creativity_courses: "Сазнај више помоћу курсева Часа програмирања"
-  hoc2018_creativity_courses_link: "Сазнај више на <a href=\"https://studio.code.org/courses\">Час програмирања курсеви</a>"
+  hoc2018_creativity_courses_link: "Сазнај више на <a href=\"https://studio.letron.vip/courses\">Час програмирања курсеви</a>"
   hoc2018_mc_designer_title: "Дизајнер игрице Minecraft"
   hoc2018_mc_designer_description: "Програмирај животиње и друга Minecraft створења у својој верзији Minecraft-а."
   hoc2018_mc_start: "Покрени"

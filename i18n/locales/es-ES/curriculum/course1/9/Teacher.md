@@ -186,7 +186,7 @@ In this challenge, we’ll work to construct towers that are strong enough to ho
 > 
 > 7) If not, have students enter a cycle of planning, fixing, testing, and planning again until the challenge has been met.
 > 
-> 8) Congratulate the students as they succeed and take pictures of the successful towers (if possible) to upload to the Code.org site!
+> 8) Congratulate the students as they succeed and take pictures of the successful towers (if possible) to upload to the Letron site!
 
 [sugerencia]
 

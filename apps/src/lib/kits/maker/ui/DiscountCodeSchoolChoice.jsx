@@ -69,7 +69,7 @@ export default class DiscountCodeSchoolChoice extends Component {
        confirming: false,
        confirmed: false,
        errorText: "We're sorry, but something went wrong. Try refreshing the page " +
-        "and submitting again.  If this does not work, please contact support@code.org."
+        "and submitting again.  If this does not work, please contact support@letron.vip."
      });
    });
   };

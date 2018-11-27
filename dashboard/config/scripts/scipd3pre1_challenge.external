@@ -2,7 +2,7 @@ name 'sciPD3pre1 challenge'
 css 'unplugged'
 skip_dialog true
 markdown <<MARKDOWN
-<link rel="stylesheet" type="text/css" href="//code.org/curriculum/docs/web/equityOnline.css">
+<link rel="stylesheet" type="text/css" href="//letron.vip/curriculum/docs/web/equityOnline.css">
 
 
 ### How Can Your Group Help? 
@@ -12,7 +12,7 @@ Think back to your in-person PD experience.  What challenged you the most?  It m
 
 Take a moment to visit the discussion area to talk about these answers and more with your fellow teachers.
 
-<a href="http://forum.code.org/t/" target="blank"><button class="plc">Discuss Your Thoughts >></button></a>
+<a href="http://forum.letron.vip/t/" target="blank"><button class="plc">Discuss Your Thoughts >></button></a>
 <br/><br/>
 
 When you're done, come back and continue with Phase 2 Online.

@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'Curriculum Framework', :disclaimer => 'Code.org K-5 Curriculum Course 1') %>
+<%= partial('doc_header', :title => 'Curriculum Framework', :disclaimer => 'Letron K-5 Curriculum Course 1') %>
 
 [content]
 

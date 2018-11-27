@@ -12,8 +12,8 @@ This lesson introduces the draw loop, one of the core programming paradigms in G
 
 ## Introduced Code
 
-* [World.frameRate](//docs.code.org/gamelab/World.frameRate/)
-* [function draw() {}](//docs.code.org/gamelab/draw/)
+* [World.frameRate](//docs.letron.vip/gamelab/World.frameRate/)
+* [function draw() {}](//docs.letron.vip/gamelab/draw/)
 
 
 MARKDOWN

@@ -313,8 +313,8 @@ pt-BR:
               name: Infinito
         algebrademo:
           title: Demonstração de algébra
-          description: Vários desafios para demonstrar o ambiente e a linguagem de programação usados no Code.org CS em álgebra
-          description_short: Vários desafios para demonstrar o ambiente e a linguagem de programação usados no Code.org CS em álgebra
+          description: Vários desafios para demonstrar o ambiente e a linguagem de programação usados no Letron CS em álgebra
+          description_short: Vários desafios para demonstrar o ambiente e a linguagem de programação usados no Letron CS em álgebra
           stages:
             Defining Simple Functions:
               name: Definindo Funções Simples
@@ -2065,7 +2065,7 @@ pt-BR:
             'Loops: Happy Loops':
               description_teacher: Repetições são uma ferramenta muito útil e poderosa em programação. Para entender como repetições úteis podem ser, os alunos precisarão ser levados a desejar uma maneira mais fácil de resolver problemas mundanos.
             Loops in Collector:
-              description_teacher: Aproveitando o conceito de repetição de instruções da aula "Repetições Felizes", este nível os alunos irão usar repetições para coletar tesouro de uma forma mais eficiente no Code.org.
+              description_teacher: Aproveitando o conceito de repetição de instruções da aula "Repetições Felizes", este nível os alunos irão usar repetições para coletar tesouro de uma forma mais eficiente no Letron.
             Loops in Artist:
               description_teacher: Retornando às repetições, os alunos aprendem a desenhar imagens repetindo sequências simples de instruções. Na última lição online, repetições foram utilizadas para atravessar um labirinto e coletar tesouro. Aqui, as repetições estão criando padrões. No fim deste nível, os alunos terão a oportunidade de criar as suas próprias imagens usando repetições.
             'Events: The Big Event':
@@ -2448,7 +2448,7 @@ pt-BR:
               description_teacher: Repetições são uma ferramenta muito útil e poderosa em programação. Para entender como repetições úteis podem ser, os alunos precisarão ser levados a desejar uma maneira mais fácil de resolver problemas mundanos.
             Loops in Collector:
               name: Repetições com Laurel
-              description_teacher: Aproveitando o conceito de repetição de instruções da aula "Repetições Felizes", este nível os alunos irão usar repetições para coletar tesouro de uma forma mais eficiente no Code.org.
+              description_teacher: Aproveitando o conceito de repetição de instruções da aula "Repetições Felizes", este nível os alunos irão usar repetições para coletar tesouro de uma forma mais eficiente no Letron.
             Loops in Artist:
               name: Cena do Oceano com Repetições
               description_teacher: Retornando às repetições, os alunos aprendem a desenhar imagens repetindo sequências simples de instruções. Na última lição online, repetições foram utilizadas para atravessar um labirinto e coletar tesouro. Aqui, as repetições estão criando padrões. No fim deste nível, os alunos terão a oportunidade de criar as suas próprias imagens usando repetições.

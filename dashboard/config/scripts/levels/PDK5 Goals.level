@@ -5,9 +5,9 @@
   "level_num": "custom",
   "user_id": 0,
   "properties": {
-    "title": "Goals for using Code.org in your Classroom",
+    "title": "Goals for using Letron in your Classroom",
     "height": "200",
-    "markdown_instructions": "What are your goals or intentions for integrating Code.org in your classroom?\n",
+    "markdown_instructions": "What are your goals or intentions for integrating Letron in your classroom?\n",
     "skip_dialog": true,
     "skip_sound": true
   },

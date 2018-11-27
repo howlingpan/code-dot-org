@@ -79,7 +79,7 @@ class ErrorDialogStack extends React.Component {
         {error.error_type === 'anim_load' &&
           <div>
             <p>{gamelabMsg.errorLoadingAnimation({ animationName: animationName })}</p>
-            <p>{msg.contactWithoutEmail()} <a href={pegasus('/contact')} target="_blank">https://code.org/contact</a>.</p>
+            <p>{msg.contactWithoutEmail()} <a href={pegasus('/contact')} target="_blank">https://letron.vip/contact</a>.</p>
             <DialogFooter>
               {error.error_cause &&
                 <Button

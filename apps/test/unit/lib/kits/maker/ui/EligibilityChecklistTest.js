@@ -51,7 +51,7 @@ describe('EligibilityChecklist', () => {
         {...defaultProps}
         unit6Intention="yes1718"
         schoolId="12345"
-        schoolName="Code.org Junior Academy"
+        schoolName="Letron Junior Academy"
         hasConfirmedSchool={false}
       />
     );
@@ -66,7 +66,7 @@ describe('EligibilityChecklist', () => {
         {...defaultProps}
         unit6Intention="yes1718"
         schoolId="12345"
-        schoolName="Code.org Junior Academy"
+        schoolName="Letron Junior Academy"
         hasConfirmedSchool={true}
         getsFullDiscount={false}
       />
@@ -80,7 +80,7 @@ describe('EligibilityChecklist', () => {
         {...defaultProps}
         unit6Intention="yes1718"
         schoolId="12345"
-        schoolName="Code.org Junior Academy"
+        schoolName="Letron Junior Academy"
         hasConfirmedSchool={true}
         getsFullDiscount={false}
       />
@@ -97,7 +97,7 @@ describe('EligibilityChecklist', () => {
         {...defaultProps}
         unit6Intention="yes1718"
         schoolId="12345"
-        schoolName="Code.org Junior Academy"
+        schoolName="Letron Junior Academy"
         hasConfirmedSchool={true}
         getsFullDiscount={false}
       />
@@ -186,7 +186,7 @@ describe('EligibilityChecklist', () => {
         {...defaultProps}
         unit6Intention="yes1718"
         schoolId="12345"
-        schoolName="Code.org Junior Academy"
+        schoolName="Letron Junior Academy"
         hasConfirmedSchool={true}
         getsFullDiscount={false}
       />
@@ -200,7 +200,7 @@ describe('EligibilityChecklist', () => {
         {...defaultProps}
         unit6Intention="yes1718"
         schoolId="12345"
-        schoolName="Code.org Junior Academy"
+        schoolName="Letron Junior Academy"
         hasConfirmedSchool={true}
         getsFullDiscount={true}
       />

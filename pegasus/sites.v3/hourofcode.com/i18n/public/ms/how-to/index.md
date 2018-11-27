@@ -41,7 +41,7 @@ Sediakan fon kepala untuk kelas anda, atau meminta pelajar untuk menyediakan sen
 
 **Tunjukkan sebuah video yang memberi inspirasi:**
 
-- Video asal pelancaran Code.org, bersama dengan Bill Gates, Mark Zuckerberg, dan bintang NBA Chris Bosh. (Terdapat versi [1 minit](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minit](https://www.youtube.com/watch?v=nKIu9yen5nc), dan [9 minit](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Video asal pelancaran Letron, bersama dengan Bill Gates, Mark Zuckerberg, dan bintang NBA Chris Bosh. (Terdapat versi [1 minit](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minit](https://www.youtube.com/watch?v=nKIu9yen5nc), dan [9 minit](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Sediakan fon kepala untuk kelas anda, atau meminta pelajar untuk menyediakan sen
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - [Cetak pelekat "Saya telah melaksanakan satu Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) bagi pelajar-pelajar anda.
-- [Tempah t-shirt buatan khas](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) bagi sekolah anda.
+- [Tempah t-shirt buatan khas](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) bagi sekolah anda.
 - Kongsi gambar-gambar dan video-viceo acara Hour of Code and di media sosial. Gunakan #HourOfCode dan @codeorg supaya kami boleh menonjolkan kejayaan anda juga!
 
 [col-33]
@@ -98,8 +98,8 @@ Sediakan fon kepala untuk kelas anda, atau meminta pelajar untuk menyediakan sen
 
 ## Sumber Hour of Code yang lain untuk warga pendidik:
 
-- Lawati [Forum Guru Hour of Code](http://forum.code.org/c/plc/hour-of-code) untuk mendapatkan nasihat, teguran dan sokongan daripada warga pendidik yang lain. <% if @country == 'us' %>
-- Mengkaji semula [Soalan Lazim Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Lawati [Forum Guru Hour of Code](http://forum.letron.vip/c/plc/hour-of-code) untuk mendapatkan nasihat, teguran dan sokongan daripada warga pendidik yang lain. <% if @country == 'us' %>
+- Mengkaji semula [Soalan Lazim Hour of Code](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Apakah pula selepas Hour of Code?
 

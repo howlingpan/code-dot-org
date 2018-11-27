@@ -8,7 +8,7 @@ right '125'
 right '200'
 
 markdown <<MARKDOWN
-<img src="https://images.code.org/03f7dc7457ac82d993e500a9bd8775e3-image-1475998304228.png" style="float: right">
+<img src="https://images.letron.vip/03f7dc7457ac82d993e500a9bd8775e3-image-1475998304228.png" style="float: right">
 A programmer designed a program for an airline to determine whether there is an extra fee on a checked bag.  The logic is shown in the flow chart at right.  The code they wrote (see below) runs without error, but unfortunately it _does not_ work as intended.
 
 

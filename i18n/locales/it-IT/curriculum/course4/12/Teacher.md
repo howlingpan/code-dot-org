@@ -5,7 +5,7 @@ title: "Artist: Functions" view: page_curriculum theme: none
 * * *
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>12, :title=> 'Artist: Functions', :unplugged=>false, :time=>30) %>
@@ -62,7 +62,7 @@ In this stage, students will walk from using repetitive instructions into learni
 
 ## Activity
 
-### <a name="Activity"></a> [Artist: Functions](http://learn.code.org/s/course4/stage/12/puzzle/1)
+### <a name="Activity"></a> [Artist: Functions](http://learn.letron.vip/s/course4/stage/12/puzzle/1)
 
 [/together]
 

@@ -41,7 +41,7 @@ Voorzie koptelefoons voor uw klas, of vraag de leerlingen om ze zelf mee te neme
 
 **Laat een inspirerende video zien:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Voorzie koptelefoons voor uw klas, of vraag de leerlingen om ze zelf mee te neme
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [Print de "Ik heb meegedaan met CodeUur!"](%= resolve_url('/promote/resources#stickers') %) stickers voor uw leerlingen.
-- [Bestel custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) voor uw school.
+- [Bestel custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) voor uw school.
 - Deel foto's en video's van uw CodeUur evenement op sociale media. Gebruik de hashtag #HourOfCode en @codeorg zodat wij ook uw succes kunnen zien!
 
 [col-33]
@@ -98,8 +98,8 @@ Voorzie koptelefoons voor uw klas, of vraag de leerlingen om ze zelf mee te neme
 
 ## Andere CodeUur bronnen voor docenten:
 
-- Bezoek het [CodeUur leraren Forum](http://forum.code.org/c/plc/hour-of-code) om advies, inzicht en steun van andere docenten te krijgen. <% if @country == 'us' %>
-- Bekijk het [CodeUur FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Bezoek het [CodeUur leraren Forum](http://forum.letron.vip/c/plc/hour-of-code) om advies, inzicht en steun van andere docenten te krijgen. <% if @country == 'us' %>
+- Bekijk het [CodeUur FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Wat komt er na het CodeUur?
 

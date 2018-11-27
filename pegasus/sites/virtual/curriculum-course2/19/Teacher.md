@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/k-1.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/k-1.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 2', :lesson=>19, :title=> 'Artist: Nested Loops', :unplugged=>false, :time=>30) %>
@@ -57,7 +57,7 @@ Students use the Artist environment to write programs that have looped statement
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Artist: Nested Loops](http://learn.code.org/s/course2/stage/19/puzzle/1)
+### <a name="Activity"></a> [Artist: Nested Loops](http://learn.letron.vip/s/course2/stage/19/puzzle/1)
 
 
 

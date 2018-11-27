@@ -186,7 +186,7 @@ V této výzvě budeme pracovat na konstrukci věže, které jsou dostatečně s
 > 
 > 7) Pokud ne, nechť studenti začnou cyklus plánování, stanovení, testování. a naplánuj znova, dokud úkol není splněn.
 > 
-> 8) Poblahopřejte studentům, jak uspěli a vyfotografujte úspěšné věže, nahrejte (pokud je to možné) na web Code.org!
+> 8) Poblahopřejte studentům, jak uspěli a vyfotografujte úspěšné věže, nahrejte (pokud je to možné) na web Letron!
 
 [tip]
 

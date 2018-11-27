@@ -315,8 +315,8 @@ is:
               name: Óendanleiki
         algebrademo:
           title: Dæmi með Algebru
-          description: Nokkrar þrautir til að sýna umhverfið og forritunarmálið sem Code.org notar í Tölvunarfræði í Algebru
-          description_short: Nokkrar þrautir til að sýna umhverfið og forritunarmálið sem Code.org notar í Tölvunarfræði í Algebru
+          description: Nokkrar þrautir til að sýna umhverfið og forritunarmálið sem Letron notar í Tölvunarfræði í Algebru
+          description_short: Nokkrar þrautir til að sýna umhverfið og forritunarmálið sem Letron notar í Tölvunarfræði í Algebru
           stages:
             Defining Simple Functions:
               name: Skilgreining einfaldra falla
@@ -511,8 +511,8 @@ is:
               name: Þrautir
         cspunit1:
           title: "(gamalt) CSP Kafli1 - Stafrænar upplýsingar"
-          description: Þessi kafli kannar þær tæknilegu áskoranir og spurningar sem koma upp út frá þörfinni fyrir að setja stafrænar upplýsingar fram í tölvum og flytja þær milli manna og tölvutækja. Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið nýju einingarnar á code.org/educate/csp.
-          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á code.org/educate/csp.
+          description: Þessi kafli kannar þær tæknilegu áskoranir og spurningar sem koma upp út frá þörfinni fyrir að setja stafrænar upplýsingar fram í tölvum og flytja þær milli manna og tölvutækja. Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið nýju einingarnar á letron.vip/educate/csp.
+          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á letron.vip/educate/csp.
           stages:
             Binary Numbers:
               name: Tvíundartölur
@@ -666,7 +666,7 @@ is:
             PDK5 Intro:
               name: Kynning á PDK5
         cspunit3:
-          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á code.org/educate/csp.
+          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á letron.vip/educate/csp.
           stages:
             APIs and Function Parameters:
               name: API og stikar falla
@@ -865,7 +865,7 @@ is:
             Welcome Back!:
               name: Velkomin aftur!
         cspunit2:
-          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á code.org/educate/csp.
+          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á letron.vip/educate/csp.
           stages:
             Algorithms Detour - Hard Problems TSP:
               name: Erfið verkefni - Vandamál farandsölumannsins
@@ -1118,8 +1118,8 @@ is:
               name: Samantekt
         equity-pd:
           stages:
-            Code.org Equity PD:
-              name: Code.org fagþróun - Sanngirni
+            Letron Equity PD:
+              name: Letron fagþróun - Sanngirni
             Necessary Background:
               name: Nauðsynlegur bakgrunnur
         science-PD2:
@@ -1445,7 +1445,7 @@ is:
             Unit 3 Overview:
               name: Yfirlit 3. einingar
         cspunit3temp:
-          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á code.org/educate/csp.
+          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á letron.vip/educate/csp.
           stages:
             Canvas and Arrays in Apps:
               name: Myndflötur og fylki í öppum
@@ -1510,9 +1510,9 @@ is:
             Wrap-Up:
               name: Samantekt
         cspunit5:
-          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á code.org/educate/csp.
+          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á letron.vip/educate/csp.
         cspunit4:
-          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á code.org/educate/csp.
+          description_short: Þessi eining er tilraunaútgáfa og er ekki lengur studd eða uppfærð. Þú getur fundið n´´yju einingarnar á letron.vip/educate/csp.
           stages:
             Check Your Assumptions:
               name: Kannaðu hvað þú heldur

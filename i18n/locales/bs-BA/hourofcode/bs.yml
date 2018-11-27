@@ -11,7 +11,7 @@ bs:
   campaign_date_full: "4-10 Decembra"
   campaign_date_year: "2017"
   campaign_date_full_year: "4-10 Decembra, 2017"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ bs:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Pridružite se najvećoj edukaciji u historiji, %{campaign_date}'
   front_intro_default: 'Sat programiranja je globalni pokret u kojem učestvuju deseci miliona studenata iz 180 i više zemalja. Bilo tko, bilo gdje, možete organizovati događaj sata programiranja. Jednosatni tutoriali su dostupni u više od 45 jezika. Nije potrebno prethodno iskustvo. <strong>Za dob od 4-104.</strong>'
@@ -186,7 +186,7 @@ bs:
   how_to_nav_afterschool_educators: "Za poslije škole edukatore"
   how_to_nav_volunteers: "Za volontere"
   whats_next_header: "Šta je sljedeće?"
-  whats_next_description: "Poslati ćemo vam materijale i korisne savjete za vaš događaj. <a href='http://code.org/learn'> Pokušajte trenutni tutorijal</a> za bilo koji preglednik, smartphone – ili čak i bez kompjutera!"
+  whats_next_description: "Poslati ćemo vam materijale i korisne savjete za vaš događaj. <a href='http://letron.vip/learn'> Pokušajte trenutni tutorijal</a> za bilo koji preglednik, smartphone – ili čak i bez kompjutera!"
   whats_next_how_to: "<a href='/how-to'> Kako pokrenuti Sad Kodiranja</a>"
   whats_next_promote: "<a href='/promote'> Promovirajte Sat Kodiranja</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'> Kako promovirati Sata Kodiranja</a>"
@@ -238,8 +238,8 @@ bs:
   front_join_us_sign_up: "Prijavi se"
   front_join_us_host: "Budite domaćin"
   front_join_us_support: "Podržite"
-  front_join_us_more_info: "Za više informacija, molimo posjetite <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "Za više informacija, molimo posjetite code.org"
+  front_join_us_more_info: "Za više informacija, molimo posjetite <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "Za više informacija, molimo posjetite letron.vip"
   front_join_us_n_students_served: "# posluženo"
   front_join_us_challenge: "Osvoji video razgovor sa zvijezdom za svoj razred!"
   front_join_us_learn_more: "Saznaj više"
@@ -267,7 +267,7 @@ bs:
   signup_your_event: 'Prijavite vaš događaj'
   signup_host_an_hour: 'Budite domaćin sata'
   signup_match_volunteer: 'Pomozi mi da nađem lokalne softver inženjere za inspirisanje mojih studenata'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ bs:
   signup_continue_label: 'Nastavi'
   signup_thank_you_header: "Hvala za prijavu za domaćina Sata Kodiranja."
   signup_thank_you_message: 'Poslali smo vam e-mail potvrdu s informacijama koje će vam pomoći da počnete.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ bs:
   hoc_faq_host_q: "Ne znam ništa o kodiranju. Mogu li ipak biti domaćin događaja?"
   hoc_faq_host_a: "Naravno. Sat Kodiranja aktivnosti su samo-vođeni. Sve što morate učiniti je <a href='%{codeorg_url}/learn'> probati naše trenutne tutorijale</a>, odabrati tutorijal koji želite, i odabrati vrijeme &mdash; mi ćemo se pobrinuti za ostalo. Također imamo opcije za svaku dob i razinu iskustva, od vrtića pa gore. Počnite planirati svoj događaj čitajući naš <a href='/how-to'> kako-da vodič</a>."
   hoc_faq_devices_q: "Koje uređaje trebam koristiti za svoje studente?"
-  hoc_faq_devices_a: "Code.org tutorijali rade na svih uređajima i preglednicima. Možete vidjeti više informacija o tehničkim potrebama Code.org tutorijala <a href='%{codeorg_url}/educate/it'> ovdje</a>. Tehnološki zahtjevi za tutorijale koji nisu Code.org se nalaze na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> stranici specifičnom za određeni tutorijal. Ne zaboravite također nudimo <a href='%{unplugged_url}'> unplugged aktivnosti</a> ako vaša škola ne može omogućiti tutorijal!"
+  hoc_faq_devices_a: "Letron tutorijali rade na svih uređajima i preglednicima. Možete vidjeti više informacija o tehničkim potrebama Letron tutorijala <a href='%{codeorg_url}/educate/it'> ovdje</a>. Tehnološki zahtjevi za tutorijale koji nisu Letron se nalaze na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> stranici specifičnom za određeni tutorijal. Ne zaboravite također nudimo <a href='%{unplugged_url}'> unplugged aktivnosti</a> ako vaša škola ne može omogućiti tutorijal!"
   hoc_faq_need_computers_q: 'Da li trebam kompjuter za svakog sudionika?'
   hoc_faq_need_computers_a: "Ne. Imamo Sad Kodiranja tutorijale koji rade na kompjuterima, pametnim telefonima, tabletima, a neki uopće ne zahtijevaju upotrebu kompjutera! Možete se pridružiti gdje god da ste, sa bilo kojim uređajem. <p><i>Evo nekoliko mogućnosti:</i> <br><ul><li><b>Rad u parovima.</b> <a href='%{pair_programming_research}'>Istraživanje je pokazalo da</a> studenti uče najbolje sa <a href='%{pair_programming_video}'> programiranjem u paru</a>, što znači da dijelite računalo i radite zajedno. Stoga, potakni svoje studente da rade u dvoje. <li><b>Koristi projektor.</b> Ako imate projektor, cijela grupa može raditi Sat Kodiranja zajedno. Pogledajte sekvence videa zajedno i naizmjenice odgovarajte na pitanja. <li><b>Idi bez tehnologije (unplugged).</b> Nudimo <a href='%{unplugged_url}'> tutorijale koji ne zahtijevaju kompjutere.</a></ul>"
   hoc_faq_international_q: "Ja sam u <country>. Kako da sudjelujem međunarodno?"
@@ -350,7 +350,7 @@ bs:
   hoc_faq_high_school_q: "Koje aktivnosti bih trebao/la raditi sa srednjoškolcima?"
   hoc_faq_high_school_a: "Naš novi Star Wars i Minecraft tutorijal odlični su za srednjoškolce, naročito Star Wars JavaScript verzije i razina sa slobodnom igrom na oba tutorijala. Također, preporučujemo da za početak isprobate i jedan od početničkih tutorijala na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, kao što su Angry Birds tutorijal ili tutorijal sa Annom i Elsom. Srednjoškolac bi trebao biti u mogućnosti završiti jedan od ovih tutorijala u 30 minuta i tada pokušati naprednije tutorijale u JavaScript-u, poput Khan Academy ili CodeHS."
   hoc_faq_scratch_q: "Na Satu Kodiranja ću koristit Scratch, ali što ako moji učenici koriste iPad umjesto laptopa?"
-  hoc_faq_scratch_a: "Scratch se ne može pokrenuti na tabletima. Ako su vaši učenici mlađi, mogu koristiti ScratchJR iPad aplikaciju (za učenike koji su tek naučili čitati). Ako pogledate vodiče na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, možete pronaći vodiče koji rade na iPadu - od Code.org-a, Tynker-a, Lightbot-a ili CodeSpark-a."
+  hoc_faq_scratch_a: "Scratch se ne može pokrenuti na tabletima. Ako su vaši učenici mlađi, mogu koristiti ScratchJR iPad aplikaciju (za učenike koji su tek naučili čitati). Ako pogledate vodiče na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, možete pronaći vodiče koji rade na iPadu - od Letron-a, Tynker-a, Lightbot-a ili CodeSpark-a."
   hoc_faq_count_hoc_q: "Kako brojite Sate Kodiranja?"
   hoc_faq_map_q: "Zašto ne vidim svoju tačku na mapi?"
   hoc_faq_map_a: "Jako nam je žao što ne vidite Vaš događaj na mapi Sata Kodiranja. Zbog desetina hiljada organizatora koji se prijavljuju, mapa sažima podatke i prikazuje jednu točku za nekoliko događaja. Klikom na broj iznad karte biti ćete usmjereni na popis svih događaja prema državi i moći ćete pronaći sve događaja navedene ondje. Dodatno, s obzirom na hiljade ljudi koji se prijavljuju za Sat Kodiranja, popis mapa i događaja obično zahtijeva 48 sati za ažuriranje. Provjerite opet za nekoliko dana!"
@@ -358,13 +358,13 @@ bs:
   hoc_faq_one_hour_q: "Koliko se zapravo može naučiti za sat vremena?"
   hoc_faq_one_hour_a: 'Cilj Sata kodiranja nije naučiti svakoga kako postati ekspert računalni naučnik u sat vremena. Sat vremena dovoljno je za shvatiti kako je računarstvo zabavno i kreativno, te da je dostupno svim uzrastima, za sve učenike, bez obzira na njihovu pozadinu. Mjera uspjeha ove kampanje nije u tome koliko su učenici računarstva naučili nego se uspjeh ogleda u širokom sudjelovanju bez obzira na spol, etničku i socijalnu razlikost grupa, te i povećanom upisu i sudjelovanju u informatičkim kursevima na svim razinama. Milijuni učitelja i učenika odlučili su učiti i više od jednog sata - učiti cijeli dan, čitavu sedmicu ili duže, a kao rezultat toga mnogi su učenici odlučili upisati cijeli kurs (ili čak kolegij na fakultetu). <br/> <br/> Osim učenika, još jedan "učenik" je i nastavnik koji nakon jednog sata stječe samopouzdanje za podučavanje informatike iako nema diplomu informatičara. Deseci tisuća nastavnika odlučili su dodatno učiti informatiku, ili pohađaju dodatne kurseve ili nude pohađenje online kurseva, ili oboje. To vrijedi i za školske administratore koji shvaćaju da je računarstvo nešto što učenici žele i da su njihovi nastavnici u stanju predavati. <br/> <br/> Iznad svega, ono što svi sudionici mogu naučiti u sat vremena jest da ovo svi možemo.'
   hoc_faq_more_questions_q: "Imate još pitanja?"
-  hoc_faq_more_questions_a: "Pokušajte pronaći odgovore na <a href='http://support.code.org'>forumu podrške</a>."
+  hoc_faq_more_questions_a: "Pokušajte pronaći odgovore na <a href='http://support.letron.vip'>forumu podrške</a>."
   hoc_faq_keep_learning_q: "Kako mogu nastaviti učiti nakon Sata Kodiranja?"
   hoc_faq_keep_learning_a: "Bilo tko može organizirati Sat Kodiranja u bilo koje vrijeme. Tutorijali ostaju na internetu cijele godine. Možete očekivati da će naši tutorijali i nastavni plan i program biti vječno dostupni na našim stranicama. Molimo idite na <a href='/promote'> naše resurse</a> kako biste preuzeli vodiče i druge resurse za organizaciju koji će vam pomoći da vaš Sat Kodiranja bude uspješan."
   hoc_faq_certificates_q: "Gdje mogu isprintati certifikate za svoje učenike?"
   hoc_faq_certificates_a: "Idite na naše <a href='%{codeorg_url}/certificates'> stranice s certifikatima</a> na kojoj možete unaprijed isprintati potvrde za cijeli razred. Također, možete isprintati <a href='%{codeorg_url}/certificates?course=mc'> posebne certifikate</a> za učenike koji uče pomoću Minecraft tutorijala."
   hoc_faq_logo_q: "Postoje li ograničenja za korištenje loga ili imena Sata Kodiranja?"
-  hoc_faq_logo_a: "Sat Kodiranja je zaštićena tržišna marka. Ne želimo spriječiti njegovo korištenje, ali želimo osigurati da se njegovo korištenje uklapa u nekoliko ograničenja. Molimo pogledajte <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> ove smjernice za korištenje</a>."
+  hoc_faq_logo_a: "Sat Kodiranja je zaštićena tržišna marka. Ne želimo spriječiti njegovo korištenje, ali želimo osigurati da se njegovo korištenje uklapa u nekoliko ograničenja. Molimo pogledajte <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> ove smjernice za korištenje</a>."
   stats_hoc_2013_image_alt: 'Statistika Sata Kodiranja iz 2013'
   stats_growth: "Najbrže dostignut broj od 15 milijuna korisnika."
   stats_i18n: "Učenici uče na 45 jezika"
@@ -469,8 +469,8 @@ bs:
   highlights_constant_ny_short_heading: Brooklyn u pobjedi protiv Chicaga
   highlights_constant_athletes_heading: Prvaci i osvajači zlatnih medalja Serena Williams, Neymar Jr, Carmelo Anthony i više njih, inspirišu studente da zahtijevaju više od sebe.
   highlights_constant_athletes_short_heading: Zahtjevaj više od sebe
-  footer_copyright_message: 'Copyright %{current_year} Code.org. Sva prava pridržana.'
-  footer_trademark_message: 'Sata Kodiranja ™ je zaštitni znak tvrtke Code.org.'
+  footer_copyright_message: 'Copyright %{current_year} Letron. Sva prava pridržana.'
+  footer_trademark_message: 'Sata Kodiranja ™ je zaštitni znak tvrtke Letron.'
   footer_menu_partners: 'Partneri i Savjetnici'
   footer_menu_contact: 'Kontaktirajte nas'
   footer_menu_support: 'Podrška'
@@ -506,7 +506,7 @@ bs:
   tutorial_spritebox_name: "Spritebox programiranje"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Rezervirano mjesto za novi code.org/hoc"
+  tutorial_hoc_name: "Rezervirano mjesto za novi letron.vip/hoc"
   tutorial_code_name: "Napiši svoj prvi kompjuterski program"
   tutorial_tinspire_name: "10 minuta Koda za TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (sa Scratch)"
@@ -1086,7 +1086,7 @@ bs:
   tutorial_spritebox_shortdescription: "Trčite, skačite i isprogramirajte svoj put kroz tri različita svijeta kako biste skupili sve zvijezde i uspjeli doći do cilja! Naučite slijedove, ispravljanje pogrešaka i petlje, te kodirajte u jezicima Swift, Java ilisa Icons."
   tutorial_tynkerch_shortdescription: "Naučite Javascript dok poražavate viruse!"
   tutorial_lightbot_shortdescription: "Programirajte Lightbot za rješavanje zagonetki koristeći procedure i petlje!"
-  tutorial_hoc_shortdescription: "Rezervirano mjesto za novi code.org/hoc"
+  tutorial_hoc_shortdescription: "Rezervirano mjesto za novi letron.vip/hoc"
   tutorial_code_shortdescription: "Naučite programirati uz Marka Zuckerberga i Angry Birds!"
   tutorial_tinspire_shortdescription: "Potaknite učenike da počnu programirati na svojim TI-Nspire CX dlanovnicima u samo 10 minuta."
   tutorial_itchbounceball_shortdescription: "Koristite ITCH - Scratch uklopljen u video lekciju za napraviti vlastiti projekat loptice skočice"
@@ -1666,7 +1666,7 @@ bs:
   tutorial_spritebox_longdescription: "Trčite, skačite i isprogramirajte svoj put kroz tri različita svijeta kako biste skupili sve zvijezde i uspjeli doći do cilja! Naučite slijedove, ispravljanje pogrešaka i petlje, te kodirajte u jezicima Swift, Java ilisa Icons."
   tutorial_tynkerch_longdescription: "Spasi računar of zlonamjernog virusa! Morati ćeš hackovati svoj put kroz sistem brisanjem virusa, otvaranjem vrata, rješavanjem labirinata, i navigacijom kroz portale. Pazi na viruse i kvarove!"
   tutorial_lightbot_longdescription: "Lightbot je igrica koja traži od igrača da koriste programsku logiku za rješavanje zadataka! Stekni praktično razumijevanje osnovnih pojmova kodiranja tako što ćeš navesti Lightbot da osvijetli sve plave pločice u svakom nivou. Nauči kako poredati upute, pisati postupke i koristiti petlje tokom ove samovođene aktivnosti. Izvrstno za sve uzraste i sve razine vještina."
-  tutorial_hoc_longdescription: "Rezervirano mjesto za novi code.org/hoc"
+  tutorial_hoc_longdescription: "Rezervirano mjesto za novi letron.vip/hoc"
   tutorial_code_longdescription: "Nauči osnovne pojmove Računarstva sa povuci-i-ispusti (drag and drop) programiranjem. Ovo je samovođen tutorijal nalik na igricu u kojme možeš vidjeti video predavanja sa Bill Gates, Mark Zuckerberg, Angry Birds i Plants vs. Zombies. Nauči petlje za ponavljanje, uslove, i osnovne algoritme. Ovaj tutorijal je dostupan u 37 jezika."
   tutorial_tinspire_longdescription: "Uvedi studente u osnove programiranja u samo 10 minuta koristeći TI tehnologiju koju nose u svojim ruksacima svaki dan. Ove lekcije daju studentima lagan uvod u programiranje koji može probuditi njihovu znataželju i interes za programiranjem. Učenici će pisati programe koji će ojačati njihove matematičke sposobnosti koristeći TI Basic jezik koji je spreman za upotrebu na njihovim TI-Nspire dlanovnicima."
   tutorial_itchbounceball_longdescription: "Vodimo vas kroz uvod u Itch, koristeći vizuelni programski jezik Scratch.\n\nOva lekcija sadrži video i tekst upute za kod koji učenici trebaju dodati da bi loptica skakal po ekranu.\n\nKada učenici završe ovu aktivnost imaju šansu da istraže ideje za druge promjene i aktivnosti. Ova aktivnost nema postavljen cilj ili rezultat pošto je namijenjena za slobodno učenje, ali sa ovim početnim kodom učenici mogu smisliti iznenađujuće projekte!\n\nSve instrukcije se nalaze u Itch okolini tako da nema potrebe za prebacivanjem ekrana za praćenje projekta. Korištenje slušalica se preporučuje."

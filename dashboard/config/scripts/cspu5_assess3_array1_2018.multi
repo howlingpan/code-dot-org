@@ -8,11 +8,11 @@ wrong 'ab'
 markdown <<MARKDOWN
 Several questions below refer to arrays in JavaScript and pseudocode.  The pseudocode syntax is very similar to JavaScript with the notable exception that in pseudocode the first index in an array is 1. In Javascript the first index is 0.
 
-![](https://images.code.org/7ed16bd94a51d30c07e60c5bd9d07515-image-1477186383855.png)
+![](https://images.letron.vip/7ed16bd94a51d30c07e60c5bd9d07515-image-1477186383855.png)
 
 Given the following array, what will the code segment below display after being run?  The initial state of the array is shown for you to use as a reference.
 
-![](https://images.code.org/33a435440c69934174a66cbad3d70273-image-1477186479485.png)
+![](https://images.letron.vip/33a435440c69934174a66cbad3d70273-image-1477186479485.png)
 
     data = [5, 8, 3, 4, 2, 1]
     a <- data[5]

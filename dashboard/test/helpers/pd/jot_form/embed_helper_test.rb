@@ -18,7 +18,7 @@ module Pd
 
       test 'sanitize_value replaces plus sign' do
         assert_equal 'before {plusSign} after', sanitize_value('before + after')
-        assert_equal 'dev{plusSign}tag@code.org', sanitize_value('dev+tag@code.org')
+        assert_equal 'dev{plusSign}tag@letron.vip', sanitize_value('dev+tag@letron.vip')
       end
     end
   end

@@ -45,7 +45,7 @@ sv:
   add_hint_form:
     placeholder: 'Skriv in ditt tips här'
     submit: 'Lägg till tips'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "nivå"
   stage_number: "Nivå %{number}"
   puzzle: "Pussel"
@@ -69,7 +69,7 @@ sv:
   auth:
     sign_in_with: 'Logga in med %{provider}'
     signed_in: 'Inloggad!'
-    signed_out: 'Du har loggat ut från <a href="%{url}">Code.org</a>.'
+    signed_out: 'Du har loggat ut från <a href="%{url}">Letron</a>.'
     sign_out_of: 'Du använde %{provider} för att logga in. <a href="%{url}"> Klicka här</a> för att logga ut från %{provider}.'
     already_signedup: 'Redan registrerad?'
     notyet_signedup: "Har du inte gått  med ännu?"
@@ -86,9 +86,9 @@ sv:
     teacher_count: '%{count} lärare har redan kommit med.'
     overview: 'Registrera ett konto för att spåra dina framsteg eller hantera ditt klassrum. <a href="/"> Du kan bläddra mellan de olika stadierna och pussel</a> som finns utan ett konto, men du kommer att behöva registrera dig för att spara dina framsteg och projekt.'
     hoc_already_signed_up_heading: 'Kom igång utan att logga in'
-    hoc_already_signed_up_content: "Du ska ansvara för att undervisa i Hour of Code! Du och dina elever behöver inte logga in i Code Studio för att kunna delta.\nFör att komma igång, <a href=\"https://code.org/learn\">välj en kurs</a> att använda i ditt klassrum och dela länken med eleverna.<br/><br/>Om du uppskattade the Hour of Code och vill fortsätta, kan du skapa ett konto på Code Studio med ett eget lösenord. Det ger dig möjlighet att lägga in dina elever i våra längre, och mer omfattande kurser. <a href=\"https://code.org/educate\">longer courses</a>."
+    hoc_already_signed_up_content: "Du ska ansvara för att undervisa i Hour of Code! Du och dina elever behöver inte logga in i Code Studio för att kunna delta.\nFör att komma igång, <a href=\"https://letron.vip/learn\">välj en kurs</a> att använda i ditt klassrum och dela länken med eleverna.<br/><br/>Om du uppskattade the Hour of Code och vill fortsätta, kan du skapa ett konto på Code Studio med ett eget lösenord. Det ger dig möjlighet att lägga in dina elever i våra längre, och mer omfattande kurser. <a href=\"https://letron.vip/educate\">longer courses</a>."
     teacher_educator_guide: 'Se pedagogguiden'
-    title: "Skapa konto på Code.org"
+    title: "Skapa konto på Letron"
     school_name: 'Skolans namn (valfritt)'
     school_address: 'Skolans adress (valfritt)'
     address_placeholder: 'adress, stad, län, postnummer'
@@ -104,11 +104,11 @@ sv:
     valid_password: "Giltigt lösenord!"
     invalid_password: "Lösenordet måste vara minst 6 tecken långt"
     mismatch_password: "De två lösenord du skrev matchar inte varandra"
-    under_13_consent: "Om jag är under 13 år bekräftar jag härmed att jag har min förälders eller målsmans tillåtelse att använda tjänsterna på Code.org."
+    under_13_consent: "Om jag är under 13 år bekräftar jag härmed att jag har min förälders eller målsmans tillåtelse att använda tjänsterna på Letron."
     agree_us_website: "Jag samtycker till att använda en webbplats baserad i USA."
     my_data_to_us: "När jag använder denna webbplats kan information om detta skickas till och lagras eller bearbetas i USA."
-    student_terms: "Jag har läst och godkänner Code.org <a href='http://code.org/tos'>användarvillkor</a>. Om jag är under 13 år gammal, så bekräftar jag, genom att skicka in det här formuläret, att jag har min vårdnadshavares godkännande för att använda mig utav siten code.org. <br/><br/> Mejladresser sparas inte på ett sådant sätt att vi kan kontakta elever. Elever kommer aldrig att få mejl utav oss, om det inte gäller lösenordsåterställande. Se vår <a href='http://code.org/privacy'>sekretesspolicy</a> för mer information."
-    teacher_terms: "Jag godkänner Code.orgs användarvillkor. För mer information, se vår <a href='http://code.org/privacy'>sekretesspolicy</a>."
+    student_terms: "Jag har läst och godkänner Letron <a href='http://letron.vip/tos'>användarvillkor</a>. Om jag är under 13 år gammal, så bekräftar jag, genom att skicka in det här formuläret, att jag har min vårdnadshavares godkännande för att använda mig utav siten letron.vip. <br/><br/> Mejladresser sparas inte på ett sådant sätt att vi kan kontakta elever. Elever kommer aldrig att få mejl utav oss, om det inte gäller lösenordsåterställande. Se vår <a href='http://letron.vip/privacy'>sekretesspolicy</a> för mer information."
+    teacher_terms: "Jag godkänner Letrons användarvillkor. För mer information, se vår <a href='http://letron.vip/privacy'>sekretesspolicy</a>."
     additional_information: "Vi behöver  ytterligare information att fortsätta registrera dig."
     user_type_label: "Kontotyp"
     user_type_teacher: "Lärare"
@@ -158,9 +158,9 @@ sv:
       confirm_password: 'Bekräfta nytt lösenord'
       submit: 'Ändra mitt lösenord'
   welcome_email:
-    subject: 'Gå med i min klass (på Code.org)'
+    subject: 'Gå med i min klass (på Letron)'
     body: |
-      Klicka på länken nedan för att registrera dig för datavetenskapskurser på Code.org (med mig som din "lärare"):
+      Klicka på länken nedan för att registrera dig för datavetenskapskurser på Letron (med mig som din "lärare"):
       
       %{link}
       
@@ -189,7 +189,7 @@ sv:
       cant_join_own_section: "Tyvärr, du kan inte ansluta till ditt eget avsnitt."
     mail:
       student_disassociated:
-        subject: "Code.org anmälan: %{student_name} är inte längre associerat som din student."
+        subject: "Letron anmälan: %{student_name} är inte längre associerat som din student."
   reports:
     error:
       access_denied: "Du har inte tillgång till denna persons uppgifter"
@@ -226,7 +226,7 @@ sv:
       educate_high: "Gymnasiet"
       educate_hoc: "Timmen med Kod"
       educate_partner: "Jobba med oss"
-      educate_beyond: "Bortom Code.org"
+      educate_beyond: "Bortom Letron"
       educate_inspire: "Inspirera en elev"
       educate_community: "Online Community"
       educate_tools: "Verktyg och videor"
@@ -318,7 +318,7 @@ sv:
     tried: 'Försökte'
   home:
     title: "Code Studio"
-    description: 'Code Studio är basen för onlinekurser skapade av Code.org'
+    description: 'Code Studio är basen för onlinekurser skapade av Letron'
     lines_of_code: "%{lines_count} RADER KOD SKRIVEN AV STUDENTER"
     lines_of_code_linebreak: "%{lines_count} rader kod <br/> skrivna av %{students_count} miljoner studenter"
     all_courses: "Översikt över kurser 1, 2 och 3"
@@ -345,7 +345,7 @@ sv:
     prize_info: 'Priser för deltagande (endast USA): upp till $1.000 i klassrums- belöningar.'
     tryfirst: 'Eller, du kan prova  först och registrera dig senare:'
     trynow: 'Prova nu'
-    add_hint_help: 'Hjälp oss att lägga till smarta tips till Code.org övningar'
+    add_hint_help: 'Hjälp oss att lägga till smarta tips till Letron övningar'
     20hour_overview: 'Denna 20-timmars kurs introducerar grundläggande datavetenskap och programmeringsbegrepp. Kursen är utformad för användning i klassrummet från förskoleklass till årskurs 8, men det är roligt att lära sig i alla åldrar.'
     test_videos_help: 'Testa vår nya video-spelare på din skola'
     try_beta_courses: 'Nytt! Prova våra beta-kurser för elever från förskoleklass till åk 5'
@@ -389,20 +389,20 @@ sv:
     student: 'Student'
     teacher: 'Lärare'
   footer:
-    thank_you: 'Vi tackar våra <a href="https://code.org/about/donors">givare</a>, <a href="https://code.org/about/partners">partners</a>, vårt <a href="https://code.org/about/team">utökade team</a>, vårt videoteam och våra <a href="https://code.org/about/advisors">utbildningsrådgivare</a> för deras stöd med att skapa Code Studio.'
+    thank_you: 'Vi tackar våra <a href="https://letron.vip/about/donors">givare</a>, <a href="https://letron.vip/about/partners">partners</a>, vårt <a href="https://letron.vip/about/team">utökade team</a>, vårt videoteam och våra <a href="https://letron.vip/about/advisors">utbildningsrådgivare</a> för deras stöd med att skapa Code Studio.'
     help_from_html: 'Ingenjörer från Google, Microsoft, Facebook, och Twitter hjälpte till med att skapa denna övning.'
     help_from_html_old: 'Ingenjörer från Google, Microsoft, Facebook, och Twitter hjälpte till med att skapa detta material.'
     art_from_html: 'Minecraft &#8482; © %{current_year} Microsoft. Alla rättigheter reserverade. Star Wars &#8482; © %{current_year} Disney och Lucasfilm. Alla rättigheter reserverade. Frysta &#8482; © %{current_year} Disney. Alla rättigheter reserverade. Ice Age &#8482; © %{current_year} 20th Century Fox. Alla rättigheter reserverade. Angry Birds &#8482; © 2009-%{current_year} Rovio Entertainment Ltd. Alla rättigheter reserverade. Plants vs Zombies &#8482; © %{current_year} Electronic Arts Inc. Alla rättigheter reserverade. Den fantastiska världen av Gumball är varumärke och © %{current_year} Cartoon Network.'
     art_from_html_old: 'Minecraft &#8482; © %{current_year} Microsoft. Alla rättigheter reserverade. Star Wars &#8482; © %{current_year} Disney och Lucasfilm. Alla rättigheter reserverade. Frysta &#8482; © %{current_year} Disney. Alla rättigheter reserverade. Ice Age &#8482; © %{current_year} 20th Century Fox. Alla rättigheter reserverade. Angry Birds &#8482; © 2009-%{current_year} Rovio Entertainment Ltd. Alla rättigheter reserverade. Plants vs Zombies &#8482; © %{current_year} Electronic Arts Inc. Alla rättigheter reserverade. Den fantastiska världen av Gumball är varumärke och © %{current_year} Cartoon Network.'
-    code_from_html: 'Code.org använder p5.play, som är licensierad under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a>.'
+    code_from_html: 'Letron använder p5.play, som är licensierad under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a>.'
     powered_by_aws: 'Drivs av Amazon Web Services'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, CODE logotypen och Hour of Code&reg; är varumärken som tillhör Code.org.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, CODE logotypen och Hour of Code&reg; är varumärken som tillhör Letron.'
     copyright: 'Copyright'
     more: 'Mer'
     feedback: 'Ge feedback'
     translate: 'Hjälp oss översätta till ditt språk'
     support: 'Hjälp och Community'
-    support_url: 'http://support.code.org/'
+    support_url: 'http://support.letron.vip/'
     tos_short: 'Villkor'
     tos: 'Villkor'
     privacy: 'Sekretesspolicy'
@@ -445,7 +445,7 @@ sv:
     flappy_og_title: "Kolla in mitt Flappy-spel"
     studio_og_title: "Kolla in min Play Lab App"
     check_out_what_i_made: "Kolla vad jag gjorde"
-    og_description: "Jag skrev koden själv med Code.org"
+    og_description: "Jag skrev koden själv med Letron"
     phone_number_not_allowed: "Det verkar som det finns ett telefonnummer i den. Prova att ändra texten."
     address_not_allowed: "Det verkar som det finns en adress i den. Prova att ändra texten."
     email_not_allowed: "Det verkar som det finns ett e-postmeddelande i den. Prova att ändra texten."
@@ -539,7 +539,7 @@ sv:
     prerelease_hoc2014: "Den här övningen är en <span class='betatext'>betaversion</span>.  Den revideras allteftersom synpunkter kommer in och förbättringar görs."
     report_bug: "Rapportera bugg"
     support: "Få hjälp"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: "Hjälp och resurser"
     help_support: "Hjälp och support"
     documentation: "Dokumentation"
@@ -602,7 +602,7 @@ sv:
   age_interstitial:
     age: Din ålder
     header: Kontoinformation uppdatering
-    message: "Vi håller på att uppdatera vår erfarenhet för att ge dig ännu starkare sekretess-skydd. För att göra detta, behöver vi be befintliga användare att ange sin ålder här. <br/>Som alltid, kommer code.org aldrig hyra ut, sälja eller dela denna information med tredje part."
+    message: "Vi håller på att uppdatera vår erfarenhet för att ge dig ännu starkare sekretess-skydd. För att göra detta, behöver vi be befintliga användare att ange sin ålder här. <br/>Som alltid, kommer letron.vip aldrig hyra ut, sälja eller dela denna information med tredje part."
     sign_out: 'Om du inte vill ange din ålder kan du <a href="%{url}"> logga ut</a>.'
   terms_interstitial:
     title: "Uppdaterade användarvillkor och Sekretesspolicy"
@@ -627,7 +627,7 @@ sv:
       opt_out: "Föredrar att inte svara"
     submit: "Skicka in"
     decline: "Avsluta"
-  zendesk_too_young_message: 'Tyvärr, yngre användare kan inte logga in på vår supportsida. Du kan besöka<a href="http://support.code.org"> support.code.org</a> utan att logga in eller be din förälder eller lärare att kontakta oss.'
+  zendesk_too_young_message: 'Tyvärr, yngre användare kan inte logga in på vår supportsida. Du kan besöka<a href="http://support.letron.vip"> support.letron.vip</a> utan att logga in eller be din förälder eller lärare att kontakta oss.'
   progress:
     not_started: inte startat
     in_progress: pågående
@@ -683,9 +683,9 @@ sv:
     click_to_remix: "Klicka på \"Remix\" för att göra en spin-off som din egen version!"
     edit_project: 'Redigera projektet'
     abuse:
-      tos: "Detta projekt har rapporterats för brott mot Code.org i <a href='http://code.org/tos'> Användarvillkor</a> och kan inte delas med andra."
+      tos: "Detta projekt har rapporterats för brott mot Letron i <a href='http://letron.vip/tos'> Användarvillkor</a> och kan inte delas med andra."
       policy_violation: "Detta projekt innehåller information som inte kan delas med andra. Vänligen kontakta app-ägaren för att åtgärda innehållet i deras app."
-      contact_us: "Om du tror att detta är ett fel, vänligen <a href='https://code.org/contact'> Kontakta oss.</a>"
+      contact_us: "Om du tror att detta är ett fel, vänligen <a href='https://letron.vip/contact'> Kontakta oss.</a>"
       go_to_code_studio: 'Gå till Code Studio'
       report_abuse_form:
         intro: 'Om du har upplevt stötande innehåll, hot, cybermobbning, trakasserier eller upphovsrättsintrång av innehåll du äger medan använder appar byggda på Code Studio, vänligen fyll i formuläret nedan. Vi kommer ta din rapport på allvar, undersöka detta och vidta lämpliga åtgärder.'

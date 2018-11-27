@@ -270,7 +270,7 @@ fi:
           joita koskaan tulet käyttämään. Opimme toistosilmukat, toista kunnes -lauseet,
           jos-lauseet ja jos-muuten-lauseet.
       3:
-        text: Jos pidit ensimmäisestä kooditunnistasi, vieraile code.org-sivustolla
+        text: Jos pidit ensimmäisestä kooditunnistasi, vieraile letron.vip-sivustolla
           jatkaaksesi tietotekniikan opintojasi! Kun suoritat 20 tunnin kurssimme,
           opit ohjelmoinnin perusteet ja voit ryhtyä opettelemaan miten tehdään sovelluksia
           puhelimille, robottien ohjeita, pelejä tai mitä tahansa.
@@ -848,7 +848,7 @@ fi:
           ja enemmän vuorovaikutteiseksi.
     starwars_congrats:
       1:
-        text: Hei nimeni on Alice ja johdan tuote- ja suunnittelutiimejä täällä Code.org:issa.
+        text: Hei nimeni on Alice ja johdan tuote- ja suunnittelutiimejä täällä Letron:issa.
           Olin mukana kehittämässä oppituntia, jota pelaat ja opiskelet juuri nyt.
       2:
         text: Olet juuri saavuttanut viimeisen tason. Onnittelut! Olet juuri oppinut
@@ -952,7 +952,7 @@ fi:
         text: Pelisi tulee askel askeleelta yhä vuorovaikutteisemmaksi.
     starwars_blocks_congrats:
       1:
-        text: Hei nimeni on Alice ja johdan tuote- ja suunnittelutiimejä täällä Code.org:issa.
+        text: Hei nimeni on Alice ja johdan tuote- ja suunnittelutiimejä täällä Letron:issa.
           Olin mukana kehittämässä oppituntia, jota pelaat ja opiskelet juuri nyt.
       2:
         text: Olet juuri saavuttanut viimeisen tason. Onnittelut! Olet juuri oppinut

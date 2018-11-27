@@ -6,7 +6,7 @@ wrong '(onFloor1 OR callTo2) OR (onFloor2 OR callTo1)'
 markdown <<MARKDOWN
 An office building has two floors. A computer program is used to control an elevator that travels between the two floors. Physical sensors are used to set the following Boolean variables.
 
-<br><img src="https://curriculum.code.org/media/uploads/csp/b33d9bda921dbc0021bad72af31e0e2c"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/b33d9bda921dbc0021bad72af31e0e2c"><br>
 
 The elevator moves when the door is closed and the elevator is called to the floor that it is not currently on. Which of the following Boolean expressions can be used in a selection statement to cause the elevator to move.
 MARKDOWN

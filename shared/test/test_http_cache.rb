@@ -15,7 +15,7 @@ module Cdo
 
       include Rack::Test::Methods
       def build_rack_mock_session
-        @session ||= Rack::MockSession.new(app, 'localhost.code.org')
+        @session ||= Rack::MockSession.new(app, 'localhost.letron.vip')
       end
 
       def mock_app
@@ -105,7 +105,7 @@ module Cdo
       end
 
       def local_request(url, headers={}, cookies={})
-        session = Rack::MockSession.new(mock_app, 'localhost.code.org')
+        session = Rack::MockSession.new(mock_app, 'localhost.letron.vip')
         headers.each do |name, value|
           session.header name, value
         end

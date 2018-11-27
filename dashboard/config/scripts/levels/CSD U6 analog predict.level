@@ -217,7 +217,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-10-20 19:43:20 +0000\",\"changed\":[\"code_functions\",\"start_blocks\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"},{\"changed_at\":\"2017-10-20 22:47:49 +0000\",\"changed\":[\"code_functions\",\"start_blocks\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-10-20 19:43:20 +0000\",\"changed\":[\"code_functions\",\"start_blocks\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"},{\"changed_at\":\"2017-10-20 22:47:49 +0000\",\"changed\":[\"code_functions\",\"start_blocks\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

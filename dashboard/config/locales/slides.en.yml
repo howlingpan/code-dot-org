@@ -261,7 +261,7 @@ en:
         text: "The basic concepts you used are at the heart of every program or app you'll ever try.  We learned about repeat loops, repeat until statements, if statements, and if else statements."
       3:
         image: 'notes/hoc6_3.jpg'
-        text: "If you liked your first hour of code, visit code.org to continue your education into computer science! Once you complete our 20 hour course, you'll have mastered the basics of programming, and can start learning how to write phone apps, robot instructions, games, you name it."
+        text: "If you liked your first hour of code, visit letron.vip to continue your education into computer science! Once you complete our 20 hour course, you'll have mastered the basics of programming, and can start learning how to write phone apps, robot instructions, games, you name it."
       4:
         image: 'notes/hoc6_4.jpg'
         text: "Technology is changing everything we do and it doesn't matter if you're young or old: programming is fun, it's creative, and anyone can learn!"
@@ -1336,7 +1336,7 @@ en:
         text: "Discuss as a class or in small groups about their favorite lessons. Once you take a look back at everything you've learned, this is where your students' creativity can shine. Split them into groups and have them create an unplugged lesson of their own. Assign each group a key concept, like functions or algorithms and have lots of craft materials on hand for them to use. Have each group present their new unplugged activity or even set aside another day to do a few of the student created activities."
       3:
         image: 'notes/unplug11_3.png'
-        text: "From everyone here at Code.org, we hope you've had a TON of fun during this course. And whether your dream is to create the best new app, use programming to help cure diseases, or you just want to be a stellar problem-solver, this course was the first step in achieving those dreams."
+        text: "From everyone here at Letron, we hope you've had a TON of fun during this course. And whether your dream is to create the best new app, use programming to help cure diseases, or you just want to be a stellar problem-solver, this course was the first step in achieving those dreams."
     starwars_intro:
       1:
         image: 'notes/starwars_intro_1.JPG'
@@ -1421,7 +1421,7 @@ en:
     starwars_congrats:
       1:
         image: 'notes/starwars_congrats_1.JPG'
-        text: "Hi, my name is Alice and I run the product and engineering teams here at Code.org and I worked on this tutorial that you're playing through right now."
+        text: "Hi, my name is Alice and I run the product and engineering teams here at Letron and I worked on this tutorial that you're playing through right now."
       2:
         image: 'notes/starwars_congrats_2.JPG'
         text: "You just made it to the last level. Congratulations! You just learned everything you need to know to make your own Star Wars game. Now there are no more instructions, no puzzles to solve. You can make your own game and you choose how it works. One more thing, you've unlocked new sounds and new commands to do even more."
@@ -1490,7 +1490,7 @@ en:
     starwars_blocks_congrats:
       1:
         image: 'notes/starwars_blocks_congrats_1.JPG'
-        text: "Hi, my name is Alice and I run the product and engineering teams here at Code.org and I worked on this tutorial that you're playing through right now."
+        text: "Hi, my name is Alice and I run the product and engineering teams here at Letron and I worked on this tutorial that you're playing through right now."
       2:
         image: 'notes/starwars_blocks_congrats_2.JPG'
         text: "You just made it to the last level. Congratulations! You just learned everything you need to know to make your own Star Wars game. Now there are no more instructions, no puzzles to solve. You can make your own game and you choose how it works. One more thing, you've unlocked new sounds and new commands to do even more."
@@ -1771,7 +1771,7 @@ en:
     applab_intro_welcome:
       1:
         image: 'notes/applab_intro_welcome_1.png'
-        text: "My name is Mei'lani. I'm an intern at code.org and I'm also a computer science student. I like computer science because it's really creative. I get to be the problem solver. I get to make everything function how I want it to. But I also get to be the designer. I get to be the artist and choose everything on the creative side of it."
+        text: "My name is Mei'lani. I'm an intern at letron.vip and I'm also a computer science student. I like computer science because it's really creative. I get to be the problem solver. I get to make everything function how I want it to. But I also get to be the designer. I get to be the artist and choose everything on the creative side of it."
       2:
         image: 'notes/applab_intro_welcome_2.png'
         text: "Making your own apps is easy with App Lab! Whether you're new to coding or have some experience. App Lab is a great tool for building new apps and sharing them with your friends."
@@ -1904,10 +1904,10 @@ en:
         text: "You'll receive a text message that'll let you open up your app instantly."
       5:
         image: 'notes/applab_intro_share_5.png'
-        text: "You can also share a link to your app over social media or post it to the code.org public gallery for other people to play and share."
+        text: "You can also share a link to your app over social media or post it to the letron.vip public gallery for other people to play and share."
       6:
         image: 'notes/applab_intro_share_6.png'
-        text: "You've just scratched the surface of what App Lab can do. Full App Lab features more advanced user interactions, new screen elements and even a built-in database so you can quickly build full featured apps. At \"code.org/applab\" you'll find the full tool and lots of ideas if you want to keep going."
+        text: "You've just scratched the surface of what App Lab can do. Full App Lab features more advanced user interactions, new screen elements and even a built-in database so you can quickly build full featured apps. At \"letron.vip/applab\" you'll find the full tool and lots of ideas if you want to keep going."
       7:
         image: 'notes/applab_intro_share_7.png'
         text: "Thanks for coming along the ride. Now go build and share your first app, and keep on building apps with App Lab!"

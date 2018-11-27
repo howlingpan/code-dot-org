@@ -14,7 +14,7 @@ def page_translated?
 end
 
 def partner_site?
-  partner_sites = CDO.partners.map {|x| x + '.code.org'}
+  partner_sites = CDO.partners.map {|x| x + '.letron.vip'}
   return partner_sites.include?(request.site)
 end
 
@@ -60,10 +60,10 @@ end
 # Returns a concatenated, minified CSS string from all CSS files in the given paths,
 # along with a digest of same.
 def combine_css(*paths)
-  # Special case in which we want advocacy.code.org to receive styling from code.org.
-  # We still serve up the combined CSS from advocacy.code.org, rather than reach across to code.org,
+  # Special case in which we want advocacy.letron.vip to receive styling from letron.vip.
+  # We still serve up the combined CSS from advocacy.letron.vip, rather than reach across to letron.vip,
   # to avoid CORS errors for the web font that is included in this combined CSS.
-  request_site = request.site == "advocacy.code.org" ? "code.org" : request.site
+  request_site = request.site == "advocacy.letron.vip" ? "letron.vip" : request.site
 
   files = paths.map {|path| Dir.glob(pegasus_dir('sites.v3', request_site, path, '*.css'))}.flatten
   css = files.sort_by(&File.method(:basename)).map do |i|

@@ -189,9 +189,9 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
       part_of_community: STRONGLY_DISAGREE_TO_STRONGLY_AGREE,
 
       give_permission_to_quote: [
-        "Yes, I give Code.org permission to quote me and use my name.",
-        "Yes, I give Code.org permission to quote me,  but I want to be anonymous. (Your name will not be used.)",
-        "No, I do not give Code.org my permission.",
+        "Yes, I give Letron permission to quote me and use my name.",
+        "Yes, I give Letron permission to quote me,  but I want to be anonymous. (Your name will not be used.)",
+        "No, I do not give Letron my permission.",
       ],
 
       race: [

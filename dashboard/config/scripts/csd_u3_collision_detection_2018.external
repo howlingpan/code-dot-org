@@ -15,8 +15,8 @@ The class learns about collision detection on the computer.  Pairs explore how a
 
 ## Introduced Code
 
-* [sprite.debug](//docs.code.org/gamelab/debug/)
-* [sprite.isTouching()](//docs.code.org/gamelab/isTouching/)
+* [sprite.debug](//docs.letron.vip/gamelab/debug/)
+* [sprite.isTouching()](//docs.letron.vip/gamelab/isTouching/)
 
 ## Resources
 

@@ -44,7 +44,7 @@ ru:
       2-3 Artist 9_authored_hint:
         2-3_Artist_9_a: Этот бриллиант всего лишь квадрат, повёрнутый на 45 градусов.
         2-3_Artist_9_b: Не забудь повернуть художника на 45 градусов, прежде чем он
-          начнёт рисовать квадрат! ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          начнёт рисовать квадрат! ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Помнишь, ты хочешь сделать контрольную панель на
           10 пикселей шире... так что будь уверен, что ты добавил к 10 любое число,
@@ -122,7 +122,7 @@ ru:
         2-3_Artist_Functions_4_a: Художник должен повернуться на 120 градусов между
           каждым квадратом, чтобы завершить эту задачу.
       2-3 Artist Loops New 11_authored_hint:
-        2-3_Artist_Loops_New_11_a: "Запомните, что код из последней головоломки был:![](https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+        2-3_Artist_Loops_New_11_a: "Запомните, что код из последней головоломки был:![](https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
           \nContext | Request Context"
         2-3_Artist_Loops_New_11_b: Ваш новый поворот должен идти в конце **конец**
           кода внутри цикла.
@@ -212,7 +212,7 @@ ru:
         2-3_Bee_Functions_8_a: "Если головоломка кажется сложной, то попробуйте построить
           немного функцию в то время.\nДобавьте некоторые блоки, а затем попробуйте
           его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте это
-          задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: |-
           Если головоломка кажется сложной, то попробуйте построить немного функцию в то время.
@@ -220,7 +220,7 @@ ru:
         2-3_Bee_Functions_8_b: |-
           Помните, что надо строить ваш код внутри зелёного блока функции.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Вам следует закончить код четырьмя блоками внутри цикла.
       2-3 Bee Loops 3_authored_hint:
@@ -283,7 +283,7 @@ ru:
         2-3_Maze_Loops_21_a: Если у вас проблемы с нахождением шаблона лестничного
           шага, попробуйте покрыть блокированные пути своим пальцем.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Убедитесь, что в вашем цикле художник прыгает вверх и вниз
           после каждой линии.
@@ -416,7 +416,7 @@ ru:
           **Решение**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Используйте блок "идти вперёд", вынесите его из панели в рабочую
           область и соедините его с блоком "когда идти".
@@ -436,7 +436,7 @@ ru:
         Course_4_Artist_12_d: |-
           **Решение:**
 
-          ![Image of Solution Blocks](https://images.code.org/03dfe3f862f4bdbee2a1f5865b7d9d50-image-1469641020695.png)
+          ![Image of Solution Blocks](https://images.letron.vip/03dfe3f862f4bdbee2a1f5865b7d9d50-image-1469641020695.png)
       Course 4 Artist 6_authored_hint:
         Course_4_Artist_6_a: Здесь 3 треугольника в пределах 360 градусов...сколько
           раз 3 входит в 360?
@@ -462,7 +462,7 @@ ru:
           **Решение:**
 
 
-          ![solution](https://images.code.org/b282dd6324910b7d604e24182cbbccbb-image-1469641477135.png)
+          ![solution](https://images.letron.vip/b282dd6324910b7d604e24182cbbccbb-image-1469641477135.png)
       Course 4 Artist For Loops 11_authored_hint:
         Course_4_Artist_For_Loops_11_a: "С каждой фигурой угол поворота будет меняться!
           \n\nИспользуйте математический блок для ввода 360, разделённого на число
@@ -696,7 +696,7 @@ ru:
         Function_intro_Ryan_a: Вы можете вызвать функцию в своей программе много раз!  Попробуйте
           дважды вызвать функцию, чтобы решить эту задачу.
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Видите **морские фонари** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)?
+        voyage_aquatic_10a: "Видите **морские фонари** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)?
           Окажется ли блок условия в связке с ними полезным для того, чтобы пробраться
           через океанский памятник?\n\n"
       HOC 2018 Level_9b_authored_hint:
@@ -803,7 +803,7 @@ ru:
           **Решение**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Попробуйте возвести с помощью Agent мосты, чтобы Алекс
           или Стив смогли обогнуть края карты.
@@ -864,7 +864,7 @@ ru:
           цикл «повторить» и посмотрите, удастся ли сократить код!
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: "Пересечение этих двух нажимных пластин откроет
-          путь игроку. \n![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
+          путь игроку. \n![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Используйте блок «повернуть направо», чтобы
           изменить направление движения исполнителя '
@@ -960,7 +960,7 @@ ru:
           Алекс или Стив смогли обогнуть края карты.
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: "Пересечение этих двух нажимных пластин откроет
-          путь игроку. \n![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
+          путь игроку. \n![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: Нажмите кнопку «Выполнить»! Вы можете выполнить код,
           даже если он неправильный.  Выполняйте и сбрасывайте код до тех пор, пока
@@ -997,7 +997,7 @@ ru:
           **Решение**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       New Minecraft Hero Project_authored_hint:
         MC_HOC_2017_13_Cole_a: Попробуйте возвести с помощью исполнителя мосты, чтобы
           Алекс или Стив смогли обогнуть края карты.
@@ -1325,17 +1325,17 @@ ru:
         courseE_bee_functions6_a: "Если головоломка кажется сложной, то попробуйте
           построить немного функцию в то время.\nДобавьте некоторые блоки, а затем
           попробуйте его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте
-          это задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          это задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
         courseE_bee_functions6_a: "Если головоломка кажется сложной, то попробуйте
           построить немного функцию в то время.\nДобавьте некоторые блоки, а затем
           попробуйте его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте
-          это задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          это задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
         courseE_bee_functions6_a: "Если головоломка кажется сложной, то попробуйте
           построить немного функцию в то время.\nДобавьте некоторые блоки, а затем
           попробуйте его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте
-          это задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          это задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: |-
           Если головоломка кажется сложной, то попробуйте построить немного функцию в то время.
@@ -1343,7 +1343,7 @@ ru:
         courseE_bee_functions7_b: |-
           Помните, что надо строить ваш код внутри зелёного блока функции.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: |-
           Если головоломка кажется сложной, то попробуйте построить немного функцию в то время.
@@ -1351,7 +1351,7 @@ ru:
         courseE_bee_functions7_b: |-
           Помните, что надо строить ваш код внутри зелёного блока функции.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: |-
           Если головоломка кажется сложной, то попробуйте построить немного функцию в то время.
@@ -1410,12 +1410,12 @@ ru:
         courseF_bee_functions6_a: "Если головоломка кажется сложной, то попробуйте
           построить немного функцию в то время.\nДобавьте некоторые блоки, а затем
           попробуйте его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте
-          это задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          это задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions6_2018_authored_hint:
         courseF_bee_functions6_a: "Если головоломка кажется сложной, то попробуйте
           построить немного функцию в то время.\nДобавьте некоторые блоки, а затем
           попробуйте его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте
-          это задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          это задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: |-
           Если головоломка кажется сложной, то попробуйте построить немного функцию в то время.
@@ -1626,7 +1626,7 @@ ru:
         2-3_Bee_Functions_8_a: "Если головоломка кажется сложной, то попробуйте построить
           немного функцию в то время.\nДобавьте некоторые блоки, а затем попробуйте
           его. Добавьте больше, а затем повторите попытку.  Вскоре вы пройдёте это
-          задание! \n ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          задание! \n ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: |-
           Если головоломка кажется сложной, то попробуйте построить немного функцию в то время.
@@ -1634,7 +1634,7 @@ ru:
         2-3_Bee_Functions_8_b: |-
           Помните, что надо строить ваш код внутри зелёного блока функции.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Если ты воспользуешься блоком "двигаться вперёд на 100
           пикселей" на меня, то я нарисую линию автоматически.

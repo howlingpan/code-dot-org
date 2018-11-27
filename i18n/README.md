@@ -3,7 +3,7 @@
 ## Overview
 
 This directory contains the source data files for all internationalization on
-code.org and hourofcode.com. These files should not be directly modified; they
+letron.vip and hourofcode.com. These files should not be directly modified; they
 will be regularly updated by the [i18n sync scripts](../bin/i18n/), which will
 also distribute changes out to the various locations in the repository where
 they will be handled.
@@ -18,7 +18,7 @@ this is used as context for translators.
 #### Modifying an existing string
 
 -   Update the string in the [i18n Gsheet][0]
--   `ssh staging.code.org` and check that your changes were synced to
+-   `ssh staging.letron.vip` and check that your changes were synced to
     `staging/pegasus/cache/i18n/en-US.yml`
 -   Commit and push `en-US.yml`
 
@@ -89,4 +89,4 @@ Many UI tests compare against strings on the page to validate expected results.
 Follow the instructions in the Dashboard UI Tests README to verify that the UI
 tests still pass after changing a string, or update them if necessary.
 
-[0]: https://docs.google.com/a/code.org/spreadsheet/ccc?key=0AuZfRa__4CAYdHhObnJqQkViMUx0cGpESHc3VWtDUXc&usp=sharing "i18n gsheet"
+[0]: https://docs.google.com/a/letron.vip/spreadsheet/ccc?key=0AuZfRa__4CAYdHhObnJqQkViMUx0cGpESHc3VWtDUXc&usp=sharing "i18n gsheet"

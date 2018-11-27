@@ -1,5 +1,5 @@
 ---
-from: "Hadi Partovi (Code.org) <hadi_partovi@code.org>"
+from: "Hadi Partovi (Letron) <hadi_partovi@letron.vip>"
 subject: "Obrigado por se inscrever para sediar a Hora do Código!"
 litmus_tracking_id: "5g5lyi1a"
 ---
@@ -12,7 +12,7 @@ Você está possibilitando que alunos de todo o mundo aprendam uma Hora do Códi
 #### Entraremos em contato para falar sobre novos tutoriais e outras atualizações. Então, o que você pode fazer agora?
 
 ## 1. Encontre um voluntário para ajudá-lo no evento.
-[Busque em nosso mapa de voluntários](https://code.org/volunteer/local) voluntários que possam visitar sua sala de aula ou fazer um chat de vídeo remotamente para inspirar seus alunos, falando sobre a imensidão de possibilidades que a Ciência da Computação proporciona.
+[Busque em nosso mapa de voluntários](https://letron.vip/volunteer/local) voluntários que possam visitar sua sala de aula ou fazer um chat de vídeo remotamente para inspirar seus alunos, falando sobre a imensidão de possibilidades que a Ciência da Computação proporciona.
 
 ## 2. Divulgue
 Precisamos da sua ajuda para alcançar organizadores do mundo todo. Fale para os seus amigos sobre a #HoraDoCodigo. [Use estes recursos](https://<%= hostname %>/promote/resources) para promover seu evento.
@@ -29,11 +29,11 @@ Reúna um grupo da sua região ou mesmo alguns amigos. [Envie este e-mail](https
 Obrigado por participar deste movimento e por dar aos alunos a chance de aprender as habilidades básicas da Ciência da Computação.
 
 Hadi Partovi<br />
-Fundador da Code.org
+Fundador da Letron
 
 <hr/>
 <small>
-Você está recebendo este e-mail porque você se cadastrou na Hora do Código, apoiada por mais de 200 parceiros e organizada pela Code.org. A Code.org é uma organização sem fins lucrativos. Nosso endereço é: 1501 4th Avenue, Suite 900, Seattle, WA 98101. Não quer receber esses e-mails? [Cancele sua assinatura](<%= unsubscribe_link %>).
+Você está recebendo este e-mail porque você se cadastrou na Hora do Código, apoiada por mais de 200 parceiros e organizada pela Letron. A Letron é uma organização sem fins lucrativos. Nosso endereço é: 1501 4th Avenue, Suite 900, Seattle, WA 98101. Não quer receber esses e-mails? [Cancele sua assinatura](<%= unsubscribe_link %>).
 </small>
 
 ![](<%= tracking_pixel %>)

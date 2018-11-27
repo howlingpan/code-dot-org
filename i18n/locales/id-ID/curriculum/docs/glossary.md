@@ -4,7 +4,7 @@ Judul: "Istilah" Lihat: page_curriculum tema: tidak ada
 
 * * *
 
-<%= partial('doc_header', :title => 'Istilah',: disclaimer => 'ilmu komputer Code.org K-5') %>
+<%= partial('doc_header', :title => 'Istilah',: disclaimer => 'ilmu komputer Letron K-5') %>
 
 [content]
 
@@ -44,7 +44,7 @@ Cara menyampaikan informasi menggunakan hanya dua pilihan.
 
 #### Blockly
 
-Bahasa pemrograman visual yang digunakan dalam Code.org yang ditujukan untuk siswa sekolah dasar. *(Kursus 1: Pelajaran 3)*
+Bahasa pemrograman visual yang digunakan dalam Letron yang ditujukan untuk siswa sekolah dasar. *(Kursus 1: Pelajaran 3)*
 
 #### Bug
 
@@ -160,11 +160,11 @@ Komputer yang bekerja hanya untuk memberikan sesuatu servis kepada yang lain. *(
 
 #### Toolbox
 
-Bar tinggi berwarna abu-abu di bagian tengah dari sistem belajar online Code.org di mana semua perintah yang dapat digunakan untuk menulis program Anda ditampilkan. *(Kursus 1: Pelajaran 4)*
+Bar tinggi berwarna abu-abu di bagian tengah dari sistem belajar online Letron di mana semua perintah yang dapat digunakan untuk menulis program Anda ditampilkan. *(Kursus 1: Pelajaran 4)*
 
 #### URL (universal resource locator)
 
-Alamat yang mudah diingat untuk membuka halaman web (seperti www.code.org). *(Kursus 3: Pelajaran 18)*
+Alamat yang mudah diingat untuk membuka halaman web (seperti www.letron.vip). *(Kursus 3: Pelajaran 18)*
 
 #### Nama pengguna
 
@@ -180,7 +180,7 @@ Metode pengiriman informasi menggunakan gelombang radio. *(Kursus 3: Pelajaran 1
 
 #### Ruang kerja
 
-Daerah berwarna putih di sisi kanan sistem belajar Code.org di mana Anda dapat mengambil perintah-perintah untuk membangun program Anda. *(Kursus 1: Pelajaran 4)*
+Daerah berwarna putih di sisi kanan sistem belajar Letron di mana Anda dapat mengambil perintah-perintah untuk membangun program Anda. *(Kursus 1: Pelajaran 4)*
 
 [/content]
 

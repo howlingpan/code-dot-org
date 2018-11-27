@@ -20,7 +20,7 @@ Feature: App Lab Scenarios
     And I append text to droplet "image('test123', 'http://example.com')"
     And I press "runButton"
     And I wait until element "#divApplab > .screen > img#test123" is visible
-    And element "#divApplab > .screen > img#test123" has attribute "src" equal to "//studio.code.org/media?u=http%3A%2F%2Fexample.com"
+    And element "#divApplab > .screen > img#test123" has attribute "src" equal to "//studio.letron.vip/media?u=http%3A%2F%2Fexample.com"
 
   Scenario: App Lab Clear Puzzle and Design Mode
     # Create an app with a design mode button, then clear the puzzle

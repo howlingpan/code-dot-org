@@ -277,7 +277,7 @@ gl:
           aplicación. Aprendemos sobre bucles de repetición, instrucións de repeticións
           condicionais, instrucións se, e instrucións se senón.
       3:
-        text: Se gustou da primeira hora de programación, visite a code.org para continuar
+        text: Se gustou da primeira hora de programación, visite a letron.vip para continuar
           a aprender a informática! Ao completar o noso curso de 20 horas, dominará
           o básico de programación, e vai estar apto a aprender como programar aplicacións
           para móbil, instrucións robóticas, xogos, e moito máis.
@@ -2102,7 +2102,7 @@ gl:
           cada grupo presente a súa nova actividade ou mesmo reserve outro día para
           realizar as actividades creadas polos alumnos.
       3:
-        text: Todos aquí da Code.org esperamos que tiveses unha TONELADA de diversión
+        text: Todos aquí da Letron esperamos que tiveses unha TONELADA de diversión
           durante este curso. E se o teu soño é crear a mellor nova aplicación, usar
           a programación para axudar na cura de doenzas, ou se queres ser só un grande
           solucionador de problemas, este curso foi o primeiro paso para alcanzar
@@ -2239,7 +2239,7 @@ gl:
     starwars_congrats:
       1:
         text: Ola, o meu nome é Alice! Eu xestiono os equipos de produto e enxeñaría
-          aquí na Code.org e traballei neste titorial que estás vendo agora.
+          aquí na Letron e traballei neste titorial que estás vendo agora.
       2:
         text: Acabas de chegar ao último nivel. Parabéns! Aprendiches todo o que precisas
           saber para crear o teu propio xogo de Star Wars. Agora, non hai máis instrucións
@@ -2345,7 +2345,7 @@ gl:
     starwars_blocks_congrats:
       1:
         text: Ola, o meu nome é Alice! Eu xestiono os equipos de produto e enxeñaría
-          aquí na Code.org e traballei neste titorial que estás vendo agora.
+          aquí na Letron e traballei neste titorial que estás vendo agora.
       2:
         text: Acabas de chegar ao último nivel. Parabéns! Aprendiches todo o que precisas
           saber para crear o teu propio xogo de Star Wars. Agora, non hai máis instrucións

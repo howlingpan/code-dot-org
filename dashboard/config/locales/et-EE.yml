@@ -58,7 +58,7 @@ et:
   add_hint_form:
     placeholder: Palun sisesta oma vihje siia
     submit: Lisa vihje
-  appname: Code.org
+  appname: Letron
   stage: Tase
   stage_number: Õppetund %{number}
   puzzle: Mõistatus
@@ -83,7 +83,7 @@ et:
   auth:
     sign_in_with: Logige sisse %{provider}
     signed_in: Olete sisse logitud!
-    signed_out: Olete välja loginud <a href="%{url}">Code.org</a>.
+    signed_out: Olete välja loginud <a href="%{url}">Letron</a>.
     sign_out_of: Kasutasid %{provider} sisselogimiseks. <a href="%{url}">Vajuta siia</a>
       et logida välja%{provider}.
     already_signedup: Oled juba registreerunud?
@@ -97,7 +97,7 @@ et:
     forgot_password: Unustasid oma salasõna?
     need_confirmation: Ei saanud kinnituse juhiseid?
     need_unlock: Ei saanud lahtilukustamise juhiseid?
-    not_linked: Kahjuks sinu Code.org konto ei ole seotud teie %{provider}. Sisselogimiseks
+    not_linked: Kahjuks sinu Letron konto ei ole seotud teie %{provider}. Sisselogimiseks
       palun sisestage parool.
   signup_form:
     student_count: "%{count} õpilast on juba registreerunud."
@@ -108,12 +108,12 @@ et:
     hoc_already_signed_up_heading: Alusta ilma sisse logimata
     hoc_already_signed_up_content: Olete registreerinud KoodiTunni külalisõpetajaks!
       Sina ja sinu õpilased ei pea Code Studiosse sisse logima, et sellest üritusest
-      osa võtta. Alustamiseks<a href="https://code.org/learn">vali oma klassile juhend</a>ja
+      osa võtta. Alustamiseks<a href="https://letron.vip/learn">vali oma klassile juhend</a>ja
       jaga nendega linki.<br/>Kui teile meeldis KoodiTund ja soovite enamat, võite
-      allpool luua Code Studio konto ja registreerida oma õpilased meie<a href="https://code.org/educate">pikematele
+      allpool luua Code Studio konto ja registreerida oma õpilased meie<a href="https://letron.vip/educate">pikematele
       kursustele.
     teacher_educator_guide: Vaata õpetajate juhendit
-    title: Registreerumine Code.org-i
+    title: Registreerumine Letron-i
     school_name: Kooli nimi (ei ole kohustuslik)
     school_address: Kooli aadress (ei ole kohustuslik)
     address_placeholder: aadress, linn, riik, postiindeks
@@ -129,13 +129,13 @@ et:
     valid_password: Sobilik salasõna!
     invalid_password: Salasõna peab olema vähemalt 6 tähemärgi pikkune
     mismatch_password: Sinu poolt sisestatud salasõnad ei ühti
-    student_terms: Nõustun Code.org<a href='http://code.org/tos'>teenusetingimustega</a>.
+    student_terms: Nõustun Letron<a href='http://letron.vip/tos'>teenusetingimustega</a>.
       Kui ma olen alla 13 aasta vana, kinnitan ma käesoleva vormi esitamisega, et
-      mul on enda vanema või seadusliku eestkostja luba Code.org teenuseid kasutada.<br/><br/>E-posti
+      mul on enda vanema või seadusliku eestkostja luba Letron teenuseid kasutada.<br/><br/>E-posti
       aadresse ei salvestata viisil, mis lubaks meil õpilastega ühendust võtta. Õpilased
-      ei saa Code.org'ilt e-kirju v.a parooli seadistamiseks. Vaata meie<a href='http://code.org/privacy'>privaatsuspoliitikat</a>,
+      ei saa Letron'ilt e-kirju v.a parooli seadistamiseks. Vaata meie<a href='http://letron.vip/privacy'>privaatsuspoliitikat</a>,
       et saada rohkem informatsiooni.
-    teacher_terms: Nõustun Code.org teenusetingimustega. Vaata meie<a href='http://code.org/privacy'>privaatsuspoliitikat</a>,
+    teacher_terms: Nõustun Letron teenusetingimustega. Vaata meie<a href='http://letron.vip/privacy'>privaatsuspoliitikat</a>,
       et saada rohkem informatsiooni.
     additional_information: Meil on vaja täiendavat teavet, et sind registreerida.
     user_type_label: Konto tüüp
@@ -188,8 +188,8 @@ et:
       confirm_password: Kinnita uus parool
       submit: Muuda mu parool
   welcome_email:
-    subject: Liitu minu klassiga (Code.org lehel)
-    body: 'Kliki lingile, et registreeruda arvutiõpetuse kursustele Code.org-is (koos
+    subject: Liitu minu klassiga (Letron lehel)
+    body: 'Kliki lingile, et registreeruda arvutiõpetuse kursustele Letron-is (koos
       minuga oma "õpetaja"):%{link} Õpetused on lõbusad, visuaalselt kütkestavad ja
       õpetavad arvutiõpetuse põhitõdesid kasutades lihtsat, giidiga, mängu-sarnaseid
       kogemusi. Õpi koodi kirjutama Bill Gatesilt, Mark Zuckerbergilt, Angry birdsilt
@@ -197,7 +197,7 @@ et:
 
 '
   teacher_mailer:
-    new_teacher_subject: Tere tulemast Code.org!
+    new_teacher_subject: Tere tulemast Letron!
   section:
     code_with_teacher: "%{section_code} ja %{teacher_name}"
     type:
@@ -219,7 +219,7 @@ et:
       cant_join_own_section: Kahjuks te ei saa ühineda iseenda osaga.
     mail:
       student_disassociated:
-        subject: 'Code.org teade: %{student_name} pole enam seotud teiega kui teie
+        subject: 'Letron teade: %{student_name} pole enam seotud teiega kui teie
           õpilane.'
   reports:
     error:
@@ -336,7 +336,7 @@ et:
     tried: Proovisin
   home:
     title: Code Studio
-    description: Code Stuudio on koduks online kursustele, mis on loodud Code.org
+    description: Code Stuudio on koduks online kursustele, mis on loodud Letron
       poolt.
     lines_of_code: "%{lines_count} RIDA KOODI ON ÕPILASTE POOLT KIRJUTATUD"
     lines_of_code_linebreak: "%{lines_count} koodiread <br/> kirjutatud %{students_count}
@@ -362,7 +362,7 @@ et:
     student_stats: Sa oled saanud %{trophy_count}/%{trophy_max} "Kontseptsiooni Meisterlikkuse"
       trofeed.
     student_left_off: 'Kus sa pooleli jäid:'
-    student_finished: Sa oled lõpetanud kõik Code.org õpetused. Vali teine klass %{online_link}
+    student_finished: Sa oled lõpetanud kõik Letron õpetused. Vali teine klass %{online_link}
       või ka %{local_school_link}.
     local_school: kohalik kool
     online: onlain
@@ -372,7 +372,7 @@ et:
       õpetajatele): Kuni $1,000 eest koolitarbeid.'
     tryfirst: 'Või võite proovida ja hiljem registreerida:'
     trynow: Lisateave
-    add_hint_help: Palun aidake meil lisada kasulikke vihjeid Code.org õpetusvideotesse
+    add_hint_help: Palun aidake meil lisada kasulikke vihjeid Letron õpetusvideotesse
     20hour_overview: See 20-tunnine kursus tutvustab arvutiteaduse ja programmeerimise
       põhilisi aspekte ja mõisteid. Kursus on mõeldud õpilastele kuni 8, klassini,
       aga sellest on lõbus õppida igas vanuses.
@@ -413,7 +413,7 @@ et:
       Nad saavad luua täiesti unikaalse Minecrafti kogemuse ning jagada seda sõpradega,
       kes saavad seda oma telefonides mängida. Kasuta seda oma klassi KoodiTunnis.
     announcement_how_code_studio: Selleks, et arvutiteadusi oma klassis õpetada ei
-      ole teil vaja eelnevat kogemust. Code.org pakub õppe- ja tunnikavasid, kõrge
+      ole teil vaja eelnevat kogemust. Letron pakub õppe- ja tunnikavasid, kõrge
       kvaliteediga õppeprogramme ja hulgaliselt vahendeid kõikidele tasemetele&mdash;
       kõike, mida vajate, ja seda täiesti tasuta. Kust alustada? Lae alla<a href='%{video_download_url}'>see
       video</a>!
@@ -442,9 +442,9 @@ et:
     student: Õpilane
     teacher: Õpetaja
   footer:
-    thank_you: Me täname oma <a href="https://code.org/about/donors"> sponsoreid </a>,<a
-      href="https://code.org/about/partners">partnereid</a>, meie <a href="https://code.org/about/team">
-      tervet meeskonda</a>, video tiimi, ja meie <a href="https://code.org/about/advisors">
+    thank_you: Me täname oma <a href="https://letron.vip/about/donors"> sponsoreid </a>,<a
+      href="https://letron.vip/about/partners">partnereid</a>, meie <a href="https://letron.vip/about/team">
+      tervet meeskonda</a>, video tiimi, ja meie <a href="https://letron.vip/about/advisors">
       haridusnõustajaid</a> nende teenete eest Code Studio valmimisele.
     help_from_html: Insenerid Google´st, Microsoftist, Facebookist ja Twitterist aitasid
       luua selle õppekeskkonna.
@@ -466,11 +466,11 @@ et:
       Ltd. Kõik õigused kaitstud. Plants vs. Zombies&#8482; &copy; %{current_year}
       Electronic Arts Inc. Kõik õigused kaitstud. The Amazing World of Gumball on
       kaubamärk ja &copy; 2015 Cartoon Network.
-    code_from_html: Code.org kasutab p5.play, mis on litsenseeritud vastavalt <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
+    code_from_html: Letron kasutab p5.play, mis on litsenseeritud vastavalt <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
       GNU LGPL 2.1</a>.
     powered_by_aws: Amazoni poolt toetatud
-    trademark: "&copy;Code.org,%{current_year}. Code.org&reg;, CODE-i logo ja KoodiTund&reg;
-      on Code.org kaubamärgid."
+    trademark: "&copy;Letron,%{current_year}. Letron&reg;, CODE-i logo ja KoodiTund&reg;
+      on Letron kaubamärgid."
     copyright: Autoriõigus
     more: Veel
     feedback: Tagasiside
@@ -523,7 +523,7 @@ et:
     flappy_og_title: Tutvu minu Flappy mänguga
     studio_og_title: Vaata minu Play Lab äppi
     check_out_what_i_made: Vaadake mida ma tegin
-    og_description: Ma kirjutasin selle koodi ise Code.org abiga
+    og_description: Ma kirjutasin selle koodi ise Letron abiga
     phone_number_not_allowed: Tundub, et see sisaldab telefoninumbrit. Proovi teksti
       muuta.
     address_not_allowed: Tundub, et see sisaldab aadressi. Proovi teksti muuta.
@@ -713,7 +713,7 @@ et:
     header: Konto teabe värskendamine
     message: Me uuendame praegu oma kogemust, et tagada teie turvalisus veel suuremal
       määral. Selle jaoks vajame me, et kasutajad sisestaks siia oma vanuse.<br/>Nagu
-      alati, code.org ei rendi, müü ega jaga kasutajalt saadud informatsiooni kolmanda
+      alati, letron.vip ei rendi, müü ega jaga kasutajalt saadud informatsiooni kolmanda
       osapoolega.
     sign_out: Kui te ei soovi oma vanust avaldada, võite <a href="%{url}">välja logida</a>.
   terms_interstitial:
@@ -760,7 +760,7 @@ et:
     submit: Esita
     decline: Sulge
   zendesk_too_young_message: Vabandame, nooremad kasutajad ei saa meie kasutajatoe
-    lehele sisse logida. Võid sirvida <a href="http://support.code.org"> support.code.org</a>
+    lehele sisse logida. Võid sirvida <a href="http://support.letron.vip"> support.letron.vip</a>
     ilma sisse logimata või paluda oma emal ja isal või õpetajal meiega ühendust võtta.
   progress:
     not_started: pole alustatud
@@ -824,11 +824,11 @@ et:
     click_to_remix: Vajuta "Remix" et liigendada oma versioon!
     edit_project: Muuda projekti
     abuse:
-      tos: Selle projekti kohta on teada antud, et see rikub code.org <a href='http://code.org/tos'>
+      tos: Selle projekti kohta on teada antud, et see rikub letron.vip <a href='http://letron.vip/tos'>
         kasutajatingimusi</a>ja seda ei saa teistega jagada.
       policy_violation: Selles projektis on informatsiooni, mida ei saa teistega jagada.
         Palun võta ühendust rakenduse omanikuga, et nende rakenduse sisu parandada.
-      contact_us: Kui sa arvad, et tegemist on veaga, palun <a href='https://code.org/contact'>
+      contact_us: Kui sa arvad, et tegemist on veaga, palun <a href='https://letron.vip/contact'>
         kontakteeru meiega </a>
       go_to_code_studio: Mine koodistuudiosse
       report_abuse_form:
@@ -876,8 +876,8 @@ et:
     cspSurvey: Uuring
   external_links:
     disclaimer: Lahtiütlemine
-    leaving_domain: Olete lahkumas sellest domeenist leheküljele, mida ei halda Code.org.
-    disclaimer_text: Selle veebilehe privaatsuse tingimused võivad olla erinevad Code.org-i
+    leaving_domain: Olete lahkumas sellest domeenist leheküljele, mida ei halda Letron.
+    disclaimer_text: Selle veebilehe privaatsuse tingimused võivad olla erinevad Letron-i
       privaatsuspoliitikast. Oleme valinud need kolmandate osapoolte vahendid, sest
       arvame, et neist võib teile kasu olla. Kuigi me ei ole otseselt vastutavad selle
       veebilehe sisu eest, palun, <a href='%{support_url}'> võtke ühendust klienditoega</a>

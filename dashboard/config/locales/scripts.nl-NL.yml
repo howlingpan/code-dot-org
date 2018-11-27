@@ -320,9 +320,9 @@ nl:
         algebrademo:
           title: Algebra Demo
           description: Een handvol puzzels om de programmeertaal en omgeving te tonen
-            die gebruikt is in Code.org CS in Algebra
+            die gebruikt is in Letron CS in Algebra
           description_short: Een handvol puzzels om de programmeertaal en omgeving
-            te tonen die gebruikt is in Code.org CS in Algebra
+            te tonen die gebruikt is in Letron CS in Algebra
           stages:
             Defining Simple Functions:
               name: Eenvoudige functies definiëren

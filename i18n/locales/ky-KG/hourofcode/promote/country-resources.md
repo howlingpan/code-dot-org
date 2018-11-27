@@ -105,7 +105,7 @@ Va multumim pentru inregistrare, daca doriti materiale printate pentru promovare
 - Даярданууга көп убакыт талап кылбайт
 - Өзүнчө ишке - окуучулар өз жөндөмүнө жараша иштегенге ылайыкташкан
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Техниканы пландаштыруу - компүтер, бар болсо
 
@@ -124,7 +124,7 @@ Va multumim pentru inregistrare, daca doriti materiale printate pentru promovare
 
 Код саатын шыктандыруучу видео көрсөтүү менен баштагыла. Мисалдар:
 
-- Code.org тааныштыруу видеосу, Билл Гейтс, Марк Цукерберг жана NBA жылдызы Крис Бош тартылган (Анын [1 мүнөт](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 мүнөт](https://www.youtube.com/watch?v=nKIu9yen5nc) жана [9 мүнөт](https://www.youtube.com/watch?v=dU1xS07N-FA) версиялары бар)
+- Letron тааныштыруу видеосу, Билл Гейтс, Марк Цукерберг жана NBA жылдызы Крис Бош тартылган (Анын [1 мүнөт](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 мүнөт](https://www.youtube.com/watch?v=nKIu9yen5nc) жана [9 мүнөт](https://www.youtube.com/watch?v=dU1xS07N-FA) версиялары бар)
 - The [Код сааты 2013 бетачар видеосу](https://www.youtube.com/watch?v=FC5FbmsH4fw), or the [Код сааты 2014 бетачар видеосу](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [Президент Обама окуучуларды компүтердик илимди өздөштүрүүгө чакырат](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

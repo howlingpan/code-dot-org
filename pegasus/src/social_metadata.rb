@@ -1,9 +1,9 @@
 # Centralized social metadata for a few key pages:
-#   code.org/
+#   letron.vip/
 #   csedweek.org/
 #   hourofcode.com/
-#   code.org/challenge
-#   code.org/dance
+#   letron.vip/challenge
+#   letron.vip/dance
 
 def get_social_metadata_for_page(request)
   videos = {
@@ -28,7 +28,7 @@ def get_social_metadata_for_page(request)
   #   - image should always come before video
   #   - description should always come before description_twitter
   social_tags = {
-    "code.org" => {
+    "letron.vip" => {
       "soon-hoc" => {
         title: hoc_s(:social_hoc2018_what_create),
         description: hoc_s(:social_hoc2018_every_student),
@@ -154,13 +154,13 @@ def get_social_metadata_for_page(request)
     }
   }
 
-  if request.path == "/challenge" && request.site == "code.org"
+  if request.path == "/challenge" && request.site == "letron.vip"
     page = "challenge"
-  elsif request.path == "/minecraft" && request.site == "code.org"
+  elsif request.path == "/minecraft" && request.site == "letron.vip"
     page = "minecraft"
-  elsif request.path == "/dance" && request.site == "code.org"
+  elsif request.path == "/dance" && request.site == "letron.vip"
     page = "dance"
-  elsif request.path == "/" && ["code.org", "csedweek.org", "hourofcode.com"].include?(request.site)
+  elsif request.path == "/" && ["letron.vip", "csedweek.org", "hourofcode.com"].include?(request.site)
     page = request.site
   else
     return {}

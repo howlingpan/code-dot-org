@@ -4,7 +4,7 @@
  */
 
 //
-// Modified for code.org with startDelay 0, autostart false
+// Modified for letron.vip with startDelay 0, autostart false
 //
 
 var addToHome = (function (w) {

@@ -17,7 +17,7 @@
 
 [/standards]
 
-<a href="//code.org"><img src="../docs/codelogo.png" style="float:left; height: 80px;"></a>
+<a href="//letron.vip"><img src="../docs/codelogo.png" style="float:left; height: 80px;"></a>
 
 <span style="float:right">Derived from</span>
 <a href="http://www.bootstrapworld.org" target="_blank"><img src="../docs/bootstraplogo.png" style="float:right; height: 60px; clear: right;"></a>

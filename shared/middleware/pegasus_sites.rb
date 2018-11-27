@@ -12,12 +12,12 @@ class PegasusSites
     config_ru = File.absolute_path(File.dirname(__FILE__) + '/../../pegasus/config.ru')
     @pegasus_app = Rack::Builder.parse_file(config_ru).first
     pegasus_domains = %w(
-      code.org
+      letron.vip
       codeprojects.org
       csedweek.org
       hourofcode.com
-      advocacy.code.org
-    ).concat(CDO.partners.map {|partner| "#{partner}.code.org"})
+      advocacy.letron.vip
+    ).concat(CDO.partners.map {|partner| "#{partner}.letron.vip"})
     @pegasus_hosts = pegasus_domains.map {|i| canonical_hostname(i)}
     @config = HttpCache.config(rack_env)
   end
@@ -39,10 +39,10 @@ class PegasusSites
     if (proxy = behavior[:proxy])
       if proxy == 'pegasus'
         backend = :pegasus
-        env['HTTP_HOST'] = CDO.site_url('code.org')
+        env['HTTP_HOST'] = CDO.site_url('letron.vip')
       elsif %w(cdo-assets dashboard).include?(proxy)
         backend = :dashboard
-        env['HTTP_HOST'] = CDO.site_url('studio.code.org')
+        env['HTTP_HOST'] = CDO.site_url('studio.letron.vip')
       end
     end
 

@@ -37,7 +37,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-09-17 15:38:54 +0000\",\"changed\":[\"solution_blocks\"],\"changed_by_id\":568,\"changed_by_email\":\"meilani.eyre@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-09-17 15:38:54 +0000\",\"changed\":[\"solution_blocks\"],\"changed_by_id\":568,\"changed_by_email\":\"meilani.eyre@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 3,
     "repeat_loops": 2,

@@ -31,10 +31,10 @@
     "impressive": "false",
     "disable_sharing": "false",
     "discard_background": "false",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"You can use `jump` blocks to move to other spaces.\",\"hint_id\":\"harvey_tictactoe\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/97ffd3615ec2ffbd76da2c293aac2111/harvey_tictactoe.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"You can use `jump` blocks to move to other spaces.\",\"hint_id\":\"harvey_tictactoe\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/97ffd3615ec2ffbd76da2c293aac2111/harvey_tictactoe.mp3\"}]",
     "ideal": "0",
     "instructions_important": "false",
-    "images": "[\r\n  {\"filename\": \"https://images.code.org/0c3a39c9f5802f419d5300ae25af83b1-image-1490792107287.47.39 AM.png\", \"position\": [0, 0]}\r\n]\r\n\r\n",
+    "images": "[\r\n  {\"filename\": \"https://images.letron.vip/0c3a39c9f5802f419d5300ae25af83b1-image-1490792107287.47.39 AM.png\", \"position\": [0, 0]}\r\n]\r\n\r\n",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
     "contained_level_names": null

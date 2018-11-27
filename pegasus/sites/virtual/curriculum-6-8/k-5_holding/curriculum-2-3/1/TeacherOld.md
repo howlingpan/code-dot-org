@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/2-3/1/Teacher.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/2-3/1/Teacher.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>1, :unittitle=>'Grades 2-3', :lesson=>1, :title=> 'Graph Paper Programming', :time=>60, :days=>1) %>

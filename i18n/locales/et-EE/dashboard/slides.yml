@@ -175,7 +175,7 @@ et:
       2:
         text: "Põhimõisted, mida sa kasutasid, on iga programmi või rakenduse südames, mida sa eales proovid. Me õppisime silmuste, \"korda kuni\" lausete, \"kui\" lausete ja \"kui muidu\" lausete kohta."
       3:
-        text: "Kui sulle meeldis su esimene kooditund, külasta code.org veebilehte, et jätkata oma haridust arvutiteaduses. Kui sa läbid meie 20 tunnise kursuse, oled õppinud selgeks programmeerimise põhialused ja saad hakata õppima kuidas kirjutada telefonirakendusi, robotite juhiseid, mänge ja palju muud."
+        text: "Kui sulle meeldis su esimene kooditund, külasta letron.vip veebilehte, et jätkata oma haridust arvutiteaduses. Kui sa läbid meie 20 tunnise kursuse, oled õppinud selgeks programmeerimise põhialused ja saad hakata õppima kuidas kirjutada telefonirakendusi, robotite juhiseid, mänge ja palju muud."
       4:
         text: "Tehnoloogia muudab kõike, mida teeme ja pole oluline, kas oled noor või vana: programmeerimine on lõbus, see on loov ja igaüks saab seda õppida!"
     20_wrapup:
@@ -922,7 +922,7 @@ et:
       2:
         text: "Arutlege klassi või väikeste rühmadega lemmikõppetundisest. Kui heidate pilgu tagasi õpitule, saab õpilaste loovus särada. Jagage nad rühmadesse ja laske neil koostada ise oma arvutivaba õppetund. Andke igale rühmale põhikontseptsioon (nt funktsioonid või algoritmid) ja andke nende käsutusse hulgaliselt käsitöömaterjale. Laske igal rühmal oma tööd esitleda või varuge veel üks päev õpilaste loodud õppetundide läbiviimiseks."
       3:
-        text: "Code.org-i meeskond loodab, et sul oli kursuse jooksul väga tore. Kas sinu unistuseks on luua parim uus rakendus, kasutada programmeerimist haiguste ravimiseks või saada hiilgavaks probleemide lahendajaks, oli see kursus esimeseks sammuks nende unistuste täitumisel."
+        text: "Letron-i meeskond loodab, et sul oli kursuse jooksul väga tore. Kas sinu unistuseks on luua parim uus rakendus, kasutada programmeerimist haiguste ravimiseks või saada hiilgavaks probleemide lahendajaks, oli see kursus esimeseks sammuks nende unistuste täitumisel."
     starwars_intro:
       1:
         text: "Tere! Mina olen Kathleen Kennedy, filmi „Tähtede sõda: Jõud tärkab“ produtsent. Täna töötan koos ühe meie staari BB-8-ga. BB-8 on kerakujuline droid. Kõiki tema tegusid ja liigutusi kontrollib arvuti tarkvara. Arvutiteadus puudutab iga tööstusharu turundusest kuni tervishoiu ja filmini. Filmi „Jõud tärkab“ kallal töötasid sajad arvutiinsenerid."
@@ -980,7 +980,7 @@ et:
         text: "Selle asemel, et droidi kontrolliv kood eelnevalt valmis kirjutada, saame lasta R2-D2-l reageerida nupuvajutuse sündmustele, mis teda ekraanil ringi liigutavad. Sinu mäng muutub samm-sammult järjest interaktiivsemaks."
     starwars_congrats:
       1:
-        text: "Tere! Minu nimi on Alice ja mina juhin Code.org-i projekteerimis- ja ehitusmeeskondi. Ma töötasin ka selle õpikuga, mida sa praegu läbi mängid."
+        text: "Tere! Minu nimi on Alice ja mina juhin Letron-i projekteerimis- ja ehitusmeeskondi. Ma töötasin ka selle õpikuga, mida sa praegu läbi mängid."
       2:
         text: "Jõudsid viimasele tasemele. Soovin õnne! Sa omandasid kõik vajalikud teadmised, et luua ise päris oma Tähtede sõja mäng. Rohkem juhiseid ega puslesid pole. Nüüd saad luua oma mängu ja valida, kuidas see töötab. Veel üks asi. Sa avasid uued helid ja käsud, mis võimaldavad veelgi enamat."
       3:
@@ -1027,7 +1027,7 @@ et:
         text: "Sinu mäng muutub samm-sammult järjest interaktiivsemaks."
     starwars_blocks_congrats:
       1:
-        text: "Tere! Minu nimi on Alice ja mina juhin Code.org-i projekteerimis- ja ehitusmeeskondi. Ma töötasin ka selle õpikuga, mida sa praegu läbi mängid."
+        text: "Tere! Minu nimi on Alice ja mina juhin Letron-i projekteerimis- ja ehitusmeeskondi. Ma töötasin ka selle õpikuga, mida sa praegu läbi mängid."
       2:
         text: "Jõudsid viimasele tasemele. Soovin õnne! Sa omandasid kõik vajalikud teadmised, et luua ise päris oma Tähtede sõja mäng. Rohkem juhiseid ega puslesid pole. Nüüd saad luua oma mängu ja valida, kuidas see töötab. Veel üks asi. Sa avasid uued helid ja käsud, mis võimaldavad veelgi enamat."
       3:

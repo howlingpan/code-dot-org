@@ -40,7 +40,7 @@ REPEAT 3 TIMES
 markdown <<MARKDOWN
 You write a procedure DrawCircle(x, y, r) to draw a circle on the coordinate grid. The center of the circle is located at coordinate (x, y) and has a radius of r units. You want to use the procedure to draw the image as shown below. 
 
-<br><img src="https://curriculum.code.org/media/uploads/csp/f83fde39225ea815c1ac2706c10b517f" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/f83fde39225ea815c1ac2706c10b517f" width="300"><br>
 
 Which of the following code segments can be used to draw the figure?
 MARKDOWN

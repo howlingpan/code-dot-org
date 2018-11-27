@@ -17,9 +17,9 @@ th:
       unconfirmed: คุณต้องยืนยันบัญชีของคุณก่อนที่จะดำเนินการต่อ.
     mailer:
       confirmation_instructions:
-        subject: ขั้นตอนในการยืนยันของ Code.org
+        subject: ขั้นตอนในการยืนยันของ Letron
       reset_password_instructions:
-        subject: ขั้นตอนในการติดตั้งรหัสผ่านอีกครั้งหนึ่ง ของ Code.org
+        subject: ขั้นตอนในการติดตั้งรหัสผ่านอีกครั้งหนึ่ง ของ Letron
       unlock_instructions:
         subject: คำสั่งปลดล็อก
     omniauth_callbacks:

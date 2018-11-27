@@ -44,8 +44,8 @@ lesson = DB[:cdo_lessons].where(id_s:lesson_id).first
 - [Videogame Design Template](../docs/worksheets/game_planning.pdf) (in the student workbook)
 
 ### For the Teacher
-- [Lesson slide deck](https://docs.google.com/a/code.org/presentation/d/1DF3XNkI4yellzRJL8ItqZU546UT9BaXWeKY7AmI0gsc/)
-- [Example Game](http://studio.code.org/s/algebra/stage/1/puzzle/2/)
+- [Lesson slide deck](https://docs.google.com/a/letron.vip/presentation/d/1DF3XNkI4yellzRJL8ItqZU546UT9BaXWeKY7AmI0gsc/)
+- [Example Game](http://studio.letron.vip/s/algebra/stage/1/puzzle/2/)
 - Printed cutouts of the [Ninja](ninja.png), [Dragon](dragon.png), and [Unicorn](unicorn.png)
 
 [/together]
@@ -63,7 +63,7 @@ This lesson has three new and important words:<br/>
 - **Sprite** - a graphic character on the screen.  Sometimes called a bitmap or an image.
 
 ### <a name="GetStarted"></a> 2) Learning a Language
-Welcome to Code.org CS in Algebra! In this course you’ll be learning a new programming language - a way to tell computers exactly what you want them to do. Just like English, Spanish or French, a programming language has its own vocabulary and grammar that you’ll have to learn. Fortunately, the language you’ll be using here has a lot in common with the simple math that you already know!
+Welcome to Letron CS in Algebra! In this course you’ll be learning a new programming language - a way to tell computers exactly what you want them to do. Just like English, Spanish or French, a programming language has its own vocabulary and grammar that you’ll have to learn. Fortunately, the language you’ll be using here has a lot in common with the simple math that you already know!
 
 _Connect this material with things students already know:_
 
@@ -85,7 +85,7 @@ A mathematical expression is like a sentence: it’s an instruction for doing so
 ## Activities:
 ### <a name="Activity1"></a> 3) Reverse Engineer a Demo
 
-Let’s begin by exploring a simple video game, and then figuring out how it works. Open [this link](http://studio.code.org/s/algebra/stage/1/puzzle/2/) to play the game, and spend a minute or two exploring it. You can use the arrow keys to move the up and down - try to catch the unicorn and avoid the dragon!
+Let’s begin by exploring a simple video game, and then figuring out how it works. Open [this link](http://studio.letron.vip/s/algebra/stage/1/puzzle/2/) to play the game, and spend a minute or two exploring it. You can use the arrow keys to move the up and down - try to catch the unicorn and avoid the dragon!
 
 This game is made up of characters, each of which has its own behavior. The unicorn moves from the left to the right, while the dragon moves in the opposite direction. The ninja only moves when you hit the arrow keys, and can move up and down. We can figure out how the game works by first understanding how each character works.
 
@@ -161,7 +161,7 @@ The structure of your students' games will very closely resemble the demo they'v
 ## Assessment
 ### <a name="Assessment"></a>6) Video Games and Coordinate Planes Assessment
 
-Visit [CS in Algebra Stage 1](http://studio.code.org/s/algebra/stage/1/puzzle/1) in Code Studio to complete the assessments.
+Visit [CS in Algebra Stage 1](http://studio.letron.vip/s/algebra/stage/1/puzzle/1) in Code Studio to complete the assessments.
 -->
 
 [/together]

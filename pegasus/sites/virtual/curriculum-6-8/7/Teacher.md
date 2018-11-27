@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/k-1.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/k-1.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>1, :unittitle=>'A Bit of Everything', :lesson=>1, :title=> 'Sending Bits', :time=>50, :days=>1) %>

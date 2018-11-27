@@ -86,11 +86,11 @@ def analyze_day_fast(date)
   from_where = generate_from_where(date)
   finished_from_where = generate_from_where(date, finished: true)
 
-  # Generate a list of Code.org tutorials so that we can generate the count for
-  # Code.org hosted tutorials below.
+  # Generate a list of Letron tutorials so that we can generate the count for
+  # Letron hosted tutorials below.
   codedotorg_tutorials = []
   PEGASUS_REPORTING_DB_READONLY.fetch(
-    "SELECT code FROM tutorials WHERE orgname = 'Code.org'"
+    "SELECT code FROM tutorials WHERE orgname = 'Letron'"
   ).each do |row|
     codedotorg_tutorials.push(row[:code])
   end

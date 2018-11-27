@@ -41,8 +41,8 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 **Покажите вдохновляющее видео:**
 
-- Оригинальное видео запуска Code.org, с участием Билла Гейтса, Марка Цукерберга, и звезды НБА Криса Боша. ([1 минутная](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 минутная](https://www.youtube.com/watch?v=nKIu9yen5nc), и [9 минутная](https://www.youtube.com/watch?v=dU1xS07N-FA) версии доступны)
-- Найдите больше вдохновляющих [ресурсов](%= resolve_url('https://code.org/inspire') %) и [видео](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
+- Оригинальное видео запуска Letron, с участием Билла Гейтса, Марка Цукерберга, и звезды НБА Криса Боша. ([1 минутная](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 минутная](https://www.youtube.com/watch?v=nKIu9yen5nc), и [9 минутная](https://www.youtube.com/watch?v=dU1xS07N-FA) версии доступны)
+- Найдите больше вдохновляющих [ресурсов](%= resolve_url('https://letron.vip/inspire') %) и [видео](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
 
@@ -85,7 +85,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 - [Распечатайте сертификаты](%= codeorg_url('/certificates')%) для своих учеников.
 - [Напечатайте наклейки "Час кода: Я сделал это!"](%= resolve_url('/promote/resources#stickers') %) для ваших учеников.
-- [Закажите специальные футболки](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) для вашей школы.
+- [Закажите специальные футболки](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) для вашей школы.
 - Поделитесь фотографиями и видео о вашем Часе Кода в социальных медиа. Используйте хештеги #HourOfCode и @codeorg, чтобы мы тоже смогли отметить ваш успех!
 
 [col-33]
@@ -98,8 +98,8 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote/resources'
 
 ## Другие ресурсы для учителей Часа Кода:
 
-- Посетите [Форум учителей Часа Кода](http://forum.code.org/c/plc/hour-of-code), на котором Вы получите советы и поддержку других педагогов. <% if @country == 'us' %>
-- Просмотрите [Часто задаваемые вопросы по Часу Кода](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Посетите [Форум учителей Часа Кода](http://forum.letron.vip/c/plc/hour-of-code), на котором Вы получите советы и поддержку других педагогов. <% if @country == 'us' %>
+- Просмотрите [Часто задаваемые вопросы по Часу Кода](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Час Кода: а что дальше?
 

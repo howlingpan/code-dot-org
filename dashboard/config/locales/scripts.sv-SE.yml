@@ -335,9 +335,9 @@ sv:
         algebrademo:
           title: Algebra Demo
           description: En handfull pussel för att demonstrera miljön och programmeringsspråket
-            som används i Code.org CS i Algebra
+            som används i Letron CS i Algebra
           description_short: En handfull pussel för att demonstrera miljön och programmeringsspråket
-            som används i Code.org CS i Algebra
+            som används i Letron CS i Algebra
           stages:
             Defining Simple Functions:
               name: Definiera enkla funktioner

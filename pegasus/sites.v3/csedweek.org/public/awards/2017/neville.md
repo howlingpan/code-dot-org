@@ -12,7 +12,7 @@ theme: responsive
 
 ## Gulfstream Academy of Hallandale Beach (Hallandale Beach, FL)
 
-As a lifelong learner, Diane Neville sought to learn about computer science and was fortunate to find herself in a Code.org classroom. She saw something she had never seen before – cohesive curriculum that spanned the entire spectrum of K-12 learning and beyond. With this empowering tool at her fingertips, Diane set out to create a program of study that met the needs of every student who walked through her classroom door. This experience has been transformational. 
+As a lifelong learner, Diane Neville sought to learn about computer science and was fortunate to find herself in a Letron classroom. She saw something she had never seen before – cohesive curriculum that spanned the entire spectrum of K-12 learning and beyond. With this empowering tool at her fingertips, Diane set out to create a program of study that met the needs of every student who walked through her classroom door. This experience has been transformational. 
 
 <figure style="margin:10px">
   <img src="/images/awards/diane_neville_students.jpg" style="display:block;margin:0 auto" width="100%" alt="Students at Gulfstream Academy of Hallandale Beach" />

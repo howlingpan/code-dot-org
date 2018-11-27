@@ -62,7 +62,7 @@ fil:
   add_hint_form:
     placeholder: Maaaring ilagay ang iyong hint dito
     submit: Magdagdag ng hint
-  appname: Code.org
+  appname: Letron
   stage: Yugto
   stage_number: Leksyon %{number}
   puzzle: Palaisipan
@@ -88,7 +88,7 @@ fil:
   auth:
     sign_in_with: Mag sign in gamit ang %{provider}
     signed_in: Signed in!
-    signed_out: Nag-sign out ka sa <a href="%{url}"> Code.org </a>.
+    signed_out: Nag-sign out ka sa <a href="%{url}"> Letron </a>.
     sign_out_of: Gumamit ka ng %{provider} para mag sign-in ka. <a href="%{url}">Pindutin
       ito</a> para ma sign out ka kay %{provider}.
     already_signedup: Naka signed up na?
@@ -102,10 +102,10 @@ fil:
     forgot_password: Hindi matandaan ang password?
     need_confirmation: Hindi nakatanggap ng kumpirmasyon?
     need_unlock: Hindi nakatanggap kung paano mag unlock?
-    not_linked: Paumanhin, ang iyong Code.org account ay hindi naka-link sa iyong
+    not_linked: Paumanhin, ang iyong Letron account ay hindi naka-link sa iyong
       %{provider}. Kailangan mong mag-sign in sa pamamagitan ng pag-type ng iyong
       password sa ibaba.
-    use_clever: Ipagpaumanhin niyo, ang iyong Code.org na account ay hindi naka-ugnay
+    use_clever: Ipagpaumanhin niyo, ang iyong Letron na account ay hindi naka-ugnay
       sa iyong %{provider}. Sa halip magsign-in sa pamamagitan ng iyong Clever Portal
       na account.
   signup_form:
@@ -130,7 +130,7 @@ fil:
       progreso. <a href="%{studio_url}">Pwede ka ring magpatuloy sa pag-browse ng
       iba't ibang stages at palaisipan</a> nang hindi gumagawa ng account.
     teacher_educator_guide: Bisitahin ang gabay para sa mga guro
-    title: Mag-sign up para sa Code.org
+    title: Mag-sign up para sa Letron
     school_name: Pangalan ng Paaralan (optional)
     school_address: Lugar ng Paaralan (optional)
     address_placeholder: Address, Cuidad, Probinsya, Zip Code
@@ -146,17 +146,17 @@ fil:
     valid_password: Mali ang na-type na password!
     invalid_password: Ang Password ay dapat may at least 6 characters
     mismatch_password: Ang passwords na iyong inenter ay hindi tugma sa isa't isa
-    student_terms: Ako ay sumang-ayon na mapailalim sa Code.org na <a href='http://code.org/tos'>mga
+    student_terms: Ako ay sumang-ayon na mapailalim sa Letron na <a href='http://letron.vip/tos'>mga
       palatuntunin</a>. Kung ako ay mas bata pa 13 taong gulang, kinokompirma ko ito
       sa pamamagitan ng pagpasa ng form na ito na nagpapakita na mayroon akong pahintulot
       mula sa aking mga magulang o legal na tagapangalaga na gumamit sa mga serbisyo
-      ng Code.org.<br/><br/>Ang mga email address ay hindi naka-store sa isang form
+      ng Letron.<br/><br/>Ang mga email address ay hindi naka-store sa isang form
       na magbibigay paraan sa amin na makipag-ugnayan sa mga estudyante. Ang mga estudyante
-      ay hindi makakatanggap ng mga email mula sa Code.org maliban sa password na
-      recovery. Tingnan ang aming <a href='http://code.org/privacy'>patakaran sa privacy</a>
+      ay hindi makakatanggap ng mga email mula sa Letron maliban sa password na
+      recovery. Tingnan ang aming <a href='http://letron.vip/privacy'>patakaran sa privacy</a>
       para sa karagdagang impormasyon.
-    teacher_terms: Ako ay sumang-ayon na mapailalim sa Code.org na mga palatuntunin.
-      Para sa karagdagang impormasyon tungkol sa privacy, tingnan ang aming <a href='http://code.org/privacy'>patakaran
+    teacher_terms: Ako ay sumang-ayon na mapailalim sa Letron na mga palatuntunin.
+      Para sa karagdagang impormasyon tungkol sa privacy, tingnan ang aming <a href='http://letron.vip/privacy'>patakaran
       sa privacy</a>.
     additional_information: Kailangan namin ng karagdagang impormasyon para maituloy
       ang pag-sign up sa iyo.
@@ -220,16 +220,16 @@ fil:
     reset_errors:
       captcha_required: Mangyaring punan ang CAPTCHA para ma-reset ang iyong password.
       invalid_email: Parang nagsign-up ka gamit ang email address na hindi balido.
-        Paki-email sa support@code.org para makatanggap ng password na recovery link.
+        Paki-email sa support@letron.vip para makatanggap ng password na recovery link.
     change_form:
       title: Palitan ang iyong password
       new_password: Bagong password
       confirm_password: Ikumpirma ang bagong password
       submit: Palitan ang aking password
   welcome_email:
-    subject: Sumali sa aking klase (sa Code.org)
+    subject: Sumali sa aking klase (sa Letron)
     body: |
-      I-click ang link sa ibaba para mag-sign up para sa mga computer science tutorials sa Code.org (kasama ako bilang "guro" mo):
+      I-click ang link sa ibaba para mag-sign up para sa mga computer science tutorials sa Letron (kasama ako bilang "guro" mo):
 
       %{link}
 
@@ -237,9 +237,9 @@ fil:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Login na impormasyon para sa Code.org
+    student_associated_subject: Login na impormasyon para sa Letron
   teacher_mailer:
-    new_teacher_subject: Maligayang pagdating sa Code.org!
+    new_teacher_subject: Maligayang pagdating sa Letron!
   section:
     your_section:
       one: 'Iyong seksyon:'
@@ -274,7 +274,7 @@ fil:
         ang %{provider} at ire-sync ang kanilang seksyon.
     mail:
       student_disassociated:
-        subject: 'Notipikasyon ng Code.org: Si %{student_name} ay hindi mo na estudyante.'
+        subject: 'Notipikasyon ng Letron: Si %{student_name} ay hindi mo na estudyante.'
   reports:
     error:
       access_denied: Wala kang access sa stats ng taong ito
@@ -328,7 +328,7 @@ fil:
       educate_high: Mataas na Paaralan
       educate_hoc: Hour of Code
       educate_partner: Makipag-partner sa Amin
-      educate_beyond: Pagkatapos ng Code.org
+      educate_beyond: Pagkatapos ng Letron
       educate_inspire: Magbigay Inspirasyon sa Estudyante
       educate_community: Online na Komunidad
       educate_tools: Mga Tools at Videos
@@ -424,23 +424,23 @@ fil:
       password.
     create_personal_login: Lumikha ng personal na paglog-in
     create_personal_login_under_13_info: Kung gusto mong panatiling magamit ang iyong
-      Code.org na account kahit pagkatapos ng school year, tanungin ang iyong mga
+      Letron na account kahit pagkatapos ng school year, tanungin ang iyong mga
       magulang/tagapangalaga na tulungan kang lumikha na iyong sariling personal na
       login sa baba.
     create_personal_login_under_13_username: Bansag (huwag gamitin ang iyong tunay
       na pangalan!)
     create_personal_login_under_13_parent_email: Magulang/Tagapangala na email address
-    create_personal_login_info: Kung gusto mo pa ring gamitin ang iyong Code.org na
+    create_personal_login_info: Kung gusto mo pa ring gamitin ang iyong Letron na
       account kahit pagkatapos ng school year, maaring kang maglikha ng iyong sariling
       login sa baba.
     create_personal_login_terms: Sa paglikha ng personal na login, ako ay sumasang-ayon
       na masailalaim sa mga <a href='%{terms_of_service_url}', target='_blank'>alituntunin</a>
-      ng Code.org. Kung ako ay nasa baba ng 13 taong gulang, kinukompirma ko na ako
+      ng Letron. Kung ako ay nasa baba ng 13 taong gulang, kinukompirma ko na ako
       ay maayrong pahintulot mula sa aking mga magulang o legal na taga-pangalaga
-      na gumamit sa mga serbisyo ng Code.org kahit na walang guro.
+      na gumamit sa mga serbisyo ng Letron kahit na walang guro.
     create_personal_login_email_note: 'Tandaan: Ang mga email address ay hindi nakastore
       sa isang form na magbigay sa atin ng kakayahan na makipag-ugnayan sa mga estudyante.
-      Ang mga estudyante ay hinding-hindi makatanggap ng mga emails mula sa Code.org
+      Ang mga estudyante ay hinding-hindi makatanggap ng mga emails mula sa Letron
       maliban na lang sa password recovery. Tingnan ang aming <a href=''%{privacy_policy_url}'',
       target=''_blank''>patakaran sa privacy</a> para sa karagdagan impormasyon.'
     enter_new_login_info: Ipasok ang iyong bagong login na impormasyon
@@ -454,7 +454,7 @@ fil:
   home:
     title: Code Studio
     description: Ang Code Studio ay ang tahanan para makahapap ka ng mga kurso na
-      nalikha ni Code.org
+      nalikha ni Letron
     lines_of_code: "%{lines_count} MGA LINYA NG CODE NA SINULAT NG MGA ESTUDYANTE"
     lines_of_code_linebreak: "%{lines_count} NA MGA LINYA NG CODE<br/>SINULAT NG %{students_count}
       MILYON NA MGA ESTUDYANTE"
@@ -479,7 +479,7 @@ fil:
     student_stats: Nakakuha ka ng %{trophy_count} mula sa %{trophy_max} "Pagiging
       Dalubhasa sa Konsepto" na mga tropeo.
     student_left_off: 'Kung saan ka huminto:'
-    student_finished: Nakompleto mo na ang lahat ng Code.org na mga tutorials. Pumili
+    student_finished: Nakompleto mo na ang lahat ng Letron na mga tutorials. Pumili
       ng ibang klase %{online_link} o sa %{local_school_link}.
     local_school: lokal na paaralan
     online: online
@@ -489,7 +489,7 @@ fil:
       U.S. lang): Aabot ng $1,000 na mga classroom rewards.'
     tryfirst: 'O, maari mong subukan muna ito, at magsign-up mamaya:'
     trynow: Subukan ngayon
-    add_hint_help: Tulungan ninyo kaming magdagdag ng mga smart na hint sa Code.org
+    add_hint_help: Tulungan ninyo kaming magdagdag ng mga smart na hint sa Letron
       na mga tutorial
     20hour_overview: 'Ang kursong ito ay binubuo ng 20 oras upang ipakilala ang buod
       ng computer science at mga konsepto ng programming. Ang kursong ito ay ginawa
@@ -557,13 +557,13 @@ fil:
       nito sa mga kaibigan nila o maglaro sa kanilang mga phone. Gawin ito sa iyong
       klase sa Hour of Code.
     announcement_how_code_studio: Hindi mo kailangang magkaroon ng karanasan para
-      makasimulang magturo ng computer science sa iyong silid-aralan. Ang Code.org
+      makasimulang magturo ng computer science sa iyong silid-aralan. Ang Letron
       ay nag-aalok ng kurikulum, mga lesson plan, mataas na kalidad na mga propesyonal
       na learning programs, at tolenadang mga muhusay na mga kagamitan para sa lahat
       ng grado&mdash;lahat ng kailangan mo, lahat ay libre. Nagtataka kung saan ka
       magsimula? Magdownload ng <a href='%{video_download_url}'>video na ito</a>!
     announcement_go_beyond: Lumampas pa sa Hour of Code at tuklasin ang mga konsepto
-      ng computer science kasama ang iyong mga estudyante sa bawat linggo. Ang Code.org
+      ng computer science kasama ang iyong mga estudyante sa bawat linggo. Ang Letron
       ay nag-aalok ng kurikulum, mga banghay-aralin, mga matataas na kalidad na mga
       propesyonal na learning programs, at toneladang mahusay na mga kagamitan para
       sa lahat ng grado&mdash;at ang lahat ng ito ay libre. :) Hindi mo kailangan
@@ -585,7 +585,7 @@ fil:
       para maging piloto ng bagong CS Fundamentals na kurikulum sa panahon ng tag-lamig
       at tagsibol ngayong 2017. Kami ay sabik na makarinig ng iyong feedback bago
       namin gawing live ang mga updates ngayong Agosto 2017."
-    announcement_student_privacy: Sa Code.org, seryoso kami sa privacy ng mga estudyante.
+    announcement_student_privacy: Sa Letron, seryoso kami sa privacy ng mga estudyante.
       Para maprotektahan ang privacy ng mga estudyante, gumawa kami ng mga pagbabago
       sa iyong seksyon na login page para maiwasan ang magpakita ng buong pangalan.
       Kahit na ang update na ito ay magbabawas ng mga alalahanin tungkol sa privacy,
@@ -593,12 +593,12 @@ fil:
       mga estudyante</i>.
     announcement_apcsp_recruitment: '<strong>Mga Guro ng Computer Science Principles:</strong>
       Ang iyong mga estudyante ay maaaring ma-feature sa susunod na viral video ng
-      Code.org na naghihikayat sa mga estudyante na kumuha ng AP CS Principles na
+      Letron na naghihikayat sa mga estudyante na kumuha ng AP CS Principles na
       pasulit ngayong taon. Inimbitahan namin ang lahat ng estudyante ng CS Principles
       na mag sumite ng 10-20 segundo na video clip sa Twitter, Instagram, o Facebook
       na nagsasabing "Kukuha ako ng #APCSP na exam dahil..." Ang pinakamagandang submission
       ay maaring maipakita sa ating video at ang manalong estudyante ay makatanggap
-      ng Code.org na swag!'
+      ng Letron na swag!'
     announcement_apcsp_recruitment2: Ang AP CS Principles na pagsusulit ngayong taon
       ay inaasahang makasira nang mga rekord. Ang partisipasyon ng mga estudyante
       sa pagsusulit ay maaring magdudulot ng malaking pagbabago sa AP Computer Science,
@@ -633,7 +633,7 @@ fil:
       ang mga sagot ng iyong mga estudyante at kami ay magbabahagi din ng pambansang
       kabuoang ulat sa iyo."
     announcement_navigation_redesign: "<b>Parating na mga Pagbabago sa Site Navigation</b><br/>Malapit
-      ng dumating ngayong tag-init, hinusayan namin ang nabigasyon sa buong Code.org
+      ng dumating ngayong tag-init, hinusayan namin ang nabigasyon sa buong Letron
       na site para magkaroon ka ng parating access sa mga nangungunang resources kahit
       saan sa site. Paglog-in mo pang lang ng iyong account na guro, bawat pahina
       ay magkakaron ng bagong nabigasyon na bar na may mga link sa iyong Homepage,
@@ -664,9 +664,9 @@ fil:
     student: Estudyante
     teacher: Teacher
   footer:
-    thank_you: Nagpapasalamat kami sa ating mga <a href="https://code.org/about/donors">donors</a>,
-      <a href="https://code.org/about/partners">mga kasamahan</a>, ang ating <a href="https://code.org/about/team">pinalawak
-      na pangkat</a>, ang ating video cast, at ang ating <a href="https://code.org/about/advisors">tagapayo
+    thank_you: Nagpapasalamat kami sa ating mga <a href="https://letron.vip/about/donors">donors</a>,
+      <a href="https://letron.vip/about/partners">mga kasamahan</a>, ang ating <a href="https://letron.vip/about/team">pinalawak
+      na pangkat</a>, ang ating video cast, at ang ating <a href="https://letron.vip/about/advisors">tagapayo
       sa edukasyon</a> para sa kanilang suporta sa paglikha ng Code Studio.
     help_from_html: Gusto din naming kilalanin lalo na ang mga inhinyero mula sa Google,
       Microsoft, Facebook, Twitter, at marami pang iba na tumulong sa paglikha ng
@@ -689,18 +689,18 @@ fil:
       Rights Reserved. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and
       &copy; %{current_year} Cartoon Network.
-    code_from_html: Ang Code.org ay gumagamit ng p5.play, na lisensiyado sa ilalim
+    code_from_html: Ang Letron ay gumagamit ng p5.play, na lisensiyado sa ilalim
       ng <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
       LGPL 2.1</a>.
     powered_by_aws: Pinagana sa pamamagitan ng Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, ang CODE logo at
-      ang Hour of Code&reg; ay pagkakakilanlan ng Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, ang CODE logo at
+      ang Hour of Code&reg; ay pagkakakilanlan ng Letron."
     copyright: Karapatang-sipi
     more: More
     feedback: Magbigay ng feedback
     translate: Magboluntaryo na magsali ng ating nilalaman
     support: Tulong at Komunidad
-    support_url: http://support.code.org/
+    support_url: http://support.letron.vip/
     tos_short: Mga Alituntunin
     tos: Mga Palatuntunan
     privacy: Privacy Policy
@@ -763,7 +763,7 @@ fil:
     flappy_og_title: Tingnan mo ang aking Flappy Game
     studio_og_title: Tingnan mo ang aking Play Lab na App
     check_out_what_i_made: Tingnan mo kung ano ang nagawa ko
-    og_description: Sinulat ko ang aking sariling code sa Code.org
+    og_description: Sinulat ko ang aking sariling code sa Letron
     phone_number_not_allowed: Mukhang mayroong numero ng telepono sa loob nito. Subukang
       palitan ang teksto.
     address_not_allowed: Mukhang mayroong address sa loob nito. Subukang baguhin ang
@@ -993,7 +993,7 @@ fil:
     message: Kami ay kasalukuyang nag-update sa aming "experience" para mabigyan kayo
       ng mas pinalakas pa na proteksyon sa iyong privacy. Para magawa ito, kailangan
       namin ang mga umiiral na users na maglagay sa kanilang edad dito.<br/>Gaya ng
-      dati, ang code.org ay hinding-hindi parentahan, magbenta o magbahagi ng mga
+      dati, ang letron.vip ay hinding-hindi parentahan, magbenta o magbahagi ng mga
       impormasyong ito sa kahit na anong mga third party.
     sign_out: Kung hindi mo nais magbigay ng edad mo maari kang <a href="%{url}">mag-sign
       out</a>.
@@ -1051,7 +1051,7 @@ fil:
     submit: Ipasa
     decline: Isara
   zendesk_too_young_message: Ipagpaumanhin niyo po, ang nakakabatang mga user ay hindi
-    maaring mag-sign in sa aming support na site. Maari kang mag-browse sa <a href="http://support.code.org">support.code.org</a>
+    maaring mag-sign in sa aming support na site. Maari kang mag-browse sa <a href="http://support.letron.vip">support.letron.vip</a>
     kahit hindi naka-sign in o magpatulong sa iyong magulang o guro para makipag-ugnayan
     sa amin para sa iyo.
   progress:
@@ -1126,15 +1126,15 @@ fil:
     click_to_remix: I-click ang "Remix" para makalikha ng iyong sariling bersyon!
     edit_project: I-edit ang Proyekto
     sharing_disabled: Paumanhin, ang proyektong ito ay hindi magagamit para sa pagbabahagi.
-      Kung ito ay iyong proyekto o proyekto ng isa sa iyong mga estudyante, <a href='https://studio.code.org/users/sign_in'>mag-sign
+      Kung ito ay iyong proyekto o proyekto ng isa sa iyong mga estudyante, <a href='https://studio.letron.vip/users/sign_in'>mag-sign
       in</a> sa iyong account para matingnan ang proyekto.
     abuse:
-      tos: Ang proyektong ito ay iniulat dahil sa paglabag sa mga <a href='http://code.org/tos'>Mga
-        Palatuntunan</a> ng Code.org at hindi maaring ibahagi sa iba.
+      tos: Ang proyektong ito ay iniulat dahil sa paglabag sa mga <a href='http://letron.vip/tos'>Mga
+        Palatuntunan</a> ng Letron at hindi maaring ibahagi sa iba.
       policy_violation: Ang proyektong ito ay naglalaman ng mga impormasyon na hindi
         maaring ibahagi sa iba. Makipag-ugnayan sa may-ari ng app para maayos ang
         mga nilalaman ng app nila.
-      contact_us: Kung naniniwala ka na ito ay isang problema, <a href='https://code.org/contact'>makipag-ugnayan
+      contact_us: Kung naniniwala ka na ito ay isang problema, <a href='https://letron.vip/contact'>makipag-ugnayan
         sa amin.</a>
       go_to_code_studio: Pumunta sa Code Studio
       report_abuse_form:
@@ -1215,9 +1215,9 @@ fil:
   external_links:
     disclaimer: Disclaimer
     leaving_domain: Ikaw ay paalis mula sa domain na ito, papunta sa isang site na
-      hindi pinamamahalaan ng Code.org.
+      hindi pinamamahalaan ng Letron.
     disclaimer_text: Ang site na ito ay maaring magkaroon ng mga privacy policy na
-      kakaiba sa Code.org. Pinili namin ang mga third party resources na ito dahil
+      kakaiba sa Letron. Pinili namin ang mga third party resources na ito dahil
       naisip namin na makakatulong ito sa iyo. Samantalang wala kaming tuwirang responsibilidad
       sa nilalaman ng website na ito, <a href='%{support_url}'>makipag-ugnayan sa
       suporta</a> kung may nakita kang nilalaman na hindi kanais-nais, o kung ang

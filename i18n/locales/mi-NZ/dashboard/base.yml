@@ -45,7 +45,7 @@ mi:
   add_hint_form:
     placeholder: 'Tēnā tāurutia tō tīwhiri i konei'
     submit: 'Tāpiri tīwhiri'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "Taumata"
   stage_number: "Taumata %{number}"
   puzzle: "Panga"
@@ -69,7 +69,7 @@ mi:
   auth:
     sign_in_with: 'Takiuru me %{provider}'
     signed_in: 'Kua takiuru atu!'
-    signed_out: 'Kua puta koe i <a <a href="%{url}">Code.org</a>.'
+    signed_out: 'Kua puta koe i <a <a href="%{url}">Letron</a>.'
     sign_out_of: 'I uru atu koe mā %{provider}.<a href="%{url}">Pāwhiritia i konei</a>ki te puta i %{provider}.'
     already_signedup: 'Kua waitohuniga kētia?'
     notyet_signedup: "Kāore anō kia hono?"
@@ -86,7 +86,7 @@ mi:
     teacher_count: '%{count} ngā pouako kua waitohu kē.'
     overview: 'Waitohungia kia whiwhi pūkete kia āhei koe te whai i tō kauneketanga, ki te whakahaere rānei i tō akomanga. <a href="/"> E āhei ana koe ki te tirotiro ki ngā taumata rerekē me ngā panga </a>, heoi anō, me mātua waitohu kia āhei hoki koe tō kauneketanga me o tūmahi te tiaki.'
     hoc_already_signed_up_heading: 'Tīmataria me te kore takitaki'
-    hoc_already_signed_up_content: 'Kua uru koe ki te whakaako i tētahi Hour of Code! Me takiuru koutou ko ō ākonga ki Code Studio ka whai wāhi ai. Kia tīmata<a href="https://code.org/learn"> kōwhiritia tētahi whakaakoranga</a> mō tō akomanga kātahi me tiritiri i te honongaitua ki a rātou.<br/><br/>Me i ngahau te Hour of Code mōu, ā, e hiahia ana koe ki te haere tonu, e whakaae ana kia tautuhia e koe tētahi kupuhipa me te whakarite i tētahi pūkete ki raro iho nei kia pai ai tō whakauru i ō ākonga ki tētahi o ā mātou <a href="https://code.org/educate"> whakaakoanga roa</a>.'
+    hoc_already_signed_up_content: 'Kua uru koe ki te whakaako i tētahi Hour of Code! Me takiuru koutou ko ō ākonga ki Code Studio ka whai wāhi ai. Kia tīmata<a href="https://letron.vip/learn"> kōwhiritia tētahi whakaakoranga</a> mō tō akomanga kātahi me tiritiri i te honongaitua ki a rātou.<br/><br/>Me i ngahau te Hour of Code mōu, ā, e hiahia ana koe ki te haere tonu, e whakaae ana kia tautuhia e koe tētahi kupuhipa me te whakarite i tētahi pūkete ki raro iho nei kia pai ai tō whakauru i ō ākonga ki tētahi o ā mātou <a href="https://letron.vip/educate"> whakaakoanga roa</a>.'
     teacher_educator_guide: 'Tirohia te aratohu kaiwhakaako'
     title: "Waitohu mō Core.org"
     school_name: 'Ingoa Kura (kei a koe te kōwhiringa)'
@@ -104,8 +104,8 @@ mi:
     valid_password: "Kupuhipa whai mana!"
     invalid_password: "Me kaua tō kupuhipa e iti ake i te 6 pūāhua"
     mismatch_password: "He rerekē ngā kupuhipa e rua kua whakaurua e koe"
-    student_terms: "E whakaae ana ahau ki ngā here o Code.org <a href='http://code.org/tos'> ngā ture ratonga</a>. Mehemea he tamariki ake ahau i te 13 tau, e whakaū ana ahau mā te tāpae i tēnei puka kua whakaaetia taku whakamahi i ngā ratonga o Code.org e tētahi o ōku mātua, tōku kaitiaki ā-ture rānei.<br/><br/>Kāore ngā wāhitau īmēra e tiakina ana i tētahi hanga nā reira ka āhei ana mātou ki te whakapā atu ki ngā ākonga. E kore rawa ngā ākonga e whiwhi īmēra i Code.org hāunga atu i ērā mō te whakaora kupuhipa. Tēnā tirohia tā mātou <a href='http://code.org/privacy'>kaupapahere tūmataitinga</a>mō ētahi mōhiohio anō."
-    teacher_terms: "E whakaae ana ahau ki ngā here o ngā ture ratonga o Code.org. Tirohia tā mātou <a href='http://code.org/privacy'> kaupapahere tūmataitinga</a> mō ētahi mōhiohio anō mō te tūmataititanga."
+    student_terms: "E whakaae ana ahau ki ngā here o Letron <a href='http://letron.vip/tos'> ngā ture ratonga</a>. Mehemea he tamariki ake ahau i te 13 tau, e whakaū ana ahau mā te tāpae i tēnei puka kua whakaaetia taku whakamahi i ngā ratonga o Letron e tētahi o ōku mātua, tōku kaitiaki ā-ture rānei.<br/><br/>Kāore ngā wāhitau īmēra e tiakina ana i tētahi hanga nā reira ka āhei ana mātou ki te whakapā atu ki ngā ākonga. E kore rawa ngā ākonga e whiwhi īmēra i Letron hāunga atu i ērā mō te whakaora kupuhipa. Tēnā tirohia tā mātou <a href='http://letron.vip/privacy'>kaupapahere tūmataitinga</a>mō ētahi mōhiohio anō."
+    teacher_terms: "E whakaae ana ahau ki ngā here o ngā ture ratonga o Letron. Tirohia tā mātou <a href='http://letron.vip/privacy'> kaupapahere tūmataitinga</a> mō ētahi mōhiohio anō mō te tūmataititanga."
     additional_information: "Me whiwhi mātou ki ētahi mōhiohio anō kia āhei tonu tō waitohu mai."
     user_type_label: "Momo Pūkete"
     field_is_required: "me mātua"
@@ -142,9 +142,9 @@ mi:
       confirm_password: 'Whakaūngia te kupuhipa hou'
       submit: 'Panonihia taku kupuhipa'
   welcome_email:
-    subject: 'Whakapiri mai ki taku akomanga (ki Code.org)'
+    subject: 'Whakapiri mai ki taku akomanga (ki Letron)'
     body: |
-      Pāwhiritia te honongaitua kei raro iho nei ki te uru ki ngā whakaakoranga pūtaiao rorohiko kei Code.org (ko au hei "pouako" mōu):
+      Pāwhiritia te honongaitua kei raro iho nei ki te uru ki ngā whakaakoranga pūtaiao rorohiko kei Letron (ko au hei "pouako" mōu):
       
       %{link}
       
@@ -168,7 +168,7 @@ mi:
       cant_join_own_section: "Kia manawanui mai, tē taea e koe te hono atu ki tō wāhanga ake."
     mail:
       student_disassociated:
-        subject: "Whakamōhiotanga Code.org: Kāore a %{student_name} e whai hononga hei ākonga mōu ināianei."
+        subject: "Whakamōhiotanga Letron: Kāore a %{student_name} e whai hononga hei ākonga mōu ināianei."
   reports:
     error:
       access_denied: "Kāore i a koe te mana titiro ki ngā tatauranga o tēnei tangata"
@@ -264,7 +264,7 @@ mi:
     tried: 'Kua ngana'
   home:
     title: "Taiwhanga Waehere"
-    description: 'Ko Code Studio te kāinga mō ngā akoranga tuihono nā Code.org i waihanga'
+    description: 'Ko Code Studio te kāinga mō ngā akoranga tuihono nā Letron i waihanga'
     lines_of_code: "%{lines_count} RĀRANGI WAEHERE I TUHIA E NGĀ ĀKONGA"
     lines_of_code_linebreak: "%{lines_count} RĀRANGI WAEHERE <br/>I TUHIA E NGĀ ĀKONGA %{students_count} MIRIONA"
     all_courses: "Tirohanga Whānui o ngā Akoranga 1, 2, me te 3"
@@ -283,7 +283,7 @@ mi:
     student_progress: Tō kauneketanga ako
     student_stats: Kua riro i a koe e %{trophy_count} i te %{trophy_max} o ngā tohu mau "Concept Mastery".
     student_left_off: 'Te wāhi i wehe ai koe:'
-    student_finished: Kua oti i a koe te katoa o ngā whakaaronga Code.org. Tēnā whiriwhiria he akomanga anō ki %{online_link} ki tētahi %{local_school_link} rānei.
+    student_finished: Kua oti i a koe te katoa o ngā whakaaronga Letron. Tēnā whiriwhiria he akomanga anō ki %{online_link} ki tētahi %{local_school_link} rānei.
     local_school: kura ā-takiwā
     online: tuihono
     see_details: Tirohia ngā taipitopito
@@ -291,7 +291,7 @@ mi:
     prize_info: 'Ngā whakawhiwhinga mō te whaiwāhitanga (Mā ngā pouako ki ngā kura tūmatanui U.S. anake): Tae atu ki te $1000 whakawhiwhinga ā-akomanga.'
     tryfirst: 'Māna, ka whakamātauria i te tuatahi, kātahi ka waitohu ā tōna wā:'
     trynow: 'Ngana ināianei'
-    add_hint_help: 'Tēnā āwhinatia mātou ki te tāpiri i ngā tīwhiri hāpai ki ngā whakaakoranga Code.org'
+    add_hint_help: 'Tēnā āwhinatia mātou ki te tāpiri i ngā tīwhiri hāpai ki ngā whakaakoranga Letron'
     20hour_overview: 'Ka whakatakina e tēnei whakaakoranga 20 haora te roa, ngā ariā pūtake o te pūtaiao rorohiko me te papatono. E hāngai ana mō te hunga e ako ana i te koeke K-8 i te akomanga, heoi anō, he ngahau mā te katoa ahakoa te pakeke.'
     test_videos_help: 'Whakamātauria tā mātou pūrere ataata hou ki tō kura'
     try_beta_courses: 'Hou! Whakamātauria ā mātou whakaaronga peta mā ngā ākonga K-5'
@@ -314,7 +314,7 @@ mi:
     announcement_all: "Tirohia tā mātou rangitaki pouako kia mōhio ai koe ki ngā āhuahira me ngā whakahoutanga.<a href='%{teacher_blog_url}' target='_blank'>Tirohia ngā whakapāohotanga o mua.</a>"
     announcement_hoc_launch: "Hei te 5-11 o tēnei Hakihea i te wiki Hour of Code, ka tīmataria te whakaako pūtaiao rorohiko e te manomano pouako nō ngā whenua 180 neke atu. Ko koutou hei pou whirinaki mō mātou kia whānui ake te toro atu ki ngā tini ākonga. <a href='%{signup_url}' target='_blank'> Rēhitatia mai tō takunetanga Hour of Code</a>, kātahi ka whakamōhiotia tētahi atu pouako, ka taea te whakaako mātauranga rorohiko te tangata ahakoa ko wai."
     announcement_mc_launch: "Kua whai tānga tuarua tētahi o ā mātou whakaakoranga i tino pīrangitia! E wātea ana ngā ākonga i te tānga hou nei, i Hour of Code Hoahoa Mahimaina, ki te whakatakoto i ngā ture o te ao Mahimaina. E āhei ana rātou ki te waihanga i tētahi wheako Mahimaina motuhake ka tiritiria ai ki ō rātou hoa, ka tākaro rānei ki ō rātou waea. Mahia atu me tō akomanga mō Hour of Code."
-    announcement_how_code_studio: "Ehara i te mea me tangata mōhio koe ki te pūtaiao rorohiko e āhei ai koe ki te whakaako i tō akomanga. He marau, he mahere ako, he akoranga ngaio kounga, me ētahi tini rauemi ka whakaratoa e Code.org mō ngā taumata ako katoa &mdash; ngā mea katoa kei te hiahiatia, ā, he utu kore. E whakaaro ana koe ki hea tīmata ai? Tikina ake <a href='%{video_download_url}'>tēnei ataata</a>!"
+    announcement_how_code_studio: "Ehara i te mea me tangata mōhio koe ki te pūtaiao rorohiko e āhei ai koe ki te whakaako i tō akomanga. He marau, he mahere ako, he akoranga ngaio kounga, me ētahi tini rauemi ka whakaratoa e Letron mō ngā taumata ako katoa &mdash; ngā mea katoa kei te hiahiatia, ā, he utu kore. E whakaaro ana koe ki hea tīmata ai? Tikina ake <a href='%{video_download_url}'>tēnei ataata</a>!"
   move_students:
     new_section_dne: "Kia manawanui mai, kāore tēnei wāhanga %{new_section_code}. Tēnā whakaurua he waehere wāhanga rerekē."
     section_code_cant_be_current_section: "Kāore e whakaae ana kia rite tonu te wāhanga onāianei ki te wāhanga hou."
@@ -332,14 +332,14 @@ mi:
     female: 'Wahine'
     none: 'Kāore i te hiahia kia uruparetia'
   footer:
-    thank_you: 'Ka whakamihia o mātou <a href="https://code.org/about/donors">kaituku</a>, <a href="https://code.org/about/partners">hoa mahi</a>, tā mātou <a href="https://code.org/about/team"> tīma whānui</a>, ngā kaiataata me ā mātou <a href="https://code.org/about/advisors">kaitaunaki marau</a>mō tā rātou i tuku mai ai ki te hanga i te Code Studio.'
+    thank_you: 'Ka whakamihia o mātou <a href="https://letron.vip/about/donors">kaituku</a>, <a href="https://letron.vip/about/partners">hoa mahi</a>, tā mātou <a href="https://letron.vip/about/team"> tīma whānui</a>, ngā kaiataata me ā mātou <a href="https://letron.vip/about/advisors">kaitaunaki marau</a>mō tā rātou i tuku mai ai ki te hanga i te Code Studio.'
     help_from_html: 'E tino hiahia ana mātou ki te whakanui i ngā kaipūkaha nō Google, Microsoft, Pukamata, Tīhau, me te tini tāngata i tua atu, i tautoko i te hanganga o ēnei rauemi.'
     help_from_html_old: 'Nā ngā kaipūkaha nō Google, Microsoft, Pukamata me Tīhau i tautoko ki te hanga i ēnei rauemi.'
     art_from_html: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Kua Rāhuitia ngā Mōtika Katoa.<br />Star Wars&#8482; &copy; %{current_year} Disney me Lucasfilm. Kua Rāhuitia ngā Mōtika Katoa.<br />Frozen&#8482; &copy; %{current_year} Disney. Kua Rāhuitia ngā Mōtika Katoa.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. Kua Rāhuitia ngā Mōtika Katoa.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Kua Rāhuitia ngā Mōtika Katoa.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Kua Rāhuitia ngā Mōtika Katoa.<br />He tohu waitohu te The Amazing World of Gumball &copy; %{current_year} me Cartoon Network.'
     art_from_html_old: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Kua Rāhuitia ngā Mōtika Katoa. Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. Kua Rāhuitia ngā Mōtika Katoa. Frozen&#8482; &copy; %{current_year} Disney. Kua Rāhuitia ngā Mōtika Katoa. Ice Age&#8482; &copy; %{current_year} 20th Century Fox. Kua Rāhuitia ngā Mōtika Katoa. Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Kua Rāhuitia ngā Mōtika Katoa. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Kua Rāhuitia ngā Mōtika Katoa. He tohu waitohu te The Amazing World of Gumball is trademark me &copy; %{current_year} Cartoon Network.'
-    code_from_html: 'Ka whakamahi a Code.org i te p5.play, he mea whai raihana i raro i <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">te GNU LGPL 2.1</a>.'
+    code_from_html: 'Ka whakamahi a Letron i te p5.play, he mea whai raihana i raro i <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">te GNU LGPL 2.1</a>.'
     powered_by_aws: 'He mea whakahiko e Ratonga Tukutuku Amazon'
-    trademark: 'He moko te &copy; Code. org, %{current_year}. Code. org&reg; te tohu CODE me Hour of Code&reg; o Code.org.'
+    trademark: 'He moko te &copy; Code. org, %{current_year}. Code. org&reg; te tohu CODE me Hour of Code&reg; o Letron.'
     copyright: 'Manatārua'
     feedback: 'Tuku urupare'
     translate: 'Āwhinatia mātou ki te whakamāori ki tō reo'
@@ -386,7 +386,7 @@ mi:
     flappy_og_title: "Tirohia taku Kēmu Flappy"
     studio_og_title: "Tirohia taku Taupānga Taiwhanga Tākaro"
     check_out_what_i_made: "Tirohia tāku i hanga ai"
-    og_description: "Nāku anō te waehere i tuhi me Code.org"
+    og_description: "Nāku anō te waehere i tuhi me Letron"
     phone_number_not_allowed: "Te āhua nei he tau waea kei roto. Me ngana ki te panoni i te kuputuhi."
     address_not_allowed: "Te āhua nei he wāhitau kei roto. Me ngana ki te panoni i te kuputuhi."
     email_not_allowed: "Te āhua nei he wāhitau īmēra kei roto. Me ngana ki te panoni i te kuputuhi."
@@ -538,7 +538,7 @@ mi:
   age_interstitial:
     age: Tō pakeke
     header: Whakahoutanga Mōhiohio Pūkete
-    message: "E whakahoungia ana tō mātou āheinga kia kaha ake ai ngā parenga tūmataitinga mōu. E āhei ai mātou te pēnei, me whakauru ngā kaiwhakamahi onāianei ō rātou pakeke i konei.<br/>He rite tonu tā code.org kore rēti, hoko atu, tiri rānei i ngā mōhiohio nei ki tētahi hunga-tuatoru."
+    message: "E whakahoungia ana tō mātou āheinga kia kaha ake ai ngā parenga tūmataitinga mōu. E āhei ai mātou te pēnei, me whakauru ngā kaiwhakamahi onāianei ō rātou pakeke i konei.<br/>He rite tonu tā letron.vip kore rēti, hoko atu, tiri rānei i ngā mōhiohio nei ki tētahi hunga-tuatoru."
     sign_out: 'Mēnā kāore koe i te hiahia ki te whakarato i tō pakeke, e whakaae ana <a href="%{url}">kia takiputa</a>.'
   terms_interstitial:
     title: "Te Whakahoutanga o Ngā Ture Ratonga me te Kaupapahere Tūmataitinga"
@@ -565,7 +565,7 @@ mi:
       opt_out: "Kāore i te hiahia kia uruparetia"
     submit: "Tāpaetia"
     decline: "Kati"
-  zendesk_too_young_message: 'Kia manawanui mai, kāore e whakaae ana mā te tamaiti nohinohi tā mātou pae e tautoko. E whakaae ana kia tirohia te <a href="http://support.code.org">support.code.org</a> me te kore takiuru atu, ki te tono rānei ki tō matua/whaea tō pouako rānei ki te whakapā mai mōu.'
+  zendesk_too_young_message: 'Kia manawanui mai, kāore e whakaae ana mā te tamaiti nohinohi tā mātou pae e tautoko. E whakaae ana kia tirohia te <a href="http://support.letron.vip">support.letron.vip</a> me te kore takiuru atu, ki te tono rānei ki tō matua/whaea tō pouako rānei ki te whakapā mai mōu.'
   progress:
     not_started: kāore anō kia tīmata
     in_progress: e kauneke ana
@@ -612,9 +612,9 @@ mi:
     click_to_remix: "Pāwhiritia te \"Ranu Anō\" ki te waihanga i tāu ake putanga!"
     edit_project: 'Whakatika Tūmahi'
     abuse:
-      tos: "Kua pūrongotia tēnei tūmahi, nā te mea, kua takahia <a href='http://code.org/tos'>Ngā Ture Ratonga</a> o Code.org, ā, kāore e whakaae ana kia tiria ki tangata kē atu."
+      tos: "Kua pūrongotia tēnei tūmahi, nā te mea, kua takahia <a href='http://letron.vip/tos'>Ngā Ture Ratonga</a> o Letron, ā, kāore e whakaae ana kia tiria ki tangata kē atu."
       policy_violation: "He mōhiohio kei tēnei tūmahi kāore e whakaae ana kia tiria ki tangata kē atu. Tēnā whakapā atu ki te tangata nāna te taupanga kia whakatikaina e ia ngā ihirangi kei tana taupānga."
-      contact_us: "Mena e whakapono ana koe e hē ana tēnei, tēnā <a href='https://code.org/contact'> whakapā mai.</a>"
+      contact_us: "Mena e whakapono ana koe e hē ana tēnei, tēnā <a href='https://letron.vip/contact'> whakapā mai.</a>"
       go_to_code_studio: 'Haere ki Code Studio'
       report_abuse_form:
         intro: 'Mēnā kua tūpono atu koe ki ētahi ihirangi weriweri, ki te whakatumatuma, te whakaweti, te whakatīwheta, ki tētahi āhuatanga takahi mōtika me āu ake mahi i a koe e mahi ana me ngā taupānga kei Code Studio, tēnā whakakīia te puka kei raro iho nei. He mea nui ki a mātou tō pūrongo, ka tūhuratia, ka uruparetia me te mahi tika.'
@@ -650,8 +650,8 @@ mi:
     peer_review: 'Arotake ā-Hoa'
   external_links:
     disclaimer: Karo
-    leaving_domain: E puta ana koe i tēnei rohe ināianei ki tētahi pae kāore i te whakahaerehia e Code.org.
-    disclaimer_text: Tērā pea he rerekē ngā kaupapahere tūmataitinga o tēnei pae i ērā o mātou, o Code.org. Kua whiriwhiria e mātou ngā rauemi hoa-tuatoru nei nā te mea e whakaaro ana mātou ka whai take mōu. Ahakoa ehara i a mātou te haepapa mō ngā ihirangi kei tēnei paetukutuku, tēnā <a href='%{support_url}'>whakapā atu ki te hunga tautoko</a>ina koe ka whakaaro he ihirangi kāore i te pai, kua kore rānei te paetukutuku e wātea ināianei.
+    leaving_domain: E puta ana koe i tēnei rohe ināianei ki tētahi pae kāore i te whakahaerehia e Letron.
+    disclaimer_text: Tērā pea he rerekē ngā kaupapahere tūmataitinga o tēnei pae i ērā o mātou, o Letron. Kua whiriwhiria e mātou ngā rauemi hoa-tuatoru nei nā te mea e whakaaro ana mātou ka whai take mōu. Ahakoa ehara i a mātou te haepapa mō ngā ihirangi kei tēnei paetukutuku, tēnā <a href='%{support_url}'>whakapā atu ki te hunga tautoko</a>ina koe ka whakaaro he ihirangi kāore i te pai, kua kore rānei te paetukutuku e wātea ināianei.
   hoc_download:
     title: 'Ngā rauemi tikiake o Hour of Code'
     capsule_title: 'He ipurangi rānei tāu?'

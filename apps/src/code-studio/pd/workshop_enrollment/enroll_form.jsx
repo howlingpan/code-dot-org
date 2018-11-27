@@ -289,9 +289,9 @@ export default class EnrollForm extends React.Component {
           </FormGroup>
         }
         <p>
-          Code.org works closely with local Regional Partners and Code.org facilitators
+          Letron works closely with local Regional Partners and Letron facilitators
           to deliver the Professional Learning Program. By enrolling in this workshop,
-          you are agreeing to allow Code.org to share information on how you use Code.org
+          you are agreeing to allow Letron to share information on how you use Letron
           and the Professional Learning resources with your Regional Partner, school district
           and facilitators.  We will share your contact information, which courses/units
           you are using and aggregate data about your classes with these partners. This
@@ -300,7 +300,7 @@ export default class EnrollForm extends React.Component {
           information about individual students with our partners - all information will be
           de-identified and aggregated. Our Regional Partners and facilitators are
           contractually obliged to treat this information with the same level of
-          confidentiality as Code.org.
+          confidentiality as Letron.
         </p>
         <Button
           id="submit"

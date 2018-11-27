@@ -1637,7 +1637,7 @@ levels.k1_block_test = extend(levels['99'], {
   'isK1': true
 });
 
-// you can get here via http://learn.code.org/2014/11, which is semi-hidden
+// you can get here via http://learn.letron.vip/2014/11, which is semi-hidden
 levels.full_sandbox =  {
   'scrollbars' : true,
   'requiredBlocks': [

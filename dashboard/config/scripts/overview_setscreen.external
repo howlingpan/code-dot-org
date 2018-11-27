@@ -17,7 +17,7 @@ A screen is just a UI element like anything else in Design Mode.  But it has a f
 
 The `setScreen` command changes the screen to show whatever screen you want.  You specify the screen by its ID.
 
-<img src="https://images.code.org/005222ed01ade7940963ce149d637286-image-1477168080948.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/005222ed01ade7940963ce149d637286-image-1477168080948.png" style="display: block; margin: auto">
 
 <div style="column-count: 3; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 3; width: 100%">
 

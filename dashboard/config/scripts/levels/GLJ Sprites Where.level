@@ -47,7 +47,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-05-04 03:06:49 +0000\",\"changed\":[\"notes\",\"show_debug_watch\",\"use_default_sprites\",\"hide_animation_mode\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"},{\"changed_at\":\"2018-05-04 16:19:25 +0000\",\"changed\":[],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-05-04 03:06:49 +0000\",\"changed\":[\"notes\",\"show_debug_watch\",\"use_default_sprites\",\"hide_animation_mode\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"},{\"changed_at\":\"2018-05-04 16:19:25 +0000\",\"changed\":[],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

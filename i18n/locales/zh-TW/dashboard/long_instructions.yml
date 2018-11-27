@@ -8,7 +8,7 @@ zh-TW:
       2-3 Artist 3.4: "跳躍積木只會移動小藝術家而不會繪圖。\n同時使用`跳躍-向前`和`移動-向前`積木來畫出這個虛線。\n每個線條長度為 50 像素。"
       2-3 Artist 3new: "紅色帽子的高是 100 像素，畫完比它矮 70 像素的黑色帽子。\\r\n\\r\n*（注意：每個帽子的寬度都是 50 像素。）*"
       2-3 Artist 4: 幫助我完成這隻貓的房子。
-      2-3 Artist 6: "這個房子需要一個屋頂！畫出這個三角形。\\r\n\\r\n提示：三個邊的長度都相同。\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      2-3 Artist 6: "這個房子需要一個屋頂！畫出這個三角形。\\r\n\\r\n提示：三個邊的長度都相同。\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       2-3 Artist 7: "畫完學校上頭的最後一組窗戶，這樣每個學生就可以看到窗外景色了。\\r\n\\r\n正方形窗戶的外框邊長是 25 像素。 "
       2-3 Artist 8: "是時候蓋個穀倉了！\\r\n\\r\n將這個穀倉分割成 2 個相同尺寸的正方形，來替每隻動物建出房間。\\r\n\\r\n提示：這個長方形的寬是 200 像素、高是 100 像素。\\r\n\\r\n有很多解決的方式可以完成這個關卡。"
       2-3 Artist 9 NEW: 完成這個風箏
@@ -262,7 +262,7 @@ zh-TW:
       Alien Defender: "**專案點子**：在 Play Lab 裡設計一個獨一無二的遊戲！"
       Alien Defender_2018: "**專案點子**：在 Play Lab 裡設計一個獨一無二的遊戲！"
       Artist Autorun Test: 現在，把這個函式放進迴圈來畫出這 3 個正方形。
-      Artist Inspiration: "<img src=\"https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
+      Artist Inspiration: "<img src=\"https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
       Bergeron Robot Maze1: "你可以幫我抓住那頑皮的豬嗎？\\r\n\\r\n把幾個`移動-向前`積木放到`當運行時`積木的下面，然後點擊「運行」。 "
       CSD - Predict - Array Length List Printing: "＃迴圈\n—在迴圈中使用列表\\r\n\\r\n用迴圈最常見的方法是和列表一起使用。在這個例子當中情況依照列表。\\r\n\\r\n什麼會顯示在控制台中呢？"
       CSD - Predict List Accessing: |
@@ -275,24 +275,24 @@ zh-TW:
         ＃檢入\r
         \r
         在這個框框中下面解釋這迴圈的三種不同的部分。為什麼每個都很重要？\r
-      CSD U3 - Simple Counter Predict: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.code.org/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
-      CSD U3 - Simple Counter Predict_2018: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.code.org/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
-      CSD U3 Counters explaining counters contained 2: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.code.org/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
-      CSD U3 Counters explaining counters contained 2_2018: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.code.org/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
-      CSD U3 Counters explaining counters: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.code.org/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
+      CSD U3 - Simple Counter Predict: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.letron.vip/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
+      CSD U3 - Simple Counter Predict_2018: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.letron.vip/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
+      CSD U3 Counters explaining counters contained 2: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.letron.vip/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
+      CSD U3 Counters explaining counters contained 2_2018: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.letron.vip/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
+      CSD U3 Counters explaining counters: "# \n計數器模型（Counter Pattern）\\r\n\\r\n這個模型（Pattern）在程式設計中相當的重要。\\r\n\\r\n![](https://images.letron.vip/83af2e40443ab294ba635f2a01a48ac7-image-1465506512065.06.56\nPM.png)\\r\n    \\r\n這會用來讓變數增加 1。你可能會稱之為 **計數器模型**，因為這可以讓變數往上數。\n我們很常使用到這個模型，尤其是在繪圖一類的迴圈。我們來看看它長得怎樣\\r\n\\r\n# 做做這個\\r\n\\r\n這個程式會創造出\n一個變數`counter`，然後使用**計數器模型**來讓它開始計數。\n當你運行程式時，你覺得在畫面會出現什麼？\\r\n\\r\n*\n**解讀程式** 然後預測輸出會是怎樣。\\r\n*\n**運行程式** 來檢查是否和你的預測一致。\\r\n* **跟隔壁的人討論看看**.\n看你能不能解釋你觀察到了什麼？\\r\n\\r\n"
       CSD U5 black white images pixelation 2: |-
         # 做做看\r
         \r
         使用像素化工具來畫出笑臉\r
         \r
-        ![](https://images.code.org/3e81e7e5c95a63173242552de2e9c094-image-1491425592286.52.47
+        ![](https://images.letron.vip/3e81e7e5c95a63173242552de2e9c094-image-1491425592286.52.47
         PM.png)
       CSD U5 black white images pixelation 2_2018: |-
         # 做做看\r
         \r
         使用像素化工具來畫出笑臉\r
         \r
-        ![](https://images.code.org/3e81e7e5c95a63173242552de2e9c094-image-1491425592286.52.47
+        ![](https://images.letron.vip/3e81e7e5c95a63173242552de2e9c094-image-1491425592286.52.47
         PM.png)
       CSD U5 black white images pixelation 3: |-
         # 做做看\r
@@ -319,7 +319,7 @@ zh-TW:
         \r
         輸入 0 或是 1 來完成這個 X 形的圖案，如果你想要清除重來，可以點擊「可讀格式」。
       CSD U5 collection UPS: |+
-        <img src="https://images.code.org/db7d21a8d28df27dee3449939038c7a9-image-1488501564775.jpg"
+        <img src="https://images.letron.vip/db7d21a8d28df27dee3449939038c7a9-image-1488501564775.jpg"
         style="float:right;height:250px">\r
         ＃＃＃計畫一條路線\r
         \r
@@ -330,7 +330,7 @@ zh-TW:
         **哪些資料是Routz應該搜集來改善它的建議以及從哪裡它能得到這些資料？**\r
         \r
       CSD U5 collection videos: |-
-        <img src="HTTPs://images.code.org/dbefd53cc9aaa2ee1c54f25afc88d860-image-1488492606296.jpg"style="float:right;height:300px">\r
+        <img src="HTTPs://images.letron.vip/dbefd53cc9aaa2ee1c54f25afc88d860-image-1488492606296.jpg"style="float:right;height:300px">\r
         \r
         # # # 製作一個建議\r 
         \r
@@ -406,14 +406,14 @@ zh-TW:
         # 索引練習（Index Practice）\r
         \r
         <img
-        src="https://images.code.org/d3b8a9275703944808bc832c02f19fda-image-1486501806089.09.45
+        src="https://images.letron.vip/d3b8a9275703944808bc832c02f19fda-image-1486501806089.09.45
         PM.png" style="width: 150px; float: right">\r
         \r
         **基本程式**已經提供，可以用來建立清單，名叫 `colors`。\r
         \r
         * 使用`setProperty` 和顏色清單來改變 `background-color` 以畫出一道彩虹，變數 `background-color`代表按鈕的顏色，我們已為你設定好了第一個。
       CSDU6 - Arrays - length: |-
-        <img src="https://images.code.org/f02914c957acffecbadaa3646388d26c-image-1486499703151.33.50
+        <img src="https://images.letron.vip/f02914c957acffecbadaa3646388d26c-image-1486499703151.33.50
         PM.png" style="width: 200px; float:right">\r
         \r
         # 清單長度（List Length）\r
@@ -429,7 +429,7 @@ zh-TW:
         # 索引練習（Index Practice）\r
         \r
         <img
-        src="https://images.code.org/d3b8a9275703944808bc832c02f19fda-image-1486501806089.09.45
+        src="https://images.letron.vip/d3b8a9275703944808bc832c02f19fda-image-1486501806089.09.45
         PM.png" style="width: 150px; float: right">\r
         \r
         **基本程式**已經提供，可以用來建立清單，名叫 `colors`。\r
@@ -462,7 +462,7 @@ zh-TW:
         #
         挑戰\r
         \r
-        移至 <a href="https://studio.code.org/p/applab" target="_blank">
+        移至 <a href="https://studio.letron.vip/p/applab" target="_blank">
         Full App Lab </a> 試著製作你自己的東西。
       'Challenge: Lights Picker': |-
         # 燈光模型\r
@@ -489,9 +489,9 @@ zh-TW:
         \r
         <br><br>
       Course 4 Artist 1: "幫我畫個盒子。   \\r\n（每個線段長度為 200 像素）\\r\n\\r\n<br/><br/>\\r\n\\r\n"
-      Course 4 Artist 10: "<img src=\"https://images.code.org/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"\nwidth=\"150px;\" style=\"mix-blend-mode: multiply;\" />\\r\n\\r\n**遊戲時間：**這兒有個程式能畫出有趣的圖形。 \\r\n\\r\n如果把它重複個幾次，然後在每次的循環都轉向，會發生什麼事呢？\\r\n\\r\n注意當這個圖形的轉向到達了 **420 度**時，就表示小畫家畫完了，它面對的方向會和一開始畫圖的方向不同，這個新的方向會是初始繪圖方向的*向右 60 度*。\\r\n\\r\n<hr/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 4 次</b></summary>\\r\n<br/>\\r\n如果你想要在 4 次重複內畫完一個圓形，小畫家需要每次轉 **360 度/4 = 90 度**。你可以在迴圈外層額外添加「轉向-右方 30 度」積木來做到（因為 **60+30 = 90**）。\n<br/>\\r\n<img src=\"https://images.code.org/9da67a628ed72e87520a02a0d917e2af-image-1440132370113.44.12.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n<br/><br/>\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 6 次</b></summary>\\r\n<br/>\\r\n當你重複這個圖形 6 次，你轉了 **6x60 度**， 也就是剛好一圈 **360 度**。\\r\n<img\nsrc=\"https://images.code.org/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"  width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 12 次</b></summary>\\r\n<br/>\\r\n如果你想要重複這個圖形 12 次，小畫家每次循環需要轉 **360 度/12 = 30 度** 。那表示你需要在重複畫出圖形之前先稍微調整小畫家的方向，讓它向左轉 30 度。<br/><br/>\\r\n<img src=\"https://images.code.org/ad254952522674496918561096817c66-image-1440132424792.44.01.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n現在換你了！你能利用重複初始圖形的方式來創建出每個圖案嗎？  "
-      Course 4 Artist 11: "<img src=\"https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png\"\nwidth=\"200px\"/>\\r\n\\r\n挑戰時間到了！  \\r\n\\r\n這裡有個圖案，只用了你見到的積木做出來的。想一想，要怎麼重建它？你可以邊做邊試，錯了也沒關係。我們不要求你一次就做對。\\r\n\\r\n這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 "
-      Course 4 Artist 12: "<img src=\"https://images.code.org/70795d84048767ae7fb65883f476b27c-image-1440050836837.01.09.png\"\nwidth=\"250px\"/>\\r\n\n自由發揮靈感：你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n<br/>\\r\n"
+      Course 4 Artist 10: "<img src=\"https://images.letron.vip/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"\nwidth=\"150px;\" style=\"mix-blend-mode: multiply;\" />\\r\n\\r\n**遊戲時間：**這兒有個程式能畫出有趣的圖形。 \\r\n\\r\n如果把它重複個幾次，然後在每次的循環都轉向，會發生什麼事呢？\\r\n\\r\n注意當這個圖形的轉向到達了 **420 度**時，就表示小畫家畫完了，它面對的方向會和一開始畫圖的方向不同，這個新的方向會是初始繪圖方向的*向右 60 度*。\\r\n\\r\n<hr/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 4 次</b></summary>\\r\n<br/>\\r\n如果你想要在 4 次重複內畫完一個圓形，小畫家需要每次轉 **360 度/4 = 90 度**。你可以在迴圈外層額外添加「轉向-右方 30 度」積木來做到（因為 **60+30 = 90**）。\n<br/>\\r\n<img src=\"https://images.letron.vip/9da67a628ed72e87520a02a0d917e2af-image-1440132370113.44.12.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n<br/><br/>\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 6 次</b></summary>\\r\n<br/>\\r\n當你重複這個圖形 6 次，你轉了 **6x60 度**， 也就是剛好一圈 **360 度**。\\r\n<img\nsrc=\"https://images.letron.vip/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"  width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 12 次</b></summary>\\r\n<br/>\\r\n如果你想要重複這個圖形 12 次，小畫家每次循環需要轉 **360 度/12 = 30 度** 。那表示你需要在重複畫出圖形之前先稍微調整小畫家的方向，讓它向左轉 30 度。<br/><br/>\\r\n<img src=\"https://images.letron.vip/ad254952522674496918561096817c66-image-1440132424792.44.01.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n現在換你了！你能利用重複初始圖形的方式來創建出每個圖案嗎？  "
+      Course 4 Artist 11: "<img src=\"https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png\"\nwidth=\"200px\"/>\\r\n\\r\n挑戰時間到了！  \\r\n\\r\n這裡有個圖案，只用了你見到的積木做出來的。想一想，要怎麼重建它？你可以邊做邊試，錯了也沒關係。我們不要求你一次就做對。\\r\n\\r\n這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 "
+      Course 4 Artist 12: "<img src=\"https://images.letron.vip/70795d84048767ae7fb65883f476b27c-image-1440050836837.01.09.png\"\nwidth=\"250px\"/>\\r\n\n自由發揮靈感：你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n<br/>\\r\n"
       Course 4 Artist 13: 還在玩啊？給你一張空白畫布，你可以在上面設計任何東西，隨你高興！
       Course 4 Artist 2: "你可以用迴圈來繪製最外圍的灰色正方形嗎？\\r\n（每邊邊長為 300 像素）"
       Course 4 Artist 20: "還在玩啊？\\r\n\\r\n給你一張空白畫布，你可以在上面設計任何東西，隨你高興！"
@@ -505,7 +505,7 @@ zh-TW:
       Course 4 Artist 9: '循環這個圖樣 10 次並確定在每個圖樣畫完後轉向。'
       Course 4 Artist Binary 1: "這裡有一個函式採用 1與 0 的二進位字串，引導藝術家跟隨它們由左至右，由上到下。\\r\n\\r\n 當藝術家看到 1 時會填滿方格，當藝術家看到 0 時則忽略方格。\\r \n\\r\n**運行這個程式，看看這位藝術家如何使用二進位繪製這個圖案。**"
       Course 4 Artist Binary 1a: "這裡有一個函式採用 1與 0 的二進位字串，引導藝術家跟隨它們由左至右，由上到下。 當藝術家看到 1 時會填滿方格，當藝術家看到 0 時則忽略方格。\\r \n\\r\n運行這個程式，看看這位藝術家如何使用二進位繪製這個圖案。"
-      Course 4 Artist Binary Free Play 2b: "<img src=\"https://images.code.org/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \n\\r\n<br/>\\r\n"
+      Course 4 Artist Binary Free Play 2b: "<img src=\"https://images.letron.vip/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \n\\r\n<br/>\\r\n"
       Course 4 Artist Binary pre1: |-
         二進制（Binary）是個只用兩種符號來表達訊息的方法。以下我們將會使用<b>關</b>（用 <b>0</b> 表示）及<b>開</b>（用 <b>1</b> 代表）。\r
         <br/>\r<hr/>\r
@@ -540,14 +540,14 @@ zh-TW:
         \r
         記住，為了要畫出螺蜁紋，你不能把多邊形閉合，這表示每個圖形的其中一個邊要比較小。
       Course 4 Artist For Loops Challenge_a: "**挑戰：**\n你能想的到要如何建立這個多邊形圖案嗎？這個圖案的邊長是 40 像素，用你所有學過的東西試試看。"
-      Course 4 Artist For Loops inspire: "<br/><br/>\\r\n<img\nsrc=\"https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png\"\nwidth=\"250px\"/>\\r\n<br/><br/>\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。"
+      Course 4 Artist For Loops inspire: "<br/><br/>\\r\n<img\nsrc=\"https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png\"\nwidth=\"250px\"/>\\r\n<br/><br/>\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。"
       Course 4 Artist Functions 12.1: 我們來建立一個函式，名叫 `draw a octagon 20`，用來畫出一個每邊邊長 20 像素的八邊形。
       Course 4 Artist Functions 13.1: "現在，我們來做個名為 `jump to upper right`（跳到右上邊）的函式。來讓角色移動到你剛畫好八邊形右上角，這樣我們就可以完成這個圖案。  \\r\n<br/>\\r\n*提示：要移動到右上角的話，試試在畫八邊形的 3/8 時跳躍。*  "
       Course 4 Artist Functions 14.1: '現在，我們來做個名為 `jump to upper right`（跳到右上邊）的函式。來讓角色移動到你剛畫好八邊形右上角，這樣我們就可以完成這個圖案。  '
-      Course 4 Artist Functions Inspiration: "<img src=\"https://images.code.org/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \n"
-      Course 4 Artist Functions challenge: "<img src=\"https://images.code.org/69f1c2b415f907c86aaa6ed2534c3682-image-1442870371171.13.38.png\"\nwidth=\"250px\"/>\\r\n\\r\n**挑戰階段：** 使用你在這個階段和其他地方所學，來畫出和上圖一樣的圖案。  "
-      Course 4 Artist Functions inspire: "<img src=\"https://images.code.org/6c6ff8e3b5a763926102033a94720f8b-image-1441300952649.19.47.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這類圖案的所有知識！\\r\n\\r\n如果這個圖案給了你一些靈感，你可以創作一些類似的圖案，不然，畫些你自己想畫的。\\r\n<br/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>Hints</b></summary>\\r\n\\t<br/><br/>\\r\n\\t<h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#1</b></summary>\\r\n    \\t<br/>\\r\n    \\t用一個計數迴圈，並在嵌套在裡頭的`重複`迴圈中使用它的 `counter` 變數。 \\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#2</b></summary>\\r\n    \\t<br/>\\r\n    \\t每次的循環，你都要畫出一個正方形，然後再向前跳躍。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#3</b></summary>\\r\n    \\t<br/>\\r\n    \\t你要在`重複`積木外頭添加個向左轉 90 度的程式（但還是要放在計數迴圈內喔）。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>解法</b></summary>\\r\n    \\t<br/>\\r\n    \\t<br/>\\r\n    \\t<img\nsrc=\"https://images.code.org/6b07c5de58a1fa573bef19182105f516-image-1441300922567.14.00.png\"\nwidth=\"450px\"/>\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n</details>\\r\n</h4>\\r\n\\r\n<br/>\\r\n如果你畫出的正方形大一點或是小一些，會發生什麼事呢？如果你把向左轉改成向右轉呢？"
-      Course 4 Artist Inspire: "<img src=\"https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png\"\nwidth=\"250px\"/>\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 "
+      Course 4 Artist Functions Inspiration: "<img src=\"https://images.letron.vip/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \n"
+      Course 4 Artist Functions challenge: "<img src=\"https://images.letron.vip/69f1c2b415f907c86aaa6ed2534c3682-image-1442870371171.13.38.png\"\nwidth=\"250px\"/>\\r\n\\r\n**挑戰階段：** 使用你在這個階段和其他地方所學，來畫出和上圖一樣的圖案。  "
+      Course 4 Artist Functions inspire: "<img src=\"https://images.letron.vip/6c6ff8e3b5a763926102033a94720f8b-image-1441300952649.19.47.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這類圖案的所有知識！\\r\n\\r\n如果這個圖案給了你一些靈感，你可以創作一些類似的圖案，不然，畫些你自己想畫的。\\r\n<br/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>Hints</b></summary>\\r\n\\t<br/><br/>\\r\n\\t<h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#1</b></summary>\\r\n    \\t<br/>\\r\n    \\t用一個計數迴圈，並在嵌套在裡頭的`重複`迴圈中使用它的 `counter` 變數。 \\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#2</b></summary>\\r\n    \\t<br/>\\r\n    \\t每次的循環，你都要畫出一個正方形，然後再向前跳躍。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#3</b></summary>\\r\n    \\t<br/>\\r\n    \\t你要在`重複`積木外頭添加個向左轉 90 度的程式（但還是要放在計數迴圈內喔）。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>解法</b></summary>\\r\n    \\t<br/>\\r\n    \\t<br/>\\r\n    \\t<img\nsrc=\"https://images.letron.vip/6b07c5de58a1fa573bef19182105f516-image-1441300922567.14.00.png\"\nwidth=\"450px\"/>\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n</details>\\r\n</h4>\\r\n\\r\n<br/>\\r\n如果你畫出的正方形大一點或是小一些，會發生什麼事呢？如果你把向左轉改成向右轉呢？"
+      Course 4 Artist Inspire: "<img src=\"https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png\"\nwidth=\"250px\"/>\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 "
       Course 4 Artist Vars 1: "我們來畫個正三角形。\n\\r\n\\r\n它的每邊都是 100 像素長。\\r\n\\r\n<br/>\\r\n"
       Course 4 Artist Vars 10: "這是畫出大三角形包小三角形的演算法，你可以修改它，讓它使用 `sides`（邊數）變數來畫出每個三角形嗎？\\r\n\\r\n</br>\\r\n仔細看一遍程式，把看到的數字 3 換成 `sides` 變數，記住要使用 `set sides`（設置邊數）積木。"
       Course 4 Artist Vars 11: "這裡有個複雜的程式，它的概念與上一關相同，你要設定的是 `sides`（邊數）變數，以畫出由正方形組合而成的圖案。\\r\n\\r\n<p\nstyle=\"font-size:small; padding: 15px 15px 15px 40px; background-color:#dcf3f3;\nborder-radius:10px;\">\\r\n\\t玩一玩：試著使用一些其他的數字，看看圖案會有什麼變化！\\r\n</p>"
@@ -596,8 +596,8 @@ zh-TW:
       Course 4 EC 2b: "**終極挑戰：**沒有規則、沒有提示、只有挑戰！"
       Course 4 EC 2c: "**終極挑戰：**沒有規則、沒有提示、只有挑戰！"
       Course 4 EC 2d: "**終極挑戰：**沒有規則、沒有提示、只有挑戰！"
-      Course 4 EC 3: "**函式超級挑戰：**使用你在上個階段所學，畫出像這樣的圖像。\\r\n\\r\n*注意：如果你帶入參數的話，這個程式會變得更精簡。*\\r\n\\r\n<br/>\\r\n<img\nsrc=\"https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png\"\nwidth=\"300px\"/>\\r\n<br/>  \\r\n\\r\n\\r\n"
-      Course 4 EC 3a: "**終極挑戰：**沒有規則、沒有提示、只有挑戰！\\r\n\\r\n<br/>\\r\n<img src=\"https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png\"\nwidth=\"300px\"/>\\r\n<br/>  \\r\n\\r\n\\r\n"
+      Course 4 EC 3: "**函式超級挑戰：**使用你在上個階段所學，畫出像這樣的圖像。\\r\n\\r\n*注意：如果你帶入參數的話，這個程式會變得更精簡。*\\r\n\\r\n<br/>\\r\n<img\nsrc=\"https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png\"\nwidth=\"300px\"/>\\r\n<br/>  \\r\n\\r\n\\r\n"
+      Course 4 EC 3a: "**終極挑戰：**沒有規則、沒有提示、只有挑戰！\\r\n\\r\n<br/>\\r\n<img src=\"https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png\"\nwidth=\"300px\"/>\\r\n<br/>  \\r\n\\r\n\\r\n"
       Course 4 Maze 4: 當你完成關卡後，試著用`重複`積木來減少積木使用數…
       Course 4 Play Lab Params 1: "這裡有個函式叫做 `jump`（跳躍），它可以讓你的主要角色向上跳 100 像素。\\r\n\\r\n運行這個程式，用方向鍵來控制小狗，並利用 `jump` 函式收集所有的旗幟。"
       Course 4 Play Lab Params 10: |-
@@ -685,24 +685,24 @@ zh-TW:
       Course 4 SCF 2: "**函式超級挑戰：**用你在上個關卡學到的來畫出像這樣的圖形。\\r\n\\r\n*注意：如果你合併了參數，程式碼會變得更精簡。*  "
       Course 4 SCF 3 Fail 1: "**函式超級挑戰 1：**\n\\r\n\\r\n"
       Course 4 SCF 3 Fail 2: "**函式超級挑戰 1：**\n\\r\n\\r\n"
-      Course 4 SCF 3: "**函式超級挑戰：**使用你在上個階段所學，畫出像這樣的圖像。\\r\n\\r\n*注意：如果你帶入參數的話，這個程式會變得更精簡。*\\r\n\\r\n<br/>\\r\n<img\nsrc=\"https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png\"\nwidth=\"300px\"/>\\r\n<br/> \\r\n\\r\n\\r  "
+      Course 4 SCF 3: "**函式超級挑戰：**使用你在上個階段所學，畫出像這樣的圖像。\\r\n\\r\n*注意：如果你帶入參數的話，這個程式會變得更精簡。*\\r\n\\r\n<br/>\\r\n<img\nsrc=\"https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png\"\nwidth=\"300px\"/>\\r\n<br/> \\r\n\\r\n\\r  "
       Course 4 SCFL 1: "**計數迴圈超級挑戰：**完成這個關卡，用的積木愈少愈好。"
       Course 4 SCFL 1a: "**計數迴圈超級挑戰：**你能讓鼠奎特吃到橡樹果嗎？用的積木愈少愈好。\\r\n\\r\n"
       Course 4 SCFL 1b: "**計數迴圈超級挑戰：**你能讓鼠奎特吃到橡樹果嗎？用的積木愈少愈好。\\r\n"
       Course 4 SCFL 2: "**計數迴圈超級挑戰：**完成這個關卡，用的積木愈少愈好。\\r\n<br/>\\r\n"
-      Course 4 SCFL 3: "**計數迴圈超級挑戰：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img src=\"https://images.code.org/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png\"\nwidth=\"350px\"/>\\r\n"
-      Course 4 SCFL 4: "**計數迴圈超級挑戰：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img src=\"https://images.code.org/407f502735beec686187451bdf67aada-image-1446002848700.59.34.png\"\nwidth=\"350px\"/>"
-      Course 4 SCFL 5: "**計數迴圈超級挑戰 5：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img src=\"https://images.code.org/407f502735beec686187451bdf67aada-image-1446002848700.59.34.png\"\nwidth=\"350px\"/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>提示</b></summary>\\r\n\\t<br/><br/>\\r\n\\t<h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#1</b></summary>\\r\n    \\t<br/>\\r\n    \\t用設置顏色的積木產生紅、綠、藍的色彩變化。紅色的值會一直和 counter 變數一樣，綠色則是 255 - counter，藍色則維持 255. \\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#2</b></summary>\\r\n    \\t<br/>\\r\n    \\t每個形狀都是正方形，邊長相當於 counter 的數值，從 5 開始，每次增加 5，一直到 200 像素。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#3</b></summary>\\r\n    \\t<br/>\\r\n    \\t小藝術家在每次的正方形之後轉向 15 度。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>解法</b></summary>\\r\n    \\t<br/>\\r\n    \\t<br/>\\r\n    \\t<img\nsrc=\"https://images.code.org/0bf4c87e33459f832258939ec53ad595-image-1446002848701.59.15.png\"\nwidth=\"450px\"/>\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n</details>\\r\n</h4>"
-      Course 4 SCFL 6: "**計數迴圈超級挑戰：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img\nsrc=\"https://images.code.org/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png\"\nwidth=\"350px\"/>"
-      Course 4 SCFL 7: "**計數迴圈超級挑戰：**小藝術家想要加些波浪！想一想，要怎麼樣重建這樣的圖案？\n\\r\n\\r\n<img src=\"https://images.code.org/fba3423f2e9a405d4d3859de32cdb0f3-image-1446102880655.13.36.png\"\nwidth=\"350px\"/>"
+      Course 4 SCFL 3: "**計數迴圈超級挑戰：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img src=\"https://images.letron.vip/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png\"\nwidth=\"350px\"/>\\r\n"
+      Course 4 SCFL 4: "**計數迴圈超級挑戰：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img src=\"https://images.letron.vip/407f502735beec686187451bdf67aada-image-1446002848700.59.34.png\"\nwidth=\"350px\"/>"
+      Course 4 SCFL 5: "**計數迴圈超級挑戰 5：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img src=\"https://images.letron.vip/407f502735beec686187451bdf67aada-image-1446002848700.59.34.png\"\nwidth=\"350px\"/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>提示</b></summary>\\r\n\\t<br/><br/>\\r\n\\t<h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#1</b></summary>\\r\n    \\t<br/>\\r\n    \\t用設置顏色的積木產生紅、綠、藍的色彩變化。紅色的值會一直和 counter 變數一樣，綠色則是 255 - counter，藍色則維持 255. \\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#2</b></summary>\\r\n    \\t<br/>\\r\n    \\t每個形狀都是正方形，邊長相當於 counter 的數值，從 5 開始，每次增加 5，一直到 200 像素。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>提示\n#3</b></summary>\\r\n    \\t<br/>\\r\n    \\t小藝術家在每次的正方形之後轉向 15 度。\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n    \\r\n    <h5>\\r\n\\t<details>\\r\n\\t<summary><b>解法</b></summary>\\r\n    \\t<br/>\\r\n    \\t<br/>\\r\n    \\t<img\nsrc=\"https://images.letron.vip/0bf4c87e33459f832258939ec53ad595-image-1446002848701.59.15.png\"\nwidth=\"450px\"/>\\r\n    \\t<br/><br/>\\r\n    </details>\\r\n\\t</h5>\\r\n</details>\\r\n</h4>"
+      Course 4 SCFL 6: "**計數迴圈超級挑戰：**想一想，要用什麼方法重建這個圖案？\\r\n\\r\n<img\nsrc=\"https://images.letron.vip/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png\"\nwidth=\"350px\"/>"
+      Course 4 SCFL 7: "**計數迴圈超級挑戰：**小藝術家想要加些波浪！想一想，要怎麼樣重建這樣的圖案？\n\\r\n\\r\n<img src=\"https://images.letron.vip/fba3423f2e9a405d4d3859de32cdb0f3-image-1446102880655.13.36.png\"\nwidth=\"350px\"/>"
       Course 4 SCFP 1: 建立一個帶參數的函式，讓小藝術家能往前、往後跳躍 x 像素，還有往上、往下 y 像素（使用正數和負數）。
       Course 4 SCV 1: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/>\r
         \r
         **變數超級挑戰：**你現在學會了所有東西，能做出這樣圖案了！這個關卡相當困難，在想出解決方法前，你能堅持得了嗎？
       Course 4 SCV 2: |-
-        <img src="https://images.code.org/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
+        <img src="https://images.letron.vip/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
         width="250px"/>\r
         \r
         **變數超級挑戰：**你現在學會了所有東西，能做出這樣圖案了！這個關卡相當困難，在想出解決方法前，你能堅持得了嗎？
@@ -726,7 +726,7 @@ zh-TW:
         
       Course 4 SCV 4: "**變數超級挑戰：**完成這個關卡，用的積木愈少愈好。\\r\n\\r\n"
       Course 4 SCV 5: "**變數超級挑戰：**完成這個關卡，用的積木愈少愈好。\\r\n\\r\n"
-      Course 4 SCV 6: "<img src=\"https://images.code.org/499fc71a0a06bacb68a9789ad57f8148-image-1445574373673.16.44.png\"\nwidth=\"250px\"/>\\r\n\\r\n**變數超級挑戰：**你現在學會了所有東西，能做出這樣圖案了！這個關卡相當困難，在想出解決方法前，你能堅持得了嗎？  "
+      Course 4 SCV 6: "<img src=\"https://images.letron.vip/499fc71a0a06bacb68a9789ad57f8148-image-1445574373673.16.44.png\"\nwidth=\"250px\"/>\\r\n\\r\n**變數超級挑戰：**你現在學會了所有東西，能做出這樣圖案了！這個關卡相當困難，在想出解決方法前，你能堅持得了嗎？  "
       Course 4 SCVP 1: 建立一個帶參數的函式，讓小藝術家能往前、往後跳躍 x 像素，還有往上、往下 y 像素（使用正數和負數）。
       Course 4 Variables Assessment: 你可以用 `sides`（邊數）變數來創建這個圖像嗎？每一邊的長度應該是 50 像素。
       CourseF_PlayLab_vars10: "自由遊戲時間！這裡我們目前為止玩過的所有變數，還有一些是你可能想要的。\\r\n\\r\n注意現在在工具箱裡有好多好多可以被組合的積木！在這裡，我們已經將它們分類放好。花點時間去嘗試每一個東西，當你一切就緖，就可以用重複、變數、事件類的各種指令製作一個遊戲或是故事。\\r\n\\r\n*提示：可以捲動頁面以查看工作區裡的所有指令。*"
@@ -790,9 +790,9 @@ zh-TW:
       Dance_Party_11b: |-
         是時候跳舞了！按下向左鍵時，貓會輕拍。按下向右鍵時，可讓機器人「掉落」。
       Dance_Party_12: 隨著音樂律動！建立一支自己的舞蹈，與朋友分享。
-      ECS Unit 3 Challenge Selection: "# 挑戰概覽\n> 你的挑戰有哪些？ \\r\n\\r\n## Enter the lesson you selected for your\nchallenge in the text box below.\\r\n\\r\nHTML Beginners:\\r\n\\r\n- Day 3-4,5:\nBasic HTML - Paragraph, Header, Strong, and EM Tags\\r\n- Day 6--7: HTML -\nImages\\r\n- Day 14: HTML - Links\\r\n\\r\nCSS Beginners:\\r\n\\r\n- Day 8-10:\nBasic CSS \\r\n\\r\nMore Experienced with HTML and CSS:\\r\n\\r\n- Day 11-13:\nHTML and CSS \\r\n- Day 17-19: HTML and CSS: Create Your Own Webpage\\r\n- Day\n22-25: Unit Final Project\\r\n- Day 18-21 Final Unit Project\\r\n\\r\n\\r\nNow\nthat you've selected a lesson, head to the forum and **share which lesson\nyou plan to complete** for your challenge.\\r\n\\r\n#### <a href=\"http://forum.code.org/c/ecs/ecs-unit3\"\ntarget=_blank>Forums <i class=\"fa fa-external-link\" /></a>"
-      ECS Unit 4 Challenge Selection: "# 挑戰概覽\n> 你的挑戰有哪些？ \\r\n\\r\n## Enter the lesson you selected for your\nchallenge in the text box below.\\r\n\\r\n是編程新手嗎？\\r\n\\r\n- Day 2-3:\nScratch - Name Project\\r\n- Day 4: Scratch - Knock Knock Joke\\r\n- Day 5-6:\nScratch - Moving Sprites \\r\n\\r\nNew to Scratch:\\r\n\\r\n- Day 7-8: Scratch\n- Event Driven Programming\\r\n- Day 9: Scratch - Broadcast Roleplay\\r\n- Day\n10-13: Scratch - Broadcasting\\r\n\\r\nSome Experience with Scratch and Programming:\\r\n\\r\n-\nDay 18, 19: Rock Paper Scissors and Timer\\r\n- Day 20-23: Scratch - Timing\nGame\\r\n- Day 25-30: Unit Final Project\\r\n\\r\n\\r\n\\r\nNow that you've selected\na lesson, head to the forum and **share which lesson you plan to complete**\nfor your challenge.\\r\n\\r\n#### <a href=\"http://forum.code.org/c/ecs/ecs-unit4\"\ntarget=_blank>Forums <i class=\"fa fa-external-link\" /></a>"
-      ECS Unit 5 Challenge Selection: "# 你的挑戰有哪些？\n\\r\n\\r\n## Enter the lesson you selected for your challenge in the text box\nbelow.\\r\n\\r\n- Day 1 - 3: Room data project, set up final project\\r\n- Day\n4 - 5: Developing research questions\\r\n- Day 6 - 7: Building group norms\\r\n-\nDay 8: Check in Day\\r\n- Day 9 - 11: Maps, identifying variables, subsetting\ndata, sorting data, frequency of types.\\r\n- Day 12: Bubble Charts\\r\n- Day\n13: Review: Bubble Charts\\r\n- Day 14 - 15: Bar Plots\\r\n- Day 16: Mosaic\nPlots\\r\n- Day 17: Review: Bar and Mosaic Plots\\r\n- Day 18 - 20: Mean, Median,\nMinimum, Maximum, Histograms, Box Plots\\r\n- Day 21: Review: Mean, Median,\nMinimum, Maximum\\r\n- Days 22 - 24: Filtering Text data (remove punctuation,\nremove case, remove stop words, stemming), Analyzing word counts.\\r\n- Day\n25: Review: Text Data\\r\n- Day 26 - 27: Incorporate  data techniques into\nfinal project\\r\n- Day 28 - 29: Build project presentations\\r\n- Day 30: Present\nfinal project\\r\n\\r\nNow that you've selected a lesson, head to the forum\nand **share which lesson you plan to complete** for your challenge.\\r\n\\r\n####\n<a href=\"http://forum.code.org/c/ecs/ecs-unit5\" target=_blank>Forums <i\nclass=\"fa fa-external-link\" /></a>"
+      ECS Unit 3 Challenge Selection: "# 挑戰概覽\n> 你的挑戰有哪些？ \\r\n\\r\n## Enter the lesson you selected for your\nchallenge in the text box below.\\r\n\\r\nHTML Beginners:\\r\n\\r\n- Day 3-4,5:\nBasic HTML - Paragraph, Header, Strong, and EM Tags\\r\n- Day 6--7: HTML -\nImages\\r\n- Day 14: HTML - Links\\r\n\\r\nCSS Beginners:\\r\n\\r\n- Day 8-10:\nBasic CSS \\r\n\\r\nMore Experienced with HTML and CSS:\\r\n\\r\n- Day 11-13:\nHTML and CSS \\r\n- Day 17-19: HTML and CSS: Create Your Own Webpage\\r\n- Day\n22-25: Unit Final Project\\r\n- Day 18-21 Final Unit Project\\r\n\\r\n\\r\nNow\nthat you've selected a lesson, head to the forum and **share which lesson\nyou plan to complete** for your challenge.\\r\n\\r\n#### <a href=\"http://forum.letron.vip/c/ecs/ecs-unit3\"\ntarget=_blank>Forums <i class=\"fa fa-external-link\" /></a>"
+      ECS Unit 4 Challenge Selection: "# 挑戰概覽\n> 你的挑戰有哪些？ \\r\n\\r\n## Enter the lesson you selected for your\nchallenge in the text box below.\\r\n\\r\n是編程新手嗎？\\r\n\\r\n- Day 2-3:\nScratch - Name Project\\r\n- Day 4: Scratch - Knock Knock Joke\\r\n- Day 5-6:\nScratch - Moving Sprites \\r\n\\r\nNew to Scratch:\\r\n\\r\n- Day 7-8: Scratch\n- Event Driven Programming\\r\n- Day 9: Scratch - Broadcast Roleplay\\r\n- Day\n10-13: Scratch - Broadcasting\\r\n\\r\nSome Experience with Scratch and Programming:\\r\n\\r\n-\nDay 18, 19: Rock Paper Scissors and Timer\\r\n- Day 20-23: Scratch - Timing\nGame\\r\n- Day 25-30: Unit Final Project\\r\n\\r\n\\r\n\\r\nNow that you've selected\na lesson, head to the forum and **share which lesson you plan to complete**\nfor your challenge.\\r\n\\r\n#### <a href=\"http://forum.letron.vip/c/ecs/ecs-unit4\"\ntarget=_blank>Forums <i class=\"fa fa-external-link\" /></a>"
+      ECS Unit 5 Challenge Selection: "# 你的挑戰有哪些？\n\\r\n\\r\n## Enter the lesson you selected for your challenge in the text box\nbelow.\\r\n\\r\n- Day 1 - 3: Room data project, set up final project\\r\n- Day\n4 - 5: Developing research questions\\r\n- Day 6 - 7: Building group norms\\r\n-\nDay 8: Check in Day\\r\n- Day 9 - 11: Maps, identifying variables, subsetting\ndata, sorting data, frequency of types.\\r\n- Day 12: Bubble Charts\\r\n- Day\n13: Review: Bubble Charts\\r\n- Day 14 - 15: Bar Plots\\r\n- Day 16: Mosaic\nPlots\\r\n- Day 17: Review: Bar and Mosaic Plots\\r\n- Day 18 - 20: Mean, Median,\nMinimum, Maximum, Histograms, Box Plots\\r\n- Day 21: Review: Mean, Median,\nMinimum, Maximum\\r\n- Days 22 - 24: Filtering Text data (remove punctuation,\nremove case, remove stop words, stemming), Analyzing word counts.\\r\n- Day\n25: Review: Text Data\\r\n- Day 26 - 27: Incorporate  data techniques into\nfinal project\\r\n- Day 28 - 29: Build project presentations\\r\n- Day 30: Present\nfinal project\\r\n\\r\nNow that you've selected a lesson, head to the forum\nand **share which lesson you plan to complete** for your challenge.\\r\n\\r\n####\n<a href=\"http://forum.letron.vip/c/ecs/ecs-unit5\" target=_blank>Forums <i\nclass=\"fa fa-external-link\" /></a>"
       Food Fight!: |-
         我們為你準備了最後一個函式。\r
         <hr/>\r
@@ -825,18 +825,18 @@ zh-TW:
       Geometric Pattern: "**專案點子：** 創作一個圖案，用幾何思維，這需要毅力和規劃！"
       Geometric Sun: "**專案點子：** 創作一個圖案，用幾何思維，這需要毅力和規劃！"
       Geometric Sun_2018: "**專案點子：** 創作一個圖案，用幾何思維，這需要毅力和規劃！"
-      HOC 2018 Level_1: "您需要補給才能踏上前方等著您的旅途。打開**箱子** ![](https://images.code.org/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png) 以取得**小船** ![](https://images.code.org/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png)。\n\n"
-      HOC 2018 Level_10: "有一隻**烏賊** ![](https://images.code.org/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png) 躲在這片海洋遺址中，您找得到牠嗎？\n\n"
-      HOC 2018 Level_11: 使用**海磷石** ![](https://images.code.org/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png) 在黑色混凝土周圍建造一面牆。這將啟用**導管** ![](https://images.code.org/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png) 並完成您的挑戰！
+      HOC 2018 Level_1: "您需要補給才能踏上前方等著您的旅途。打開**箱子** ![](https://images.letron.vip/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png) 以取得**小船** ![](https://images.letron.vip/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png)。\n\n"
+      HOC 2018 Level_10: "有一隻**烏賊** ![](https://images.letron.vip/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png) 躲在這片海洋遺址中，您找得到牠嗎？\n\n"
+      HOC 2018 Level_11: 使用**海磷石** ![](https://images.letron.vip/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png) 在黑色混凝土周圍建造一面牆。這將啟用**導管** ![](https://images.letron.vip/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png) 並完成您的挑戰！
       HOC 2018 Level_12: 恭喜！廣闊的水世界正等著您。建造一個珊瑚礁！一座火山！一艘沉船！您自己決定。
       HOC 2018 Level_2: 在開放水域中，駕駛小船會比自己游泳要來得輕鬆許多！走向碼頭盡頭就可跳上船。
-      HOC 2018 Level_3: 拿起船槳駕駛小船穿越開放海域以捕捉**鱈魚** ![](https://images.code.org/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png)。
-      HOC 2018 Level_4: 將鱈魚餵給**海豚** ![](https://images.code.org/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png)。使用重複方塊以更快的速度穿越大海。
-      HOC 2018 Level_5: 某個地方藏有**鸚鵡螺殼** ![](https://images.code.org/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png)！探索沉船以找出**箱子** ![](https://images.code.org/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png)。
-      HOC 2018 Level_6: 外面看起來很冷！在前往水底廢墟的路上捕捉一尾**鮭魚** ![](https://images.code.org/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png)。
-      HOC 2018 Level_7a: "您找到了水底廢墟。在沙岩中搜尋一個裡面有**海磷石** ![](https://images.code.org/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png) 寶藏的**箱子** ![](https://images.code.org/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png)。\n\n"
-      HOC 2018 Level_8: "一開始是冰山，現在又是熔岩？穿越這座火山島，並在珊瑚礁中尋找**熱帶魚** ![](https://images.code.org/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png)。\n\n"
-      HOC 2018 Level_9b: "您終於抵達珊瑚礁，現在尋找**海洋之心** ![](https://images.code.org/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png)！使用藍色和紅色的珊瑚抵達藏有寶藏的**箱子** ![](https://images.code.org/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png)。\n\n"
+      HOC 2018 Level_3: 拿起船槳駕駛小船穿越開放海域以捕捉**鱈魚** ![](https://images.letron.vip/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png)。
+      HOC 2018 Level_4: 將鱈魚餵給**海豚** ![](https://images.letron.vip/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png)。使用重複方塊以更快的速度穿越大海。
+      HOC 2018 Level_5: 某個地方藏有**鸚鵡螺殼** ![](https://images.letron.vip/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png)！探索沉船以找出**箱子** ![](https://images.letron.vip/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png)。
+      HOC 2018 Level_6: 外面看起來很冷！在前往水底廢墟的路上捕捉一尾**鮭魚** ![](https://images.letron.vip/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png)。
+      HOC 2018 Level_7a: "您找到了水底廢墟。在沙岩中搜尋一個裡面有**海磷石** ![](https://images.letron.vip/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png) 寶藏的**箱子** ![](https://images.letron.vip/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png)。\n\n"
+      HOC 2018 Level_8: "一開始是冰山，現在又是熔岩？穿越這座火山島，並在珊瑚礁中尋找**熱帶魚** ![](https://images.letron.vip/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png)。\n\n"
+      HOC 2018 Level_9b: "您終於抵達珊瑚礁，現在尋找**海洋之心** ![](https://images.letron.vip/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png)！使用藍色和紅色的珊瑚抵達藏有寶藏的**箱子** ![](https://images.letron.vip/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png)。\n\n"
       HOC Dance 4_draft: |-
         使用另一個新的程式積木，讓舞者**每 2 個小節**改變動作！
         
@@ -846,8 +846,8 @@ zh-TW:
         
         建立一個名為「backup_dancer1」的備用舞者與貓跳舞。
       HOC Dance 9_draft: "<xml><block type=\"Dancelab_whenKey\"></block></xml> 程式積木可讓您在按下向上箭頭時執行程式碼。\n\n您可以變更舞蹈動作、變更舞者的屬性或者只進行一次快速動作。發揮創意，尋找新的程式積木！"
-      Harvesting: "喔哦，我弄丟了地圖，種了什麼也搞不清楚！每個芽苗可以種出**玉米** ![picture of corn](https://images.code.org/cac3133c40781553a70066a67298b2b5-image-1472493202556.png)\n、**豌豆** ![picture of beans](https://images.code.org/5e379ff595be17722237d9685b29fd96-image-1472493220871.png)\n、**南瓜** ![picture of pumpkin](https://images.code.org/03cf76a978e0788ccb53f14e9d264695-image-1472493237148.png)\n。你可以寫些程式來收成這些作物嗎？不管它們是什麼。"
-      Inspirational Artwork: "<img src=\"https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
+      Harvesting: "喔哦，我弄丟了地圖，種了什麼也搞不清楚！每個芽苗可以種出**玉米** ![picture of corn](https://images.letron.vip/cac3133c40781553a70066a67298b2b5-image-1472493202556.png)\n、**豌豆** ![picture of beans](https://images.letron.vip/5e379ff595be17722237d9685b29fd96-image-1472493220871.png)\n、**南瓜** ![picture of pumpkin](https://images.letron.vip/03cf76a978e0788ccb53f14e9d264695-image-1472493237148.png)\n。你可以寫些程式來收成這些作物嗎？不管它們是什麼。"
+      Inspirational Artwork: "<img src=\"https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
       InspirationalArtwork: "你已經學會了所有需要創建這個模式的知識了！\\r\n\\r\n如果這個圖形引起了你的聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n"
       InspirationalArtwork_2018: "你已經學會了所有需要創建這個模式的知識了！\\r\n\\r\n如果這個圖形引起了你的聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n"
       InspirationalArtwork_2019: "你已經學會了所有需要創建這個模式的知識了！\\r\n\\r\n如果這個圖形引起了你的聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n"
@@ -978,7 +978,7 @@ zh-TW:
       NEW Course 4 Artist Functions 7: "你已經掌握函式積木的使用技巧了嗎？讓我們修改一下代碼，來讓正方形的邊長變成 200像素。\\r\n\\r\n在「編輯」上點一下以進入 draw a square（畫個正方形）函式。\\r\n\\r\n記住點擊「關閉」以離開函式編輯器。 "
       NEW Course 4 Artist Functions 8: 我們已經創建了一個新的函式給你，叫做 draw a triangle（畫個三角形）。你可以編輯這個函式定義以畫出每邊長 100 像素的三角形嗎？
       NEW Course 4 Artist Functions 9: 你可以只用 1 個積木來完成關卡嗎？
-      NEW Course 4 Artist Functions inspire: "<img src=\"https://images.code.org/5e50e6ef0cafb40a8b697ea158047412-image-1441260841174.11.12.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。\n\\r\n\\r\n"
+      NEW Course 4 Artist Functions inspire: "<img src=\"https://images.letron.vip/5e50e6ef0cafb40a8b697ea158047412-image-1441260841174.11.12.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。\n\\r\n\\r\n"
       NEW Course 4 Artist Params 1: "我們來定義這個函式，來畫出一個邊長為 50 像素的正方形。點擊「編輯」來開始。\\r\n\\r\n"
       NEW Course 4 Artist Params 10: "建立一個 draw a hexagon（畫個六邊形）函式積木，裡頭帶有 length（長度）參數。\\r\n\\r\n這個六邊形的邊長為 100 像素。"
       NEW Course 4 Artist Params 11: "你想得到要怎麼畫出這個形狀嗎？\\r\n\\r\n編輯函式來使用 sides（邊長）參數。"
@@ -994,7 +994,7 @@ zh-TW:
       NEW Course 4 Artist Params 7: "你能完成這幅畫嗎？\n\\r\n\\r\n每一次畫的三角形的邊長比前一個多 25 像素。\\r\n第一個三角形的邊長是 25 像素。"
       NEW Course 4 Artist Params 8: "畫出三角形的程式壞掉了。\\r\n\\r\n你可以編輯並修正這個函式，以畫出邊長為 25、50、75 的三角形嗎？"
       NEW Course 4 Artist Params 9: "點擊「編輯」來完成 draw a square（畫個正方形）函式的定義，並且加一個參數。\\r\n它應該像三角形一樣有一個 length（長度）參數。\\r\n\\r\n**這次，畫出 3 個正方形**，邊長分別為 25、50、75 像素，每個正方形相隔 100 像素。"
-      NEW Course 4 Artist Params inspire: "<img src=\"https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
+      NEW Course 4 Artist Params inspire: "<img src=\"https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
       NEW Course 4 Artist Vars 12: 現在，重新建立最後一關的演算法，並創作一個邊長 150 像素的五邊形。
       NEW Course 4 Artist Vars 2: '拖曳數字積木到「設定長度」積木和「重複」積木裡，以畫出一連串的 50 像素長的三角形。 '
       NEW Course 4 Artist Vars 4: "讓我們再試一次！\\r\n\\r\n你可以將 length（長度）變數設為 60，以完成這個酷炫的六邊形圖案嗎？"
@@ -1087,7 +1087,7 @@ zh-TW:
         
       What is the difference between formative and summative assessment?: '下面的連結中提供了形成性和總結性評量的定義和範例：'
       aE1: |+
-        <img src="https://images.code.org/fa3c416b74ff9071455535955bc4df35-image-1465507662295.gif"
+        <img src="https://images.letron.vip/fa3c416b74ff9071455535955bc4df35-image-1465507662295.gif"
         style="float:left; width:100px; margin: 0 20px 80px 100px;"/>\r
         \r
         <div
@@ -1103,9 +1103,9 @@ zh-TW:
         <br/>\r
         \r
         
-      aE2: "<img src=\"https://images.code.org/2a67ea28a0fb9f674fd764b350b297da-image-1465514320176.gif\"\nstyle=\"width:400px; margin: 0 20px 20px 10px;\"/>\\r\n\\r\n<div style=\"color:\n#7665a0; font-size: 1.6em; line-height: 1.4em;\" >現在我們足夠的數量分給大家！\\r\n<br/><br/>\\r\n\\r\n我們把剛剛做出的形狀排列，一列 14 個餐巾。  \\r\n<br/>\\r\n當你放置一個迴圈到另一個迴圈裡時，我們稱它是巢狀迴圈。 \\r\n\\r\n要怎樣把前個階段的程式變成迴圈，才能把 14 個餐巾排成一列呢？</div>\\r\n"
+      aE2: "<img src=\"https://images.letron.vip/2a67ea28a0fb9f674fd764b350b297da-image-1465514320176.gif\"\nstyle=\"width:400px; margin: 0 20px 20px 10px;\"/>\\r\n\\r\n<div style=\"color:\n#7665a0; font-size: 1.6em; line-height: 1.4em;\" >現在我們足夠的數量分給大家！\\r\n<br/><br/>\\r\n\\r\n我們把剛剛做出的形狀排列，一列 14 個餐巾。  \\r\n<br/>\\r\n當你放置一個迴圈到另一個迴圈裡時，我們稱它是巢狀迴圈。 \\r\n\\r\n要怎樣把前個階段的程式變成迴圈，才能把 14 個餐巾排成一列呢？</div>\\r\n"
       aE3: |+
-        <img src="https://images.code.org/e9fe83556eec68be9ebd7de9a16267b1-image-1465516277348.gif"
+        <img src="https://images.letron.vip/e9fe83556eec68be9ebd7de9a16267b1-image-1465516277348.gif"
         style="width:400px; margin: 0 20px 20px 100px;" loop="infinite"/>\r
         \r
         <div
@@ -1152,14 +1152,14 @@ zh-TW:
         </div>
       aE7: "<div style=\"color: #7665a0; font-size: 1.6em; line-height:\n1.4em;\" >\\r\n來帶流光怎麼樣？\\r\n<br/><br/>\\r\n如果你建立另一個像這樣的迴圈，但是將向右轉改成向左轉，會發生什麼事呢？\\r\n\\r\n你可以重複這些來畫出這個波浪嗎？\\r\n</div>"
       aE8: "<div style=\"color: #7665a0; font-size: 1.6em; line-height:\n1.4em;\" >\\r\n小藝術家想要做個相框當作派對禮物！\\r\n<br/><br/>\\r\n把製作彩帶的程式循環 4 次，就可以做出這個相框。\\r\n<br/><br/>我們已經添加了一個特別的積木，叫做 `curvy corner`（彎曲的角落），它可以幫你做出花俏的邊角！ \\r\n</div>"
-      aEfreeplay: "<div style=\"color: #7665a0; font-size: 1.6em;\nline-height: 1.4em;\" >\\r\n<b>自由發揮：</b>\\r\n我們需要一些裝飾品來裝飾這個房子。\\r\n<br/><br/>\\r\n你可以設計個飾品點綴一下嗎？\\r\n</div>\\r\n<br/>\\r\n<h4>\\r\n<details>\\r\n<summary>需要點子？</summary>\\r\n<br/>\\r\n<br/>\\r\n來個菱形格狀桌巾吧！ \\r\n<img src=\"https://images.code.org/2c092ea5edbb33405c019110df3f5710-image-1466095499984.43.56.png\"\nwidth=\"200px\"/>  \\r\n<hr/>\\r\n<br/>\\r\n華麗的線條怎麼樣！\\r\n<img src=\"https://images.code.org/361d2ad667853418a040ec9383505169-image-1466096394561.56.12.png\"\nwidth=\"200px\"/>  \\r\n<hr/>\\r\n\\r\n<br/>做個全新的玩意！  \\r\n<img\nsrc=\"https://images.code.org/6809a1bd2a364ae7e0ff42745ec1fe1b-image-1466097871045.23.44.png\"\nwidth=\"200px\"/>  \\r\n<hr/>\\r\n\\r\n\\r\n</details>\\r\n</h4>\\r\n\\r\n"
+      aEfreeplay: "<div style=\"color: #7665a0; font-size: 1.6em;\nline-height: 1.4em;\" >\\r\n<b>自由發揮：</b>\\r\n我們需要一些裝飾品來裝飾這個房子。\\r\n<br/><br/>\\r\n你可以設計個飾品點綴一下嗎？\\r\n</div>\\r\n<br/>\\r\n<h4>\\r\n<details>\\r\n<summary>需要點子？</summary>\\r\n<br/>\\r\n<br/>\\r\n來個菱形格狀桌巾吧！ \\r\n<img src=\"https://images.letron.vip/2c092ea5edbb33405c019110df3f5710-image-1466095499984.43.56.png\"\nwidth=\"200px\"/>  \\r\n<hr/>\\r\n<br/>\\r\n華麗的線條怎麼樣！\\r\n<img src=\"https://images.letron.vip/361d2ad667853418a040ec9383505169-image-1466096394561.56.12.png\"\nwidth=\"200px\"/>  \\r\n<hr/>\\r\n\\r\n<br/>做個全新的玩意！  \\r\n<img\nsrc=\"https://images.letron.vip/6809a1bd2a364ae7e0ff42745ec1fe1b-image-1466097871045.23.44.png\"\nwidth=\"200px\"/>  \\r\n<hr/>\\r\n\\r\n\\r\n</details>\\r\n</h4>\\r\n\\r\n"
       artistLoopsK2: |
         <div style="color: #7665a0; font-size:
         1.6em; line-height: 1.4em;" >\r
         現在，用一個`重複`積木來畫出這個線條 5 次！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif"
+        <img src="https://images.letron.vip/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif"
         width="300"/>\r
         
       artistLoopsK2gradek_artist_loops3: |
@@ -1168,7 +1168,7 @@ zh-TW:
         現在，用一個`重複`積木來畫出這個線條 5 次！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif"
+        <img src="https://images.letron.vip/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif"
         width="300"/>\r
         
       artistLoopsK3: |
@@ -1177,7 +1177,7 @@ zh-TW:
         畫一個 8 步長的線段，這會成為我們王國的土地！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/c00b930eb5fb13ae946847adc51c9bd3-image-1467935631246.gif"
+        <img src="https://images.letron.vip/c00b930eb5fb13ae946847adc51c9bd3-image-1467935631246.gif"
         width="300"/>\r
         
       artistLoopsK4: |
@@ -1187,7 +1187,7 @@ zh-TW:
         </div>\r
         \r
         <img
-        src="https://images.code.org/84b93e1b9dad3ee52a46c767524d3558-image-1467935697224.gif"
+        src="https://images.letron.vip/84b93e1b9dad3ee52a46c767524d3558-image-1467935697224.gif"
         width="300"/>\r
         
       artistLoopsK5: |
@@ -1196,7 +1196,7 @@ zh-TW:
         現在我們需要修一下城堡的頂部。你可以循環這個程式 3 次嗎？<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/f418ccba20b7230baba1328143bd0092-image-1467935762464.gif"
+        <img src="https://images.letron.vip/f418ccba20b7230baba1328143bd0092-image-1467935762464.gif"
         width="300"/>\r
         
       artistLoopsK6: |
@@ -1205,7 +1205,7 @@ zh-TW:
         有人困卡在塔裡了！修復樓梯讓他們能脫困。<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/1efb95ca15f66b46145725769d3d279c-image-1467935856461.gif"
+        <img src="https://images.letron.vip/1efb95ca15f66b46145725769d3d279c-image-1467935856461.gif"
         width="300"/>\r
         
       artistLoopsK7: |
@@ -1214,7 +1214,7 @@ zh-TW:
         這座塔真可愛，樓下不知道有什麼麼？建造另一個樓梯到下面看看！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/af040c27be11c3a639e18c440c8a047c-image-1467936046481.gif"
+        <img src="https://images.letron.vip/af040c27be11c3a639e18c440c8a047c-image-1467936046481.gif"
         width="300"/>\r
         
       artistLoopsK8: |
@@ -1223,7 +1223,7 @@ zh-TW:
         哇！那兒有個花園！幫忙修復這些階梯，我才能到那兒看看。<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/bf368872da36217b0d19261fc6b84bf6-image-1467936147116.gif"
+        <img src="https://images.letron.vip/bf368872da36217b0d19261fc6b84bf6-image-1467936147116.gif"
         width="300"/>\r
         
       artistLoopsK9: |
@@ -1232,7 +1232,7 @@ zh-TW:
         **挑戰：**  太可愛了！我們在花園裡四處走走吧。<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/cb5646ef57f68b47fa6c2762253a7044-image-1467936260174.gif"
+        <img src="https://images.letron.vip/cb5646ef57f68b47fa6c2762253a7044-image-1467936260174.gif"
         width="300"/>\r
         
       artistLoopsKA: |
@@ -1241,7 +1241,7 @@ zh-TW:
         那些石頭長錯位置了…幫我移動他們，這樣我才不會掉下去！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/5ba9e8e5c1524eec2b0ba3e4684b0cef-image-1467936361364.gif"
+        <img src="https://images.letron.vip/5ba9e8e5c1524eec2b0ba3e4684b0cef-image-1467936361364.gif"
         width="300"/>\r
         
       artistLoopsKB: |
@@ -1250,7 +1250,7 @@ zh-TW:
         看！有個劇院耶。幫我做些椅子，這樣一來我們才可以欣賞舞台劇。<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/c4263306ebb0ad1d99fe6f200a790d0c-image-1467936424533.gif"
+        <img src="https://images.letron.vip/c4263306ebb0ad1d99fe6f200a790d0c-image-1467936424533.gif"
         width="300"/>\r
         
       artistLoopsKFP: |
@@ -1262,28 +1262,28 @@ zh-TW:
         <tr>\r
         <td>\r
         <img
-        src="https://images.code.org/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif"
+        src="https://images.letron.vip/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif"
         width="150"/><br/>\r
         <h4>一隻唱歌的蝸牛</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif"
+        src="https://images.letron.vip/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif"
         width="150"/><br/>\r
         <h4>偉大城市</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif"
+        src="https://images.letron.vip/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif"
         width="150"/><br/>\r
         <h4>音樂會</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif"
+        src="https://images.letron.vip/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif"
         width="150"/><br/>\r
         <h4>一個生日蛋糕</h4><br/><br/>\r
         </td>\r
@@ -1311,7 +1311,7 @@ zh-TW:
       course2_harvester_loops_challenge1: 收集所有的玉米。
       course2_harvester_loops_challenge2: "收集所有的生菜。\n注意避開樹木和田地！"
       course2_playlab_stage17_11: "創作屬於你自己的故事。當你做完後記得點擊完成，讓朋友們能在手機上觀看你做的故事。\\r\n<br/>\\r\n\\r\n<h5>\\r\n<details>\\r\n<summary><b>需要一些靈感嗎？</b></summary>\\r\n\\t<br/>\\r\n\\t<h5>\\r\n\\t\\t<ul>\\r\n        \\t<li><strong>誰在那？</strong> - 讓所有角色以隨機圖片的方式顯示，這樣子就沒有人知道下一個出現的會是什麼。</li>\\r\n            <li><strong>冒險之旅</strong>\n- 改變背景，接著讓角色們互相對話，說出他們現在在哪裡。</li>\\r\n            <li><strong>彈跳球</strong> - 讓一個角色依方向鍵移動（使用當按向上鍵時、當按向下鍵時積木），接著在它撞到其他角色時，播放隨機音效）\n</li>\\r\n        </ul>\\r\n\\t</h5>\\r\n</details>\\r\n</h5>\\r\n"
-      course3_artist_concept_challenge1: "<img src=\"https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png\"\nwidth=\"200px\"/>\\r\n\\r\n挑戰時間到了！  \\r\n\\r\n這裡有個圖案，只用了你見到的積木做出來的。想一想，要怎麼重建它？你可以邊做邊試，錯了也沒關係。我們不要求你一次就做對。\\r\n\\r\n這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 "
+      course3_artist_concept_challenge1: "<img src=\"https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png\"\nwidth=\"200px\"/>\\r\n\\r\n挑戰時間到了！  \\r\n\\r\n這裡有個圖案，只用了你見到的積木做出來的。想一想，要怎麼重建它？你可以邊做邊試，錯了也沒關係。我們不要求你一次就做對。\\r\n\\r\n這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 "
       course4_artist_fwp_challenge1: 試著執行這個程式，然後做些改變看看它會發生什麼事情。你能清楚的知道它是怎麼運作的嗎？(或著刪除它，然後用完全不同的程式碼來取代它)
       courseA_artist_loops10: |-
         <div style="color: #7665a0;
@@ -1319,7 +1319,7 @@ zh-TW:
         是時候回到地面上了。幫幫我放上一些石頭，讓我不會掉下去！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/5ba9e8e5c1524eec2b0ba3e4684b0cef-image-1467936361364.gif"
+        <img src="https://images.letron.vip/5ba9e8e5c1524eec2b0ba3e4684b0cef-image-1467936361364.gif"
         width="300"/>\r
         
       courseA_artist_loops10_2018: |-
@@ -1328,7 +1328,7 @@ zh-TW:
         是時候回到地面上了。幫幫我放上一些石頭，讓我不會掉下去！<br/><br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/5ba9e8e5c1524eec2b0ba3e4684b0cef-image-1467936361364.gif"
+        <img src="https://images.letron.vip/5ba9e8e5c1524eec2b0ba3e4684b0cef-image-1467936361364.gif"
         width="300"/>\r
         
       courseA_artist_loops11: |-
@@ -1337,7 +1337,7 @@ zh-TW:
         幫我建些階梯，我想看著船航行到遠方。<br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/0dfa647dbc835fae09989a0fbfd798c7-image-1470871168220.gif"
+        <img src="https://images.letron.vip/0dfa647dbc835fae09989a0fbfd798c7-image-1470871168220.gif"
         width="300"/>\r
         
       courseA_artist_loops11_2018: |-
@@ -1346,7 +1346,7 @@ zh-TW:
         幫我建些階梯，我想看著船航行到遠方。<br/>\r
         </div>\r
         \r
-        <img src="https://images.code.org/0dfa647dbc835fae09989a0fbfd798c7-image-1470871168220.gif"
+        <img src="https://images.letron.vip/0dfa647dbc835fae09989a0fbfd798c7-image-1470871168220.gif"
         width="300"/>\r
         
       courseA_artist_loops8: |-
@@ -1355,7 +1355,7 @@ zh-TW:
         我們需要一個梯子到船上。<br/>\r
         </div>\r
         <img
-        src="https://images.code.org/6e4dc767e55d11400f35c6680bbfe1e3-image-1470788284437.gif"
+        src="https://images.letron.vip/6e4dc767e55d11400f35c6680bbfe1e3-image-1470788284437.gif"
         width="300"/>
       courseA_artist_loops8_2018: |-
         <div style="color: #7665a0; font-size:
@@ -1363,7 +1363,7 @@ zh-TW:
         我們需要一個梯子到船上。<br/>\r
         </div>\r
         <img
-        src="https://images.code.org/6e4dc767e55d11400f35c6680bbfe1e3-image-1470788284437.gif"
+        src="https://images.letron.vip/6e4dc767e55d11400f35c6680bbfe1e3-image-1470788284437.gif"
         width="300"/>
       courseA_collector_loops1: |-
         這是冒險家 Laurel！\r
@@ -1394,74 +1394,74 @@ zh-TW:
       courseA_maze_seq10: |-
         **挑戰：** 繞過 TNT 炸藥，讓鳥抓到豬！\r
         \r
-        <img src="https://images.code.org/fa04813e9451e0bc070af50bc01d4a6b-image-1467932582838.gif"
+        <img src="https://images.letron.vip/fa04813e9451e0bc070af50bc01d4a6b-image-1467932582838.gif"
         width="200px"/>
       courseA_maze_seq11: |-
         移動以讓鳥抓到猪。\r
         \r
-        <img src="https://images.code.org/c2e2d7ea98a18d899c6de183ce6d82e1-image-1471385293382.gif"
+        <img src="https://images.letron.vip/c2e2d7ea98a18d899c6de183ce6d82e1-image-1471385293382.gif"
         width="200px"/>\r
         
-      courseA_maze_seq11_2018: "移動以讓鳥抓到猪。\\r\n\\r\n<img src=\"https://images.code.org/c2e2d7ea98a18d899c6de183ce6d82e1-image-1471385293382.gif\"\nwidth=\"200px\"/>\\r\n"
+      courseA_maze_seq11_2018: "移動以讓鳥抓到猪。\\r\n\\r\n<img src=\"https://images.letron.vip/c2e2d7ea98a18d899c6de183ce6d82e1-image-1471385293382.gif\"\nwidth=\"200px\"/>\\r\n"
       courseA_maze_seq12: |-
         抓到那頭豬！\r
         \r
-        <img src="https://images.code.org/f908ff77eb81ee85d405a7ba66cc2986-image-1467933103380.gif"
+        <img src="https://images.letron.vip/f908ff77eb81ee85d405a7ba66cc2986-image-1467933103380.gif"
         width="200px"/>\r
         
-      courseA_maze_seq12_2018: "抓到那頭豬！\\r\n\\r\n<img src=\"https://images.code.org/f908ff77eb81ee85d405a7ba66cc2986-image-1467933103380.gif\"\nwidth=\"200px\"/>\\r\n"
+      courseA_maze_seq12_2018: "抓到那頭豬！\\r\n\\r\n<img src=\"https://images.letron.vip/f908ff77eb81ee85d405a7ba66cc2986-image-1467933103380.gif\"\nwidth=\"200px\"/>\\r\n"
       courseA_maze_seq1_2018: '*「使用這些積木，試著讓我抓到這隻壞豬豬！」*'
       courseA_maze_seq3: |-
         *「修正這個程式，好讓我抓到這頭豬！」*\r
         \r
         <img
-        src="https://images.code.org/629cddc754f9ad02929f06fc68462e4d-image-1467924800613.gif"
+        src="https://images.letron.vip/629cddc754f9ad02929f06fc68462e4d-image-1467924800613.gif"
         width="200"/>
       courseA_maze_seq3_2018: |-
         *「修正這個程式，好讓我抓到這頭豬！」*\r
         \r
         <img
-        src="https://images.code.org/629cddc754f9ad02929f06fc68462e4d-image-1467924800613.gif"
+        src="https://images.letron.vip/629cddc754f9ad02929f06fc68462e4d-image-1467924800613.gif"
         width="200"/>
-      courseA_maze_seq4: "*\"有個地方不大正確。\"*\n\\r\n\\r\n「移除」一個積木好讓鳥能抓到這頭豬！\\r\n\\r\n<img src=\"https://images.code.org/dd6d92233199ee0f524caa4051b99275-image-1467920800577.gif\"\nwidth=\"200px\"/>"
-      courseA_maze_seq4_2018: "*\"有個地方不大正確。\"*\n\\r\n\\r\n「移除」一個積木好讓鳥能抓到這頭豬！\\r\n\\r\n<img src=\"https://images.code.org/dd6d92233199ee0f524caa4051b99275-image-1467920800577.gif\"\nwidth=\"200px\"/>"
+      courseA_maze_seq4: "*\"有個地方不大正確。\"*\n\\r\n\\r\n「移除」一個積木好讓鳥能抓到這頭豬！\\r\n\\r\n<img src=\"https://images.letron.vip/dd6d92233199ee0f524caa4051b99275-image-1467920800577.gif\"\nwidth=\"200px\"/>"
+      courseA_maze_seq4_2018: "*\"有個地方不大正確。\"*\n\\r\n\\r\n「移除」一個積木好讓鳥能抓到這頭豬！\\r\n\\r\n<img src=\"https://images.letron.vip/dd6d92233199ee0f524caa4051b99275-image-1467920800577.gif\"\nwidth=\"200px\"/>"
       courseA_maze_seq5: |-
         在開始時試試這個。\r
         \r
         <img
-        src="https://images.code.org/43001078c4df6feea1a6edf025192d85-image-1467929743355.gif"
+        src="https://images.letron.vip/43001078c4df6feea1a6edf025192d85-image-1467929743355.gif"
         width="200px"/>
       courseA_maze_seq6: |-
         移動以讓鳥抓到這頭豬！\r
         \r
-        <img src="https://images.code.org/0b324bc0f684f7a22171acd8b38c8d9f-image-1467931807767.gif"
+        <img src="https://images.letron.vip/0b324bc0f684f7a22171acd8b38c8d9f-image-1467931807767.gif"
         width="200px"/>
       courseA_maze_seq6_2018: 先往一個方向移動，接著再往另一個方向移動，讓鳥能夠抓到這頭豬！
       courseA_maze_seq7: |-
         想一想少了什麼，然後添加一些積木讓鳥抓到這頭豬！\r
         \r
-        <img src="https://images.code.org/b9803e12911694d8bb18bd55304f85d5-image-1467932006704.gif"
+        <img src="https://images.letron.vip/b9803e12911694d8bb18bd55304f85d5-image-1467932006704.gif"
         width="200px"/>
       courseA_maze_seq7_2018: |-
         想一想少了什麼，然後添加一些積木讓鳥抓到這頭豬！\r
         \r
-        <img src="https://images.code.org/b9803e12911694d8bb18bd55304f85d5-image-1467932006704.gif"
+        <img src="https://images.letron.vip/b9803e12911694d8bb18bd55304f85d5-image-1467932006704.gif"
         width="200px"/>
       courseA_maze_seq8: |-
         完成這個關卡，讓鳥抓到猪！\r
         \r
-        <img src="https://images.code.org/1eb9139e2887083dc80b98d9aeb3bef2-image-1467932105884.gif"
+        <img src="https://images.letron.vip/1eb9139e2887083dc80b98d9aeb3bef2-image-1467932105884.gif"
         width="200px"/>
       courseA_maze_seq8_2018: 完成這個關卡，讓鳥抓到這頭豬！
       courseA_maze_seq9: |-
         **挑戰：** 找出這個關卡的錯誤，添加積木讓鳥抓到這頭豬！\r
         \r
-        <img src="https://images.code.org/810d7189bcd0767d37ea82319b4c678c-image-1467932445247.gif"
+        <img src="https://images.letron.vip/810d7189bcd0767d37ea82319b4c678c-image-1467932445247.gif"
         width="200px"/>
       courseA_maze_seq9_2018: |-
         **挑戰：** 找出這個關卡的錯誤，添加積木讓鳥抓到這頭豬！\r
         \r
-        <img src="https://images.code.org/810d7189bcd0767d37ea82319b4c678c-image-1467932445247.gif"
+        <img src="https://images.letron.vip/810d7189bcd0767d37ea82319b4c678c-image-1467932445247.gif"
         width="200px"/>
       courseA_maze_seq_challenge1: 替這個關卡除錯，移除多餘的積木並添加缺少的積木，讓憤怒鳥抓到這頭豬！
       courseA_maze_seq_challenge1_2018: 替這個關卡除錯，移除多餘的積木並添加缺少的積木，讓憤怒鳥抓到這頭豬！
@@ -1474,28 +1474,28 @@ zh-TW:
         <tr>\r
         <td>\r
         <img
-        src="https://images.code.org/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif"
+        src="https://images.letron.vip/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif"
         width="150"/><br/>\r
         <h4>一隻唱歌的蝸牛</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif"
+        src="https://images.letron.vip/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif"
         width="150"/><br/>\r
         <h4>一座大城市</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif"
+        src="https://images.letron.vip/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif"
         width="150"/><br/>\r
         <h4>A Concert</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif"
+        src="https://images.letron.vip/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif"
         width="150"/><br/>\r
         <h4>一個生日蛋糕</h4><br/><br/>\r
         </td>\r
@@ -1512,28 +1512,28 @@ zh-TW:
         <tr>\r
         <td>\r
         <img
-        src="https://images.code.org/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif"
+        src="https://images.letron.vip/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif"
         width="150"/><br/>\r
         <h4>一隻唱歌的蝸牛</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif"
+        src="https://images.letron.vip/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif"
         width="150"/><br/>\r
         <h4>一座大城市</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif"
+        src="https://images.letron.vip/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif"
         width="150"/><br/>\r
         <h4>A Concert</h4><br/><br/>\r
         </td>\r
         \r
         <td>\r
         <img
-        src="https://images.code.org/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif"
+        src="https://images.letron.vip/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif"
         width="150"/><br/>\r
         <h4>一個生日蛋糕</h4><br/><br/>\r
         </td>\r
@@ -1739,7 +1739,7 @@ zh-TW:
       courseD_scrat_ramp2: 從工具箱中拖曳出另一個`移動-向前`積木，把它放在`當運行時`積木下，就可以完成編碼。
       courseD_scrat_ramp2_2018: 從工具箱中拖曳出另一個`移動-向前`積木，把它放在`當運行時`積木下，就可以完成編碼。
       courseE_artist_concept_challenge1: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/>\r
         \r
         挑戰時間到了！  \r
@@ -1748,7 +1748,7 @@ zh-TW:
         \r
         這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 
       courseE_artist_concept_challenge1_2018: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/>\r
         \r
         挑戰時間到了！  \r
@@ -1837,8 +1837,8 @@ zh-TW:
         做得好！現在編輯這個函式，裡頭添加一個參數以代表多邊形的邊數。\r
         \r
         所有圖形的邊長都是 100 像素。
-      courseF_artist_fwp5: "使用上個關卡的函式來畫出這一系列的圖形。  \\r\n\\r\n\\r\n這個三角形的邊長為 21 像素，而接下來的圖形的邊長都比上一個長 7 像素。\\r\n使用 multipication（多重）積木，讓這個功能只要呼叫一個函式就可以完成。\\r\n<hr/>\\r\nmultipication（多重）積木就像這樣![](https://images.code.org/55e293447c6b26bbbcf29cda2036706b-image-1481322763779.png)\\r\n\\r\n"
-      courseF_artist_fwp5_2018: "使用上個關卡的函式來畫出這一系列的圖形。  \\r\n\\r\n\\r\n這個三角形的邊長為 21 像素，而接下來的圖形的邊長都比上一個長 7 像素。\\r\n使用 multipication（多重）積木，讓這個功能只要呼叫一個函式就可以完成。\\r\n<hr/>\\r\nmultipication（多重）積木就像這樣![](https://images.code.org/55e293447c6b26bbbcf29cda2036706b-image-1481322763779.png)\\r\n\\r\n"
+      courseF_artist_fwp5: "使用上個關卡的函式來畫出這一系列的圖形。  \\r\n\\r\n\\r\n這個三角形的邊長為 21 像素，而接下來的圖形的邊長都比上一個長 7 像素。\\r\n使用 multipication（多重）積木，讓這個功能只要呼叫一個函式就可以完成。\\r\n<hr/>\\r\nmultipication（多重）積木就像這樣![](https://images.letron.vip/55e293447c6b26bbbcf29cda2036706b-image-1481322763779.png)\\r\n\\r\n"
+      courseF_artist_fwp5_2018: "使用上個關卡的函式來畫出這一系列的圖形。  \\r\n\\r\n\\r\n這個三角形的邊長為 21 像素，而接下來的圖形的邊長都比上一個長 7 像素。\\r\n使用 multipication（多重）積木，讓這個功能只要呼叫一個函式就可以完成。\\r\n<hr/>\\r\nmultipication（多重）積木就像這樣![](https://images.letron.vip/55e293447c6b26bbbcf29cda2036706b-image-1481322763779.png)\\r\n\\r\n"
       courseF_artist_fwp6: |-
         **挑戰：** 編輯 draw a spiral edge（畫個螺旋圖）以使用 length（邊長）和 sides（邊數）參數，然後重建出這些圖形。\r
         \r
@@ -2016,7 +2016,7 @@ zh-TW:
       grade2_collector_A: 幫 Laurel 收集到所有寶石。
       grade2_collector_A_2018: 幫 Laurel 收集到所有寶石。
       grade2_collector_pre1: "*「哈囉，我是 Laurel。我正在狗狗公園找寶石！」*  \n\n利用這些程式積木，看看你能不能幫 Laurel 收集到寶石。"
-      grade2_link_RunMarco_partner: "<a href=\"https://www.allcancode.com/runmarco\"></a><img\nsrc=\"https://images.code.org/c754e82a395ab69e5c1e3b2dfe8bf9ff-image-1486603338831.22.10.png\"\nwidth=\"400px\"/></a>"
+      grade2_link_RunMarco_partner: "<a href=\"https://www.allcancode.com/runmarco\"></a><img\nsrc=\"https://images.letron.vip/c754e82a395ab69e5c1e3b2dfe8bf9ff-image-1486603338831.22.10.png\"\nwidth=\"400px\"/></a>"
       grade2_maze_debuggingFP: '*「現在，幫我偷襲這隻豬，不管用什麼辦法，你想得到的都行！」*'
       grade2_puppy_loops2: |-
         哇嗚，神奇的積木出現啦！利用`重複`積木，你可以讓一段程式不斷的循環執行。\r
@@ -2116,8 +2116,8 @@ zh-TW:
       grade4_artist_functionsChallenge0: "**挑戰：**盡可能做出你想要的函式，用函式來繪製邊長為 50 像素的正方形。"
       grade4_artist_functions_challenge: "**函式超級挑戰：**使用建議的函式來畫出四列的六角形，注意到我們的偶數列是如何移動到右邊的嗎？"
       grade4_artist_functions_challenge2: "**函式超級挑戰：**使用建議的函式來畫出四列的六角形，注意到我們的偶數列是如何移動到右邊的嗎？"
-      grade4_artist_nestedLoops_challenge: "<img src=\"https://images.code.org/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"\nwidth=\"150px;\" style=\"mix-blend-mode: multiply;\" />\\r\n\\r\n**遊戲時間：**這兒有個程式能畫出有趣的圖形。 \\r\n\\r\n如果把它重複個幾次，然後在每次的循環都轉向，會發生什麼事呢？\\r\n\\r\n注意當這個圖形的轉向到達了 **420 度**時，就表示小畫家畫完了，它面對的方向會和一開始畫圖的方向不同，這個新的方向會是初始繪圖方向的*向右 60 度*。\\r\n\\r\n<hr/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 4 次</b></summary>\\r\n<br/>\\r\n如果你想要在 4 次重複內畫完一個圓形，小畫家需要每次轉 **360 度/4 = 90 度**。你可以在迴圈外層額外添加「轉向-右方 30 度」積木來做到（因為 **60+30 = 90**）。\n<br/>\\r\n<img src=\"https://images.code.org/9da67a628ed72e87520a02a0d917e2af-image-1440132370113.44.12.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n<br/><br/>\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 6 次</b></summary>\\r\n<br/>\\r\n當你重複這個圖形 6 次，你轉了 **6x60 度**， 也就是剛好一圈 **360 度**。\\r\n<img\nsrc=\"https://images.code.org/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"  width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 12 次</b></summary>\\r\n<br/>\\r\n如果你想要重複這個圖形 12 次，小畫家每次循環需要轉 **360 度/12 = 30 度** 。那表示你需要在重複畫出圖形之前先稍微調整小畫家的方向，讓它向左轉 30 度。<br/><br/>\\r\n<img src=\"https://images.code.org/ad254952522674496918561096817c66-image-1440132424792.44.01.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n現在換你了！你能利用重複初始圖形的方式來創建出每個圖案嗎？  "
-      grade4_artist_nestedLoops_challenge2: "<img src=\"https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png\"\nwidth=\"200px\"/>\\r\n\\r\n挑戰時間到了！  \\r\n\\r\n這裡有個圖案，只用了你見到的積木做出來的。想一想，要怎麼重建它？你可以邊做邊試，錯了也沒關係。我們不要求你一次就做對。\\r\n\\r\n這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 "
+      grade4_artist_nestedLoops_challenge: "<img src=\"https://images.letron.vip/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"\nwidth=\"150px;\" style=\"mix-blend-mode: multiply;\" />\\r\n\\r\n**遊戲時間：**這兒有個程式能畫出有趣的圖形。 \\r\n\\r\n如果把它重複個幾次，然後在每次的循環都轉向，會發生什麼事呢？\\r\n\\r\n注意當這個圖形的轉向到達了 **420 度**時，就表示小畫家畫完了，它面對的方向會和一開始畫圖的方向不同，這個新的方向會是初始繪圖方向的*向右 60 度*。\\r\n\\r\n<hr/>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 4 次</b></summary>\\r\n<br/>\\r\n如果你想要在 4 次重複內畫完一個圓形，小畫家需要每次轉 **360 度/4 = 90 度**。你可以在迴圈外層額外添加「轉向-右方 30 度」積木來做到（因為 **60+30 = 90**）。\n<br/>\\r\n<img src=\"https://images.letron.vip/9da67a628ed72e87520a02a0d917e2af-image-1440132370113.44.12.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n<br/><br/>\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 6 次</b></summary>\\r\n<br/>\\r\n當你重複這個圖形 6 次，你轉了 **6x60 度**， 也就是剛好一圈 **360 度**。\\r\n<img\nsrc=\"https://images.letron.vip/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"  width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n<h4>\\r\n<details>\\r\n<summary><b>重複 12 次</b></summary>\\r\n<br/>\\r\n如果你想要重複這個圖形 12 次，小畫家每次循環需要轉 **360 度/12 = 30 度** 。那表示你需要在重複畫出圖形之前先稍微調整小畫家的方向，讓它向左轉 30 度。<br/><br/>\\r\n<img src=\"https://images.letron.vip/ad254952522674496918561096817c66-image-1440132424792.44.01.png\"\nwidth=\"500px;\" style=\"mix-blend-mode: multiply;\" />\\r\n</details>\\r\n</h4>\\r\n\\r\n現在換你了！你能利用重複初始圖形的方式來創建出每個圖案嗎？  "
+      grade4_artist_nestedLoops_challenge2: "<img src=\"https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png\"\nwidth=\"200px\"/>\\r\n\\r\n挑戰時間到了！  \\r\n\\r\n這裡有個圖案，只用了你見到的積木做出來的。想一想，要怎麼重建它？你可以邊做邊試，錯了也沒關係。我們不要求你一次就做對。\\r\n\\r\n這些重複的圖形和上個關卡的圖案幾乎相同，除了第一個迴圈裡用的長度比較小以外。 "
       grade4_artist_nested_loop_circles1: "** 評量：** 使用一個巢狀迴圈來完成這個圖案。"
       grade4_artist_nested_loop_flags1: 重複已給的代碼來畫出一個風車。
       grade4_artist_nested_loop_polygons1: "循環這個圖樣 10 次。\\r\n\\r\n你知道在每個圖樣畫完後要轉多少角度嗎？"
@@ -2163,14 +2163,14 @@ zh-TW:
       grade4_playlab_freeplay: "自由活動時間到了！\n好好享用工具箱的所有積木吧。\\r\n<br/>\\r\n\\r\n<h5>\\r\n<details>\\r\n<summary><b>這裡有些點子。</b></summary>\\r\n\\t<br/>\\r\n\\t<h5>\\r\n\\t\\t<ul>\\r\n        \\t<li><strong>追著跑</strong>\n- 讓角色 2 來回走動，然後使用你的方向鍵移動角色 1，追著角色 1 跑，直到他們碰在一起。 </li>\\r\n            <li><strong>打地鼠</strong>\n- 讓一個角色在隨機位置突然出現，在他消失前點擊他就得分。 </li>\\r\n            <li><strong>猜誰先出現</strong> - 讓二個角色都先消失，隨機的改變位置，並隨機出現其中一個角色。點擊第一個出現的角色就得分，如果點擊到第二個出現的角色就扣分！ </li>\\r\n        </ul>\\r\n\\t</h5>\\r\n</details>\\r\n</h5>\\r\n"
       grade4_playlab_test: "<h5><b>\\r在我們的遊戲中，要怎樣才能獲得分數呢？\\r\n</b></h5>\\r\n<br/>\\r\n\\r\n1. 在每次小狗用派擊中小貓時，加 1 到你的 `points` 變數上。<br/><br/>\\r\n2. 使用`當角色2碰到任何東西`事件來觸發分數更新。你可以利用 `points = points +1` 的方式增加變數值。<br/><br/>\n\\r\n3. 分數到達 10 分（每次加 1 分）就過關。\\r\n\\r\n<br/><br/>\\r\n<h4>\\r\n**注意：**\n使用向右鍵扔出派！\\r\n</h4>"
       grade4_playlab_test2: "這裡有個函式叫做 `jump`（跳躍），它可以讓你的主要角色向上跳 100 像素。\\r\n\\r\n運行這個程式，用方向鍵來控制小狗，並利用 `jump` 函式收集所有的旗幟。"
-      grade4_review_artist2: "這個房子需要一個屋頂！畫出這個三角形。\\r\n\\r\n提示：三個邊的長度都相同。\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      grade4_review_artist2: "這個房子需要一個屋頂！畫出這個三角形。\\r\n\\r\n提示：三個邊的長度都相同。\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       grade4_review_artist3: "跳躍積木只會移動小藝術家而不會繪圖。\n同時使用`跳躍-向前`和`移動-向前`積木來畫出這個虛線。\n每個線條長度為 50 像素。"
       grade4_review_bee1: 現在使用`重複`積木來收集所有的花蜜和蜂蜜。
       grade4_review_bee3: |-
         蜜蜂就是那麼忙！\r
         \r
         幫助蜜蜂收集所有的花蜜及蜂蜜，用的積木愈少愈好。
-      grade5_artist_binary10: "<img src=\"https://images.code.org/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \n\\r\n<br/>\\r\n"
+      grade5_artist_binary10: "<img src=\"https://images.letron.vip/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \n\\r\n<br/>\\r\n"
       grade5_artist_binary2: "這裡有一個函式採用 1與 0 的二進位字串，引導藝術家跟隨它們由左至右，由上到下。\\r\n\\r\n 當藝術家看到 1 時會填滿方格，當藝術家看到 0 時則忽略方格。\\r \n\\r\n**運行這個程式，看看這位藝術家如何使用二進位繪製這個圖案。**"
       grade5_artist_for_loops10: "**挑戰：**\n你能想的到要如何建立這個多邊形圖案嗎？這個圖案的邊長是 40 像素，用你所有學過的東西試試看。"
       grade5_artist_for_loops5: |-
@@ -2179,8 +2179,8 @@ zh-TW:
         提示，你需要移除某個東西！
       grade5_artist_for_loops8: "還記得在上一個階段，我們使用一個變數來控制圖形的邊數嗎？\n現在我們要用 `counter` 這個變數來做相同的事情。\\r\n\\r\n這個圖案從一個三角形開始，且每次增加 1 個邊直到畫出一個十邊形。每個圖形的邊長為 100 像素。 \\r\n\\r\n你要如何使用計數迴圈中的 `counter` 變數來重建圖案呢？"
       grade5_artist_for_loops9: "讓我們總結一下吧！\\r\n\\r\n用你所知道的計數迴圈與 `counter` 變數，來創造出每個形狀都比前一個多 2 條邊的圖案，確保每條邊長是這個多邊形邊數的 10 倍。\\r\n\\r\n這裡提供給你一些些參考的程式碼。"
-      grade5_artist_for_loopsfreeplay11: "<br/><br/>\\r\n<img\nsrc=\"https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png\"\nwidth=\"250px\"/>\\r\n<br/><br/>\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。"
-      grade5_artist_functionparameters10: "<img src=\"https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
+      grade5_artist_for_loopsfreeplay11: "<br/><br/>\\r\n<img\nsrc=\"https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png\"\nwidth=\"250px\"/>\\r\n<br/><br/>\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。"
+      grade5_artist_functionparameters10: "<img src=\"https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png\"\nwidth=\"250px\"/>\\r\n\\r\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！\\r\n\\r\n如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 \\r\n\\r\n注意：我們用了`設定透明度`積木來製作 petals（花瓣）向外褪色的效果。"
       grade5_artist_functionparameters9a: |
         完成這個 draw a spiral edge（畫個螺旋圖）函式，並詢問螺旋圖中間最小的長度。\r
         \r
@@ -2203,7 +2203,7 @@ zh-TW:
         **自由發揮**：讓我們一探究竟！現在你的演算法嵌入了又一個循環中。試著改變這兩個變數的值來畫出很酷的圖形。 \r
         \r
         如果想看到更好的效果，試試使用顏色積木！在循環裡面使用隨機取色，看看效果如何。
-      grade5_artist_variables_freeplay15: "<img src=\"https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png\"\nwidth=\"250px\"/>\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 "
+      grade5_artist_variables_freeplay15: "<img src=\"https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png\"\nwidth=\"250px\"/>\n**自由發揮靈感：**你已經學會了製作這樣的圖案所需的知識了！如果這個圖案讓你有些聯想，試試畫出一些類似的圖像。要不然，就畫畫你想畫的一些東西。 "
       grade5_artist_variables_hexagons1: "讓我們再試一次！\\r\n\\r\n你可以將 length（長度）變數設為 60，以完成這個酷炫的六邊形圖案嗎？"
       grade5_artist_variables_letterT11: "這裡有個複雜的程式，它的概念與上一關相同，你要設定的是 `sides`（邊數）變數，以畫出由正方形組合而成的圖案。\\r\n\\r\n<p\nstyle=\"font-size:small; padding: 15px 15px 15px 40px; background-color:#dcf3f3;\nborder-radius:10px;\">\\r\n\\t玩一玩：試著使用一些其他的數字，看看圖案會有什麼變化！\\r\n</p>"
       grade5_artist_variables_octagons13: "當一個圖形的邊愈多，每個邊的長度就要愈小，這樣你才能讓整個圖案顯示在畫面。\\r\n\\r\n我們來重建這個演算式來畫出神奇的圖案，取代原來需手動設置的 `length`（長度）變數，我們改用運算類型的積木和一個 `sides`（邊數）變數。這可以確保每個圖形都能完整顯示在畫面。\\r\n\\r\n每個多邊形的周長都是 300 像素。"
@@ -2271,23 +2271,23 @@ zh-TW:
         \r
         你可以幫幫牠嗎？\r
         \r
-        ![](https://images.code.org/f32d285fa6f45e1f8d042c04c55f32c8-image-1467988839292.gif)
+        ![](https://images.letron.vip/f32d285fa6f45e1f8d042c04c55f32c8-image-1467988839292.gif)
       playEventsK3: |-
         小狗想要搔搔耳朵！\r
         \r
         你可以寫個程式讓牠被點擊時變得開心嗎？\r
         \r
-        ![](https://images.code.org/04fb37990455b215e0f20884363092d0-image-1467988943134.gif)
+        ![](https://images.letron.vip/04fb37990455b215e0f20884363092d0-image-1467988943134.gif)
       playEventsK4: |-
         你可以在按向上鍵時，讓小狗往小鳥那走去嗎？\r
         \r
-        ![](https://images.code.org/2fbf6c793bb77a961fa7a52f27e4c59d-image-1467989013878.gif)
+        ![](https://images.letron.vip/2fbf6c793bb77a961fa7a52f27e4c59d-image-1467989013878.gif)
       playEventsK5: |-
         現在添加程式，在你點擊向前箭頭時，讓羅賓飛走。\r
         \r
-        ![](https://images.code.org/a7e224c5f13e39e5342011f8a76d3b6b-image-1467989101328.gif)
+        ![](https://images.letron.vip/a7e224c5f13e39e5342011f8a76d3b6b-image-1467989101328.gif)
       playEventsK6: |-
         讓小鳥在被點一下時和小狗說話。\r
         \r
-        ![](https://images.code.org/fc80b1febbb7a472026b6bf2c535b2f4-image-1467989171517.gif)
+        ![](https://images.letron.vip/fc80b1febbb7a472026b6bf2c535b2f4-image-1467989171517.gif)
       playEventsK7: "在這個有趣的場景下還能做些什麼呢？\\r\n<br/>\\r\n\\r\n<h5>\\r\n<details>\\r\n<summary><b>需要些靈感嗎？</b></summary>\\r\n\\t<br/>\\r\n\\t<h5>\\r\n\\t\\t<ul>\\r\n        \\t<li><strong>對話</strong>\n- 當你在他們上面點一下時，精靈之間會互相交談。</li>\\r\n            <li><strong>彈力球</strong>\n- 讓一個精靈發出聲音，當其他的精靈撞到她時。</li>\\r\n            <li><strong>方向鍵</strong>\n- 寫個程式，用方向鍵控制精靈的移動方向！</li>\\r\n        </ul>\\r\n\\t</h5>\\r\n</details>\\r\n</h5>"

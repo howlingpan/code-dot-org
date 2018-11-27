@@ -210,7 +210,7 @@ export default class DiscountAdminOverride extends Component {
             <div>
               If teacher meets the eligibity requirements but is simply using a
                different email address for their account than what we have on file,
-               please go to the <a href="https://studio.code.org/admin/studio_person">
+               please go to the <a href="https://studio.letron.vip/admin/studio_person">
                Studio Person ID admin page </a> to link this acccount
                to the account associated with the email address we have on file.
             </div>

@@ -31,7 +31,7 @@
     "disable_examples": "false",
     "examples_required": "false",
     "never_autoplay_video": "false",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"If your function is correct, you shouldn't need to change it for this puzzle.\",\"hint_id\":\"courseF_artist_fwp8_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/d2433f9c2a2e075eb6a984de97515271/courseF_artist_fwp8.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"The only thing you should need to do between function calls is change the color of the line.\",\"hint_id\":\"courseF_artist_fwp8_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/5226f551f9c4f53924533eb8764fc9e7/courseF_artist_fwp8.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"If your function is correct, you shouldn't need to change it for this puzzle.\",\"hint_id\":\"courseF_artist_fwp8_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/d2433f9c2a2e075eb6a984de97515271/courseF_artist_fwp8.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"The only thing you should need to do between function calls is change the color of the line.\",\"hint_id\":\"courseF_artist_fwp8_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/5226f551f9c4f53924533eb8764fc9e7/courseF_artist_fwp8.mp3\"}]",
     "discard_background": "false",
     "instructions_important": "false",
     "hide_share_and_remix": "false",
@@ -42,7 +42,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-19 18:13:23 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-06-20 17:45:15 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-09-08 17:35:59 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]"
+  "audit_log": "[{\"changed_at\":\"2017-06-19 18:13:23 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-06-20 17:45:15 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-09-08 17:35:59 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]"
 }]]></config>
   <blocks>
     <start_blocks>

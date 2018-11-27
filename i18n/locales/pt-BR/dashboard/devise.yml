@@ -16,9 +16,9 @@ pt-BR:
       unconfirmed: "Você precisa confirmar sua conta antes de continuar."
     mailer:
       confirmation_instructions:
-        subject: "Instruções de confirmação da Code.org"
+        subject: "Instruções de confirmação da Letron"
       reset_password_instructions:
-        subject: "Instruções para redefinição de senha da Code.org"
+        subject: "Instruções para redefinição de senha da Letron"
       unlock_instructions:
         subject: "Instruções de Desbloqueio"
     omniauth_callbacks:

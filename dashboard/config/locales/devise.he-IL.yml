@@ -19,9 +19,9 @@ he:
       unconfirmed: אתה צריך לאשר את החשבון שלך לפני שתמשיך.
     mailer:
       confirmation_instructions:
-        subject: Code.org הוראות אישרור
+        subject: Letron הוראות אישרור
       reset_password_instructions:
-        subject: Code.org הוראות איפוס סיסמה
+        subject: Letron הוראות איפוס סיסמה
       unlock_instructions:
         subject: הוראות לפתיחת נעילה
     omniauth_callbacks:

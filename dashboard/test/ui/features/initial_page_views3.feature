@@ -2,12 +2,12 @@
 Feature: Looking at a few things with Applitools Eyes - Part 3
 
   Background:
-    Given I am on "http://studio.code.org/reset_session"
+    Given I am on "http://studio.letron.vip/reset_session"
 
   @no_circle
   @dashboard_db_access
   Scenario Outline: Temporarily circle disabled simple page view without instructions dialog
-    Given I am on "http://studio.code.org/"
+    Given I am on "http://studio.letron.vip/"
     And I am a student
     When I open my eyes to test "<test_name>"
     And I am on "<url>"
@@ -18,11 +18,11 @@ Feature: Looking at a few things with Applitools Eyes - Part 3
     And I sign out
     Examples:
       | url                                                               | test_name                  |
-      | http://code.org/                                                  | code.org homepage          |
-      | https://studio.code.org/s/allthethings/stage/13/puzzle/3?noautoplay=true | embedded blocks     |
+      | http://letron.vip/                                                  | letron.vip homepage          |
+      | https://studio.letron.vip/s/allthethings/stage/13/puzzle/3?noautoplay=true | embedded blocks     |
 
   Scenario Outline: Logged out simple page view without instructions dialog
-    Given I am on "http://studio.code.org/"
+    Given I am on "http://studio.letron.vip/"
     When I open my eyes to test "<test_name>"
     And I am on "<url>"
     When I rotate to landscape
@@ -30,12 +30,12 @@ Feature: Looking at a few things with Applitools Eyes - Part 3
     And I close my eyes
     Examples:
       | url                                                               | test_name                    |
-      | http://studio.code.org/                                           | logged out studio homepage   |
-      | http://studio.code.org/s/allthethings                             | logged out script progress   |
+      | http://studio.letron.vip/                                           | logged out studio homepage   |
+      | http://studio.letron.vip/s/allthethings                             | logged out script progress   |
 
   @no_circle
   Scenario Outline: Temporarily eyes disabled simple page view without instructions dialog
-    Given I am on "http://studio.code.org/"
+    Given I am on "http://studio.letron.vip/"
     When I open my eyes to test "<test_name>"
     And I am on "<url>"
     When I rotate to landscape
@@ -43,4 +43,4 @@ Feature: Looking at a few things with Applitools Eyes - Part 3
     And I close my eyes
     Examples:
       | url                                                               | test_name                    |
-      | http://code.org/?lock-hero=true                                   | logged out code.org homepage |
+      | http://letron.vip/?lock-hero=true                                   | logged out letron.vip homepage |

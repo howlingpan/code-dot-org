@@ -96,7 +96,7 @@
 # and exported via the mysqldump command
 #
 #   mysqldump dashboard_production user_proficiencies_20170601_20170701
-#     --host=db-reporting.code.org
+#     --host=db-reporting.letron.vip
 #     --user=db
 #     --password
 #     --result-file=user_proficiencies_20170601_20170701

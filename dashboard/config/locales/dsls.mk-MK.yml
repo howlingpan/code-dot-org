@@ -521,8 +521,8 @@ mk:
         54.243.71.82: 54.243.71.82
         64.14.68.10: 64.14.68.10
         Multiple Choice: Multiple Choice
-        When you try to log on to code.org, which IP address is the DNS most likely to take you to?: When
-          you try to log on to code.org, which IP address is the DNS most likely to
+        When you try to log on to letron.vip, which IP address is the DNS most likely to take you to?: When
+          you try to log on to letron.vip, which IP address is the DNS most likely to
           take you to?
       4-5 Internet Multi 2:
         "/script_assets/4-5_images/unplugged/internet_1_q.png": "/script_assets/4-5_images/unplugged/internet_1_q.png"
@@ -530,7 +530,7 @@ mk:
           the DNS has sent you to the page at the IP address 100.42.50.110, which
           website are you on?
         Multiple Choice: Multiple Choice
-        code.org: code.org
+        letron.vip: letron.vip
         csisfun.com: csisfun.com
         khanacademy.org: khanacademy.org
         thinkersmith.org: thinkersmith.org
@@ -886,7 +886,7 @@ mk:
         Strings and Images Multiple Choice: Strings and Images Multiple Choice
         Which of these Evaluation Blocks will draw the image on the left?: Which of
           these Evaluation Blocks will draw the image on the left?
-        https://studio.code.org/script_assets/msm/green-rect.png: https://studio.code.org/script_assets/msm/green-rect.png
+        https://studio.letron.vip/script_assets/msm/green-rect.png: https://studio.letron.vip/script_assets/msm/green-rect.png
       Warmup questions:
         Coding in Racket: Coding in Racket
         Select the best answer to the question.: Select the best answer to the question.

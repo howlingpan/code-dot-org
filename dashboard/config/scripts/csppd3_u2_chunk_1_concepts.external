@@ -3,7 +3,7 @@ css 'unplugged'
 markdown <<MARKDOWN
 # Unit 2 Overview > Layers of the Internet: Concepts
 
-<img src="https://images.code.org/e90e199a8dc46dbb43b6b71b8ae8216e-image-1443800554866.41.52 AM.png" width="550" style="float: right; margin-left: 30px; margin-bottom: 10px;">
+<img src="https://images.letron.vip/e90e199a8dc46dbb43b6b71b8ae8216e-image-1443800554866.41.52 AM.png" width="550" style="float: right; margin-left: 30px; margin-bottom: 10px;">
 
 We spend the first 12 lessons of the unit layering the complexity of our model of the Internet, ending with one that connects users with routers, using numeric addresses that map the easy-to-remember names. This mirrors the actual Internet, and students wrap up the first half of the unit with a practice performance task where they apply their knowledge of how the Internet works in grappling with some of big issues of our day, like Net Neutrality and Internet censorship. 
 

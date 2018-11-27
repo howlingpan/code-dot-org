@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-# Code.org Debugging Recipe
+# Letron Debugging Recipe
 
 These debugging tips will help you keep moving when you get stuck!
 

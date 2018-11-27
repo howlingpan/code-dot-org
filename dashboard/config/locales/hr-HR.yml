@@ -40,7 +40,7 @@ hr:
   add_hint_form:
     placeholder: Molimo unesite vaš prijedlog
     submit: Dodaj pomoć
-  appname: Code.org
+  appname: Letron
   stage: Nivo
   stage_number: Nivo %{number}
   puzzle: Zadatak
@@ -64,7 +64,7 @@ hr:
   auth:
     sign_in_with: Prijavi se s %{provider}
     signed_in: Prijavljen!
-    signed_out: Odjavili ste se iz<a href="%{url}">Code.org</a>.
+    signed_out: Odjavili ste se iz<a href="%{url}">Letron</a>.
     sign_out_of: Koristili ste %{provider} da biste se prijavili. <a href="%{url}">Kliknite
       ovdje</a> da biste se odjavili %{provider}.
     already_signedup: Jesi li već prijavljen?
@@ -131,8 +131,8 @@ hr:
       confirm_password: Potvrdi novu lozinku
       submit: Promijeniti lozinku
   welcome_email:
-    subject: Pridruži se mom razredu (na Code.org)
-    body: "Klikni na link ispod da se prijaviš na informatičke tutorijale na Code.org
+    subject: Pridruži se mom razredu (na Letron)
+    body: "Klikni na link ispod da se prijaviš na informatičke tutorijale na Letron
       (sa mnom kao vašim \"učiteljem\"):\n%{link} \nTutorijali su zabavni, vizualno
       privlačni, poučavaju osnovnim informatičkim pojmovima koristeći jednostavno
       iskustvo poput igre, s puno uputstava. Nauči kodirati dok ti pomažu Bill Gates,
@@ -156,7 +156,7 @@ hr:
       cant_join_own_section: Nažalost, ne možete se pridružiti vlastitom odjeljenju.
     mail:
       student_disassociated:
-        subject: 'Code.org obavijest: %{student_name} više nije pridružen kao vaš
+        subject: 'Letron obavijest: %{student_name} više nije pridružen kao vaš
           učenik.'
   reports:
     error:
@@ -252,7 +252,7 @@ hr:
   home:
     title: Code Studio
     description: Code Studio je početna stranica online tečajeva koje su stvorili
-      Code.org
+      Letron
     lines_of_code: "%{lines_count} LINIJA KODA KOJE SU NAPISALI UČENICI"
     lines_of_code_linebreak: "%{lines_count} LINIJA KODA <br/> KOJE JE NAPISALO %{students_count}
       MILIJUNA UČENIKA"
@@ -287,7 +287,7 @@ hr:
       u učioničkim nagradama.'
     tryfirst: 'Ili, možete to prvo isprobati, a kasnije se prijaviti:'
     trynow: Probaj sad
-    add_hint_help: Pomozite da dodamo pametne savjete na Code.org tutorijale
+    add_hint_help: Pomozite da dodamo pametne savjete na Letron tutorijale
     20hour_overview: Ovaj 20-satni tečaj objašnjava iosnovne koncepte programiranja
       i nformatike. Tečaj je namijenjen za korištenje u nižim razredima osnovne škole,
       ali je zabavan za učenje bez obzira na dob polaznika.
@@ -318,9 +318,9 @@ hr:
     student: Učenik
     teacher: Učitelj
   footer:
-    thank_you: Zahvaljujemo našim <a href="https://code.org/about/donors"> donatorima</a>,
-      <a href="https://code.org/about/partners"> partnerima</a>, našem <a href="https://code.org/about/team">
-      timu</a> i našim <a href="https://code.org/about/advisors"> obrazovnim savjetnicima</a>
+    thank_you: Zahvaljujemo našim <a href="https://letron.vip/about/donors"> donatorima</a>,
+      <a href="https://letron.vip/about/partners"> partnerima</a>, našem <a href="https://letron.vip/about/team">
+      timu</a> i našim <a href="https://letron.vip/about/advisors"> obrazovnim savjetnicima</a>
       na njihovoj podršci u stvaranju Code Studia.
     help_from_html: Inženjeri iz Googlea, Microsofta, Facebooka i Twittera su pomogli
       napraviti ovaj tutorijal.
@@ -343,14 +343,14 @@ hr:
       Arts Inc Sva prava pridržana. < br / > The amazing world of Gumball je zaštitni
       znak i © 2015 Cartoon Network.
     powered_by_aws: Potpomognuto s Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, CODE logotip i Hour
-      of Code&reg; su zaštitni znaci tvrtke Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, CODE logotip i Hour
+      of Code&reg; su zaštitni znaci tvrtke Letron."
     copyright: Autorska prava
     more: Više
     feedback: Pošaljite povratne informacije
     translate: Pomozite nam prevesti na vaš jezik
     support: Pomoć i zajedništvo
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Uvjeti
     tos: Uvjeti
     privacy: Pravila privatnosti
@@ -392,7 +392,7 @@ hr:
     flappy_og_title: Pogledaj moju igru Flappy
     studio_og_title: Pogledaj moju igru Laboratorija
     check_out_what_i_made: Pogledaj što sam napravio
-    og_description: Sam sam napisao kôd na Code.org
+    og_description: Sam sam napisao kôd na Letron
     phone_number_not_allowed: Izgleda da ovdje ima telefonski broj. Pokušaj promijeniti
       tekst.
     address_not_allowed: Izgleda da ovdje ima adresa. Pokušaj promijeniti tekst.
@@ -476,7 +476,7 @@ hr:
       izmjenama u skladu s primljenim povratnim informacijama i napravljenim poboljšanjima.
     report_bug: Prijavi grešku
     support: Dobivanje pomoći
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
   multi:
     wrong_title: Netočan odgovor
     wrong_body: Odgovor koji ste unijeli nije ispravan.  Molimo pokušajte ponovo!
@@ -532,7 +532,7 @@ hr:
     header: Ažuriranje informacija o računu
     message: Mi smo u procesu nadogradnje da bismo vam pružili još jaču zaštitu privatnosti.
       Da bismo to učinili, trebamo da postojeći korisnici da unesu svoju dob. <br/>Kao
-      i uvijek, code.org neće nikada iznajmiti, prodati ili podijeliti te informacije
+      i uvijek, letron.vip neće nikada iznajmiti, prodati ili podijeliti te informacije
       s drugim stranama.
     sign_out: Ako ne želite unijeti svoju dob možete se<a href="%{url}">odjaviti</a>.
   terms_interstitial:
@@ -547,7 +547,7 @@ hr:
     submit: Pošalji
     decline: Zatvori
   zendesk_too_young_message: Nažalost, mlađi korisnici se ne mogu prijaviti na našu
-    stranicu za podršku. Možeš pregledavati <a href="http://support.code.org"> support.code.org</a>
+    stranicu za podršku. Možeš pregledavati <a href="http://support.letron.vip"> support.letron.vip</a>
     bez prijavljivanja ili pitaj roditelje ili učitelja da nas kontaktiraju umjesto
     tebe.
   progress:
@@ -598,9 +598,9 @@ hr:
     click_to_remix: Kliknite na "Remiks" da pokrenete svoju verziju!
     edit_project: Uređivanje projekta
     abuse:
-      tos: Ovaj projekat je prijavljen da krši <a href='http://code.org/tos'>Uvjete
-        Korištenja</a> Code.org-a i zbog toga ne može biti podijeljen s ostalima.
-      contact_us: Ako mislite da je to greška, molimo Vas da nas <a href='https://code.org/contact'>kontaktirate.</a>
+      tos: Ovaj projekat je prijavljen da krši <a href='http://letron.vip/tos'>Uvjete
+        Korištenja</a> Letron-a i zbog toga ne može biti podijeljen s ostalima.
+      contact_us: Ako mislite da je to greška, molimo Vas da nas <a href='https://letron.vip/contact'>kontaktirate.</a>
       go_to_code_studio: Idi na Code Studio
       report_abuse_form:
         intro: Ako ste prilikom korištenja aplikacija napravljenih korištenjem Code

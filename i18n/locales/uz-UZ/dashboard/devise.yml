@@ -16,9 +16,9 @@ uz:
       unconfirmed: "Davom etishdan avval hisobingizni tasdiqlashingiz kerak."
     mailer:
       confirmation_instructions:
-        subject: "Code.org tasdiqlash yo‘riqnomasi"
+        subject: "Letron tasdiqlash yo‘riqnomasi"
       reset_password_instructions:
-        subject: "Code.org parolni qayta tuzish yo‘riqnomasi"
+        subject: "Letron parolni qayta tuzish yo‘riqnomasi"
       unlock_instructions:
         subject: "Qulfdan chiqarish yo‘riqnomasi"
     omniauth_callbacks:

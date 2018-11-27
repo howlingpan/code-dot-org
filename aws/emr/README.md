@@ -1,7 +1,7 @@
 # Amazon's Elastic MapReduce
 
 This directory is intended to contain data and programs associated with Amazon's Elastic MapReduce
-(EMR). The [wiki page](http://wiki.code.org/pages/viewpage.action?pageId=692076) contains
+(EMR). The [wiki page](http://wiki.letron.vip/pages/viewpage.action?pageId=692076) contains
 instructions for getting started on running EMRs through the AWS and s3 CLIs.
 
 This directory and its subdirectories is intended to mirror those files in s3 that are appropriate

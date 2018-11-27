@@ -9,7 +9,7 @@ Maps, identifying variables, subsetting data, sorting data, frequency of types, 
 
 ## Lesson Overview
 
-<img src="https://images.code.org/2c59f60d8dc0d2dc59a65297244b8ebd-image-1455022146456.png" width=300px style=" float:right; margin-left:10px">
+<img src="https://images.letron.vip/2c59f60d8dc0d2dc59a65297244b8ebd-image-1455022146456.png" width=300px style=" float:right; margin-left:10px">
 
 This lesson is going to take a look at creating maps using the latitude and longitude of a location and then create a map from a data file. The basics features of loading and saving files, sorting and creating subsets are explored. Students should be able to read location data from a file and plot points on maps. It is suggested to create a bubble plot chart. There is not a specific tool required to do this activity, so take some time to see what tool you think will work best in your computer lab and consider our recommendations for tools from earlier in this module.
 

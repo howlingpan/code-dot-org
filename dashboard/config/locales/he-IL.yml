@@ -34,7 +34,7 @@ he:
         gender: מין
         edit_header: שינוי פרטי החשבון
         finish_sign_up_header: סיים ליצור את החשבון שלך
-        finish_sign_up_subheader: מלא את הפרטים הבאים על מנת לסיים ליצור חשבון Code.org
+        finish_sign_up_subheader: מלא את הפרטים הבאים על מנת לסיים ליצור חשבון Letron
           עבור <strong>%{email}</strong>.
         error:
           future: לא יכול להיות בעתיד
@@ -61,7 +61,7 @@ he:
   add_hint_form:
     placeholder: הכניסו בבקשה את הרמז שלכם כאן
     submit: הוסף רמז
-  appname: Code.org
+  appname: Letron
   stage: שלב
   stage_number: שיעור %{number}
   puzzle: חידה
@@ -86,7 +86,7 @@ he:
   auth:
     sign_in_with: היכנס באמצעות %{provider}
     signed_in: נכנסת!
-    signed_out: התנתקת מ<a href="%{url}">Code.org</a>.
+    signed_out: התנתקת מ<a href="%{url}">Letron</a>.
     sign_out_of: השתמשת ב- %{provider} להכנס. in. <a href="%{url}"> לחץ כאן</a> כדי
       לצאת מ- %{provider}.
     already_signedup: כבר נרשמת?
@@ -101,11 +101,11 @@ he:
     forgot_password: שכחת את הסיסמא שלך?
     need_confirmation: לא קיבלת את  ההוראות האישור?
     need_unlock: לא קיבלת את ההוראות הפתיחה?
-    not_linked: מצטערים, חשבון Code.org שלך אינו מקושר ל%{provider}. עליך להתחבר בעזרת
+    not_linked: מצטערים, חשבון Letron שלך אינו מקושר ל%{provider}. עליך להתחבר בעזרת
       הקלדת ססמתך מטה.
-    use_clever: מצטערים, חשבון Code.org שלך אינו מקושר ל%{provider}. עליך להתחבר דרך
+    use_clever: מצטערים, חשבון Letron שלך אינו מקושר ל%{provider}. עליך להתחבר דרך
       "הפורטל החכם" שלך במקום.
-    unable_to_connect_provider: אין אפשרות להתחבר לחשבון Code.org שלך אל ה%{provider}
+    unable_to_connect_provider: אין אפשרות להתחבר לחשבון Letron שלך אל ה%{provider}
       שלך. אנא נסה שוב.
   signup_form:
     student_count: "%{count} תלמידים כבר נרשמו."
@@ -124,7 +124,7 @@ he:
       תהיה באפשרותך להקצות קורסים לתלמידים ולעקוב אחר התקדמותם. <a href="%{studio_url}">באפשרותך
       להמשיך ולתור אחר שלבים ופאזלים</a> בלי יצירת חשבון.
     teacher_educator_guide: ראה מדריך למחנך
-    title: הרשם לCode.org
+    title: הרשם לLetron
     school_name: שם בית הספר (אופציונלי)
     school_address: כתובת בית הספר (אופציונלי)
     address_placeholder: כתובת, עיר, מדינה, מיקוד
@@ -141,18 +141,18 @@ he:
     valid_password: סיסמה תקינה!
     invalid_password: הסיסמא חייבת להכיל לפחות 6 תווים
     mismatch_password: שתי הסיסמאות שהזנת אינן תואמות
-    agree_tos_privacy: אני מסכים ל-<a href='http://code.org/tos'>תנאי השימוש</a> ו-<a
-      href='http://code.org/privacy'>תנאי הפרטיות</a>.
+    agree_tos_privacy: אני מסכים ל-<a href='http://letron.vip/tos'>תנאי השימוש</a> ו-<a
+      href='http://letron.vip/privacy'>תנאי הפרטיות</a>.
     under_13_consent: אני תחת גיל 13, אני מאשר שהורי או האפוטרופוסים החוקיים שלי מאשרים
-      לי להשתמש בשירותי Code.org.
-    student_consent: אני מאשר שיש לי אישור הורה או אפוטרופוס להשתמש בשירותי Code.org.
+      לי להשתמש בשירותי Letron.
+    student_consent: אני מאשר שיש לי אישור הורה או אפוטרופוס להשתמש בשירותי Letron.
     agree_us_website: אני מאשר להשתמש באתר אינטרנט אשר נמצא בארצות הברית.
     my_data_to_us: יתכן כי נתוני השימוש שלי ישלחו או ישמרו או יעובדו בארצות הברית.
     student_terms: כתובות דוא"ל אינם נשמרים בצורה המאפשרת לנו ליצור קשר עם תלמידים.
-      תלמידים לעולם לא יקבלו דוא"ל מCode.org למעט עבור שחזור סיסמא. צפה ב<a href='http://code.org/privacy'>מדיניות
+      תלמידים לעולם לא יקבלו דוא"ל מLetron למעט עבור שחזור סיסמא. צפה ב<a href='http://letron.vip/privacy'>מדיניות
       הפרטיות</a> לפרטים נוספים.
-    teacher_terms: אני מסכים להיות מחויב לתנאי השירות של Code.org. לקבלת מידע נוסף
-      אודות פרטיות, עיין ב-<a href='http://code.org/privacy'>מדיניות הפרטיות</a>.
+    teacher_terms: אני מסכים להיות מחויב לתנאי השירות של Letron. לקבלת מידע נוסף
+      אודות פרטיות, עיין ב-<a href='http://letron.vip/privacy'>מדיניות הפרטיות</a>.
     additional_information: יש צורך במידע נוסף כדי להמשיך ביצירת החשבון שלך.
     user_type_button: עדכן סוג חשבון
     user_type_label: סוג חשבון
@@ -218,7 +218,7 @@ he:
       submit: שלח
     reset_errors:
       captcha_required: אנא מלא את הCAPTCHA בכדי לאפס את סיסמתך.
-      invalid_email: נראה כי נרשמת עם כתובת דואר אלקטרוני שגויה. אנא שלך דוא"ל לsupport@code.org
+      invalid_email: נראה כי נרשמת עם כתובת דואר אלקטרוני שגויה. אנא שלך דוא"ל לsupport@letron.vip
         בכדי לקבל קישור לאיפוס סיסמה.
     change_form:
       title: שנה את הסיסמא שלך
@@ -226,9 +226,9 @@ he:
       confirm_password: אשר סיסמא חדשה
       submit: שנה את הסיסמא שלי
   welcome_email:
-    subject: הצטרפו לשיעור (Code.org)
+    subject: הצטרפו לשיעור (Letron)
     body: |
-      לחץ על הקישור להלן כדי להירשם לקבלת הדרכות מדעי המחשב ב- Code.org (איתי בתור ה"מורה" שלך):
+      לחץ על הקישור להלן כדי להירשם לקבלת הדרכות מדעי המחשב ב- Letron (איתי בתור ה"מורה" שלך):
 
       %{link}
 
@@ -237,10 +237,10 @@ he:
 
       %{name}
   parent_mailer:
-    student_associated_subject: פרטי החיבור עבור Code.org
+    student_associated_subject: פרטי החיבור עבור Letron
   teacher_mailer:
-    new_teacher_subject: ברוך הבא לCode.org!
-    delete_teacher_subject: 'הודעת Code.org: החשבון שלך נמחק'
+    new_teacher_subject: ברוך הבא לLetron!
+    delete_teacher_subject: 'הודעת Letron: החשבון שלך נמחק'
   section:
     your_section:
       one: 'הקבוצה שלך:'
@@ -274,7 +274,7 @@ he:
         הקבוצה מחדש.
     mail:
       student_disassociated:
-        subject: 'הודעה מCode.org: %{student_name} כבר לא רשום כתלמיד שלך.'
+        subject: 'הודעה מLetron: %{student_name} כבר לא רשום כתלמיד שלך.'
   reports:
     error:
       access_denied: אין לך גישה לסטטיסטיקות של האדם הזה
@@ -327,7 +327,7 @@ he:
       educate_high: תיכון
       educate_hoc: שעה של קוד
       educate_partner: שותף יחד איתנו
-      educate_beyond: מעבר ל-Code.org
+      educate_beyond: מעבר ל-Letron
       educate_inspire: הנחל השראה לתלמיד
       educate_community: קהילה אינטרנטית
       educate_tools: כלים וסרטונים
@@ -428,19 +428,19 @@ he:
     no_password_because_oauth: אין סיסמה כי נכנסת לחשבונך עם ספק צד שלישי.
     no_password_because_sponsored: צפה במורה שלך בכדי לנהל את סיסמתך.
     create_personal_login: צור חשבון כניסה אישי
-    create_personal_login_under_13_info: אם ברצונך להמשיך להשתמש בחשבון Code.org שלך
+    create_personal_login_under_13_info: אם ברצונך להמשיך להשתמש בחשבון Letron שלך
       גם לאחר סיום שנת הלימודים, בקש מההורה/אפוטרופוס שלך כדי לסייע לך ליצור חשבון
       כניסה אישי משלך מטה.
     create_personal_login_under_13_username: שם משתמש (אין להשתמש בשם האמיתי שלך!)
     create_personal_login_under_13_parent_email: דוא"ל של הורה/אפוטרופוס
-    create_personal_login_info: אם ברצונך להמשיך להשתמש בחשבון Code.org שלך גם לאחר
+    create_personal_login_info: אם ברצונך להמשיך להשתמש בחשבון Letron שלך גם לאחר
       סיום שנת הלימודים, באפשרותך ליצור חשבון כניסה אישי משלך מטה.
     create_personal_login_terms: על-ידי יצירת חשבון כניסה אישי, אני מסכים להיות מחויב
-      ל<a href='%{terms_of_service_url}', target='_blank'>תנאי השימוש</a> של Code.org.
+      ל<a href='%{terms_of_service_url}', target='_blank'>תנאי השימוש</a> של Letron.
       אם אני תחת גיל 13, אני מאשר שיש בידי אישור מהורה או אפוטרופוס חוקי רשות להשתמש
-      בשירותי Code.org גם ללא מורה.
+      בשירותי Letron גם ללא מורה.
     create_personal_login_email_note: 'שים לב: כתובות דוא"ל אינם נשמרים בצורה המאפשרת
-      לנו ליצור קשר עם תלמידים. תלמידים לעולם לא יקבלו דוא"ל מCode.org למעט עבור שחזור
+      לנו ליצור קשר עם תלמידים. תלמידים לעולם לא יקבלו דוא"ל מLetron למעט עבור שחזור
       סיסמה. צפה ב<a href=''%{privacy_policy_url}'', target=''_blank''>מדיניות הפרטיות</a>
       לפרטים נוספים.'
     enter_new_login_info: הזן את פרטי ההתחברות החדשים שלך
@@ -456,7 +456,7 @@ he:
     tried: נוסה
   home:
     title: ההתקדמות שלי
-    description: ב"code studio"  נמצאים קורסים אינטרנטיים שמיוצרים על ידי code.org
+    description: ב"code studio"  נמצאים קורסים אינטרנטיים שמיוצרים על ידי letron.vip
     lines_of_code: "%{lines_count} שורות קוד נכתבו על ידי תלמידים"
     lines_of_code_linebreak: "%{lines_count} שורות של קוד<br/>נכתבו על ידי %{students_count}
       מיליון תלמידים"
@@ -487,7 +487,7 @@ he:
     prize_info: 'פרסים על השתתפות(מורים מארצות הברית בלבד): עד ל 1000$ בפרסי כיתה.'
     tryfirst: 'או, שתוכל לנסות זאת קודם כל, ולהירשם לאחר מכן:'
     trynow: נסה עכשיו
-    add_hint_help: אנא עזור לנו להוסים רמזים חכמים למדריכים code.org
+    add_hint_help: אנא עזור לנו להוסים רמזים חכמים למדריכים letron.vip
     20hour_overview: קורס בן 20 שעות זה, מציג בפניך בסיס במדעי המחשב וברעיונות בתכנות.
       הקורס מתוכנן לשימוש בכיתות גן עד ח׳, אבל זה כיף ללמוד בכל הגילאים.
     test_videos_help: נסה את נגן הוידאו החדש שלנו בבית ספרך
@@ -535,12 +535,12 @@ he:
       החדש של מיינקרפט שעת קוד נותן לתלמידים להגדיר את החוקים של עולם המיינקרפט. הם
       יכולים לייצר חוויה יחודית במיינקרפט ואז לשתף אותם עם חברים או לשחק בטלפונים
       שלהם. עשה זאת עם כיתתך כחלק משעת קוד.
-    announcement_how_code_studio: אינך זקוק לניסיון בלימוד מדעי המחשב לכיתתך. Code.org
+    announcement_how_code_studio: אינך זקוק לניסיון בלימוד מדעי המחשב לכיתתך. Letron
       מציע תוכנית לימודים, מערכי שיעור, ותוכנות הדרכה מקצועיות ואיכותיות ועוד המון
       כלים לכל הכיתות והרמות.&mdash; כל שתצטרך והכל ללא עלות. לא בטוח כיצד להתחיל?
       הורד <a href='%{video_download_url}'>את הסרטון הזה</a>!
     announcement_go_beyond: המשך מעבר לשעת קוד וחקור רעיונות נוספים במדעי המחשב עם
-      התלמידים שלך בכל שבוע. Code.org מציע לך מערכי שיעור, תכניות שיעור ללימוד מתקדם
+      התלמידים שלך בכל שבוע. Letron מציע לך מערכי שיעור, תכניות שיעור ללימוד מתקדם
       באיכות גבוהה ועוד הרבה כלים לכל הגילאים&mdash;והכל בחינם. :) אינך נדרש לניסיון
       בלימוד מדעי המחשב בכיתתך. <b>מצא את השלב הבא המתאים לכיתה שלך.</b>
     announcement_teacher_recruitment: מורים כמוך מובילים את תנועת החינוך ללימוד מדעי
@@ -555,12 +555,12 @@ he:
       הקורסים שלנו ליסודות מדעי המחשב! אנחנו מחפשים מורים שישתתפו בפילוט לתכנית הלימודים
       העדכנית שלנו בנושא יסודות מדעי המחשב במהלך החורף ואביב של 2017. אנו משתוקקים
       לשמוע את המשוב שלך לפני שהעדכונים האלו יעלו באוגוסט 2017."
-    announcement_student_privacy: אנו ב-Code.org לוקחים מאוד ברצינות את נושא פרטיות
+    announcement_student_privacy: אנו ב-Letron לוקחים מאוד ברצינות את נושא פרטיות
       התלמיד. כדי להגן על פרטיות תלמידי ביצענו שינוי למסך הכניסה לקבוצה שלך כדי להימנע
       מהצגה של שמות מלאים. אפילו ששינוי זה מוריד מעט את החשדות ממסך החיבור, אנו עדיין
       מעודדים משתמשים <i>שלא להשתמש בשמות מלאים עבור התלמידים</i>.
     announcement_navigation_redesign: "<b>שינויים קרובים בניווט באתר</b><br/> מגיעים
-      בקיץ הקרוב, אנו משפרים את הניווט בכל האתר של Code.org כדי שתוכל לגשת למשאבים
+      בקיץ הקרוב, אנו משפרים את הניווט בכל האתר של Letron כדי שתוכל לגשת למשאבים
       החשובים שלך מכל מקום באתר. ברגע שתתחבר לחשבון המורה שלך, בכל דף יהיה סרגל ניווט
       חדש עם לינקים לדף הבית, לקורסים, לגלריות הפרויקט, קבוצות ולימוד מקצועי."
   move_students:
@@ -591,9 +591,9 @@ he:
     student: תלמיד
     teacher: מורה
   footer:
-    thank_you: אנו מודים <a href="https://code.org/about/donors">לתורמים</a> שלנו,
-      <a href="https://code.org/about/partners">שותפים</a>, <a href="https://code.org/about/team">הצוות
-      המורחב</a>, צוות הסרטונים וגם <a href="https://code.org/about/advisors">ליועצי
+    thank_you: אנו מודים <a href="https://letron.vip/about/donors">לתורמים</a> שלנו,
+      <a href="https://letron.vip/about/partners">שותפים</a>, <a href="https://letron.vip/about/team">הצוות
+      המורחב</a>, צוות הסרטונים וגם <a href="https://letron.vip/about/advisors">ליועצי
       התוכן הלימודי</a> על התמיכה ביצירת סטודיו קוד.
     help_from_html: אנחנו בעיקר רוצים להכיר תודה להמהנדסים של גוגל, מיקרוסופט, פייסבוק,
       טוויטר, ועוד רבים אחרים שעזרו ליצור חומרים אלו.
@@ -654,7 +654,7 @@ he:
     flappy_og_title: תראה את משחק ההתנופפות שלי
     studio_og_title: בוא תראה את האפליקצייה שייצרתי במעבדת הצעצועים
     check_out_what_i_made: בדוק מה הכנתי
-    og_description: כתבתי קוד בעצמי באמצעות code.org
+    og_description: כתבתי קוד בעצמי באמצעות letron.vip
     phone_number_not_allowed: נראה שיש שם מספר טלפון. נסה להחליף את הטקסט.
     address_not_allowed: נראה שיש פה כתובת. נסה לשנות את הטקסט.
     email_not_allowed: נראה שיש פה כתובת דוא"ל. נסה לשנות את הטקסט.
@@ -892,7 +892,7 @@ he:
     submit: שלח
     decline: סגור
   zendesk_too_young_message: מצטערים, משתמשים צעירים אינם יכולים להתחבר לאתר התמיכה
-    שלנו. תוכל לגלוש ל- <a href="http://support.code.org">support.code.org</a> ללא
+    שלנו. תוכל לגלוש ל- <a href="http://support.letron.vip">support.letron.vip</a> ללא
     הזדהות או בקש מהוריך או המורה שלך ליצור איתנו קשר בשימך.
   progress:
     not_started: לא החל
@@ -957,14 +957,14 @@ he:
     click_to_remix: לחץ "צור משלך" כדי ליצר גרסה משלך לפרויקט!
     edit_project: ערוך פרויקט
     sharing_disabled: מצטערים, פרויקט זה אינו זמין לשיתוף. אם זה הפרויקט שלך או הפרויקט
-      של אחד מתלמידיך, אנא <a href='https://studio.code.org/users/sign_in'>התחבר</a>
+      של אחד מתלמידיך, אנא <a href='https://studio.letron.vip/users/sign_in'>התחבר</a>
       לחשבונך כדי לצפות בפרויקט.
     abuse:
-      tos: פרויקט זה דווח כמפר את <a href='http://code.org/tos'>תנאי השימוש</a> של
-        Code.org ואין אפשרות לשתף אותו עם אחרים.
+      tos: פרויקט זה דווח כמפר את <a href='http://letron.vip/tos'>תנאי השימוש</a> של
+        Letron ואין אפשרות לשתף אותו עם אחרים.
       policy_violation: פרויקט זה מכיל מידע אשר לא ניתן לשיתוף עם אחרים. אנא צור קשר
         עם בעלי האפליקציה כדי לתקן את התוכן של האפליקציה שלהם.
-      contact_us: אם אתה חושב שזו טעות, אנא <a href='https://code.org/contact'>צור
+      contact_us: אם אתה חושב שזו טעות, אנא <a href='https://letron.vip/contact'>צור
         קשר.</a>
       go_to_code_studio: עבור לסטודיו קוד
       report_abuse_form:
@@ -1031,7 +1031,7 @@ he:
     csp3_1_2018: 'יחידה 3: מבוא לתכנות'
   external_links:
     disclaimer: כתב ויתור
-    leaving_domain: אתה עוזב כעת את התחום הזה לעבר אתר אשר אינו מנוהל על-ידי Code.org.
+    leaving_domain: אתה עוזב כעת את התחום הזה לעבר אתר אשר אינו מנוהל על-ידי Letron.
   hoc_download:
     title: הורדות של שעת קוד
     capsule_title: האם יש ברשותך גישה לאינטרנט?
@@ -1093,7 +1093,7 @@ he:
     mac: Mac OS X
   stage_extras_teacher_message: כיבית את האפשרות לתוספות לשיעור עבור חלק מהקבוצות
     שלך. התלמידים שלך לא יוכלו לראות את הדפים האלו אלא אם כן תאפשר זאת. תוכל לאפשר
-    את התוספות לשיעור ע"י ניווט ל <a href='http://code.org/teacher-dashboard'>לוח
+    את התוספות לשיעור ע"י ניווט ל <a href='http://letron.vip/teacher-dashboard'>לוח
     הבקרה למורה</a> שלך.
   locked_stage: התכנים בשלב זה אינם ניתנים לשימוש מכיוון ששלב זה נעול כרגע. המורה
     שלך יכול לשחרר את הנעילה של השלב ברגע שיגיע הזמן לעבוד עליו או הזמן לבדוק את תשובותיך.
@@ -1122,16 +1122,16 @@ he:
       workshop_organizer: מארגן הסדנה
       workshop_facilitator: מנחה הסדנה
       workshop_course: קורס הסדנה
-      email_opt_in: האם נוכל לשלוח לך דוא"ל בנוגע לתכנית הבינלאומית של Code.org, לעדכן
+      email_opt_in: האם נוכל לשלוח לך דוא"ל בנוגע לתכנית הבינלאומית של Letron, לעדכן
         אותך בקורסים, או חדשות נוספות בעולם מדעי המחשב?
-      legal_opt_in: 'על-ידי שליחת טופס זה, אתה מסכים לאפשר ל-Code.org לשתף מידע בנושא
-        אופן השימוש שלך בשירותים ובלימוד המקצועי שלך עם שותף בינלאומי של Code.org
+      legal_opt_in: 'על-ידי שליחת טופס זה, אתה מסכים לאפשר ל-Letron לשתף מידע בנושא
+        אופן השימוש שלך בשירותים ובלימוד המקצועי שלך עם שותף בינלאומי של Letron
         הנמצא בארצך, מחוז בית הספר, ומנחי קורסים. אנו נשתף את פרטי הקשר שלך, איזה
         קורסים/יחידות אתה משתמש ומידע סיכומי על הכיתה שלך עם שותפים אלו. זה כולל את
         מספר התלמידים בכיתותיך, חתך דמוגרפי של הכיתה שלך, ושם בית הספר והמחוז. אנו
         לא נשתף מידע על תלמידים בודדים עם השותפים שלנו: כל המידע על התלמידים יטושטשו
         ויסוכמו. השותפים הבינלאומיים והמנחים שלנו מחויבים בחוזה לשימוש במידע שנשלח
-        אליהם באותה רמת סודיות כמו Code.org.'
+        אליהם באותה רמת סודיות כמו Letron.'
     form_entries:
       gender:
         male: גבר
@@ -1174,7 +1174,7 @@ he:
         opt_in_yes: כן
         opt_in_no: לא
   cookie_banner:
-    more_information: הצג את מדיניות הפרטיות של Code.org.
+    more_information: הצג את מדיניות הפרטיות של Letron.
     accept: מסכים
   gdpr_dialog:
     heading: האם אתה מאשר להשתמש באתר המבוסס בשטח ארצות הברית?

@@ -21,9 +21,9 @@ ar:
       unconfirmed: يجب تأكيد الحساب الخاص بك قبل الاستمرار.
     mailer:
       confirmation_instructions:
-        subject: تعليمات تأكيد Code.org
+        subject: تعليمات تأكيد Letron
       reset_password_instructions:
-        subject: إرشادات إعادة تعيين كلمة المرور Code.org
+        subject: إرشادات إعادة تعيين كلمة المرور Letron
       unlock_instructions:
         subject: تعليمات إلغاء التأمين
     omniauth_callbacks:

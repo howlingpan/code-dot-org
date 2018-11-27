@@ -15,7 +15,7 @@ markdown <<MARKDOWN
 <br>
 
 <div style="float: right; width: 400px; text-align: center; padding: 10px">
-<img src="https://images.code.org/7bb2754f7960f51399b19fc44e977325-image-1477339460071.png"><br>
+<img src="https://images.letron.vip/7bb2754f7960f51399b19fc44e977325-image-1477339460071.png"><br>
 <em>How to print to the console in various programming languages.</em>
 </div>
 The quote at the top of the the page is from one of the authors of the first books about the C programming language. It is still relevant and largely true today.
@@ -30,7 +30,7 @@ In the future you might see a task that asks you to do something like, "Write a 
 
 ## Gaining control: Display messages to yourself
 <div style="float: right; width: 400px; text-align: center; padding: 10px">
-<img src="https://images.code.org/baf244a881a988e7ca9375500c517df0-image-1477340527847.png" style="float: right">
+<img src="https://images.letron.vip/baf244a881a988e7ca9375500c517df0-image-1477340527847.png" style="float: right">
 <em>Example output from a programmer who used a lot of console.log statements to track what was happening in her program.</em>
 </div>
 Printing messages to the console is just about the **fastest and easiest** way to immediately see output from a running program.  
@@ -66,7 +66,7 @@ You may notice that the Debug Console area is usually collapsed by default in or
 
 So you don't need to worry about missing anything, it will open when necessary.  This animation shows the action.
 
-![](https://images.code.org/df0ec58089a056ccadf1cb2d599c2110-image-1489696821090.gif)
+![](https://images.letron.vip/df0ec58089a056ccadf1cb2d599c2110-image-1489696821090.gif)
 
 You can expand and collapse the Debug Console yourself by clicking on the little arrow in purple header.
 MARKDOWN

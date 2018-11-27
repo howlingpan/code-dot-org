@@ -90,7 +90,7 @@ const HeroMinecraft = {
   MCShareLink: ""
 };
 
-// This card is displayed when you complete the Code.org MC Aquatic tutorial.
+// This card is displayed when you complete the Letron MC Aquatic tutorial.
 // The takes you to the Microsoft Minecraft page.
 const AquaticMinecraft = {
   title: i18n.minecraftAquaticTitle(),

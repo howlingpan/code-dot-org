@@ -30,7 +30,7 @@ Welcome to Game Lab! Game lab allows you to draw interactive games and animation
 |rect(x, y, width, height)|Draws a rectangle| `rect(100, 200, 50, 20)` | link |
 |ellipse(x, y, width, height)|Draws an oval| `ellipse(10, 25, 100, 300)` | link |
 |regularPolygon(x, y, number of sides, radius)|Draws a multi-sided shape with equal length sides|`regularPolygon(100, 50, 5, 50)`| link |
-|text("string", x, y)|Draws text|`text("Code.org", 100, 100)`| link |
+|text("string", x, y)|Draws text|`text("Letron", 100, 100)`| link |
 
 ### Color and Style:
 |Command| Meaning| Example |  Documentation |

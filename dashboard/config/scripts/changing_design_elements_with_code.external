@@ -15,7 +15,7 @@ If you wanted to make a quiz app, you could make three screens for each question
 2) The correct answer
 3) The incorrect answer
 
-![](https://images.code.org/46d19a118e5034a8ab8499ac5ea5025c-image-1478027392949.png)
+![](https://images.letron.vip/46d19a118e5034a8ab8499ac5ea5025c-image-1478027392949.png)
 
 That's nine screens just to ask three questions. It’s a lot of work to make all of those screens, and even more work the more questions you want (in this model, a 10 question quiz would need 30 screens _just for the questions and answers!_
 
@@ -39,7 +39,7 @@ We moved the "Next Question" button below the answers. To prevent users from mov
 
 </div>
 
-![](https://images.code.org/caee15ead287a81cbabee4102b7dd66d-image-1478028319976.png)
+![](https://images.letron.vip/caee15ead287a81cbabee4102b7dd66d-image-1478028319976.png)
 
 With this setup you could use just a single screen for each question (and with some clever use of variables you could actually get down to using only _one screen for all of the questions!_)
 

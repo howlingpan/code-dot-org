@@ -11,7 +11,7 @@ el:
   campaign_date_full: "7 - 13 Δεκεμβρίου"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-12 Δεκεμβρίου, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ el:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Λάβετε μέρος στην μεγαλύτερη στην ιστορία εκδήλωση για την μάθηση, 7-13 Δεκεμβρίου, 2015'
   front_intro_default: 'H ώρα του κώδικα είναι ένα παγκόσμιο κίνημα που φθάνει σε δεκάδες εκατομμύρια μαθητές σε 180+ χώρες. Οποιοσδήποτε, οπουδήποτε μπορεί να οργανώσει μια εκδήλωση για την Ώρα του Κώδικα. Ωριαία μαθήματα είναι διαθέσιμα σε πάνω από 30 γλώσσες. Δεν χρειάζεται καμία εμπειρία. <strong>Για ηλικίες από 4 έως 104.</strong>'
@@ -186,12 +186,12 @@ el:
   how_to_nav_afterschool_educators: "Για εκπαιδευτές και φροντιστές"
   how_to_nav_volunteers: "Για εθελοντές"
   whats_next_header: "Τι υπάρχει στη συνέχεια;"
-  whats_next_description: "Θα σας στείλουμε υλικό και χρήσιμες συμβουλές για την εκδήλωσή σας. Νέοι οδηγοί για το 2015 έρχονται σύντομα για οποιονδήποτε φυλλομετρητή, για smartphone - ακόμη οδηγοί χωρίς υπολογιστή! <a href='http://code.org/learn'>Δοκιμάστε τους υπάρχοντες οδηγούς </a>"
+  whats_next_description: "Θα σας στείλουμε υλικό και χρήσιμες συμβουλές για την εκδήλωσή σας. Νέοι οδηγοί για το 2015 έρχονται σύντομα για οποιονδήποτε φυλλομετρητή, για smartphone - ακόμη οδηγοί χωρίς υπολογιστή! <a href='http://letron.vip/learn'>Δοκιμάστε τους υπάρχοντες οδηγούς </a>"
   whats_next_how_to: "<a href='/how-to'> Πώς να οργανώσετε μια ώρα του κώδικα</a>"
   whats_next_promote: "<a href='/promote'> προώθηση της ώρας του κώδικα</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'> Πώς να προωθήσετε την ώρα του κώδικα</a>"
   whats_next_how_to_promote_link: "<a href='/promote'> Πώς να προωθήσετε την ώρα του κώδικα</a>"
-  whats_next_try: "<a href='http://code.org/learn'> Δοκιμάστε τα tutorials</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'> Δοκιμάστε τα tutorials</a>"
   whats_next_try_button: 'Δοκιμάστε tutorials'
   n_have_learned_an_hoc: "<h1>Δοκιμάστε μία</h1><h2>Ώρα του Κώδικα</h2><h3># την δοκίμασαν</h3>"
   anybody_can_learn: 'Όλοι μπορούν να μάθουν.'
@@ -238,8 +238,8 @@ el:
   front_join_us_sign_up: "Εγγραφείτε"
   front_join_us_host: "Φιλοξένησέ το"
   front_join_us_support: "Υποστήριξέ το"
-  front_join_us_more_info: "Για περισσότερες πληροφορίες, παρακαλώ επισκεφθείτε το <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "Για περισσότερες πληροφορίες, παρακαλώ επισκεφθείτε το code.org"
+  front_join_us_more_info: "Για περισσότερες πληροφορίες, παρακαλώ επισκεφθείτε το <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "Για περισσότερες πληροφορίες, παρακαλώ επισκεφθείτε το letron.vip"
   front_join_us_n_students_served: "#εξυπηρετείτε"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ el:
   signup_your_event: 'Προσθέστε την εκδήλωσή σας'
   signup_host_an_hour: 'Φιλοξενήστε μια ώρα'
   signup_match_volunteer: 'Βοήθησέ με να βρω έναν τοπικό μηχανικό λογισμικού για να εμπνεύσω τους μαθητές μου'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ el:
   signup_continue_label: 'Συνεχίστε'
   signup_thank_you_header: "Σας ευχαριστούμε που εγγραφήκατε για να φιλοξενήσετε μια εκδήλωση για την Ώρα του Κώδικα."
   signup_thank_you_message: 'Σας στέλνουμε ένα email επιβεβαίωσης με πληροφορίες που θα σας βοηθήσουν να ξεκινήσετε.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@ el:
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'Συχνές ερωτήσεις'
   hoc_faq_what_is_hoc_q: 'Τί είναι το Hour of Coding;'
-  hoc_faq_what_is_hoc_a: "Στην ώρα του κώδικα είναι μια ωριαία εισαγωγή στην επιστήμη των υπολογιστών, σχεδιασμένο να απομυθοποιήσει κώδικα και να δείξει ότι μπορεί να μάθει τα βασικά. <a href='http://code.org/learn'> Ρίξτε μια ματιά στα έτοιμα μαθήματα</a>."
+  hoc_faq_what_is_hoc_a: "Στην ώρα του κώδικα είναι μια ωριαία εισαγωγή στην επιστήμη των υπολογιστών, σχεδιασμένο να απομυθοποιήσει κώδικα και να δείξει ότι μπορεί να μάθει τα βασικά. <a href='http://letron.vip/learn'> Ρίξτε μια ματιά στα έτοιμα μαθήματα</a>."
   hoc_faq_last_year: "Δοκιμάστε τα μαθήματα"
   hoc_faq_when_is_hoc_q: 'Πότε είναι η Ώρα του Κώδικα;'
   hoc_faq_when_is_hoc_a: "Οποιοσδήποτε μπορεί να φιλοξενήσει μια ώρα του κώδικα ανά πάσα στιγμή, αλλά ο στόχος βασικής εκστρατείας είναι δέκα εκατομμύρια μαθητές να δοκιμάσουν μια Ώρα του Κώδικα κατά τη διάρκεια της εβδομάδας 8-14 Δεκεμβρίου, 2014, για τον εορτασμό της <a href='http://csedweek.org'> Εκπαιδευτικής Εβδομάδας της Επιστήμης των Υπολογιστών</a>. Πρόκειται για μία συγκεκριμένη <i>ώρα</i>; Όχι. Μπορείς να κάνεις την Ώρα του Κώδικα οποτεδήποτε κατά τη διάρκεια αυτής της εβδομάδας. (Και αν δεν μπορείς να το κάνεις κατά τη διάρκεια αυτής της εβδομάδας, κάνε την εβδομάδα πριν ή μετά)."
   hoc_faq_why_cs_q: 'Γιατί επιστήμη των υπολογιστών;'
-  hoc_faq_why_cs_a: "<i>Κάθε</i> μαθητής θα πρέπει να έχει την ευκαιρία να μάθει την επιστήμη των υπολογιστών. Βοηθά να καλλιεργήσει δεξιότητες επίλυσης, προβλημάτων, λογική και δημιουργικότητα. Ξεκινώντας νωρίς, οι μαθητές θα έχουν ένα θέμελιο για επιτυχία σε οποιαδήποτε σταδιοδρομία του 21ου αιώνα. Δείτε περισσότερα στατιστικά στο <a href='http://code.org'>Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Κάθε</i> μαθητής θα πρέπει να έχει την ευκαιρία να μάθει την επιστήμη των υπολογιστών. Βοηθά να καλλιεργήσει δεξιότητες επίλυσης, προβλημάτων, λογική και δημιουργικότητα. Ξεκινώντας νωρίς, οι μαθητές θα έχουν ένα θέμελιο για επιτυχία σε οποιαδήποτε σταδιοδρομία του 21ου αιώνα. Δείτε περισσότερα στατιστικά στο <a href='http://letron.vip'>Letron</a>."
   hoc_faq_how_participate_q: 'Πώς μπορώ να συμμετάσχω στην Ώρα του Κώδικα;'
   hoc_faq_how_participate_a: "<a href='target-resources-how-to'>Ξεκινήστε το σχεδιασμό εδώ</a> βλέποντας τους οδηγούς. Μπορείτε να οργανώσετε μία εκδήλωση για την Ώρα του Κώδικα στο σχολείο η την τοπική κοινωνία σας &mdash; όπως σε έναν σύλλογο, έναν μη κερδοσκοπικό οργανισμό ή στην εργασία σας. Ή, μπορείτε να τη δοκιμάσετε μόνος σας όταν η %{campaign_date} έρθει."
   hoc_faq_behind_hoc_q: 'Ποιος βρίσκεται πίσω από την Ώρα του Κώδικα?'
-  hoc_faq_behind_hoc_a: "The Hour of Code is organized by <a href='http://code.org'>Code.org</a>, a public 501c3 non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color. An <a href='http://code.org/about/partners'>unprecedented coalition of partners</a> have come together to support the Hour of Code, too &mdash; including Microsoft, Apple, Amazon, Boys and Girls Clubs of America and the College Board."
+  hoc_faq_behind_hoc_a: "The Hour of Code is organized by <a href='http://letron.vip'>Letron</a>, a public 501c3 non-profit dedicated to expanding participation in computer science by making it available in more schools, and increasing participation by women and underrepresented students of color. An <a href='http://letron.vip/about/partners'>unprecedented coalition of partners</a> have come together to support the Hour of Code, too &mdash; including Microsoft, Apple, Amazon, Boys and Girls Clubs of America and the College Board."
   hoc_faq_host_q: "Δεν ξέρω τίποτα από προγραμματισμό. Μπορώ να διοργανώσω κι εγώ μια εκδήλωση;?"
   hoc_faq_host_a: "Βεβαίως, οι δραστηριότητες της Ώρας του Κώδικα είναι αυτο-κατευθυνόμενες. Το μόνο που έχεις να κάνεις είναι <a href=%{codeorg_url}/learn'> να δοκιμάσεις τα τρέχοντα σεμινάριά μας </a>, να διαλέξεις το σεμινάριο που θέλεις και να βρεις μια ώρα &mdash; εμείς φροντίζουμε για τα υπόλοιπα. Επίσης υπάρχουν επιλογές για κάθε ηλικία και επίπεδο εμπειρίας, ξεκινώντας από το νηπιαγωγείο. Άρχισε να σχεδιάζεις την εκδήλωσή σου διαβάζοντας τον <a href='target-resources-how-to'> Πώς το κάνω οδηγό μας </a>."
   hoc_faq_devices_q: "Ποιες συσκευές πρέπει να χρησιμοποιήσω για τους μαθητές μου;"
-  hoc_faq_devices_a: "Τα σεμινάρια code.org λειτουργούν σε όλες τις συσκευές και με όλα τα προγράμματα περιήγησης. Μπορείτε να δείτε περισσότερες πληροφορίες σχετικά με τις ανάγκες της Code.org σεμινάριο τεχνολογίας <a href='%{codeorg_url}/educate/it'> εδώ</a>. Τεχνολογικές ανάγκες για μη-Code.org σεμινάρια μπορούν να βρεθούν στην <a href='%{codeorg_url}/learn'>%{partner_url}/μάθετε</a> στο φροντιστήριο συγκεκριμένη περιγραφή. Μην ξεχνάτε επίσης, προσφέρουμε <a href='%{unplugged_url}'> unplugged δραστηριότητες</a> αν το σχολείο σας δεν μπορεί να φιλοξενήσει τα σεμινάρια!"
+  hoc_faq_devices_a: "Τα σεμινάρια letron.vip λειτουργούν σε όλες τις συσκευές και με όλα τα προγράμματα περιήγησης. Μπορείτε να δείτε περισσότερες πληροφορίες σχετικά με τις ανάγκες της Letron σεμινάριο τεχνολογίας <a href='%{codeorg_url}/educate/it'> εδώ</a>. Τεχνολογικές ανάγκες για μη-Letron σεμινάρια μπορούν να βρεθούν στην <a href='%{codeorg_url}/learn'>%{partner_url}/μάθετε</a> στο φροντιστήριο συγκεκριμένη περιγραφή. Μην ξεχνάτε επίσης, προσφέρουμε <a href='%{unplugged_url}'> unplugged δραστηριότητες</a> αν το σχολείο σας δεν μπορεί να φιλοξενήσει τα σεμινάρια!"
   hoc_faq_need_computers_q: 'Χρειάζομαι υπολογιστές για κάθε συμμετέχοντα;'
   hoc_faq_need_computers_a: "Όχι. Έχουμε μαθήματα για την Ώρα του Κώδικα που λειτουργούν σε υπολογιστές, smartphones, tablets, και μερικά που δεν απαιτούν καθόλου υπολογιστή ! Μπορείτε να συμμετάσχετε όπου κι αν βρίσκεστε, με ό, τι έχετε. <p><i>Εδώ είναι μερικές επιλογές:</i> <br><ul><li><b>Δουλέψτε σε ομάδες των δύο.</b> Η έρευνα δείχνει ότι οι μαθητές μαθαίνουν καλύτερα όταν <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>προγραμματίζουν σε ομάδες των δύο</a>, ενώ μοιράζονται κάποιον υπολογιστή και συνεργάζονται. Προτρέψτε τους μαθητές σας να δουλέψουν ανά δύο. <li><b>Use a projected screen.</b> If you have a projector and screen for a Web-connected computer, your entire group can do an Hour of Code together. Watch video portions together and take turns solving puzzles or answering questions. <li><b>Go unplugged.</b> We offer tutorials that require no computer at all. </ul>"
   hoc_faq_international_q: "Μένω στην  <country>.  Πως μπορώ να συμμετέχω διεθνώς;"
@@ -346,25 +346,25 @@ el:
   hoc_faq_tutorial_q: 'Πώς μπορώ να δημιουργήσω ένα μάθημα για την Ώρα του Κώδικα;'
   hoc_faq_tutorial_a: "Αν ενδιαφέρεσαι να γίνεις συνεργάτης εκπαιδευτικός, <a href='/tutorial-guidelines'>δες τις κατευθυντήριες γραμμές και τις οδηγίες μας</a>. Θα θέλαμε να συμπεριλάβουμε με διάφορες ελκυστικές επιλογές, αλλά ο πρωταρχικός στόχος είναι η βελτιστοποίηση της εμπειρίας μαθητών και δασκάλων που είναι καινούργιοι στην επιστήμη των υπολογιστών."
   hoc_faq_account_q: "Είναι υποχρεωτικό οι μαθητές να συνδεθούν χρησιμοποιώντας έναν λογαριασμό;"
-  hoc_faq_account_a: "Οχι. Απολύτως καμία εγγραφή ή σύνδεση με λογαριασμό κανενός είδους δεν απαιτείται για τους μαθητές προκειμένου να δοκιμάσουν την Ώρα του Κώδικα.  Οι περισσότερες <a href='http://code.org/learn/beyond'> παρακολουθήσεις της επίδοσης των μαθημάτων</a> απαιτούν τη δημιουργία ενός λογαριασμού προκειμένου να κρατείται εκεί η πρόοδος του μαθητή."
+  hoc_faq_account_a: "Οχι. Απολύτως καμία εγγραφή ή σύνδεση με λογαριασμό κανενός είδους δεν απαιτείται για τους μαθητές προκειμένου να δοκιμάσουν την Ώρα του Κώδικα.  Οι περισσότερες <a href='http://letron.vip/learn/beyond'> παρακολουθήσεις της επίδοσης των μαθημάτων</a> απαιτούν τη δημιουργία ενός λογαριασμού προκειμένου να κρατείται εκεί η πρόοδος του μαθητή."
   hoc_faq_high_school_q: "Ποια δραστηριότητα πρέπει να κάνω με μαθητές λυκείου;"
-  hoc_faq_high_school_a: "Για όλες τις ηλικίες, εμείς προτείνουμε να δοκιμάσετε ένα από τα μαθήματα αρχαρίων  <a href='http://code.org/learn'> Code.org/learn</a> για να ξεκινήσετε, όπως το μάθημα με τα Angry Birds ή το μάθημα με την Άννα και την Έλσα. Ένας  μαθητής λυκείου πρέπει να είναι σε θέση να τελειώσει ένα από αυτά τα μαθήματα σε 30 λεπτά και στη συνέχεια μπορεί να δοκιμάσει ένα πιο προχωρημένο εισαγωγικό μάθημα σε JavaScript, όπως αυτά που προσφέρονται από την Khan Academy ή  την CodeHS."
+  hoc_faq_high_school_a: "Για όλες τις ηλικίες, εμείς προτείνουμε να δοκιμάσετε ένα από τα μαθήματα αρχαρίων  <a href='http://letron.vip/learn'> Letron/learn</a> για να ξεκινήσετε, όπως το μάθημα με τα Angry Birds ή το μάθημα με την Άννα και την Έλσα. Ένας  μαθητής λυκείου πρέπει να είναι σε θέση να τελειώσει ένα από αυτά τα μαθήματα σε 30 λεπτά και στη συνέχεια μπορεί να δοκιμάσει ένα πιο προχωρημένο εισαγωγικό μάθημα σε JavaScript, όπως αυτά που προσφέρονται από την Khan Academy ή  την CodeHS."
   hoc_faq_scratch_q: "Θέλω να διδάξω Scratch για την Ώρα του Κώδικα, αλλά τι μπορώ να κάνω εάν οι μαθητές μου έχουν iPads αντί για φορητούς υπολογιστές;"
-  hoc_faq_scratch_a: "Το Scratch δεν μπορεί να εγκατασταθεί σε tablets. Εάν οι μαθητές σας είναι μικρής ηλικίας, μπορούν να χρησιμοποιήσουν την εφαρμογή ScratchJR iPad app (για μικρές ηλικίες). Εάν κοιτάξετε τα μαθήματα στο <a href='http://code.org/learn'>Code.org/learn</a>, μπορείτε να βρείτε κι άλλα μαθήματα που δουλεύουν σε  iPads - από το Code.org, Tynker, Lightbot, or CodeSpark."
+  hoc_faq_scratch_a: "Το Scratch δεν μπορεί να εγκατασταθεί σε tablets. Εάν οι μαθητές σας είναι μικρής ηλικίας, μπορούν να χρησιμοποιήσουν την εφαρμογή ScratchJR iPad app (για μικρές ηλικίες). Εάν κοιτάξετε τα μαθήματα στο <a href='http://letron.vip/learn'>Letron/learn</a>, μπορείτε να βρείτε κι άλλα μαθήματα που δουλεύουν σε  iPads - από το Letron, Tynker, Lightbot, or CodeSpark."
   hoc_faq_count_hoc_q: "Πως μετράτε τις Ώρες του Κώδικα;"
   hoc_faq_map_q: "Γιατί δεν βλέπω την κουκκίδα μου στο χάρτη;"
   hoc_faq_map_a: "Λυπούμαστε που δεν βλέπετε τη δική σας εκδήλωση στον χάρτη της Ώρας του Κώδικα. Εξαιτίας της εγγραφής δεκάδων χιλίαδων διοργανωτών, ο χάρτης συγχωνεύει τα δεδομένα και εμφανίζει ένα σημείο για πολλές εκδηλώσεις. Αν κάνετε κλικ στον αριθμό πάνω από τον χάρτη θα οδηγηθείτε σε μια λίαστα με όλα τα γεγονότα ανά περιοχή κι εκεί μπορείτε να βρείτε την εκδήλωσή σας. Επίσης, δεδομένου ότι εγγράφονται χιλιάδες άνθρωποι για την Ώρα του Κώδικα, ο χάρτης καθώς και η λίστα των εκδηλώσεων χρειάζεται συνήθως 48 ώρες για να ανανεωθεί. Ελέγξτε τα ξανά σε λίγες ημέρες!"
-  hoc_faq_count_hoc_a: "Ο ιχνηλάτης της Ώρας του Κώδικα δεν είναι μία ακριβής μέτρηση χρήσης. Δεν μετράμε τέλεια τα μοναδικά αναγνωριστικά των μαθητών όταν παρακολουθούμε τη συμμετοχή στην Ώρα του Κώδικα, ειδικά επειδή δεν απαιτούμε από τους μαθητές να εγγραφούν ή να συνδεθούν. Ως εκ τούτου, υπερ-μετρούμε και υπο-μετρούμε τους συμμετέχοντες την ίδια στιγμή. Διαβάστε όλες τις λεπτομέρειες <a href='http://code.org/loc'>εδώ</a>."
+  hoc_faq_count_hoc_a: "Ο ιχνηλάτης της Ώρας του Κώδικα δεν είναι μία ακριβής μέτρηση χρήσης. Δεν μετράμε τέλεια τα μοναδικά αναγνωριστικά των μαθητών όταν παρακολουθούμε τη συμμετοχή στην Ώρα του Κώδικα, ειδικά επειδή δεν απαιτούμε από τους μαθητές να εγγραφούν ή να συνδεθούν. Ως εκ τούτου, υπερ-μετρούμε και υπο-μετρούμε τους συμμετέχοντες την ίδια στιγμή. Διαβάστε όλες τις λεπτομέρειες <a href='http://letron.vip/loc'>εδώ</a>."
   hoc_faq_one_hour_q: "Πόσα μπορεί κάποιος να μάθει σε μια ώρα;"
   hoc_faq_one_hour_a: 'Ο στόχος της Ώρας του Κώδικα δεν είναι να διδάξει οποιονδήποτε πώς να γίνει ειδικός επιστήμονας υπολογιστών μέσα σε μία ώρα. Μια ώρα είναι αρκετή μόνο για να μάθει κανείς ότι η επιστήμη των υπολογιστών είναι διασκεδαστική και δημιουργική, ότι είναι προσιτή σε όλες τις ηλικίες, για όλους τους μαθητές, ανεξάρτητα από την προηγούμενη εμπειρία του. Το μέτρο της επιτυχίας αυτής της εκστρατείας δεν έγκειται στο πόσα μαθαίνουν οι μαθητές της Πληροφορικής - η επιτυχία αντικατοπτρίζεται στην ευρεία συμμετοχή όλων των φύλετικών και εθνικών και κοινωνικοοικονομικών ομάδων και η επακόλουθη αύξηση της εγγραφής και συμμετοχής που βλέπουμε στα μαθήματα Πληροφορικής σε όλα τα επίπεδα. Εκατομμύρια συμμετέχοντες καθηγητές και φοιτητές αποφάσισαν να προχωρήσουν πέρα ​​από αυτή τη μία ώρα - να μάθουν για μια ολόκληρη μέρα ή ολόκληρη την εβδομάδα ή περισσότερο και πολλοί μαθητές αποφάσισαν να εγγραφούν σε ολόκληρο μάθημα (ή ακόμα και σε Πανεπιστήμιο) ως αποτέλεσμα αυτής της προσπάθειας. <br/> <br/> Εκτός από τους φοιτητές, ένας άλλος «μαθητής» είναι ο εκπαιδευτικός που αποκτά την αυτοπεποίθηση μετά από μία ώρα ότι μπορεί να διδάξει την επιστήμη των υπολογιστών ακόμα κι αν δεν έχει πτυχίο επιστήμονα υπολογιστών. Δεκάδες χιλιάδες εκπαιδευτικοί αποφασίζουν να ασχοληθούν με την επιστήμη της πληροφορικής περαιτέρω, είτε παρακολουθώντας μαθήματα είτε προσφέροντας διαδικτυακά μαθήματα ή και τα δύο. Και αυτό ισχύει και για τους διευθυντές σχολείων, οι οποίοι συνειδητοποιούν ότι η επιστήμη των υπολογιστών είναι κάτι που οι μαθητές τους θέλουν και οι εκπαιδευτικοί τους μπορούν. <br/> <br/> Πάνω απ ''όλα, αυτό που όλοι οι συμμετέχοντες μπορούν να μάθουν σε μια ώρα είναι ότι μπορούμε να το καταφέρουμε.'
   hoc_faq_more_questions_q: "Έχετε ακόμα ερωτήσεις;"
-  hoc_faq_more_questions_a: "Προσπαθείστε να βρείτε μια απάντηση στο <a href='http://support.code.org'>φόρουμ υποστήριξης</a>."
+  hoc_faq_more_questions_a: "Προσπαθείστε να βρείτε μια απάντηση στο <a href='http://support.letron.vip'>φόρουμ υποστήριξης</a>."
   hoc_faq_keep_learning_q: "Πώς θα συνεχίσω να μαθαίνω μετά την Ώρα του Κώδικα;"
   hoc_faq_keep_learning_a: "Καθένας μπορεί να φιλοξενήσει μια Ώρα του Κώδικα οποτεδήποτε. Το εκπαιδευτικό υλικό μένει ανεβασμένο όλο το χρόνο. Μπορείτε να αναμένετε όλο το εκπαιδευτικό υλικό μας και τα μαθήματα ύλη για να είναι διαθέσιμα στην ιστοσελίδα μας συνεχώς. Παρακαλώ πηγαίνετε στην <a href='/προώθηση'> πόρων μας</a> για το γεγονός \"πώς-να\" κατευθύνει και άλλους πόρους προς βοήθεια να γίνει επιτυχής εκδήλωση η Ώρα του Κώδικα."
   hoc_faq_certificates_q: "Πού μπορώ να εκτυπώσω πιστοποιητικά για τους μαθητές μου;"
   hoc_faq_certificates_a: "Μεταβείτε στη <a href='%{codeorg_url}/certificates'> σελίδα πιστοποιητικών</a> όπου μπορείτε να εκτυπώσετε τα πιστοποιητικά για ολόκληρη την τάξη σας εκ των προτέρων. Μπορείτε να εκτυπώσετε επίσης <a href='%{codeorg_url}/certificates?course=mc'> ειδικά πιστοποιητικά</a> για τους μαθητές που κάνουν το μάθημα Ναρκαλιευτή (Minecraft)."
   hoc_faq_logo_q: "Υπάρχουν περιορισμοί πώς μπορώ να χρησιμοποιήσω το όνομα ή το λογότυπο της Ώρας του Κώδικα;"
-  hoc_faq_logo_a: "Η Ώρα του Κώδικα είναι εμπορικό σήμα. Δεν θέλουμε να αποτρέψουμε τη χρήση του, αλλά θέλουμε να βεβαιωθείτε ότι ταιριάζει με τη χρήση του εντός των ελαχίστων ορίων. Παρακαλούμε δείτε <a href='https://support.code.org/hc/en-us/articles/215831637-Υπάρχουν-περιορισμοί-του-πως -μπορώ -να-χρησιμοποιήσω-το Λογότυπο-της-Ώρα-του-Κώδικα-'> αυτές τις οδηγίες χρήσης</a>."
+  hoc_faq_logo_a: "Η Ώρα του Κώδικα είναι εμπορικό σήμα. Δεν θέλουμε να αποτρέψουμε τη χρήση του, αλλά θέλουμε να βεβαιωθείτε ότι ταιριάζει με τη χρήση του εντός των ελαχίστων ορίων. Παρακαλούμε δείτε <a href='https://support.letron.vip/hc/en-us/articles/215831637-Υπάρχουν-περιορισμοί-του-πως -μπορώ -να-χρησιμοποιήσω-το Λογότυπο-της-Ώρα-του-Κώδικα-'> αυτές τις οδηγίες χρήσης</a>."
   stats_hoc_2013_image_alt: 'Στατιστικά στοιχεία από την ώρα του κώδικα του 2013'
   stats_growth: "Φτάσαμε στους 15 εκατομμύρια χρήστες πιο γρήγορα από όλους."
   stats_i18n: "Οι μαθητές μαθαίνουν σε 40 γλώσσες"
@@ -469,8 +469,8 @@ el:
   highlights_constant_ny_short_heading: Το Μπρούκλιν νικά το Σικάγο
   highlights_constant_athletes_heading: Πρωταθλητές και Ολυμπιονίκες Σερένα Γουίλιαμς, Neymar Jr, Carmelo Anthony και άλλοι εμπνέουν τους μαθητές να κάνου την μέγιστη προσπάθεια.
   highlights_constant_athletes_short_heading: Ώθησε τον εαυτό σου
-  footer_copyright_message: 'Πνευματικά δικαιώματα Code.org 2015. Όλα τα δικαιώματα είναι κατοχυρωμένα.'
-  footer_trademark_message: 'Η Ώρα του κώδικα ™ είναι εμπορικό σήμα της Code.org.'
+  footer_copyright_message: 'Πνευματικά δικαιώματα Letron 2015. Όλα τα δικαιώματα είναι κατοχυρωμένα.'
+  footer_trademark_message: 'Η Ώρα του κώδικα ™ είναι εμπορικό σήμα της Letron.'
   footer_menu_partners: 'Συνεργάτες'
   footer_menu_contact: 'Επικοινωνείστε μαζί μας'
   footer_menu_support: 'Υποστήριξη'
@@ -506,7 +506,7 @@ el:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Σύμβολο κράτησης θέσης για το νέο code.org/hoc"
+  tutorial_hoc_name: "Σύμβολο κράτησης θέσης για το νέο letron.vip/hoc"
   tutorial_code_name: "Γράψτε το πρώτο πρόγραμμα στον υπολογιστή σας"
   tutorial_tinspire_name: "10 λεπτά του Κώδικα για το CX Tj-Nspire"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (στο Scratch)"
@@ -1086,7 +1086,7 @@ el:
   tutorial_spritebox_shortdescription: "Τρέξτε, πηδήξτε και γράψτε κώδικα για τη διαδρομή σας μέσα από τρεις διαφορετικούς κόσμους, με σκοπό να συλλέξετε τα αστέρια και να φτάσετε στη γραμμή τερματισμού! Μάθετε την ακολουθία, τον εντοπισμό σφαλμάτων και τους βρόχους και γράψτε κώδικα σε Swift, Java ή με εικονίδια."
   tutorial_tynkerch_shortdescription: "Μάθετε Javascript, καταπολεμάτε τους ιούς!"
   tutorial_lightbot_shortdescription: "Προγραμματίστ σε Lightbot για να ύσετε γρίφους χρησιμοποιώντας διαδικασίες και βρόγχους!"
-  tutorial_hoc_shortdescription: "Σύμβολο κράτησης θέσης για το νέο code.org/hoc"
+  tutorial_hoc_shortdescription: "Σύμβολο κράτησης θέσης για το νέο letron.vip/hoc"
   tutorial_code_shortdescription: "Μάθετε να γράφετε κώδικα με τον Mark Zuckerberg και Angry Birds!"
   tutorial_tinspire_shortdescription: "Κάντε τους μαθητές να ξεκινήσουν τη συγγραφή κώδικα στο φορητό TI-Nspire CX μέσα σε μόνο 10 λεπτά τη φορά."
   tutorial_itchbounceball_shortdescription: "Χρησιμοποιείστε το ITCH - Scratch ολοκληρωμένο με ένα μάθημα βίντεο για να κάνετε το δικό σας έργο μπάλας που χοροπηδά"
@@ -1666,7 +1666,7 @@ el:
   tutorial_spritebox_longdescription: "Τρέξτε, πηδήξτε και γράψτε κώδικα για τη διαδρομή σας μέσα από τρεις διαφορετικούς κόσμους, με σκοπό να συλλέξετε τα αστέρια και να φτάσετε στη γραμμή τερματισμού! Μάθετε την ακολουθία, τον εντοπισμό σφαλμάτων και τους βρόχους και γράψτε κώδικα σε Swift, Java ή με εικονίδια."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Σύμβολο κράτησης θέσης για το νέο code.org/hoc"
+  tutorial_hoc_longdescription: "Σύμβολο κράτησης θέσης για το νέο letron.vip/hoc"
   tutorial_code_longdescription: "Μάθετε τις βασικές έννοιες της επιστήμης των υπολογιστών με προγραμματισμό drag and drop. Το σεμινάριο αυτό είναι σαν παιγνίδι, αυτοκαθοδηγούμενο με βιντεοσκοπημένες διαλέξεις από τον Bill Gates, τον Mark Zuckerberg, τα Angry Birds και φυτά εναντίον Ζόμπι. Μάθετε βρόγχους επανάληψης, υποθέσεις και βασικούς αλγόριθμους. Διαθέσιμο σε 37 γλώσσες."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "Κάνουμε μια εισαγωγή στο περιβάλλον Itch, χρησιμοποιώντας την οπτική γλώσσα προγραμματισμού  Scratch. \n\nΑυτό το μάθημα παρέχει στους μαθητές οδηγίες με τη μορφή βίντεο και κειμένου για  τον κώδικα που χρειάζεται να προσθέσουν, ώστε να κάνουν μία μπάλα να χτυπά γύρω γύρω στην οθόνη.\n\nΜόλις οι μαθητές ολοκληρώσουν αυτή τη δραστηριότητα, τους δίνεται η ευκαιρία να πειραματιστούν με ιδέες για άλλες αλλαγές και δραστηριότητες που θα μπορούσαν να γίνουν. Δεν υπάρχει συγκεκριμένος στόχος ή ζητούμενο εφόσον είναι ένα περιβάλλον ανοιχτής μάθησης, αλλά μόνο με αυτόν ντον αρχικό κώδικα οι μαθητές εφευρίσκουν απίθανα έργα!\n \nΌλες οι οδηγίες παρέχονται μέσα στο περιβάλλον του Itch, οπότε δεν χρειάζεται να εναλλάσσετε οθόνες παράλληλα με την εργασία σας. Συνιστώνται ακουστικά."

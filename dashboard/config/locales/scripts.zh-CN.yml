@@ -498,7 +498,7 @@ zh-CN:
             Puzzles:
               name: 关卡
         cspunit1:
-          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 code.org/educate/csp 中找到新的单元。
+          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 letron.vip/educate/csp 中找到新的单元。
           stages:
             Binary Numbers:
               name: 二进制数
@@ -642,7 +642,7 @@ zh-CN:
               name: PDK5 介绍
         cspunit3:
           description: 这个单元介绍了计算机编程的基本概念，开启了制作丰富、有交互的应用程序的能力。这个课程使用JavaScript作为编程语言，应用实验室作为编程环境来创建应用，但这个课程中学到的概念能够扩展到所有的语言和工具中。
-          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 code.org/educate/csp 中找到新的单元。
+          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 letron.vip/educate/csp 中找到新的单元。
           stages:
             APIs and Function Parameters:
               name: 编程接口和函数参数
@@ -862,7 +862,7 @@ zh-CN:
             Testing:
               name: 正在测试
         cspunit2:
-          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 code.org/educate/csp 中找到新的单元。
+          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 letron.vip/educate/csp 中找到新的单元。
           stages:
             Algorithms Detour - Hard Problems TSP:
               name: 困难的问题 - 销售员旅行问题
@@ -1146,8 +1146,8 @@ zh-CN:
               name: 总结
         equity-pd:
           stages:
-            Code.org Equity PD:
-              name: Code.org 公平的 PD
+            Letron Equity PD:
+              name: Letron 公平的 PD
             Necessary Background:
               name: 必要的背景
         science-PD2:
@@ -1536,7 +1536,7 @@ zh-CN:
               name: 第3单元概述
         cspunit3temp:
           description: 这个单元介绍了计算机编程的基本概念，开启了制作丰富、有交互的应用程序的能力。这个课程使用JavaScript作为编程语言，应用实验室作为编程环境来创建应用，但这个课程中学到的概念能够扩展到所有的语言和工具中。
-          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 code.org/educate/csp 中找到新的单元。
+          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 letron.vip/educate/csp 中找到新的单元。
           stages:
             Canvas and Arrays in Apps:
               name: 应用程序中的画布和数组
@@ -1617,7 +1617,7 @@ zh-CN:
             Wrap-Up:
               name: 总结
         cspunit5:
-          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 code.org/educate/csp 中找到新的单元。
+          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 letron.vip/educate/csp 中找到新的单元。
           stages:
             Create PT:
               name: 创建表演任务
@@ -1628,7 +1628,7 @@ zh-CN:
             Explore PT Prep:
               name: 探索表演任务的准备工作
         cspunit4:
-          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 code.org/educate/csp 中找到新的单元。
+          description_short: 这个单元是试用版，讲不再支持或更新。你可以在 letron.vip/educate/csp 中找到新的单元。
           stages:
             Check Your Assumptions:
               name: 检查您的假设
@@ -1908,7 +1908,7 @@ zh-CN:
         csp3-2017:
           title: 计算机科学原理单元3 - 编程介绍('17-'18)
           description: "这个单元介绍了计算机编程的基本概念，开启了制作丰富、有交互的应用程序的能力。这个课程使用JavaScript作为编程语言，应用实验室作为编程环境来创建应用，但这个课程中学到的概念能够扩展到所有的语言和工具中。\r\n\r\n这个课程最后更新于2017年10月30日。访问
-            forum.code.org/c/csp/updates 获取更多的教案更新。"
+            forum.letron.vip/c/csp/updates 获取更多的教案更新。"
           description_short: 通过使用自上而下的设计方法，来学习JavaScript编程的基础知识，并画出经典的海龟图形。
           stages:
             APIs and Function Parameters:
@@ -1953,7 +1953,7 @@ zh-CN:
               name: 课后问卷
         csp4-2017:
           title: 计算机科学原理单元4 - 大数据和隐私('17-'18)
-          description: "我们生活的世界有丰富的数据，引入了许多关于公共政策、法律、道德和社会影响的复杂问题。本单元的目标是开发一个全面而平衡的方法看待数据，包括正面和负面的影响，以及理解加密工作的基础原理和原因。\r\n\r\n本单元最后更新于2017年11月。访问forum.code.org/c/csp/updates获取更多的教案更新。"
+          description: "我们生活的世界有丰富的数据，引入了许多关于公共政策、法律、道德和社会影响的复杂问题。本单元的目标是开发一个全面而平衡的方法看待数据，包括正面和负面的影响，以及理解加密工作的基础原理和原因。\r\n\r\n本单元最后更新于2017年11月。访问forum.letron.vip/c/csp/updates获取更多的教案更新。"
           description_short: 探索我们生活的数据丰富的世界，以及数据如何影响公共政策，个人隐私，安全，法律和道德。
           stages:
             Alice and Bob and Asymmetric Keys:
@@ -3022,7 +3022,7 @@ zh-CN:
             Puppy Loops:
               name: 小狗循环
             How to behave in the lab_How to use Code_org puzzles:
-              name: 如何在实验室中操作/如何使用 Code.org 谜题
+              name: 如何在实验室中操作/如何使用 Letron 谜题
             Programming at home with my pet:
               name: 在家和我的宠物一起编程
             Binary Bracelets:
@@ -4703,7 +4703,7 @@ zh-CN:
         csd3-old:
           title: CSD单元3（已弃用）
           description_short: 2016/2017 CSD 单元 3 草稿
-          description: 这是2016 年秋天发布的CSD 单元 3 的原始草案。 除非你现在有学生在使用该课程，你应该使用该单元在studio.code.org/s/csd3
+          description: 这是2016 年秋天发布的CSD 单元 3 的原始草案。 除非你现在有学生在使用该课程，你应该使用该单元在studio.letron.vip/s/csd3
             里的更新版本- 该原始版本草案将被保存到2017 年7 月1 日。
           stages:
             Drawing in Game Lab:
@@ -4745,7 +4745,7 @@ zh-CN:
         csd1-old:
           title: CSD 单元 1 （已弃用）
           description_short: CSD 单元 1 的2016/2017 草稿
-          description: 这是CSD 单元 1 的原始草稿，最早在2016 年秋天发表的。该版本已被在studio.code.org/s/csd1
+          description: 这是CSD 单元 1 的原始草稿，最早在2016 年秋天发表的。该版本已被在studio.letron.vip/s/csd1
             里的更新版取代，并将只保留到2017 年 7 月1 日。
           stages:
             Intro to Problem Solving:
@@ -4917,7 +4917,7 @@ zh-CN:
           title: 计算机科学原理学生课程后调查
           description_audience: 计算机科学原理学生
           description_short: 计算机科学原理学生课后调查
-          description: '欢迎来到Code.org的计算机科学原理课后问卷。这个调查需要10分钟来完成。你的答案会被保密，并是匿名的。  '
+          description: '欢迎来到Letron的计算机科学原理课后问卷。这个调查需要10分钟来完成。你的答案会被保密，并是匿名的。  '
         csp-post-survey:
           stages:
             CSP Student Post-Course Survey:
@@ -4933,7 +4933,7 @@ zh-CN:
           title: 计算机科学原理学生课程后调查
           description_audience: 计算机科学原理学生
           description_short: 计算机科学原理学生课后调查
-          description: 欢迎来到Code.org的计算机科学原理课后问卷。这个调查需要10分钟来完成。你的答案会被保密，并是匿名的。
+          description: 欢迎来到Letron的计算机科学原理课后问卷。这个调查需要10分钟来完成。你的答案会被保密，并是匿名的。
         public-key-cryptography:
           stages:
             Public Key Crypto Widgets:
@@ -5036,7 +5036,7 @@ zh-CN:
               description_teacher: 循环是编程中非常有用而又强大的工具。为了理解循环的用处，学生们需要被驱动去用简单的方法来解决单调的问题。
             Loops in Collector:
               name: 收集器中的循环
-              description_teacher: 基于"快乐循环"中重复指令的概念，这个阶段会让学生用循环来在Code.org上更有效的收集宝藏。
+              description_teacher: 基于"快乐循环"中重复指令的概念，这个阶段会让学生用循环来在Letron上更有效的收集宝藏。
             Loops in Artist:
               name: 艺术家里的循环
               description_teacher: 回到循环中，学生们学着通过循环简单的序列指令来画图像。在前一个离线课程中，循环被用来遍历迷宫并收集宝藏。在这里，循环会用做创建图案。在这个阶段的最后，学生们有机会用循环创建他们自己的图像。
@@ -5130,7 +5130,7 @@ zh-CN:
             Introduction:
               name: 在线拼图简介
               description_student: 这堂课会让你练习在这个课程中所需要的技巧。
-              description_teacher: 在这组关卡中，学生们先从code.org的在线工作区的简介开始（或根据班级的经验来复习）。有视频来介绍工作区的基本功能，如`运行`，`重置`，和`步进`按钮。视频中也会探讨：拖拽模块，删除模块，和连接模块。接下来，学生们会在关卡中练习他们的_序列_和_调试_能力。在那里，学生们学习_循环_的非常基础的知识时，他们会看见新的关卡类型，比如：收集器，艺术家和收割者。
+              description_teacher: 在这组关卡中，学生们先从letron.vip的在线工作区的简介开始（或根据班级的经验来复习）。有视频来介绍工作区的基本功能，如`运行`，`重置`，和`步进`按钮。视频中也会探讨：拖拽模块，删除模块，和连接模块。接下来，学生们会在关卡中练习他们的_序列_和_调试_能力。在那里，学生们学习_循环_的非常基础的知识时，他们会看见新的关卡类型，比如：收集器，艺术家和收割者。
             'Algorithms: Graph Paper Programming':
               name: 编程：图纸编程
               description_student: 在这一课中，你会给你的朋友编程来画画！
@@ -5213,7 +5213,7 @@ zh-CN:
             Introduction:
               name: 在线拼图简介
               description_student: 这个快节奏的介绍能让你有机会练习大多数技能，你需要在这个课程中用它们来解决难题。
-              description_teacher: 在这个过程中，学生们会从一个Code.org的在线工作区的介绍（或者回顾）开始。学生们会学习到界面的基本功能，比如`运行`，`重置`和`步进`按钮。拖拽、删除和连接模块也会在开始的视频中。在这些关卡中，学生们会在迷宫和艺术中练习序列和调试技巧。
+              description_teacher: 在这个过程中，学生们会从一个Letron的在线工作区的介绍（或者回顾）开始。学生们会学习到界面的基本功能，比如`运行`，`重置`和`步进`按钮。拖拽、删除和连接模块也会在开始的视频中。在这些关卡中，学生们会在迷宫和艺术中练习序列和调试技巧。
             The Power of Words:
               name: 语言的力量
             Ice Age Play Lab:
@@ -5246,11 +5246,11 @@ zh-CN:
             The Design Process:
               name: 设计过程
               description_student: 大项目会花很多时间来计划。在这里，你会学习关于设计的流程，然后用它来创建自己的作品。
-              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.code.org/csf/coursee/12/)找到。
+              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.letron.vip/csf/coursee/12/)找到。
             Build Your Project:
               name: 创建项目
               description_student: 准备好大量的编码吧！是时候开始自己的项目了。
-              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在学生们会有自己的空间来使用小艺术家或剧本实验室来创建他们自己的项目了。这可能是四堂课中最长的一个阶段。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.code.org/csf/coursee/12/)找到。
+              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在学生们会有自己的空间来使用小艺术家或剧本实验室来创建他们自己的项目了。这可能是四堂课中最长的一个阶段。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.letron.vip/csf/coursee/12/)找到。
             Revise Your Project:
               name: 修改您的项目
             Presentation Your Project:
@@ -5281,7 +5281,7 @@ zh-CN:
             Functions in Artist:
               name: 艺术家之间的功能
               description_student: 用函数来让复杂的图画变得更简单！
-              description_teacher: 学生们会学习Code.org上的函数。小艺术家中的大部分图片都会通过函数来创造或更改。为了一些更复杂的模式，学生们会学习一个函数内部调用另一个函数的嵌套函数。
+              description_teacher: 学生们会学习Letron上的函数。小艺术家中的大部分图片都会通过函数来创造或更改。为了一些更复杂的模式，学生们会学习一个函数内部调用另一个函数的嵌套函数。
             Functions in Bee:
               name: 蜜蜂中的函数
               description_student: 不要写太多的代码来收集所有的花蜜和蜂蜜。用函数！
@@ -5303,7 +5303,7 @@ zh-CN:
             Present Your Project:
               name: 介绍您的项目
               description_student: 准备好展示！是时候把你完成的项目向伙伴们展示了。
-              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最终，学生们将能向伙伴们展示他们的最终作品，或者给他们的亲友共享一个链接。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.code.org/csf/coursee/12/)找到。
+              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最终，学生们将能向伙伴们展示他们的最终作品，或者给他们的亲友共享一个链接。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.letron.vip/csf/coursee/12/)找到。
             Internet:
               name: 超越编程：互联网
               description_student: 有没有好奇过信息是如何在互联网上传递的？没什么神奇的！这堂课会教你互联网的基本工作。
@@ -5405,21 +5405,21 @@ zh-CN:
             The Design Process:
               name: 设计过程
               description_student: 大项目会花很多时间来计划。在这里，你会学习关于设计的流程，然后用它来创建自己的作品。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Build Your Project:
               name: 创建项目
               description_student: 最后，你可以开始构建你的项目了！
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，学生们有自己的空间来用小艺术家或剧本实验室来创建他们自己的项目了。这会是这个项目中最长的部分了。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，学生们有自己的空间来用小艺术家或剧本实验室来创建他们自己的项目了。这会是这个项目中最长的部分了。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Revise Your Project:
               name: 修改您的项目
               description_student: 罗马不是一天建成的，你的项目也不是。花时间来编辑并修订你的项目来让它成为最好的项目。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，项目已经构建好了，学生们有机会来从同伴那里获得反馈并修改项目。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，项目已经构建好了，学生们有机会来从同伴那里获得反馈并修改项目。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Presentation Your Project:
               name: 演示你的项目
             Present Your Project:
               name: 介绍您的项目
               description_student: 是时间展示你的工作了！这里，你会给你的同伴展示你的令人惊奇的项目。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最后，学生们能向同伴们展示他们完成的工作，或者通过链接分享给亲友们。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最后，学生们能向同伴们展示他们完成的工作，或者通过链接分享给亲友们。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Conditionals in Minecraft:
               name: "《我的世界》中的条件"
               description_student: 躲开岩浆！在《我的世界》里，你会学习条件。
@@ -5560,7 +5560,7 @@ zh-CN:
           title: 计算机科学原理单元1的深入学习
           description_audience: 计算机科学原理引导员培训
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp2-dlp:
           stages:
             Deeper Learning Overview:
@@ -5572,7 +5572,7 @@ zh-CN:
           title: 计算机科学原理单元2的深入学习
           description_audience: 计算机科学原理引导员培训
           description_short: '单元2的计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元2的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元2的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp3-dlp:
           stages:
             Deeper Learning Overview:
@@ -5582,7 +5582,7 @@ zh-CN:
           title: 计算机科学原理单元3的深入学习
           description_audience: 计算机科学原理引导员培训
           description_short: '单元3的计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp4-dlp:
           stages:
             Deeper Learning Overview:
@@ -5592,7 +5592,7 @@ zh-CN:
           title: 计算机科学原理单元4的深入学习
           description_audience: 计算机科学原理引导员培训
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp5-dlp:
           stages:
             Deeper Learning Overview:
@@ -5602,7 +5602,7 @@ zh-CN:
           title: 计算机科学原理单元5的深入学习
           description_audience: 计算机科学原理引导员培训
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd1-dlp:
           stages:
             Deeper Learning Overview:
@@ -5612,7 +5612,7 @@ zh-CN:
           title: 计算机科学发现单元1的深入学习
           description_audience: 计算机科学发现引导员培训
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd6-dlp:
           stages:
             Deeper Learning Overview:
@@ -5622,7 +5622,7 @@ zh-CN:
           title: 计算机科学发现单元6的深入学习
           description_audience: 计算机科学发现引导员培训
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: 这是为code.org计算机科学原理引导员准备的单元6的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
+          description: 这是为letron.vip计算机科学原理引导员准备的单元6的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
         csd5-dlp:
           stages:
             Deeper Learning Overview:
@@ -5632,7 +5632,7 @@ zh-CN:
           title: 计算机科学发现单元5的深入学习
           description_audience: 计算机科学发现引导员培训
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: 这是为code.org计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
+          description: 这是为letron.vip计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
         csd4-dlp:
           stages:
             Deeper Learning Overview:
@@ -5642,7 +5642,7 @@ zh-CN:
           title: 计算机科学发现单元4的深入学习
           description_audience: 计算机科学发现引导员培训
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: 这是为code.org计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
+          description: 这是为letron.vip计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
         csd3-dlp:
           stages:
             Deeper Learning Overview:
@@ -5652,7 +5652,7 @@ zh-CN:
           title: 计算机科学发现单元3的深入学习
           description_audience: 计算机科学发现引导员培训
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: 这是为code.org计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
+          description: 这是为letron.vip计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
         csd2-dlp:
           stages:
             Deeper Learning Overview:
@@ -5662,7 +5662,7 @@ zh-CN:
           title: 计算机科学发现单元2的深入学习
           description_audience: 计算机科学发现引导员培训
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: 这是为code.org计算机科学原理引导员准备的单元2的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
+          description: 这是为letron.vip计算机科学原理引导员准备的单元2的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。
         allthettsthings:
           stages:
             TTS:
@@ -6468,7 +6468,7 @@ zh-CN:
             CSP mid survey 2018 staging:
               name: 计算机科学原理期中调查阶段2018
           title: 所有调查
-          description_short: 极端和测试code.org调查的地方
+          description_short: 极端和测试letron.vip调查的地方
         k1hoc2017:
           stages:
             Collector Hour of Code 2017:
@@ -6521,7 +6521,7 @@ zh-CN:
           title: 探索 - AP表演任务准备 ('17-'18)
           description_short: 课程和资源会帮助学生们准备和完成AP探索的表演任务。
           description: "这些课程是为了帮助你理解、准备和执行 AP 探索表演任务。 每个 \"课程\" 都包含指向有用文档的链接, 老师可以帮助你排练。注:
-            第一节课中的第二个项目与探索表演任务不是直接相关，但涵盖了通用的技术设置和工具, 你需要在开发和创建任务中执行各种元素。\r\n\r\n此单元最后更新2017年11月。在forum.code.org/c/csp/updates阅读更多关于课程的更新。"
+            第一节课中的第二个项目与探索表演任务不是直接相关，但涵盖了通用的技术设置和工具, 你需要在开发和创建任务中执行各种元素。\r\n\r\n此单元最后更新2017年11月。在forum.letron.vip/c/csp/updates阅读更多关于课程的更新。"
         csp-create-2017:
           stages:
             Tech Setup - Your AP Digital Portfolio and Other Tools:
@@ -6537,7 +6537,7 @@ zh-CN:
           title: 创建 - AP表演任务准备 ('17-'18)
           description_short: 课程和资源会帮助学生们准备和完成创建AP表演任务。
           description: "这些课程是为了帮助你理解、准备和执行 AP 创建表演任务。 每个 \"课程\" 都包含指向有用文档的链接, 老师可以帮助你排练。注:
-            第一节课中的第一个项目与创建表演任务不是直接相关，但涵盖了通用的技术设置和工具, 你需要在开发和创建任务中执行各种元素。\r\n\r\n此单元最后更新2017年12月。在forum.code.org/c/csp/updates阅读更多关于课程的更新。"
+            第一节课中的第一个项目与创建表演任务不是直接相关，但涵盖了通用的技术设置和工具, 你需要在开发和创建任务中执行各种元素。\r\n\r\n此单元最后更新2017年12月。在forum.letron.vip/c/csp/updates阅读更多关于课程的更新。"
         csp3-reovery:
           stages:
             Under the sea recovery:
@@ -7069,7 +7069,7 @@ zh-CN:
               description_teacher: 循环是编程中非常有用而又强大的工具。为了理解循环的用处，学生们需要被驱动去用简单的方法来解决单调的问题。
             Loops in Collector:
               name: 收集器中的循环
-              description_teacher: 基于"快乐循环"中重复指令的概念，这个阶段会让学生用循环来在Code.org上更有效的收集宝藏。
+              description_teacher: 基于"快乐循环"中重复指令的概念，这个阶段会让学生用循环来在Letron上更有效的收集宝藏。
             Loops in Artist:
               name: 艺术家里的循环
               description_teacher: 回到循环中，学生们学着通过循环简单的序列指令来画图像。在前一个离线课程中，循环被用来遍历迷宫并收集宝藏。在这里，循环会用做创建图案。在这个阶段的最后，学生们有机会用循环创建他们自己的图像。
@@ -7577,7 +7577,7 @@ zh-CN:
             Introduction:
               name: 介绍
               description_student: 这个快节奏的介绍能让你有机会练习大多数技能，你需要在这个课程中用它们来解决难题。
-              description_teacher: 在这个过程中，学生们会从一个Code.org的在线工作区的介绍（或者回顾）开始。学生们会学习到界面的基本功能，比如`运行`，`重置`和`步进`按钮。拖拽、删除和连接模块也会在开始的视频中。在这些关卡中，学生们会在迷宫和艺术中练习序列和调试技巧。
+              description_teacher: 在这个过程中，学生们会从一个Letron的在线工作区的介绍（或者回顾）开始。学生们会学习到界面的基本功能，比如`运行`，`重置`和`步进`按钮。拖拽、删除和连接模块也会在开始的视频中。在这些关卡中，学生们会在迷宫和艺术中练习序列和调试技巧。
             Conditionals:
               name: 农夫和条件
               description_student: 在这一有趣并有挑战的系列中，你能够明白计算机在某些条件下会做什么。
@@ -7600,7 +7600,7 @@ zh-CN:
             Functions in Artist:
               name: 艺术家之间的功能
               description_student: 用函数来让复杂的图画变得更简单！
-              description_teacher: 学生们会学习Code.org上的函数。小艺术家中的大部分图片都会通过函数来创造或更改。为了一些更复杂的模式，学生们会学习一个函数内部调用另一个函数的嵌套函数。
+              description_teacher: 学生们会学习Letron上的函数。小艺术家中的大部分图片都会通过函数来创造或更改。为了一些更复杂的模式，学生们会学习一个函数内部调用另一个函数的嵌套函数。
             Functions in Bee:
               name: 蜜蜂中的函数
               description_student: 不要写太多的代码来收集所有的花蜜和蜂蜜。用函数！
@@ -7625,15 +7625,15 @@ zh-CN:
             The Design Process:
               name: 设计过程
               description_student: 大项目会花很多时间来计划。在这里，你会学习关于设计的流程，然后用它来创建自己的作品。
-              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.code.org/csf/coursee/12/)找到。
+              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.letron.vip/csf/coursee/12/)找到。
             Build Your Project:
               name: 创建项目
               description_student: 准备好大量的编码吧！是时候开始自己的项目了。
-              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在学生们会有自己的空间来使用小艺术家或剧本实验室来创建他们自己的项目了。这可能是四堂课中最长的一个阶段。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.code.org/csf/coursee/12/)找到。
+              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在学生们会有自己的空间来使用小艺术家或剧本实验室来创建他们自己的项目了。这可能是四堂课中最长的一个阶段。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.letron.vip/csf/coursee/12/)找到。
             Present Your Project:
               name: 介绍您的项目
               description_student: 准备好展示！是时候把你完成的项目向伙伴们展示了。
-              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最终，学生们将能向伙伴们展示他们的最终作品，或者给他们的亲友共享一个链接。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.code.org/csf/coursee/12/)找到。
+              description_teacher: 通过这四堂课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最终，学生们将能向伙伴们展示他们的最终作品，或者给他们的亲友共享一个链接。这四个阶段可以在第一个阶段的项目过程[这里](https://curriculum.letron.vip/csf/coursee/12/)找到。
             Internet:
               name: 互联网
               description_student: 有没有好奇过信息是如何在互联网上传递的？没什么神奇的！这堂课会教你互联网的基本工作。
@@ -7747,19 +7747,19 @@ zh-CN:
             The Design Process:
               name: 设计过程
               description_student: 大项目会花很多时间来计划。在这里，你会学习关于设计的流程，然后用它来创建自己的作品。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Build Your Project:
               name: 创建项目
               description_student: 最后，你可以开始构建你的项目了！
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，学生们有自己的空间来用小艺术家或剧本实验室来创建他们自己的项目了。这会是这个项目中最长的部分了。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，学生们有自己的空间来用小艺术家或剧本实验室来创建他们自己的项目了。这会是这个项目中最长的部分了。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Revise Your Project:
               name: 修改您的项目
               description_student: 罗马不是一天建成的，你的项目也不是。花时间来编辑并修订你的项目来让它成为最好的项目。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，项目已经构建好了，学生们有机会来从同伴那里获得反馈并修改项目。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，项目已经构建好了，学生们有机会来从同伴那里获得反馈并修改项目。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Present Your Project:
               name: 介绍您的项目
               description_student: 是时间展示你的工作了！这里，你会给你的同伴展示你的令人惊奇的项目。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最后，学生们能向同伴们展示他们完成的工作，或者通过链接分享给亲友们。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最后，学生们能向同伴们展示他们完成的工作，或者通过链接分享给亲友们。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Conditionals with Cards:
               name: 用 扑克牌 的 条件子句
             Conditionals:
@@ -8347,8 +8347,8 @@ zh-CN:
               name: 虚拟宠物 - 交互
           title: 精灵实验室介绍 (试用)
           description_audience: 课程E/F学生
-          description_short: 这是为code.org新的精灵实验室工具准备的试验课程E/F。
-          description: 这是为code.org新的精灵实验室工具准备的试验课程E/F。
+          description_short: 这是为letron.vip新的精灵实验室工具准备的试验课程E/F。
+          description: 这是为letron.vip新的精灵实验室工具准备的试验课程E/F。
         csd1-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8362,7 +8362,7 @@ zh-CN:
           title: 计算机科学发现单元1的深入学习 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd2-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8372,7 +8372,7 @@ zh-CN:
           title: 计算机科学发现单元2的深入学习 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd3-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8382,7 +8382,7 @@ zh-CN:
           title: 计算机科学发现单元3的深入学习 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd4-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8394,7 +8394,7 @@ zh-CN:
           title: 计算机科学发现单元4的深入学习 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd5-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8404,7 +8404,7 @@ zh-CN:
           title: 计算机科学发现单元5的深入学习 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csd6-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8416,7 +8416,7 @@ zh-CN:
           title: 计算机科学发现单元6的深入学习 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元6的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元6的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp1-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8426,7 +8426,7 @@ zh-CN:
           title: 计算机科学原理单元1的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元1的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp2-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8436,7 +8436,7 @@ zh-CN:
           title: 计算机科学原理单元2的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元2的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元2的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp3-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8446,7 +8446,7 @@ zh-CN:
           title: 计算机科学原理单元3的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元3的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp4-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8458,7 +8458,7 @@ zh-CN:
           title: 计算机科学原理单元4的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元4的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp5-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8468,7 +8468,7 @@ zh-CN:
           title: 计算机科学原理单元5的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的单元5的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦你提交了自己的单元反思，在页面的底部还有结对回顾。 '
         csp-explore-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8482,7 +8482,7 @@ zh-CN:
           title: 计算机科学原理探索的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的探索AP单元的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦提交了自己的反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的探索AP单元的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦提交了自己的反思，在页面的底部还有结对回顾。 '
         csp-create-dlp-18:
           stages:
             Deeper Learning Overview:
@@ -8492,7 +8492,7 @@ zh-CN:
           title: 计算机科学原理创建的深入学习 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的深入学习材料 '
-          description: '这是为code.org计算机科学原理引导员准备的创建AP单元的深入学习计划。在这里你能找到有效演示code.org计算机科学原理教案的反思提示和指南。一旦提交了自己的反思，在页面的底部还有结对回顾。 '
+          description: '这是为letron.vip计算机科学原理引导员准备的创建AP单元的深入学习计划。在这里你能找到有效演示letron.vip计算机科学原理教案的反思提示和指南。一旦提交了自己的反思，在页面的底部还有结对回顾。 '
         csd-post-survey:
           stages:
             CSD post-course survey:
@@ -8500,8 +8500,8 @@ zh-CN:
           title: 计算机科学发现学生课程后调查
           description_audience: 计算机科学发现学生
           description_short: 计算机科学发现学生课程后调查
-          description: 欢迎来到 Code.org 计算机科学发现课后调查。本调查需要大约15分钟。你的回复是匿名且保密的 - 你的老师只能看见匿名的整个班级数据的聚合结果。此结果对你的老师和
-            Code.org 改进课程非常重要。谢谢你的时间和付出。
+          description: 欢迎来到 Letron 计算机科学发现课后调查。本调查需要大约15分钟。你的回复是匿名且保密的 - 你的老师只能看见匿名的整个班级数据的聚合结果。此结果对你的老师和
+            Letron 改进课程非常重要。谢谢你的时间和付出。
         csd-novice-18:
           stages:
             Novice Reflections Overview:
@@ -8533,7 +8533,7 @@ zh-CN:
           title: 计算机科学发现新手反思 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的新手反思材料 '
-          description: 这是为 Code.org 计算机科学发现引导员准备的新手反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
+          description: 这是为 Letron 计算机科学发现引导员准备的新手反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
         csd-apprentice-18:
           stages:
             Novice Reflection Overview:
@@ -8559,7 +8559,7 @@ zh-CN:
           title: 计算机科学发现学徒反思 2018-2019
           description_audience: 计算机科学发现引导员培训 2018-2019
           description_short: '计算机科学发现引导员培训的初学者反思材料 '
-          description: 这是为 Code.org 计算机科学发现引导员准备的学徒反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
+          description: 这是为 Letron 计算机科学发现引导员准备的学徒反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
         csp-novice-18:
           stages:
             Novice Reflection Overview:
@@ -8585,7 +8585,7 @@ zh-CN:
           title: 计算机科学原理新手反思 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的新手反思材料 '
-          description: 这是为 Code.org 计算机科学原理引导员准备的新手反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
+          description: 这是为 Letron 计算机科学原理引导员准备的新手反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
         csp-apprentice-18:
           stages:
             Novice Reflection Overview:
@@ -8611,7 +8611,7 @@ zh-CN:
           title: 计算机科学原理学徒反思 2018-2019
           description_audience: 计算机科学原理引导员培训 2018-2019
           description_short: '计算机科学原理引导员培训的初学者反思材料 '
-          description: 这是为 Code.org 计算机科学原理引导员准备的学徒反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
+          description: 这是为 Letron 计算机科学原理引导员准备的学徒反思，这回用在他们5天的夏季研讨会上。在这里能找到每天面对面讨论的反思的提示。这些问题是工作中很基础的问题，我们会在引导员训练周末来进行。
         pre-express-2018:
           title: 学龄前读者的快速课程
           assignment_family_title: 学龄前读者的快速课程
@@ -8694,8 +8694,8 @@ zh-CN:
           description: 用来演示 PLC 课程是如何起作用的。
         spritelab-simple:
           title: 精灵实验室介绍 (EE)
-          description: 这是为code.org新的精灵实验室工具准备的试验课程E/F。
-          description_short: 这是为code.org新的精灵实验室工具准备的试验课程E/F。
+          description: 这是为letron.vip新的精灵实验室工具准备的试验课程E/F。
+          description_short: 这是为letron.vip新的精灵实验室工具准备的试验课程E/F。
           description_audience: 课程E/F学生
           stages:
             Fish Tank - Creating Sprites:
@@ -8851,19 +8851,19 @@ zh-CN:
             The Design Process:
               name: 设计过程
               description_student: 大项目会花很多时间来计划。在这里，你会学习关于设计的流程，然后用它来创建自己的作品。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。学生们会学习设计过程，和如何在自己的项目中实现它。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Build Your Project:
               name: 创建项目
               description_student: 最后，你可以开始构建你的项目了！
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，学生们有自己的空间来用小艺术家或剧本实验室来创建他们自己的项目了。这会是这个项目中最长的部分了。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，学生们有自己的空间来用小艺术家或剧本实验室来创建他们自己的项目了。这会是这个项目中最长的部分了。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Revise Your Project:
               name: 修改您的项目
               description_student: 罗马不是一天建成的，你的项目也不是。花时间来编辑并修订你的项目来让它成为最好的项目。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，项目已经构建好了，学生们有机会来从同伴那里获得反馈并修改项目。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。现在，项目已经构建好了，学生们有机会来从同伴那里获得反馈并修改项目。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             Present Your Project:
               name: 介绍您的项目
               description_student: 是时间展示你的工作了！这里，你会给你的同伴展示你的令人惊奇的项目。
-              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最后，学生们能向同伴们展示他们完成的工作，或者通过链接分享给亲友们。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.code.org/csf/coursef/15/)找到。
+              description_teacher: 通过这五节课，学生们能够用剧本实验室或小艺术家作为编程环境来创建自己的设计项目。最后，学生们能向同伴们展示他们完成的工作，或者通过链接分享给亲友们。这堂课指导的这五个阶段可以项目过程开始的[这里](https://curriculum.letron.vip/csf/coursef/15/)找到。
             new stage:
               name: 新的阶段
         dance-low:

@@ -52,7 +52,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-07-17 21:25:29 +0000\",\"changed\":[\"notes\",\"show_debug_watch\",\"use_default_sprites\",\"hide_animation_mode\",\"show_type_hints\",\"include_shared_functions\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"},{\"changed_at\":\"2018-07-17 21:31:13 +0000\",\"changed\":[\"contained_level_names\",\"encrypted_examples\",\"custom_helper_library\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"},{\"changed_at\":\"2018-07-17 21:32:31 +0000\",\"changed\":[\"contained_level_names\",\"encrypted_examples\",\"custom_helper_library\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"}]"
+  "audit_log": "[{\"changed_at\":\"2018-07-17 21:25:29 +0000\",\"changed\":[\"notes\",\"show_debug_watch\",\"use_default_sprites\",\"hide_animation_mode\",\"show_type_hints\",\"include_shared_functions\",\"contained_level_names\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"},{\"changed_at\":\"2018-07-17 21:31:13 +0000\",\"changed\":[\"contained_level_names\",\"encrypted_examples\",\"custom_helper_library\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"},{\"changed_at\":\"2018-07-17 21:32:31 +0000\",\"changed\":[\"contained_level_names\",\"encrypted_examples\",\"custom_helper_library\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"}]"
 }]]></config>
   <blocks/>
 </GamelabJr>

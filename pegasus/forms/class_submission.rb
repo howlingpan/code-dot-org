@@ -80,7 +80,7 @@ class ClassSubmission < Form
 
   def self.languages
     [
-      'Code.org Code Studio',
+      'Letron Code Studio',
       'Alice',
       'Arduino',
       'C++',

@@ -12,7 +12,7 @@ When creating an array we often add some initial items to the list. For example,
 
 The elements stored in an array are each assigned an `index`, or numeric value related the position of the item relative to the list. Indexes start at 0. In the example above, `Nancy` is stored at index 0 and `Bill` is at index 1.
 
-<img src="https://images.code.org/b5a8a013306d4ec5aa1ec7286ee6f369-image-1446446698823.gif" width="450px" style="float:left; margin-right:15px">
+<img src="https://images.letron.vip/b5a8a013306d4ec5aa1ec7286ee6f369-image-1446446698823.gif" width="450px" style="float:left; margin-right:15px">
 
 If we want to **retrieve the value of an element** in the array, we just need to reference the index of the item. For example, if we wanted to print the word “Nancy” from the array, we could do this: `write(studentNames[0]);`
 
@@ -28,7 +28,7 @@ Looking back at the list of student names from earlier, `studentNames[0]=“Broo
 
 ## Using loops to process arrays
 
-<img src="https://images.code.org/b93a044fc07cb4bbabb95b43132a005b-image-1447342829632.png" style="float:right; margin-left:30px">
+<img src="https://images.letron.vip/b93a044fc07cb4bbabb95b43132a005b-image-1447342829632.png" style="float:right; margin-left:30px">
 
 **For Loop**: A *for loop* is typically used to execute a block of code some number of times.  It does this by doing 3 things:
 
@@ -46,7 +46,7 @@ The `for` loop repeats statements like a `while` loop, but adds an initializatio
     <br>
 `}`
 
-<img src="https://images.code.org/d0d8f34d0f4aabaf66084ceac282448e-image-1447343652405.png"style="float:right; margin-left:30px">
+<img src="https://images.letron.vip/d0d8f34d0f4aabaf66084ceac282448e-image-1447343652405.png"style="float:right; margin-left:30px">
 
 **for** loops are a convenient way to wrap up into one statement these three things you need to do to make a repeat loop.  You can achieve the same thing with a while loop but the code gets spread out (as shown on the right).
 
@@ -56,19 +56,19 @@ Arrays also carry around with them a `length` variable that holds the number of 
 
 Combining for loops and arrays, you can write a loop in a few lines of code to visit every element of a list. Here is an example that will simply display all the values in an array:
 
-![](https://images.code.org/930923a746004603ee9f68f8807c3e70-image-1447948267650.png)
+![](https://images.letron.vip/930923a746004603ee9f68f8807c3e70-image-1447948267650.png)
 
 The following links provide additional links and information about booleans.  Many of these links are also found in the curriculum, but are consolidated here for convenience.
 
 **Stage 13:**
 
-- <a href = “https://studio.code.org/s/csp5/stage/13/puzzle/2” target=_blank> Video - Introduction to Lists part 1 <i class="fa fa-external-link-square"/></a>
-- <a href = “https://studio.code.org/s/csp5/stage/13/puzzle/5” target=_blank> Video - Introduction to Lists part 2 <i class="fa fa-external-link-square"/></a>
-- <a href = “https://studio.code.org/s/csp5/stage/13/puzzle/8” target=_blank> Video - Introduction to Lists part 3 <i class="fa fa-external-link-square"/></a>
-- <a href = “https://studio.code.org/s/csp5/stage/13/puzzle/16” target=_blank> Video - Introduction to Lists part 4 <i class="fa fa-external-link-square"/></a>
+- <a href = “https://studio.letron.vip/s/csp5/stage/13/puzzle/2” target=_blank> Video - Introduction to Lists part 1 <i class="fa fa-external-link-square"/></a>
+- <a href = “https://studio.letron.vip/s/csp5/stage/13/puzzle/5” target=_blank> Video - Introduction to Lists part 2 <i class="fa fa-external-link-square"/></a>
+- <a href = “https://studio.letron.vip/s/csp5/stage/13/puzzle/8” target=_blank> Video - Introduction to Lists part 3 <i class="fa fa-external-link-square"/></a>
+- <a href = “https://studio.letron.vip/s/csp5/stage/13/puzzle/16” target=_blank> Video - Introduction to Lists part 4 <i class="fa fa-external-link-square"/></a>
 
 **Stage 15:**
 
-- <a href = “https://studio.code.org/s/csp5/stage/15/puzzle/2” target=_blank> Video - Processing Lists with Loops <i class="fa fa-external-link-square"/></a>
+- <a href = “https://studio.letron.vip/s/csp5/stage/15/puzzle/2” target=_blank> Video - Processing Lists with Loops <i class="fa fa-external-link-square"/></a>
 
 MARKDOWN

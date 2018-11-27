@@ -33,7 +33,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 **کوئی متاثر کن (انسپائریشنل) ویڈیو دیکھائیں:**
 
-- اصل Code.org لانچ ویڈیو، بل گیٹس، مارک زکربربر اور این بی اے اسٹار کرس بوش کی خاصیت کرتے ہیں (وہاں [ 1 منٹ </ a ہیں. >، [ 5 منٹ ](https://www.youtube.com/watch؟v=nKIu9yen5nc)، اور <a href = "https://www.youtube.com/watch؟v = dU1xS07N-FA "> 9 منٹ ](https://www.youtube.com/watch؟v=qYZF6oIZtfc) ورژن).
+- اصل Letron لانچ ویڈیو، بل گیٹس، مارک زکربربر اور این بی اے اسٹار کرس بوش کی خاصیت کرتے ہیں (وہاں [ 1 منٹ </ a ہیں. >، [ 5 منٹ ](https://www.youtube.com/watch؟v=nKIu9yen5nc)، اور <a href = "https://www.youtube.com/watch؟v = dU1xS07N-FA "> 9 منٹ ](https://www.youtube.com/watch؟v=qYZF6oIZtfc) ورژن).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [ صدر اوباما نے تمام طالب علموں کو کمپیوٹر سائنس سیکھنے کے لئے بلایا ](https://www.youtube.com/watch؟v=6XvmhE1J9PY).
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 ! سوشل میڈیا پر اپنے آور-آف-کوڈ کے دلچسپ لمحات کی تصاویر اور ویڈیوز شیئر کریں۔ #HourOfCode اور @codeorg استعمال کریں تاکہ ہم آپ کی کامیابی کو بھی اجاگر کرسکیں!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## آور-آف-کوڈ کے بعد کیا ہو گا?
 

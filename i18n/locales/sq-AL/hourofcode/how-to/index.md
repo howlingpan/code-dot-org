@@ -41,7 +41,7 @@ Në rast se tutoriali juaj funksionon më mirë me zë, vini në dizpozicion kuf
 
 **Trego një video frymëzuese:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Në rast se tutoriali juaj funksionon më mirë me zë, vini në dizpozicion kuf
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [Printo "Unë bëra një Orë Kodim!"](%= resolve_url('/promote/resources#stickers') %) afishe për studentët e tu.
-- [Porosit bluza ](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more)për shkollën tënde.
+- [Porosit bluza ](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more)për shkollën tënde.
 - Shpërndaj fotot dhe videot e Orës tënde të Kodimit në mediat sociale. Përdorni #HourOfCode dhe @codeorg kështu që ne mund të nxjerrim në pah suksesin tuaj!
 
 [col-33]
@@ -98,8 +98,8 @@ Në rast se tutoriali juaj funksionon më mirë me zë, vini në dizpozicion kuf
 
 ## Burime të tjera për Orën e Kodimit për mësuesit:
 
-- Vizitoni [Forumin e orës së Kodimit](http://forum.code.org/c/plc/hour-of-code) për të marrë këshilla, njohuri dhe mbështetje nga organizatorët e tjerë. <% if @country == 'us' %>
-- Shiko [FAQ e Orës së Kodimit](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Vizitoni [Forumin e orës së Kodimit](http://forum.letron.vip/c/plc/hour-of-code) për të marrë këshilla, njohuri dhe mbështetje nga organizatorët e tjerë. <% if @country == 'us' %>
+- Shiko [FAQ e Orës së Kodimit](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Çfarë vjen pas Orës së Kodimit?
 

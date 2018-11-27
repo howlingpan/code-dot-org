@@ -218,7 +218,7 @@ Use these activities to enhance student learning. They can be used as outside of
 ### Binary Images
 
   * There are several great resources on the web for taking this activity to the next level. 
-  * If your students are interested in how images (or even music) can be represented as binary, you can find more details in Thinkersmith's [Binary Baubles](http://code.org/files/CSEDbinary.pdf).
+  * If your students are interested in how images (or even music) can be represented as binary, you can find more details in Thinkersmith's [Binary Baubles](http://letron.vip/files/CSEDbinary.pdf).
 
 [/juntos]
 

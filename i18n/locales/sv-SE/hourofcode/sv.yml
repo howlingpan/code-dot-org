@@ -11,7 +11,7 @@
   campaign_date_full: "5-11 december"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 december 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Delta i det största utbildningsevenemanget någonsin, 5-11 december 2016'
   front_intro_default: 'Hour of Code är en global rörelse som når tiotals miljoner elever i över 180 länder. Vem som helst kan arrangera en Hour of Code var som helst. Det finns en-timmes-övningar på över 45 språk. Inga förkunskaper behövs. <strong>Från 4 till 104 år.</strong>'
@@ -186,12 +186,12 @@
   how_to_nav_afterschool_educators: "För efter-skolan lärare"
   how_to_nav_volunteers: "För volontärer"
   whats_next_header: "Vad kommer härnäst?"
-  whats_next_description: "Vi kommer att skicka material och praktiska tips för ditt evenemang. Nya 2016 övningar kommer snart för alla webbläsare, smartphones – eller till och med utan dator! <a href='http://code.org/learn'>Prova nuvarande övningar</a>"
+  whats_next_description: "Vi kommer att skicka material och praktiska tips för ditt evenemang. Nya 2016 övningar kommer snart för alla webbläsare, smartphones – eller till och med utan dator! <a href='http://letron.vip/learn'>Prova nuvarande övningar</a>"
   whats_next_how_to: "<a href='/how-to'>Hur du ordnar en Hour of Code</a>"
   whats_next_promote: "<a href='/promote'>Marknadsför Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Marknadsför Hour of Code</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Hur du kan marknadsföra Hour of Code</a>"
-  whats_next_try: "<a href='http://code.org/learn'> Prova övningar</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'> Prova övningar</a>"
   whats_next_try_button: 'Prova övningar'
   n_have_learned_an_hoc: "<h1>Prova en</h1><h2>Hour of Code</h2><h3># har redan provat</h3>"
   anybody_can_learn: 'Alla kan lära sig.'
@@ -238,8 +238,8 @@
   front_join_us_sign_up: "Registrera dig"
   front_join_us_host: "Anordna"
   front_join_us_support: "Stötta"
-  front_join_us_more_info: "För mer information, besök <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "För mer information, besök code.org"
+  front_join_us_more_info: "För mer information, besök <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "För mer information, besök letron.vip"
   front_join_us_n_students_served: "# deltagare"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@
   signup_your_event: 'Registrera ditt evenemang'
   signup_host_an_hour: 'Håll en Hour of Code'
   signup_match_volunteer: 'Hjälp mig att hitta en programmerare att inspirera mina elever'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@
   signup_continue_label: 'Fortsätt'
   signup_thank_you_header: "Tack för att du anmält dig som värd för ett Hour of code-evenemang."
   signup_thank_you_message: 'Vi har skickat ett bekräftelsemail med information för att hjälpa dig komma igång.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@
   hoc_faq_host_q: "Jag kan ingenting om kodning. Kan jag ändå hålla i ett event?"
   hoc_faq_host_a: "Självklart. Kodtimmens aktiviteter är självinstruerande. Allt du behöver göra är att <a href='%{codeorg_url}/learn'> prova våra aktuella övningar</a>, välja den övningdu vill använda och välja en timme &mdash; vi tar hand om resten. Vi har alternativ för alla åldrar och erfarenhets-nivåer, från förskolan och uppåt. Börja planera ditt evenemang genom att läsa vår <a href='/how-to'> så-gör-du guide</a>."
   hoc_faq_devices_q: "Vilka enheter bör jag använda för mina elever?"
-  hoc_faq_devices_a: "Code.org övningar fungerar på alla enheter och webbläsare. Du kan se mer information om de tekniska kraven på Code.orgs övningar <a href='%{codeorg_url}/educate/it'> här</a>. Tekniska krav för icke Code.org övningar finns under <a href='%{codeorg_url}/learn'>%{partner_url}/lära sig</a> i övningens beskrivning. Glöm inte att vi också erbjuder aktiviteter som inte kräver uppkoppling om din skola inte kan tillgodose kraven för övningarna!"
+  hoc_faq_devices_a: "Letron övningar fungerar på alla enheter och webbläsare. Du kan se mer information om de tekniska kraven på Letrons övningar <a href='%{codeorg_url}/educate/it'> här</a>. Tekniska krav för icke Letron övningar finns under <a href='%{codeorg_url}/learn'>%{partner_url}/lära sig</a> i övningens beskrivning. Glöm inte att vi också erbjuder aktiviteter som inte kräver uppkoppling om din skola inte kan tillgodose kraven för övningarna!"
   hoc_faq_need_computers_q: 'Behöver jag en dator till varje deltagare?'
   hoc_faq_need_computers_a: "Nej. Vi har Kodtimmen övningar som fungerar på datorer, smarttelefoner, surfplattor och en del som inte kräver dator alls! Du kan gå med vart du än är, med vad du än har. <p><i>Några alternativ:</i> <br> <ul> <li><b>Arbeta i par.</b> Forskning visar att elever lär sig bäst genom <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>par-programmering</a>, att dela på en dator och arbeta tillsammans. Uppmuntra eleverna att jobba i par. <li><b>Använda storbild.</b> Om du har en projektor som du kan koppla till en uppkopplad dator, så kan hela gruppen arbeta med Kodtimmen tillsammans. Se delar av instruktionsfilmer tillsammans och turas om att lösa uppgifter eller svara på frågor. <li><b>Jobba utan dator.</b> Vi har övningar som inte kräver dator alls. </ul>"
   hoc_faq_international_q: "Jag är i Sverige. Hur deltar jag internationellt?"
@@ -350,7 +350,7 @@
   hoc_faq_high_school_q: "Vilka aktiviteter lämpar sig för gymnasieelever?"
   hoc_faq_high_school_a: "Vår Star Wars-övning och Minecraft-övning lämpar sig väl för gymnasiet, särskilt StarWars-övningen i JavaScript och skapande-läget i båda övningarna. Alternativt så rekommenderar vi att testa en av nybörjar-övningarna på <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> som start, som övningen med Angry Birds eller Anna och Elsa. En mellanstadieelever bör kunna göra färdigt en av dem på 30 minuter och kan sedan göra mer avancerade övningar i JavaScript, på exempelvis Khan Academy eller CodeHS."
   hoc_faq_scratch_q: "Jag har tänkt använda Scratch under Hour of Code, men vad gör jag om mina elever har iPads istället för datorer?"
-  hoc_faq_scratch_a: "Scratch finns inte till läsplattor. Om dina elever är unga, kan de använda iPad-appen ScratchJr (passar barn som inte är läskunniga). Om du kollar på de övningar som finns på <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, kan du hitta andra övningar som finns till iPads - från Code.org, Tynker, Lightbot, eller CodeSpark."
+  hoc_faq_scratch_a: "Scratch finns inte till läsplattor. Om dina elever är unga, kan de använda iPad-appen ScratchJr (passar barn som inte är läskunniga). Om du kollar på de övningar som finns på <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, kan du hitta andra övningar som finns till iPads - från Letron, Tynker, Lightbot, eller CodeSpark."
   hoc_faq_count_hoc_q: "Hur räknar ni antalet Hour of Code-aktiviteter som genomförts?"
   hoc_faq_map_q: "Varför kan jag inte se min nål på kartan?"
   hoc_faq_map_a: "Vi beklagar att du inte ser ditt evenemang på Hour of Code-kartan. På grund av tiotusentals arrangörer som registrerar sig, så sammanfattas datan så att kartan visar en nål för flertalet evenemang. Om du klickar på numret ovanför kartan så kommer du till en lista för alla evenemang per land där du kan se ditt evenemang listat. Utöver detta, eftersom tusentals människor registrerar sig på Hour of Code, så tar kartan och evenemangslistan 48 timmar att uppdatera sig. Kolla igen om några dagar!"
@@ -358,13 +358,13 @@
   hoc_faq_one_hour_q: "Hur mycket kan man lära sig på en timme?"
   hoc_faq_one_hour_a: 'Målet med Hour of Code är inte att lära någon bli en expert på datavetenskap på en timme. En timme är endast tillräcklig för att lära sig att datavetenskap är roligt och kreativt, och passar alla åldrar, för alla elever, oavsett bakgrund. Hur framgångsrikt Hour of Code har varit mäts inte i hur mycket om datavetenskap som elever lär sig - framgången visar sig i brett deltagande oavsett kön och bakgrund, och hur många fler som vi ser deltar i datavetenskap-kurser på alla skolnivåer. MIljoner av medverkande lärare och elever har bestämt sig för att göra mer än en timme - för att lära sig en hel dag, eller en hel vecka, eller längre. Många elever har bestämt sig för att gå en hel kurs (eller till och med en universitetsutbildning) som resultat.<br/><br/> Förutom eleverna så utbildas även läraren som får självförtroendet efter en timme att de kan lära ut datavetenskap trots att de kanske inte har universitetsutbildning inom datavetenskap. Tiotusentals lärare väljer att fördjupa sig i datavetenskap, antingen genom att gå fysisk utbildning eller ta en online-kurs, eller båda. Detta gäller skoladministration också, som inser att datavetenskap är något som elever vill ha och som deras lärare är kapabla till. <br/><br/> Framför allt är vad alla deltagare lär sig på en timme, är att det går.'
   hoc_faq_more_questions_q: "Fler frågor?"
-  hoc_faq_more_questions_a: "Se om svaret finns i vårt <a href='http://support.code.org'>support forum</a>."
+  hoc_faq_more_questions_a: "Se om svaret finns i vårt <a href='http://support.letron.vip'>support forum</a>."
   hoc_faq_keep_learning_q: "Hur fortsätter jag lära mig efter Hour of Code?"
   hoc_faq_keep_learning_a: "Vem som helst kan arrangera en Hour of Code när som helst. Övningarna finns tillgängliga året om. Du kan förvänta dig att alla våra övningar och läroplaner finns tillgängliga på vår webbplats för evigt. Gå till <a href='/promote'> våra resurser</a> för guider och andra resurser som hjälper dig att göra ditt Hour of Code evenemang till en succé."
   hoc_faq_certificates_q: "Hur skriver jag ut diplom till mina elever?"
   hoc_faq_certificates_a: "Gå till vår <a href='%{codeorg_url}/certificates'> diplomsida</a> där kan du skriva ut diplom för hela klassen i förväg. Du kan också skriva ut <a href='%{codeorg_url}/certificates?course=mc'> särskilda diplom</a> för elever som gör Minecraft övningen."
   hoc_faq_logo_q: "Finns det begränsningar för hur jag kan använda Hour of Code-logotypen eller namnet?"
-  hoc_faq_logo_a: "Hour of Code är varumärkesskyddad. Vi vill inte förhindra dess användning, men vi vill kontrollera att dess användning passar inom några gränser. Se <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>dessa riktlinjer för användning</a>."
+  hoc_faq_logo_a: "Hour of Code är varumärkesskyddad. Vi vill inte förhindra dess användning, men vi vill kontrollera att dess användning passar inom några gränser. Se <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>dessa riktlinjer för användning</a>."
   stats_hoc_2013_image_alt: 'Statistik från Hour of Code 2013'
   stats_growth: "Nådde snabbast 15 miljoner användare."
   stats_i18n: "Elever lär sig på över 45 olika språk"
@@ -469,8 +469,8 @@
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Copyright 2016 Code.org. All rights reserved.'
-  footer_trademark_message: 'Hour of Code™ är ett varumärke som tillhör Code.org.'
+  footer_copyright_message: 'Copyright 2016 Letron. All rights reserved.'
+  footer_trademark_message: 'Hour of Code™ är ett varumärke som tillhör Letron.'
   footer_menu_partners: 'Partners'
   footer_menu_contact: 'Kontakta oss'
   footer_menu_support: 'Hjälp'

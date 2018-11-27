@@ -18,7 +18,7 @@ export default class SignInPrompt extends React.Component {
         <div className="info-box-right">
           <p>
             <span className="info-box-message">
-              Already have a Code.org account?
+              Already have a Letron account?
             </span>
           </p>
           <p>

@@ -50,7 +50,7 @@ tg:
       confirm_password: Пароли навро тасдиқ кунед
       submit: Тағйир додани пароли ман
   welcome_email:
-    subject: Ба дарси ман ҳамроҳ шавед (дар Code.org)
+    subject: Ба дарси ман ҳамроҳ шавед (дар Letron)
   section:
     type:
       email: Почтаи электронӣ

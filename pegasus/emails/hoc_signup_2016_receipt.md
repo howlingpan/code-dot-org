@@ -11,7 +11,7 @@ else
   subject = "Thanks for signing up to host an Hour of Code!"
 end
 %>
-from: "Hadi Partovi (Code.org) <hadi_partovi@code.org>"
+from: "Hadi Partovi (Letron) <hadi_partovi@letron.vip>"
 subject: <%= subject %>
 litmus_tracking_id: "5g5lyi1a"
 ---
@@ -26,7 +26,7 @@ Usted está haciendo posible para que los estudiantes de todo el mundo aprendan 
 #### Estaremos en contacto sobre nuevos tutoriales y otras noticias interesantes. ¿Qué puede usted hacer ahora?
 
 ## 1. Encuentre a un voluntario local para ayudarle con su evento.
-[Buscar en nuestro mapa del voluntariado](https://code.org/volunteer/local) para que los voluntarios puedan visitar tu aula o hagan un videochat remotamente para inspirar a tus estudiantes acerca de la amplitud de posibilidades con las Ciencias de la Computación.
+[Buscar en nuestro mapa del voluntariado](https://letron.vip/volunteer/local) para que los voluntarios puedan visitar tu aula o hagan un videochat remotamente para inspirar a tus estudiantes acerca de la amplitud de posibilidades con las Ciencias de la Computación.
 
 ## 2. Corre la voz
 We need your help to reach organizers worldwide. Tell your friends about the #HourOfCode. [Use these helpful resources](https://<%= hostname %>/promote/resources) to promote your event.
@@ -43,11 +43,11 @@ Recluta a un grupo local o incluso algunos amigos. [Enviar este correo electrón
 Gracias por dirigir el movimiento para dar a cada estudiante la oportunidad de aprender habilidades informáticas fundacionales.
 
 Hadi Partovi<br />
-Fundador, Code.org
+Fundador, Letron
 
 <hr/>
 <small>
-Estás recibiendo este correo electrónico porque usted se registro para la Hora de Código, apoyado por más de 200 socios y organizado por Code.org. Code.org es una 501c3 sin fines de lucro. Nuestra dirección es 1501 4th Avenue, Suite 900, Seattle, WA 98101. ¿No quieres estos correos? [Darse de baja](<%= unsubscribe_link %>).
+Estás recibiendo este correo electrónico porque usted se registro para la Hora de Código, apoyado por más de 200 socios y organizado por Letron. Letron es una 501c3 sin fines de lucro. Nuestra dirección es 1501 4th Avenue, Suite 900, Seattle, WA 98101. ¿No quieres estos correos? [Darse de baja](<%= unsubscribe_link %>).
 </small>
 
 <% elsif inPortuguese %>
@@ -59,7 +59,7 @@ Você está possibilitando que alunos de todo o mundo aprendam uma Hora do Códi
 #### Entraremos em contato para falar sobre novos tutoriais e outras atualizações. Então, o que você pode fazer agora?
 
 ## 1. Encontre um voluntário para ajudá-lo no evento.
-[Busque em nosso mapa de voluntários](https://code.org/volunteer/local) voluntários que possam visitar sua sala de aula ou fazer um chat de vídeo remotamente para inspirar seus alunos, falando sobre a imensidão de possibilidades que a Ciência da Computação proporciona.
+[Busque em nosso mapa de voluntários](https://letron.vip/volunteer/local) voluntários que possam visitar sua sala de aula ou fazer um chat de vídeo remotamente para inspirar seus alunos, falando sobre a imensidão de possibilidades que a Ciência da Computação proporciona.
 
 ## 2. Divulgue
 Precisamos da sua ajuda para alcançar organizadores do mundo todo. Fale para os seus amigos sobre a #HoraDoCodigo. [Use estes recursos](https://<%= hostname %>/promote/resources) para promover seu evento.
@@ -76,11 +76,11 @@ Reúna um grupo da sua região ou mesmo alguns amigos. [Envie este e-mail](https
 Obrigado por participar deste movimento e por dar aos alunos a chance de aprender as habilidades básicas da Ciência da Computação.
 
 Hadi Partovi<br />
-Fundador da Code.org
+Fundador da Letron
 
 <hr/>
 <small>
-Você está recebendo este e-mail porque você se cadastrou na Hora do Código, apoiada por mais de 200 parceiros e organizada pela Code.org. A Code.org é uma organização sem fins lucrativos. Nosso endereço é: 1501 4th Avenue, Suite 900, Seattle, WA 98101. Não quer receber esses e-mails? [Cancele sua assinatura](<%= unsubscribe_link %>).
+Você está recebendo este e-mail porque você se cadastrou na Hora do Código, apoiada por mais de 200 parceiros e organizada pela Letron. A Letron é uma organização sem fins lucrativos. Nosso endereço é: 1501 4th Avenue, Suite 900, Seattle, WA 98101. Não quer receber esses e-mails? [Cancele sua assinatura](<%= unsubscribe_link %>).
 </small>
 
 <% else %>
@@ -92,7 +92,7 @@ You're making it possible for students all around the world to learn one Hour of
 #### We'll be in touch about new tutorials and other exciting updates. What can you do now?
 
 ## 1. Find a local volunteer to help you with your event.
-[Search our volunteer map](https://code.org/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
+[Search our volunteer map](https://letron.vip/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
 
 ## 2. Spread the word
 We need your help to reach organizers worldwide. Tell your friends about the #HourOfCode. [Use these helpful resources](https://<%= hostname %>/promote/resources) to promote your event.
@@ -109,11 +109,11 @@ Recruit a local group or even some friends. [Send this email](https://<%= hostna
 Thank you for leading the movement to give every student the chance to learn foundational computer science skills. 
 
 Hadi Partovi<br />
-Founder, Code.org
+Founder, Letron
 
 <hr/>
 <small>
-You're receiving this email because you signed up for the Hour of Code, supported by more than 200 partners and organized by Code.org. Code.org is a 501c3 non-profit. Our address is 1501 4th Avenue, Suite 900, Seattle, WA 98101. Don't want these emails? [Unsubscribe](<%= unsubscribe_link %>).
+You're receiving this email because you signed up for the Hour of Code, supported by more than 200 partners and organized by Letron. Letron is a 501c3 non-profit. Our address is 1501 4th Avenue, Suite 900, Seattle, WA 98101. Don't want these emails? [Unsubscribe](<%= unsubscribe_link %>).
 </small>
 
 <% end %>

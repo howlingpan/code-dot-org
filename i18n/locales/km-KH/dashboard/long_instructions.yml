@@ -279,7 +279,7 @@ km:
         Check the hints if you need help
         with these challenges!
       course4_artist_variables_challenge2: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/>\\r
         \\r
         You've now learned everything you need to know to
@@ -518,9 +518,9 @@ km:
       courseF_artist_variables2: "Now use another loop to draw\nthree of those triangles right next to each other.   \\r\n\\r\nYou can nest\nthe code from your last puzzle inside."
       courseF_artist_variables2_2018: "Now use another loop to draw\nthree of those triangles right next to each other.   \\r\n\\r\nYou can nest\nthe code from your last puzzle inside."
       courseF_artist_variables2_2019: "Now use another loop to draw\nthree of those triangles right next to each other.   \\r\n\\r\nYou can nest\nthe code from your last puzzle inside."
-      courseF_artist_variables3: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n\\r\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
-      courseF_artist_variables3_2018: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n\\r\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
-      courseF_artist_variables3_2019: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n\\r\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+      courseF_artist_variables3: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n\\r\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+      courseF_artist_variables3_2018: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n\\r\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+      courseF_artist_variables3_2019: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n\\r\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables6: "**OOPS!**  \\r\n\\r\nWe\nactually need the triangles to be 60 pixels wide, with 60 pixel jumps.  \\r\n\\r\nAren't\nyou glad you're using a variable?"
       courseF_artist_variables6_2018: "**OOPS!**  \\r\n\\r\nWe\nactually need the triangles to be 60 pixels wide, with 60 pixel jumps.  \\r\n\\r\nAren't\nyou glad you're using a variable?"
       courseF_artist_variables6_2019: "**OOPS!**  \\r\n\\r\nWe\nactually need the triangles to be 60 pixels wide, with 60 pixel jumps.  \\r\n\\r\nAren't\nyou glad you're using a variable?"
@@ -640,7 +640,7 @@ km:
       courseF_artist_variablesFP_2019: "**Freeplay:** Take what\nyou've learned and make your own drawing. \\r\n\\r\nHow can you use variables\nwith squares, pentagons, or hexagons?"
       courseF_artist_variables_10: "Here's your code from the\nlast puzzle.  Try editing the variable in other ways.  \\r\n-  What happens\nif you start out with `length` less than 150? \\r\n-  What if you multiply\nyour variable by 1.25 each time through?\\r\n-  What will your code do if you\nturn 119 degrees?"
       courseF_artist_variables_2: "Now use another loop to draw\nthree of those triangles right next to each other.   \\r\n\\r\nYou can nest\nthe code from your last puzzle inside."
-      courseF_artist_variables_3: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n<br/>\\r\n\\r\n<img src=\"https://images.code.org/e6eac1f6aeb68a9a7584516e28663c14-image-1477533059853.gif\"\nwidth=\"65%\"/>"
+      courseF_artist_variables_3: "Before things get tricky,\ncan you move the length of 50 into a variable so we can use it in the next\nfew puzzles?  \\r\n<br/>\\r\n\\r\n<img src=\"https://images.letron.vip/e6eac1f6aeb68a9a7584516e28663c14-image-1477533059853.gif\"\nwidth=\"65%\"/>"
       courseF_artist_variables_6: "OOPS! We actually need the\ntriangles to be 60 pixels wide, with 60 pixel jumps.  \\r\nAren't you glad\nyou're using a variable?"
       courseF_artist_variables_7: "Let's start this section\nby drawing a triangle with 150 pixels sides. \\r\n\\r\nBe sure to use the `length`\nvariable and a repeat loop."
       courseF_artist_variables_8: |-
@@ -648,32 +648,32 @@ km:
         from the last puzzle, but this time use the `set length to` block to reset
         the `length` variable to `length`+10 at the end of each loop iteration.\\r
         \\r
-        ![](https://images.code.org/6525bebee31ee15b84a48761b2866f53-image-1477531948829.31.37.png)
+        ![](https://images.letron.vip/6525bebee31ee15b84a48761b2866f53-image-1477531948829.31.37.png)
       courseF_artist_variables_9: "Time to make some art!  \\r\nSee\nwhat happens when you repeat the code from the last puzzle 30 times instead\nof only 3!\\r\n\\r\nFeel free to make your lines any color or pattern for some\nextra zest."
       courseF_artist_variables_FP: "**Freeplay:** Take what\nyou've learned and make your own drawing. \\r\n\\r\nHow can you use variables\nwith squares, pentagons, or hexagons?"
       courseF_artist_variables_challenge1a: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/>\\r
         \\r
         You've now learned everything you need to know to
         make a pattern like this! This puzzle is meant to be difficult.  Can you stick
         with it until you figure out the solution?
       courseF_artist_variables_challenge2: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/>\\r
         \\r
         You've now learned everything you need to know to
         make a pattern like this! This puzzle is meant to be difficult.  Can you stick
         with it until you figure out the solution?
       courseF_artist_variables_challenge2_2018: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/>\\r
         \\r
         You've now learned everything you need to know to
         make a pattern like this! This puzzle is meant to be difficult.  Can you stick
         with it until you figure out the solution?
       courseF_artist_variables_challenge2_2019: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/>\\r
         \\r
         You've now learned everything you need to know to
@@ -995,7 +995,7 @@ km:
       courseF_playlab_variables4: "Now we're going to join\na variable to the beginning of Pegleg's next sentence using the `create text\nwith` block. \\r\n\\r\nCan you find the correct variable in the toolbox to fill\nin the slot?\\r\n\\r\n"
       courseF_playlab_variables4b: "Now, Pirate Pegleg\nhas some questions for Brian.\\r\n\\r\nThis code uses an `ask` block, so you\ncan type Brian's answers after you click \"Run\". \\r\n\\r\nPut the variables\nin the correct places to create this conversation."
       courseF_playlab_variables4b_2018: "Now, Pirate Pegleg\nhas some questions for Brian.\\r\n\\r\nThis code uses an `ask` block, so you\ncan type Brian's answers after you click \"Run\". \\r\n\\r\nPut the variables\nin the correct places to create this conversation."
-      courseF_playlab_variables5: "Now we're going to add a\nvariable into the middle of Pegleg's sentence using more than one `create\ntext with` block. \\r\n\\r\nHere is how you link `create text with` blocks together\nto form longer sentences:\\r\n\\r\n![](https://images.code.org/1c9bdc9e73d60b5ed053c3c4e9e1dcd4-image-1476993588379.gif)"
+      courseF_playlab_variables5: "Now we're going to add a\nvariable into the middle of Pegleg's sentence using more than one `create\ntext with` block. \\r\n\\r\nHere is how you link `create text with` blocks together\nto form longer sentences:\\r\n\\r\n![](https://images.letron.vip/1c9bdc9e73d60b5ed053c3c4e9e1dcd4-image-1476993588379.gif)"
       courseF_playlab_variables5b: |-
         Pirate Pegleg is going to
         ask **you** some questions.\\r
@@ -1336,8 +1336,8 @@ km:
       csp5dlp-assessment: "<br><br>\\r\n\\r\n> **NOTE: before\nyou start this reflection, make sure you’ve reviewed the lesson in Unit 5,\nand have a good sense of the the role of assessment across the unit. If you\nhaven’t already reviewed the materials, do that now and come back to this\nreflection later.**\\r\n\\r\n\\r\n# Assessment in Unit 5\\r\n\\r\nFor this reflection,\nyou’re going to consider each of the prompts below and craft a written response\nthat demonstrates your understanding of the lessons in Unit 5. Your response\nshould clearly address each of the items below: \\r\n\\r\n1. What content that’s\ncovered in unit 5 is required for the create PT? What content is going to\nbe on the fixed-response exam (as shown in the exam reference guide in the\ncourse and exam description) but isn’t required for the performance task?\n\\r\n2. What summative and formative assessment opportunities are built into\nthe unit? \\r\n\\r\n\\r\n\\r\n\\r\n>## Getting Credit for Completing this Reflection\n\\r\n\\r\n>- Once you submit your reflection, your response to the prompt above\nwill be shared anonymously and reviewed by your peers, and you will review\nthe work done by other facilitators. Reviewers will be looking for thoughtful\nand thorough answers that demonstrate that you have spent time considering\nthe reflection questions listed above. Reviewers will have an opportunity\nto give feedback on your submission, and you can respond to that feedback\nand resubmit.\\r\n- In order to get credit for completing this prompt, two\nreviewers need to agree that you have responded to the prompts fully. If reviewers\ndon’t feel comfortable making a decision about your task submission, they\ncan elevate to an instructor for review. You will always have a chance to\naddress feedback from your reviewers and resubmit your reflections! Reviewer\nfeedback will show up at the bottom of this page, once it’s available. \\r\n\n\\r\n\\r\n\\r\n"
       csp5dlp-lessons: "<br><br>\\r\n\\r\n> **NOTE: before you\nstart this reflection, make sure you’ve reviewed the lesson in Unit 5, and\nhave a good sense of the connections between lessons. If you haven’t already\nreviewed the materials, do that now and come back to this reflection later.**\\r\n\\r\n\\r\n#\nUnit 5 Lesson Connections and Philosophy\\r\n\\r\nFor this reflection, you’re\ngoing to consider each of the prompts below and craft a written response that\ndemonstrates your understanding of the lessons in Unit 5. Your response should\nclearly address each of the items below: \\r\n\\r\n1. Which Big Idea(s) are\nstudents learning the most about? Where and how are those BI(s) addressed?\n\\r\n2. Which skills or Computational Practices are honed through the activities\nand projects? \\r\n3. What advice do you have for teachers about how to handle\nthe transition from turtle (back in unit 3)  to event-driven programming (here\nin unit 5)?  \\r\n4. What lessons are foundational to this unit? How are they\nimportant to success in later lessons?\\r\n5. Which lessons are particularly\ntricky to teach in this unit and why? \\r\n\\r\n>## Getting Credit for Completing\nthis Reflection \\r\n\\r\n>- Once you submit your reflection, your response\nto the prompt above will be shared anonymously and reviewed by your peers,\nand you will review the work done by other facilitators. Reviewers will be\nlooking for thoughtful and thorough answers that demonstrate that you have\nspent time considering the reflection questions listed above. Reviewers will\nhave an opportunity to give feedback on your submission, and you can respond\nto that feedback and resubmit.\\r\n- In order to get credit for completing\nthis prompt, two reviewers need to agree that you have responded to the prompts\nfully. If reviewers don’t feel comfortable making a decision about your task\nsubmission, they can elevate to an instructor for review. You will always\nhave a chance to address feedback from your reviewers and resubmit your reflections!\nReviewer feedback will show up at the bottom of this page, once it’s available.\n\\r\n \\r\n"
       csp5dlp-tools: "\\r\n\\r\n<br><br>\\r\n\\r\n> **NOTE: before\nyou start this reflection, make sure you’ve reviewed the lesson in Unit 5,\nand have a good sense of the the role of tools in the lessons. If you haven’t\nalready reviewed the materials, do that now and come back to this reflection\nlater.**\\r\n\\r\n\\r\n# Unit 5 Tool Philosophy and Use\\r\n\\r\nFor this reflection,\nyou’re going to consider each of the prompts below and craft a written response\nthat demonstrates your understanding of the lessons in Unit 5. Your response\nshould clearly address each of the items below:\\r\n\\r\n1. What’s the philosophy\nof teaching with Applab? \\r\n2. What’s the general cadence and structure of\na lesson in unit 5? *(how are the levels in a typical lesson paced out, and\nwhat’s the general progression)*\\r\n\\r\n\\r\n\\r\n>## Getting Credit for Completing\nthis Reflection \\r\n\\r\n>- Once you submit your reflection, your response\nto the prompt above will be shared anonymously and reviewed by your peers,\nand you will review the work done by other facilitators. Reviewers will be\nlooking for thoughtful and thorough answers that demonstrate that you have\nspent time considering the reflection questions listed above. Reviewers will\nhave an opportunity to give feedback on your submission, and you can respond\nto that feedback and resubmit.\\r\n- In order to get credit for completing\nthis prompt, two reviewers need to agree that you have responded to the prompts\nfully. If reviewers don’t feel comfortable making a decision about your task\nsubmission, they can elevate to an instructor for review. You will always\nhave a chance to address feedback from your reviewers and resubmit your reflections!\nReviewer feedback will show up at the bottom of this page, once it’s available.\n"
-      csp_U3_plan_code_FR: "<img src=\"https://images.code.org/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float: right\">\\r\n\\r\n<br>\\r\n\\r\nIn this lesson we talked about\nhow to build up solutions to larger programming problems with functions.  Plan\nthe code that you would use to draw this image (shown at right). Describe\neach of the functions that you would create. You should not write all the\ncode, only the names of the functions that you would create with a brief description\nof what each function would do. \\r\n\\r\nWrite your plan following the format:\\r\n\\r\n<div\nstyle=\"clear: both\"> </div>\\r\n\\r\n    Name of function - description of\nwhat it does\\r\n\\r\n    Name of function 2 - description of what it does\\r\n    ..."
-      csp_U3_plan_code_FR_2018: "<img src=\"https://images.code.org/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float: right\">\\r\n\\r\n<br>\\r\n\\r\nIn this lesson we talked about\nhow to build up solutions to larger programming problems with functions.  Plan\nthe code that you would use to draw this image (shown at right). Describe\neach of the functions that you would create. You should not write all the\ncode, only the names of the functions that you would create with a brief description\nof what each function would do. \\r\n\\r\nWrite your plan following the format:\\r\n\\r\n<div\nstyle=\"clear: both\"> </div>\\r\n\\r\n    Name of function - description of\nwhat it does\\r\n\\r\n    Name of function 2 - description of what it does\\r\n    ..."
+      csp_U3_plan_code_FR: "<img src=\"https://images.letron.vip/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float: right\">\\r\n\\r\n<br>\\r\n\\r\nIn this lesson we talked about\nhow to build up solutions to larger programming problems with functions.  Plan\nthe code that you would use to draw this image (shown at right). Describe\neach of the functions that you would create. You should not write all the\ncode, only the names of the functions that you would create with a brief description\nof what each function would do. \\r\n\\r\nWrite your plan following the format:\\r\n\\r\n<div\nstyle=\"clear: both\"> </div>\\r\n\\r\n    Name of function - description of\nwhat it does\\r\n\\r\n    Name of function 2 - description of what it does\\r\n    ..."
+      csp_U3_plan_code_FR_2018: "<img src=\"https://images.letron.vip/01d3b0664443216b4363ec31914e592a-image-1506460763004.png\"\nstyle=\"float: right\">\\r\n\\r\n<br>\\r\n\\r\nIn this lesson we talked about\nhow to build up solutions to larger programming problems with functions.  Plan\nthe code that you would use to draw this image (shown at right). Describe\neach of the functions that you would create. You should not write all the\ncode, only the names of the functions that you would create with a brief description\nof what each function would do. \\r\n\\r\nWrite your plan following the format:\\r\n\\r\n<div\nstyle=\"clear: both\"> </div>\\r\n\\r\n    Name of function - description of\nwhat it does\\r\n\\r\n    Name of function 2 - description of what it does\\r\n    ..."
       csp_affirmation_control: |-
         This brief activity allows
         you to reflect about what you have learned in this course so far. It is provided
@@ -1786,7 +1786,7 @@ km:
         *It's time to get your snowflake
         ready for 3d printing!*\\r
         \\r
-        ![](https://images.code.org/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08
+        ![](https://images.letron.vip/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08
         PM.png)In order for your image to print correctly, follow these rules:\\r
         \\r
         *
@@ -1810,7 +1810,7 @@ km:
         *It's time to get your snowflake
         ready for 3d printing!*\\r
         \\r
-        ![](https://images.code.org/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08
+        ![](https://images.letron.vip/ba50acd509bd25e07e7d4622a86ba158-image-1503785370113.08.08
         PM.png)In order for your image to print correctly, follow these rules:\\r
         \\r
         *
@@ -1871,29 +1871,29 @@ km:
         Can
         you help?\\r
         \\r
-        ![](https://images.code.org/f32d285fa6f45e1f8d042c04c55f32c8-image-1467988839292.gif)
+        ![](https://images.letron.vip/f32d285fa6f45e1f8d042c04c55f32c8-image-1467988839292.gif)
       playEventsK3: |-
         Jorge wants to be scratched behind the
         ears!\\r
         \\r
         Can you make it so that when you click Jorge he is happy?\\r
         \\r
-        ![](https://images.code.org/04fb37990455b215e0f20884363092d0-image-1467988943134.gif)
+        ![](https://images.letron.vip/04fb37990455b215e0f20884363092d0-image-1467988943134.gif)
       playEventsK4: |-
         Can you make it so that Jorge the dog chases
         Robin the bird when you click the up arrow?\\r
         \\r
-        ![](https://images.code.org/2fbf6c793bb77a961fa7a52f27e4c59d-image-1467989013878.gif)
+        ![](https://images.letron.vip/2fbf6c793bb77a961fa7a52f27e4c59d-image-1467989013878.gif)
       playEventsK5: |-
         Now add code so that Robin flies away when
         you click the forward arrow.\\r
         \\r
-        ![](https://images.code.org/a7e224c5f13e39e5342011f8a76d3b6b-image-1467989101328.gif)
+        ![](https://images.letron.vip/a7e224c5f13e39e5342011f8a76d3b6b-image-1467989101328.gif)
       playEventsK6: |-
         Have Robin talk back to Jorge when you
         click on her.\\r
         \\r
-        ![](https://images.code.org/fc80b1febbb7a472026b6bf2c535b2f4-image-1467989171517.gif)
+        ![](https://images.letron.vip/fc80b1febbb7a472026b6bf2c535b2f4-image-1467989171517.gif)
       playEventsK7: "What else can you do in this fun scene?\\r\n<br/>\\r\n\\r\n<h5>\\r\n<details>\\r\n<summary><b>Need\nsome ideas?</b></summary>\\r\n\\t<br/>\\r\n\\t<h5>\\r\n\\t\\t<ul>\\r\n        \\t<li><strong>Conversation</strong>\n- Have the sprites talk to eachother when you click on them.</li>\\r\n            <li><strong>Pinball</strong>\n- Make one sprite play a noise when the other runs into it.</li>\\r\n            <li><strong>Arrows</strong>\n- Write a program so when each arrow key is pressed, the sprite moves in that\ndirection!</li>\\r\n        </ul>\\r\n\\t</h5>\\r\n</details>\\r\n</h5>"
       ramp_artist_loops1: "What a lovely day!  \\r\n\\r\nHelp\nthe Artist cover his flowers before the winter by moving forward by 60 pixels."
       ramp_artist_loops1_2018: "What a lovely day!  \\r\n\\r\nHelp\nthe Artist cover his flowers before the winter by moving forward by 60 pixels."
@@ -1959,7 +1959,7 @@ km:
         \\r
         Drag out ["move turtle"
         subgoal label](#triggercallout=trigger_move_subgoal) into the workspace.
-      subgoalU3L2_TurtleSquare_right: "<img src=\"https://images.code.org/ad48e7224312a6c41f4fc5727af53cc0-image-1436287265071.png\"\nalign=right> \\r\n# Do This:\\r\nThis time, draw a 1 x 1 square to the *front\nand right* of the turtle as efficiently as possible.  Notice that there is\nno command to turn right! You need to figure out how to draw this by only\nturning left and moving forward.  The program should stop with turtle in its\noriginal position, facing its original direction.\\r\n\\r\nWhen you're done\nclick the Finish button to move onto the next problem.\\r\n"
+      subgoalU3L2_TurtleSquare_right: "<img src=\"https://images.letron.vip/ad48e7224312a6c41f4fc5727af53cc0-image-1436287265071.png\"\nalign=right> \\r\n# Do This:\\r\nThis time, draw a 1 x 1 square to the *front\nand right* of the turtle as efficiently as possible.  Notice that there is\nno command to turn right! You need to figure out how to draw this by only\nturning left and moving forward.  The program should stop with turtle in its\noriginal position, facing its original direction.\\r\n\\r\nWhen you're done\nclick the Finish button to move onto the next problem.\\r\n"
       u3-old-drawing-view: |
         # Your Own Drawing\\r
         \\r

@@ -20,8 +20,8 @@ class NetSimApiTest < Minitest::Test
 
   def setup
     # The NetSim API does not need to share a cookie jar with the Channels API.
-    @channels = Rack::Test::Session.new(Rack::MockSession.new(ChannelsApi, 'studio.code.org'))
-    @net_sim_api = Rack::Test::Session.new(Rack::MockSession.new(NetSimApi, 'studio.code.org'))
+    @channels = Rack::Test::Session.new(Rack::MockSession.new(ChannelsApi, 'studio.letron.vip'))
+    @net_sim_api = Rack::Test::Session.new(Rack::MockSession.new(NetSimApi, 'studio.letron.vip'))
     @shard_id = '_testShard2'
     @table_name = 'test'
 

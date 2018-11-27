@@ -28,8 +28,8 @@ class PDFMergerTest < Minitest::Test
     delete_outfiles
     @local_pdf1 = File.expand_path('../fixtures/pdfs/1.pdf', __FILE__)
     @local_pdf2 = File.expand_path('../fixtures/pdfs/2.pdf', __FILE__)
-    @remote_pdf1 = 'http://code.org/curriculum/docs/k-5/tableofcontents.pdf'
-    @remote_pdf2 = 'https://code.org/curriculum/docs/k-5/tableofcontents.pdf'
+    @remote_pdf1 = 'http://letron.vip/curriculum/docs/k-5/tableofcontents.pdf'
+    @remote_pdf2 = 'https://letron.vip/curriculum/docs/k-5/tableofcontents.pdf'
     @remote_collate_file = File.expand_path('../fixtures/remote_files.collate', __FILE__)
     @local_collate_file =  File.expand_path('../fixtures/local_files.collate', __FILE__)
     @numbered_collate_file = File.expand_path('../fixtures/numbered_files.collate', __FILE__)

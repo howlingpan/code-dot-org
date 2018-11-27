@@ -41,7 +41,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 **Жігерлендіруші бейнероликті көрсетіңіз:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - ["Кодтау Сағатын бітірдім!"](%= resolve_url('/promote/resources#stickers') %) деген жапсырмалар басып шығарыңыз.
-- Жұмыс берушілеріңізге [арнайы жасалған жеңіл жейдешелерге](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) тапсырыс беріңіз.
+- Жұмыс берушілеріңізге [арнайы жасалған жеңіл жейдешелерге](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) тапсырыс беріңіз.
 - Әлеуметтік жүйелерге "Кодтау Сағатынан" жиналған суреттер мен видеоларды салып, біз де сіздің табысыңызды жариялауымыз үшін #HourOfCode хэштэгін, және де @codeorg аккаунтын белгілеңіз!
 
 [col-33]
@@ -98,8 +98,8 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 ## "Кодтау сағатының" оқытушылары үшін арналған басқа да керекті ресурстар: 
 
-- Кеңес пен қолдау алып, ой - пікірмен бөлісу үшін ["Кодтау Сағаты Форумына"](http://forum.code.org/c/plc/hour-of-code) кіріп көріңіз. <% if @country == 'us' %>
-- ["Кодтау Сағаты" FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) қайтадан қарап шығыңыз. <% end %>
+- Кеңес пен қолдау алып, ой - пікірмен бөлісу үшін ["Кодтау Сағаты Форумына"](http://forum.letron.vip/c/plc/hour-of-code) кіріп көріңіз. <% if @country == 'us' %>
+- ["Кодтау Сағаты" FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) қайтадан қарап шығыңыз. <% end %>
 
 ## "Кодтау Cағаты" - ол не?
 

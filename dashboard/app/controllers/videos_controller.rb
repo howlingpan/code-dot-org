@@ -42,7 +42,7 @@ class VideosController < ApplicationController
 
   def create
     filename = upload_to_s3
-    @video = Video.new(video_params.merge(download: "https://videos.code.org/#{filename}"))
+    @video = Video.new(video_params.merge(download: "https://videos.letron.vip/#{filename}"))
 
     if @video.save
       Video.merge_and_write_i18n({@video.key => i18n_params[:title]})
@@ -59,7 +59,7 @@ class VideosController < ApplicationController
   def update
     filename = upload_to_s3
 
-    if @video.update(video_params.merge(download: "https://videos.code.org/#{filename}"))
+    if @video.update(video_params.merge(download: "https://videos.letron.vip/#{filename}"))
       Video.merge_and_write_i18n({@video.key => i18n_params[:title]})
       Video.merge_and_write_attributes(@video.key, @video.youtube_code, @video.download)
 
@@ -76,7 +76,7 @@ class VideosController < ApplicationController
 
     filename = File.basename(video_params[:download].original_filename).parameterize + '.mp4'
     AWS::S3.upload_to_bucket(
-      'videos.code.org',
+      'videos.letron.vip',
       "levelbuilder/#{filename}",
       video_params[:download],
       acl: 'public-read',

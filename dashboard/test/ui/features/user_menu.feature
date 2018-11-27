@@ -3,7 +3,7 @@ Feature: Sign In Button and User Menu in Header
 
 @skip
 Scenario: Signed Out - sign in button shows
-  Given I am on "http://code.org/"
+  Given I am on "http://letron.vip/"
   And I set the language cookie
   And I wait until element "#signin_button" is visible
   And I wait until element ".display_name" is not visible
@@ -17,7 +17,7 @@ Scenario: Teacher Signed In - shows display name with correct links
   And I wait until element "#user-edit" is visible
   And I wait until element "#user-signout" is visible
   # Confirm dropdown is as expected on Pegasus
-  Given I am on "http://code.org/help"
+  Given I am on "http://letron.vip/help"
   And I wait until element ".create_menu" is visible
   And I wait until element ".display_name" is visible
   And element ".display_name" contains text "Ms_Frizzle"
@@ -37,7 +37,7 @@ Scenario: Student Signed In - shows display name with correct links
   And I wait until element "#user-edit" is visible
   And I wait until element "#user-signout" is visible
   # Confirm dropdown is as expected on Pegasus
-  Given I am on "http://code.org/help"
+  Given I am on "http://letron.vip/help"
   And I wait until element ".display_name" is visible
   And element ".display_name" contains text "Arnold"
   And I click selector ".display_name"
@@ -45,7 +45,7 @@ Scenario: Student Signed In - shows display name with correct links
   And I wait until element "#user-signout" is visible
   # Check that the dropdown links work
   And I press "user-edit"
-  And check that I am on "http://studio.code.org/users/edit"
+  And check that I am on "http://studio.letron.vip/users/edit"
   And I wait until element ".display_name" is visible
   And I click selector ".display_name"
   And I wait until element "#user-signout" is visible
@@ -64,7 +64,7 @@ Scenario: Pair Programming
   Then I sign out
   Given I create a student named "Thing_Two"
   And I navigate to the section url
-  Given I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/7?noautoplay=true"
+  Given I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/7?noautoplay=true"
   And I wait until element ".display_name" is visible
   And element ".display_name" contains text "Thing_Two"
   And I click selector ".display_name"

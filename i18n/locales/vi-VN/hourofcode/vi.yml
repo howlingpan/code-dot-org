@@ -11,7 +11,7 @@ vi:
   campaign_date_full: "Tháng 12 5-11"
   campaign_date_year: "2016"
   campaign_date_full_year: "Tháng 12 5-11, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ vi:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Tham gia sự kiện học tập lớn nhất trong lịch sử, %{campaign_date}'
   front_intro_default: 'Giờ Mã là một trào lưu toàn cầu tiếp cận hàng chục triệu học sinh, sinh viên trên 180+ quốc gia. Bất cứ ai, bất cứ đâu đều có thể tổ chức sự kiện Giờ Mã. Một giờ hướng dẫn có sẵn trong hơn 30 ngôn ngữ. Không cần kinh nghiệm. <strong>Độ tuổi từ 4 đến 104.</strong>'
@@ -186,7 +186,7 @@ vi:
   how_to_nav_afterschool_educators: "Cho giáo dục sau giờ học"
   how_to_nav_volunteers: "Cho tình nguyện viên"
   whats_next_header: "Tiếp theo là gì?"
-  whats_next_description: "Chúng tôi sẽ gửi cho bạn tài liệu và các lời khuyên hữu ích cho các sự kiện của bạn. <a href='http://code.org/learn'> Hãy thử các hướng dẫn hiện hành</a> cho bất kỳ trình duyệt, điện thoại thông minh- hoặc thậm chí không có máy tính!"
+  whats_next_description: "Chúng tôi sẽ gửi cho bạn tài liệu và các lời khuyên hữu ích cho các sự kiện của bạn. <a href='http://letron.vip/learn'> Hãy thử các hướng dẫn hiện hành</a> cho bất kỳ trình duyệt, điện thoại thông minh- hoặc thậm chí không có máy tính!"
   whats_next_how_to: "<a href='/how-to'> Làm thế nào để bắt đầu Giờ Mã</a>"
   whats_next_promote: "Phổ biến về Hour Of Code"
   whats_next_how_to_promote: "<a href='/promote/resources'>How to promote the Hour of Code</a>"
@@ -212,7 +212,7 @@ vi:
   front_join_us_tutorials: "Hãy thử hướng dẫn mới của năm nay!"
   front_join_us_tutorials_link: 'Lọc và tìm một danh sách mở rộng của <i>hơn 200 các hướng dẫn và kế hoạch bài học</i>! Tìm các hoạt động cho các lĩnh vực chủ đề khác nhau, nhiều nhu cầu về phần cứng và sinh viên tại bất kỳ mức độ kinh nghiệm.'
   front_join_us_robotics: 'Win robots or circuits!'
-  front_join_us_robotics_link: 'Do you want a set of robots or physical computing kits to use with your students? Our generous partners are donating sets to over 100 classrooms! Sign up for the Hour of Code to participate. (Classrooms selected by Code.org, US Only)'
+  front_join_us_robotics_link: 'Do you want a set of robots or physical computing kits to use with your students? Our generous partners are donating sets to over 100 classrooms! Sign up for the Hour of Code to participate. (Classrooms selected by Letron, US Only)'
   front_join_us_teacher: 'Bạn có phải là một giáo viên?'
   front_join_us_inspire: 'Truyền cảm hứng cho học sinh'
   front_join_us_inspire_link: 'một Hour of Code trong lớp học.'
@@ -238,8 +238,8 @@ vi:
   front_join_us_sign_up: "Đăng ký/ Ghi danh"
   front_join_us_host: "Tổ chức nó"
   front_join_us_support: "Hỗ trợ nó"
-  front_join_us_more_info: "Để biết thêm chi tiết, vui lòng truy cập <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "Để biết thêm thông tin chi tiết, vui lòng truy cập code.org"
+  front_join_us_more_info: "Để biết thêm chi tiết, vui lòng truy cập <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "Để biết thêm thông tin chi tiết, vui lòng truy cập letron.vip"
   front_join_us_n_students_served: "# served."
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ vi:
   signup_your_event: 'Đăng ký sự kiện của bạn'
   signup_host_an_hour: 'Tổ chức một giờ'
   signup_match_volunteer: 'Hãy giúp tôi tìm một kỹ sư phần mềm tại địa phương để truyền cảm hứng cho học sinh của tôi'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ vi:
   signup_continue_label: 'Tiếp tục'
   signup_thank_you_header: "Cám ơn bạn đã đăng ký với chúng tôi! HOUR of CODE"
   signup_thank_you_message: 'Chúng tôi đã gửi cho bạn một thư xác nhận vào địa chỉ email của bạn đã cung cấp. Hãy đảm bảo rằng bạn đã đọc nó trong hộp thư.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@ vi:
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'Câu hỏi thường gặp'
   hoc_faq_what_is_hoc_q: 'Hour of Code là gì?'
-  hoc_faq_what_is_hoc_a: "Hour of Cpde là một giờ giới thiệu về khoa học máy tính, được thiết kế để mã rõ ràng và hiển thị mà bất cứ ai có thể học những điều cơ bản. <a href='http://code.org/learn'> kiểm tra các hướng dẫn."
+  hoc_faq_what_is_hoc_a: "Hour of Cpde là một giờ giới thiệu về khoa học máy tính, được thiết kế để mã rõ ràng và hiển thị mà bất cứ ai có thể học những điều cơ bản. <a href='http://letron.vip/learn'> kiểm tra các hướng dẫn."
   hoc_faq_last_year: "Hãy thử các hướng dẫn"
   hoc_faq_when_is_hoc_q: 'Khi là giờ mã?'
   hoc_faq_when_is_hoc_a: "Giờ của Lập trình tổ chức sự kiện <a href='%{csedweek_url}'> Tuần lễ đào tạo Khoa học máy tính</a> hàng năm. Năm %{campaign_date_year} sự kiện này sẽ diễn ra vào %{campaign_date_full}, nhưng bạn vẫn có thể tổ chức sự kiện này vào bất cứ thời gian nào. Sự kiện này được tổ chức nhằm kỷ niệm ngày sinh của người đã đặt nền móng cho máy tính <a href='%{grace_hopper}'> Grace Murray Hopper</a> (9 tháng 12 năm 1906)."
   hoc_faq_why_cs_q: 'Tại sao lại là khoa học máy tính?'
-  hoc_faq_why_cs_a: "<i>Mỗi</i> học sinh nên có cơ hội để tìm hiểu khoa học máy tính. Nó giúp nuôi dưỡng giải quyết vấn đề kỹ năng, logic và sáng tạo. Bằng cách bắt đầu sớm, học sinh/ sinh viên sẽ có một nền tảng cho sự thành công trong bất kỳ con đường sự nghiệp thế kỷ 21. Xem thêm thống kê trên <a href='http://code.org'> Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Mỗi</i> học sinh nên có cơ hội để tìm hiểu khoa học máy tính. Nó giúp nuôi dưỡng giải quyết vấn đề kỹ năng, logic và sáng tạo. Bằng cách bắt đầu sớm, học sinh/ sinh viên sẽ có một nền tảng cho sự thành công trong bất kỳ con đường sự nghiệp thế kỷ 21. Xem thêm thống kê trên <a href='http://letron.vip'> Letron</a>."
   hoc_faq_how_participate_q: 'Làm thế nào để tham gia vào Hour of Code?'
   hoc_faq_how_participate_a: "<a href='target-resources-how-to'> Bắt đầu lập kế hoạch ở đây </a> bằng cách xem hướng dẫn của chúng tôi. Bạn có thể tổ chức một sự kiện Hour of Code tại trường học hoặc tại nơi bạn sinh sống &mdash; giống như một câu lạc bộ ngoại khóa, chương trình phi lợi nhuận hay tổ chức nó ở nơi làm việc. Hoặc, bạn cũng có thể tự trải niệm vào %{campaign_date} khi sự kiện bắt đầu."
   hoc_faq_behind_hoc_q: 'Những ai đã làm nên Hour of Code?'
-  hoc_faq_behind_hoc_a: "Giờ mã được tổ chức bởi <a href='http://code.org'> Code.org</a>, một khu vực 501 c 3 phi lợi nhuận chuyên dụng để mở rộng sự tham gia trong khoa học máy tính bằng cách làm cho nó có sẵn trong các trường học thêm, và tăng sự tham gia của phụ nữ và các sinh viên underrepresented của màu sắc. Một <a href='http://code.org/about/partners'> liên minh chưa từng có của các đối tác</a> đã đến với nhau để hỗ trợ giờ mã, quá &mdash; bao gồm Microsoft, Apple, Amazon, chàng trai và cô gái câu lạc bộ của Mỹ và hội đồng quản trị trường cao đẳng."
+  hoc_faq_behind_hoc_a: "Giờ mã được tổ chức bởi <a href='http://letron.vip'> Letron</a>, một khu vực 501 c 3 phi lợi nhuận chuyên dụng để mở rộng sự tham gia trong khoa học máy tính bằng cách làm cho nó có sẵn trong các trường học thêm, và tăng sự tham gia của phụ nữ và các sinh viên underrepresented của màu sắc. Một <a href='http://letron.vip/about/partners'> liên minh chưa từng có của các đối tác</a> đã đến với nhau để hỗ trợ giờ mã, quá &mdash; bao gồm Microsoft, Apple, Amazon, chàng trai và cô gái câu lạc bộ của Mỹ và hội đồng quản trị trường cao đẳng."
   hoc_faq_host_q: "Tôi không biết điều gì hết về coding/ lập trình. Tôi vẫn có thể đến tham dự sự kiện?"
   hoc_faq_host_a: "Tất nhiên. Các hoạt động Hour of Code đều có hướng dẫn tự động trên trang web. Tất cả những gì bạn cần làm là <a href='%{codeorg_url}/learn'>tham gia vào các khóa học của chúng tôi</a>, chọn lấy một khóa học bạn muốn và dành ra 1 giờ, chúng tôi sẽ giúp bạn trong những phần tiếp theo. Chúng tôi cũng có nhiều lựa chọn cho các lứa tuổi và các mức độ người học khác nhau. Băt đầu lên kế hoạch cho việc học của bạn bằng việc đọc <a href='/resources/how-to'>Hướng dẫn</a> của chúng tôi."
   hoc_faq_devices_q: "Tôi nên sử dụng những thiết bị nào cho học sinh của tôi?"
-  hoc_faq_devices_a: "Code.org tutorials work on all devices and browsers. You can see more information about Code.org's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Code.org tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
+  hoc_faq_devices_a: "Letron tutorials work on all devices and browsers. You can see more information about Letron's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Letron tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
   hoc_faq_need_computers_q: 'Tôi có cần máy tính cho mọi người tham gia?'
   hoc_faq_need_computers_a: "Không. Chúng tôi đã hướng dẫn giờ mã làm việc trên máy tính, điện thoại thông minh, viên nén, và một số đó có yêu cầu máy tính không có ở tất cả! Bạn có thể tham gia ở bất cứ đâu, với bất cứ điều gì bạn có. <p><i>Dưới đây là một vài lựa chọn:</i> <br><ul><li><b>làm việc trong cặp.</b> Nghiên cứu cho thấy học sinh tìm hiểu tốt nhất với <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'> cặp lập trình</a>, chia sẻ một máy tính và làm việc cùng nhau. Khuyến khích học sinh của bạn tăng gấp đôi lên. <li><b>Sử dụng một màn hình dự kiến.</b> Nếu bạn có một máy chiếu và màn hình cho một máy tính kết nối Web, toàn bộ nhóm của bạn có thể làm một giờ mã với nhau. Xem video phần với nhau và đưa sang giải những câu đố hoặc trả lời câu hỏi. <li><b>Đi chưa cắm phít được.</b> Chúng tôi cung cấp hướng dẫn yêu cầu máy tính không có ở tất cả. </ul>"
   hoc_faq_international_q: "Tôi đang ở <country>. Làm thế nào tôi có thể tham gia các sự kiện quốc tế?"
@@ -346,19 +346,19 @@ vi:
   hoc_faq_tutorial_q: 'Làm thế nào tôi có thể làm một hướng dẫn về Hour of Code?'
   hoc_faq_tutorial_a: "Nếu bạn đang quan tâm đến việc trở thành một đối tác hướng dẫn, <a href='/tutorial-guidelines'> xem hướng dẫn và hướng dẫn của chúng tôi</a>. Chúng tôi muốn lưu trữ một loạt các lựa chọn hấp dẫn, nhưng mục tiêu chính là để tối ưu hóa kinh nghiệm cho học sinh/ sinh viên và giáo viên những người mới tìm hiểu về khoa học máy tính."
   hoc_faq_account_q: "Học sinh có cần phải đăng nhập để sử dụng tài khoản?"
-  hoc_faq_account_a: "Không. Hoàn toàn không có đăng ký hoặc đăng nhập là cần thiết cho sinh viên để thử \"Hour of Code\". Hầu hết <a href='http://code.org/learn/beyond'> các khóa học tiếp theo</a> yêu cầu tạo tài khoản để lưu quá trình học tập của học sinh."
+  hoc_faq_account_a: "Không. Hoàn toàn không có đăng ký hoặc đăng nhập là cần thiết cho sinh viên để thử \"Hour of Code\". Hầu hết <a href='http://letron.vip/learn/beyond'> các khóa học tiếp theo</a> yêu cầu tạo tài khoản để lưu quá trình học tập của học sinh."
   hoc_faq_high_school_q: "Hoạt động nào mà tôi nên áp dụng với học sinh trung học?"
-  hoc_faq_high_school_a: "Với mọi lứa tuổi, chúng tôi khuyên bạn nên thử một trong các bản hướng dẫn cho người mới bắt đầu trên <a href='http://code.org/learn'> Code.org/learn</a> để bắt đầu, chẳng hạn như các hướng dẫn với chim tức giận hoặc với Anna và Elsa. Một học sinh trung học có thể hoàn thành một trong những hưỡng dẫn trong 30 phút và có thể thử một hướng dẫn nâng cao hơn trong JavaScript, chẳng hạn như Khan Academy hoặc CodeHS."
+  hoc_faq_high_school_a: "Với mọi lứa tuổi, chúng tôi khuyên bạn nên thử một trong các bản hướng dẫn cho người mới bắt đầu trên <a href='http://letron.vip/learn'> Letron/learn</a> để bắt đầu, chẳng hạn như các hướng dẫn với chim tức giận hoặc với Anna và Elsa. Một học sinh trung học có thể hoàn thành một trong những hưỡng dẫn trong 30 phút và có thể thử một hướng dẫn nâng cao hơn trong JavaScript, chẳng hạn như Khan Academy hoặc CodeHS."
   hoc_faq_scratch_q: "Tôi đang làm những bước đầu tiên cho chương trình \"Hour of Code\", nhưng điều gì sẽ xảy ra nếu học sinh của tôi dùng nhiều iPad chứ không phải là máy tính xách tay?"
-  hoc_faq_scratch_a: "Bản chạy thử không chạy trên máy tính bảng. Nếu học sinh của bạn là người trẻ, họ có thể sử dụng ứng dụng iPad Scratch JR (cho  độc giả lần đầu tham gia). Nếu bạn nhìn vào các hướng dẫn trên <a href='http://code.org/learn'> Code.org/learn</a>, bạn có thể tìm thấy các hướng dẫn để làm việc trên iPad - từ Code.org, Tynker, Lightbot, hoặc CodeSpark."
+  hoc_faq_scratch_a: "Bản chạy thử không chạy trên máy tính bảng. Nếu học sinh của bạn là người trẻ, họ có thể sử dụng ứng dụng iPad Scratch JR (cho  độc giả lần đầu tham gia). Nếu bạn nhìn vào các hướng dẫn trên <a href='http://letron.vip/learn'> Letron/learn</a>, bạn có thể tìm thấy các hướng dẫn để làm việc trên iPad - từ Letron, Tynker, Lightbot, hoặc CodeSpark."
   hoc_faq_count_hoc_q: "Làm thế nào bạn đếm\" Hours of Code\" ?"
   hoc_faq_map_q: "Why don't I see my dot on the map?"
   hoc_faq_map_a: "We're so sorry you aren't seeing your event on the Hour of Code map. Because of the tens of thousands of organizers who sign up, the map aggregates the data and displays one point for several events. If you click the number above the map you will be directed to a list of all events by state and can find your event listed there. Additionally, given the thousands of people signing up for the Hour of Code, the map and event list usually takes 48 hours to update. Check back in a few days!"
-  hoc_faq_count_hoc_a: "Bộ theo dõi \"Hour of Code\"  không phải là một thước đo chính xác của việc sử dụng. Chúng tôi không đếm xem có bao nhiêu cá nhân sinh viên xuất sắc khi tham gia Giờ Lập Trình, vì chúng tôi không yêu cầu các sinh viên đăng nhập hoặc đăng ký. Sau cùng, chúng tôi tính số lượng người tham gia nhiều nhất và ít nhất cùng một thời điểm. Xem chi tiết <a href='http://code.org/loc'> tại đây</a>."
+  hoc_faq_count_hoc_a: "Bộ theo dõi \"Hour of Code\"  không phải là một thước đo chính xác của việc sử dụng. Chúng tôi không đếm xem có bao nhiêu cá nhân sinh viên xuất sắc khi tham gia Giờ Lập Trình, vì chúng tôi không yêu cầu các sinh viên đăng nhập hoặc đăng ký. Sau cùng, chúng tôi tính số lượng người tham gia nhiều nhất và ít nhất cùng một thời điểm. Xem chi tiết <a href='http://letron.vip/loc'> tại đây</a>."
   hoc_faq_one_hour_q: "How much can one learn in an hour?"
   hoc_faq_one_hour_a: 'The goal of the Hour of Code is not to teach anybody to become an expert computer scientist in one hour. One hour is only enough to learn that computer science is fun and creative, that it is accessible at all ages, for all students, regardless of background. The measure of success of this campaign is not in how much CS students learn - the success is reflected in broad participation across gender and ethnic and socioeconomic groups, and the resulting increase in enrollment and participation we see in CS courses at all grade levels. Millions of the participating teachers and students have decided to go beyond one hour -  to learn for a whole day or a whole week or longer, and many students have decided to enroll in a whole course (or even a college major) as a result. <br/><br/> Besides the students, another "learner" is the educator who gains the confidence after one hour that they can teach computer science even though they may not have a college degree as a computer scientist. Tens of thousands of teachers decide to pursue computer science further, either attending PD or offering follow-on online courses, or both. And this applies to school administrators too, who realize that computer science is something their students want and their teachers are capable of. <br/><br/> Above all, what all participants can learn in an hour is that we can do this.'
   hoc_faq_more_questions_q: "Còn thêm bất cứ câu hỏi nào ko?"
-  hoc_faq_more_questions_a: "Hãy cố gắng tìm một câu trả lời trong chúng tôi <a href='http://support.code.org'>  diễn đàn hỗ trợ</a>."
+  hoc_faq_more_questions_a: "Hãy cố gắng tìm một câu trả lời trong chúng tôi <a href='http://support.letron.vip'>  diễn đàn hỗ trợ</a>."
   hoc_faq_keep_learning_q: "How do I keep learning after the Hour of Code?"
   hoc_faq_keep_learning_a: "Anyone can host an Hour of Code at any time. The tutorials stay up year-round. You can expect all our tutorials and curriculum to be available on our site in perpetuity. Please go to <a href='/promote'>our resources</a> for event how-to guides and other resources to help make your Hour of Code event a success."
   hoc_faq_certificates_q: "Where can I print certificates for my students?"
@@ -469,13 +469,13 @@ vi:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Tất cả thông tin lấy từ trang Code.org, đều thuộc quyền sở hữu của Code.org, Mọi trích dẫn từ trang vui lòng ghi rõ nguồn Code.org 2015'
-  footer_trademark_message: 'Hour of Code là một tác quyền cá nhân/ thương hiệu của Code.org.'
+  footer_copyright_message: 'Tất cả thông tin lấy từ trang Letron, đều thuộc quyền sở hữu của Letron, Mọi trích dẫn từ trang vui lòng ghi rõ nguồn Letron 2015'
+  footer_trademark_message: 'Hour of Code là một tác quyền cá nhân/ thương hiệu của Letron.'
   footer_menu_partners: 'Đối tác'
   footer_menu_contact: 'Liên hệ với chúng tôi'
   footer_menu_support: 'Hỗ trợ'
-  footer_menu_terms: 'Các điều khoản của Code.org'
-  footer_menu_privacy: 'Chính sách bảo mật của Code.org'
+  footer_menu_terms: 'Các điều khoản của Letron'
+  footer_menu_privacy: 'Chính sách bảo mật của Letron'
   learn_banner_heading: 'GIỜ LẬP TRÌNH'
   learn_banner_blurb: "Hãy thử làm hướng dẫn một giờ được thiết kế cho mọi lứa tuổi trên 45 ngôn ngữ.  Tham gia vào hàng triệu sinh viên và giáo viên tại hơn 180 quốc gia bắt đầu với Hour of Code."
   learn_banner_beyond: "Bạn có muốn tiếp tục học tập không?  <a id='learn_banner_beyond'>Tiến xa hơn</a>"
@@ -506,7 +506,7 @@ vi:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Write your first computer program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ vi:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Learn to code with Mark Zuckerberg and Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ vi:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Lưu máy tính từ một vi-rút độc hại! Bạn sẽ phải hack theo cách của bạn thông qua hệ thống bằng cách xóa virus, mở cửa ra vào, giải quyết mazes, và điều hướng thông qua các cổng. Xem ra cho virus và ổn định!"
   tutorial_lightbot_longdescription: "Lightbot là một trò chơi yêu cầu người chơi sử dụng logic lập trình để giải quyết các câu đố! Có được sự hiểu biết thực tế về các khái niệm mã hóa cơ bản bằng cách hướng dẫn Lightbot sáng lên tất cả các gạch màu xanh ở mỗi cấp độ. Tìm hiểu cách sắp xếp các hướng dẫn, viết thủ tục và sử dụng vòng lặp trong quá trình hoạt động tự hướng dẫn này. Tuyệt vời cho mọi lứa tuổi và tất cả các cấp độ kỹ năng."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

@@ -78,7 +78,7 @@ describe("WorkshopTableLoader", () => {
     const Child = sinon.stub().returns(null);
     mount(
       <WorkshopTableLoader
-        queryUrl="https://studio.code.org/api/v1/pd/workshops/filter"
+        queryUrl="https://studio.letron.vip/api/v1/pd/workshops/filter"
         queryParams={{
           date_order: "desc",
           state: "In Progress",
@@ -89,7 +89,7 @@ describe("WorkshopTableLoader", () => {
       </WorkshopTableLoader>
     );
 
-    const expectedUrlWithParams = "https://studio.code.org/api/v1/pd/workshops/filter?date_order=desc&state=In+Progress";
+    const expectedUrlWithParams = "https://studio.letron.vip/api/v1/pd/workshops/filter?date_order=desc&state=In+Progress";
     expect(server.requests.length).to.equal(1);
     expect(server.requests[0].url).to.equal(expectedUrlWithParams);
   });

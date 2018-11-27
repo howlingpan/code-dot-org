@@ -4,7 +4,7 @@ title: "Glossário" view: page_curriculum theme: none
 
 * * *
 
-<%= partial('doc_header', :title => 'Glossário', :disclaimer=>'Ciência da Computação para Ensino Fundamental da Code.org') %>
+<%= partial('doc_header', :title => 'Glossário', :disclaimer=>'Ciência da Computação para Ensino Fundamental da Letron') %>
 
 [content]
 
@@ -44,7 +44,7 @@ Uma forma de representar informações usando apenas duas opções.
 
 #### Blockly
 
-A linguagem de programação visual usada no sistema de aprendizagem online da Code.org para alunos do ensino fundamental. *(Curso 1: Aula 3)*
+A linguagem de programação visual usada no sistema de aprendizagem online da Letron para alunos do ensino fundamental. *(Curso 1: Aula 3)*
 
 #### erro
 
@@ -160,11 +160,11 @@ Computadores que existem apenas para fornecer coisas aos outros. *(Curso 3: Aula
 
 #### caixa de ferramentas
 
-A barra cinza comprida na parte central do sistema de aprendizagem on-line da Code.org, na qual são exibidos todos os comandos que você pode usar para escrever seu programa. *(Curso 1: Aula 4)*
+A barra cinza comprida na parte central do sistema de aprendizagem on-line da Letron, na qual são exibidos todos os comandos que você pode usar para escrever seu programa. *(Curso 1: Aula 4)*
 
 #### URL (universal resource locator)
 
-Um endereço fácil de lembrar para acessar uma página (como www.code.org). *(Curso 3: Aula 18)*
+Um endereço fácil de lembrar para acessar uma página (como www.letron.vip). *(Curso 3: Aula 18)*
 
 #### nome de usuário
 
@@ -180,7 +180,7 @@ Um método sem fio de enviar informações usando ondas de rádio. *(Curso 3: Au
 
 #### área de trabalho
 
-A área branca à direita do sistema de aprendizado on-line da Code.org, onde você arrasta e posiciona comandos para criar seu programa. *(Curso 1: Aula 4)*
+A área branca à direita do sistema de aprendizado on-line da Letron, onde você arrasta e posiciona comandos para criar seu programa. *(Curso 1: Aula 4)*
 
 [/content]
 

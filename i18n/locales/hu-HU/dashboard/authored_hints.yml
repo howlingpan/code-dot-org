@@ -32,7 +32,7 @@ hu:
         2-3_Artist_9_b: |-
           Ne felejtsd el elfordítani a művészt 45 fokkal, mielőtt rajzolni kezded a négyzeteidet!
           
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Ne feledje, ha azt akartad hogy a vezérlő 10 képponttal * szélesebb *... győződj meg róla, hogy ** hozzáadsz ** 10-et ahhoz a számhoz amit cserélni akarsz.
         2-3_Artist_Debugging_10_b: "** Próba és hiba teljesen elfogadott itt! **\nkezdd úgy, hogy egyszerre csak egy számot változtass\nMelyik szám mit csinál?   \nHa túl belebonyolódsz, csak kattints az \"Újrakezdés\", és a kódod újraindul."
@@ -87,7 +87,7 @@ hu:
         2-3_Artist_Functions_4_a: A művész el kell fordítani 120 fokkal minden négyzet között, hogy elkészüljön a design.
       2-3 Artist Loops New 11_authored_hint:
         2-3_Artist_Loops_New_11_a: |-
-          Ne feledje, hogy az utolsó puzzle kódja:! [] (https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+          Ne feledje, hogy az utolsó puzzle kódja:! [] (https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
         2-3_Artist_Loops_New_11_b: Következő körben el kell jutnod a ciklusod kódjának a végére.
       2-3 Artist Loops New 12_authored_hint:
         2-3_Artist Loops_New_12_a: Mielőtt elkezded a gyémántot, a művészt 60 fokkal balra kell fordítani, hogy a helyes irányba álljon.
@@ -117,7 +117,7 @@ hu:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: Nem vágod hogy mi kellet tenni a blokkokkal? Próbáld ugyanúgy kezelni a piros virágot, mint a lilát!
         2-3_Bee_Conditionals_14_b: Ha a piros virág lila lenne, kitalálnád hogyan kell a kódba egy extra "ismétlés" ciklust tenni a levágáshoz?
-        2-3_Bee_Conditionals_14_c: "Próbáld meg ezt két külön részben:\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n1) Gyűjts nektárt 3-szor\n   - Menj előre 5-ször\n   - Ellenőrizd, hogy látod-e a nektárt, ha igen szerezd meg\n   - Fordulj balra\n\n2) Készíts mézet  \n  - Menj előre egyszer\n  - Készíts két mézet"
+        2-3_Bee_Conditionals_14_c: "Próbáld meg ezt két külön részben:\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n1) Gyűjts nektárt 3-szor\n   - Menj előre 5-ször\n   - Ellenőrizd, hogy látod-e a nektárt, ha igen szerezd meg\n   - Fordulj balra\n\n2) Készíts mézet  \n  - Menj előre egyszer\n  - Készíts két mézet"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Emlékezz: a lila virágok csak 0 vagy 1 nektár tartalmaznak és meg tudnak változni minden alkalommal, amikor futtatod a programot.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -130,7 +130,7 @@ hu:
         2-3_Bee_Functions_8_b: |-
           Ne feledd, hogy a kódod a zöld blokkon belül építheted.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 3_authored_hint:
         2-3_Bee_Loops_3_a: 6 blokk kell a ciklusodba.
       2-3 Bee Loops 3B_authored_hint:
@@ -152,7 +152,7 @@ hu:
       Function intro Ryan_2019_authored_hint:
         Function_intro_Ryan_a: A programodon belül többször is meghívhatsz egy funkciót.  A kirakós megoldásához próbáld kétszer meghívni!
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Látod a **Tengeri lámpásokat** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Hogyan tudsz feltételt használni velük kapcsolatban, hogy átjuss a Víz alatti templomon?"
+        voyage_aquatic_10a: "Látod a **Tengeri lámpásokat** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Hogyan tudsz feltételt használni velük kapcsolatban, hogy átjuss a Víz alatti templomon?"
       HOC 2018 Level_9b_authored_hint:
         voyage_aquatic_9a: Micsoda gyönyörű korallzátony! A kék korall jelzi a **jobb** utat, de nehogy **balszerencsét** hozzon az itt hagyott vörös korall!
       MC Agent Freeplay_authored_hint:
@@ -194,7 +194,7 @@ hu:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           A két nyomólapra lépve megnyitod az utat a játékos előtt. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Az Agent irányának módosításához használd a "fordulás jobbra" blokkot '
         MC_HOC_2017_04POINT5_RYAN_a: Az Agentnek csak az első nyomólapra kell eljutnia ahhoz, hogy keresztülengedje a baltához Alexet vagy Steve-et.
@@ -252,7 +252,7 @@ hu:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           A két nyomólapra lépve megnyitod az utat a játékos előtt. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Nyomd meg a "Futtatás" gombot. 
@@ -503,12 +503,12 @@ hu:
         courseE_bee_functions7_b: |-
           Ne feledd, hogy a kódod a zöld blokkon belül építheted.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_b: |-
           Ne feledd, hogy a kódod a zöld blokkon belül építheted.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade2_MakeDogTag_1_authored_hint:
         2-3_Artist_1_new_a: Ha használod a 'lépj előre 100 pixelt' blokkot, automatikusan rajzolok egy vonalat.
         2-3_Artist_1_new_b: Baj van a bekanyarodással a sarkon? Használd a 'fordulj jobbra 90 fokot' blokkot!
@@ -553,7 +553,7 @@ hu:
         2-3_Bee_Functions_8_b: |-
           Ne feledd, hogy a kódod a zöld blokkon belül építheted.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Ha használod a 'lépj előre 100 pixelt' blokkot, automatikusan rajzolok egy vonalat.
         2-3_Artist_1_new_b: Baj van a bekanyarodással a sarkon? Használd a 'fordulj jobbra 90 fokot' blokkot!

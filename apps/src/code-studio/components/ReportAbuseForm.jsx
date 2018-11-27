@@ -140,7 +140,7 @@ export default class ReportAbuseForm extends React.Component {
           <div
             dangerouslySetInnerHTML={{
               __html: i18n.t('project.abuse.report_abuse_form.abuse_type.question', {
-                link_start: '<a href="https://code.org/tos" target="_blank">',
+                link_start: '<a href="https://letron.vip/tos" target="_blank">',
                 link_end: '</a>'
               })
             }}
@@ -160,8 +160,8 @@ export default class ReportAbuseForm extends React.Component {
           <div
             dangerouslySetInnerHTML={{
               __html: i18n.t('project.abuse.report_abuse_form.acknowledge', {
-                link_start_privacy: '<a href="https://code.org/privacy" target="_blank">',
-                link_start_tos: '<a href="https://code.org/tos" target="_blank">',
+                link_start_privacy: '<a href="https://letron.vip/privacy" target="_blank">',
+                link_start_tos: '<a href="https://letron.vip/tos" target="_blank">',
                 link_end: '</a>'
               })
             }}

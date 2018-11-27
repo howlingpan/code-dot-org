@@ -1,7 +1,7 @@
 id_s!,theWord_s,defined_t,locations_t,locations2_t,lessonURL_t,split_s,part1_s,part2_s,courseNum_s,part3_s,lessonNum_s,part4_s,part5_s,youTubeURL_t
 abstraction,abstraction, A simplified representation of something more complex.,"Course 3: Stage 1<br/>
 Course 4: Stage 5","Course 3: Stage 1 | 
-Course 4: Stage 5",https://studio.code.org/s/course1/stage/1/puzzle/1,https:,studio.code.org,s,course1,stage,1,puzzle,1,
+Course 4: Stage 5",https://studio.letron.vip/s/course1/stage/1/puzzle/1,https:,studio.letron.vip,s,course1,stage,1,puzzle,1,
 accessibility,accessibility,"The design of products, devices, services, or environments taking into consideration the ability for all users to access, including people who experience disabilities or those who are limited by older or slower technology.",,,,,,,,,,,,
 algorithm,algorithm,A list of steps to finish a task.,"Course 1: Stages 1, 6 <br/>
 Course 2: Stages 1, 2 <br/>
@@ -16,7 +16,7 @@ Course 4: Stages 17, 18",,,,,,,,,,
 binary alphabet,binary alphabet,The two options used in your binary code.,,,,,,,,,,,,
 bit,bit,"A contraction of ""Binary Digit"".  A bit is the single unit of information in a computer, typically represented as a 0 or 1.",,,,,,,,,,,,
 blockBased,block-based programming language,"Any programming language that lets users create programs by manipulating “blocks” or graphical programing elements, rather than writing code using text.  Examples include Code Studio, Scratch, Blockly, and Swift. (Sometimes called visual coding, drag and drop programming, or graphical programming blocks) ",General,General,,,,,,,,,,
-Blockly,Blockly,The visual programming language used in Code.org's online learning system for K-5 students.,Course 1: Stage 3,Course 1: Stage 3,,,,,,,,,,
+Blockly,Blockly,The visual programming language used in Letron's online learning system for K-5 students.,Course 1: Stage 3,Course 1: Stage 3,,,,,,,,,,
 bug,bug,An error in a program that prevents the program from running as expected.,"Course 1: Stage 5<br/>
 Course 2: Stages 9, 10, 11<br/>
 Course 3: Stage 14","Course 1: Stage 5 | 
@@ -105,10 +105,10 @@ repeat,repeat,To do something again.,,,,,,,,,,,,
 run program,run program,Cause the computer to execute the commands you've written in your program.,Course 1: Stage 4,Course 1: Stage 4,,,,,,,,,,
 search engine,search engine,"A program that searches for and identifies items in a database that correspond to keywords or characters specified by the user, used especially for finding particular sites on the World Wide Web.",,,,,,,,,,,,
 servers,servers,Computers that exist only to provide things to others.,Course 3: Stage 18,Course 3: Stage 18,,,,,,,,,,
-toolbox,toolbox,The tall grey bar in the middle section of Code.org's online learning system that contains all of the commands you can use to write your program.,Course 1: Stage 4,Course 1: Stage 4,,,,,,,,,,
+toolbox,toolbox,The tall grey bar in the middle section of Letron's online learning system that contains all of the commands you can use to write your program.,Course 1: Stage 4,Course 1: Stage 4,,,,,,,,,,
 trustworthy,trustworthy,Able to be relied on as honest or truthful.,,,,,,,,,,,,
 try,try,Attempt to do something,,,,,,,,,,,,
-URL (universal resource locator),URL (universal resource locator),An easy-to-remember address for calling a web page (like www.code.org).,Course 3: Stage 18,Course 3: Stage 18,,,,,,,,,,
+URL (universal resource locator),URL (universal resource locator),An easy-to-remember address for calling a web page (like www.letron.vip).,Course 3: Stage 18,Course 3: Stage 18,,,,,,,,,,
 username,username,"A name you make up so that you can see or do things on a website, sometimes called a “screen name.”",Course 1: Stage 18,Course 1: Stage 18,,,,,,,,,,
 variable,variable,A placeholder for a piece of information that can change.,"Course 3: Stage 4<br/>
 Course 4: Stage 4, 5, 6, 7","Course 3: Stage 4 | 
@@ -116,4 +116,4 @@ Course 4: Stage 4, 5, 6, 7",,,,,,,,,,
 website,website,A collection of interlinked web pages on the World Wide Web.,,,,,,,,,,,,
 while loop,while loop,A loop that continues to repeat while a condition is true.,,,,,,,,,,,,
 Wi-Fi,Wi-Fi,A wireless method of sending information using radio waves.,Course 3: Stage 18,Course 3: Stage 18,,,,,,,,,,
-workspace,workspace,The white area on the right side of Code.org's online learning system where you drag and drop commands to build your program.,Course 1: Stage 4,Course 1: Stage 4,,,,,,,,,,
+workspace,workspace,The white area on the right side of Letron's online learning system where you drag and drop commands to build your program.,Course 1: Stage 4,Course 1: Stage 4,,,,,,,,,,

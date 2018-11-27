@@ -20,7 +20,7 @@
     "impressive": "false",
     "embed": "false",
     "disable_sharing": "false",
-    "markdown_instructions": "<br/><br/>\r\n<img src=\"https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png\" width=\"250px\"/>  \r\n<br/><br/>\r\n**Free-Play Inspiration:** You've now learned everything you need to know to make a pattern like this! If this picture inspires you, try to make something similar. Otherwise, create something all your own.",
+    "markdown_instructions": "<br/><br/>\r\n<img src=\"https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png\" width=\"250px\"/>  \r\n<br/><br/>\r\n**Free-Play Inspiration:** You've now learned everything you need to know to make a pattern like this! If this picture inspires you, try to make something similar. Otherwise, create something all your own.",
     "contract_highlight": "false",
     "contract_collapse": "false",
     "examples_highlight": "false",
@@ -30,7 +30,7 @@
     "disable_examples": "false",
     "examples_required": "false",
     "never_autoplay_video": "false",
-    "authored_hints": "[\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"The foundation of this code is the same as the solution to the previous challenge puzzle...with a couple of changes.\",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_a\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"Try a `for` loop that goes from 3 to 10 with an increment of 1.\",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_b\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"pointer\",\r\n  \"hint_markdown\": \"There are two iterations of the same repeat loop inside the `for` loop, but the second repeat turns the opposite direction.\",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_c\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"bottom-out\",\r\n  \"hint_markdown\": \"**Solution:**  ![Solution](https://images.code.org/d619892fc17ff491c201d86bb917e523-image-1441005190828.12.30.png) \",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_d\",\r\n  \"hint_type\": \"general\"\r\n }\r\n]",
+    "authored_hints": "[\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"The foundation of this code is the same as the solution to the previous challenge puzzle...with a couple of changes.\",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_a\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"Try a `for` loop that goes from 3 to 10 with an increment of 1.\",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_b\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"pointer\",\r\n  \"hint_markdown\": \"There are two iterations of the same repeat loop inside the `for` loop, but the second repeat turns the opposite direction.\",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_c\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"bottom-out\",\r\n  \"hint_markdown\": \"**Solution:**  ![Solution](https://images.letron.vip/d619892fc17ff491c201d86bb917e523-image-1441005190828.12.30.png) \",\r\n  \"hint_id\": \"Course_4_Artist_For_Loops_inspire_d\",\r\n  \"hint_type\": \"general\"\r\n }\r\n]",
     "discard_background": "false",
     "contained_level_names": null
   },

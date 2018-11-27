@@ -58,11 +58,11 @@
     "fail_on_lint_errors": "false",
     "makerlab_enabled": "false",
     "short_instructions": "Save the age and name of the user in variables (Click to see full instructions)",
-    "long_instructions": "# Saving Text Input in Variables\r\n\r\nOften we want to save the information we pull in from the user for later use in our program. The best way to do this is to save it in a variable.\r\n\r\n# Do This:\r\n\r\n* **Create two variables inside your event handler** to store the **age** and **name** of the user.\r\n* **Use `getText()` to update the values** stored in each of these variables.\r\n* **Change your `console.log` statements to use your variable instead of `getText`**.\r\n\r\n![](https://images.code.org/ca45dcb01ae2d1956ed2f87efeda0264-image-1445976691215.11.13 PM.png)"
+    "long_instructions": "# Saving Text Input in Variables\r\n\r\nOften we want to save the information we pull in from the user for later use in our program. The best way to do this is to save it in a variable.\r\n\r\n# Do This:\r\n\r\n* **Create two variables inside your event handler** to store the **age** and **name** of the user.\r\n* **Use `getText()` to update the values** stored in each of these variables.\r\n* **Change your `console.log` statements to use your variable instead of `getText`**.\r\n\r\n![](https://images.letron.vip/ca45dcb01ae2d1956ed2f87efeda0264-image-1445976691215.11.13 PM.png)"
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-11-09 20:38:35 +0000\",\"changed\":[\"notes\",\"code_functions\",\"markdown_instructions\",\"instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":832,\"changed_by_email\":\"hannah@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-11-09 20:38:35 +0000\",\"changed\":[\"notes\",\"code_functions\",\"markdown_instructions\",\"instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":832,\"changed_by_email\":\"hannah@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

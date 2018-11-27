@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/csp.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/csp.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>4, :unittitle=>'Data', :lesson=>11, :title=> 'Gaining Insight and Knowledge', :time=>50, :days=>1) %>
@@ -108,7 +108,8 @@ Use these activities to enhance student learning. They can be used as outside of
 ### Other Standards
 
 *CSTA K-12 Computer Science Standards*
-- CPP.L3B-07 Use data analysis to enhance understanding of complex natural and human systems.    
+
+- CPP.L3B-07 Use data analysis to enhance understanding of complex natural and human systems.    
 
  
 *Common Core State Standards for Mathematical Practice*

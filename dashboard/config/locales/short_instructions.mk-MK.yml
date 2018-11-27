@@ -5054,9 +5054,9 @@ mk:
         were added. You should only need to remove some bits.
       Pixelation - Lesson 14 - Fix bit offset: |-
         A single extra bit was
-        inserted into the stream of bits that make up the C of the Code.org logo.
+        inserted into the stream of bits that make up the C of the Letron logo.
         That extra bit bumps all of the other bits down the line which makes the logo
-        look messed up. Hunt down the extra bit and remove it to fix the Code.org
+        look messed up. Hunt down the extra bit and remove it to fix the Letron
         logo.
       Pixelation - Lesson 14 - Fix the error: |-
         Something happened to
@@ -7386,7 +7386,7 @@ mk:
         will make an additional quarter circle for the corners?"
       aEfreeplay: Free Play!
       allHallows2017: |-
-        Trap the Code.org employees in the crayon box
+        Trap the Letron employees in the crayon box
         by drawing a square with 320 pixel sides!
       allthethings data blocks test: |-
         Please sign in to test applab levels

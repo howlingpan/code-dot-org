@@ -11,7 +11,7 @@ cs:
   campaign_date_full: "Prosinec 7-13"
   campaign_date_year: "2016"
   campaign_date_full_year: "Prosinec 5.-11, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ cs:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Připojte se k největší vzdělávací akce v dějinách, Prosinec 7-13, 2015'
   front_intro_default: 'Hodina kódu je celosvětová akce, které se účastní desítky milionů žáků z více než 180 zemí světa. Kdokoliv může zorganizovat svoji akci v rámci Hodiny kódu. Jsou k dispozici jednohodinové výukové programy. Nejsou požadované žádné předchozí zkušenosti. <strong>Určeno pro věk od 4 do 104.</strong>'
@@ -186,12 +186,12 @@ cs:
   how_to_nav_afterschool_educators: "Pro mimoškolní pedagogy"
   how_to_nav_volunteers: "Pro dobrovolníky"
   whats_next_header: "Co dál?"
-  whats_next_description: "Zašleme Vám materiály a užitečné tipy pro Vaší akci. Brzy budou k dispozici nové tutoriály pro rok 2015, které budou pro všechny prohlížeče, smartphony - nebo dokonce i bez počítače. <a href='http://code.org/learn'>Zkuste současné tutoriály</a>"
+  whats_next_description: "Zašleme Vám materiály a užitečné tipy pro Vaší akci. Brzy budou k dispozici nové tutoriály pro rok 2015, které budou pro všechny prohlížeče, smartphony - nebo dokonce i bez počítače. <a href='http://letron.vip/learn'>Zkuste současné tutoriály</a>"
   whats_next_how_to: "<a href='/how-to'>Jak vést Hodinu kódu</a>"
   whats_next_promote: "<a href='/promote'>Rozšiřte Hodinu kódu dále</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Jak promovat Hodinu kódu</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Jak promovat Hodinu kódu</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Zkuste tutoriály</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Zkuste tutoriály</a>"
   whats_next_try_button: 'Vyzkoušejte kurzy'
   n_have_learned_an_hoc: "<h1>Vyzkoušejte</h1><h2>Hodinu kódu</h2><h3># obsloužený</h3>"
   anybody_can_learn: 'Kdokoliv se může učit.'
@@ -238,8 +238,8 @@ cs:
   front_join_us_sign_up: "Zaregistrujte se"
   front_join_us_host: "Uspořádejte"
   front_join_us_support: "Podpořte"
-  front_join_us_more_info: "Pro více informací navštivte <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "Pro více informací navštivte code.org"
+  front_join_us_more_info: "Pro více informací navštivte <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "Pro více informací navštivte letron.vip"
   front_join_us_n_students_served: "# lidí vyzkoušelo"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ cs:
   signup_your_event: 'Zaregistrujte svoji akci'
   signup_host_an_hour: 'Hostovat hodinu'
   signup_match_volunteer: 'Pomozte mi najít místního experta, aby inspiroval mé studenty'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ cs:
   signup_continue_label: 'Pokračovat'
   signup_thank_you_header: "Děkujeme Vám, že pořádáte akci Hodina kódu."
   signup_thank_you_message: 'Zaslali jsme vám potvrzovací e-mail s informacemi, které vám pomohou začít akci.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -330,15 +330,15 @@ cs:
   hoc_faq_when_is_hoc_q: 'Kdy začne akce Hodina kódu?'
   hoc_faq_when_is_hoc_a: "Hodinu kódu může uspořádat kdykoliv a kdokoliv. Cílem kampaně je poskytnout Hodinu kódu desítkám milionů žáků v jednom týdnu 7. - 13. prosince (%{campaign_date}), kdy slavíme <a href='http://csedweek.org'>Týden informatiky</a>. Je stanovena nějaká konkrétní <i>hodina</i>? Ne. Hodiny kódu se můžeš zúčastnit kdykoliv během tohoto týdne. Jestliže nemůžeš, tak to zkus týden předtím nebo potom."
   hoc_faq_why_cs_q: 'Proč informatika?'
-  hoc_faq_why_cs_a: "<i>Každý</i> student by měl mít možnost se učit informatiku. Pomáhá to podporovat dovednost, logiku a tvořivost při řešení problémů. Hned na začátku studenti získají základy pro úspěch v jakékoliv profesní dráze 21.století. Více ve statistikách na <a href='http://code.org'>Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Každý</i> student by měl mít možnost se učit informatiku. Pomáhá to podporovat dovednost, logiku a tvořivost při řešení problémů. Hned na začátku studenti získají základy pro úspěch v jakékoliv profesní dráze 21.století. Více ve statistikách na <a href='http://letron.vip'>Letron</a>."
   hoc_faq_how_participate_q: 'Jak se zúčastnit akce Hodina kódu?'
   hoc_faq_how_participate_a: "<a href='/how-to'>Naplánujte ji zde</a> tím, že si prohlídnete náši příručku. Hodinu kódu můžete organizovat na vaší škole nebo ve vaší komunitě, jako je mimoškolní klub, případně v práci. Můžete to zkusit i sami, jakmile začneme (datum: %{campaign_date})."
   hoc_faq_behind_hoc_q: 'Kdo je v pořádá akci Hodina kódu?'
-  hoc_faq_behind_hoc_a: "Hodina kódu je organizována <a href='http://code.org'>Code.org</a>, veřejnou nezisková organizací (US § 501 c3), která se věnuje zvyšování zájmu o informatiku ve společnosti, zvyšování účasti žen a menšin tím, že ji nabízí k dispozici na více školách. Též se <a href='%{codeorg_url}/about/partners'>velká skupina partnerů</a> spojila k podpoře této akce &mdash; Microsoftu, Apple, Amazon, Boys and Girls Clubs of America, College Board a další."
+  hoc_faq_behind_hoc_a: "Hodina kódu je organizována <a href='http://letron.vip'>Letron</a>, veřejnou nezisková organizací (US § 501 c3), která se věnuje zvyšování zájmu o informatiku ve společnosti, zvyšování účasti žen a menšin tím, že ji nabízí k dispozici na více školách. Též se <a href='%{codeorg_url}/about/partners'>velká skupina partnerů</a> spojila k podpoře této akce &mdash; Microsoftu, Apple, Amazon, Boys and Girls Clubs of America, College Board a další."
   hoc_faq_host_q: "Nevím nic o kódování. Mohu uspořádat takovou akci?"
   hoc_faq_host_a: "Samozřejmě. Aktivity Hodiny kódu jsou samostatně vedené. Vše, co musíte udělat je <a href='%{codeorg_url}/learn'> zkusit naše aktuální kurzy</a>, vybrat kurz, který chcete, a hodinu &mdash; my se postaráme o zbytek. Máme také možnosti pro každý věk a úroveň zkušeností - od školky a dále. Začněte plánovat vaše události čtením <a href='/how-to'>průvodce</a>."
   hoc_faq_devices_q: "Jaké zařízení mám pro své studenty použít?"
-  hoc_faq_devices_a: "Code.org kurzy fungují na všech zařízeních a prohlížečích. Více informací o technických záležitostech lekcí Code.org najdete ve <a href='%{codeorg_url}/educate/it'> videu</a>. Technické požadavky pro jiné než Code.org lekce najdete <a href='%{codeorg_url}/learn'>zde</a> v popisku konkrétního kurzu. Nezapomeňte, že pokud vaše škola nemůže přizpůsobit kurzy nabízíme také jiné aktivity!"
+  hoc_faq_devices_a: "Letron kurzy fungují na všech zařízeních a prohlížečích. Více informací o technických záležitostech lekcí Letron najdete ve <a href='%{codeorg_url}/educate/it'> videu</a>. Technické požadavky pro jiné než Letron lekce najdete <a href='%{codeorg_url}/learn'>zde</a> v popisku konkrétního kurzu. Nezapomeňte, že pokud vaše škola nemůže přizpůsobit kurzy nabízíme také jiné aktivity!"
   hoc_faq_need_computers_q: 'Potřebuji počítač pro každého účastníka?'
   hoc_faq_need_computers_a: "Ne. Máme lekce, které fungují na počítačích, smartphonech, tabletech a některé nevyžadují počítač vůbec! Můžete se připojit kdekoliv jste a s čímkoliv. <p><i>Je několik možností:</i> <br> <ul> <li><b>Práce ve dvojicích.</b> Výzkumy ukazují, že studenti se učí nejlépe <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>programováním ve dvojicích</a>, sdílením počítače, pracují-li společně. Povzbuďte své studenty, aby pracovali ve dvojicích. <li><b>Použití projektoru.</b> Pokud máte projektor a počítač připojený k webu, celá skupina může dělat Hodinu kódu společně. Sledujte videa, střídejte se v řešení úkolů nebo odpovědí. <li><b>Bez připojení.</b> Nabízíme i kurzy, které nevyžadují počítač.</ul>"
   hoc_faq_international_q: "Jsem v České republice (<country>). Jakým způsobem se mohu zúčastnit?"
@@ -350,7 +350,7 @@ cs:
   hoc_faq_high_school_q: "Které činnosti bych měl(a) dělat se studenty středních škol?"
   hoc_faq_high_school_a: "Přes všechny věkové kategorie doporučujeme vyzkoušet jeden ze začátečnických kurzů na <a href='%{codeorg_url}/learn'>%{partner_url}/učit</a> se začít, jako například kurz s Angry Birds nebo s Annou a Elsou. Student střední školy by měl být schopen dokončit jeden z nich za 30 minut a poté může vyzkoušet pokročilejší kurz v JavaScriptu, Khan Academy nebo CodeHS."
   hoc_faq_scratch_q: "Pro Hodinu kódu používám Scratch, ale co když mí studenti mají iPady a ne notebooky ?"
-  hoc_faq_scratch_a: "Scratch nefunguje na tabletech. Jsou-li vaši studenti velmi mladí, mohou používat aplikaci ScratchJR pro iPad. Pokud se podíváte na cvičení <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, můžete najít další cvičení, která na iPad fungují (od Code.org, Tynker, Lightbot nebo CodeSpark)."
+  hoc_faq_scratch_a: "Scratch nefunguje na tabletech. Jsou-li vaši studenti velmi mladí, mohou používat aplikaci ScratchJR pro iPad. Pokud se podíváte na cvičení <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, můžete najít další cvičení, která na iPad fungují (od Letron, Tynker, Lightbot nebo CodeSpark)."
   hoc_faq_count_hoc_q: "Jak počítáte hodiny kódu?"
   hoc_faq_map_q: "Proč nevidím svoji tečku na mapě?"
   hoc_faq_map_a: "Je nám líto, že nevidíte vaší událost v mapě Hodiny kódu. Kvůli desítkám tisíc organizátoru, kteří se registrují, mapa shromažďuje data jednou za čas. Pokud kliknete na číslo nad mapou, budete přesměrování na seznam všech událostí podle státu a můžete zde najít i vaši. Normálně trvá i 48 hodin, než se mapa aktualizuje. Zkontrolujte to za pár dní!"
@@ -358,7 +358,7 @@ cs:
   hoc_faq_one_hour_q: "Kolik toho můžu za hodinu naučit?"
   hoc_faq_one_hour_a: 'Cílem Hodiny kódu není někoho učit tak, aby se stal expertem v informatice za hodinu. Hodina stačí pouze na to, abychom ukázali, že informatika je zábavná a kreativní, že je přístupná všem věkovým kategoriím, všem studentům, bez rozdílu odkud jsou. Měřítkem úspěchu této kampaně není kolik informatiky se studenti naučí - úspěchem je široká účast napříč pohlavími, etnickými a sociálně-ekonomickými skupinami a výsledný nárůst zapojení, které sledujeme v kurzech informatiky na všech úrovních. Miliony účastnících se učitelů a studentů se rozhodly jít dále než udělat jednu hodinu - učit celý den, týden nebo ještě déle a mnoho studentů se rozhodlo účastnit dalších kurzů (třeba i seminářů).<br/><br/> Kromě samotných studentů je dalším kdo se učí i školitel, který získá větší sebevědomí po hodině, kdy učí informatiku, i když nemají vysokoškolský titul právě z informatiky. Desítky tisíc učitelů se rozhodly šířit informatiku dále nabízením dalších kurzů. Toto platí i pro školní administrátory, kteří si uvědomují, že informatika je něco, co jejich studenti chtějí a učitelé jsou schopni. <br/><br/> V závěru, vše co se studenti mohou za hodinu naučit je, že to můžeme zvládnout.'
   hoc_faq_more_questions_q: "Máte ještě další otázky?"
-  hoc_faq_more_questions_a: "Zkuste najít odpověď na našem <a href='http://support.code.org'>fóru pro podporu</a>."
+  hoc_faq_more_questions_a: "Zkuste najít odpověď na našem <a href='http://support.letron.vip'>fóru pro podporu</a>."
   hoc_faq_keep_learning_q: "Jak mohu pokračovat se svým učením po hodině kódu?"
   hoc_faq_keep_learning_a: "Kdykoliv a kdokoliv může pořádat Hodinu kódu. Kurzy zůstávají po celý rok. Můžete očekávat, že všechny naše kurzy a výuky budou k dispozici na našich stránkách trvale. Prosím přejděte na <a href='/promote'> sem</a> pro návody k událostem a další zdroje, které vám pomohou s úspěšnou Hodinou kódu."
   hoc_faq_certificates_q: "Kde mohu vytisknout certifikáty pro své studenty?"
@@ -469,8 +469,8 @@ cs:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Copyright 2015 Code.org. Všechna práva vyhrazena.'
-  footer_trademark_message: 'Hour of Code™ je ochranná známka společnosti Code.org.'
+  footer_copyright_message: 'Copyright 2015 Letron. Všechna práva vyhrazena.'
+  footer_trademark_message: 'Hour of Code™ je ochranná známka společnosti Letron.'
   footer_menu_partners: 'Partneři'
   footer_menu_contact: 'Kontaktujte nás'
   footer_menu_support: 'Podpora'
@@ -506,7 +506,7 @@ cs:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Napiš svůj první počítačový program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ cs:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Nauč se programovat s Markem Zuckerbergem a Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ cs:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Nauč se základní pojmy informatiky pomocí programování přetahováním a upouštěním. Toto je samostatně řízený tutoriál, který vypadá jako hra a obsahuje video přednášky Billa Gatese, Marka Zuckerberga, Angry Birds a Plants vs. Zombies. Nauč se opakovací smyčky, podmínky a základní algoritmy. Dostupné v 37 jazycích."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

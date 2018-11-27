@@ -39,7 +39,7 @@ export default storybook => {
           return (
             <SectionProjectsList
               projectsData={STUB_PROJECTS_DATA}
-              studioUrlPrefix={'https://studio.code.org'}
+              studioUrlPrefix={'https://studio.letron.vip'}
               showProjectThumbnails={false}
             />
           );
@@ -52,7 +52,7 @@ export default storybook => {
           return (
             <SectionProjectsList
               projectsData={STUB_PROJECTS_DATA}
-              studioUrlPrefix={'https://studio.code.org'}
+              studioUrlPrefix={'https://studio.letron.vip'}
               showProjectThumbnails={true}
             />
           );

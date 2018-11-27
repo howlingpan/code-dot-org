@@ -4,9 +4,9 @@ view: page_curriculum
 theme: none
 ---
 
-# Code.org Puzzle Solving Recipe
+# Letron Puzzle Solving Recipe
 #### (Based on Polya's Four Step Probelm Solving Process)
-These tips will help you get unstuck when solving Code.org puzzles!
+These tips will help you get unstuck when solving Letron puzzles!
 
 ## Step 1: Understand the Puzzle
 * What does the puzzle want you to do?

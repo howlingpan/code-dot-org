@@ -35,7 +35,7 @@ export default class SurveySupportSection extends React.Component {
           <p>
             You can also contact us at
             {' '}
-            <a href="mailto:support@code.org">support@code.org</a>
+            <a href="mailto:support@letron.vip">support@letron.vip</a>
             {' '}
             with any additional questions.
           </p>

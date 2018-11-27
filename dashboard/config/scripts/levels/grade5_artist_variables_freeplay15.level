@@ -19,7 +19,7 @@
     "use_contract_editor": "false",
     "impressive": "false",
     "embed": "false",
-    "markdown_instructions": "<img src=\"https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png\" width=\"250px\"/>\r\n\r\n**Free-Play Inspiration:** You've now learned everything you need to know to make a pattern like this! If this picture inspires you, try to make something similar. Otherwise, create something all your own. ",
+    "markdown_instructions": "<img src=\"https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png\" width=\"250px\"/>\r\n\r\n**Free-Play Inspiration:** You've now learned everything you need to know to make a pattern like this! If this picture inspires you, try to make something similar. Otherwise, create something all your own. ",
     "contract_highlight": "false",
     "contract_collapse": "false",
     "examples_highlight": "false",
@@ -30,7 +30,7 @@
     "disable_sharing": "false",
     "examples_required": "false",
     "never_autoplay_video": "false",
-    "authored_hints": "[\r\n {\r\n  \"hint_class\": \"pointer\",\r\n  \"hint_markdown\": \"After you complete one square, try jumping forward half of it's length before turning and making another.\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_a\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"Each square and jump is repeated four times (using a left turn inbetween) to make a full pinwheel-like unit.\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_b\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"pointer\",\r\n  \"hint_markdown\": \"Each pinwheel is also repeated four times, with a right turn of **360/sides**.\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_c\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"bottom-out\",\r\n  \"hint_markdown\": \"**Solution:**\\n![Blocks for solution](https://images.code.org/1865aaf1b4a8ba84a5e8a7408401092d-image-1440060930335.43.39.png)\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_d\",\r\n  \"hint_type\": \"general\"\r\n }\r\n]",
+    "authored_hints": "[\r\n {\r\n  \"hint_class\": \"pointer\",\r\n  \"hint_markdown\": \"After you complete one square, try jumping forward half of it's length before turning and making another.\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_a\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"Each square and jump is repeated four times (using a left turn inbetween) to make a full pinwheel-like unit.\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_b\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"pointer\",\r\n  \"hint_markdown\": \"Each pinwheel is also repeated four times, with a right turn of **360/sides**.\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_c\",\r\n  \"hint_type\": \"general\"\r\n },\r\n {\r\n  \"hint_class\": \"bottom-out\",\r\n  \"hint_markdown\": \"**Solution:**\\n![Blocks for solution](https://images.letron.vip/1865aaf1b4a8ba84a5e8a7408401092d-image-1440060930335.43.39.png)\",\r\n  \"hint_id\": \"Course_4_Artist_Inspire_d\",\r\n  \"hint_type\": \"general\"\r\n }\r\n]",
     "discard_background": "false",
     "contained_level_names": null
   },

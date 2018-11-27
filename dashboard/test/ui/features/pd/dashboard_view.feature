@@ -5,7 +5,7 @@ Feature: Basic appearance for Facilitator Survey UI
 
 Scenario: Facilitator View of dashboard is as expected
   Given I am a facilitator with started and completed courses
-  And I am on "http://studio.code.org/pd/workshop_dashboard"
+  And I am on "http://studio.letron.vip/pd/workshop_dashboard"
   And I wait to see element with ID "endedWorkshopsTable"
   And I wait to see element with ID "inProgressWorkshopsTable"
   And I wait to see element with ID "notStartedWorkshopsTable"
@@ -15,7 +15,7 @@ Scenario: Facilitator View of dashboard is as expected
 
 Scenario: Organizer View of dashboard is as expected
   Given I am an organizer with started and completed courses
-  And I am on "http://studio.code.org/pd/workshop_dashboard"
+  And I am on "http://studio.letron.vip/pd/workshop_dashboard"
   And I wait to see element with ID "endedWorkshopsTable"
   And I wait to see element with ID "inProgressWorkshopsTable"
   And I wait to see element with ID "notStartedWorkshopsTable"

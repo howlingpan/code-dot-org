@@ -12,7 +12,7 @@ class FormRoutesTest < SequelTestCase
   describe 'Form Routes' do
     before do
       $log.level = Logger::ERROR # Pegasus spams debug logging otherwise
-      @pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.code.org"))
+      @pegasus = Rack::Test::Session.new(Rack::MockSession.new(MockPegasus.new, "studio.letron.vip"))
     end
 
     describe 'POST /forms/:kind' do

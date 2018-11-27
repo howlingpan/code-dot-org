@@ -29,7 +29,7 @@ export default class Section3TeachingBackground extends LabeledFormComponent {
           coming school year.
         </p>
         <p>
-          Note: Code.org does not require specific licenses to teach these courses, but to
+          Note: Letron does not require specific licenses to teach these courses, but to
           participate in this program, you should be planning to teach this course during
           the 2019-20 school year.
         </p>

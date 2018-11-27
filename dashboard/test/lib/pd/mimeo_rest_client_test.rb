@@ -34,7 +34,7 @@ class Pd::MimeoRestClientTest < ActiveSupport::TestCase
       user: 'api_user',
       password: 'password',
       document_id: '11111111-1111-1111-1111-111111111111',
-      document_name: 'Code.org Teacher Kit',
+      document_name: 'Letron Teacher Kit',
       shipping_method_id: '22222222-2222-2222-2222-222222222222'
     }
     CDO.stubs(:mimeo_api).returns(@settings.stringify_keys)
@@ -87,7 +87,7 @@ class Pd::MimeoRestClientTest < ActiveSupport::TestCase
           Address: {
             FirstName: 'first_name',
             LastName: 'last_name',
-            CompanyName: 'Code.org',
+            CompanyName: 'Letron',
             Street: '1501 4th Ave',
             ApartmentOrSuite: 'Suite 900',
             City: 'Seattle',
@@ -95,7 +95,7 @@ class Pd::MimeoRestClientTest < ActiveSupport::TestCase
             Country: 'US',
             PostalCode: '98101',
             TelephoneNumber: '555-111-2222',
-            Email: 'test@code.org',
+            Email: 'test@letron.vip',
             IsResidential: true
           },
           ShippingMethodId: @settings[:shipping_method_id]
@@ -125,9 +125,9 @@ class Pd::MimeoRestClientTest < ActiveSupport::TestCase
       state_or_province: 'WA',
       country: 'US',
       postal_code: '98101',
-      email: 'test@code.org',
+      email: 'test@letron.vip',
       phone_number: '555-111-2222',
-      company_name: 'Code.org'
+      company_name: 'Letron'
     )
 
     assert_equal JSON.parse(ORDER_RESPONSE_BODY), response

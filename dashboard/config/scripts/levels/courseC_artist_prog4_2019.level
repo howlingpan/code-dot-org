@@ -12,7 +12,7 @@
     "start_direction": "90",
     "is_k1": "false",
     "skip_instructions_popup": "false",
-    "images": "[{\"filename\":\"https://images.code.org/c74daafb2d1f8c150efca4b95afdb6a7-image-1475784069203.png\",\"position\":[168,190]}]\r\n",
+    "images": "[{\"filename\":\"https://images.letron.vip/c74daafb2d1f8c150efca4b95afdb6a7-image-1475784069203.png\",\"position\":[168,190]}]\r\n",
     "free_play": "false",
     "slider_speed": "0.4",
     "embed": "false",
@@ -32,7 +32,7 @@
     "impressive": "false",
     "disable_sharing": "false",
     "never_autoplay_video": "false",
-    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"To finish the rocket, just draw the triangle on top!\",\"hint_id\":\"courseC_artist_prog4_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/34e62f2ffd3b8cddc8343102b537ca72/courseC_artist_prog4.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"You can use the drop down menu on the `turn` blocks to see which angle you need!\",\"hint_id\":\"courseC_artist_prog4_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/b5b76af7795f852f315ac145422b8ea2/courseC_artist_prog4.mp3\"},{\"hint_class\":\"bottom-out\",\"hint_markdown\":\"To draw a triangle, you will want to:\\n- move forward\\n- turn left 120 degrees\\n- move forward\\n- turn left 120 degrees\\n- move forward\",\"hint_id\":\"courseC_artist_prog4_c\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/f0932241463dbe5076cd0defecc2c6f4/courseC_artist_prog4.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"To finish the rocket, just draw the triangle on top!\",\"hint_id\":\"courseC_artist_prog4_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/34e62f2ffd3b8cddc8343102b537ca72/courseC_artist_prog4.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"You can use the drop down menu on the `turn` blocks to see which angle you need!\",\"hint_id\":\"courseC_artist_prog4_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/b5b76af7795f852f315ac145422b8ea2/courseC_artist_prog4.mp3\"},{\"hint_class\":\"bottom-out\",\"hint_markdown\":\"To draw a triangle, you will want to:\\n- move forward\\n- turn left 120 degrees\\n- move forward\\n- turn left 120 degrees\\n- move forward\",\"hint_id\":\"courseC_artist_prog4_c\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/f0932241463dbe5076cd0defecc2c6f4/courseC_artist_prog4.mp3\"}]",
     "discard_background": "false",
     "ideal": "6",
     "instructions_important": "false",
@@ -45,7 +45,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-07-07 17:43:19 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-09-28 06:09:53 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2017-09-28 06:10:52 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]"
+  "audit_log": "[{\"changed_at\":\"2017-07-07 17:43:19 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"predraw_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-09-28 06:09:53 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2017-09-28 06:10:52 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]"
 }]]></config>
   <blocks>
     <toolbox_blocks>

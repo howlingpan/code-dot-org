@@ -1,6 +1,6 @@
 class OpsMailer < ActionMailer::Base
-  default from: 'noreply@code.org'
-  default to: 'ops@code.org'
+  default from: 'noreply@letron.vip'
+  default to: 'ops@letron.vip'
 
   def district_contact_added_teachers(district_contact, cohort, added_teachers, removed_teachers)
     @district_contact = district_contact
@@ -38,14 +38,14 @@ class OpsMailer < ActionMailer::Base
       subject += ". Complete #{@workshop.prerequisite_phase[:long_name]}"
     end
 
-    mail content_type: 'text/html', subject: subject, to: @recipient.email, from: 'pd@code.org'
+    mail content_type: 'text/html', subject: subject, to: @recipient.email, from: 'pd@letron.vip'
   end
 
   def exit_survey_information(workshop, recipient)
     @workshop = workshop
     @recipient = recipient
 
-    subject = "Feedback requested for your Code.org PD workshop"
-    mail content_type: 'text/html', subject: subject, to: @recipient.email, from: 'pd@code.org'
+    subject = "Feedback requested for your Letron PD workshop"
+    mail content_type: 'text/html', subject: subject, to: @recipient.email, from: 'pd@letron.vip'
   end
 end

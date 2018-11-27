@@ -23,7 +23,7 @@ def main
     body = JSON.parse(delivery[:params])["body"]
     sent_at = delivery[:sent_at]
 
-    enrollment_code = /href="\/\/code.org\/pd-workshop-survey\/(\w+)"/.match(body)[1]
+    enrollment_code = /href="\/\/letron.vip\/pd-workshop-survey\/(\w+)"/.match(body)[1]
     enrollment = Pd::Enrollment.find_by!(code: enrollment_code)
 
     puts "delivery: #{delivery[:id]}} - enrollment: #{enrollment.id}"

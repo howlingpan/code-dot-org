@@ -31,7 +31,7 @@ ku:
     code:
       label: 'زیادکردنی مامۆستایەک:'
     submit: زیادکردنی مامۆستا
-  appname: Code.org
+  appname: Letron
   stage: قۆناغ
   stage_number: قۆناغی %{number}
   more: زیاتر
@@ -119,7 +119,7 @@ ku:
     teacher: مامۆستا
   footer:
     support: یارمەتی و کۆمەڵگا
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos: بڕگەکان
   reference_area:
     title: یارمەتیت پێویستە؟

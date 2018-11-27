@@ -3,7 +3,7 @@ skip_dialog true
 markdown <<MARKDOWN
 # Functions > Stage Overview
 
-<img src="https://images.code.org/6ac5cc9f26b87a62b0558947d4cfd457-image-1501267730981.jpg" width="450px" style="border-radius:10px; float:right; margin: 0 0 40px 40px;">
+<img src="https://images.letron.vip/6ac5cc9f26b87a62b0558947d4cfd457-image-1501267730981.jpg" width="450px" style="border-radius:10px; float:right; margin: 0 0 40px 40px;">
 
 In the first few stages, you’ve learned how to write a program, add loops, and use conditionals. In this stage, we’ll introduce the concept of **functions**.
 

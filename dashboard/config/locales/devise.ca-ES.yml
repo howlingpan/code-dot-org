@@ -21,9 +21,9 @@ ca:
       unconfirmed: Necessites confirmar el teu compte abans de continuar.
     mailer:
       confirmation_instructions:
-        subject: Instruccions de confirmació de Code.org
+        subject: Instruccions de confirmació de Letron
       reset_password_instructions:
-        subject: Instruccions per inicialitzar la contrasenya de Code.org
+        subject: Instruccions per inicialitzar la contrasenya de Letron
       unlock_instructions:
         subject: Instruccions de desbloqueig
     omniauth_callbacks:

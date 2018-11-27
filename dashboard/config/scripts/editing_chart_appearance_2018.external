@@ -13,7 +13,7 @@ A good chart title should effectively summarize the data story in the chart. You
 
 **Do This:** Change the title of your line chart to **“Average Rating by Age of Reviewer”**.
 
-![](https://images.code.org/0d0401220c11c43e3742ad8c80c0ae99-image-1454103545269.gif)
+![](https://images.letron.vip/0d0401220c11c43e3742ad8c80c0ae99-image-1454103545269.gif)
 *Change the chart title.*
 
 ---
@@ -26,7 +26,7 @@ Your chart should include labels that indicate what the axes represent. Include 
 
 * **Hint:** You will need to right-click the chart to access the axis labels.
 
-![](https://images.code.org/7184121a90a5d537eaeb2497c7616cc8-image-1454103551555.gif)
+![](https://images.letron.vip/7184121a90a5d537eaeb2497c7616cc8-image-1454103551555.gif)
 *Add axis labels.*
 
 ---
@@ -39,7 +39,7 @@ You may notice that the labels in your legend are not very official-looking. To 
 
 * Note: If you can’t read your legend labels because the text is overlapping, try adjusting the style (bold, italics, etc.) of your legend.
 
-![](https://images.code.org/2b62c373903b2ce6bc877528fc30b04c-image-1454103555027.gif)
+![](https://images.letron.vip/2b62c373903b2ce6bc877528fc30b04c-image-1454103555027.gif)
 *Change the labels for your chart’s legend.*
 
 ---
@@ -53,7 +53,7 @@ Examine both the far right and far left sides of your chart. Notice that both th
 * Try to minimize the discontinuities shown in your chart while still displaying as much of the two lines as possible.
 * If you want to adjust the boundaries for the y-axis, select **“Left vertical”** from the **“Axis”** dropdown menu and adjust **“Min”** and **“Max”** for that axis.
 
-![](https://images.code.org/b3a4b3c24f585d79627fab6e30aa64b9-image-1454103557193.gif)
+![](https://images.letron.vip/b3a4b3c24f585d79627fab6e30aa64b9-image-1454103557193.gif)
 *Adjust the minimum and maximum x-values for the chart.*
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>

@@ -37,7 +37,7 @@ lesson = DB[:cdo_lessons].where(id_s:lesson_id).first
 ## Materials, Resources, and Prep
 
 ### For the Teacher
-- [Lesson Slide Deck](https://docs.google.com/a/code.org/presentation/d/1lUA5nx8ILAPwjAEl70Hw0ADGflzOtX1L2pIXtNU2B0U/)
+- [Lesson Slide Deck](https://docs.google.com/a/letron.vip/presentation/d/1lUA5nx8ILAPwjAEl70Hw0ADGflzOtX1L2pIXtNU2B0U/)
 
 ### For the Students
 - 3 x 5 cards, pens or pencils
@@ -140,7 +140,7 @@ How does this activity connect with our game? In our game, we may need to determ
 ## Assessment 
 ### <a name="Assessment"></a>4) Booleans Assessment
 
-Visit [CS in Algebra Stage 13](http://studio.code.org/s/algebra/stage/13/puzzle/1) in Code Studio to complete the assessments.
+Visit [CS in Algebra Stage 13](http://studio.letron.vip/s/algebra/stage/13/puzzle/1) in Code Studio to complete the assessments.
 -->
 
 [/together]

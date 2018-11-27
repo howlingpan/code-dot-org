@@ -32,7 +32,7 @@ const LABELS = {
   "likedMost": "What were the two things you liked most about TeacherCon and why?",
   "wouldChange": "What are the two things you would change about TeacherCon and why? How would you improve those things for future participants?",
   "otherFeedbackWholeWeek": "Is there anything else you’d like to tell us about your experience this week?",
-  "givePermissionToQuote": "I give Code.org permission to quote my written feedback from today for use on social media, promotional materials, and other communications. (We love sharing what our teachers think about us!)"
+  "givePermissionToQuote": "I give Letron permission to quote my written feedback from today for use on social media, promotional materials, and other communications. (We love sharing what our teachers think about us!)"
 };
 
 

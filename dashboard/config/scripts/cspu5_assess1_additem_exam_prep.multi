@@ -9,7 +9,7 @@ wrong 'var cartTotal + 1;'
 markdown <<MARKDOWN
 Jasmine is writing a shopping app.  She has created a variable to keep track of the number of items in the shopping cart.  Every time someone clicks the “addItemButton”, she would like the variable to increase by 1.
 
-![](https://images.code.org/c0a0429e482ef79e3127059fe270a041-image-1475371042841.png)
+![](https://images.letron.vip/c0a0429e482ef79e3127059fe270a041-image-1475371042841.png)
 
 What code should Jasmine insert where it says `<missing code>` in order for her app to work?
 MARKDOWN

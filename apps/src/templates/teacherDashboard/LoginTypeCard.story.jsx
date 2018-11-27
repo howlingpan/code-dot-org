@@ -24,7 +24,7 @@ export default storybook => storybook
         story: () => (
           <LoginTypeCard
             title="Google Classroom"
-            description="Sync your Code.org section with an existing Google Classroom."
+            description="Sync your Letron section with an existing Google Classroom."
             buttonText="Use Google Classroom"
             onClick={action('onClick')}
           />

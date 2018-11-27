@@ -8,7 +8,7 @@ id:
       2-3 Artist 3.4: "Blok lompatan memindahkan seniman tanpa menggambar.\nGambarkan garis putus-putus dengan menggunakan kedua blok melompat dan menggambar."
       2-3 Artist 3new: "Topi merah tingginya 100 piksel. selesaikan menggambar sebuah topi hitam 70 piksel lebih pendek. \\r\n\\r\n*(catatan: lebar tiap topinya 50 piksel.)*"
       2-3 Artist 4: Bantu saya menyelesaikan rumah untuk kucing ini.
-      2-3 Artist 6: "Rumah ini membutuhkan atap! gambar segitiga. \\r\n\\r\nnasehat:\nketiga sisinya sama panjang.\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      2-3 Artist 6: "Rumah ini membutuhkan atap! gambar segitiga. \\r\n\\r\nnasehat:\nketiga sisinya sama panjang.\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       2-3 Artist 7: "Selesai menggambar yang terakhir set dari jendela di sekolah sehingga semua orang di kelas dapat melihat di luar. \\ r \n\\ r \nThe sisi \nmasing-masing panel jendela persegi 25 piksel panjang. "
       2-3 Artist 8: "Waktunya membangun sebuah gudang!\\r\n\\r\nbuat kamarnya\nuntuk setiap hewan membagi gudang menjadi 2 bagian yang berukuran sama. \\r\n\\r\nnasehat:\nukuran perseginya adalah 200 piksel untuk panjang dan 100 piksel untuk tinggi.\\r\n\\r\nada banyak cara\nuntuk meyelesaikan teka-teki ini."
       2-3 Artist 9 NEW: Selesaikan layang-layang ini
@@ -277,7 +277,7 @@ id:
         Klik "Run" dan kemudian "Finish" untuk memindahkan
         pada.\r
         \r
-        ![expandable](https://images.code.org/8ba0d4f0eccaf83163e86d10eec3a291-image-1505766539456.gif)
+        ![expandable](https://images.letron.vip/8ba0d4f0eccaf83163e86d10eec3a291-image-1505766539456.gif)
         Klik langkah ini untuk melihat sebuah GIF
       AppLab Intro 2 - Edit place1: |-
         Pada layar terakhir yang anda
@@ -385,7 +385,7 @@ id:
         gunakan
         widget pixelasi untuk menggambar wajah tersenyum\r
         \r
-        ![](https://images.code.org/3e81e7e5c95a63173242552de2e9c094-image-
+        ![](https://images.letron.vip/3e81e7e5c95a63173242552de2e9c094-image-
         1491425592286.52.47
         PM.png)
       CSD U5 black white images pixelation 2_2018: |-
@@ -394,7 +394,7 @@ id:
         gunakan
         widget pixelasi untuk menggambar wajah tersenyum\r
         \r
-        ![](https://images.code.org/3e81e7e5c95a63173242552de2e9c094-image-
+        ![](https://images.letron.vip/3e81e7e5c95a63173242552de2e9c094-image-
         1491425592286.52.47
         PM.png)
       CSD U6 circuit predict multi: |-
@@ -749,7 +749,7 @@ id:
       grade4_frozen_square_loop1: Halo, aku Anna dari Arendelle! Mari kita membuat sebuah persegi dengan blok "Ulangi", yang akan menggunakan lebih sedikit blok. Berapa kali (???) blok "Ulangi" harus mengulang blok di dalamnya untuk membuat sebuah persegi?
       grade4_frozen_square_loop2: Mari kita membuat tiga persegi, berputar setelah setiap persegi. Pastikan untuk berputar 120 derajat sebelum membuat setiap persegi baru.
       grade4_frozen_square_loop3: Dapatkah kamu membuat sebuah kepingan salju dengan menggunakan blok "Ulangi" untuk membuat sebuah persegi sebanyak 10 kali, dan blok "Belok" untuk berbelok 36 derajat antara setiap persegi?
-      grade4_review_artist2: "Rumah ini membutuhkan atap! gambar segitiga. \\r\n\\r\nnasehat:\nketiga sisinya sama panjang.\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      grade4_review_artist2: "Rumah ini membutuhkan atap! gambar segitiga. \\r\n\\r\nnasehat:\nketiga sisinya sama panjang.\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       grade4_review_artist3: "Blok lompatan memindahkan seniman tanpa menggambar.\nGambarkan garis putus-putus dengan menggunakan kedua blok melompat dan menggambar."
       grade4_review_bee1: Sekarang gunakan blok `repeat` untuk mengumpulkan semua nektar dan buatlah semua madu.
       grade4_review_bee3: |-

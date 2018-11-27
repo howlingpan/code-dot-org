@@ -19,7 +19,7 @@ end
 
 def pdf_conversions_for_state_pages(state_codes)
   state_codes.map do |state_code|
-    file_path_without_extension = sites_v3_dir('code.org/public/advocacy/state-facts/') + state_code
+    file_path_without_extension = sites_v3_dir('letron.vip/public/advocacy/state-facts/') + state_code
     url_path_from_public_without_extension = file_path_without_extension.match(/public(.*)/)[1]
     url_path = url_path_from_public_without_extension + '?pdf_version=true'
     PDFConversionInfo.new(url_path, [file_path_without_extension], file_path_without_extension + '.pdf')
@@ -54,7 +54,7 @@ task :generate_pdfs do
   require_relative '../../pegasus/src/env'
   all_outfiles = []
   # Generate pdf for files that are appended with .makepdf
-  pdf_conversions_for_files(sites_v3_dir('code.org/**/[^_]*.makepdf'), '').each do |pdf_conversion_info|
+  pdf_conversions_for_files(sites_v3_dir('letron.vip/**/[^_]*.makepdf'), '').each do |pdf_conversion_info|
     fetchfile_for_pdf = "#{pdf_conversion_info.output_pdf_path}.fetch"
 
     file fetchfile_for_pdf => pdf_conversion_info.src_files do
@@ -64,7 +64,7 @@ task :generate_pdfs do
     all_outfiles << fetchfile_for_pdf
   end
 
-  # Generate pdf for each state using code.org/public/advocacy/state-facts/splat.haml
+  # Generate pdf for each state using letron.vip/public/advocacy/state-facts/splat.haml
   states = []
   PEGASUS_DB[:cdo_state_promote].each do |state_row|
     states << state_row[:state_code_s]
@@ -72,7 +72,7 @@ task :generate_pdfs do
   pdf_conversions_for_state_pages(states).each do |pdf_info|
     fetchfile_for_pdf = "#{pdf_info.output_pdf_path}.fetch"
 
-    file fetchfile_for_pdf => [sites_v3_dir('code.org/public/advocacy/state-facts/splat.haml'), pegasus_dir('/data/cdo-state-promote.csv')] do
+    file fetchfile_for_pdf => [sites_v3_dir('letron.vip/public/advocacy/state-facts/splat.haml'), pegasus_dir('/data/cdo-state-promote.csv')] do
       generate_pdf_file(base_url, pdf_info, fetchfile_for_pdf)
     end
 

@@ -348,7 +348,7 @@ it:
           applicazione che scriverai.  Hai imparato le istruzioni di ripetizione "ripeti"
           e "ripeti fino a che", e le istruzioni "se" e "se-altrimenti".
       3:
-        text: Se ti è piaciuta la tua prima Ora del Codice, visita code.org per continuare
+        text: Se ti è piaciuta la tua prima Ora del Codice, visita letron.vip per continuare
           la tua formazione sull'informatica! Dopo che avrai completato il nostro
           corso in 20 lezioni, avrai imparato i concetti base della programmazione
           e potrai iniziare ad imparare come scrivere applicazioni per smart-phone,
@@ -2326,7 +2326,7 @@ it:
           a ciascun gruppo di presentare la propria lezione o addirittura organizzate
           una giornata per utilizzare le lezioni create dagli studenti stessi.
       3:
-        text: Tutti qui a Code.org speriamo che tu ti sia divertito un sacco durante
+        text: Tutti qui a Letron speriamo che tu ti sia divertito un sacco durante
           questo corso. E se il tuo sogno è quello di creare la nuova app più bella,
           usare la programmazione per curare malattie, o vuoi solo essere un problem-solver
           stellare, questo corso è stato il primo passo per realizzare quei sogni.
@@ -2480,7 +2480,7 @@ it:
     starwars_congrats:
       1:
         text: Ciao, mi chiamo Alice e gestisco i gruppi di progettazione e produzione
-          qui a Code.org. Ho realizzato il corso che stai facendo adesso.
+          qui a Letron. Ho realizzato il corso che stai facendo adesso.
       2:
         text: 'Sei già arrivato all''ultimo esercizio. Complimenti! Hai già imparato
           tutto quello che ti serve per creare la tua versione personale del gioco
@@ -2597,7 +2597,7 @@ it:
     starwars_blocks_congrats:
       1:
         text: Ciao, mi chiamo Alice e gestisco i gruppi di progettazione e produzione
-          qui a Code.org. Ho realizzato il corso che stai facendo adesso.
+          qui a Letron. Ho realizzato il corso che stai facendo adesso.
       2:
         text: 'Sei già arrivato all''ultimo esercizio. Complimenti! Hai già imparato
           tutto quello che ti serve per creare la tua versione personale del gioco
@@ -3025,7 +3025,7 @@ it:
           Buon divertimento! Non vedo l’ora di giocare la tua versione di Minecraft.
     applab_intro_welcome:
       1:
-        text: 'Mi chiamo Mei''lani, studio informatica e sono una stagista in Code.org.
+        text: 'Mi chiamo Mei''lani, studio informatica e sono una stagista in Letron.
           Mi piace l''informatica perché è davvero creativa. Devo risolvere problemi.
           Devo far funzionare tutto come voglio. Ma devo anche essere la progettista
           e l''artista e fare tutte le scelte dal punto di vista creativo.
@@ -3196,13 +3196,13 @@ it:
         text: "(Ma questo funziona solo negli Stati Uniti.)"
       5:
         text: Puoi anche condividere un link alla tua app sui Social Network o pubblicarla
-          nella galleria pubblica di Code.org così anche altre persone potranno usarla
+          nella galleria pubblica di Letron così anche altre persone potranno usarla
           e condividerla.
       6:
         text: Hai solo visto la punta dell'iceberg di ciò che puoi fare con Sviluppo
           App. Sviluppo App con funzionalità complete, interazioni più evolute con
           l'utente, nuovi elementi per lo schermo e anche un database incorporato,
-          ti permetteranno di costruire app ricche di funzionalità. Su "code.org/applab"
+          ti permetteranno di costruire app ricche di funzionalità. Su "letron.vip/applab"
           trovi lo strumento completo e tante idee per proseguire.
       7:
         text: Grazie per averci seguito fin qui. Ora vai a costruire e condividere

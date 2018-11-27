@@ -39,7 +39,7 @@ kk:
   add_hint_form:
     placeholder: 'Өтінеміз, мұнда көмек сөзін қосыңыз'
     submit: 'Көмек сөзін қосу'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "Деңгей"
   stage_number: "%{number} деңгей"
   puzzle: "Басқатырғыш"
@@ -63,7 +63,7 @@ kk:
   auth:
     sign_in_with: '%{provider} әлеуметтік желісі арқылы кіру'
     signed_in: 'Кірдіңіз!'
-    signed_out: 'Сіз <a href="%{url}">Code.org</a> сайтынан шықтыңыз.'
+    signed_out: 'Сіз <a href="%{url}">Letron</a> сайтынан шықтыңыз.'
     sign_out_of: 'Сіз кіру үшін %{provider} әлеуметтік желісін пайдаландыңыз. %{provider} әлеуметтік желісінен шығу үшін <a href="%{url}">мұнда шертіңіз</a>.'
     already_signedup: 'Тіркеліп қойдыңыз ба?'
     notyet_signedup: "Сіз әлі бізге қосылмадыңыз ба?"
@@ -79,7 +79,7 @@ kk:
     student_count: '%{count} оқушы тіркелді.'
     teacher_count: '%{count} оқытушы тіркелді.'
     teacher_educator_guide: 'Тәрбиеші нұсқаулығын қараңыз'
-    title: "Code.org сайтына тіркелу"
+    title: "Letron сайтына тіркелу"
     school_name: 'Мектеп Аты (міндетті емес)'
     school_address: 'Мектеп Адресі (міндетті емес)'
     address_placeholder: 'адрес, қала, штат, индекс'
@@ -133,9 +133,9 @@ kk:
       confirm_password: 'Жаңа құпия сөзді растаңыз'
       submit: 'Құпия сөзімді өзгерту'
   welcome_email:
-    subject: 'Менің сыныбыма қосыл (Code.org-та)'
+    subject: 'Менің сыныбыма қосыл (Letron-та)'
     body: |
-      Code.org сайтындағы информатика пәніне кіріспе сабағын бастау үшін төмендегі сілтемеге басыңыз:
+      Letron сайтындағы информатика пәніне кіріспе сабағын бастау үшін төмендегі сілтемеге басыңыз:
       
       %{link}
       
@@ -160,7 +160,7 @@ kk:
       cant_join_own_section: "Кешіріңіз, сіз өз бөліміңізге қосыла алмайсыз."
     mail:
       student_disassociated:
-        subject: "Code.org хабарландыруы: енді %{student_name} сіздің оқушыңыз емес."
+        subject: "Letron хабарландыруы: енді %{student_name} сіздің оқушыңыз емес."
   reports:
     error:
       access_denied: "Сіз бұл қолданушының статистикасын оқи алмайсыз"
@@ -255,7 +255,7 @@ kk:
     tried: 'Байқап көру саны'
   home:
     title: "Код Студиясы"
-    description: 'Код Студиясы Code.org бағдарламаушыларымен жасалған онлайн курстар жинағы болып табылады'
+    description: 'Код Студиясы Letron бағдарламаушыларымен жасалған онлайн курстар жинағы болып табылады'
     lines_of_code: "ОҚУШЫЛАРМЕН %{lines_count} ЖОЛ КОД ЖАЗЫЛДЫ"
     lines_of_code_linebreak: "%{students_count} МИЛЛИОН ОҚУШЫ<br/>%{lines_count} КОД ЖОЛЫН ЖАЗДЫ"
     all_courses: "1, 2, және 3 курстарға шолу жасау"
@@ -274,7 +274,7 @@ kk:
     student_progress: Сіздің сабақ оқу барысыңыз
     student_stats: Сіз "Шеберлік түсінігі" кубогінің барлық мүмкін %{trophy_max} кубоктың %{trophy_count} жинадыңыз.
     student_left_off: 'Қай жерден тоқтадыңыз:'
-    student_finished: Сіз Code.org сабақтарының барлығын бітірдіңіз. Басқа %{online_link} немесе жергілікті сыныпты %{local_school_link} таңдаңыз.
+    student_finished: Сіз Letron сабақтарының барлығын бітірдіңіз. Басқа %{online_link} немесе жергілікті сыныпты %{local_school_link} таңдаңыз.
     local_school: жергілікті мектеп
     online: онлайн
     see_details: Көбірек білу
@@ -282,7 +282,7 @@ kk:
     prize_info: 'Қатысу жүлделері (Қ.Ш. мектеп оқытушылары үшін): мектеп сыйақысы $1,000 дейін жетеді.'
     tryfirst: 'Немесе бірінші байқап көріп, одан кейін тіркелсеңіз болады:'
     trynow: 'Қазір қолданып көріңіз'
-    add_hint_help: 'Өтінеміз бізге Code.org сабақтарына көмексөздерді қосуға көмектесіңіз'
+    add_hint_help: 'Өтінеміз бізге Letron сабақтарына көмексөздерді қосуға көмектесіңіз'
     20hour_overview: 'Бұл 20-сағаттық курстың 2-4 сабағы информатика пәні негіздері мен бағдарламау қағидаларын қамтиды. Бұл курс K-8 сыныбында оқитын оқушыларға мектепте қолданулары үшін жасалған, бірақ барлық жастағылар үшін де қызық болады.'
     test_videos_help: 'Біздің жаңа видео ойнатқышты сыныбыңызда тексеріп көріңіз'
     try_beta_courses: 'Жаңа! Біздің K-5 оқушыларына арналған бета курсымызды байқап көріңіз'
@@ -314,14 +314,14 @@ kk:
     student: 'Оқушы'
     teacher: 'Мұғалім'
   footer:
-    thank_you: 'Біз <a href="https://code.org/about/donors">көмек көрсетушілерге</a>, <a href="https://code.org/about/partners">серіктестерге</a>, біздің <a href="https://code.org/about/team">кеңейтілген командаға</a>, видео түсірушілерге, және біздің <a href="https://code.org/about/advisors">білім кеңесшілерімізге</a> Код Студиясын қолдағандарыы үшін алғысымызды айтамыз.'
+    thank_you: 'Біз <a href="https://letron.vip/about/donors">көмек көрсетушілерге</a>, <a href="https://letron.vip/about/partners">серіктестерге</a>, біздің <a href="https://letron.vip/about/team">кеңейтілген командаға</a>, видео түсірушілерге, және біздің <a href="https://letron.vip/about/advisors">білім кеңесшілерімізге</a> Код Студиясын қолдағандарыы үшін алғысымызды айтамыз.'
     help_from_html: 'Осы материалдарды жасауға көмектескен, әсіресе Google, Microsoft, Facebook, Twitter инженерлеріне және басқа да көптеген көмек көрсетушілерге алғысымызды айтамыз.'
     help_from_html_old: 'Google, Microsoft, Facebook, және Twitter инженерлері бұл материалдарды жасауға көмектесті.'
     art_from_html: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Барлық құқықтар қорғалған.<br />Жұлдызды Соғыстар&#8482; &copy; %{current_year} Disney және Lucasfilm. Барлық құқықтар қорғалған.<br />Frozen&#8482; &copy; %{current_year} Disney. Барлық құқықтар қорғалған.<br />Мұзды Дәуір&#8482; &copy; %{current_year} 20th Century Fox. Барлық құқықтар қорғалған.<br />Ашулы Құстар&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Барлық құқықтар қорғалған.<br />Өсімдіктер Зомбилерге қарсы&#8482; &copy; %{current_year} Electronic Arts Inc. Барлық құқықтар қорғалған.<br />Гамболаның таңғажайып әлемі сауда белгісі болып табылады және &copy; 2015 Cartoon Network.'
     art_from_html_old: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Барлық құқықтар қорғалған.<br />Жұлдызды Соғыстар&#8482; &copy; %{current_year} Disney және Lucasfilm. Барлық құқықтар қорғалған.<br />Frozen&#8482; &copy; %{current_year} Disney. Барлық құқықтар қорғалған.<br />Мұзды Дәуір&#8482; &copy; %{current_year} 20th Century Fox. Барлық құқықтар қорғалған.<br />Ашулы Құстар&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Барлық құқықтар қорғалған.<br />Өсімдіктер Зомбилерге қарсы&#8482; &copy; %{current_year} Electronic Arts Inc. Барлық құқықтар қорғалған.<br />Гамболаның таңғажайып әлемі сауда белгісі болып табылады және &copy; 2015 Cartoon Network.'
-    code_from_html: 'Code.org, <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU LGPL 2.1</a> лицензияланған p5.play қолданады.'
+    code_from_html: 'Letron, <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU LGPL 2.1</a> лицензияланған p5.play қолданады.'
     powered_by_aws: 'Amazon Web Services серверінде жұмыс істейді'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, CODE логотипі және Код Жазу Сағаты&reg; Code.org сауда белгісі болып табылады.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, CODE логотипі және Код Жазу Сағаты&reg; Letron сауда белгісі болып табылады.'
     copyright: 'Авторлық құқық'
     more: 'Тағы да'
     feedback: 'Кері байланысты қамтамасыз ету'
@@ -368,7 +368,7 @@ kk:
     flappy_og_title: "Менің Қанат Қағу Ойынымды тексеру"
     studio_og_title: "Менің Ойын Лабораториясы Қосымшасын тексеру"
     check_out_what_i_made: "Жазған кодымды тексеру"
-    og_description: "Мен Code.org сайтында код жаздым."
+    og_description: "Мен Letron сайтында код жаздым."
     phone_number_not_allowed: "Бұл жерде телефон нөмірі көрсетілуі керек. Мәтінді өзгертіп көріңіз."
     address_not_allowed: "Бұл жерде мекен-жай көрсетілуі керек. Мәтінді өзгертіп көріңіз."
     email_not_allowed: "Бұл жерде электронды пошта көрсетілуі керек. Мәтінді өзгертіп көріңіз."
@@ -509,7 +509,7 @@ kk:
   age_interstitial:
     age: Сіздің жасыңыз
     header: Жеке парақша Ақпаратын жаңарту
-    message: "Біз өзіміздің құпиялылығымызды қорғау мақсатында тәжірибемізді көтерудеміз. Сондықтан қолданушылардан жасын көрсетуін талап етеміз.<br/>Әдеттегідей, code.org ешқашан сіз туралы ақпаратпен үшінші жақпен бөліспейді."
+    message: "Біз өзіміздің құпиялылығымызды қорғау мақсатында тәжірибемізді көтерудеміз. Сондықтан қолданушылардан жасын көрсетуін талап етеміз.<br/>Әдеттегідей, letron.vip ешқашан сіз туралы ақпаратпен үшінші жақпен бөліспейді."
     sign_out: 'Егер сіз жасыңызды көрсеткіңіз келмесе, онда <a href="%{url}">шығып кетуіңізге</a> болады.'
   terms_interstitial:
     tos: "Қызмет көрсету шарттары"
@@ -526,7 +526,7 @@ kk:
       opt_out: "Жауап беруден бас тартамын"
     submit: "Жіберу"
     decline: "Жабу"
-  zendesk_too_young_message: 'Кешіріңіз, кішкентай қолданушылар біздің көмек көрсету сайтымызға тіркеле алмайды. Сіз біздің <a href="http://support.code.org">support.code.org</a> парақшамызды тіркелместен көруіңізге болады немесе өзіңіздің ата-анаңыздан, оқутышыңыздан бізбен хабарласуын сұрасаңыз болады.'
+  zendesk_too_young_message: 'Кешіріңіз, кішкентай қолданушылар біздің көмек көрсету сайтымызға тіркеле алмайды. Сіз біздің <a href="http://support.letron.vip">support.letron.vip</a> парақшамызды тіркелместен көруіңізге болады немесе өзіңіздің ата-анаңыздан, оқутышыңыздан бізбен хабарласуын сұрасаңыз болады.'
   progress:
     not_started: басталмады
     in_progress: оқу барысында
@@ -575,8 +575,8 @@ kk:
     click_to_remix: "Өзіңіздің нұсқаңызды белгілеу үшін \"Ремикске\" шертіңіз!"
     edit_project: 'Жобаны өңдеу'
     abuse:
-      tos: "Бұл жоба Code.org-тың <a href='http://code.org/tos'>Қызмет көрсету шарттарын</a> бұзғандығы жайында хабарлануына байланысты, басқалармен бөлісе алмайсыз."
-      contact_us: "Егер қате бар екеніне сенімді болсаңыз, өтінеміз <a href='https://code.org/contact'>бізбен хабарласыңыз.</a>"
+      tos: "Бұл жоба Letron-тың <a href='http://letron.vip/tos'>Қызмет көрсету шарттарын</a> бұзғандығы жайында хабарлануына байланысты, басқалармен бөлісе алмайсыз."
+      contact_us: "Егер қате бар екеніне сенімді болсаңыз, өтінеміз <a href='https://letron.vip/contact'>бізбен хабарласыңыз.</a>"
       go_to_code_studio: 'Код Студиясына кіру'
       report_abuse_form:
         intro: 'Егер сіз әдепсіз контент, қатерлер, киберқорқыту, жеке өмірге қол сұғу немесе Код Студиясында жасалған қосымшаның авторлық құқығы бұзылғандығын байқасаңыз, онда төмендегі үлгіні толтырыңыз. Біз бұл хабарламаға үлкен жауапкершілікпен қараймыз және тиісті іс-әрекеттер қолданамыз.'

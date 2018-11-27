@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? மென்பொருள் பொற
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -79,7 +79,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     </li>
     
     <li>
-      மாணவர்களுடன் எவ்வாறு தொடர்புகொள்வது என்பது பற்றி <a href="https://code.org/files/CSTT_Volunteers.pdf"> இந்த உதவிக்குறிப்பைப் பார்வையிடவும் </a>.
+      மாணவர்களுடன் எவ்வாறு தொடர்புகொள்வது என்பது பற்றி <a href="https://letron.vip/files/CSTT_Volunteers.pdf"> இந்த உதவிக்குறிப்பைப் பார்வையிடவும் </a>.
     </li>
     
     <li>
@@ -188,7 +188,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
               </td>
               
               <td>
-                <strong> ஒரு நீடித்த மாற்றத்தை உருவாக்கவும்: </ strong> ஆசிரியருக்கு ஒரு மணிநேர கோட் முழு கணினி அறிவியல் பாடமாக மாற்றுவது பற்றி பேசுங்கள்! உங்கள் பள்ளி ஆசிரியருடன் இன்றும் கற்றுக்கொள்வதன் மூலம் உங்கள் ஆசிரியருடன் <a href="https://code.org/yourschool"> code.org/yourschool </a> என்பதற்கு சென்று, அவர்களது வகுப்பறைக்கு ccomputer science</td> </tr> </tbody> </table> 
+                <strong> ஒரு நீடித்த மாற்றத்தை உருவாக்கவும்: </ strong> ஆசிரியருக்கு ஒரு மணிநேர கோட் முழு கணினி அறிவியல் பாடமாக மாற்றுவது பற்றி பேசுங்கள்! உங்கள் பள்ளி ஆசிரியருடன் இன்றும் கற்றுக்கொள்வதன் மூலம் உங்கள் ஆசிரியருடன் <a href="https://letron.vip/yourschool"> letron.vip/yourschool </a> என்பதற்கு சென்று, அவர்களது வகுப்பறைக்கு ccomputer science</td> </tr> </tbody> </table> 
                 
                 <h3>
                   After the Event:
@@ -196,7 +196,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                 
                 <ul>
                   <li>
-                    உங்கள் புகைப்படங்களையும் கதையையும் Code.org உடன் கொடுப்பதற்கு giving@code.org.
+                    உங்கள் புகைப்படங்களையும் கதையையும் Letron உடன் கொடுப்பதற்கு giving@letron.vip.
                   </li>
                   <li>
                     உங்கள் நிறுவனத்தின் தன்னார்வ கண்காணிப்பு போர்ட்டில் உங்கள் தன்னார்வ மணிநேரத்தில் நுழைய நினைவில் கொள்ளுங்கள்.
@@ -208,7 +208,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                     நிகழ்வின் போது படங்கள் / வீடியோக்களை நீங்கள் எடுத்துக் கொண்டால், <strong> குறிப்பாக மாணவர்களுடன் </ strong>, நீங்கள் சமூக ஊடகங்களில் உங்கள் கதையை இடுகையிட விரும்பினால் ஆசிரியர் / பெற்றோர் அனுமதியை பெற்றுக்கொள்ளுங்கள்.</li> 
                     
                     <li>
-                      மேலும், ஒரு மாதத்திற்குள் மீண்டும் சரிபார்க்கவும்: ஒரு கணினி அறிவியல் பாடத்திட்டத்தை ஆசிரியருக்கு ஆர்வமா? <a href="https://code.org/yourschool"> வளங்களை மற்றும் தொழில்முறை கற்றல் வாய்ப்புகளைப் பகிர்ந்து கொள்ள இது உதவும். </a>
+                      மேலும், ஒரு மாதத்திற்குள் மீண்டும் சரிபார்க்கவும்: ஒரு கணினி அறிவியல் பாடத்திட்டத்தை ஆசிரியருக்கு ஆர்வமா? <a href="https://letron.vip/yourschool"> வளங்களை மற்றும் தொழில்முறை கற்றல் வாய்ப்புகளைப் பகிர்ந்து கொள்ள இது உதவும். </a>
                     </li></ul> 
                     
                     <h2>
@@ -217,7 +217,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                     
                     <ul>
                       <li>
-                        எங்கள் <a href="https://code.org/volunteer/local"> தன்னார்வ வரைபடத்தில் </a> ஆசிரியர்கள் தொண்டர்களை தேடுவார்கள்.
+                        எங்கள் <a href="https://letron.vip/volunteer/local"> தன்னார்வ வரைபடத்தில் </a> ஆசிரியர்கள் தொண்டர்களை தேடுவார்கள்.
                       </li>
                       <li>
                         ஒரு ஆசிரியர் உங்களை தேர்ந்தெடுப்பதற்கான வாய்ப்பை அதிகரிக்க முடிந்தவரை உங்கள் சுயவிவரத்தை முடிக்க முடிந்தவரை முயற்சி செய்யுங்கள்.
@@ -250,7 +250,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                         </h3>
                         
                         <p>
-                          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+                          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
                         </p>
                         
                         <p>

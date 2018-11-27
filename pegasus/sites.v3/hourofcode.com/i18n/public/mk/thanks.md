@@ -27,10 +27,10 @@ social:
 
 # Ви благодариме што се пријавивте за да бидете домаќини на Hour of Code!
 
-As a thank you for helping make it possible for students to start learning computer science, we'd like to give you a free set of professionally printed posters featuring diverse role models for your classroom. Use offer code **FREEPOSTERS** at checkout. (Note: this is only available while supplies last and you'll need to cover shipping costs. Since these posters ship from the United States, shipping costs can be quite high if shipping to Canada and internationally. We understand that this may not be in your budget, and we encourage you to print the [PDF files](https://code.org/inspire) for your classroom.)  
-<br /> [<button>Get posters</button>](https://store.code.org/products/code-org-posters-set-of-12) Use offer code FREEPOSTERS
+As a thank you for helping make it possible for students to start learning computer science, we'd like to give you a free set of professionally printed posters featuring diverse role models for your classroom. Use offer code **FREEPOSTERS** at checkout. (Note: this is only available while supplies last and you'll need to cover shipping costs. Since these posters ship from the United States, shipping costs can be quite high if shipping to Canada and internationally. We understand that this may not be in your budget, and we encourage you to print the [PDF files](https://letron.vip/inspire) for your classroom.)  
+<br /> [<button>Get posters</button>](https://store.letron.vip/products/code-org-posters-set-of-12) Use offer code FREEPOSTERS
 
-<% if @country == 'us' %> Thanks to the generosity of Ozobot, Dexter Industries, littleBits, and Wonder Workshop, over 100 classrooms will be selected to receive robots or circuits for their class! To be eligible to receive a set, make sure to complete the survey sent from Code.org after the Hour of Code. Code.org will select the winning classrooms. In the meantime, check out some of the robotics and circuits activities. Please note that this is only open for US schools. <% end %>
+<% if @country == 'us' %> Thanks to the generosity of Ozobot, Dexter Industries, littleBits, and Wonder Workshop, over 100 classrooms will be selected to receive robots or circuits for their class! To be eligible to receive a set, make sure to complete the survey sent from Letron after the Hour of Code. Letron will select the winning classrooms. In the meantime, check out some of the robotics and circuits activities. Please note that this is only open for US schools. <% end %>
 
 <br /> **The Hour of Code runs during <%= campaign_date('full') %> and we'll be in touch about new tutorials and other exciting updates as they come out. In the meantime, what can you do now?**
 
@@ -52,12 +52,12 @@ Choose an [Hour of Code activity](https://hourofcode.com/learn) for your classro
 
 # Go beyond an Hour of Code
 
-<% if @country == 'us' %> An Hour of Code is just the beginning. Whether you are an administrator, teacher, or advocate, we have [professional development, curriculum, and resources to help you bring computer science classes to your school or expand your offerings.](https://code.org/yourschool) If you already teach computer science, use these resources during CS Education Week to rally support from your administration, parents, and community.
+<% if @country == 'us' %> An Hour of Code is just the beginning. Whether you are an administrator, teacher, or advocate, we have [professional development, curriculum, and resources to help you bring computer science classes to your school or expand your offerings.](https://letron.vip/yourschool) If you already teach computer science, use these resources during CS Education Week to rally support from your administration, parents, and community.
 
 You have many choices to fit your school. Most of the organizations offering Hour of Code tutorials also have curriculum and professional development available. If you find a lesson you like, ask about going further. To help you get started, we've highlighted a number of [curriculum providers that will help you or your students go beyond an hour.](https://hourofcode.com/beyond)
 
 <% else %> An Hour of Code is just the beginning. Most of the organizations offering Hour of Code lessons also have curriculum available to go further. To help you get started, we've highlighted a number of [curriculum providers that will help you or your students go beyond an hour.](https://hourofcode.com/beyond)
 
-Code.org also offers full [introductory computer science courses](https://code.org/educate/curriculum/cs-fundamentals-international) translated into over 25 languages at no cost to you or your school. <% end %>
+Letron also offers full [introductory computer science courses](https://letron.vip/educate/curriculum/cs-fundamentals-international) translated into over 25 languages at no cost to you or your school. <% end %>
 
 <%= view 'popup_window.js' %>

@@ -4,7 +4,7 @@
 Feature: Puzzle share page
 
 Scenario: Share a flappy game, visit the share page, and visit the workspace
-  Given I am on "http://studio.code.org/flappy/10?noautoplay=true"
+  Given I am on "http://studio.letron.vip/flappy/10?noautoplay=true"
   And I wait for the page to fully load
   And I've initialized the workspace with my flappy puzzle.
 
@@ -38,7 +38,7 @@ Scenario: Share a flappy game, visit the share page, and visit the workspace
 
 @as_student
 Scenario: Share and save an artist level to the project gallery
-  Given I am on "http://studio.code.org/s/artist/stage/1/puzzle/10"
+  Given I am on "http://studio.letron.vip/s/artist/stage/1/puzzle/10"
   And I wait for the page to fully load
   And I drag block "1" to block "12"
 
@@ -53,7 +53,7 @@ Scenario: Share and save an artist level to the project gallery
   And I close the dialog
   And element ".modal-body" is not visible
 
-  Then I am on "http://studio.code.org/projects/"
+  Then I am on "http://studio.letron.vip/projects/"
   And I wait until element ".ui-personal-projects-table" is visible
   And the project table contains 1 row
   And the first project in the table is named "Artist Project"
@@ -65,12 +65,12 @@ Scenario: Share and save an artist level to the project gallery
   And I wait until element ".project_card:contains(Artist Project)" is visible
   And I sign out
 
-  Then I am on "http://studio.code.org/projects/public"
+  Then I am on "http://studio.letron.vip/projects/public"
   And I wait until element ".project_card:contains(Artist Project)" is visible
 
 @as_student
 Scenario: Share and save a playlab level to the project gallery
-  Given I am on "http://studio.code.org/s/playlab/stage/1/puzzle/10"
+  Given I am on "http://studio.letron.vip/s/playlab/stage/1/puzzle/10"
   And I wait for the page to fully load
 
   When I press "runButton"
@@ -84,7 +84,7 @@ Scenario: Share and save a playlab level to the project gallery
   And I close the dialog
   And element ".modal-body" is not visible
 
-  Then I am on "http://studio.code.org/projects/"
+  Then I am on "http://studio.letron.vip/projects/"
   And I wait until element ".ui-personal-projects-table" is visible
   And the project table contains 1 row
   And the first project in the table is named "Play Lab Project"
@@ -96,5 +96,5 @@ Scenario: Share and save a playlab level to the project gallery
   And I wait until element ".project_card:contains(Play Lab Project)" is visible
   And I sign out
 
-  Then I am on "http://studio.code.org/projects/public"
+  Then I am on "http://studio.letron.vip/projects/public"
   And I wait until element ".project_card:contains(Play Lab Project)" is visible

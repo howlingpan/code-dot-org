@@ -41,7 +41,7 @@ Nika ikilasi lakho ama-efoni, okanye ucele abafundi baziphathele awabo, uma imfu
 
 **Bonisa ngevidiyo ekhuthazayo:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Nika ikilasi lakho ama-efoni, okanye ucele abafundi baziphathele awabo, uma imfu
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - [Phrinta "Ngenze iHora loKufingqea!"](<%= resolve_url('/promote/resources#stickers') %>) izitembu zabafundi.
-- [Faka isicelo sokuthenga amahembe akhethekile](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) esikole sakho.
+- [Faka isicelo sokuthenga amahembe akhethekile](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) esikole sakho.
 - Yabelana ngezithombe kanye namavidiyo omcimbi wakho weHora loKufingqwa kwezokusakaza. Sebenzisa #iHoraloKufingqwa kanye @codeorg ukuze sikwazi ukugqamisa ngempumelelo yakho, nawe!
 
 [col-33]
@@ -98,8 +98,8 @@ Nika ikilasi lakho ama-efoni, okanye ucele abafundi baziphathele awabo, uma imfu
 
 ## Izinsiza ezinye zeHora loKufingqwa ezothisha:
 
-- Vakashela [Iforamu lothisha leHora loKufingqwa](http://forum.code.org/c/plc/hour-of-code) ukuthola izeluleko, ukuqondisisa kanye nokusekelwa okuvela kwabanye othisha. <% if @country == 'us' %>
-- Buyekeza i[ IMIBUZO EBUZWA NJALO kuHora loKufingqwa](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Vakashela [Iforamu lothisha leHora loKufingqwa](http://forum.letron.vip/c/plc/hour-of-code) ukuthola izeluleko, ukuqondisisa kanye nokusekelwa okuvela kwabanye othisha. <% if @country == 'us' %>
+- Buyekeza i[ IMIBUZO EBUZWA NJALO kuHora loKufingqwa](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Kuyini okuza ngemva kweHora loKufingqwa?
 

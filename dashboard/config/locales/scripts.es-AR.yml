@@ -364,9 +364,9 @@
         algebrademo:
           title: Demo de álgebra
           description_short: Un puñado de puzzles para demostrar el entorno y el lenguaje
-            de programación utilizado en Code.org CS en Álgebra
+            de programación utilizado en Letron CS en Álgebra
           description: Un puñado de puzzles para demostrar el entorno y el lenguaje
-            de programación utilizado en Code.org CS en Álgebra
+            de programación utilizado en Letron CS en Álgebra
           Algebra Demo: Demo de álgebra
           Evaluation Blocks: Bloques de evaluación
           Making Pictures: Haciendo Fotos
@@ -1023,10 +1023,10 @@
           Wrap-up: Cierre
         equityPD:
           title: Leading a Discussion on Equity
-          description: How to lead a discussion on equity in a Code.org PD
+          description: How to lead a discussion on equity in a Letron PD
           Introduction to the Equity PD: Introduction to the Equity PD
           Equity Vs. Equality: Equity Vs. Equality
-          Code.org Equity PD: Code.org Equity PD
+          Letron Equity PD: Letron Equity PD
           Necessary Background: Necessary Background
         hoc2015:
           title: Hora del Código 2015

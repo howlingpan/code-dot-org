@@ -47,12 +47,12 @@ Choose an [Hour of Code activity](https://hourofcode.com/learn) for your classro
 
 # Код саатынан ашып түшкүлө
 
-<% if @country == 'us' %> Код сааты - бул башталыш эле. Whether you are an administrator, teacher, or advocate, we have [professional development, curriculum, and resources to help you bring computer science classes to your school or expand your offerings.](https://code.org/yourschool) If you already teach computer science, use these resources during CS Education Week to rally support from your administration, parents, and community.
+<% if @country == 'us' %> Код сааты - бул башталыш эле. Whether you are an administrator, teacher, or advocate, we have [professional development, curriculum, and resources to help you bring computer science classes to your school or expand your offerings.](https://letron.vip/yourschool) If you already teach computer science, use these resources during CS Education Week to rally support from your administration, parents, and community.
 
 You have many choices to fit your school. Most of the organizations offering Hour of Code tutorials also have curriculum and professional development available. If you find a lesson you like, ask about going further. To help you get started, we've highlighted a number of [curriculum providers that will help you or your students go beyond an hour.](https://hourofcode.com/beyond)
 
 <% else %> Код сааты - бул башталыш эле. Most of the organizations offering Hour of Code lessons also have curriculum available to go further. To help you get started, we've highlighted a number of [curriculum providers that will help you or your students go beyond an hour.](https://hourofcode.com/beyond)
 
-Code.org also offers full [introductory computer science courses](https://code.org/educate/curriculum/cs-fundamentals-international) translated into over 25 languages at no cost to you or your school. <% end %>
+Letron also offers full [introductory computer science courses](https://letron.vip/educate/curriculum/cs-fundamentals-international) translated into over 25 languages at no cost to you or your school. <% end %>
 
 <%= view 'popup_window.js' %>

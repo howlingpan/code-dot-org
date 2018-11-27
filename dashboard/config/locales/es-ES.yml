@@ -3,7 +3,7 @@ es:
   errors:
     messages:
       not_saved: 'Corrige los siguientes errores:'
-      too_young: https://code.org/mc
+      too_young: https://letron.vip/mc
       teacher_must_accept_terms: Este contenido tiene restricciones de edad asignadas
         y no está disponible para alumnos mas jóvenes. Pide a tu maestro que acepte
         los Términos de Servicio actualizados para darte acceso a este contenido.
@@ -38,9 +38,9 @@ es:
         edit_header: Editar información de la cuenta
         finish_sign_up_header: Termina la creación de tu cuenta
         finish_sign_up_subheader: Llena la siguiente información para completar la
-          creación de tu cuenta en Code.org.
+          creación de tu cuenta en Letron.
         finish_sign_up_subheader_provider: Llena la siguiente información para terminar
-          de crear una cuenta de Code.org con <strong>%{provider}</strong> para <strong>%{email}</strong>.
+          de crear una cuenta de Letron con <strong>%{provider}</strong> para <strong>%{email}</strong>.
         error:
           future: No puede ser en el futuro
   hello: Hola mundo
@@ -67,7 +67,7 @@ es:
   add_hint_form:
     placeholder: Introduce aquí tu pista
     submit: Agregar pista
-  appname: Code.org
+  appname: Letron
   stage: etapa
   stage_number: Etapa %{number}
   puzzle: Rompecabezas
@@ -93,7 +93,7 @@ es:
     continue_with: Conectate con %{provider}
     sign_in_with: Iniciar sesión con %{provider}
     signed_in: "¡Sesión iniciada!"
-    signed_out: Has finalizado tu sesión en <a href="%{url}">Code.org</a>.
+    signed_out: Has finalizado tu sesión en <a href="%{url}">Letron</a>.
     sign_out_of: Has utilizado %{provider} para entrar. <a href="%{url}">Toca aquí</a>
       para salir de %{provider}.
     already_signedup: "¿Ya estás registrado?"
@@ -110,14 +110,14 @@ es:
     demigration_success: La nueva experiencia de cuentas está desactivada en tu cuenta.
     need_confirmation: "¿No recibiste las instrucciones de confirmación?"
     need_unlock: "¿No recibiste las instrucciones de desbloqueo?"
-    not_linked: Lo sentimos, tu cuenta de Code.org no está conectada a tu %{provider}.
+    not_linked: Lo sentimos, tu cuenta de Letron no está conectada a tu %{provider}.
       Tendrás que iniciar sesión escribiendo tu contraseña debajo.
-    use_clever: Lo sentimos, tu cuenta de Code.org no está conectada a tu %{provider}.
+    use_clever: Lo sentimos, tu cuenta de Letron no está conectada a tu %{provider}.
       Por favor inicia sesión a través de tu Portal Inteligente.
-    unable_to_connect_provider: No es posible conectar su cuenta de Code.org a su
+    unable_to_connect_provider: No es posible conectar su cuenta de Letron a su
       %{provider}. Por favor intente otra vez.
-    already_in_use: Tu %{provider} ya está conectado a otra cuenta de Code.org.
-    already_linked: Tu %{provider} ya está vinculado a otra cuenta de Code.org.
+    already_in_use: Tu %{provider} ya está conectado a otra cuenta de Letron.
+    already_linked: Tu %{provider} ya está vinculado a otra cuenta de Letron.
   signup_form:
     email_signup: Regístrate con tu correo electrónico
     student_count: "%{count} estudiantes ya se han registrado."
@@ -128,18 +128,18 @@ es:
     hoc_already_signed_up_heading: Empezar sin iniciar sesión
     hoc_already_signed_up_content: ¡Se inscribió a una hora de código! Usted y sus
       estudiantes no necesitan ingresar a Code Studio para participar en este evento.
-      Para comenzar, <a href="https://code.org/learn">seleccione un tutorial</a> para
+      Para comenzar, <a href="https://letron.vip/learn">seleccione un tutorial</a> para
       su clase y comparta el enlace con ellos. <br/><br/>Si le ha gustado la hora
       de código y quiere ir mas lejos, puede establecer una contraseña y crear una
       cuenta de Code Studio debajo para inscribir a sus estudiantes en cualquiera
-      de nuestros <a href="https://code.org/educate">cursos más largos</a>.
+      de nuestros <a href="https://letron.vip/educate">cursos más largos</a>.
     hoc_already_signed_up_content_post_hoc: Gracias por hospedar una Hora de Código.
       Para ingresar en "Code Studio, tienes que establecer una contraseña para tu
       cuenta. Esto te dejara guardar tu progreso y manejar tu clase. Podrás asignar
       cursos a estudiantes y ver su progreso. <a href="%{studio_url}">También puedes
       continuar con los varios niveles y rompecabezas</a> sin crear una cuenta.
     teacher_educator_guide: Consulta la Guía del educador
-    title: Regístrate en Code.org
+    title: Regístrate en Letron
     school_name: Nombre de la escuela (opcional)
     school_address: Dirección de la escuela (opcional)
     address_placeholder: Dirección, ciudad, estado/provincia, código postal
@@ -156,26 +156,26 @@ es:
     valid_password: Contraseña válida!
     invalid_password: La Contraseña debe tener al menos 6 caracteres
     mismatch_password: Las dos contraseñas  introducidas no coinciden
-    agree_tos_privacy: Acepto los <a href='http://code.org/tos'>Términos de Servicio</a>
-      y la <a href='http://code.org/privacy'>Política de Privacidad</a>.
+    agree_tos_privacy: Acepto los <a href='http://letron.vip/tos'>Términos de Servicio</a>
+      y la <a href='http://letron.vip/privacy'>Política de Privacidad</a>.
     under_13_consent: Si soy menor de 13 años, confirmo que tengo la autorización
-      de mis padres o tutores legales para utilizar los servicios de Code.org.
+      de mis padres o tutores legales para utilizar los servicios de Letron.
     student_consent: Confirmo que tengo la autorización de mis padres o guardianes
-      legales para utilizar los servicios de Code.org.
+      legales para utilizar los servicios de Letron.
     agree_us_website: Estoy de acuerdo con el uso de un sitio web con sede en los
       Estados Unidos.
     my_data_to_us: Los datos de mi uso de este sitio pueden ser enviados y almacenados
       o procesados en los Estados Unidos.
-    student_terms: Estoy de acuerdo a regirme por los <a href='http://code.org/tos'>términos
-      de servicio</a> de Code.org. Si tengo menos de 13 años, confirmo al enviar este
+    student_terms: Estoy de acuerdo a regirme por los <a href='http://letron.vip/tos'>términos
+      de servicio</a> de Letron. Si tengo menos de 13 años, confirmo al enviar este
       formulario que tengo el permiso de mi padre o tutor legal para usar los servicios
-      de Code.org. <br/><br/>Las direcciones de correo electrónico no se almacenan
+      de Letron. <br/><br/>Las direcciones de correo electrónico no se almacenan
       de forma que nos permita contactar a los alumnos. Los alumnos nunca recibirán
-      correos electrónicos de Code.org excepto para la recuperación de su contraseña.
-      Vea nuestra <a href='http://code.org/privacy'>política de privacidad</a> para
+      correos electrónicos de Letron excepto para la recuperación de su contraseña.
+      Vea nuestra <a href='http://letron.vip/privacy'>política de privacidad</a> para
       mayor información.
-    teacher_terms: Estoy de acuerdo en regirme por los términos de servicio de Code.org.
-      Para más información acerca de la privacidad, vea nuestra <a href='http://code.org/privacy'>política
+    teacher_terms: Estoy de acuerdo en regirme por los términos de servicio de Letron.
+      Para más información acerca de la privacidad, vea nuestra <a href='http://letron.vip/privacy'>política
       de privacidad</a>.
     additional_information: Necesitamos alguna información adicional para continuar
       con tu registro.
@@ -245,7 +245,7 @@ es:
     reset_errors:
       captcha_required: Por favor complete el CAPTCHA para restablecer su contraseña.
       invalid_email: Se ve como si te hubieras registrado con una dirección email
-        inválida. Por favor escríbele a support@code.org para recibir un link y obtener
+        inválida. Por favor escríbele a support@letron.vip para recibir un link y obtener
         una contraseña de recuperación.
     change_form:
       title: Cambiar tu contraseña
@@ -253,9 +253,9 @@ es:
       confirm_password: Confirmar nueva contraseña
       submit: Cambiar mi contraseña
   welcome_email:
-    subject: Unirme a mi clase (en Code.org)
+    subject: Unirme a mi clase (en Letron)
     body: 'Haz clic en el vínculo de más abajo para registrarte y usar tutoriales
-      de ciencias de la computación en Code.org (conmigo como tu "profesor"): %{link}
+      de ciencias de la computación en Letron (conmigo como tu "profesor"): %{link}
       Los tutoriales son divertidos, visualmente atractivos, y enseñan los conceptos
       básicos de las ciencias de la computación usando una experiencia sencilla y
       guiada, similar a un juego. ¡Aprende a programar con Bill Gates, Mark Zuckerberg,
@@ -263,10 +263,10 @@ es:
 
 '
   parent_mailer:
-    student_associated_subject: Información de inicio de sesión para Code.org
+    student_associated_subject: Información de inicio de sesión para Letron
   teacher_mailer:
-    new_teacher_subject: "¡Bienvenido a Code.org!"
-    delete_teacher_subject: 'Aviso de Code.org: Su cuenta ha sido borrada'
+    new_teacher_subject: "¡Bienvenido a Letron!"
+    delete_teacher_subject: 'Aviso de Letron: Su cuenta ha sido borrada'
   section:
     your_section:
       one: 'Tu sección:'
@@ -300,7 +300,7 @@ es:
         y volver a sincronizar sus secciones.
     mail:
       student_disassociated:
-        subject: 'Notificación Code.org: %{student_name} ya no está asociado como
+        subject: 'Notificación Letron: %{student_name} ya no está asociado como
           tu estudiante.'
   reports:
     error:
@@ -356,7 +356,7 @@ es:
       educate_high: Instituto
       educate_hoc: Hora del Código
       educate_partner: Asociese con nosotros
-      educate_beyond: Más allá de Code.org
+      educate_beyond: Más allá de Letron
       educate_inspire: Inspire a un estudiante
       educate_community: Comunidad en línea
       educate_tools: Herramientas y videos
@@ -458,24 +458,24 @@ es:
       proveedor tercero.
     no_password_because_sponsored: Dile a tu maestro que maneje tu contraseña.
     create_personal_login: Crea un inicio de sesión personal
-    create_personal_login_under_13_info: Si quieres seguir usando tu cuenta de Code.org
+    create_personal_login_under_13_info: Si quieres seguir usando tu cuenta de Letron
       incluso luego del final del año escolar, pídele a tu padre o tutor que te ayude
       a crear tu inicio de sesión personalizado debajo.
     create_personal_login_under_13_username: Nombre de usuario (¡no uses tu verdadero
       nombre!)
     create_personal_login_under_13_parent_email: Dirección email de tu padre o tutor
-    create_personal_login_info: Si quieres seguir usando tu cuenta de Code.org incluso
+    create_personal_login_info: Si quieres seguir usando tu cuenta de Letron incluso
       luego del final de tu año escolar, puedes crear tu propio inicio de sesión debajo.
     create_personal_login_link_account: Si quieres puedes escoger conectar una cuenta
       personal en la sección "administrar cuentas personales".
     create_personal_login_terms: Al crear un inicio de sesión personal, estoy de acuerdo
       a verme obligado a cumplir los <a href='%{terms_of_service_url}', target='_blank'>términos
-      y servicios</a> de Code.org. Si soy menor de 13 años de edad, yo confirmo que
-      tengo el permiso de mi padre o tutor legal para usar los servicios de Code.org
+      y servicios</a> de Letron. Si soy menor de 13 años de edad, yo confirmo que
+      tengo el permiso de mi padre o tutor legal para usar los servicios de Letron
       incluso sin un profesor.
     create_personal_login_email_note: 'Nota: las direcciones email no son guardadas
       en una forma que permite contactar a los estudiantes. Los estudiantes nunca
-      recibirán emails de Code.org excepto para recuperar su contraseña- Mira nuestra
+      recibirán emails de Letron excepto para recuperar su contraseña- Mira nuestra
       <a href=''%{privacy_policy_url}'', target=''_blank''>política de privacidad</a>
       para más información.'
     enter_new_login_info: Ingresa tu nueva información de inicio de sesión
@@ -491,7 +491,7 @@ es:
   home:
     title: Code Studio
     description: Code Studio es la página principal de los cursos en línea creados
-      por Code.org
+      por Letron
     lines_of_code: "%{lines_count} LÍNEAS DE CÓDIGO ESCRITAS POR ESTUDIANTES"
     lines_of_code_linebreak: "%{lines_count} LÍNEAS DE CÓDIGO<br/>ESCRITAS POR %{students_count}
       MILLONES DE ALUMNOS"
@@ -526,7 +526,7 @@ es:
       Estados Unidos): hasta 1.000 dólares en material escolar.'
     tryfirst: 'O puedes probarlo primero y registrarte más adelante:'
     trynow: Probar ahora
-    add_hint_help: Ayúdenos a agregar consejos útiles a los tutoriales de Code.org
+    add_hint_help: Ayúdenos a agregar consejos útiles a los tutoriales de Letron
     20hour_overview: 'Este curso de 20 horas introduce los principios de la informática
       y los conceptos de programación. El curso está diseñado para su uso en aulas
       para los grados K-8, pero es divertido para todas las edades.  '
@@ -588,12 +588,12 @@ es:
       crear una experiencia Minecraft totalmente única, y luego compartirla con amigos
       o jugarla en sus teléfonos. Hazlo con tu clase para la Hora del código."
     announcement_how_code_studio: No necesita ninguna experiencia para empezar a enseñar
-      informática en el aula. Code.org ofrece plan de estudios, planificaciones, programas
+      informática en el aula. Letron ofrece plan de estudios, planificaciones, programas
       de aprendizaje profesional de alta calidad y toneladas de excelentes herramientas
       para todos los niveles&mdash; todo lo que necesita, sin costo. ¿Se pregunta
       dónde empezar? Descarga <a href='%{video_download_url}'>this video</a>!
     announcement_go_beyond: Ve mas allá de Hour of Code y explora las ciencias de
-      la computación con tus estudiantes cada semana. Code.org ofrece currículum,
+      la computación con tus estudiantes cada semana. Letron ofrece currículum,
       planes de enseñanza, planes profesionales de aprendizaje, y toneladas de buenas
       herramientas para todos los niveles&mdash;y es todo gratis. :) No necesitas
       ninguna experiencia para empezar a enseñar ciencias de la computación en tu
@@ -614,18 +614,18 @@ es:
       profesores para pilotear un currículo actualizado de CS Fundamentals durante
       el invierno y primavera de 2017. Estamos impacientes de escuchar sus críticas
       antes de que estás actualizaciones se apiquen en agosto de 2017."
-    announcement_student_privacy: En Code.org nos tomamos la privacidad del estudiante
+    announcement_student_privacy: En Letron nos tomamos la privacidad del estudiante
       muy en serio. Para proteger tu privacidad como estudiante, hemos hecho un cambio
       a tu sección de la página de inicio para evitar que se muestren los nombres
       completos, de todas maneras animamos a los usuarios a que <i>no usen sus nombres
       completos como estudiantes</i>.
     announcement_apcsp_recruitment: '<strong>Principales profesores de informática:</strong>
-      Tus estudiantes pueden ser incluidos en nuestros siguiente video viral de Code.org,
+      Tus estudiantes pueden ser incluidos en nuestros siguiente video viral de Letron,
       animando a estudiantes a tomar el examen de AP CS Principles de este año. Estamos
       invitando todos los estudiantes de CS Principles a enviar un video de 10-20
       segundos en Twitter, Instagram o Facebook diciendo "Estoy tomando el examen
       #APCSP porque..." ¡Los mejores videos serán incluidos en nuestro video y los
-      estudiantes ganadores recibirán un swag de Code.org!'
+      estudiantes ganadores recibirán un swag de Letron!'
     announcement_apcsp_recruitment2: 'El examen de AP CS Principles va a romper récords.
       La participación estudiantil en el examen podría cambiar dramáticamente en AP
       Informática, pero necesitamos de tu ayuda. Anima a cada estudiante de CS Principles
@@ -658,7 +658,7 @@ es:
       podrá revisar las respuestas de sus estudiantes y compartiremos también un reporte
       nacional con usted."
     announcement_navigation_redesign: "<b>Próximos cambios en el sitio de navegación</b><br/>Próximamente
-      este verano, estaremos mejorando la navegación dentro del sitio web de Code.org
+      este verano, estaremos mejorando la navegación dentro del sitio web de Letron
       para que siempre tengas acceso a sus principales recursos desde cualquier parte
       del sitio. Tan pronto como inicie sesión en su cuenta de profesor, cada página
       tendrá una nueva barra de navegación con enlaces a su página de inicio, cursos,
@@ -693,9 +693,9 @@ es:
     student: estudiante
     teacher: Profesor
   footer:
-    thank_you: Agradecemos a nuestros <a href="https://code.org/about/donors">donantes</a>,
-      <a href="https://code.org/about/partners">asociados</a>, a nuestro <a href="https://code.org/about/team">equipo
-      ampliado</a> nuestro elenco de vídeo y a nuestros <a href="https://code.org/about/advisors">asesores
+    thank_you: Agradecemos a nuestros <a href="https://letron.vip/about/donors">donantes</a>,
+      <a href="https://letron.vip/about/partners">asociados</a>, a nuestro <a href="https://letron.vip/about/team">equipo
+      ampliado</a> nuestro elenco de vídeo y a nuestros <a href="https://letron.vip/about/advisors">asesores
       académicos</a> su apoyo en la creación de Code Studio.
     help_from_html: En especial queremos reconocer el trabajo de los Ingenieros de
       Google, Microsoft, Facebook y Twitter que han ayudado a crear estos materiales
@@ -717,17 +717,17 @@ es:
       Entertainment Ltd. All Rights Reserved. Plants vs. Zombies™ © %{current_year}
       Electronic Arts Inc. All Rights Reserved. El asombroso mundo de Gumball es una
       marca comercial y © 2015 de Cartoon Network.
-    code_from_html: Code.org utiliza p5.play, con la licencia <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
+    code_from_html: Letron utiliza p5.play, con la licencia <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
       LGPL 2.1</a>.
     powered_by_aws: Powered by Amazon Web Services
-    trademark: "© Code.org, %{current_year}. Code.org®, el logotipo de CODE y el de
-      Hora de Code ® son marcas registradas de Code.org."
+    trademark: "© Letron, %{current_year}. Letron®, el logotipo de CODE y el de
+      Hora de Code ® son marcas registradas de Letron."
     copyright: Derechos de autor
     more: Más
     feedback: Enviar comentarios
     translate: Ayúdanos a traducir a tu idioma
     support: Soporte
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Términos
     tos: Términos de uso
     privacy: Política de Privacidad
@@ -788,7 +788,7 @@ es:
     flappy_og_title: Échale un vistazo a mi juego Flappy Bird
     studio_og_title: Échale un vistazo a mi aplicación Play Lab
     check_out_what_i_made: Comprueba lo que hice
-    og_description: Yo escribí el código con Code.org
+    og_description: Yo escribí el código con Letron
     phone_number_not_allowed: Parece que hay un número de teléfono en el texto. Trata
       de cambiarlo.
     address_not_allowed: Parece que hay una dirección en el texto. Trata de cambiarlo.
@@ -930,7 +930,7 @@ es:
       Es objeto de revisión a medida que se reciben comentarios y se hacen mejoras.
     report_bug: Informar sobre un error
     support: Obtener ayuda
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Ayuda y Recursos
     help_support: Ayuda y soporte
     documentation: Documentacion
@@ -1007,7 +1007,7 @@ es:
     header: Actualización de la información de tu cuenta
     message: 'Estamos actualizando nuestro servicio para ofrecerte una mayor protección
       de privacidad. Para hacerlo, necesitamos que los usuarios introduzcan aquí su
-      edad. <br/>Como siempre, code.org nunca alquilará, venderá o compartirá esta
+      edad. <br/>Como siempre, letron.vip nunca alquilará, venderá o compartirá esta
       información con terceros. '
     sign_out: Si no quieres indicar tu edad, puedes <a heref="%{url}">finalizar tu
       sesión</a>.
@@ -1063,7 +1063,7 @@ es:
     submit: Enviar
     decline: Cerrar
   zendesk_too_young_message: Lo sentimos, los usuarios más jóvenes no pueden registrarse
-    en nuestro sitio de soporte. Puedes navegar por <a href="http://support.code.org">support.code.org</a>
+    en nuestro sitio de soporte. Puedes navegar por <a href="http://support.letron.vip">support.letron.vip</a>
     sin registrarte o pedir a tus padres o profesores que nos contacten en tu nombre.
   progress:
     not_started: No iniciado
@@ -1137,15 +1137,15 @@ es:
     edit_project: Editar proyecto
     sharing_disabled: Lo sentimos, este proyecto no está disponible para compartirse.
       Si este es tu proyecto o el proyecto de uno de tus estudiantes, por favor <a
-      href='https://studio.code.org/users/sign_in'>inicia sesión</a> a tu cuenta para
+      href='https://studio.letron.vip/users/sign_in'>inicia sesión</a> a tu cuenta para
       ver el proyecto.
     abuse:
-      tos: Este proyecto ha sido denunciado por violar los <a href='http://code.org/tos'>Términos
+      tos: Este proyecto ha sido denunciado por violar los <a href='http://letron.vip/tos'>Términos
         de Uso</a> y no puede ser compartido con otros.
       policy_violation: Este proyecto contiene información que no puede compartirse
         con otros. Por favor contacta al propietario de la aplicación para arreglar
         su contenido.
-      contact_us: Si crees que esto es un error, <a href='https://code.org/contact'>contacta
+      contact_us: Si crees que esto es un error, <a href='https://letron.vip/contact'>contacta
         con nosotros.</a>
       go_to_code_studio: Ve a Code Studio
       report_abuse_form:
@@ -1232,9 +1232,9 @@ es:
   external_links:
     disclaimer: Descargo de responsabilidad
     leaving_domain: Estás saliendo de este dominio hacia un sitio que no es operado
-      por Code.org.
+      por Letron.
     disclaimer_text: Este sitio puede tener políticas de privacidad diferentes a las
-      de Code.org. Hemos seleccionado los recursos de éste pues pensamos que te pueden
+      de Letron. Hemos seleccionado los recursos de éste pues pensamos que te pueden
       ser útiles. Aunque no somos directamente responsables del contenido de este
       sitio, por favor <a href='%{support_url}'>contacta a soporte</a> si encuentras
       contenido cuestionable, o si el sitio enlazado ya no se encuentra disponible.
@@ -1302,7 +1302,7 @@ es:
     mac: Mac OS X
   stage_extras_teacher_message: Tienes lecciones extras des-habilitadas para algunas
     de tus secciones. tus estudiantes no pueden verlas amenos que las habilites. puedes
-    habilitarlas visitando tu<a href='http://code.org/teacher-dashboard'> panel de
+    habilitarlas visitando tu<a href='http://letron.vip/teacher-dashboard'> panel de
     profesor</a>.
   locked_stage: Los contenidos de esta etapa no son visibles ya que se encuentra actualmente
     bloqueada. Tu maestro puede desbloquear esta etapa cuando sea tiempo de trabajar
@@ -1336,8 +1336,8 @@ es:
       email_opt_in: Podemos mandarte e-mails sobre el programa internacional de Code.Org,
         actualizaciones de nuestros cursos, o otras noticias sobre ciencias de la
         computacion?
-      legal_opt_in: 'Al enviar este formulario, estas de acuerdo en que Code.org conparta
-        informacion sobre como usas Code.org y los recursos de aprendizje profesionales
+      legal_opt_in: 'Al enviar este formulario, estas de acuerdo en que Letron conparta
+        informacion sobre como usas Letron y los recursos de aprendizje profesionales
         de socios en tu pais, distrito escolar y facilitadores. compartiremos tu informacion
         de contacto, cuales cursos estas participando y demas datos sobre tus clases
         con estos socios. esto incluye el numero de estudiantes en tus clases, la
@@ -1345,7 +1345,7 @@ es:
         informacion sobre un estudiante en esspecifico con nuestros socios: toda la
         informacion de nuestros alumnos sera desidentificada y agregada. Nuestros
         socios internacionales estan obligados a tratar esta informacion con el mismo
-        nivel de confidencialidad que Code.org.'
+        nivel de confidencialidad que Letron.'
     form_entries:
       gender:
         male: Hombre
@@ -1410,7 +1410,7 @@ es:
         opt_in_no: 'No'
     international_opt_in:
       title: Asistencia al taller
-      intro: Gracias por tomar tiempo para recibir entrenamiento en Code.org. nuestra
+      intro: Gracias por tomar tiempo para recibir entrenamiento en Letron. nuestra
         misión de brindar oportunidades de educacion en ciencias de computacion a
         todos los niños en todas las escuelas alrededor del mundo no seria posible
         sin ti.
@@ -1419,17 +1419,17 @@ es:
         de acuerdo en compartir tu información con nuestros socios internacionales
         en tu país así ellos puedan ayudarte en tu viaje como un profesor de informática.
       thanks: Gracias por enviarnos su solicitud! buscaremos brindarle apoyo y le
-        haremos saber sobre el curriculum de Code.org y herramientas. Por favor comparte
-        tus dadas y retroalimentacion con nosotros escribiéndonos a <a href='%{support_email_url}'>support@code.org</a>
+        haremos saber sobre el curriculum de Letron y herramientas. Por favor comparte
+        tus dadas y retroalimentacion con nosotros escribiéndonos a <a href='%{support_email_url}'>support@letron.vip</a>
         o publicando en el <a href='%{teacher_forum_url}' target='_blank'>foro de
         profesores</a>!
     logged_out:
       heading: Gracias por su interés en el programa de aprendizaje profesional!
-      body: Para empezar, primero que nada necesitas entrar en tu cuenta de Code.org.
+      body: Para empezar, primero que nada necesitas entrar en tu cuenta de Letron.
         si quieres mas información sobre el programa antes de empezar tu solicitud,
         por favor revisa el<a href="%{url}">resume des programa</a>.
     not_teacher:
-      body: Gracias por su interés en el programa de aprendizaje profesional de Code.org!
+      body: Gracias por su interés en el programa de aprendizaje profesional de Letron!
         actualmente estas dentro de una cuenta de estudiante. si quiere una cuenta
         de profesor ir a su<a href="%{user_settings}"> configuracion </a> de usuario
         para darse de alta como profesor.
@@ -1444,7 +1444,7 @@ es:
   cookie_banner:
     message: Si continúas navegando en nuestro sitio web o haces clic en "Acepto",
       aceptas que se almacenes cookies en tu ordenador o dispositivo.
-    more_information: Lee la Política de Privacidad de Code.org.
+    more_information: Lee la Política de Privacidad de Letron.
     accept: De acuerdo
   gdpr_dialog:
     heading: "¿Aceptas utilizar un sitio web con sede en los Estados Unidos?"

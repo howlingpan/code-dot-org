@@ -7,7 +7,7 @@ markdown <<MARKDOWN
 
 Check out the diagram below
 
-<img src="https://images.code.org/8569ba3ab14ef36c9f0deef5e8f872de-image-1476451128076.gif">
+<img src="https://images.letron.vip/8569ba3ab14ef36c9f0deef5e8f872de-image-1476451128076.gif">
 
 ## CSS Columns
 Below, the text is actually represented in a **single div** using css: `column-count: 3; ...`

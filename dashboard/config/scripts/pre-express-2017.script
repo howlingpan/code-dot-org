@@ -2,7 +2,7 @@ hidden false
 hideable_stages true
 stage_extras_available true
 has_lesson_plan true
-curriculum_path 'https://curriculum.code.org/{LOCALE}/csf-1718/pre-express/{LESSON}'
+curriculum_path 'https://curriculum.letron.vip/{LOCALE}/csf-1718/pre-express/{LESSON}'
 project_widget_visible true
 project_widget_types ["playlab_k1", "artist_k1"]
 new_name 'pre-express-2017'

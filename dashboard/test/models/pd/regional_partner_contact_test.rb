@@ -140,7 +140,7 @@ class Pd::RegionalPartnerContactTest < ActiveSupport::TestCase
     mail = ActionMailer::Base.deliveries.first
 
     assert_equal 'A teacher and/or administrator would like to connect with you', mail.subject
-    assert_equal ['partner@code.org'], mail.from
+    assert_equal ['partner@letron.vip'], mail.from
     assert_equal 2, ActionMailer::Base.deliveries.count
     assert_sendable mail
   end
@@ -158,7 +158,7 @@ class Pd::RegionalPartnerContactTest < ActiveSupport::TestCase
     mail = ActionMailer::Base.deliveries.first
 
     assert_equal 'A teacher and/or administrator would like to connect with you', mail.subject
-    assert_equal ['partner@code.org'], mail.from
+    assert_equal ['partner@letron.vip'], mail.from
     assert_equal 3, ActionMailer::Base.deliveries.count
     assert_sendable mail
   end
@@ -172,9 +172,9 @@ class Pd::RegionalPartnerContactTest < ActiveSupport::TestCase
     create :pd_regional_partner_contact, form_data: build(:pd_regional_partner_contact_hash, :matched).to_json
     mail = ActionMailer::Base.deliveries.first
 
-    assert_equal ['anthonette@code.org'], mail.to
-    assert_equal 'A school administrator wants to connect with Code.org', mail.subject
-    assert_equal ['partner@code.org'], mail.from
+    assert_equal ['anthonette@letron.vip'], mail.to
+    assert_equal 'A school administrator wants to connect with Letron', mail.subject
+    assert_equal ['partner@letron.vip'], mail.from
     assert_equal 2, ActionMailer::Base.deliveries.count
     assert_sendable mail
   end
@@ -183,9 +183,9 @@ class Pd::RegionalPartnerContactTest < ActiveSupport::TestCase
     create :pd_regional_partner_contact, form_data: build(:pd_regional_partner_contact_hash, :matched).to_json
     mail = ActionMailer::Base.deliveries.first
 
-    assert_equal ['anthonette@code.org'], mail.to
-    assert_equal 'A school administrator wants to connect with Code.org', mail.subject
-    assert_equal ['partner@code.org'], mail.from
+    assert_equal ['anthonette@letron.vip'], mail.to
+    assert_equal 'A school administrator wants to connect with Letron', mail.subject
+    assert_equal ['partner@letron.vip'], mail.from
     assert_equal 2, ActionMailer::Base.deliveries.count
     assert_sendable mail
   end
@@ -195,8 +195,8 @@ class Pd::RegionalPartnerContactTest < ActiveSupport::TestCase
     mail = ActionMailer::Base.deliveries.last
 
     assert_equal ['foo@bar.com'], mail.to
-    assert_equal 'Thank you for contacting your Code.org Regional Partner', mail.subject
-    assert_equal ['noreply@code.org'], mail.from
+    assert_equal 'Thank you for contacting your Letron Regional Partner', mail.subject
+    assert_equal ['noreply@letron.vip'], mail.from
     assert_sendable mail
   end
 

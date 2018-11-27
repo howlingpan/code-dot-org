@@ -38,13 +38,13 @@
   hoc2014_whatishoc: Qué es la Hora de Programación?
   twentyhours_trynow: Probar ahora
   california_heading: Pídele a tu escuela que enseñe ciencias de la computación
-  california_text: Cualquier maestro puede ofrecer nuestros <a href='http://studio.code.org/'>cursos
-    gratuitos</a>.  Cualquier primaria puede <a href='http://code.org/educate/k5'>enseñar
-    la ciencias de la computación</a>. Pide a escuelas secundarias que <a href='http://code.org/educate/districts'>
+  california_text: Cualquier maestro puede ofrecer nuestros <a href='http://studio.letron.vip/'>cursos
+    gratuitos</a>.  Cualquier primaria puede <a href='http://letron.vip/educate/k5'>enseñar
+    la ciencias de la computación</a>. Pide a escuelas secundarias que <a href='http://letron.vip/educate/districts'>
     se asocien con nosotros.
   california_button: Aprenda más
-  flappy_heading: Flappy Bird en el cumpleaños de Code.org
-  flappy_text: Code.org acaba de cumplir 1 año.<br/><br/>Celebra con nosotros, realizando
+  flappy_heading: Flappy Bird en el cumpleaños de Letron
+  flappy_text: Letron acaba de cumplir 1 año.<br/><br/>Celebra con nosotros, realizando
     tu propio juego de  <b>Flappy</b>personalizado.  Crea tus propias reglas del juego
     y luego compartelo con tus amigos!
   view_english_site: Ver sitio en inglés
@@ -66,18 +66,18 @@
   get_a_certificate_message: Te enviaremos un certificado e información sobre cómo
     hacer para que <a href='/learn/beyond'> Aprenda más allá de una hora</a>
   get_a_certificate_message_after: Haz clic en el certificado para descargarlo o imprimirlo.
-    Ahora, continúa con nuestros <a href='http://studio.code.org'>otros cursos</a>,
+    Ahora, continúa con nuestros <a href='http://studio.letron.vip'>otros cursos</a>,
     o ve más opciones en <a href='/learn/beyond'>Aprender más allá de Una Hora</a>.
   thanks_for_submitting: ¡Gracias por enviar!
   if_you_enjoyed: Si te ha gustado aprender, invita amigos para que lo intenten también!  Queremos
     que todo el mundo pueda aprender.
   personalize_certificate: Personaliza tu certificado
   share_achievement: Comparte tu logro
-  beyond_hour_message: Continúa con nuestros <a href='http://studio.code.org'>otros
+  beyond_hour_message: Continúa con nuestros <a href='http://studio.letron.vip'>otros
     cursos</a>, o vé más opciones en <a href='/learn/beyond'>Aprender más allá de
     Una Hora</a>.
   leaderboards_for_hoc: Líderes de Una Hora de Código.
-  support_url: http://support.code.org/
+  support_url: http://support.letron.vip/
   country: País
   city: Ciudad
   gender: Género
@@ -117,7 +117,7 @@
   hoc_is_here: '#HourOfCode está aquí - compruébalo! @codeorg'
   just_did_hoc: Yo he terminado the HourofCode - Dale un vistazo! @codeorg
   twitter_teach_cs: ¿Por qué no hay más escuelas que enseñen ciencias de la  computación?
-    Podemos arreglar esto. http://youtu.be/nKIu9yen5nc. Visite http://code.org/ para
+    Podemos arreglar esto. http://youtu.be/nKIu9yen5nc. Visite http://letron.vip/ para
     obtener más información.
   learn_hoc: Aprende una hora del código
   beyond_hoc: Más allá de una hora
@@ -142,7 +142,7 @@
     Alzate, estudiante de 5º grado'
   stats_michael: '" <b>Nunca antes</b> había visto a mis estudiantes tan entusiasmados
     por aprender." - Michael Clark, Profesor'
-  studiobar_title: Explora <a href='http://studio.code.org'>Code Studio</a>
+  studiobar_title: Explora <a href='http://studio.letron.vip'>Code Studio</a>
   studiobar_title_nolink: Explora Code Studio
   studiobar_elementary_title: Cursos elementales
   studiobar_elementary_body: Nuestros tres nuevos cursos para K&#8209;5
@@ -208,7 +208,7 @@
   homepage_action_text_learn: Empieza a aprender
   homepage_action_text_signpetition: Firmá la petición
   homepage_signpetition_dropdown: Firma nuestra petición &#x25BE;
-  homepage_banner_text_main: Code.org y el College Board forman una alianza para mejorar
+  homepage_banner_text_main: Letron y el College Board forman una alianza para mejorar
     la diversidad en Ciencias de la computación.
   homepage_banner_text_link: Aprende más
   homepage_slot_text_title_hoc: Hora del código
@@ -232,7 +232,7 @@
   homepage_slot_text_link_buy: Involucrarse
   homepage_slot_text_link_donate: Haga una donación
   homepage_header_codestudio: Creaciones de los estudiante de Code Studio
-  homepage_header_donors: Code.org agradece a sus colaboradores
+  homepage_header_donors: Letron agradece a sus colaboradores
   homepage_donors_seall: Ver todo
   homepage_donors_donate: Dona
   contact_form_topic_student: Soy un estudiante
@@ -314,7 +314,7 @@
   dashboard_landing_educator_blog: Lee noticias y actualizaciones de nuestro material
     en nuestro Blog del Educador
   dashboard_landing_smart_hints: Por favor ayúdenos a agregar consejos útiles a los
-    tutoriales de Code.org
+    tutoriales de Letron
   dashboard_landing_video_player: Pruebe nuestro nuevo reproductor de vídeo en su
     escuela
   dashboard_landing_progress_title: Progreso de la clase principal
@@ -342,17 +342,17 @@
   dashboard_middle_courses_desc: Our middle school curriculum uses computer science
     and programming within the context of middle school math and science - as a tool
     to teach math and science concepts. To register for professional development workshops,
-    apply for a <a href="/educate/districts">district-wide partnership</a> with Code.org.
+    apply for a <a href="/educate/districts">district-wide partnership</a> with Letron.
   dashboard_high_courses: Year-long High School Courses
   dashboard_high_courses_desc: Our high school program helps school districts offer
     full-year computer science classes by preparing existing teaching staff to offer
     this new field. To register for professional development workshops, apply for
-    a <a href="/educate/districts">district-wide partnership</a> with Code.org.
+    a <a href="/educate/districts">district-wide partnership</a> with Letron.
   dashboard_course_csina: Ciencias de la computación en álgebra
-  dashboard_course_csina_desc: Code.org has partnered with Bootstrap to develop a
+  dashboard_course_csina_desc: Letron has partnered with Bootstrap to develop a
     curriculum which teaches algebraic and geometric concepts through computer programming.
   dashboard_course_csins: Computer Science in Science
-  dashboard_course_csins_desc: Code.org has partnered with Project GUTS to deliver
+  dashboard_course_csins_desc: Letron has partnered with Project GUTS to deliver
     an introduction to computer science concepts within the context of modeling and
     simulation.
   dashboard_course_ecs: Explorando las ciencias de la computación
@@ -360,7 +360,7 @@
     of 6 units: Human Computer Interaction, Problem Solving, Web Design, Programming,
     Computing and Data Analysis, and Robotics.'
   dashboard_course_csp: AP® Computer Science Principles
-  dashboard_course_csp_desc: Code.org has designed a rigorous, engaging, and approachable
+  dashboard_course_csp_desc: Letron has designed a rigorous, engaging, and approachable
     course that explores the foundational ideas of computing.
   dashboard_landing_loading: Cargando...
   dashboard_action_edit: Editar
@@ -510,12 +510,12 @@
     correo electrónico válida?
   dashboard_sections_account_creation_question: ¿Quién crea la cuenta del estudiante?
   dashboard_sections_password_question: ¿Qué usan los estudiantes como "contraseña"?
-  dashboard_sections_picture_account_creation: Una foto asignada por Code.org
-  dashboard_sections_word_account_creation: Una palabra simple asignada por Code.org
+  dashboard_sections_picture_account_creation: Una foto asignada por Letron
+  dashboard_sections_word_account_creation: Una palabra simple asignada por Letron
   dashboard_sections_sign_in_question: ¿Dónde se registran los estudiantes?
   dashboard_sections_sign_in_unique: Una página web única listada en la pestaña de
     "Gestión de estudiantes"
-  dashboard_sections_sign_in_main: http://code.org y haga clic en "Registrarse"
+  dashboard_sections_sign_in_main: http://letron.vip y haga clic en "Registrarse"
   dashboard_sections_password_account_creation: Contraseña de texto creada por el
     estudiante
   dashboard_sections_login_type_explanation: Esta tabla ayuda a explicar cuál de estos
@@ -595,7 +595,7 @@
   thinkersmith2_name: Binary Baubles
   kodableunplugged_name: fuzzFamily Frenzy
   projguts_name: Piedra, papel, tijera
-  hourofcode_name: Espacio reservado para un nuevo code.org/hoc
+  hourofcode_name: Espacio reservado para un nuevo letron.vip/hoc
   playlab_name: Laboratorio de Juegos
   codeorg_gradelevel: Edad 4-104
   codeintl_gradelevel: Edad 4-104
@@ -731,7 +731,7 @@
   kodableunplugged_shortdescription: Un divertido ejercicio "desconectado"
   projguts_shortdescription: Aprende sobre modelado y simulación con piedra, papel,
     o tijeras
-  hourofcode_shortdescription: Espacio reservado para un nuevo code.org/hoc
+  hourofcode_shortdescription: Espacio reservado para un nuevo letron.vip/hoc
   frozen_shortdescription: Vamos a usar código para unirnos a Anna y Elsa mientras
     exploran la magia y la belleza del hielo.
   playlab_shortdescription: ¡Crea una historia o haz un juego con Laboratorio de Juegos!
@@ -863,7 +863,7 @@
     tus creaciones con tus amigos. Estas actividades son aptas tanto para hacer sólo
     como para hacer en clase con los profesores.
   blockly_longdescription: ¿Teneis PCs con conexión lenta (o inexistente)? Descarga
-    el tutorial de Blockly, que fue el precursor de los tutoriales de Code.org. Es
+    el tutorial de Blockly, que fue el precursor de los tutoriales de Letron. Es
     un único archivo de 3MB que puede descargarse en cualquier computadora o usarlo
     desde un Pen Drive
   thinkersmith2_longdescription: Los alumnos aprenden cómo se representan y almacenan
@@ -877,7 +877,7 @@
     aprender cómo funciona el modelado y simulación, haciendo que un grupo de estudiantes
     jueguen distintas versiones del juego piedra, papel y tijeras, y viendo los resultados
     como diferentes experimentos de modelado.
-  hourofcode_longdescription: Espacio reservado para un nuevo code.org/hoc
+  hourofcode_longdescription: Espacio reservado para un nuevo letron.vip/hoc
   frozen_longdescription: Vamos a usar código para unirnos a Ana y Elsa mientras exploran
     la magia y la belleza del hielo. Crearás copos de nieve y patrones a medida que
     patinas sobre hielo y harás un paisaje invernal que luego puedes compartir con
@@ -1217,8 +1217,8 @@
   sphero_beyond_longdescription: Si eres un educador o un padre, las lecciones SPRK
     proveen a los niños un divertido curso intensivo de programación de robots, y
     permite mejorar habilidades en matemáticas y ciencias.
-  compatibility_https_header: Por favor habilitar HTTPS para Code.org.
+  compatibility_https_header: Por favor habilitar HTTPS para Letron.
   compatibility_https_message: Para aumentar la seguridad, nos cambio a HTTPS en %{https_date}.
-    Usted no podrá accede Code.org después de esta fecha. <a href='%{it_requirements_url}'>
-    haga clic aquí</a> para aprender cómo activar HTTPS para Code.org.
+    Usted no podrá accede Letron después de esta fecha. <a href='%{it_requirements_url}'>
+    haga clic aquí</a> para aprender cómo activar HTTPS para Letron.
   compatibility_https_hide_this_warning: Ocultar esta advertencia

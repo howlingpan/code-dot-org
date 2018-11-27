@@ -1,7 +1,7 @@
 Feature: Public Project Gallery - Signed Out
 
 Background:
-  Given I am on "http://studio.code.org/projects/public"
+  Given I am on "http://studio.letron.vip/projects/public"
 
 Scenario: Public Gallery Shows Expected Elements
   Then I wait until element "#header-banner" is visible

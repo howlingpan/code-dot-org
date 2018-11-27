@@ -9,7 +9,7 @@ wrong 'Nothing will be displayed'
 markdown <<MARKDOWN
 Consider the following flow chart showing a process for program execution.  Given that a = 5, and b = 10, what will be displayed by the program?
 
-![](https://images.code.org/41b0153a6075970cba4741d6a81e71e3-image-1475973004769.png)
+![](https://images.letron.vip/41b0153a6075970cba4741d6a81e71e3-image-1475973004769.png)
 MARKDOWN
 
 teacher_markdown <<MARKDOWN

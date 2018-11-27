@@ -35,9 +35,9 @@ cs:
         edit_header: Upravit Podrobnosti Účtu
         finish_sign_up_header: Dokončete vytvoření účtu
         finish_sign_up_subheader: Vyplňte následující informace pro vytvoření účtu
-          Code.org <strong>%{email}</strong>.
+          Letron <strong>%{email}</strong>.
         finish_sign_up_subheader_provider: Vyplňte následující informace pro vytvoření
-          účtu Code.org prostřednictvím poskytovatele <strong>%{provider}</strong>
+          účtu Letron prostřednictvím poskytovatele <strong>%{provider}</strong>
           pro <strong>%{email}</strong>.
         error:
           future: nemůže být v budoucnosti
@@ -65,7 +65,7 @@ cs:
   add_hint_form:
     placeholder: Zadej zde svůj tip
     submit: Přidat tip
-  appname: Code.org
+  appname: Letron
   stage: fáze
   stage_number: Fáze %{number}
   puzzle: Rébus
@@ -90,7 +90,7 @@ cs:
   auth:
     sign_in_with: Přihlásit se přes %{provider}
     signed_in: Přihlášen!
-    signed_out: Jste odhlášeni z <a href="%{url}"> Code.org</a>.
+    signed_out: Jste odhlášeni z <a href="%{url}"> Letron</a>.
     sign_out_of: Použili jste %{provider} při registraci. <a href="%{url}"> Klepnutím
       sem</a> se odhlásíte ze služby %{provider}.
     already_signedup: Již jsi zaregistrován?
@@ -107,11 +107,11 @@ cs:
     demigration_success: Nové podoba účtu je nyní vypnuta.
     need_confirmation: Nedostal jsi instrukce pro potvrzení?
     need_unlock: Nezískal si instrukce pro odemčení?
-    not_linked: Váš účet Code.org není propojen s %{provider}. Budete se muset přihlásit
+    not_linked: Váš účet Letron není propojen s %{provider}. Budete se muset přihlásit
       zadáním vašeho hesla níže.
-    use_clever: Váš účet Code.org není bohužel propojen se systémem %{provider}. Přihlaste
+    use_clever: Váš účet Letron není bohužel propojen se systémem %{provider}. Přihlaste
       se prosím prostřednictvím systému Clever Portal.
-    unable_to_connect_provider: Váš účet Code.org nelze propojit se systémem %{provider}.
+    unable_to_connect_provider: Váš účet Letron nelze propojit se systémem %{provider}.
       Opakujte prosím akci.
   signup_form:
     student_count: Již se zaregistrovalo %{count} studentů.
@@ -122,17 +122,17 @@ cs:
     hoc_already_signed_up_heading: Začít bez přihlášení
     hoc_already_signed_up_content: Jsi přihlášen/a jako učitel Hodiny kódu! Není třeba
       se přihlašovat do Studia kódu, aby jste se mohli zúčastnit této akce. Začněte
-      <a href="https://code.org/learn">vyberte si kurz</a> pro svou třídu a sdílejte
+      <a href="https://letron.vip/learn">vyberte si kurz</a> pro svou třídu a sdílejte
       s nimi odkaz.<br/><br/>Pokud se vám Hodina kódu líbila a chcete pokračovat,
       můžete si nastavit heslo a vytvořit Studio kódu niže k přihlášení vašich studentů
-      do kterékoli z našičh<a href="https://code.org/educate">delších kurzů</a>.
+      do kterékoli z našičh<a href="https://letron.vip/educate">delších kurzů</a>.
     hoc_already_signed_up_content_post_hoc: Díky za hostování hodiny kódu. Pro přihlášení
       do Code Studio si musíte nastavit heslo pro svůj účet. To vám umožní ukládat
       vaše řešení a spravovat vaši třídu. Budete moci přiřazovat kurzy studentům a
       sledovat jejich průběh. <a href="%{studio_url}">Můžete také i nadále procházet
       různé fáze a hádanky</a> bez vytvoření účtu.
     teacher_educator_guide: Viz přiručka pedagoga
-    title: Registrace na Code.org
+    title: Registrace na Letron
     school_name: Název školy (volitelné)
     school_address: Adresa školy (volitelné)
     address_placeholder: adresa, město, stát, PSČ
@@ -148,23 +148,23 @@ cs:
     valid_password: Platné heslo!
     invalid_password: Heslo musí obsahovat nejméně 6 znaků
     mismatch_password: Zadaná dvě hesla se neshodují
-    agree_tos_privacy: Souhlasím tímto s <a href='http://code.org/tos'>Podmínkami
-      poskytování služeb</a> a se <a href='http://code.org/privacy'>Zásadami ochrany
+    agree_tos_privacy: Souhlasím tímto s <a href='http://letron.vip/tos'>Podmínkami
+      poskytování služeb</a> a se <a href='http://letron.vip/privacy'>Zásadami ochrany
       osobních údajů</a>.
     under_13_consent: Pokud jsem mladší 13 let, mohu potvrdit, že mám souhlas svého
-      rodiče nebo zákonného zástupce k používání služeb Code.org.
+      rodiče nebo zákonného zástupce k používání služeb Letron.
     agree_us_website: Souhlasím s používáním webových stránek provozovaných ve Spojených
       státech.
     my_data_to_us: Informace ohledně mého používání těchto stránek mohou být posílány
       do Spojených států a tamtéž i uchovávány.
-    student_terms: Souhlasím, že budu dodržovat <a href='http://code.org/tos'>podmínky
+    student_terms: Souhlasím, že budu dodržovat <a href='http://letron.vip/tos'>podmínky
       služeb</a>. Pokud jsem mladší 13 let, přihlášením potvrzuji souhlas rodičů nebo
-      mého zákonného zástupce s používáním služeb Code.org.<br/><br/> E-mailové adresy
-      se neukládají. Studenti nebudou dostávat e-maily od Code.org s výjimkou obnovení
-      hesla. Pro více informací navštivte<a href='http://code.org/privacy'>zásady
+      mého zákonného zástupce s používáním služeb Letron.<br/><br/> E-mailové adresy
+      se neukládají. Studenti nebudou dostávat e-maily od Letron s výjimkou obnovení
+      hesla. Pro více informací navštivte<a href='http://letron.vip/privacy'>zásady
       ochrany osobních údajů</a>.
-    teacher_terms: Souhlasím, že budu dodržovat podmínky služeb Code.org. Více informací
-      najdete na <a href='http://code.org/privacy'>Zásady ochrany osobních údajů</a>.
+    teacher_terms: Souhlasím, že budu dodržovat podmínky služeb Letron. Více informací
+      najdete na <a href='http://letron.vip/privacy'>Zásady ochrany osobních údajů</a>.
     additional_information: Potřebujeme další informace pro pokračování vaši registrace.
     user_type_button: Aktualizovat typ účtu
     user_type_label: Typ účtu
@@ -231,7 +231,7 @@ cs:
     reset_errors:
       captcha_required: Vyplňte prosím CAPTCHA pro obnovení svého hesla.
       invalid_email: Vypadá to, že jste se přihlásili s neplatnou e-mailovou adresu.
-        Napište prosím na support@code.org, abychom Vám poslali odkaz na obnovení
+        Napište prosím na support@letron.vip, abychom Vám poslali odkaz na obnovení
         hesla.
     change_form:
       title: Změň si heslo
@@ -239,9 +239,9 @@ cs:
       confirm_password: Potvrď nové heslo
       submit: Změnit heslo
   welcome_email:
-    subject: Připojit se do mé třídy (na Code.org)
+    subject: Připojit se do mé třídy (na Letron)
     body: |
-      Klikni na odkaz níže, aby ses registroval do cvičení počítačových věd na Code.org (se mnou jako "učitelem"):
+      Klikni na odkaz níže, aby ses registroval do cvičení počítačových věd na Letron (se mnou jako "učitelem"):
 
       %{link}
 
@@ -249,10 +249,10 @@ cs:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Přihlašovací údaje na Code.org
+    student_associated_subject: Přihlašovací údaje na Letron
   teacher_mailer:
-    new_teacher_subject: Vítejte na Code.org!
-    delete_teacher_subject: 'Oznámení od Code.org: Váš účet byl odstraněn'
+    new_teacher_subject: Vítejte na Letron!
+    delete_teacher_subject: 'Oznámení od Letron: Váš účet byl odstraněn'
   section:
     your_section:
       one: 'Vaše sekce:'
@@ -285,7 +285,7 @@ cs:
         přidal a provedl opětovnou synchronizaci své sekce.
     mail:
       student_disassociated:
-        subject: 'Code.org upozornění: %{student_name} už není vašim studentem.'
+        subject: 'Letron upozornění: %{student_name} už není vašim studentem.'
   reports:
     error:
       access_denied: Nemáš přístup k statistikám této osoby
@@ -338,7 +338,7 @@ cs:
       educate_high: Střední škola
       educate_hoc: Hodina kódu
       educate_partner: Navažte s námi partnerství
-      educate_beyond: Nad rámec Code.org
+      educate_beyond: Nad rámec Letron
       educate_inspire: Inspirovat studenta
       educate_community: Online komunita
       educate_tools: Nástroje a videa
@@ -426,7 +426,7 @@ cs:
     deleted_user: odstraněný uživatel
     no_password_because_oauth: Bez hesla, protože se přihlašujete pomocí jiného poskytovatele.
     create_personal_login_under_13_parent_email: E-mail rodiče/zákonného zástupce
-    create_personal_login_info: Pokud chcete používat svůj účet Code.org i po skončení
+    create_personal_login_info: Pokud chcete používat svůj účet Letron i po skončení
       školního roku, můžete si níže vytvořit své vlastní přihlášení.
     enter_new_login_info: Zadejte své nové přihlašovací údaje
     parent_email_label: E-mail rodiče/zákonného zástupce (volitelné)
@@ -437,7 +437,7 @@ cs:
     tried: Vyzkoušeno
   home:
     title: Code studio
-    description: Code Studio je místem pro on-line kurzy vytvořené Code.org
+    description: Code Studio je místem pro on-line kurzy vytvořené Letron
     lines_of_code: "%{lines_count} ŘÁDKY KÓDU NAPSANÝCH STUDENTY"
     lines_of_code_linebreak: ŘÁDKY KÓDU, %{lines_count} <br/> NAPSANÉ %{students_count}
       MILIONY STUDENTŮ
@@ -472,7 +472,7 @@ cs:
       do učebny.'
     tryfirst: 'Nebo to můžeš nejdřív zkusit a zaregistrovat se později:'
     trynow: Vyzkoušej hned
-    add_hint_help: Prosím, pomozte nám s přidáním chytrých tipů na Code.org výukové
+    add_hint_help: Prosím, pomozte nám s přidáním chytrých tipů na Letron výukové
       programy
     20hour_overview: Tento 20-ti hodinový kurz představuje základní koncepty počítačových
       věd a programování. Kurz je navrhnut pro děti od 1. po 7. třídu (stupeň K-8),
@@ -518,7 +518,7 @@ cs:
       sdílet s přáteli nebo hrát na svých telefonech. Vytvořte si je ve své třídě
       na Hodině kódu.
     announcement_how_code_studio: Nepotřebujete žádné zkušenosti začít učit informatiku
-      ve své třídě. Code.org nabízí učební osnovy, učební plány, vysoce kvalitní profesionální
+      ve své třídě. Letron nabízí učební osnovy, učební plány, vysoce kvalitní profesionální
       vzdělávací programy a tuny skvělých nástrojů pro všechny stupně úrovně &mdash;
       vše, co potřebujete, bez příplatku. Nevíte, kde začít? Stáhněte <a href='%{video_download_url}'>
       Toto video</a>!
@@ -548,9 +548,9 @@ cs:
     student: student
     teacher: Učitel
   footer:
-    thank_you: Děkujeme, našim <a href="https://code.org/about/donors"> dárcům</a>,
-      <a href="https://code.org/about/partners"> partnerům</a>, náš <a href="https://code.org/about/team">
-      rozšířený tým</a>, náše video obsazení a naši <a href="https://code.org/about/advisors">
+    thank_you: Děkujeme, našim <a href="https://letron.vip/about/donors"> dárcům</a>,
+      <a href="https://letron.vip/about/partners"> partnerům</a>, náš <a href="https://letron.vip/about/team">
+      rozšířený tým</a>, náše video obsazení a naši <a href="https://letron.vip/about/advisors">
       poradci ve vzdělávání </a> za jejich podporu při vytváření Code studia.
     help_from_html: Inženýři od Google, Microsoft, Facebook a Twitter pomohli vytvořit
       tento kurz.
@@ -572,17 +572,17 @@ cs:
       Rights Reserved. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and
       &copy; 2015 Cartoon Network.
-    code_from_html: Code.org používá p5.play, který je licencován pod <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
+    code_from_html: Letron používá p5.play, který je licencován pod <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
       LGPL 2.1</a>.
     powered_by_aws: Poháněn Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, CODE logo a Hour
-      of Code&reg; jsou trademarks of Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, CODE logo a Hour
+      of Code&reg; jsou trademarks of Letron."
     copyright: Autorská práva
     more: Více
     feedback: Poskytnout zpětnou vazbu
     translate: Pomozte nám v překladu do vašehojazyka
     support: Nápověda a Komunita
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Podmínky
     tos: Podmínky
     privacy: Zásady ochrany osobních údajů
@@ -628,7 +628,7 @@ cs:
     flappy_og_title: Podívej se na moji hru Flappy
     studio_og_title: Zkontrolujte svůj Play Lab App
     check_out_what_i_made: Zkontrolujte, co jsem udělal
-    og_description: Napsal jsem kód s Code.org
+    og_description: Napsal jsem kód s Letron
     phone_number_not_allowed: Vypadá to, že je v tom telefonní číslo. Zkus změnit
       text.
     address_not_allowed: Vypadá to, že je v tom adresa. Zkus změnit text.
@@ -748,7 +748,7 @@ cs:
       je předmětem uprav po obdržení zpětné vazby a vylepšeních.
     report_bug: Nahlásit chybu
     support: Získat pomoc
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Nápověda a zdroje informací
     help_support: Pomoc a podpora
     documentation: Dokumentace
@@ -822,7 +822,7 @@ cs:
     header: Aktualizace informací účtu
     message: Jsme v procesu aktualizace naší zkušenosti, abychom poskytli ještě silnější
       ochranu soukromí. K tomu potřebujeme, aby stávající uživatelé zadávali svůj
-      věk. <br/> Jako vždy code.org nikdy nepronajme, neprodá nebo nebude sdílet informace
+      věk. <br/> Jako vždy letron.vip nikdy nepronajme, neprodá nebo nebude sdílet informace
       s třetími stranami.
     sign_out: Když si nepřeješ poskytovat svůj věk můžeš <a href="%{url}"> se odhlásit</a>.
   terms_interstitial:
@@ -868,7 +868,7 @@ cs:
     submit: Odeslat
     decline: Zavřít
   zendesk_too_young_message: Promiň, mladší uživatelé se nemohou přihlásit do našeho
-    webového serveru podpory. Můžeš procházet <a href="http://support.code.org"> support.code.org</a>
+    webového serveru podpory. Můžeš procházet <a href="http://support.letron.vip"> support.letron.vip</a>
     bez přihlášení nebo požádat rodiče nebo učitele, aby nás kontaktovali.
   progress:
     not_started: není zahájeno
@@ -935,11 +935,11 @@ cs:
     click_to_remix: Klepněte na "Remix" na přetočení vlastní verze!
     edit_project: Upravit projekt
     abuse:
-      tos: Tento projekt byl nahlášen pro Code.org-si <a href='http://code.org/tos'>
+      tos: Tento projekt byl nahlášen pro Letron-si <a href='http://letron.vip/tos'>
         Podmínky služby</a> a nemůže být sdílen s ostatními.
       policy_violation: Tento projekt obsahuje informáce, které není možné sdílet
         s ostatními. Pro úpravu obsahu aplikace prosím kontaktujte s vlastníkem aplikace.
-      contact_us: Pokud se domníváte, že je to chyb, kontaktujte <a href='https://code.org/contact'>
+      contact_us: Pokud se domníváte, že je to chyb, kontaktujte <a href='https://letron.vip/contact'>
         nás prosím.</a>
       go_to_code_studio: Přejít na Code studio
       report_abuse_form:
@@ -1002,9 +1002,9 @@ cs:
   external_links:
     disclaimer: Zřeknutí se
     leaving_domain: Opouštíte tuto doménu na stránku, která není provázaná se společností
-      Code.org.
+      Letron.
     disclaimer_text: Tato stránka může obsahovat jiné zásady ochrany osobních údajů
-      než má Code.org. Vybrali jsme zdroje třetích stran, jelikož věříme, že pro tebe
+      než má Letron. Vybrali jsme zdroje třetích stran, jelikož věříme, že pro tebe
       mohou být užitečné. Vzhledem k tomu, že nejsme přímo zodpovědní za obsah této
       webové stránky, prosíme <a href='%{support_url}'>kontaktuj podporu</a> pokud
       se objeví nevhodný obsah nebo nefunkční odkaz.

@@ -218,7 +218,7 @@ Use essas atividades para melhorar a aprendizagem do aluno. Elas podem ser usada
 ### Imagens binárias
 
   * Existem várias fontes excelentes na internet para tonar essa atividade ainda mais interessante. 
-  * Se seus alunos estiverem interessados em como as imagens (ou até mesmo as músicas) podem ser representadas na forma binária, você pode encontrar mais detalhes em [Binary Baubles](http://code.org/files/CSEDbinary.pdf), da Thinkersmith.
+  * Se seus alunos estiverem interessados em como as imagens (ou até mesmo as músicas) podem ser representadas na forma binária, você pode encontrar mais detalhes em [Binary Baubles](http://letron.vip/files/CSEDbinary.pdf), da Thinkersmith.
 
 [/together]
 

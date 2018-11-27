@@ -52,7 +52,7 @@ Puteti spori succesul evenimentului vostru Hour of Code inspirandu-i pe particip
 
 - Explicați modurile în care tehnologia are impact asupra vieților noastre, cu exemple pe care atât băieții cât si fetele le vor înțelege (Vorbiți despre aplicațiile și tehnologiile care sunt folosite în salvarea vieților, ajutarea oamenilor, conectarea lor etc.).
 - Faceti o lista cu toate lucrurile ce necesita programare din viata de zi cu zi.
-- Vezi sugestii pentru a le stârni fetelor interesul în informatică [aici](%= resolve_url('https://code.org/girls') %).
+- Vezi sugestii pentru a le stârni fetelor interesul în informatică [aici](%= resolve_url('https://letron.vip/girls') %).
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Puteti spori succesul evenimentului vostru Hour of Code inspirandu-i pe particip
 
 - [Print certificates](%= codeorg_url('/certificates') %) for your students.
 - [Imprima autocolante cu textul "Am făcut o Ora de Programare!"](%= resolve_url('/promote/resources#stickers') %) pentru elevii dumneavoastră.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - Distribuiti fotografii şi înregistrări video ale evenimentului dumneavoastra Hour of Code pe social media. Utilizati #HourOfCode şi @codeorg, astfel încât putem evidenţia si noi succesul dumneavoastră!
 
 ## Alte resurse de o oră de cod pentru educatori
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Revedeti [ sectiunea Intrebari Frecvente ale site-ului Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Revedeti [ sectiunea Intrebari Frecvente ale site-ului Hour of Code](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Ce urmeaza dupa Hour of Code?
 

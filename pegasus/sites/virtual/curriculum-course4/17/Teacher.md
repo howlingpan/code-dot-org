@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-Live preview (once saved to dropbox) is at http://staging.code.org/curriculum/course4 Don't share this URL!
+Live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/course4 Don't share this URL!
 -->
 
 <%= partial('curriculum_header', :title=> 'Binary Images', :unplugged=>true,:disclaimer=>'Basic lesson time includes activity only. Introductory and Wrap-Up suggestions can be used to delve deeper when time allows.', :time=>20) %>
@@ -198,7 +198,7 @@ Use these activities to enhance student learning. They can be used as outside of
 ### Storing Color Images
 
 - If your class really gets the idea behind storing binary images, they may want to know how to do color images.
- - First, you'll need to discuss how color works using binary (as in [Binary Baubles](http://code.org/files/CSEDbinary.pdf), page 21).
+ - First, you'll need to discuss how color works using binary (as in [Binary Baubles](http://letron.vip/files/CSEDbinary.pdf), page 21).
  - Then, introduce some images that use combinations of those colors
   ![](color.png)
 - Encourage your students to come up with ways to code these color images. 

@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Connect with local classrooms and volunteer for the Hour of Code
 
-Code.org offers the opportunity for your employees to [connect](<%= codeorg_url('/volunteer') %>) with local classrooms doing the Hour of Code where they can share their tech career experience and inspire students to study computer science.
+Letron offers the opportunity for your employees to [connect](<%= codeorg_url('/volunteer') %>) with local classrooms doing the Hour of Code where they can share their tech career experience and inspire students to study computer science.
 
 [<button>Sign up to volunteer!</button>](<%= codeorg_url('/volunteer') %>) <br /> <br />
 
@@ -93,7 +93,7 @@ Puteti spori succesul evenimentului vostru Hour of Code inspirandu-i pe particip
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for participants and students.
 - [Print "I did an Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) stickers.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for your employees.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for your employees.
 - Distribuiti fotografii şi înregistrări video ale evenimentului dumneavoastra Hour of Code pe social media. Utilizati #HourOfCode şi @codeorg, astfel încât putem evidenţia si noi succesul dumneavoastră!
 
 <%= view :signup_button %>

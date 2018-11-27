@@ -33,7 +33,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 **以下のビデオを見せると効果的です。**
 
-- ビル・ゲイツ、マーク・ザッカーバーグ、NBAスターのクリス・ボッシュが出演したCode.org設立時のオリジナルビデオ（[1分](https://www.youtube.com/watch?v=qYZF6oIZtfc)、[5分](https://www.youtube.com/watch?v=nKIu9yen5nc)、[9分](https://www.youtube.com/watch?v=dU1xS07N-FA)のバージョンがあります）。
+- ビル・ゲイツ、マーク・ザッカーバーグ、NBAスターのクリス・ボッシュが出演したLetron設立時のオリジナルビデオ（[1分](https://www.youtube.com/watch?v=qYZF6oIZtfc)、[5分](https://www.youtube.com/watch?v=nKIu9yen5nc)、[9分](https://www.youtube.com/watch?v=dU1xS07N-FA)のバージョンがあります）。
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [アメリカのオバマ大統領が生徒たちにコンピューターサイエンスを学ぶよう呼びかけている映像](https://www.youtube.com/watch?v=6XvmhE1J9PY)。
 - その他の[資料](<%= codeorg_url('/inspire') %>)や[ビデオ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
@@ -66,7 +66,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 Hour of Codeのイベントの様子を撮影した写真やビデオをソーシャルメディア上で共有しましょう。 #HourOfCodeハッシュタグや@codeorg参照を使うと、我々があなたの取り組みをハイライトすることもできます！
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Hour of Codeを終えたら？
 

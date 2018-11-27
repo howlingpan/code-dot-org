@@ -1,5 +1,5 @@
 /** @file Board controller for Adafruit Circuit Playground */
-/* global SerialPort */ // Maybe provided by the Code.org Browser
+/* global SerialPort */ // Maybe provided by the Letron Browser
 import _ from 'lodash';
 import {EventEmitter} from 'events'; // provided by webpack's node-libs-browser
 import ChromeSerialPort from 'chrome-serialport';
@@ -165,7 +165,7 @@ export default class CircuitPlaygroundBoard extends EventEmitter {
         // on the next run.
         // Note: This doesn't seem to be necessary when using browser-serialport
         // and the Chrome App connector, but it is required for native
-        // node serialport in the Code.org Maker App.
+        // node serialport in the Letron Maker App.
         if (this.serialPort_ && typeof this.serialPort_.close === 'function') {
           this.serialPort_.close();
         }
@@ -277,9 +277,9 @@ export default class CircuitPlaygroundBoard extends EventEmitter {
     // exactly equivalent, interfaces.  When making changes to construction
     // here maker sure to test both paths:
     //
-    // Code.org Browser case: Native Node SerialPort 6 is available on window.
+    // Letron Browser case: Native Node SerialPort 6 is available on window.
     //
-    // Code.org connector app case: ChromeSerialPort bridges through the Chrome
+    // Letron connector app case: ChromeSerialPort bridges through the Chrome
     // app, implements SerialPort 3's interface.
     const SerialPortType = isNodeSerialAvailable() ?
       SerialPort : ChromeSerialPort.SerialPort;

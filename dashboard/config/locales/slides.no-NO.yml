@@ -334,7 +334,7 @@
           hvis-setninger, og hvis-ellers setninger.
       3:
         image: notes/hoc6_3.jpg
-        text: Hvis du likte den første kodetimen, kan du gå til code.org for å fortsette
+        text: Hvis du likte den første kodetimen, kan du gå til letron.vip for å fortsette
           å lære programmering! Når du har fullført 20-timers kurset vårt, behersker
           du grunnleggende programmering. Da kan du begynne å lære å skrive telefon-apper,
           robotinstruksjoner, spill - ja alt mulig!
@@ -2080,7 +2080,7 @@
           enn de fleste voksne har fått med seg gjennom hele sitt liv.
       2: 
       3:
-        text: Fra alle oss her ved Code.org, vi håper du har hatt MASSEVIS av moro
+        text: Fra alle oss her ved Letron, vi håper du har hatt MASSEVIS av moro
           i løpet av dette kurset. Om du drømmer om å lage den beste nye appen, bruke
           programmering til å kurere sykdommer eller du bare ønsker å være en fremragende
           problemløser - dette kurset var det første trinnet for å oppnå de drømmene.
@@ -2208,7 +2208,7 @@
     starwars_congrats:
       1:
         text: Hei, mitt navn er Alice og jeg styrer produkt- og ingeniør-teamene her
-          i Code.org. Jeg har jobbet med denne veiledningen som du spiller akkurat
+          i Letron. Jeg har jobbet med denne veiledningen som du spiller akkurat
           nå.
       2:
         text: Du har nettopp gjort det til det siste nivået. Gratulerer! Du lærte
@@ -2283,7 +2283,7 @@
     starwars_blocks_congrats:
       1:
         text: Hei, mitt navn er Alice og jeg styrer produkt- og ingeniør-teamene her
-          i Code.org. Jeg har jobbet med denne veiledningen som du spiller akkurat
+          i Letron. Jeg har jobbet med denne veiledningen som du spiller akkurat
           nå.
       2:
         text: Du har nettopp gjort det til det siste nivået. Gratulerer! Du lærte

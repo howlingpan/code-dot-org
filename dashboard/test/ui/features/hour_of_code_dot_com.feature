@@ -2,11 +2,11 @@
 Feature: Looking at hourofcode.com with Applitools Eyes
 
   Background:
-    Given I am on "http://studio.code.org/reset_session"
+    Given I am on "http://studio.letron.vip/reset_session"
 
 @dashboard_db_access
 Scenario Outline: Logged in simple page view
-  Given I am on "http://studio.code.org/"
+  Given I am on "http://studio.letron.vip/"
   And I am a student
   When I open my eyes to test "<test_name>"
   And I am on "<url>"
@@ -20,7 +20,7 @@ Examples:
   | http://hourofcode.com/br                                          | hourofcode.com br          |
 
 Scenario Outline: Logged out simple page view without instructions dialog
-  Given I am on "http://studio.code.org/"
+  Given I am on "http://studio.letron.vip/"
   When I open my eyes to test "<test_name>"
   And I am on "<url>"
   When I rotate to landscape

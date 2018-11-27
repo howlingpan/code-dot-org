@@ -947,7 +947,7 @@ it:
       Artist Autorun Test: Usa il blocco `ripeti ... volte` per disegnare questi tre
         quadrati.
       Artist Inspiration: |-
-        <a href="https://studio.code.org/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
+        <a href="https://studio.letron.vip/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
         Vuoi realizzare la figura che ti abbiamo mostrato? Ecco alcuni suggerimenti:<br><br>
       Auto Open Function Editor: 'Puoi chiamare funzioni dall''interno di altre funzioni!
         Usando la tua funzione "forma" come base, crea 3 forme di una casa, ognuna
@@ -998,7 +998,7 @@ it:
         solo quando ci sono fiori.
       Course 4 Artist 1: Aiutami a disegnare un quadrato. (Ogni lato è lungo 200 pixel)
       Course 4 Artist 10: |-
-        <img src="https://images.code.org/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png"
+        <img src="https://images.letron.vip/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png"
         width="150px;" style="mix-blend-mode: multiply;" /><br>
         Ecco il codice per una figura interessante.<br>
         <br>
@@ -1006,31 +1006,31 @@ it:
         <br>
         Se ripeti per 6 volte questo codice così com'è, ottieni una rotazione totale pari a 6x60, ossia un giro completo di 360 gradi.<br>
         <img
-        src="https://images.code.org/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png"  width="500px;"  style="mix-blend-mode:
+        src="https://images.letron.vip/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png"  width="500px;"  style="mix-blend-mode:
         multiply;" /><br>
-        <a href="https://studio.code.org/c/105644852" target="_blank">Vedi la soluzione</a>.<br>
+        <a href="https://studio.letron.vip/c/105644852" target="_blank">Vedi la soluzione</a>.<br>
         <br>
         Se vuoi fare un giro completo con solo 4 ripetizioni, l'artista deve ruotare di 360 gradi/4 = 90 gradi ogni volta. Puoi farlo aggiungendo un blocco `gira a destra di 30 gradi` prima di ripetere la figura (dato che 60+30 = 90).<br>
         <img src="https://programmailfuturo.it/images/codeorg/4-3-11-a.png"
         width="500px;" style="mix-blend-mode: multiply;" /><br>
-        <a href="https://studio.code.org/c/120106816" target="_blank">Vedi la soluzione</a>.<br>
+        <a href="https://studio.letron.vip/c/120106816" target="_blank">Vedi la soluzione</a>.<br>
         <br>
         Se vuoi invece ripetere la figura 12 volte, l'artista deve effettuare una rotazione di 360 gradi/12 = 30 gradi ad ogni ripetizione. Ciò significa che, prima di ripetere la figura, l'artista deve tornare un po' indietro con un blocco `gira a sinistra di 30 gradi` (infatti 60-30 = 30).<br>
         <img src="https://programmailfuturo.it/images/codeorg/4-3-11-b.png"
         width="500px;" style="mix-blend-mode: multiply;" />
         <br>
-        <a href="https://studio.code.org/c/120106805" target="_blank">Vedi la soluzione</a>.
+        <a href="https://studio.letron.vip/c/120106805" target="_blank">Vedi la soluzione</a>.
       Course 4 Artist 11: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/><br>
         <br>
         E ora una piccola sfida!<br>
         <br>
         Per ottenere la figura che vedi devi usare solo blocchi che ti sono già stati mostrati. Riesci a capire come ricrearla? Sentiti libero di fare più tentativi e di commettere errori. Nessuno si aspetta che tu ci riesca perfettamente al primo tentativo. <br>
         <br>
-        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.code.org/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
+        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.letron.vip/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
       Course 4 Artist 12: |-
-        <img src="https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
+        <img src="https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist 13: Hai ancora voglia di giocare? Ecco una tela bianca su cui
@@ -1095,7 +1095,7 @@ it:
         Ecco una griglia 16 x 16 di quadrati per disegnare con una risoluzione superiore!<br><br>
         Clicca su "Esegui" e guarda cosa succede quando cominciamo a essere creativi con i bit.
       Course 4 Artist Binary Free Play 2b: |-
-        <img src="https://images.code.org/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
+        <img src="https://images.letron.vip/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Binary Free Play: 'Tempo di giocare: disegna qualunque cosa
@@ -1114,7 +1114,7 @@ it:
         un triangolo equilatero con i lati di 50 pixel.
       Course 4 Artist For Loops 10: Spazio Libero! Divertiti disegnando quello che
         vuoi con i blocchi che hai imparato ad usare
-      Course 4 Artist For Loops 11: Ricordi che nella lezione 6 (<a href="https://studio.code.org/s/course4/stage/6/puzzle/10"
+      Course 4 Artist For Loops 11: Ricordi che nella lezione 6 (<a href="https://studio.letron.vip/s/course4/stage/6/puzzle/10"
         target="_blank">esercizio 10</a> e seguenti) abbiamo usato la variabile `sides`
         (<i>lati</i>) per rappresentare il numero dei lati di un poligono? Ora devi
         fare la stessa cosa con la variabile `counter` (<i>contatore</i>). La figura
@@ -1179,7 +1179,7 @@ it:
         <br>
         Ricorda che per creare una spirale non devi chiudere il poligono. Questo significa che ogni forma deve avere un lato in meno del solito.
       Course 4 Artist For Loops inspire: |-
-        <img src="https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
+        <img src="https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Functions 1: Riesci a disegnare un quadrato con lato di 100
@@ -1237,15 +1237,15 @@ it:
         ncessario per creare una funzione. Tuttavia ci sembra ci sia qualcosa che
         manca. Riouscite a fare in modo che questa funzione sia completa?
       Course 4 Artist Functions Inspiration: |-
-        <img src="https://images.code.org/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png"
+        <img src="https://images.letron.vip/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Functions challenge: |-
-        <img src="https://images.code.org/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png"
+        <img src="https://images.letron.vip/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Functions inspire: "Tempo di giocare: guarda la figura che trovi
-        al link https://studio.code.org/c/110671172. Ora hai imparato tutto quello
+        al link https://studio.letron.vip/c/110671172. Ora hai imparato tutto quello
         che devi sapere per realizzare un disegno come questo! Se questa immagine
         ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea
         qualcosa di tuo. \r\n\nVuoi realizzare la figura che ti abbiamo suggerito?
@@ -1255,11 +1255,11 @@ it:
         \n\nSuggerimento 3: dovresti girare a sinistra di 90 gradi all'esterno del
         ciclo annidato, ma ancora all'interno del ciclo con contatore.\n\n\r\nVuoi
         sapere come è stato realizzata la figura che ti abbiamo suggerito? Visita
-        il link https://studio.code.org/c/110671172/edit per scoprirlo.\n\nCosa succede
+        il link https://studio.letron.vip/c/110671172/edit per scoprirlo.\n\nCosa succede
         se disegni i quadrati un po' più piccoli o un po' più grandi? E cosa succede
         se invece di girare a sinistra giri a destra?"
       Course 4 Artist Inspire: |-
-        <img src="https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
+        <img src="https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Params 1: Modifichiamo ora una funzione che disegna un quadrato
@@ -1498,7 +1498,7 @@ it:
       Course 4 EC 3: |-
         <b>Super Sfida sulle funzioni:</b> Usa quello che hai imparato nell'esercizio precedente per disegnare un'immagine come questa.<br>
         <br><i>Nota: Il codice diventa più semplice se usi le funzioni con parametri.</i><br>
-        <img src="https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
+        <img src="https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
         width="300px"/>
       Course 4 EC 3a: Nessuna istruzione. Nessun suggerimento. Solo la sfida!
       Course 4 Maze 1: Fai arrivare l'uccellino arrabbiato (Angry Bird) fino al maialino!
@@ -1692,14 +1692,14 @@ it:
       Course 4 SCF 2: |-
         <b>Super Sfida sulle funzioni:</b> Usa quello che hai imparato nell'esercizio precedente per disegnare un'immagine come questa.<br>
         <br><i>Nota: Il codice diventa più semplice se usi le funzioni con parametri.</i><br>
-        <img src="https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
+        <img src="https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
         width="300px"/>
       Course 4 SCF 3 Fail 1: Riesci a capire come...
       Course 4 SCF 3 Fail 2: Riesci a capire come...
       Course 4 SCF 3: |-
         <b>Super Sfida sulle funzioni:</b> Usa quello che hai imparato nell'esercizio precedente per disegnare un'immagine come questa.<br>
         <br><i>Nota: Il codice diventa più semplice se usi le funzioni con parametri.</i><br>
-        <img src="https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
+        <img src="https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
         width="300px"/>
       Course 4 SCFL 1: "<b>Super Sfida sui cicli con contatore:</b> Risolvi questo
         esercizio usando il minor numero di blocchi possibile."
@@ -1713,17 +1713,17 @@ it:
       Course 4 SCFL 6: Riesci a ricreare questo disegno usando un solo ciclo?
       Course 4 SCFL 7: |-
         <b>Super Sfida sui cicli con contatore:</b> L'artista vuole disegnare qualche onda! Riesci ad aiutarlo ricreando questo disegno?<br>
-        <img src="https://images.code.org/fba3423f2e9a405d4d3859de32cdb0f3-image-1446102880655.13.36.png"
+        <img src="https://images.letron.vip/fba3423f2e9a405d4d3859de32cdb0f3-image-1446102880655.13.36.png"
         width="350px"/>
       Course 4 SCFP 1: Crea una funzione con parametri che permetta all'artista di
         saltare all'indietro e in avanti di x pixel e anche su e giù di y pixel (con
         numeri positivi e negativi).
       Course 4 SCV 1: |-
-        <img src="https://images.code.org/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
+        <img src="https://images.letron.vip/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
         width="250px"/><br>
         <b>Super Sfida sulle variabili:</b> ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       Course 4 SCV 2: |-
-        <img src="https://images.code.org/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
+        <img src="https://images.letron.vip/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
         width="250px"/><br>
         <b>Super Sfida sulle variabili:</b> ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       Course 4 SCV 3: |-
@@ -1740,7 +1740,7 @@ it:
       Course 4 SCV 5: "<b>Super Sfida sulle variabili:</b> risolvi questo esercizio
         con il minore numero possibile di blocchi!"
       Course 4 SCV 6: |-
-        <img src="https://images.code.org/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
+        <img src="https://images.letron.vip/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
         width="250px"/><br>
         <b>Super Sfida sulle variabili:</b> ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       Course 4 SCVP 1: Crea una funzione con parametri che permetta all'artista di
@@ -1981,7 +1981,7 @@ it:
         di neve. Poi clicca su "Esegui" e guidala in modo tale da farle toccare ogni
         fiocco di neve almeno una volta.
       Inspirational Artwork: |-
-        <a href="https://studio.code.org/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
+        <a href="https://studio.letron.vip/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
         Vuoi realizzare la figura che ti abbiamo mostrato? Ecco alcuni suggerimenti:<br><br>
       InspirationalArtwork: Se questa immagine ti ispira, prova a realizzare qualcosa
         di simile. In caso contrario, crea qualcosa di tuo.
@@ -2371,7 +2371,7 @@ it:
       NEW Course 4 Artist Functions 9: Riesci a risolvere questo esercizio aggiungendo
         un solo blocco?
       NEW Course 4 Artist Functions inspire: "Tempo di giocare: guarda la figura che
-        trovi al link https://studio.code.org/c/110671172. Ora hai imparato tutto
+        trovi al link https://studio.letron.vip/c/110671172. Ora hai imparato tutto
         quello che devi sapere per realizzare un disegno come questo! Se questa immagine
         ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea
         qualcosa di tuo. \r\n\nVuoi realizzare la figura che ti abbiamo suggerito?
@@ -2381,7 +2381,7 @@ it:
         \n\nSuggerimento 3: dovresti girare a sinistra di 90 gradi all'esterno del
         ciclo annidato, ma ancora all'interno del ciclo con contatore.\n\n\r\nVuoi
         sapere come è stato realizzata la figura che ti abbiamo suggerito? Visita
-        il link https://studio.code.org/c/110671172/edit per scoprirlo.\n\nCosa succede
+        il link https://studio.letron.vip/c/110671172/edit per scoprirlo.\n\nCosa succede
         se disegni i quadrati un po' più piccoli o un po' più grandi? E cosa succede
         se invece di girare a sinistra giri a destra?"
       NEW Course 4 Artist Params 1: |-
@@ -2455,7 +2455,7 @@ it:
         <br>
         <b>Nota</b>: riesci a capire come modificare ulteriormente la funzione per risolvere l'esercizio con soli 15 blocchi in totale?
       NEW Course 4 Artist Params inspire: |-
-        <a href="https://studio.code.org/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
+        <a href="https://studio.letron.vip/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
         Vuoi realizzare la figura che ti abbiamo mostrato? Ecco alcuni suggerimenti:<br><br>
       NEW Course 4 Artist Vars 1.5: 'Date un''occhiata al codice. Potete vedere come
         il blocco "imposta lunghezza" e il blocco "lunghezza" lavorano insieme? Clicca
@@ -2665,12 +2665,12 @@ it:
       Standalone_Artist_2: 'Disegna questo rombo che ha i lati lunghi 150 pixel.<br><br><b>Attenzione</b>:
         un rombo ha gli angoli di 60 e 120 gradi, ma i gradi dell’istruzione “gira”
         sono misurati rispetto al percorso davanti all’Artista. Vedi anche le spiegazioni
-        del video del <a href="https://studio.code.org/s/course2/stage/4/puzzle/1">primo
+        del video del <a href="https://studio.letron.vip/s/course2/stage/4/puzzle/1">primo
         esercizio dell''Artista nel Corso 2</a>.'
       Standalone_Artist_3: 'Come fai a disegnare questo esagono che ha i lati lunghi
         100 pixel? <br><br><b>Attenzione</b>: un esagono ha gli angoli di 120 gradi,
         ma i gradi dell’istruzione “gira” sono misurati rispetto al percorso davanti
-        all’Artista. Vedi anche le spiegazioni del video del <a href="https://studio.code.org/s/course2/stage/4/puzzle/1">primo
+        all’Artista. Vedi anche le spiegazioni del video del <a href="https://studio.letron.vip/s/course2/stage/4/puzzle/1">primo
         esercizio dell''Artista nel Corso 2</a>.'
       Standalone_Artist_4: Adesso c'è il nuovo blocco "ripeti 6 volte". Questo blocco
         di ripetizione, detto anche "ciclo", ripete 6 volte quello che si trova al
@@ -6044,7 +6044,7 @@ it:
       grade4_artist_functions_windows0: Crea questa finestra disegnando un quadrato
         e ruotandolo di 90 gradi prima di disegnarne un altro e così via.
       grade4_artist_nestedLoops_challenge: |-
-        <img src="https://images.code.org/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png"
+        <img src="https://images.letron.vip/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png"
         width="150px;" style="mix-blend-mode: multiply;" /><br>
         Ecco il codice per una figura interessante.<br>
         <br>
@@ -6052,29 +6052,29 @@ it:
         <br>
         Se ripeti per 6 volte questo codice così com'è, ottieni una rotazione totale pari a 6x60, ossia un giro completo di 360 gradi.<br>
         <img
-        src="https://images.code.org/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png"  width="500px;"  style="mix-blend-mode:
+        src="https://images.letron.vip/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png"  width="500px;"  style="mix-blend-mode:
         multiply;" /><br>
-        <a href="https://studio.code.org/c/105644852" target="_blank">Vedi la soluzione</a>.<br>
+        <a href="https://studio.letron.vip/c/105644852" target="_blank">Vedi la soluzione</a>.<br>
         <br>
         Se vuoi fare un giro completo con solo 4 ripetizioni, l'artista deve ruotare di 360 gradi/4 = 90 gradi ogni volta. Puoi farlo aggiungendo un blocco `gira a destra di 30 gradi` prima di ripetere la figura (dato che 60+30 = 90).<br>
         <img src="https://programmailfuturo.it/images/codeorg/4-3-11-a.png"
         width="500px;" style="mix-blend-mode: multiply;" /><br>
-        <a href="https://studio.code.org/c/120106816" target="_blank">Vedi la soluzione</a>.<br>
+        <a href="https://studio.letron.vip/c/120106816" target="_blank">Vedi la soluzione</a>.<br>
         <br>
         Se vuoi invece ripetere la figura 12 volte, l'artista deve effettuare una rotazione di 360 gradi/12 = 30 gradi ad ogni ripetizione. Ciò significa che, prima di ripetere la figura, l'artista deve tornare un po' indietro con un blocco `gira a sinistra di 30 gradi` (infatti 60-30 = 30).<br>
         <img src="https://programmailfuturo.it/images/codeorg/4-3-11-b.png"
         width="500px;" style="mix-blend-mode: multiply;" />
         <br>
-        <a href="https://studio.code.org/c/120106805" target="_blank">Vedi la soluzione</a>.
+        <a href="https://studio.letron.vip/c/120106805" target="_blank">Vedi la soluzione</a>.
       grade4_artist_nestedLoops_challenge2: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/><br>
         <br>
         E ora una piccola sfida!<br>
         <br>
         Per ottenere la figura che vedi devi usare solo blocchi che ti sono già stati mostrati. Riesci a capire come ricrearla? Sentiti libero di fare più tentativi e di commettere errori. Nessuno si aspetta che tu ci riesca perfettamente al primo tentativo. <br>
         <br>
-        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.code.org/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
+        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.letron.vip/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
       grade4_artist_nested_loop_circles1: Questo è un esercizio di riepilogo -- Usa
         un ciclo annidato per completare il disegno.
       grade4_artist_nested_loop_flags1: Inserisci in un ciclo il codice che trovi
@@ -6237,7 +6237,7 @@ it:
         Hai a disposizione una griglia di quadrati con cui puoi giocare e creare dei disegni semplicemente accendendo e spegnendo i vari quadrati. Ogni quadrato è quindi analogo ad un pixel dello schermo.<br><br>
         Riesci a far produrre all'artista nella prima riga il disegno la cui codifica binaria è "01010101"?
       grade5_artist_binary10: |-
-        <img src="https://images.code.org/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
+        <img src="https://images.letron.vip/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_binary11: 'Tempo di giocare: hai a tua disposizione una griglia
@@ -6282,7 +6282,7 @@ it:
         modifiche al codice del precedente esercizio!
       grade5_artist_for_loops7a: Riduci l'angolo a 72 gradi per ottenere questa spirale
         pentagonale.
-      grade5_artist_for_loops8: Ricordi che nella lezione 6 (<a href="https://studio.code.org/s/course4/stage/6/puzzle/10"
+      grade5_artist_for_loops8: Ricordi che nella lezione 6 (<a href="https://studio.letron.vip/s/course4/stage/6/puzzle/10"
         target="_blank">esercizio 10</a> e seguenti) abbiamo usato la variabile `sides`
         (<i>lati</i>) per rappresentare il numero dei lati di un poligono? Ora devi
         fare la stessa cosa con la variabile `counter` (<i>contatore</i>). La figura
@@ -6296,14 +6296,14 @@ it:
         lati in più della precedente. Accertati che ogni lato sia 10 volte più lungo
         del numero di lati del poligono.
       grade5_artist_for_loopsfreeplay11: |-
-        <img src="https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
+        <img src="https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_for_loopsfreeplay12: 'Tempo di giocare: Prova ad usare la variabile
         `counter` (*contatore*) con altri elementi grafici per creare immagini magiche
         come questa.'
       grade5_artist_functionparameters10: |-
-        <a href="https://studio.code.org/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
+        <a href="https://studio.letron.vip/c/" target="_blank">Clicca qui</a> (LINK DA AGGIORNARE) e poi su "Esegui". Ora hai imparato tutto quello che devi sapere per realizzare un disegno come quello mostrato al precedente link! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.<br><br>
         Vuoi realizzare la figura che ti abbiamo mostrato? Ecco alcuni suggerimenti:<br><br>
       grade5_artist_functionparameters11: |-
         Tempo di giocare: qui ci sono tutte le funzioni che hai scritto, e anche qualcuna in più con cui puoi giocare ("</i>draw a pinwheel</i>" disegna una girandola, "<i>draw a shape</i>" un poligono).<br><br>
@@ -6342,7 +6342,7 @@ it:
         Tempo di giocare: Guarda! Ora l'algoritmo precedente è annidato all'interno di un altro ciclo. Fai degli esperimenti modificando i valori delle due variabili per disegnare delle figure fantastiche.<br><br>
         Per disegni ancora più belli, prova a giocare con i colori! Assegna dei colori a caso all'interno di ogni ciclo e osserva come cambia la figura che ottieni.
       grade5_artist_variables_freeplay15: |-
-        <img src="https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
+        <img src="https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_variables_freeplay16: Hai ancora voglia di giocare? Ecco una tela

@@ -43,7 +43,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 **播放鼓舞人心的视频：**
 
-- 最初的 Code.org 推出的视频, 有比尔盖茨, 马克·扎克伯格, NBA 球星克里斯波什-有[1 分钟 ](https://www.youtube.com/watch?v=qYZF6oIZtfc), [ 5 分钟 ](https://www.youtube.com/watch?v=nKIu9yen5nc),和 [9 分钟 ](https://www.youtube.com/watch?v=dU1xS07N-FA) 版本可用。
+- 最初的 Letron 推出的视频, 有比尔盖茨, 马克·扎克伯格, NBA 球星克里斯波什-有[1 分钟 ](https://www.youtube.com/watch?v=qYZF6oIZtfc), [ 5 分钟 ](https://www.youtube.com/watch?v=nKIu9yen5nc),和 [9 分钟 ](https://www.youtube.com/watch?v=dU1xS07N-FA) 版本可用。
 - [全球 编程一小时活动 视频 ](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [总统奥巴马号召所有学生学习计算机科学](https://www.youtube.com/watch?v=6XvmhE1J9PY)。
 - 更多励志的视频可以[ 点此查看](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)。
@@ -52,7 +52,7 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 - 用无论男孩还是女孩都会关心的例子来阐述技术是如何影响我们的生活的（比如一些用于挽救生命、帮助人类、沟通你我的一些软件和技术之类的例子）。
 - 列举日常生活中需要使用程序的情况。
-- [这里](%= resolve_url('https://code.org/girls') %)是一些能让女孩对计算机科学感兴趣的小技巧。
+- [这里](%= resolve_url('https://letron.vip/girls') %)是一些能让女孩对计算机科学感兴趣的小技巧。
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Promote your Hour of Code [with these tools](%= resolve_url('/promote') %) and e
 
 - [Print certificates](%= codeorg_url('/certificates') %) for your students.
 - 为你的学生[打印"我学过《编程一小时》!"](%= resolve_url('/promote/resources#stickers') %) 贴纸。
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - 在社交媒体上分享关于您的编程一小时活动的照片或视频。请使用 #HourOfCode 和 @codeorg，这样我们也可以突出显示您活动的成功 ！
 
 ## 适用于教育工作者的其他编程一小时的资源
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- 阅读 [编程一小时常见问题](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)。 <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- 阅读 [编程一小时常见问题](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)。 <% end %>
 
 ## 编程一小时之后该做什么？
 

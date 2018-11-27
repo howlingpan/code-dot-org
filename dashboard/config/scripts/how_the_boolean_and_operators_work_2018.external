@@ -13,7 +13,7 @@ The logical operators -- also known as the *Boolean Operators* -- AND (`&&`), OR
 
 The **`&&`** operator (called "AND") lets you check whether two conditions are *both true* at the same time. Consider the statement below:
 
-<img src="https://images.code.org/f5751338ef502ed0471c1bc92cddb564-image-1480345911160.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/f5751338ef502ed0471c1bc92cddb564-image-1480345911160.png" style="display: block; margin: auto">
 
 This says: *"True or false: is it the case that BOTH `age >= 13` AND `age < 21`?"*
 
@@ -30,7 +30,7 @@ If both of *expression 1* and *expression 2* return *true* then the larger compo
 <p style="break-after: always; -moz-column-break-after: always; -webkit-column-break-after: always;">
 
 
-<img src="https://images.code.org/22f7afd9634a1657bef20e176fcf6d98-image-1480347643832.png" style="display: block; margin: auto;"><br>
+<img src="https://images.letron.vip/22f7afd9634a1657bef20e176fcf6d98-image-1480347643832.png" style="display: block; margin: auto;"><br>
 
 <span style="font-weight: bold; color: #00adbc; font-size: 150%; display: block; width:100%; text-align: center">Logical AND</span>
 
@@ -42,11 +42,11 @@ If <em>either expr1 or expr2</em> is <em>false</em> then the whole expression re
 
 <br><br>
 
-<img src="https://images.code.org/4f73b19fc619a7cb5318c6e21c2a254e-image-1480348342441.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/4f73b19fc619a7cb5318c6e21c2a254e-image-1480348342441.png" style="display: block; margin: auto;">
 
 </p>
 <p style="break-after: always; -moz-column-break-after: always; -webkit-column-break-after: always;">
-<img src="https://images.code.org/30c7b84d42e843a59062ea23b222d8e2-image-1480348489014.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/30c7b84d42e843a59062ea23b222d8e2-image-1480348489014.png" style="display: block; margin: auto;">
 <br>
 <span style="font-weight: bold; color: #00adbc; font-size: 150%; display: block; width:100%; text-align: center">Logical OR</span>
 
@@ -55,17 +55,17 @@ If <em>either expr1 or expr2</em> is <em>false</em> then the whole expression re
 If <em>either expr1 <strong>OR</strong> expr2</em> are <em>true</em> then the whole expression returns <code>true</code>.<br>
 If <em>both expr1 and expr2</em> are <em>false</em> then the whole expression returns <code>false</code>.
 <br><br>
-<img src="https://images.code.org/1f6debed81d5587e638b4608ec80b4b0-image-1480348321161.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/1f6debed81d5587e638b4608ec80b4b0-image-1480348321161.png" style="display: block; margin: auto;">
 
 </p>
 <p>
-<img src="https://images.code.org/8ea45abc738ff2c8be3daec0fcb636b9-image-1480348562063.png" style="display: block; margin: auto;"><br>
+<img src="https://images.letron.vip/8ea45abc738ff2c8be3daec0fcb636b9-image-1480348562063.png" style="display: block; margin: auto;"><br>
 <span style="font-weight: bold; color: #00adbc; font-size: 150%; display: block; width:100%; text-align: center">Logical NOT</span>
 <br><br>
 
 This operator takes a single true/false value and inverts it. For example, maybe you want to say something like, "if it's <em>NOT</em> the case that age is less than 21" you could write this: <code>!(age &lt; 21)</code>. Even though that's logically the same as <code>(age &gt;= 21)</code> sometimes it's clearer or more efficient to state something in the negative with NOT.
 <br><br>
-<img src="https://images.code.org/35b1a6c019695c63c3e1a6e8b0aefd30-image-1480348434561.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/35b1a6c019695c63c3e1a6e8b0aefd30-image-1480348434561.png" style="display: block; margin: auto;">
 
 </p>
 </div>
@@ -75,7 +75,7 @@ This operator takes a single true/false value and inverts it. For example, maybe
 
 Here are two scenarios shown side-by-side that illustrate how a compound Boolean expression is evaluated step-by-step.
 
-<img src="https://images.code.org/c8d7377fffe9395b92ddd483f749b4d8-image-1480365268815.png" style="float: right">
+<img src="https://images.letron.vip/c8d7377fffe9395b92ddd483f749b4d8-image-1480365268815.png" style="float: right">
 
 The entire expression: `age >= 13 && age < 21` will end up as a single true/false value depending on what the value of `age` is.  But it's computed *one step at a time*.  This expression has 3 steps to it:
 
@@ -96,7 +96,7 @@ The entire expression: `age >= 13 && age < 21` will end up as a single true/fals
 
 Here is an example for `OR` showing how the expression is evaluated step-by-step for two different scenarios.
 
-![](https://images.code.org/4bf3bda9b77f8baf79d34869f5ea6248-image-1487254065480.png)
+![](https://images.letron.vip/4bf3bda9b77f8baf79d34869f5ea6248-image-1487254065480.png)
 
 ## Misconceptions
 
@@ -108,11 +108,11 @@ It's common to forget that you need to state a *full Boolean expression* on each
 
 And then write this:
 
-![](https://images.code.org/a22fe13749c9a80afb9f015d8ba16e64-image-1480351921918.png)
+![](https://images.letron.vip/a22fe13749c9a80afb9f015d8ba16e64-image-1480351921918.png)
 
 This is *incorrect* because `"Sunday"` by itself is not a boolean expression - it isn't true or false. So the correct version is a bit more verbose but one the computer can process: 
 
-![](https://images.code.org/22b76ad48c2b318553b5aacf25c6c90c-image-1480352080275.png)
+![](https://images.letron.vip/22b76ad48c2b318553b5aacf25c6c90c-image-1480352080275.png)
 
 Just remember that each side of a boolean operator needs to evaluate to true or false. 
 
@@ -125,7 +125,7 @@ There are logical misconceptions because the way we use "and" and "or" when spea
 
 One statement uses **and** and the other one **or**.  If you're writing code, which should it be? Does it matter? It turns out: yes.
 
-<img src="https://images.code.org/0323273a0c86abc9159bfa3bfcb03d03-image-1480352646265.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/0323273a0c86abc9159bfa3bfcb03d03-image-1480352646265.png" style="display: block; margin: auto;">
 
 <div style="column-count: 2; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 2; width: 100%">
 
@@ -146,7 +146,7 @@ This example shows that English may mislead you if you're not careful.  So after
 
 Since compound boolean expressions eventually evaluate down to a *single true/false value* you can use them in an `if` statement.  The whole expression evaluates to determine whether or not execute a section of code.  Here is a simple example:
 
-![](https://images.code.org/bf34e6d2b39e1ba438f31d55c9f646f9-image-1480365546942.png)
+![](https://images.letron.vip/bf34e6d2b39e1ba438f31d55c9f646f9-image-1480365546942.png)
 
 This shows how with one expression we can ask whether the person's age is between 13 and 22.
 

@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>16, :title=> 'Bee: Functions with Parameters', :unplugged=>false, :time=>30) %>
@@ -52,7 +52,7 @@ This lesson gets complicated rather quickly.  If your students had an easy time 
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Bee: Functions with Parameters](http://learn.code.org/s/course4/stage/16/puzzle/1)
+### <a name="Activity"></a> [Bee: Functions with Parameters](http://learn.letron.vip/s/course4/stage/16/puzzle/1)
 
 [/together]
 

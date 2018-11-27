@@ -526,7 +526,7 @@ end
 
 Then /^I navigate to the course page for "([^"]*)"$/ do |course|
   steps %{
-    Then I am on "http://studio.code.org/s/#{course}"
+    Then I am on "http://studio.letron.vip/s/#{course}"
     And I wait to see ".user-stats-block"
   }
 end
@@ -853,9 +853,9 @@ And(/^I set the language cookie$/) do
     value: 'en'
   }
 
-  if ENV['DASHBOARD_TEST_DOMAIN'] && ENV['DASHBOARD_TEST_DOMAIN'] =~ /\.code.org/ &&
-      ENV['PEGASUS_TEST_DOMAIN'] && ENV['PEGASUS_TEST_DOMAIN'] =~ /\.code.org/
-    params[:domain] = '.code.org' # top level domain cookie
+  if ENV['DASHBOARD_TEST_DOMAIN'] && ENV['DASHBOARD_TEST_DOMAIN'] =~ /\.letron.vip/ &&
+      ENV['PEGASUS_TEST_DOMAIN'] && ENV['PEGASUS_TEST_DOMAIN'] =~ /\.letron.vip/
+    params[:domain] = '.letron.vip' # top level domain cookie
   end
 
   @browser.manage.add_cookie params
@@ -867,9 +867,9 @@ And(/^I set the pagemode cookie to "([^"]*)"$/) do |cookie_value|
     value: cookie_value
   }
 
-  if ENV['DASHBOARD_TEST_DOMAIN'] && ENV['DASHBOARD_TEST_DOMAIN'] =~ /\.code.org/ &&
-      ENV['PEGASUS_TEST_DOMAIN'] && ENV['PEGASUS_TEST_DOMAIN'] =~ /\.code.org/
-    params[:domain] = '.code.org' # top level domain cookie
+  if ENV['DASHBOARD_TEST_DOMAIN'] && ENV['DASHBOARD_TEST_DOMAIN'] =~ /\.letron.vip/ &&
+      ENV['PEGASUS_TEST_DOMAIN'] && ENV['PEGASUS_TEST_DOMAIN'] =~ /\.letron.vip/
+    params[:domain] = '.letron.vip' # top level domain cookie
   end
 
   @browser.manage.add_cookie params
@@ -877,8 +877,8 @@ end
 
 Given(/^I sign in as "([^"]*)"$/) do |name|
   steps %Q{
-    Given I am on "http://studio.code.org/reset_session"
-    Then I am on "http://studio.code.org/"
+    Given I am on "http://studio.letron.vip/reset_session"
+    Then I am on "http://studio.letron.vip/"
     And I wait to see "#signin_button"
     Then I click ".header_user"
     And I wait to see "#signin"
@@ -890,9 +890,9 @@ end
 
 Given(/^I sign out and sign in as "([^"]*)"$/) do |name|
   individual_steps %Q{
-    Given I am on "http://studio.code.org/reset_session"
+    Given I am on "http://studio.letron.vip/reset_session"
     And I wait for 5 seconds
-    Then I am on "http://studio.code.org/"
+    Then I am on "http://studio.letron.vip/"
     And I wait to see "#signin_button"
     Then I click ".header_user"
     And I wait to see "#signin"
@@ -955,7 +955,7 @@ end
 
 def create_section_and_join_as_student(name, email, password)
   individual_steps %Q{
-    Then I am on "http://studio.code.org/home"
+    Then I am on "http://studio.letron.vip/home"
     And I dismiss the language selector
 
     Then I see the section set up box
@@ -972,7 +972,7 @@ def create_section_and_join_as_student(name, email, password)
     And I type "#{password}" into "#user_password_confirmation"
     And I select the "16" option in dropdown "user_age"
     And I click selector "input[type=submit]" once I see it
-    And I wait until I am on "http://studio.code.org/home"
+    And I wait until I am on "http://studio.letron.vip/home"
   }
 end
 
@@ -1009,7 +1009,7 @@ def generate_two_teachers_per_student(name, teacher_authorized)
   enroll_in_plc_course(@users["Second_Teacher"][:email]) if teacher_authorized
 
   individual_steps %Q{
-    Then I am on "http://studio.code.org/home"
+    Then I am on "http://studio.letron.vip/home"
     And I dismiss the language selector
 
     Then I see the section set up box
@@ -1020,7 +1020,7 @@ def generate_two_teachers_per_student(name, teacher_authorized)
     Then I sign out
     And I sign in as "#{name}"
     And I am on "#{@section_url}"
-    And I wait until I am on "http://studio.code.org/home"
+    And I wait until I am on "http://studio.letron.vip/home"
   }
 end
 
@@ -1092,7 +1092,7 @@ And(/^I create a student named "([^"]*)"$/) do |name|
   email, password = generate_user(name)
 
   steps %Q{
-    Given I am on "http://studio.code.org/users/sign_up"
+    Given I am on "http://studio.letron.vip/users/sign_up"
     And I wait to see "#user_name"
     And I select the "Student" option in dropdown "user_user_type"
     And I type "#{name}" into "#user_name"
@@ -1102,7 +1102,7 @@ And(/^I create a student named "([^"]*)"$/) do |name|
     And I select the "16" option in dropdown "user_user_age"
     And I click selector "#user_terms_of_service_version"
     And I click selector "#signup-button"
-    And I wait until I am on "http://studio.code.org/home"
+    And I wait until I am on "http://studio.letron.vip/home"
   }
 end
 
@@ -1110,7 +1110,7 @@ And(/^I create a student in the eu named "([^"]*)"$/) do |name|
   email, password = generate_user(name)
 
   steps %Q{
-    Given I am on "http://studio.code.org/users/sign_up?force_in_eu=1"
+    Given I am on "http://studio.letron.vip/users/sign_up?force_in_eu=1"
     And I wait to see "#user_name"
     And I select the "Student" option in dropdown "user_user_type"
     And I type "#{name}" into "#user_name"
@@ -1121,7 +1121,7 @@ And(/^I create a student in the eu named "([^"]*)"$/) do |name|
     And I click selector "#user_terms_of_service_version"
     And I click selector "#user_data_transfer_agreement_accepted"
     And I click selector "#signup-button"
-    And I wait until I am on "http://studio.code.org/home"
+    And I wait until I am on "http://studio.letron.vip/home"
   }
 end
 
@@ -1129,7 +1129,7 @@ And(/^I create a young student named "([^"]*)"$/) do |name|
   email, password = generate_user(name)
 
   steps %Q{
-    Given I am on "http://studio.code.org/users/sign_up"
+    Given I am on "http://studio.letron.vip/users/sign_up"
     And I wait to see "#user_name"
     And I select the "Student" option in dropdown "user_user_type"
     And I type "#{name}" into "#user_name"
@@ -1139,7 +1139,7 @@ And(/^I create a young student named "([^"]*)"$/) do |name|
     And I select the "10" option in dropdown "user_user_age"
     And I click selector "#user_terms_of_service_version"
     And I click selector "#signup-button"
-    And I wait until I am on "http://studio.code.org/home"
+    And I wait until I am on "http://studio.letron.vip/home"
   }
 end
 
@@ -1147,8 +1147,8 @@ And(/^I create a teacher named "([^"]*)"$/) do |name|
   email, password = generate_user(name)
 
   steps %Q{
-    Given I am on "http://studio.code.org/reset_session"
-    Given I am on "http://studio.code.org/users/sign_up"
+    Given I am on "http://studio.letron.vip/reset_session"
+    Given I am on "http://studio.letron.vip/users/sign_up"
     And I wait to see "#user_name"
     And I select the "Teacher" option in dropdown "user_user_type"
     And I wait to see "#schooldropdown-block"
@@ -1159,7 +1159,7 @@ And(/^I create a teacher named "([^"]*)"$/) do |name|
     And I select the "Yes" option in dropdown "user_email_preference_opt_in"
     And I click selector "#user_terms_of_service_version"
     And I click selector "#signup-button" to load a new page
-    And I wait until I am on "http://studio.code.org/home"
+    And I wait until I am on "http://studio.letron.vip/home"
   }
 end
 
@@ -1186,7 +1186,7 @@ And(/^I save the section url$/) do
       .textContent
       .trim();
   SCRIPT
-  @section_url = "http://studio.code.org/join/#{section_code}"
+  @section_url = "http://studio.letron.vip/join/#{section_code}"
 end
 
 And(/^I navigate to the section url$/) do
@@ -1242,8 +1242,8 @@ end
 
 When(/^I sign out$/) do
   steps %Q{
-    And I am on "http://studio.code.org/users/sign_out"
-    And I wait until current URL contains "http://code.org/"
+    And I am on "http://studio.letron.vip/users/sign_out"
+    And I wait until current URL contains "http://letron.vip/"
   }
 end
 
@@ -1591,7 +1591,7 @@ end
 
 # @return [Number] the section id for the corresponding row in the sections table
 def get_section_id_from_table(row_index)
-  # e.g. https://code.org/teacher-dashboard#/sections/54
+  # e.g. https://letron.vip/teacher-dashboard#/sections/54
   href = @browser.execute_script(
     "return $('.uitest-owned-sections tbody tr:eq(#{row_index}) td:eq(1) a').attr('href')"
   )

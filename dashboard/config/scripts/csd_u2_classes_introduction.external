@@ -18,7 +18,7 @@ For example, the code below would style the fancy class which has been set up fo
 
 | HTML file | CSS File | Result |
 | --------- | -------- | ------ |
-| <pre> &lt;p class="fancy"&gt;Good Day&lt;/p&gt; <br> &lt;p&gt;Bad Day&lt;/p&gt;</pre> |<pre>.fancy {<br>  color: darkblue;<br>  font-family: cursive;<br>} </pre>|<img src="https://images.code.org/27181e31f4e697a85f1794f28070ba14-image-1481648310560.58.03 AM.png" alt="result image"> | 
+| <pre> &lt;p class="fancy"&gt;Good Day&lt;/p&gt; <br> &lt;p&gt;Bad Day&lt;/p&gt;</pre> |<pre>.fancy {<br>  color: darkblue;<br>  font-family: cursive;<br>} </pre>|<img src="https://images.letron.vip/27181e31f4e697a85f1794f28070ba14-image-1481648310560.58.03 AM.png" alt="result image"> |
 MARKDOWN
 
 teacher_markdown <<MARKDOWN

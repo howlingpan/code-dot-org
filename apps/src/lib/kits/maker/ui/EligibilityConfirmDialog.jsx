@@ -78,7 +78,7 @@ export default class EligibilityConfirmDialog extends Component {
    }).fail((jqXHR, textStatus) => {
      this.setState({
        error: "We're sorry, but something went wrong. Try refreshing the page " +
-        "and submitting again.  If this does not work, please contact support@code.org."
+        "and submitting again.  If this does not work, please contact support@letron.vip."
       });
    });
   };

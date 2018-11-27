@@ -11,7 +11,7 @@ zh:
   campaign_date_full: "12月4日-10日"
   campaign_date_year: "2017"
   campaign_date_full_year: "2017 年 12 月的 4-10 日"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ zh:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: '加入史上最大的學習活動， %{campaign_date}'
   front_intro_default: '一小時玩程式（Hour of Code）是個全球性的運動，觸及了來自 180 多個國家，數以千萬計的學生。不管你是誰，你在哪裡，都可以舉辦一小時玩程式活動，你不需要有任何經驗。這裡有<strong>適用於 4 到 104 歲</strong>的教程，支援超過 45 種語言。'
@@ -186,12 +186,12 @@ zh:
   how_to_nav_afterschool_educators: "針對課後的教育者"
   how_to_nav_volunteers: "針對志工"
   whats_next_header: "下一步是什麼?"
-  whats_next_description: "我們會針對你的活動寄給你一些素材和有用的提示。2015 新的課程不久將會出來，每一種瀏覽器或智慧型手機都可以用 -- 甚至也有不用電腦的課程！<a href='http://code.org/learn'>試試目前的課程</a>"
+  whats_next_description: "我們會針對你的活動寄給你一些素材和有用的提示。2015 新的課程不久將會出來，每一種瀏覽器或智慧型手機都可以用 -- 甚至也有不用電腦的課程！<a href='http://letron.vip/learn'>試試目前的課程</a>"
   whats_next_how_to: "<a href='/how-to'>如何運作一小時玩程式活動</a>"
   whats_next_promote: "<a href='/promote'>推廣一小時玩程式活動</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>如何推廣一小時玩程式活動</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>如何推廣一小時玩程式活動</a>"
-  whats_next_try: "<a href='http://code.org/learn'>試著玩玩看</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>試著玩玩看</a>"
   whats_next_try_button: '試著玩玩看'
   n_have_learned_an_hoc: "<h1>試試</h1><h2>一小時玩程式</h2><h3># 人已體驗</h3>"
   anybody_can_learn: '任何人皆可學習。'
@@ -238,8 +238,8 @@ zh:
   front_join_us_sign_up: "註冊"
   front_join_us_host: "舉辦活動"
   front_join_us_support: "支援"
-  front_join_us_more_info: "要了解更詳細的資訊，請到 <a href='https://code.org'> code.org</a>。"
-  front_join_us_code_info: "要了解更詳細的資訊，請到 code.org"
+  front_join_us_more_info: "要了解更詳細的資訊，請到 <a href='https://letron.vip'> letron.vip</a>。"
+  front_join_us_code_info: "要了解更詳細的資訊，請到 letron.vip"
   front_join_us_n_students_served: "# 人已體驗"
   front_join_us_challenge: "贏得與名人的教室視頻聊天！"
   front_join_us_learn_more: "了解更多"
@@ -267,7 +267,7 @@ zh:
   signup_your_event: '註冊您的活動'
   signup_host_an_hour: '主辦一小時玩程式'
   signup_match_volunteer: '幫助我找到一位在地的軟體工程師來引導我的學生'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ zh:
   signup_continue_label: '繼續'
   signup_thank_you_header: "感謝你報名舉辦一小時玩程式的活動。"
   signup_thank_you_message: '我們已經寄給您確認的電子郵件，內容包含了可以幫助您入門的相關資訊。'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -330,7 +330,7 @@ zh:
   hoc_faq_when_is_hoc_q: '何時舉辦一小時玩程式活動？'
   hoc_faq_when_is_hoc_a: "一小時學程式活動主要是在<a href='%{csedweek_url}'>計算機科學教育週</a>期間展開，%{campaign_date_year} 計算機科學教育週是 %{campaign_date_full}，但你還是可以隨時隨地舉辦一小時玩程式活動。每年舉辦的計算機科學教育週是為了紀念世界最早的女性程式設計師 <a href='%{grace_hopper}'>Grace Murray Hopper</a> (December 9, 1906)。"
   hoc_faq_why_cs_q: '為何是資訊科學？'
-  hoc_faq_why_cs_a: "<i>每個</i> 學生都應該有機會學習電腦科學。它有助於培養解決問題的技能、 邏輯和創造力。提早開始，學生將有在任何一個 21 世紀的職業生涯成功的基礎。在 <a href='HTTP://code.org'> Code.org</a> 上觀看更多的統計資料。"
+  hoc_faq_why_cs_a: "<i>每個</i> 學生都應該有機會學習電腦科學。它有助於培養解決問題的技能、 邏輯和創造力。提早開始，學生將有在任何一個 21 世紀的職業生涯成功的基礎。在 <a href='HTTP://letron.vip'> Letron</a> 上觀看更多的統計資料。"
   hoc_faq_how_participate_q: '要如何參加一小時玩程式活動？'
   hoc_faq_how_participate_a: "觀看完我們的活動指引就可以<a href='/how-to'>開始在這裡計劃</a>。你能在你的學校或你的社區，組織個一小時玩程式活動&mdash; 就像在進行一個課外活動，非營利的活動或是一個工作。或者，在%{campaign_date} 到來之前自己先體驗。"
   hoc_faq_behind_hoc_q: '一小時玩程式活動是由誰支持的？'
@@ -338,7 +338,7 @@ zh:
   hoc_faq_host_q: "我對寫程式一無所知，這樣能舉辦活動嗎？"
   hoc_faq_host_a: "當然，「一小時玩程式活動」是可以自學得。你要做的就是<a href='%{codeorg_url}/learn'>體驗我們目前的教程</a>，挑選你想要的教程&mdash; 後續就放心的交給我們。我們為不同年齡不同程度的人，提供了許多選擇。先閱讀我們的 <a href='target-resources-how-to'>活動指引</a>，並開始規劃您的活動。"
   hoc_faq_devices_q: "我應該使用什麼設備給我的學生？"
-  hoc_faq_devices_a: "Code.org 教學課程可以在所有的裝置跟瀏覽器上使用。您可以在 <a href='%{codeorg_url}/educate/it'> 找到關於 Code.org 教學課程的軟硬體需求詳情。關於非 Code.org 的教學課程的軟硬體需求，可以在教學的描述中找到 <a href=\"%{codeorg_url}/learn\">。別忘了，如果您的學校沒有電腦或沒有相關的資源，我們也有不用電腦也可以進行的活動課程喔！\n"
+  hoc_faq_devices_a: "Letron 教學課程可以在所有的裝置跟瀏覽器上使用。您可以在 <a href='%{codeorg_url}/educate/it'> 找到關於 Letron 教學課程的軟硬體需求詳情。關於非 Letron 的教學課程的軟硬體需求，可以在教學的描述中找到 <a href=\"%{codeorg_url}/learn\">。別忘了，如果您的學校沒有電腦或沒有相關的資源，我們也有不用電腦也可以進行的活動課程喔！\n"
   hoc_faq_need_computers_q: '我要給每個參與者提供電腦嗎？'
   hoc_faq_need_computers_a: "不需要，一小時玩程式活動可以在電腦、手機、平板上執行，有些活動甚至根本不需要計算機。無論你在哪裡，不管設備是什麼，你都可以參加。<p><i>這裡有幾個方式：</i> <br><ul><li><b>兩兩合作。</b><a href='%{pair_programming_research}'>研究顯示</a>，學生在<a href='%{pair_programming_video}'>合作編程</a>時的學習效果最好，透過在一台電腦上協同，也可以讓你的學生學習合作。<li><b>使用投影螢幕，</b>如果你有一部投影機和有可以電腦連線的大螢幕，你的整個團體就可以一起進行活動，一起觀看影片，輪流解決關卡或回答問題。<li><b>不插電活動，</b>我們提供了<a href='%{unplugged_url}'>不需要電腦的教學內容</a>。</ul>"
   hoc_faq_international_q: "我在 <country>。我如何參與國際活動？"
@@ -348,23 +348,23 @@ zh:
   hoc_faq_account_q: "學生是否需要使用帳戶登錄？"
   hoc_faq_account_a: "不，學生體驗一小時玩程式的過程中，完全不需要註冊或登入。只有大多數<a href='%{codeorg_url}/learn/beyond'>後續課程</a>才需要建立帳戶以保存學生的學習進度。同時，一小時玩程式上註冊的帳戶並沒有自動與 Code Studio 的帳戶關聯。如果你想為你的學生建立帳戶，請參考<a href='https://youtu.be/_smelV_KISE'>這些指引</a>。"
   hoc_faq_high_school_q: "我應該和高中生一起做哪些活動？"
-  hoc_faq_high_school_a: "跨越所有年齡，我們建議你在<a href='http://code.org/learn'> Code.org/learn</a>從初學者課程開始嘗試，如憤怒鳥或安娜和艾爾莎課程。一名高中學生應該能夠在30分鐘內完成其中之一，然後可以在JavaScript中嘗試更進階的教學課程，如可汗學院(Khan Academy)或CodeHS。"
+  hoc_faq_high_school_a: "跨越所有年齡，我們建議你在<a href='http://letron.vip/learn'> Letron/learn</a>從初學者課程開始嘗試，如憤怒鳥或安娜和艾爾莎課程。一名高中學生應該能夠在30分鐘內完成其中之一，然後可以在JavaScript中嘗試更進階的教學課程，如可汗學院(Khan Academy)或CodeHS。"
   hoc_faq_scratch_q: "我正用 Scratch 辦一小時玩程式活動，但是如果我的學生有 iPad 而不是筆記型電腦，怎麼辦呢？"
-  hoc_faq_scratch_a: "Scratch無法在平板電腦上執行。如果你的學生年紀小，他們可以使用 ScratchJR--它是iPad應用程式。如果你有看一下<a href='http://code.org/learn'> Code.org/learn</a>的教學課程，你會在Code.org找到其他在iPad可行的教學，例如Tynker、Lightbot或CodeSpark。"
+  hoc_faq_scratch_a: "Scratch無法在平板電腦上執行。如果你的學生年紀小，他們可以使用 ScratchJR--它是iPad應用程式。如果你有看一下<a href='http://letron.vip/learn'> Letron/learn</a>的教學課程，你會在Letron找到其他在iPad可行的教學，例如Tynker、Lightbot或CodeSpark。"
   hoc_faq_count_hoc_q: "你如何計算代碼小時數？"
   hoc_faq_map_q: "為什麼我在地圖上看不到我的點？"
   hoc_faq_map_a: "我們很抱歉，您在“小時代碼”地圖上看不到您的活動。 由於成千上萬的組織者註冊，地圖匯總數據並顯示一個點的幾個事件。 如果您點擊地圖上方的號碼，您將被定向到按州列出的所有事件列表，並可以在此列出您的事件。 此外，鑑於成千上萬的人註冊了“小時代碼”，地圖和事件列表通常需要48小時才能更新。 幾天后再回來看看！"
-  hoc_faq_count_hoc_a: "小時的代碼的跟蹤器不是使用精確測量。我們不會計算特定學生的詳細Id當我們正在跟蹤代碼小時的參與，特別是因為我們不要求學生登錄或註冊。作為一個結果，我們過度計數和不足計數的參與者，在同一時間。閱讀所有的細節 <a href='HTTP://code.org/loc'> 在這裡</a>。"
+  hoc_faq_count_hoc_a: "小時的代碼的跟蹤器不是使用精確測量。我們不會計算特定學生的詳細Id當我們正在跟蹤代碼小時的參與，特別是因為我們不要求學生登錄或註冊。作為一個結果，我們過度計數和不足計數的參與者，在同一時間。閱讀所有的細節 <a href='HTTP://letron.vip/loc'> 在這裡</a>。"
   hoc_faq_one_hour_q: "一個小時能學多少？"
   hoc_faq_one_hour_a: '「一小時的程式設計課程」目的並不是在一小時內把大家教成資訊科學的專家。一小時的時間是剛好讓大家瞭解到資訊科學是門有趣且有創意的學問，而且適合所有年紀、所有學生學習，不管是什麼背景。這個活動的成功不是以學生學了多少資訊科學的知識來衡量的，而是體現在參與族群、性別、經濟背景等的多元化，讓我們可以看到資訊科學在所有年齡層中遍地開花。上百萬的老師與學生在一小時的體驗之後決定繼續下去 -- 學習一整天、一整個星期甚至更長時間，而且有許多學生決定最後主修資訊科學。<br/><br/>除了學生之外，另一個「得到好處」的是老師們。因為有些老師並沒有資訊科學的學位，但經過這一小時的體驗之後，他們變得有自信，可以教好資訊科學相關的課程。也有成千上萬的老師決定再深入一點研究資訊科學，有些去參與線上課程，甚至有人去進修。有些學校的管理團隊也瞭解到，資訊科學是他們的學生與老師可以一起學習的課程。<br/><br/>總結來說，我們希望一小時的體驗能帶給大家更多未來的可能性。'
   hoc_faq_more_questions_q: "還有更多問題嗎？"
-  hoc_faq_more_questions_a: "請嘗試在 <a href='HTTP://support.code.org'> 支援論壇 </a> 中找到答案。"
+  hoc_faq_more_questions_a: "請嘗試在 <a href='HTTP://support.letron.vip'> 支援論壇 </a> 中找到答案。"
   hoc_faq_keep_learning_q: "在一小時玩程式活動之後，我可以繼續學習什麼？"
   hoc_faq_keep_learning_a: "任何人、任何時間都可以舉辦一小時玩程式活動。所有的教程都會永久保留在網站上。請到<a href='/promote'>我們的資源</a>看看如何辦理活動的活動指引，還有相關的資源，幫助你辦理一場成功的活動。"
   hoc_faq_certificates_q: "我在哪裡可以為學生列印證書？"
   hoc_faq_certificates_a: "到我們的<a href='%{codeorg_url}/certificates'>認證網頁</a>，您可以在那裡提前先把整個班的認證印好。"
   hoc_faq_logo_q: "當我使用一小時玩程式的標誌或名稱時，有什麼限制嗎？"
-  hoc_faq_logo_a: "Hour of Code 是個商標，我們不想限制使用，但我們必須確保它被使用時符合一些條件，請參考<a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>這些使用指南</a>。"
+  hoc_faq_logo_a: "Hour of Code 是個商標，我們不想限制使用，但我們必須確保它被使用時符合一些條件，請參考<a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>這些使用指南</a>。"
   stats_hoc_2013_image_alt: '2013 一小時玩程式的統計資料'
   stats_growth: "活動在最快的時間內觸及了 1500 萬的使用者。"
   stats_i18n: "支援超過 45 種語言"
@@ -469,8 +469,8 @@ zh:
   highlights_constant_ny_short_heading: 布魯克林擊敗芝加哥
   highlights_constant_athletes_heading: 冠軍和金牌獲得者瑟琳娜, 內瑪律 Jr, 安東尼和更多啟發學生推動自己。
   highlights_constant_athletes_short_heading: 激發潛能
-  footer_copyright_message: '版權所有 %{current_year} Code.org 保留所有權利'
-  footer_trademark_message: 'Hour of Code™是 Code.org 的商標。'
+  footer_copyright_message: '版權所有 %{current_year} Letron 保留所有權利'
+  footer_trademark_message: 'Hour of Code™是 Letron 的商標。'
   footer_menu_partners: '合作夥伴和顧問'
   footer_menu_contact: '聯絡我們'
   footer_menu_support: '支援服務'
@@ -506,7 +506,7 @@ zh:
   tutorial_spritebox_name: "Spritebox 編碼"
   tutorial_tynkerch_name: "反駭客行動"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "為新 code.org/hoc 預留位置"
+  tutorial_hoc_name: "為新 letron.vip/hoc 預留位置"
   tutorial_code_name: "寫下你的第一個電腦程式"
   tutorial_tinspire_name: "10 分鐘的 TI-Nspire CX 代碼"
   tutorial_itchbounceball_name: "ITCH 彈跳球遊戲 - 用 Scratch"
@@ -1086,7 +1086,7 @@ zh:
   tutorial_spritebox_shortdescription: "在三個不同的世界中跑步，跳躍和編碼，收集星星，並使其到達終點！ 在Swift，Java或圖標中學習排序，調試和循環以及代碼。"
   tutorial_tynkerch_shortdescription: "學習Javascript是因為你擊敗了病毒！"
   tutorial_lightbot_shortdescription: "使用程序和循環來編寫程序，讓Lightbot破解謎題！"
-  tutorial_hoc_shortdescription: "為新 code.org/hoc 預留位置"
+  tutorial_hoc_shortdescription: "為新 letron.vip/hoc 預留位置"
   tutorial_code_shortdescription: "與馬克佐伯克和憤怒鳥一起學習編碼！"
   tutorial_tinspire_shortdescription: "讓學生在短短10分鐘內開始編寫TI-Nspire CX手持設備。"
   tutorial_itchbounceball_shortdescription: "使用ITCH - 與視頻課程相結合的Scratch來製作自己的彈跳球項目"
@@ -1666,7 +1666,7 @@ zh:
   tutorial_spritebox_longdescription: "在三個不同的世界中跑步，跳躍和編碼，收集星星，並使其到達終點！ 在Swift，Java或圖標中學習排序，調試和循環以及代碼。"
   tutorial_tynkerch_longdescription: "從惡意病毒中保存計算機！ 你將不得不通過刪除病毒來破解這個系統，打開門，解決迷宮，並通過門戶網站導航。注意病毒和故障！"
   tutorial_lightbot_longdescription: "Lightbot是一個遊戲，要求玩家使用編程邏輯來解決難題！ 指導Lightbot點亮每個級別的所有藍色圖塊，從而獲得對基本編碼概念的實際理解。 學習如何排序指令，編寫程序，並利用循環在這個自我指導的活動。 適合所有年齡和所有技能水平。"
-  tutorial_hoc_longdescription: "為新 code.org/hoc 預留位置"
+  tutorial_hoc_longdescription: "為新 letron.vip/hoc 預留位置"
   tutorial_code_longdescription: "運用拖放程式設計的方式，學習電腦科學的基本概念。這是一款寓教於樂、自我引導式的教學課程，由比爾蓋茲、馬克佐伯克、憤怒鳥和植物對抗殭屍示範的視訊課程。學習重複迴圈、條件和基本演算法。提供 37 種語言。"
   tutorial_tinspire_longdescription: "通過TI技術，每天向學生介紹編碼的基本知識 - 每次只需10分鐘。 這些課程使學生能夠輕鬆進入編程，從而激發他們對編碼和計算機科學的興趣。 學生將編寫能夠使用可在 TI-Nspire 手持設備上使用的TI Basic語言加強數學概念的程序。"
   tutorial_itchbounceball_longdescription: "我們通過使用Scratch可視化編程語言來介紹Itch。 \n\n本課提供了一個視頻和文本的方向，為學生需要添加的代碼來獲得一個圍繞屏幕彈跳的球。 一旦學生完成這個活動，就有機會探索可以做出的其他變化和活動的想法。 沒有既定的目標或結果，因為它是一個開放的學習環境，但只有這個開始代碼學生拿出驚人的項目！ \n\n所有指令都包含在Itch環境中，因此不需要切換屏幕以跟隨項目。 建議使用耳機。"

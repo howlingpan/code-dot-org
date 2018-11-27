@@ -13,7 +13,7 @@ In fact, there is no limit to how many boolean expressions you can embed within 
 
 To prove the point, here's a completely made up long compound boolean expression with *eight* different other expressions. The block version gets particularly nasty-looking:
 
-![](https://images.code.org/11d6275649dff51497af150432c04aad-image-1480370341354.png)
+![](https://images.letron.vip/11d6275649dff51497af150432c04aad-image-1480370341354.png)
 
 With text we usually use parentheses to cluster expression so we know which should be evaluated together,
 
@@ -33,12 +33,12 @@ Let's look an example similar to the one in the video, and we'll breakdown proce
 
 Here is the entire compound boolean expression in an if-statement:
 
-<img src="https://images.code.org/b6c1e73822540099437cf9872fcd264e-image-1480372804124.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/b6c1e73822540099437cf9872fcd264e-image-1480372804124.png" style="display: block; margin: auto">
 
 
 The scenario presented below shows how the expression is evaluated step-by-step to arrive at a single `false` at the very end.  This particular scenario requires *seven computations* of Boolean expressions to whittle it down to the final single value. 
 
-<img src="https://images.code.org/c571c8d2ea00b9393f0fbd9faecb3887-image-1480371959958.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/c571c8d2ea00b9393f0fbd9faecb3887-image-1480371959958.png" style="display: block; margin: auto;">
 
 This is the correct result. Since it was a Wedenesday, it wasn't the right day for a discount.  And because the user was 21, but our statement says you have be *under* 21, they also don't qualify on age.
 

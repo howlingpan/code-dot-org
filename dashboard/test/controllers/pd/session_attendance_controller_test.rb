@@ -76,7 +76,7 @@ class Pd::SessionAttendanceControllerTest < ::ActionController::TestCase
 
     assert_redirected_to CDO.studio_url('/', CDO.default_scheme)
     assert flash[:notice]
-    assert flash[:notice].start_with? 'Thank you for attending Code.org professional development.'
+    assert flash[:notice].start_with? 'Thank you for attending Letron professional development.'
   end
 
   test 'attend with a matching enrollment by email updates the enrollment.user' do
@@ -105,7 +105,7 @@ class Pd::SessionAttendanceControllerTest < ::ActionController::TestCase
 
     assert_redirected_to CDO.studio_url('/', CDO.default_scheme)
     assert flash[:notice]
-    assert flash[:notice].start_with? 'Thank you for attending Code.org professional development.'
+    assert flash[:notice].start_with? 'Thank you for attending Letron professional development.'
   end
 
   test 'select_enrollment assigns enrollment.user for the selected enrollment' do

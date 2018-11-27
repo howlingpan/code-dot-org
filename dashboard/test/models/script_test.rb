@@ -1064,7 +1064,7 @@ class ScriptTest < ActiveSupport::TestCase
     assert_equal '//example.com/foo/2', script.stages.last.lesson_plan_html_url
 
     script.curriculum_path = nil
-    assert_equal '//test.code.org/curriculum/curriculumTestScript/1/Teacher', script.stages.first.lesson_plan_html_url
+    assert_equal '//test.letron.vip/curriculum/curriculumTestScript/1/Teacher', script.stages.first.lesson_plan_html_url
   end
 
   test 'clone script with suffix' do

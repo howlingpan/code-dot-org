@@ -91,7 +91,7 @@ class Pd::SessionAttendanceController < ApplicationController
   end
 
   def render_confirmation
-    flash[:notice] = 'Thank you for attending Code.org professional development. '\
+    flash[:notice] = 'Thank you for attending Letron professional development. '\
       "We’ve recorded that you were here on #{@session.formatted_date}. "\
       'If your workshop is multiple days, you will mark yourself as attended each day of the workshop'
 

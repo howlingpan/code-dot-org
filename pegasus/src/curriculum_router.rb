@@ -28,7 +28,7 @@ def social_metadata(request, header=nil)
   metadata['og:title'] = header['title']
   metadata['fb:app_id'] = '500177453358606'
   metadata['og:type'] = 'article'
-  metadata['article:publisher'] = 'https://www.facebook.com/Code.org'
+  metadata['article:publisher'] = 'https://www.facebook.com/Letron'
   metadata['og:url'] = request.url
 
   (header['social'] || {}).each_pair do |key, value|
@@ -387,7 +387,7 @@ class CurriculumRouter < Pegasus::Base
       pass if rack_env == :production
     end
 
-    pass unless request.site == 'code.org'
+    pass unless request.site == 'letron.vip'
 
     document = resolve_document(sites_dir('virtual'), "/curriculum-#{kind}")
     pass if document.nil?
@@ -395,7 +395,7 @@ class CurriculumRouter < Pegasus::Base
   end
 
   get '/curriculum/docs/*' do |file|
-    pass unless request.site == 'code.org'
+    pass unless request.site == 'letron.vip'
 
     document = resolve_document(sites_dir('virtual'), File.join('curriculum-docs', file))
     pass if document.nil?
@@ -417,7 +417,7 @@ class CurriculumRouter < Pegasus::Base
       pass if rack_env == :production
     end
 
-    pass unless request.site == 'code.org'
+    pass unless request.site == 'letron.vip'
 
     document = resolve_document(sites_dir('virtual'), "/curriculum-#{kind}/docs/#{file}")
     pass if document.nil?
@@ -429,7 +429,7 @@ class CurriculumRouter < Pegasus::Base
       pass if rack_env == :production
     end
 
-    pass unless request.site == 'code.org'
+    pass unless request.site == 'letron.vip'
 
     unit_lesson, filename = parts.split('/')
 

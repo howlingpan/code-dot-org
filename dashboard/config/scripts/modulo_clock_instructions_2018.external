@@ -16,7 +16,7 @@ We can visualize this idea as trying to count up to some number using a clock an
 
 The clock helps you see another way to think about division - how many times can I count up by 12s until I get to 43 without going over?  12...24...36.   Then how much do I need to add to 36 to make it 43? Answer: 7 - that's the remainder.
 
-<img src="https://images.code.org/807ba58f1c95b777bbb796d93b61179a-image-1475160906403.gif" style="float: right; width: 200px">
+<img src="https://images.letron.vip/807ba58f1c95b777bbb796d93b61179a-image-1475160906403.gif" style="float: right; width: 200px">
 
 # Do this: Experiment with the “Modulo Clock”
 

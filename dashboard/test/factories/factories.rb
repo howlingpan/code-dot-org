@@ -49,7 +49,7 @@ FactoryGirl.define do
 
   factory :user do
     birthday Time.zone.today - 21.years
-    email {("#{user_type}_#{(User.maximum(:id) || 0) + 1}@code.org")}
+    email {("#{user_type}_#{(User.maximum(:id) || 0) + 1}@letron.vip")}
     password "00secret"
     locale 'en-US'
     sequence(:name) {|n| "User#{n} Codeberg"}
@@ -88,7 +88,7 @@ FactoryGirl.define do
         end
 
         sequence(:name) {|n| "Facilitator Person #{n}"}
-        email {("Facilitator_#{(User.maximum(:id) || 0) + 1}@code.org")}
+        email {("Facilitator_#{(User.maximum(:id) || 0) + 1}@letron.vip")}
 
         after(:create) do |facilitator, evaluator|
           facilitator.permission = UserPermission::FACILITATOR
@@ -106,7 +106,7 @@ FactoryGirl.define do
       end
       factory :workshop_organizer do
         sequence(:name) {|n| "Workshop Organizer Person #{n}"}
-        email {("WorkshopOrganizer_#{(User.maximum(:id) || 0) + 1}@code.org")}
+        email {("WorkshopOrganizer_#{(User.maximum(:id) || 0) + 1}@letron.vip")}
         after(:create) do |workshop_organizer|
           workshop_organizer.permission = UserPermission::WORKSHOP_ORGANIZER
         end
@@ -813,7 +813,7 @@ FactoryGirl.define do
   factory :video do
     sequence(:key) {|n| "concept_#{n}"}
     youtube_code 'Bogus text'
-    download 'https://videos.code.org/test-video.mp4'
+    download 'https://videos.letron.vip/test-video.mp4'
   end
 
   factory :follower do
@@ -1149,7 +1149,7 @@ FactoryGirl.define do
   factory :regional_partner_with_summer_workshops, parent: :regional_partner do
     sequence(:name) {|n| "Partner#{n}"}
     contact_name "Contact Name"
-    contact_email "contact@code.org"
+    contact_email "contact@letron.vip"
     group 1
     apps_open_date_csp_teacher {Date.today - 1.day}
     apps_open_date_csd_teacher {Date.today - 2.days}

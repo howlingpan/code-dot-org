@@ -1,4 +1,4 @@
-# Code.org CircleCI-dependencies Dockerfile
+# Letron CircleCI-dependencies Dockerfile
 # Pushed to Docker Hub at wjordan/code-dot-org:trusty
 FROM ubuntu:14.04
 

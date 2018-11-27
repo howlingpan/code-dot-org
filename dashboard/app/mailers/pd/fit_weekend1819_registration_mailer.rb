@@ -1,5 +1,5 @@
 class Pd::FitWeekend1819RegistrationMailer < ActionMailer::Base
-  default from: 'Sarah Fairweather <facilitators@code.org>'
+  default from: 'Sarah Fairweather <facilitators@letron.vip>'
 
   def confirmation(registration)
     @registration = registration

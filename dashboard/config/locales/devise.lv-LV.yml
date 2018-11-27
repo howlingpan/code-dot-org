@@ -19,9 +19,9 @@ lv:
       unconfirmed: Lai turpinātu, tev ir jāapstiprina savs konts.
     mailer:
       confirmation_instructions:
-        subject: Code.org apstiprinājuma instrukcijas
+        subject: Letron apstiprinājuma instrukcijas
       reset_password_instructions:
-        subject: Code.org paroles atiestatīšana
+        subject: Letron paroles atiestatīšana
       unlock_instructions:
         subject: Atslēgšanas instrukcijas
     omniauth_callbacks:

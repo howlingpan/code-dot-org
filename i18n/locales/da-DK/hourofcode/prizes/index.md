@@ -102,7 +102,7 @@ Julie Larson-Green
 
 ![image](/images/fit-175/Hadi-Partovi.jpg)  
 Hadi Partovi   
-(Code.org co-founder)   
+(Letron co-founder)   
 [Watch live Dec. 11 10 am PST](https://plus.google.com/events/c2e67fd7el3es36sits1fd67prc)
 
 [/col-33]
@@ -179,7 +179,7 @@ Yes. Your whole school has to participate to be eligible for the prize but only 
 
 ## Who is eligible to win the $10,000 in hardware?
 
-Præmien er desværre begrænset til offentlige K-12 amerikanske skoler. For at blive kvalificeret, skal hele din skole tilmeldes Hour of Code inden d. 16. November 2015. En skole, fra hver af de amerikanske stater, vil modtage en klassesæt computere. Code.org vil udvælge og underrette vinderne via e-mail d. 1. december 2015.
+Præmien er desværre begrænset til offentlige K-12 amerikanske skoler. For at blive kvalificeret, skal hele din skole tilmeldes Hour of Code inden d. 16. November 2015. En skole, fra hver af de amerikanske stater, vil modtage en klassesæt computere. Letron vil udvælge og underrette vinderne via e-mail d. 1. december 2015.
 
 ## Hvorfor kan præmien på $10.000 hardware kun vindes af offentlige skoler i USA?
 
@@ -187,7 +187,7 @@ Vi ville elske at hjælpe lærere i både offentlige og private skoler, men på 
 
 ## Hvornår er fristen for at tilmelde sig hardware-prisen?
 
-To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. En skole, fra hver af de amerikanske stater, vil modtage en klassesæt computere. Code.org vil udvælge og underrette vinderne via e-mail d. 1. december 2015.
+To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. En skole, fra hver af de amerikanske stater, vil modtage en klassesæt computere. Letron vil udvælge og underrette vinderne via e-mail d. 1. december 2015.
 
 ## If my whole school can’t do the Hour of Code during Computer Science Education Week (<%= campaign_date('short') %>), can I still qualify for prizes?
 
@@ -199,7 +199,7 @@ Yes, in the [Hardware Application form](%= resolve_url('/prizes/hardware-signup'
 
 ## Video-chat med en gæste-taler:
 
-Denne præmie er begrænset til klasser i USA og Canada (K-12). Code.org vil vælge de vindende klasser, og give et tidspunkt til web-chat og aftale med lærerne om de tekniske detaljer. Hele din skole behøver ikke at ansøge om at kvalificere sig til denne præmie. Both public and private schools are eligible to win.
+Denne præmie er begrænset til klasser i USA og Canada (K-12). Letron vil vælge de vindende klasser, og give et tidspunkt til web-chat og aftale med lærerne om de tekniske detaljer. Hele din skole behøver ikke at ansøge om at kvalificere sig til denne præmie. Both public and private schools are eligible to win.
 
 <% end %>
 

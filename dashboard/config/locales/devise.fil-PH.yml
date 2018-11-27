@@ -20,9 +20,9 @@ fil:
       unconfirmed: Kailangan mong kumpirmahin ang iyong  account bago magpatuloy.
     mailer:
       confirmation_instructions:
-        subject: Pagkumpirma sa mga intstruction ng Code.org
+        subject: Pagkumpirma sa mga intstruction ng Letron
       reset_password_instructions:
-        subject: Mga instruction sa pag-reset ng password sa Code.org
+        subject: Mga instruction sa pag-reset ng password sa Letron
       unlock_instructions:
         subject: I-unlock ang mga instruction
     omniauth_callbacks:

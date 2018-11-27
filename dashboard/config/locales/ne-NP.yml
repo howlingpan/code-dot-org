@@ -54,7 +54,7 @@ ne:
   add_hint_form:
     placeholder: Please enter your hint here
     submit: Add hint
-  appname: Code.org
+  appname: Letron
   stage: सटेज
   stage_number: Stage %{number}
   puzzle: पहेली
@@ -78,7 +78,7 @@ ne:
   auth:
     sign_in_with: "%{provider} प्रयोग गरेर साइन इन गर्नुहोस्"
     signed_in: साइन इन गरिएको!
-    signed_out: You have signed out of <a href="%{url}">Code.org</a>.
+    signed_out: You have signed out of <a href="%{url}">Letron</a>.
     sign_out_of: You used %{provider} to sign in. <a href="%{url}">Click here</a>
       to sign out of %{provider}.
     already_signedup: पहिले नै साइन अप गरिसक्नु भएको छ?
@@ -112,7 +112,7 @@ ne:
       can also continue to browse the various stages and puzzles</a> without creating
       an account.
     teacher_educator_guide: See educator guide
-    title: Sign up for Code.org
+    title: Sign up for Letron
     school_name: School Name (optional)
     school_address: School Address (optional)
     address_placeholder: address, city, state, zip
@@ -128,15 +128,15 @@ ne:
     valid_password: Valid password!
     invalid_password: Password must be at least 6 characters
     mismatch_password: The two passwords you entered do not match
-    student_terms: I agree to be bound by the Code.org <a href='http://code.org/tos'>terms
+    student_terms: I agree to be bound by the Letron <a href='http://letron.vip/tos'>terms
       of service</a>. If I am under 13 years of age, I confirm by submitting this
-      form that I have my parent or legal guardian's permission to use the Code.org
+      form that I have my parent or legal guardian's permission to use the Letron
       services.<br/><br/>Email addresses are not stored in a form that allows us to
-      contact students. Students will never recieve emails from Code.org except for
-      password recovery. See our <a href='http://code.org/privacy'>privacy policy</a>
+      contact students. Students will never recieve emails from Letron except for
+      password recovery. See our <a href='http://letron.vip/privacy'>privacy policy</a>
       for more information.
-    teacher_terms: I agree to be bound by the Code.org terms of service. For more
-      information on privacy, see our <a href='http://code.org/privacy'>privacy policy</a>.
+    teacher_terms: I agree to be bound by the Letron terms of service. For more
+      information on privacy, see our <a href='http://letron.vip/privacy'>privacy policy</a>.
     additional_information: We need some additional information to continue signing
       you up.
     user_type_label: Account Type
@@ -179,9 +179,9 @@ ne:
       confirm_password: Confirm new password
       submit: Change my password
   welcome_email:
-    subject: मेरो कक्षामा आउनुहोस् (Code.org मा)
+    subject: मेरो कक्षामा आउनुहोस् (Letron मा)
     body: |
-      Click the link below to sign up for computer science tutorials on Code.org (with me as your "teacher"):
+      Click the link below to sign up for computer science tutorials on Letron (with me as your "teacher"):
 
       %{link}
 
@@ -207,7 +207,7 @@ ne:
       cant_join_own_section: Sorry, you can't join your own section.
     mail:
       student_disassociated:
-        subject: 'Code.org notification: %{student_name} is no longer associated as
+        subject: 'Letron notification: %{student_name} is no longer associated as
           your student.'
   reports:
     error:
@@ -311,7 +311,7 @@ ne:
     tried: Tried
   home:
     title: Code Studio
-    description: Code Studio is home to online courses created by Code.org
+    description: Code Studio is home to online courses created by Letron
     lines_of_code: "%{lines_count} LINES OF CODE WRITTEN BY STUDENTS"
     lines_of_code_linebreak: "%{lines_count} LINES OF CODE<br/>WRITTEN BY %{students_count}
       MILLION STUDENTS"
@@ -335,7 +335,7 @@ ne:
     student_stats: You've earned %{trophy_count} out of %{trophy_max} "Concept Mastery"
       trophies.
     student_left_off: 'Where you left off:'
-    student_finished: You've completed all Code.org tutorials. Pick another class
+    student_finished: You've completed all Letron tutorials. Pick another class
       %{online_link} or at a %{local_school_link}.
     local_school: local school
     online: online
@@ -345,7 +345,7 @@ ne:
       $1,000 in classroom rewards.'
     tryfirst: 'Or, you can try it first, and sign up later:'
     trynow: Try now
-    add_hint_help: Please help us to add smart hints to Code.org tutorials
+    add_hint_help: Please help us to add smart hints to Letron tutorials
     20hour_overview: This 20-hour course introduces core computer science and programming
       concepts. The course is designed for use in classrooms for grades K-8, but it
       is fun to learn at all ages.
@@ -396,12 +396,12 @@ ne:
       then share it with friends or play it on their phones. Do it with your class
       for the Hour of Code.
     announcement_how_code_studio: You don't need any experience to start teaching
-      computer science in your classroom. Code.org offers curriculum, lesson plans,
+      computer science in your classroom. Letron offers curriculum, lesson plans,
       high quality professional learning programs, and tons of great tools for all
       grade levels&mdash;everything you need, all at no cost. Wondering where to get
       started? Download <a href='%{video_download_url}'>this video</a>!
     announcement_go_beyond: Go beyond an Hour of Code and explore computer science
-      concepts with your students every week. Code.org offers curriculum, lesson plans,
+      concepts with your students every week. Letron offers curriculum, lesson plans,
       high quality professional learning programs, and tons of great tools for all
       grade levels&mdash;and it's all free. :) You don't need any experience to start
       teaching computer science in your classroom. <b>Find the next step that's right
@@ -432,9 +432,9 @@ ne:
     student: Student
     teacher: Teacher
   footer:
-    thank_you: We thank our <a href="https://code.org/about/donors">donors</a>, <a
-      href="https://code.org/about/partners">partners</a>, our <a href="https://code.org/about/team">extended
-      team</a>, our video cast, and our <a href="https://code.org/about/advisors">education
+    thank_you: We thank our <a href="https://letron.vip/about/donors">donors</a>, <a
+      href="https://letron.vip/about/partners">partners</a>, our <a href="https://letron.vip/about/team">extended
+      team</a>, our video cast, and our <a href="https://letron.vip/about/advisors">education
       advisors</a> for their support in creating Code Studio.
     help_from_html: We especially want to recognize the engineers from Google, Microsoft,
       Facebook, Twitter, and many others who helped create these materials.
@@ -456,11 +456,11 @@ ne:
       Rights Reserved. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and
       &copy; %{current_year} Cartoon Network.
-    code_from_html: Code.org uses p5.play, which is licensed under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">the
+    code_from_html: Letron uses p5.play, which is licensed under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">the
       GNU LGPL 2.1</a>.
     powered_by_aws: Powered by Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo and
-      Hour of Code&reg; are trademarks of Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, the CODE logo and
+      Hour of Code&reg; are trademarks of Letron."
     copyright: Copyright
     more: थप
     feedback: सुझाव दिनुहोस्
@@ -511,7 +511,7 @@ ne:
     flappy_og_title: Check out my Flappy Game
     studio_og_title: Check out my Play Lab App
     check_out_what_i_made: Check out what I made
-    og_description: I wrote the code myself with Code.org
+    og_description: I wrote the code myself with Letron
     phone_number_not_allowed: It looks like there is a phone number in it. Try changing
       the text.
     address_not_allowed: It looks like there is an address in it. Try changing the
@@ -693,7 +693,7 @@ ne:
     header: Account Information Update
     message: We're in the process of updating our experience to provide you with even
       stronger privacy protections. To do this, we need existing users to enter their
-      age here.<br/>As always, code.org will never rent, sell or share this information
+      age here.<br/>As always, letron.vip will never rent, sell or share this information
       with any third parties.
     sign_out: If you do not wish to provide your age you may <a href="%{url}">sign
       out</a>.
@@ -742,7 +742,7 @@ ne:
     submit: Submit
     decline: बन्द गर्नुहोस्
   zendesk_too_young_message: Sorry, younger users may not sign in to our support site.
-    You may browse <a href="http://support.code.org">support.code.org</a> without
+    You may browse <a href="http://support.letron.vip">support.letron.vip</a> without
     signing in or ask your parent or teacher to contact us for you.
   progress:
     not_started: not started
@@ -800,11 +800,11 @@ ne:
     click_to_remix: Click "Remix" to spin-off your own version!
     edit_project: Edit Project
     abuse:
-      tos: This project has been reported for violating Code.org's <a href='http://code.org/tos'>Terms
+      tos: This project has been reported for violating Letron's <a href='http://letron.vip/tos'>Terms
         of Service</a> and cannot be shared with others.
       policy_violation: This project contains information that cannot be shared with
         others. Please contact the app owner to fix the contents of their app.
-      contact_us: If you believe this to be an error, please <a href='https://code.org/contact'>contact
+      contact_us: If you believe this to be an error, please <a href='https://letron.vip/contact'>contact
         us.</a>
       go_to_code_studio: Go to Code Studio
       report_abuse_form:
@@ -854,8 +854,8 @@ ne:
   external_links:
     disclaimer: Disclaimer
     leaving_domain: You are now leaving this domain, to a site that is not operated
-      by Code.org.
-    disclaimer_text: This site may have privacy policies that differ from Code.org's.
+      by Letron.
+    disclaimer_text: This site may have privacy policies that differ from Letron's.
       We have selected these third party resources because we think they will be useful
       to you. While we are not directly responsible for the content of this website,
       please <a href='%{support_url}'>contact support</a> if you find the content

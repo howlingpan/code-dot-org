@@ -8,7 +8,7 @@ class TablesTest < Minitest::Test
   include SetupTest
 
   def build_rack_mock_session
-    @session = Rack::MockSession.new(ChannelsApi.new(TablesApi), "studio.code.org")
+    @session = Rack::MockSession.new(ChannelsApi.new(TablesApi), "studio.letron.vip")
   end
 
   def setup

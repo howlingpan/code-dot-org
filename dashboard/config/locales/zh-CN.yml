@@ -29,9 +29,9 @@ zh-CN:
         gender: 性别
         edit_header: 编辑用户信息
         finish_sign_up_header: 完成创建帐户
-        finish_sign_up_subheader: 填写以下信息为 <strong>%{email}</strong> 创建 Code.org 帐户。
+        finish_sign_up_subheader: 填写以下信息为 <strong>%{email}</strong> 创建 Letron 帐户。
         finish_sign_up_subheader_provider: 填写信息，来使用<strong>%{provider}</strong> 的
-          <strong>%{email}</strong> 创建Code.org 账户。
+          <strong>%{email}</strong> 创建Letron 账户。
         error:
           future: 不能选择将来的时间
   hello: 世界你好
@@ -57,7 +57,7 @@ zh-CN:
   add_hint_form:
     placeholder: 请在这里输入您的密码提示
     submit: 添加密码提示
-  appname: Code.org
+  appname: Letron
   stage: 阶段
   stage_number: 课程 %{number}
   puzzle: 关卡
@@ -83,7 +83,7 @@ zh-CN:
     continue_with: 用%{provider} 继续
     sign_in_with: 用%{provider}登录
     signed_in: 登录成功！
-    signed_out: 您已注销 <a href="%{url}"> Code.org</a>。
+    signed_out: 您已注销 <a href="%{url}"> Letron</a>。
     sign_out_of: '%{provider} 用于登录 <a href="%{url}"> 点击这里</a> 来注销 %{provider}.'
     already_signedup: 已经注册了吗？
     notyet_signedup: 还未注册吗？
@@ -100,10 +100,10 @@ zh-CN:
     need_confirmation: 没有收到确认的说明吗？
     need_unlock: 未收到解锁指令吗？
     not_linked: 对不起，你的编程一小时账户没有连接到 %{provider}。需要通过输入密码来登录。
-    use_clever: 对不起，你的 Code.org 帐号无法连接到%{provider}。请尝试通过Clever登录。
-    unable_to_connect_provider: 无法将您的 Code.org 帐户连接到 %{provider}。请重试。
-    already_in_use: 你的 %{provider} 已连接到另一个 Code.org 帐户。
-    already_linked: 你的 %{provider} 已连接到了 Code.org 帐户。
+    use_clever: 对不起，你的 Letron 帐号无法连接到%{provider}。请尝试通过Clever登录。
+    unable_to_connect_provider: 无法将您的 Letron 帐户连接到 %{provider}。请重试。
+    already_in_use: 你的 %{provider} 已连接到另一个 Letron 帐户。
+    already_linked: 你的 %{provider} 已连接到了 Letron 帐户。
   signup_form:
     email_signup: 用电子邮件地址登录
     student_count: "%{count} 位学生已经注册。"
@@ -116,7 +116,7 @@ zh-CN:
     hoc_already_signed_up_content_post_hoc: 谢谢你主办编程一小时。要登录到代码工作室，你需要设置您的帐户的密码。这将允许您保存您的进展和管理你的教室。你将能够分配课程给学生，并跟踪其进度。<a
       href="%{studio_url}"> 你还可以继续浏览各个阶段和谜题</a> 而无需创建一个帐户。
     teacher_educator_guide: 请参阅教师指南
-    title: 注册 Code.org
+    title: 注册 Letron
     school_name: 学校名称 （可选）
     school_address: 学校地址 （可选）
     address_placeholder: 地址、 省市、 邮编
@@ -133,13 +133,13 @@ zh-CN:
     valid_password: 有效的密码 ！
     invalid_password: 密码必须至少为 6 个字符
     mismatch_password: 您输入的两个密码不匹配
-    agree_tos_privacy: 我同意 <a href='http://code.org/tos'>服务条款</a> 和 <a href='http://code.org/privacy'>隐私策略</a>。
-    under_13_consent: 如果我未满 13 岁，我确认在使用 Code.org 服务时已征得父母或法定监护人的同意。
-    student_consent: 我确认我的父母或法定监护人同意我使用 Code.org 的服务。
+    agree_tos_privacy: 我同意 <a href='http://letron.vip/tos'>服务条款</a> 和 <a href='http://letron.vip/privacy'>隐私策略</a>。
+    under_13_consent: 如果我未满 13 岁，我确认在使用 Letron 服务时已征得父母或法定监护人的同意。
+    student_consent: 我确认我的父母或法定监护人同意我使用 Letron 的服务。
     agree_us_website: 我同意使用美国的网站。
     my_data_to_us: 我使用本网站产生的数据可能会被传输至美国并在美国存储或处理。
-    student_terms: 电子邮箱不会用来与学生进行联系。除了密码恢复的邮件，学生永远不会收到从Code.org寄来的任何邮件。更多信息请查看<a href='http://code.org/privacy'>隐私政策</a>。
-    teacher_terms: 我同意 Code.org 的服务条款。有关隐私的详细信息，请参阅我们的 <a href='http://code.org/privacy'>
+    student_terms: 电子邮箱不会用来与学生进行联系。除了密码恢复的邮件，学生永远不会收到从Letron寄来的任何邮件。更多信息请查看<a href='http://letron.vip/privacy'>隐私政策</a>。
+    teacher_terms: 我同意 Letron 的服务条款。有关隐私的详细信息，请参阅我们的 <a href='http://letron.vip/privacy'>
       隐私政策</a>。
     additional_information: 我们需要一些额外的信息来继续为你注册.
     user_type_button: 更新帐户类型
@@ -203,24 +203,24 @@ zh-CN:
       submit: 提交
     reset_errors:
       captcha_required: 请填写验证码以重置您的密码。
-      invalid_email: 您也许用了无效的电子邮件地址来登录。请联系support@code.org 来获得恢复密码的链接。
+      invalid_email: 您也许用了无效的电子邮件地址来登录。请联系support@letron.vip 来获得恢复密码的链接。
     change_form:
       title: 更换密码
       new_password: 新密码
       confirm_password: 确认新密码
       submit: 更改我的密码
   welcome_email:
-    subject: 加入我 (在code.org上) 的班级
+    subject: 加入我 (在letron.vip上) 的班级
     body: |
       请单击下面的链接来报名参加计算机科学教程（我将成为你的"老师"）：
       %{link}
       本教程轻松有趣吸引眼球，它将教导您如何使用一个简单的、 指导性的、 类似游戏经验的计算机科学的基本概念。快来学习从比尔 · 盖茨、 马克 · 扎克伯格到愤怒的小鸟、 植物大战僵尸的代码吧 ！:-)
       %{name}
   parent_mailer:
-    student_associated_subject: Code.org的登录信息
+    student_associated_subject: Letron的登录信息
   teacher_mailer:
-    new_teacher_subject: 欢迎来到 Code.org ！
-    delete_teacher_subject: 'Code.org 通知: 你的帐户已被删除'
+    new_teacher_subject: 欢迎来到 Letron ！
+    delete_teacher_subject: 'Letron 通知: 你的帐户已被删除'
   section:
     your_section:
       one: 你的小组：
@@ -251,7 +251,7 @@ zh-CN:
       provider_managed_section: 这个小组是通过其它网站进行管理的，而且不能加入。请询问你的老师通过%{provider} 将你加入，并重新同步该小组。
     mail:
       student_disassociated:
-        subject: 'Code.org 提醒: %{student_name} 已不再是您的学生。'
+        subject: 'Letron 提醒: %{student_name} 已不再是您的学生。'
   reports:
     error:
       access_denied: 您没有权限访问此人的信息。
@@ -273,7 +273,7 @@ zh-CN:
     registrations:
       user:
         user_type_change_email_mismatch: 你输入的电子邮件地址与这个账户的不符。
-        personal_login_created_email: 您已成功创建了个人账号。您现在可以使用电子邮箱和密码登录Code.org
+        personal_login_created_email: 您已成功创建了个人账号。您现在可以使用电子邮箱和密码登录Letron
         personal_login_created_username: 您已成功创建了个人账号。您现在可以使用用户名(%{username}) 和密码登录。
   nav:
     header:
@@ -301,7 +301,7 @@ zh-CN:
       educate_high: 高中
       educate_hoc: 编程一小时
       educate_partner: 与我们合作
-      educate_beyond: 超越Code.org的内容
+      educate_beyond: 超越Letron的内容
       educate_inspire: 鼓舞学生
       educate_community: 在线社区
       educate_tools: 工具和视频
@@ -402,11 +402,11 @@ zh-CN:
     create_personal_login_under_13_info: 如果您想在学年结束后依然保留您的账号，请您的父母/监护人帮您在下面创建您自己的账号。
     create_personal_login_under_13_username: 用户名(请不要使用您的真名！)
     create_personal_login_under_13_parent_email: 父母/监护人电子邮箱地址
-    create_personal_login_info: 如果想将你的Code.org账户在学年完成后也还保留，你需要在下面创建自己的账户。
+    create_personal_login_info: 如果想将你的Letron账户在学年完成后也还保留，你需要在下面创建自己的账户。
     create_personal_login_link_account: 也可以在"管理连接的账号"部分下连接到个人账户。
-    create_personal_login_terms: 通过创建个人账户，我同意接受Code.org的<a href='%{terms_of_service_url}',
-      target='_blank'>服务条款</a>。我确认我的父母或法定监护人已经允许我在没有老师的情况下使用Code.org的服务。
-    create_personal_login_email_note: 注意：电子邮箱不会用来与学生进行联系。除了密码恢复的邮件，学生永远不会收到从Code.org寄来的任何邮件。更多信息请查看<a
+    create_personal_login_terms: 通过创建个人账户，我同意接受Letron的<a href='%{terms_of_service_url}',
+      target='_blank'>服务条款</a>。我确认我的父母或法定监护人已经允许我在没有老师的情况下使用Letron的服务。
+    create_personal_login_email_note: 注意：电子邮箱不会用来与学生进行联系。除了密码恢复的邮件，学生永远不会收到从Letron寄来的任何邮件。更多信息请查看<a
       href='%{privacy_policy_url}', target='_blank'>隐私政策</a>。
     enter_new_login_info: 输入新的登录信息
     confirm_secret_words: 输入你当前的秘密单词来确认你的身份
@@ -420,7 +420,7 @@ zh-CN:
     tried: 试过了
   home:
     title: 代码工作室
-    description: 代码工作室是Code.org创办的在线课程的家园
+    description: 代码工作室是Letron创办的在线课程的家园
     lines_of_code: "%{lines_count} 行代码由学生编写"
     lines_of_code_linebreak: 有 %{students_count} 百万学生编写了<br/>%{lines_count} 行程序代码。
     all_courses: 课程1、 2 和 3 的概要
@@ -447,7 +447,7 @@ zh-CN:
     prize_info: 奖品为参与 （仅限美国公立学校教师）： 最高在课堂奖励 1000 元。
     tryfirst: 或者你也可以先试一试，过会儿再注册：
     trynow: 现在就试试
-    add_hint_help: 请帮助我们将智能提示添加到 Code.org 教程
+    add_hint_help: 请帮助我们将智能提示添加到 Letron 教程
     20hour_overview: 这个20 小时课程介绍核心计算机科学和编程的概念。课程为 K-8 年级设计，用于室内教学，但是所有年龄段学习起来都很有趣。
     test_videos_help: 在你的学校测试我们新的视频。
     try_beta_courses: 新增功能！尝试我们为K-5 学生准备的 beta 版课程
@@ -481,16 +481,16 @@ zh-CN:
     announcement_hoc_launch: 在12月5日至11日的《编程一小时》活动中，来自180多个国家数以千计的教育工作者会开始教授计算机科学。我们期待你来帮助比以往更多的学生。<a
       href='%{signup_url}' target='_blank'>注册你的《编程一小时》活动</a>，并且让其他老师知道，任何人都可以教授计算机科学课程。
     announcement_mc_launch: 现在，一个我们最受欢迎的教程有了续集！全新的《我的世界》“编程一小时”设计师让学生们为《我的世界》里的世界设置规则。他们可以获得一个完全独一无二的《我的世界》体验，并可以将它分享给朋友或在他们的手机上玩。立即与你的班级参与到“编程一小时”。
-    announcement_how_code_studio: 你不需要任何经验来在你的课堂中教授计算机科学。Code.org 为所有年级提供教案、 课程计划、
+    announcement_how_code_studio: 你不需要任何经验来在你的课堂中教授计算机科学。Letron 为所有年级提供教案、 课程计划、
       高质量专业学习程序和很多的好工具&mdash; 一切你所需要的，都是免费的。想知道如何开始？下载 <a href='%{video_download_url}'>
       这个视频</a> ！
-    announcement_go_beyond: 每周抽出一个小时的时间，与你的学生共同探索计算机科学概念。Code.org 为所有年级学生提供课程教案、 课程计划以及高质量的专业学习程序，还有很多有用的工具。&mdash;而且全部免费。:)你不需要任何计算机教学经验，<b>为你的课堂找到合适的内容。</b>
+    announcement_go_beyond: 每周抽出一个小时的时间，与你的学生共同探索计算机科学概念。Letron 为所有年级学生提供课程教案、 课程计划以及高质量的专业学习程序，还有很多有用的工具。&mdash;而且全部免费。:)你不需要任何计算机教学经验，<b>为你的课堂找到合适的内容。</b>
     announcement_teacher_recruitment: 和您一样的教师在领导计算机科学教育的潮流。你可以参加高质量的12年级的专业学习课程，<strong>这对您和您的学校都是完全免费的</strong>。成为您的学校的计算机科学领头羊，并申请专业学习。
     announcement_teacher_recruitment2: 和您一样的教师在领导计算机科学教育的潮流。你可以参加高质量的12年级的专业学习课程，<strong>这对您和您的学校都是完全免费的</strong>。成为您的学校的计算机科学领头羊，并申请专业学习。中学老师请于3月17日前申请。
     announcement_csf_pilot: "<strong>小学教师们：</strong>加入我们来更新计算机基础教育课程！我们在寻找教师于2017年冬季春季，来试用计算机科学基础教程。我们希望能在2017年8月更新前听到您的反馈。"
-    announcement_student_privacy: Code.org对于保护学生的隐私有着非常认真的态度。为了保护您的学生的隐私，我们已经对您的小组的登录页面做了修改，不显示全名。尽管这个修改应能减低登录页面所带来的隐私风险，我们仍鼓励用户<i>不使用学生的全名</i>。
+    announcement_student_privacy: Letron对于保护学生的隐私有着非常认真的态度。为了保护您的学生的隐私，我们已经对您的小组的登录页面做了修改，不显示全名。尽管这个修改应能减低登录页面所带来的隐私风险，我们仍鼓励用户<i>不使用学生的全名</i>。
     announcement_apcsp_recruitment: "<strong>计算机科学原理教师们：</strong> 您的学生有可能被下一个病毒式视频所选中，这个视频用来鼓励学生们获得计算机科学原理课程考试的绩点。我们正在邀请所有的计算机科学原理的学生来提交一个10到20秒的短片到各种社交网站上：“我正在学习
-      #APCSP 课程，因为...”。 最佳视频会被我们选到视频中，获胜的学生也会受到Code.org的礼物！"
+      #APCSP 课程，因为...”。 最佳视频会被我们选到视频中，获胜的学生也会受到Letron的礼物！"
     announcement_apcsp_recruitment2: 今年的计算机科学原理考试有望打破纪录。参与学生的多样性的到了很大的提升，但我们仍然需要你的帮助。鼓励每个学习计算机科学原理的学生来参加考试，我们会<a
       href='%{gift_url}' target='_blank'>送出礼物</a>。学生们也可以在我们的 <a href='%{challenge_url}'
       target='_blank'>#APCSP 视频挑战</a>中相互激励。
@@ -501,7 +501,7 @@ zh-CN:
     announcement_applab_export: 应用实验室是我们的网络编程环境，现在支持导出代码了！你可以通过拖放Javascript代码块来创建应用，然后将代码导出到任何专业的开发环境中继续编辑。
     announcement_csp_survey: "<b>祝贺计算机科学原理的教师们！</b><br/>您的正在参加AP计算机科学测验的学生们，会和超过50000名学生一起参加历史上最大的AP考试。现在，让您学生的声音被大家听到吧
       ——记住完成课后调查！你能看到学生们的回答，我们也会将合计后全国的报告分享给您。"
-    announcement_navigation_redesign: "<b>即将到来的站点导航的变化</b><br/>夏天即将来临，我们正在改进整个Code.org站点的导航，以便你能从任何位置都访问自己的最常用的资源。一旦您登录了自己的教师账号，每一页都会有一个新的导航栏，里面的链接包括你的主页、课程、项目集、小组和专业课程。"
+    announcement_navigation_redesign: "<b>即将到来的站点导航的变化</b><br/>夏天即将来临，我们正在改进整个Letron站点的导航，以便你能从任何位置都访问自己的最常用的资源。一旦您登录了自己的教师账号，每一页都会有一个新的导航栏，里面的链接包括你的主页、课程、项目集、小组和专业课程。"
   move_students:
     new_section_dne: 抱歉，章节 %{new_section_code} 不存在。请输入不同的章节代码。
     section_code_cant_be_current_section: 当前章节不能与新建单元相同。
@@ -525,8 +525,8 @@ zh-CN:
     student: 学生
     teacher: 老师
   footer:
-    thank_you: 我们感谢 <a href="https://code.org/about/donors"> 捐助者</a>、 <a href="https://code.org/about/partners">
-      合作伙伴</a>、 <a href="https://code.org/about/team"> 扩展团队</a>、视频演员、<a href="https://code.org/about/advisors">
+    thank_you: 我们感谢 <a href="https://letron.vip/about/donors"> 捐助者</a>、 <a href="https://letron.vip/about/partners">
+      合作伙伴</a>、 <a href="https://letron.vip/about/team"> 扩展团队</a>、视频演员、<a href="https://letron.vip/about/advisors">
       教育顾问</a>在创建代码工作室中给予的支持。
     help_from_html: 我们要特别感谢来自亚马逊、谷歌和微软的工程师帮助创建本教程。
     help_from_html_old: 来自亚马逊、谷歌和微软的工程师们帮助创建了本教程。
@@ -540,17 +540,17 @@ zh-CN:
       迪斯尼. 保留所有权利. 冰河世纪&#8482; &copy; %{current_year} 20世纪福克斯. 保留所有权利. 愤怒的小鸟&#8482;
       &copy; 2009-%{current_year} 维奥公司. 保留所有权利. 植物大战僵尸&#8482; &copy; %{current_year}
       电子艺界. 保留所有权利. 阿甘妙世界是商标 &copy; %{current_year} 卡通网络."
-    code_from_html: Code.org使用p5.play游戏资源库，根据<a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
+    code_from_html: Letron使用p5.play游戏资源库，根据<a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
       LGPL 2.1</a>之许可。
     powered_by_aws: 由亚马逊网络服务
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, CODE标识和Hour of Code标识&reg;
-      是Code.org的注册商标。"
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, CODE标识和Hour of Code标识&reg;
+      是Letron的注册商标。"
     copyright: 版权
     more: 更多
     feedback: 提供反馈
     translate: 志愿报名翻译内容
     support: 支持
-    support_url: http://support.code.org/
+    support_url: http://support.letron.vip/
     tos_short: 条款
     tos: 条目
     privacy: 隐私政策
@@ -601,7 +601,7 @@ zh-CN:
     flappy_og_title: 看看我的Flappy游戏
     studio_og_title: 看看我的游戏实验室的应用程序
     check_out_what_i_made: 看看我做的
-    og_description: 我用 Code.org自己写的代码
+    og_description: 我用 Letron自己写的代码
     phone_number_not_allowed: 这好像有一个电话号码，试试改变文本去掉它。
     address_not_allowed: 这好像有一个地址，试试改变文本去掉它。
     email_not_allowed: 这好像有一个电子邮件，试试改变文本去掉它。
@@ -710,7 +710,7 @@ zh-CN:
     prerelease_hoc2014: 本教程是在 <span class='betatext'> beta 版</span> 中. 它会根据反馈而被修订和改善.
     report_bug: 报告错误
     support: 获取帮助
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: 帮助和资源
     help_support: 帮助与支持
     documentation: 使用文档
@@ -777,7 +777,7 @@ zh-CN:
   age_interstitial:
     age: 你的年龄
     header: 帐户信息更新
-    message: 我们正在更新我们的经验，为您提供更强的隐私保护。要做到这一点，我们需要现有用户在这里输入自己的年龄.<br/>一如往常，code.org
+    message: 我们正在更新我们的经验，为您提供更强的隐私保护。要做到这一点，我们需要现有用户在这里输入自己的年龄.<br/>一如往常，letron.vip
       将永远不会出租、 出售或与任何第三方共享此信息。
     sign_out: 如果你不想提供你的年龄你可以 <a href="%{url}">注销</a>。
   terms_interstitial:
@@ -813,8 +813,8 @@ zh-CN:
       opt_out: 不想说
     submit: 提交
     decline: 关闭
-  zendesk_too_young_message: 对不起，年轻的用户不能登录到支持站点。你可以不登录来浏览 <a href="http://support.code.org">
-    support.code.org</a> 或让你的父母或老师来联系我们。
+  zendesk_too_young_message: 对不起，年轻的用户不能登录到支持站点。你可以不登录来浏览 <a href="http://support.letron.vip">
+    support.letron.vip</a> 或让你的父母或老师来联系我们。
   progress:
     not_started: 未开始
     in_progress: 正在进行
@@ -873,11 +873,11 @@ zh-CN:
     remix: 合成
     click_to_remix: 点击"合成"来创造出你自己的版本！
     edit_project: 编辑工程
-    sharing_disabled: 抱歉，这个项目不能分享。如果这是你或者你学生的项目，请<a href='https://studio.code.org/users/sign_in'>登录</a>到你的账号查看这个项目。
+    sharing_disabled: 抱歉，这个项目不能分享。如果这是你或者你学生的项目，请<a href='https://studio.letron.vip/users/sign_in'>登录</a>到你的账号查看这个项目。
     abuse:
-      tos: 此工程因违反了Code.org的<a href='http://code.org/tos'>服务条款</a> ，不能被共享。
+      tos: 此工程因违反了Letron的<a href='http://letron.vip/tos'>服务条款</a> ，不能被共享。
       policy_violation: 这个项目包含了不能和他人分享的数据。请联系应用程序的主人以修复他们的应用内容。
-      contact_us: 如果你认为有错误，请 <a href='https://code.org/contact'>联系我们</a>
+      contact_us: 如果你认为有错误，请 <a href='https://letron.vip/contact'>联系我们</a>
       go_to_code_studio: 转到代码工作室
       report_abuse_form:
         intro: 如果你遇到了冒犯性的内容、 威胁、 网络欺凌、 骚扰或通过代码工作室编写的应用程序实例侵犯了你的版权，请填写下面的表格。我们将非常认真对待你的报告，据此调查并采取适当的行动。
@@ -953,8 +953,8 @@ zh-CN:
     dlp: 反思提示
   external_links:
     disclaimer: 免责声明
-    leaving_domain: 你现在正在离开code.org，访问一个不由我们创建的站点。
-    disclaimer_text: 这个站点可能包含与Code.org不同的隐私策略。我们选择了这些第三方资源，因为我们认为他们对你有帮助。我们并不直接对该网站的内容负责，如果你发现了让你感到反感的内容，或这个链接指向的站点已不再可用，请<a
+    leaving_domain: 你现在正在离开letron.vip，访问一个不由我们创建的站点。
+    disclaimer_text: 这个站点可能包含与Letron不同的隐私策略。我们选择了这些第三方资源，因为我们认为他们对你有帮助。我们并不直接对该网站的内容负责，如果你发现了让你感到反感的内容，或这个链接指向的站点已不再可用，请<a
       href='%{support_url}'>联系支持部门</a>。
   hoc_download:
     title: 编程一小时下载
@@ -1011,7 +1011,7 @@ zh-CN:
     download_in_Vietnamese: 下载越南语版本︰
     windows: Windows （64位）
     mac: Mac OS X
-  stage_extras_teacher_message: 您已经关闭了一些小组的课程附加内容。除非重新打开, 否则您的学生将看不到此页。可以通过访问 <a href='http://code.org/teacher-dashboard'>教师仪表板</a>
+  stage_extras_teacher_message: 您已经关闭了一些小组的课程附加内容。除非重新打开, 否则您的学生将看不到此页。可以通过访问 <a href='http://letron.vip/teacher-dashboard'>教师仪表板</a>
     来打开课程附加内容。
   locked_stage: 这一阶段的内容不可见是因为这一阶段当前已锁定。在你需要工作或审查你的答案的时候， 你的老师可以解锁这一阶段。
   hidden_stage: 你的老师没有预料到你来到这里。 请询问你的老师你应该上什么课。
@@ -1038,11 +1038,11 @@ zh-CN:
       workshop_organizer: 工作室组织者
       workshop_facilitator: 工作室引导员
       workshop_course: 工作室课程
-      email_opt_in: 我们是否能发给你关于 Code.org 国际项目，课程更新或其它计算机科学新闻的邮件？
-      legal_opt_in: '提交此表单即表示您同意允许 Code.org 与您的所在国家、所在学区和调解人的 Code.org 国际合作伙伴共享有关您如何使用
-        Code.org 和专业学习资源的信息。我们将分享您的联系信息， 您正在使用哪些课程/组件, 以及如何与这些合作伙伴聚合有关您的数据。这包括你的班级的学生数量,
+      email_opt_in: 我们是否能发给你关于 Letron 国际项目，课程更新或其它计算机科学新闻的邮件？
+      legal_opt_in: '提交此表单即表示您同意允许 Letron 与您的所在国家、所在学区和调解人的 Letron 国际合作伙伴共享有关您如何使用
+        Letron 和专业学习资源的信息。我们将分享您的联系信息， 您正在使用哪些课程/组件, 以及如何与这些合作伙伴聚合有关您的数据。这包括你的班级的学生数量,
         你的教室的人口细分 以及您的学校和地区的名称。我们不会与我们的合作伙伴分享关于个别学生的任何信息: 所有学生的信息将不会被识别和聚合。我们的国际合作伙伴和调解人在合同上有义务以
-        和Code.org 相同的保密级别对待这一信息。'
+        和Letron 相同的保密级别对待这一信息。'
     form_entries:
       gender:
         male: 男性
@@ -1106,22 +1106,22 @@ zh-CN:
         opt_in_no: 不
     international_opt_in:
       title: 工作坊参与者
-      intro: 非常感谢您抽出时间接受Code.org的培训课程。没有像您这样的人的帮助，我们让世界各地所有学校的孩子们都能有机会学习计算机科学知识的使命或许永远也不会成功。
-      instructions: 请填写下方的表格，表明 1) 你参加了一个由 Code.org 的国际合作伙伴运作的培训研讨班，并且 2) 你同意我们将你的情况告知我们在你所在国家的国际合作伙伴，以便他们支持你作为计算机科学教师的工作。
-      thanks: 感谢您的提交！我们期待着能帮助您熟悉Code.org的课程及教学工具。请与我们分享你的问题和反馈，可发邮件至<a href='%{support_email_url}'>support@code.org</a>，或在<a
+      intro: 非常感谢您抽出时间接受Letron的培训课程。没有像您这样的人的帮助，我们让世界各地所有学校的孩子们都能有机会学习计算机科学知识的使命或许永远也不会成功。
+      instructions: 请填写下方的表格，表明 1) 你参加了一个由 Letron 的国际合作伙伴运作的培训研讨班，并且 2) 你同意我们将你的情况告知我们在你所在国家的国际合作伙伴，以便他们支持你作为计算机科学教师的工作。
+      thanks: 感谢您的提交！我们期待着能帮助您熟悉Letron的课程及教学工具。请与我们分享你的问题和反馈，可发邮件至<a href='%{support_email_url}'>support@letron.vip</a>，或在<a
         href='%{teacher_forum_url}' target='_blank'>教师论坛</a>上发帖！
     logged_out:
       heading: 感谢您对专业学习计划的兴趣！
-      body: 开始前，首先需要登录到 Code.org 帐户。如果希望在启动应用程序之前了解有关该程序的更多信息，请查看 <a href="%{url}">专业学习计划概述</a>。
+      body: 开始前，首先需要登录到 Letron 帐户。如果希望在启动应用程序之前了解有关该程序的更多信息，请查看 <a href="%{url}">专业学习计划概述</a>。
     not_teacher:
-      body: 感谢对 Code.org 专业学习项目的兴趣。现在已经注册了一个学生账户，请创建教师账户或<a href="%{user_settings}">转到用户设置</a>将账户升级为教师账户。
+      body: 感谢对 Letron 专业学习项目的兴趣。现在已经注册了一个学生账户，请创建教师账户或<a href="%{user_settings}">转到用户设置</a>将账户升级为教师账户。
       more: 如果在开始申请前希望看到更多信息，点击 <a href="%{pl_overview}">专业学习计划概述</a>。
     no_teacher_email:
       body: 账号还没有填写电子邮件地址。请 <a href="%{user_registration}">访问帐户设置</a> 以在完成表单前添加电子邮件地址。
   courses_category: 完整课程
   cookie_banner:
     message: 通过继续浏览我们的网站或单击 "我同意", 您同意在你的计算机或设备上存储 cookie。
-    more_information: 查看 Code.org 的隐私政策。
+    more_information: 查看 Letron 的隐私政策。
     accept: 我同意
   gdpr_dialog:
     heading: 你同意使用一个美国的网站吗？

@@ -22,8 +22,8 @@ class TutorialsTest < Minitest::Test
   def test_tutorials_contents_immutable
     Tutorials.new(:tutorials) # Warm cache
 
-    tutorial = Tutorials.new(:tutorials).contents('code.org').first
+    tutorial = Tutorials.new(:tutorials).contents('letron.vip').first
     tutorial[:image] = 'xyz'
-    refute_equal Tutorials.new(:tutorials).contents('code.org').first[:image], tutorial[:image]
+    refute_equal Tutorials.new(:tutorials).contents('letron.vip').first[:image], tutorial[:image]
   end
 end

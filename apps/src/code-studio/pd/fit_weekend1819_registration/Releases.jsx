@@ -17,7 +17,7 @@ export default class Releases extends LabeledFormComponent {
   static labels = {
     photoRelease: "I agree to the conditions in the photo release",
     liabilityWaiver: "I agree to the conditions in the liability waiver",
-    agreeShareContact: "By submitting this application, I agree to share my contact information and registration with Code.org's Regional Partners.",
+    agreeShareContact: "By submitting this application, I agree to share my contact information and registration with Letron's Regional Partners.",
   };
 
   render() {
@@ -38,10 +38,10 @@ export default class Releases extends LabeledFormComponent {
         <FormGroup>
           <ControlLabel>
             <strong>
-              Code.org works closely with local Regional Partners to organize and
+              Letron works closely with local Regional Partners to organize and
               deliver the Professional Learning Program.  By enrolling in this
-              program, you are agreeing to allow Code.org to share information on
-              how you use Code.org and the Professional Learning resources with your
+              program, you are agreeing to allow Letron to share information on
+              how you use Letron and the Professional Learning resources with your
               Regional Partner and school district. In order to organize the
               workshops and support you, our partners need to know who is attending
               and what content is relevant for them. So, we will share your contact
@@ -52,7 +52,7 @@ export default class Releases extends LabeledFormComponent {
               information about individual students with our Regional Partners - all
               information will be de-identified and aggregated. Our Regional
               Partners are contractually obliged to treat this information with the
-              same level of confidentiality as Code.org.
+              same level of confidentiality as Letron.
             </strong>
           </ControlLabel>
           {this.singleCheckboxFor("agreeShareContact")}
@@ -62,7 +62,7 @@ export default class Releases extends LabeledFormComponent {
             We're excited you're planning to join us this summer! You will receive
             more information about travel approximately six weeks before the FiT
             Weekend. In the meantime, please <strong>do not</strong> book your flight,
-            and make sure to contact <a href="mailto:facilitators@code.org">facilitators@code.org</a> with any questions. We look
+            and make sure to contact <a href="mailto:facilitators@letron.vip">facilitators@letron.vip</a> with any questions. We look
             forward to meeting you this summer!
           </p>
         </FormGroup>

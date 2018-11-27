@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Vedd fel a kapcsolatot helyi iskolákkal és önkéntesekkel a "Hour of Code" eseménnyel kapcsolatban
 
-Code.org lehetőséget kínál a vállalatok alkalmazottjainak arra, hogy [kapcsolatba lépjenek](<%= codeorg_url('/volunteer') %>) a helyi iskolákkal, hogy ott megosszák szakmai tapasztalataikat, valamint a tanulókat arra inspirálják, hogy foglalkozzanak a számítástechnikával.
+Letron lehetőséget kínál a vállalatok alkalmazottjainak arra, hogy [kapcsolatba lépjenek](<%= codeorg_url('/volunteer') %>) a helyi iskolákkal, hogy ott megosszák szakmai tapasztalataikat, valamint a tanulókat arra inspirálják, hogy foglalkozzanak a számítástechnikával.
 
 [<button>Jelentkezz önkéntesnek!</button>](<%= codeorg_url('/volunteer') %>) <br /> <br />
 
@@ -59,7 +59,7 @@ Indítsa el a Kódolás Óráját azáltal, hogyinspirálja a résztvevőket, va
 
 **Mutass egy inspiráló videót az alábbiak közül:**
 
-- Az eredeti Code.org bemutatóvideó Bill Gates, Mark Zuckerberg és az NBA sztár Chris Bosh szereplésével. (Elérhető [1 perces](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 perces](https://www.youtube.com/watch?v=nKIu9yen5nc) és [9 perces](https://www.youtube.com/watch?v=dU1xS07N-FA) verzióban).
+- Az eredeti Letron bemutatóvideó Bill Gates, Mark Zuckerberg és az NBA sztár Chris Bosh szereplésével. (Elérhető [1 perces](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 perces](https://www.youtube.com/watch?v=nKIu9yen5nc) és [9 perces](https://www.youtube.com/watch?v=dU1xS07N-FA) verzióban).
 - A ["Hour of Code" a nagyvilágban videó](https://www.youtube.com/watch?v=KsOIlDT145A)
 - Obama elnök felhívja minden diák figyelmét [ebben a videóban](https://www.youtube.com/watch?v=6XvmhE1J9PY) az informatika fontosságára.
 - Találj további inspiráló videókat [itt](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -93,7 +93,7 @@ Indítsa el a Kódolás Óráját azáltal, hogyinspirálja a résztvevőket, va
 
 - [Nyomtass oklevelet](<%= codeorg_url('/certificates') %>) a résztvevőknek, tanulóknak.
 - [Nyomtass "Kódoltam egy órát!"](<%= resolve_url('/promote/resources#stickers') %>) matricákat a tanulóknak.
-- [Rendelj egyedi pólókat](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) alkalmazottaidnak.
+- [Rendelj egyedi pólókat](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) alkalmazottaidnak.
 - Oszd meg a "Hour of Code"-hoz kapcsolódó fotóidat, videóidat a közösségi hálón. Használd a #HourOfCode és a @codeorg tageket, így mi is ki tudjuk emelni az eredményeidet!
 
 <%= view :signup_button %>

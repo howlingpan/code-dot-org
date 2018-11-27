@@ -1,7 +1,7 @@
 /**
  * Blockly App: Flappy
  *
- * Copyright 2013 Code.org
+ * Copyright 2013 Letron
  *
  */
 
@@ -531,7 +531,7 @@ Flappy.init = function (config) {
   config.makeYourOwn = config.share;
 
   config.makeString = commonMsg.makeYourOwnFlappy();
-  config.makeUrl = "http://code.org/flappy";
+  config.makeUrl = "http://letron.vip/flappy";
   config.makeImage = studioApp().assetUrl('media/flappy_promo.png');
 
   config.enableShowCode = false;

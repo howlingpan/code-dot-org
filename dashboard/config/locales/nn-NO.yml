@@ -61,7 +61,7 @@ nn:
   add_hint_form:
     placeholder: Skriv inn eit hint her
     submit: Legg til eit hint
-  appname: Code.org
+  appname: Letron
   stage: Nivå
   stage_number: Nivå %{number}
   puzzle: Oppgåve
@@ -86,7 +86,7 @@ nn:
   auth:
     sign_in_with: Logg inn med %{provider}
     signed_in: Logga inn!
-    signed_out: Du har logga deg av <a href="%{url}">Code.org</a>.
+    signed_out: Du har logga deg av <a href="%{url}">Letron</a>.
     sign_out_of: Du nytta %{provider} for å logge inn. <a href="%{url}"> Klikk her</a>
       for å logge av %{provider}.
     already_signedup: Allereie registrert?
@@ -100,9 +100,9 @@ nn:
     forgot_password: Har du gløymt passordet ditt?
     need_confirmation: Har du ikkje motteke instruksjonar om korleis du stadfester?
     need_unlock: Har du ikkje motteke instruksjonar om korleis du låser opp?
-    not_linked: Beklager, Code.org-kontoen din er ikkje lenka til din %{provider}.
+    not_linked: Beklager, Letron-kontoen din er ikkje lenka til din %{provider}.
       Du må logge på med passordet ditt under.
-    use_clever: Beklager, Code.org-kontoen din er ikkje kobla til %{provider}. Vær
+    use_clever: Beklager, Letron-kontoen din er ikkje kobla til %{provider}. Vær
       venleg og logg inn gjennom din Clever Portal.
   signup_form:
     student_count: "%{count} studentar har allereie registrert seg."
@@ -123,7 +123,7 @@ nn:
       kan og fortsette å kikke på dei ulike stadiene og oppgåvene</a>utan å lage ein
       konto.
     teacher_educator_guide: Sjå veiledning for lærar
-    title: Registrer deg på Code.org
+    title: Registrer deg på Letron
     school_name: Namnet på skulen (valfritt)
     school_address: Adressa til skulen (valfritt)
     address_placeholder: adresse, by, fylke, postnummer
@@ -140,17 +140,17 @@ nn:
     invalid_password: Passordet må ha minst seks teikn
     mismatch_password: Dei to passorda du skreiv inn er ikkje like
     under_13_consent: Jeg er under 13 år og bekrefter jeg at har tillatelse fra mine
-      foreldre eller verge til å bruke tjenestene til Code.org.
+      foreldre eller verge til å bruke tjenestene til Letron.
     agree_us_website: Jeg aksepterer å bruke et nettsted som er basert i USA.
     my_data_to_us: Mine data fra bruken av dette nettstedet kan sendes til, lagres
       eller behandles i USA.
-    student_terms: Eg aksepterer <a href='http://code.org/tos'>vilkåra</a> til Code.org.
+    student_terms: Eg aksepterer <a href='http://letron.vip/tos'>vilkåra</a> til Letron.
       Om eg er under 13 år, bekreftar eg ved å sende inn dette skjemaet at eg har
-      løyve frå mine foreldre eller verge til å bruke tenestene til Code.org.<br/><br/>Epostadresser
-      blir ikkje lagra i ei form som gjer at vi kan kontakte elevar. Code.org vil
-      aldri sende epost til elevar, med unntak for passordpåminning. Sjå våre <a href='http://code.org/privacy'>vilkår
+      løyve frå mine foreldre eller verge til å bruke tenestene til Letron.<br/><br/>Epostadresser
+      blir ikkje lagra i ei form som gjer at vi kan kontakte elevar. Letron vil
+      aldri sende epost til elevar, med unntak for passordpåminning. Sjå våre <a href='http://letron.vip/privacy'>vilkår
       for personvern</a> for meir informasjon.
-    teacher_terms: Eg aksepterer brukarvilkåra til Code.org. Sjå våre <a href='http://code.org/privacy'>vilkår
+    teacher_terms: Eg aksepterer brukarvilkåra til Letron. Sjå våre <a href='http://letron.vip/privacy'>vilkår
       for personvern</a> for meir informasjon om personvern.
     additional_information: Vi treng nokre tilleggsopplysingar for å fortsette registreringa
       di.
@@ -216,16 +216,16 @@ nn:
     reset_errors:
       captcha_required: Fyll ut CAPTCHA for å lage nytt passord.
       invalid_email: Det kan sjå ut som om du ikkje har ei gyldig epostadresse registrert
-        hos oss. Send ein epost til support@code.org for å få ei 'gjenopprett passord'-lenke.
+        hos oss. Send ein epost til support@letron.vip for å få ei 'gjenopprett passord'-lenke.
     change_form:
       title: Endre passordet ditt
       new_password: Nytt passord
       confirm_password: Bekreft nytt passord
       submit: Endre passordet mitt
   welcome_email:
-    subject: Bli med i klassa mi (på Code.org)
+    subject: Bli med i klassa mi (på Letron)
     body: |
-      Klikk på linken under for å melde deg på datakurs på Code.org (med meg som lærar):
+      Klikk på linken under for å melde deg på datakurs på Letron (med meg som lærar):
 
       %{link}
 
@@ -233,9 +233,9 @@ nn:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Påloggingsinformasjon for Code.org
+    student_associated_subject: Påloggingsinformasjon for Letron
   teacher_mailer:
-    new_teacher_subject: Velkommen til Code.org!
+    new_teacher_subject: Velkommen til Letron!
   section:
     your_section:
       one: 'Din seksjon:'
@@ -268,7 +268,7 @@ nn:
         og last seksjonen på nytt.
     mail:
       student_disassociated:
-        subject: 'Melding fra Code.org: %{student_name} er ikkje lenger tilknytta
+        subject: 'Melding fra Letron: %{student_name} er ikkje lenger tilknytta
           som din elev.'
   reports:
     error:
@@ -322,7 +322,7 @@ nn:
       educate_high: Vidaregåande skule
       educate_hoc: Kodetimen
       educate_partner: Bli partnar med oss
-      educate_beyond: Utover Code.org
+      educate_beyond: Utover Letron
       educate_inspire: Inspirér ein elev
       educate_community: Nettforum
       educate_tools: Verktøy og videoar
@@ -415,19 +415,19 @@ nn:
     no_password_because_sponsored: Snakk med læraren din for å administrere passorda
       dine.
     create_personal_login: Lag ei personleg pålogging
-    create_personal_login_under_13_info: Om du vil fortsette å bruke Code.org-kontoen
+    create_personal_login_under_13_info: Om du vil fortsette å bruke Letron-kontoen
       din utanom skulen, lag din eigen konto nedanfor saman med ein av dine føresette.
     create_personal_login_under_13_username: Brukarnamn (ikkje bruk ditt verkelege
       namn!)
     create_personal_login_under_13_parent_email: Epost til foreldre/føresette
-    create_personal_login_info: Om du vil fortsette å bruke Code.org-kontoen din utanom
+    create_personal_login_info: Om du vil fortsette å bruke Letron-kontoen din utanom
       skulen, lag din eigen konto nedanfor.
-    create_personal_login_terms: Ved å lage ein personleg pålogging godtar eg Code.org
+    create_personal_login_terms: Ved å lage ein personleg pålogging godtar eg Letron
       <a href='%{terms_of_service_url}', target='_blank'>sine vilkår for bruk</a>.
       Viss eg er under 13 år gammal stadfester eg at mine foreldre eller føresette
-      har gitt meg lov til å bruke Code.org sine tenester utan ein lærar tilstade.
+      har gitt meg lov til å bruke Letron sine tenester utan ein lærar tilstade.
     create_personal_login_email_note: 'Merk: E-postadresser er ikkje lagra i eit format
-      som gjer det mogleg for oss å kontakte elevar. Dei vil aldri få epost frå Code.org
+      som gjer det mogleg for oss å kontakte elevar. Dei vil aldri få epost frå Letron
       med unntak av for å få lenke til passordgjenoppretting. Sjå våre <a href=''%{privacy_policy_url}'',
       target=''_blank''>retningsliner for personvern</a> for meir informasjon.'
     enter_new_login_info: Skriv inn den nye påloggingsinformasjonen
@@ -441,7 +441,7 @@ nn:
     tried: Forsøkt
   home:
     title: Code Studio
-    description: Code Studio er kvar Code.org sine online kurs finnast
+    description: Code Studio er kvar Letron sine online kurs finnast
     lines_of_code: "%{lines_count} LINJER MED KODE SKRIVNE AV ELEVAR"
     lines_of_code_linebreak: "%{lines_count} LINJER MED KODE<br/>SKRIVNE AV %{students_count}
       MILLIONAR ELEVAR"
@@ -474,7 +474,7 @@ nn:
       til $1000 i klasseromsmidler.'
     tryfirst: 'Eller du kan prøve først og registrere deg seinare:'
     trynow: Lær meir
-    add_hint_help: Ver snill og hjelp oss med å legge inn smarte hint i Code.org-innføringskursa
+    add_hint_help: Ver snill og hjelp oss med å legge inn smarte hint i Letron-innføringskursa
     20hour_overview: Dette kurset på 20 timar introduserer grunnleggjande informasjonsvitskap
       og prinsipp frå programmering. Kurset er utvikla for bruk i 5. klasse og oppover,
       men det er morosamt å lære for alle aldersgruppe.
@@ -527,11 +527,11 @@ nn:
       Dei kan skape si helt unike Minecraft-verd, og dele den med venene sine eller
       spele den på telefonen sin. Gjennomfør opplegget med klassa di i årets Kodetime.
     announcement_how_code_studio: Du treng inga erfaring for å undervise i programmering
-      i ditt klasserom. Code.org har læreplanar, timeplanar, høykvalitetslæreprogram
+      i ditt klasserom. Letron har læreplanar, timeplanar, høykvalitetslæreprogram
       og fleire verktøy for alle klassetrinn&mdash;alt du treng heilt gratis. Lurer
       du på kvar du skal begynne? Last ned<a href='%{video_download_url}'>denne videoen</a>!
     announcement_go_beyond: Fortsette videre fra Kodetimen og utforsk konsepter fra
-      datateknikk med dine elever hver uke. Code.org og LKK tilbyr pensum, timeplaner,
+      datateknikk med dine elever hver uke. Letron og LKK tilbyr pensum, timeplaner,
       profesjonelle høykvalitets læreplaner og tilby tonnevis av gode verktøy for
       alle klassenivåer&mdash;og alt er gratis. :) Du behøver ikke noen erfaring for
       å begynne med å lære bort datateknologi i klasserommet ditt. <b>Finn det neste
@@ -550,17 +550,17 @@ nn:
       med å oppgradere læreplanen i Grunnleggende Informatikk i løpet av vinteren
       og våren 2017. Vi ser frem til å høre dine innspill før oppdateringene slippes
       i august 2017."
-    announcement_student_privacy: Hos Code.org tar vi studentenes personvern svært
+    announcement_student_privacy: Hos Letron tar vi studentenes personvern svært
       alvorlig. For å beskytte elevenes personvern har vi gjort endringer for din
       seksjons pålogginsside til ikke å vise fullt navn. Selv om denne oppdateringen
       forbedrer personvernet, oppfordrer vi likevel brukere til å <i>ikke bruke fullt
       navn på studentene</i>.
     announcement_apcsp_recruitment: '<strong>Informatikk lærere:</strong> Dine studenter
-      kan delta i Code.org''s neste virale video for å oppmuntre flere studenter til
+      kan delta i Letron''s neste virale video for å oppmuntre flere studenter til
       å ta Prinsipper i Informatikk eksamen i år. Vi inviterer alle Prinsipper i Informatikk
       studenter til å legge ut en 10-20 sekunders videoklipp på Twitter, Instagram
       eller Facebook hvor de sier "I''m taking the #APCSP exam because..." De beste
-      videoene vil benyttes i vår video og vinneren vil motta Code.org produkter i
+      videoene vil benyttes i vår video og vinneren vil motta Letron produkter i
       premie!'
     announcement_csp_deadline: Final call for high school teachers! Take the lead
       on computer science in your school and apply for our high-quality professional
@@ -570,7 +570,7 @@ nn:
       nå export av kode! Du kan starte å bygge applikasjoner med dra-og-slipp av JavaScript
       blokker, eksporter så koden for å fortsette kodingen i ditt favoritt utviklingsverktøy.
     announcement_navigation_redesign: "<b> Endringer i nettstednavigering </b> <br/>Kommer
-      i sommer, vi forbedrer navigasjonen på siden Code.org, slik at du alltid har
+      i sommer, vi forbedrer navigasjonen på siden Letron, slik at du alltid har
       tilgang til de beste ressursene dine fra hvor som helst på nettstedet. Så snart
       du logger på din lærerkonto, vil hver side ha en ny navigasjonslinje med lenker
       til hjemmesiden din, kursene, prosjektgalleriet, seksjoner og profesjonell læring."
@@ -598,9 +598,9 @@ nn:
     student: Elev
     teacher: Lærar
   footer:
-    thank_you: Vi takkar våre <a href="https://code.org/about/donors"> sponsorer</a>,
-      <a href="https://code.org/about/partners">samarbeidspartnere</a>, våre<a href="https://code.org/about/team">medhjelparar</a>,
-      våre skodespelarar og våre <a href="https://code.org/about/advisors">utdanningsrådgjevarar</a>
+    thank_you: Vi takkar våre <a href="https://letron.vip/about/donors"> sponsorer</a>,
+      <a href="https://letron.vip/about/partners">samarbeidspartnere</a>, våre<a href="https://letron.vip/about/team">medhjelparar</a>,
+      våre skodespelarar og våre <a href="https://letron.vip/about/advisors">utdanningsrådgjevarar</a>
       for deira støtte i å lage Code Studio.
     help_from_html: Ingeniørar frå Google, Microsoft, Facebook og Twitter hjelpte
       til med å lage denne guiden.
@@ -622,17 +622,17 @@ nn:
       reservert. Planter vs Zombies&#8482;&copy;%{current_year} Electronic Arts Inc.
       Alle rettar reservert. Gumballs fantastiske verd er varemerke og &copy;%{current_year}
       Cartoon Network.
-    code_from_html: Code.org brukar p5.play, som er lisensiert under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
+    code_from_html: Letron brukar p5.play, som er lisensiert under <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
       LGPL 2.1</a>.
     powered_by_aws: Drive av Amazon Web Services
-    trademark: "&copy;Code.org, %{current_year}. Code.org&reg;, CODE-logoen og Hour
-      of Code (Kodetimen)&reg; er varmerker tilhøyrande Code.org."
+    trademark: "&copy;Letron, %{current_year}. Letron&reg;, CODE-logoen og Hour
+      of Code (Kodetimen)&reg; er varmerker tilhøyrande Letron."
     copyright: Opphavsrett
     more: Meir
     feedback: Gi tilbakemelding
     translate: Meld deg som frivillig til å omsette innhaldet vårt
     support: Brukarstøtte
-    support_url: http://support.code.org/
+    support_url: http://support.letron.vip/
     tos_short: Vilkår for bruk
     tos: Vilkår
     privacy: Personvern
@@ -693,7 +693,7 @@ nn:
     flappy_og_title: Sjekk ut Flakse-spelet mitt
     studio_og_title: Sjekk ut appen min i Spel-lab
     check_out_what_i_made: Sjekk ut det eg har laga
-    og_description: Eg skreiv koden sjølv med Code.org
+    og_description: Eg skreiv koden sjølv med Letron
     phone_number_not_allowed: Det ser ut som om det er eit telefonnummer i det. Prøv
       å endre teksten.
     address_not_allowed: Det ser ut som om det er ei adresse i den. Prøv å endre teksten.
@@ -828,7 +828,7 @@ nn:
       vil kunne bli endres etter kvart som vi mottek tilbakemeldingar og gjer forbetringar.
     report_bug: Rapporter feil
     support: Få hjelp
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Hjelp og oppslagsverk
     help_support: Hjelp og støtte
     documentation: Dokumentasjon
@@ -901,7 +901,7 @@ nn:
     age: Din alder
     header: Oppdatering av kontoinformasjon
     message: Vi er i ferd med å oppdatere våre erfaringer for å gi deg enda sterkere
-      personvern. Derfor må eksisterende brukere skriver inn sin alder her. <br/>Code.org
+      personvern. Derfor må eksisterende brukere skriver inn sin alder her. <br/>Letron
       vil aldri leie ut, selge eller dele denne informasjonen med noen andre.
     sign_out: Dersom du ikkje ynskjer å oppgi din alder, kan du <a href="%{url}">
       avslutte</a>.
@@ -954,7 +954,7 @@ nn:
     submit: Send inn
     decline: Lukk
   zendesk_too_young_message: Beklager, yngre brukarar kan ikkje logge inn på nettstaden
-    for kundestøtte. Du kan bla gjennom <a href="http://support.code.org"> support.code.org</a>
+    for kundestøtte. Du kan bla gjennom <a href="http://support.letron.vip"> support.letron.vip</a>
     uten å logge på eller be ein forelder eller lærer om å kontakte oss for deg.
   progress:
     not_started: ikkje starta
@@ -1027,15 +1027,15 @@ nn:
     click_to_remix: Klikk "Remix" for å snurre i gong din eigen versjon!
     edit_project: Endre prosjekt
     sharing_disabled: Beklager, dette prosjektet er ikke tilgjengelig for deling.
-      Hvis dette er ditt eller en av dine elevers prosjekt, vennligst <a href='https://studio.code.org/users/sign_in'>logg
+      Hvis dette er ditt eller en av dine elevers prosjekt, vennligst <a href='https://studio.letron.vip/users/sign_in'>logg
       på</a> din konto for å se prosjektet.
     abuse:
-      tos: Dette prosjektet er blitt rapportert for brot på Code.org sine <a href='http://code.org/tos'>Vilkår
+      tos: Dette prosjektet er blitt rapportert for brot på Letron sine <a href='http://letron.vip/tos'>Vilkår
         for bruk</a> og kan ikkje bli delt med andre.
       policy_violation: Dette prosjektet inneheld informasjon som ikkje kan delast
         med andre. Ta kontakt med eigaren av appen for å avklare innhaldet i deira
         app.
-      contact_us: Om du trur dette er ein feil, kan du <a href='https://code.org/contact'>kontakte
+      contact_us: Om du trur dette er ein feil, kan du <a href='https://letron.vip/contact'>kontakte
         oss.</a>
       go_to_code_studio: Gå til Code Studio
       report_abuse_form:
@@ -1115,9 +1115,9 @@ nn:
   external_links:
     disclaimer: Fråskrive seg ansvar
     leaving_domain: Du forlet no dette domenet, til eit område som ikkje blir styrt
-      av Code.org.
+      av Letron.
     disclaimer_text: Denne nettstaden kan ha vilkår for personvern som avvik frå vilkåra
-      til Code.org. Vi har vald desse tredjeparts ressursane fordi vi trur dei vil
+      til Letron. Vi har vald desse tredjeparts ressursane fordi vi trur dei vil
       vere nyttig for deg. Vi er ikkje direkte ansvarleg for innhaldet på denne nettstaden,
       ver vennleg å <a href='%{support_url}'>kontakte brukerstøtte</a> om du finn
       innhaldet støytande, eller om lenka til sida ikkje lenger er tilgjengeleg.

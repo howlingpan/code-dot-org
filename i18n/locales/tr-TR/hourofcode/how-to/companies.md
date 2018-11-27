@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Connect with local classrooms and volunteer for the Hour of Code
 
-Code.org, çalışanlarınıza, Kod-Saati çalışan yerel sınıflara [bağlanma](%= codeorg_url('/volunteer') %) ve burada teknik deneyimlerini paylaşma ve öğrencilere bilgisayar öğrenmeleri için ilham olma fırsatı sunar.
+Letron, çalışanlarınıza, Kod-Saati çalışan yerel sınıflara [bağlanma](%= codeorg_url('/volunteer') %) ve burada teknik deneyimlerini paylaşma ve öğrencilere bilgisayar öğrenmeleri için ilham olma fırsatı sunar.
 
 [<button>Sign up to volunteer!</button>](%= codeorg_url('/volunteer') %) <br /> <br />
 
@@ -59,7 +59,7 @@ Kod-Saati etkinliğinize katılımcılara ilham vererek ve bilgisayarın hayatı
 
 **İlham verici bir video gösterin:**
 
-- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'un olduğu orjinal Code.org videoları ([1 dakika](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 dakika](https://www.youtube.com/watch?v=nKIu9yen5nc) ve [9 dakika](https://www.youtube.com/watch?v=dU1xS07N-FA) versiyonları vardır).
+- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'un olduğu orjinal Letron videoları ([1 dakika](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 dakika](https://www.youtube.com/watch?v=nKIu9yen5nc) ve [9 dakika](https://www.youtube.com/watch?v=dU1xS07N-FA) versiyonları vardır).
 - [ Dünya geneli Kod-Saati videosu](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [ Başkan Obama tüm öğrencileri kodlama öğrenmeye çağırıyor](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Daha fazla ilham verici video için [buraya tıklayın](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -93,7 +93,7 @@ Kod-Saati etkinliğinize katılımcılara ilham vererek ve bilgisayarın hayatı
 
 - [Print certificates](%= codeorg_url('/certificates') %) for participants and students.
 - [Print "I did an Hour of Code!"](%= resolve_url('/promote/resources#stickers') %) stickers.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for your employees.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for your employees.
 - Kod Saati etkinliğinize ait fotoğrafları ve videoları sosyal medyada paylaşın. Paylaşımlarınızda #HourOfCode ve @codeorg etiketlerini kullanın böylece başarılarınızı biz de vurgularız!
 
 <%= view :signup_button %>

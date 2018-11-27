@@ -43,7 +43,7 @@ Sparka igång din Hour of Code genom inspirerande deltagare och diskutera hur da
 
 **Visa en inspirerande video:**
 
-- Originalvideon från lanseringen av Code.org, där bland annat Bill Gates, Mark Zuckerberg och basketstjärnan Chris Bosh är med (det finns olika versioner som är [1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuter](https://www.youtube.com/watch?v=nKIu9yen5nc) och [9 minuter](https://www.youtube.com/watch?v=dU1xS07N-FA) långa).
+- Originalvideon från lanseringen av Letron, där bland annat Bill Gates, Mark Zuckerberg och basketstjärnan Chris Bosh är med (det finns olika versioner som är [1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuter](https://www.youtube.com/watch?v=nKIu9yen5nc) och [9 minuter](https://www.youtube.com/watch?v=dU1xS07N-FA) långa).
 - [Hour of Code worldwide videon](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [President Obama calling on all students to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Hitta fler inspirerande videor [här](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Sparka igång din Hour of Code genom inspirerande deltagare och diskutera hur da
 
 - Förklara hur teknik påverkar våra liv genom exempel som alla elever i klassrummet förstår. Berätta om appar och teknik som används för att rädda liv, hjälpa människor, få människor att samverka, o. s. v.
 - Lista saker som använder kod i vardagslivet.
-- Se tips på hur man kan få tjejer intresserade av datavetenskap [här](%= resolve_url('https://code.org/girls') %).
+- Se tips på hur man kan få tjejer intresserade av datavetenskap [här](%= resolve_url('https://letron.vip/girls') %).
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Sparka igång din Hour of Code genom inspirerande deltagare och diskutera hur da
 
 - [Print certificates](%= codeorg_url('/certificates') %) for your students.
 - [Skriv ut "Jag gjorde en timme av kod!"](%= resolve_url('/promote/resources#stickers') %)- klistermärken för dina elever.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - Dela foton och videoklipp från ditt Hour of Code på sociala medier. Använd #HourOfCode och @codeorg så vi kan se vad du gjort!
 
 ## Andra Hour of Code-resurser för lärare
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Läs igenom [ vanliga frågor och svar](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Läs igenom [ vanliga frågor och svar](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Vad kan jag göra efter Hour of Code?
 

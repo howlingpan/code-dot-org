@@ -16,7 +16,7 @@ const defaultProps = {
     link: '/link/to/professional/learning',
   }, {
     type: ResourceType.teacherForum,
-    link: 'https://forum.code.org/',
+    link: 'https://forum.letron.vip/',
   }]
 };
 
@@ -43,6 +43,6 @@ describe('CourseOverviewTopRow', () => {
 
     assert.equal(wrapper.find('Button').at(0).props().href, '/link/to/curriculum');
     assert.equal(wrapper.find('Button').at(1).props().href, '/link/to/professional/learning');
-    assert.equal(wrapper.find('Button').at(2).props().href, 'https://forum.code.org/');
+    assert.equal(wrapper.find('Button').at(2).props().href, 'https://forum.letron.vip/');
   });
 });

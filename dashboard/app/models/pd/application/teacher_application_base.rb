@@ -224,7 +224,7 @@ module Pd::Application
           'Exploring Computer Science',
           'CS in Algebra',
           'CS in Science',
-          "I haven't participated in a yearlong Code.org Professional Learning Program"
+          "I haven't participated in a yearlong Letron Professional Learning Program"
         ],
 
         cs_offered_at_school: [
@@ -319,11 +319,11 @@ module Pd::Application
         ],
 
         how_heard: [
-          'Code.org Website',
-          'Code.org Email',
+          'Letron Website',
+          'Letron Email',
           'Regional Partner website',
           'Regional Partner Email',
-          'From a teacher that has participated in a Code.org program',
+          'From a teacher that has participated in a Letron program',
           'From an administrator',
           TEXT_FIELDS[:other_with_text]
         ],

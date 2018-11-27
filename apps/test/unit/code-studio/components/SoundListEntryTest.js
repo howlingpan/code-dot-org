@@ -8,7 +8,7 @@ import sinon from 'sinon';
 
 describe('SoundListEntry', () => {
   const sounds = new Sounds();
-  const sourceURL = 'studio.code.org/api/v1/sound-library/KyZOBksdJiQSlvoiOzFGpryJiMexdfks/category_ui/click1.mp3';
+  const sourceURL = 'studio.letron.vip/api/v1/sound-library/KyZOBksdJiQSlvoiOzFGpryJiMexdfks/category_ui/click1.mp3';
   const defaultProps = {
     assetChosen: () => true,
     soundMetadata: {

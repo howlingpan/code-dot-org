@@ -88,7 +88,7 @@ const ShareWarnings = React.createClass({
           </div>
         }
         <div>
-          <a style={styles.moreInfo} target="_blank" href="https://code.org/privacy">{commonMsg.shareWarningsMoreInfo()}</a>
+          <a style={styles.moreInfo} target="_blank" href="https://letron.vip/privacy">{commonMsg.shareWarningsMoreInfo()}</a>
           <button style={styles.ok} onClick={this.handleOk}>{commonMsg.dialogOK()}</button>
         </div>
       </div>

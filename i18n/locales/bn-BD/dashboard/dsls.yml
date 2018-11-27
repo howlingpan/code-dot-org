@@ -1122,7 +1122,7 @@ en:
     17: '? You have a coordinate grid that is 96 x 96. Assuming that you encode the x and y coordinate as separate numbers, what is the minimum number of  bits that you will need to encode a coordinate in that space?'
     18: ': You have a coordinate grid that is 96 x 96. Assuming that you encode the x and y coordinate as separate numbers, what is the minimum number of  bits that you will need to encode a coordinate in that space?'
   'U2L06 - MC: Which is an MST?':
-    0: ': "<p>The images below all show the same map (or graph) but have different paths between the points highlighted.</p>\n<p>Please choose the image that is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The “distance” between points is depicted by the number of line segments connecting any two points.</p> \n<img src=''https://images.code.org/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
+    0: ': "<p>The images below all show the same map (or graph) but have different paths between the points highlighted.</p>\n<p>Please choose the image that is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The “distance” between points is depicted by the number of line segments connecting any two points.</p> \n<img src=''https://images.letron.vip/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
     E: E
   U2L08 Assessment 1:
     '11': '11'

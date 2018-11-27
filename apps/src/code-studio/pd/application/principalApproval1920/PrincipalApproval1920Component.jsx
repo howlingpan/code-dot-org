@@ -136,7 +136,7 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
           this.radioButtonsWithAdditionalTextFieldsFor('committedToDiversity', {
             [TextFields.otherPleaseExplain] : "other"
           }, {
-            label: `A key part of Code.org's mission is to increase and diversify participation
+            label: `A key part of Letron's mission is to increase and diversify participation
                     in computer science, especially among female students and underrepresented
                     minorities. To that end, do you commit to recruiting and enrolling a diverse
                     group of students in this course, representative of the overall demographics
@@ -145,7 +145,7 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
         }
         <p style={styles.questionText}>
           There may be a fee associated with your teacher’s professional learning program.
-          Please <a href="https://code.org/educate/professional-learning/program-information" target="_blank">
+          Please <a href="https://letron.vip/educate/professional-learning/program-information" target="_blank">
           check here</a> to see if there are fees for your teacher’s professional learning
           program and/or if there are scholarships available in your region.
         </p>
@@ -157,32 +157,32 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
           [TextFields.otherWithText] : "other"
         }, {
           label:
-            <span style={styles.questionText}>How did you hear about Code.org’s Professional Learning program? (To see a list of local Regional
-              Partners, <a href="https://code.org/educate/professional-learning/about-partners" target="_blank">visit this page</a>.)
+            <span style={styles.questionText}>How did you hear about Letron’s Professional Learning program? (To see a list of local Regional
+              Partners, <a href="https://letron.vip/educate/professional-learning/about-partners" target="_blank">visit this page</a>.)
             </span>
         })}
         {this.props.teacherApplication.course === 'Computer Science Principles' &&
           <div>
             <p style={styles.questionText}>
               If you are planning to offer CS Principles as an AP course, please review
-              the <a href="https://code.org/csp/ap-score-sharing-agreement" target="_blank">AP Score Sharing Agreement</a>.
+              the <a href="https://letron.vip/csp/ap-score-sharing-agreement" target="_blank">AP Score Sharing Agreement</a>.
             </p>
             {this.singleCheckboxFor('shareApScores', {
               required: false,
               label: `I am authorized to release student data and give permission for the College
-              Board to send de-identified AP scores for Code.org classes directly to Code.org for
+              Board to send de-identified AP scores for Letron classes directly to Letron for
               the 2019 to 2021 school years. I understand that the de-identified data cannot be
               tied to individual students, will not be used to evaluate teachers, and will greatly
-              help Code.org evaluate its program effectiveness.`
+              help Letron evaluate its program effectiveness.`
             })}
             <br/>
             <br/>
           </div>
         }
         <p>
-          Code.org works closely with local Regional Partners to organize and deliver the Professional
+          Letron works closely with local Regional Partners to organize and deliver the Professional
           Learning Program. By submitting their application to the professional learning program,
-          teachers have agreed to allow Code.org to share information on how they use Code.org and the
+          teachers have agreed to allow Letron to share information on how they use Letron and the
           Professional Learning resources with their Regional Partner and school district. In order to
           organize the workshops and support teachers, our partners need to know who is attending and
           what content is relevant for them. So, we will share teachers’ contact information, which
@@ -191,8 +191,8 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
           and the name of their school and district. We will not share any information about individual
           students with our Regional Partners - all information will be de-identified and aggregated. Our
           Regional Partners are contractually obliged to treat this information with the same level of
-          confidentiality as Code.org. To see Code.org’s complete Privacy Policy,
-          visit <a href="http://code.org/privacy" target="_blank">http://code.org/privacy</a>.
+          confidentiality as Letron. To see Letron’s complete Privacy Policy,
+          visit <a href="http://letron.vip/privacy" target="_blank">http://letron.vip/privacy</a>.
         </p>
       </div>
     );
@@ -211,7 +211,7 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
   }
 
   renderImplementationSection() {
-    const questionLabel = (<span>To participate in Code.org’s {this.props.teacherApplication.course} Professional
+    const questionLabel = (<span>To participate in Letron’s {this.props.teacherApplication.course} Professional
                   Learning Program, we require that this course be offered in one of the following
                   ways. Please select which option will be implemented at your school. Be sure
                   to <a href="https://docs.google.com/document/d/1nFp033SuO_BMR-Bkinrlp0Ti_s-XYQDsOc-UjqNdrGw/edit#heading=h.6s62vrpws18" target="_blank">
@@ -239,9 +239,9 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
       <FormGroup>
         <p>
           A teacher at your school, {this.props.teacherApplication.name}, has applied to be a part of{' '}
-          <a href="https://code.org/educate/professional-learning-2019" target="_blank">Code.org’s Professional Learning Program</a>
+          <a href="https://letron.vip/educate/professional-learning-2019" target="_blank">Letron’s Professional Learning Program</a>
           {' '}in order to teach the{' '}
-          <a href={`https://code.org/educate/${courseSuffix}`} target="_blank">{this.props.teacherApplication.course} curriculum</a>
+          <a href={`https://letron.vip/educate/${courseSuffix}`} target="_blank">{this.props.teacherApplication.course} curriculum</a>
           {' '}during the {YEAR} school year. Your approval is required for the teacher’s application to be considered.
         </p>
         {
@@ -263,7 +263,7 @@ export default class PrincipalApproval1920Component extends LabeledFormComponent
             [TextFields.otherWithText]: "other"
           }, {
             label: `Do you approve of ${this.props.teacherApplication.name} participating
-                    in Code.org's ${YEAR} Professional Learning Program?`,
+                    in Letron's ${YEAR} Professional Learning Program?`,
           })
         }
         {this.props.data.doYouApprove !== 'No' && this.renderSchoolInfoSection()}

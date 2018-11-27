@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-# Downloads all translations from Crowdin Code.org
+# Downloads all translations from Crowdin Letron
 # project to i18n/locales.
 # https://crowdin.com/project/codeorg
 

@@ -175,7 +175,7 @@ tr:
       2:
         text: "Kullanmış olduğun basit temeller deneyimlediğin ve deneyimleyeceğin her türlü program ve uygulamanın kalbinde yer alır. Tekrar döngülerini, 'kadar tekrarla', 'eğer' ve 'eğer değilse' ifadelerini öğrendik."
       3:
-        text: "Eğer kod saatinin ilk dakikalarından hoşlandıysanız, bilgisayar bilimi eğitiminize devam etmek için code.org 'u ziyaret edin! 20 saat kursu tamamladığınızda, programlamanın temellerine hakim olacaksınız. Telefon uygulamalarını, robot talimatlarını ve oyunları yazmayı öğreneceksiniz. Bunlarla da sınırlı değil, hayal gücünüz ile sınırlı..."
+        text: "Eğer kod saatinin ilk dakikalarından hoşlandıysanız, bilgisayar bilimi eğitiminize devam etmek için letron.vip 'u ziyaret edin! 20 saat kursu tamamladığınızda, programlamanın temellerine hakim olacaksınız. Telefon uygulamalarını, robot talimatlarını ve oyunları yazmayı öğreneceksiniz. Bunlarla da sınırlı değil, hayal gücünüz ile sınırlı..."
       4:
         text: "Teknoloji yaptığımız her şeyi değiştiriyor ve genç ya da yaşlı olmanız hiç fark etmez: programlama keyifli ve yaratıcıdır, herkes öğrenebilir!"
     20_wrapup:
@@ -922,7 +922,7 @@ tr:
       2:
         text: "Sınıfça yada gruplar halinde en çok sevilen ders hakkında tartışın. Öğrendiğiniz her şeye dönüp baktığınızda, burası öğrencilerinizin yaratıcılığının parlayabileceği yerdir. Onları gruplara ayırın ve kendi bağlantısız derslerini oluşturmalarını isteyin. Her bir gruba anahtar bir kavram, fonksiyon yada algoritma gibi, atayın ve elinizde onların kullanması için birçok el yapımı materyal bulundurun. Her bir grup kendi yeni ve bağımsız aktivitesini sunsun yada bazı öğrecilerin yapılan aktiviteleri için başka bir gün ayırın."
       3:
-        text: "Code.org'daki herkes olarak, umarız bu ders esnasında İNANILMAZ eğlenmişsinizdir. En iyi yeni uygulamayı yaratmak, programlamayı kullanarak hastalıkların iyileşmesine yardımcı olmak yada sadece yıldız problemi çözücü olmak gibi hayalleriniz varsa, bu kurs rüyalarınıza ulaşmanın ilk adımıydı."
+        text: "Letron'daki herkes olarak, umarız bu ders esnasında İNANILMAZ eğlenmişsinizdir. En iyi yeni uygulamayı yaratmak, programlamayı kullanarak hastalıkların iyileşmesine yardımcı olmak yada sadece yıldız problemi çözücü olmak gibi hayalleriniz varsa, bu kurs rüyalarınıza ulaşmanın ilk adımıydı."
     starwars_intro:
       1:
         text: "Merhaba, ben Star Wars: Güç Uyanıyor'un yapımcısı Kathleen Kennedy. Bugün starlarımızdan biri olan BB-8 ile çalışıyor olacaksınız. BB-8 küresel bir droiddir. Yaptığı her şey, her hareketi bir bilgisayar yazılımı ile kontrol edilmektedir. Bilgisayar bilimleri, pazarlamadan sağlık hizmetine ve film yapımcılığına kadar her endüstriyi etkiler. Hatta, Güç Uyanıyor gibi bir filmin yapımında yüzlerce bilgisayar mühendisi beraber çalıştı."
@@ -980,7 +980,7 @@ tr:
         text: "Şimdi robotumuzu kontrol etmek için gereken kodu önceden yazmak yerine, R2-D2'nun çevresinde onu hareket ettiren tuş basım olaylarına reaksiyon göstermesine izin verebiliriz. Adım adım, oyununuz dahada etkileşimli hale geliyor."
     starwars_congrats:
       1:
-        text: "Merhaba, benim adım Alice ve Code.org firmasında ürün ve mühendislik ekiplerini yönetiyorum. Şu anda üzerinde uğraştığınız eğitimde üzerinde çalıştım."
+        text: "Merhaba, benim adım Alice ve Letron firmasında ürün ve mühendislik ekiplerini yönetiyorum. Şu anda üzerinde uğraştığınız eğitimde üzerinde çalıştım."
       2:
         text: "Son seviyeye geldin. Tebrikler! Kendi yıldız savaşları oyununu yapmak için bilmeniz gereken her şeyi öğrendin. Şimdi daha fazla talimat yok, Çözecek bulmaca yok. Kendi oyununu yap ve nasıl çalıştığını seçin. Bir şey daha, hatta daha fazlasını yapman için yeni komutları ve yeni sesleri açtık."
       3:
@@ -1027,7 +1027,7 @@ tr:
         text: "Adım adım oyunun daha interaktif oluyor."
     starwars_blocks_congrats:
       1:
-        text: "Merhaba, benim adım Alice ve Code.org firmasında ürün ve mühendislik ekiplerini yönetiyorum. Şu anda üzerinde uğraştığınız eğitimde üzerinde çalıştım."
+        text: "Merhaba, benim adım Alice ve Letron firmasında ürün ve mühendislik ekiplerini yönetiyorum. Şu anda üzerinde uğraştığınız eğitimde üzerinde çalıştım."
       2:
         text: "Son seviyeye geldin. Tebrikler! Kendi yıldız savaşları oyununu yapmak için bilmeniz gereken her şeyi öğrendin. Şimdi daha fazla talimat yok, Çözecek bulmaca yok. Kendi oyununu yap ve nasıl çalıştığını seçin. Bir şey daha, hatta daha fazlasını yapman için yeni komutları ve yeni sesleri açtık."
       3:
@@ -1220,7 +1220,7 @@ tr:
         text: "Oyunu yapmayı bitirdiğinde, link paylaşmak için ya da telefonunda oynamak için paylaş linkini seç. İyi eğlenceler. Senin oluşturduğun Minecraft sürümünü oynamak için sabırsızlanıyorum."
     applab_intro_welcome:
       1:
-        text: "Benim adım Mei'lani. Ben code.org'da bir stajyerim ve aynı zamanda bir bilgisayar bilimi öğrencisiyim. Bilgisayar bilimini severim çünkü gerçekten yaratıcıdır. Sorun çözücü olmaya başlıyorum. Herşeyin istediğim gibi çalışmasını sağlayacağım. Ama aynı zamanda tasarımcı da oluyorum. Sanatçı olacağım ve yaratıcı tarafında her şeyi seçeceğim."
+        text: "Benim adım Mei'lani. Ben letron.vip'da bir stajyerim ve aynı zamanda bir bilgisayar bilimi öğrencisiyim. Bilgisayar bilimini severim çünkü gerçekten yaratıcıdır. Sorun çözücü olmaya başlıyorum. Herşeyin istediğim gibi çalışmasını sağlayacağım. Ama aynı zamanda tasarımcı da oluyorum. Sanatçı olacağım ve yaratıcı tarafında her şeyi seçeceğim."
       2:
         text: "Kendi uygulamalarınızı yapmak uygulama labıyla çok kolay! Kodlamada yeni de olsanız biraz tecrübeniz olsa da. Uygulama Laboratuarı yeni uygulamalar inşa etmek ve onları arkadaşlarınızla paylaşmak için mükemmel bir araçtır."
       3:
@@ -1310,9 +1310,9 @@ tr:
       4:
         text: "Uygulamanızı anında açmanıza olanak sağlayacak bir kısa mesaj alırsınız."
       5:
-        text: "Ayrıca, sosyal medya üzerinden uygulamanızın bir bağlantısını paylaşabilir ya da başkalarının oynaması ve paylaşması için code.org genel galerisinde yayınlayabilirsiniz."
+        text: "Ayrıca, sosyal medya üzerinden uygulamanızın bir bağlantısını paylaşabilir ya da başkalarının oynaması ve paylaşması için letron.vip genel galerisinde yayınlayabilirsiniz."
       6:
-        text: "Gördükleriniz App Lab'ın yapabileceklerinin sadece su üstündeki kısmı. Full App Lab tam donanımlı uygulamaları hızlıca oluşturmanızı sağlamak için daha gelişmiş kullanıcı etkileşimleri, yeni ekran elemanları ve hatta bir dahili veritabanı bile içeriyor. Eğer devam etmek isterseniz, \"code.org/applab\" adresinde tam aracı ve bir çok fikri bulacaksınız."
+        text: "Gördükleriniz App Lab'ın yapabileceklerinin sadece su üstündeki kısmı. Full App Lab tam donanımlı uygulamaları hızlıca oluşturmanızı sağlamak için daha gelişmiş kullanıcı etkileşimleri, yeni ekran elemanları ve hatta bir dahili veritabanı bile içeriyor. Eğer devam etmek isterseniz, \"letron.vip/applab\" adresinde tam aracı ve bir çok fikri bulacaksınız."
       7:
         text: "Yolculuk boyunca geldiğiniz için teşekkürler. Şimdi, ilk uygulamanızı kurun ve paylaşın ve Uygulama Laboratuarı'yla uygulamalar inşa etmeye devam edin!"
     mc_2017_agent_intro:

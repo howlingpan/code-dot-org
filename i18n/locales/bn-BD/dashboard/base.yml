@@ -37,7 +37,7 @@ bn:
   add_hint_form:
     placeholder: 'আপনার সংকেত দিন'
     submit: 'সংকেত যুক্ত করুন'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "ধাপ"
   stage_number: "স্টেইজ %{number}"
   puzzle: "ধাঁধা"
@@ -58,7 +58,7 @@ bn:
   auth:
     sign_in_with: '%{provider} এর সাথে সাইন ইন করো'
     signed_in: 'সাইনড ইন!'
-    signed_out: 'আপনি <a href="%{url}">Code.org</a> থেকে বের হয়ে গেছেন।'
+    signed_out: 'আপনি <a href="%{url}">Letron</a> থেকে বের হয়ে গেছেন।'
     sign_out_of: 'আপনি সাইন ইন করার জন্য %{provider} ব্যবহার করেছেন। %{provider} থেকে সাইন আউট করার জন্য <a href="%{url}">এখানে ক্লিক</a> করুন।'
     already_signedup: 'ইতিমধ্যে সাইন আপ করেছ?'
     notyet_signedup: "এখনো যোগ দেননি?"
@@ -124,7 +124,7 @@ bn:
       confirm_password: 'নতুন পাসওয়ার্ড নিশ্চিত করুন'
       submit: 'আমার পাসওয়ার্ড পরিবর্তন করুন'
   welcome_email:
-    subject: 'আমার ক্লাসে (Code.org তে) যোগ দিন।'
+    subject: 'আমার ক্লাসে (Letron তে) যোগ দিন।'
   section:
     type:
       word: 'গোপন শব্দ'
@@ -143,7 +143,7 @@ bn:
       cant_join_own_section: "দুঃখিত, আপনি আপনার নিজের সেকশনে যোগ দিতে পারবেন না।"
     mail:
       student_disassociated:
-        subject: "Code.org বিজ্ঞপ্তি: %{student_name} আর আপনার ছাত্র হিসেবে যুক্ত নেই।"
+        subject: "Letron বিজ্ঞপ্তি: %{student_name} আর আপনার ছাত্র হিসেবে যুক্ত নেই।"
   reports:
     error:
       access_denied: "আপনার এই ব্যক্তির পরিসংখ্যান দেখার অনুমতি নেই"

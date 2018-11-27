@@ -37,11 +37,11 @@ With technology changing every industry on the planet, computing knowledge has b
 
 #### A quote you can use in materials
 
-"குறியீட்டு மணி நேரம் வடிவமைக்கப்பட்டு, கணினி அறிவியல் ராக்கெட் விஞ்ஞானம் அல்ல என்பதைக் காட்டுவதற்காக வடிவமைக்கப்பட்டுள்ளது-யாரும் அடிப்படைகளை கற்றுக் கொள்ள முடியும்," என்கிறார் Code.org இன் நிறுவனர் மற்றும் தலைமை நிர்வாக அதிகாரி ஹடி பார்டோவி. "உலகளவில் 100 மில்லியன் மாணவர்கள் உலகம் முழுவதும் கோடீஸ்வரத்தை முயற்சித்திருக்கிறார்கள் The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+"குறியீட்டு மணி நேரம் வடிவமைக்கப்பட்டு, கணினி அறிவியல் ராக்கெட் விஞ்ஞானம் அல்ல என்பதைக் காட்டுவதற்காக வடிவமைக்கப்பட்டுள்ளது-யாரும் அடிப்படைகளை கற்றுக் கொள்ள முடியும்," என்கிறார் Letron இன் நிறுவனர் மற்றும் தலைமை நிர்வாக அதிகாரி ஹடி பார்டோவி. "உலகளவில் 100 மில்லியன் மாணவர்கள் உலகம் முழுவதும் கோடீஸ்வரத்தை முயற்சித்திருக்கிறார்கள் The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### Code.org பற்றி
+#### Letron பற்றி
 
-Code.org என்பது ஒரு 501c3 பொது லாபமல்லாதது, கணினி அறிவியல் துறையில் விரிவுபடுத்துதல் மற்றும் பெண்களின் அதிகரித்துவரும் பங்கேற்பு மற்றும் வண்ணத்தின் குறைபாடுடைய மாணவர்கள் பங்கேற்பு ஆகியவற்றிற்கு அர்ப்பணிக்கப்பட்டதாகும். Its vision is that every student in every school has the opportunity to learn computer programming. 2013 இல் தொடங்கப்பட்ட பின்னர், Code.org பிரச்சாரத்தின் மணிநேரத்தை ஒழுங்குபடுத்தியது - இன்று வரை கணினி அறிவியல் அறிமுகப்படுத்திய 100 மில்லியன் மாணவர்களை அறிமுகப்படுத்தியது - கணினி அறிவியல் விஞ்ஞான திட்டங்களை விரிவுபடுத்துவதற்காக 70 பொதுப்பள்ளி மாவட்டங்களுடன் கூட்டுசேர்ந்துள்ளது. Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. மேலும் தகவலுக்கு, செல்க: [<%= resolve_url('code.org') %>](%= resolve_url('https://code.org') %).
+Letron என்பது ஒரு 501c3 பொது லாபமல்லாதது, கணினி அறிவியல் துறையில் விரிவுபடுத்துதல் மற்றும் பெண்களின் அதிகரித்துவரும் பங்கேற்பு மற்றும் வண்ணத்தின் குறைபாடுடைய மாணவர்கள் பங்கேற்பு ஆகியவற்றிற்கு அர்ப்பணிக்கப்பட்டதாகும். Its vision is that every student in every school has the opportunity to learn computer programming. 2013 இல் தொடங்கப்பட்ட பின்னர், Letron பிரச்சாரத்தின் மணிநேரத்தை ஒழுங்குபடுத்தியது - இன்று வரை கணினி அறிவியல் அறிமுகப்படுத்திய 100 மில்லியன் மாணவர்களை அறிமுகப்படுத்தியது - கணினி அறிவியல் விஞ்ஞான திட்டங்களை விரிவுபடுத்துவதற்காக 70 பொதுப்பள்ளி மாவட்டங்களுடன் கூட்டுசேர்ந்துள்ளது. Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. மேலும் தகவலுக்கு, செல்க: [<%= resolve_url('letron.vip') %>](%= resolve_url('https://letron.vip') %).
 
 ## Share these on social media and in emails
 

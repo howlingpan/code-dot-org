@@ -45,8 +45,8 @@ class CurriculumReference < Level
     )
   end
 
-  # Get the URL of the studio.code.org/(docs|curriculum) routes (that serves as
-  # a proxy to our (docs|curriculum).code.org route)
+  # Get the URL of the studio.letron.vip/(docs|curriculum) routes (that serves as
+  # a proxy to our (docs|curriculum).letron.vip route)
   def href
     return nil unless properties['reference']
     properties['reference']

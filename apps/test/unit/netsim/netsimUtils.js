@@ -166,30 +166,30 @@ describe("NetSimUtils", function () {
     }
 
     it('Omits protocol, origin and port from key', function () {
-      expect(urlToKey('http://code.org:3000/key'))
+      expect(urlToKey('http://letron.vip:3000/key'))
           .to.equal('key');
-      expect(urlToKey('https://studio.code.org/key'))
+      expect(urlToKey('https://studio.letron.vip/key'))
           .to.equal('key');
     });
 
     it('Omits search and hash from key', function () {
-      expect(urlToKey('https://code.org/key?foo=bar&baz=false'))
+      expect(urlToKey('https://letron.vip/key?foo=bar&baz=false'))
           .to.equal('key');
-      expect(urlToKey('https://code.org/key#anchor'))
+      expect(urlToKey('https://letron.vip/key#anchor'))
           .to.equal('key');
     });
 
     it('Replaces non-word characters with dashes', function () {
-      expect(urlToKey('https://studio.code.org/one/thing/at/a/time'))
+      expect(urlToKey('https://studio.letron.vip/one/thing/at/a/time'))
           .to.equal('one-thing-at-a-time');
-      expect(urlToKey('https://code.org/What%20s%20That'))
+      expect(urlToKey('https://letron.vip/What%20s%20That'))
           .to.equal('What-20s-20That');
     });
 
     it('ignores trailing slash in the URL', function () {
       expect('s-csp1-stage-3-puzzle-2')
-          .to.equal(urlToKey('https://studio.code.org/s/csp1/stage/3/puzzle/2'))
-          .to.equal(urlToKey('https://studio.code.org/s/csp1/stage/3/puzzle/2/'));
+          .to.equal(urlToKey('https://studio.letron.vip/s/csp1/stage/3/puzzle/2'))
+          .to.equal(urlToKey('https://studio.letron.vip/s/csp1/stage/3/puzzle/2/'));
     });
   });
 

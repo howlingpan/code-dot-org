@@ -13,7 +13,7 @@ nav: how_to_nav
 
 ## Connect with local classrooms and volunteer for the Hour of Code
 
-Code.org มอบโอกาสให้ลูกจ้างของคุณได้[เชื่อมต่อ](%= codeorg_url('/volunteer') %)กับห้องเรียนในท้องถิ่นที่ทำ Hour of Code ซึ่งพวกเขาสามารถแบ่งปันประสบการณ์การทำงานด้านเทคโนโลยีและสร้างแรงบันดาลใจให้นักเรียนมาเรียนวิชาวิทยาการคอมพิวเตอร์
+Letron มอบโอกาสให้ลูกจ้างของคุณได้[เชื่อมต่อ](%= codeorg_url('/volunteer') %)กับห้องเรียนในท้องถิ่นที่ทำ Hour of Code ซึ่งพวกเขาสามารถแบ่งปันประสบการณ์การทำงานด้านเทคโนโลยีและสร้างแรงบันดาลใจให้นักเรียนมาเรียนวิชาวิทยาการคอมพิวเตอร์
 
 [<button>Sign up to volunteer!</button>](%= codeorg_url('/volunteer') %) <br /> <br />
 
@@ -59,7 +59,7 @@ We host a variety of [fun, hour-long activities](%= resolve_url('/learn') %) for
 
 **เปิดวิดีโอสร้างแรงบันดาลใจ**
 
-- วิดีโอเปิดตัวเดิมของ Code.org มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh (มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- วิดีโอเปิดตัวเดิมของ Letron มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh (มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - [ วิดีโอ Hour of Code สำหรับทั่วโลก](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [ประธานาธิบดี Obama เชิญชวนให้นักเรียนทุกคนเรียนวิชาวิทยาการคอมพิวเตอร์](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 - หาวิดีโอสร้างแรงบันดาลใจอื่นๆ[ที่นี่](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)
@@ -93,7 +93,7 @@ We host a variety of [fun, hour-long activities](%= resolve_url('/learn') %) for
 
 - [Print certificates](%= codeorg_url('/certificates') %) for participants and students.
 - [Print "I did an Hour of Code!"](%= resolve_url('/promote/resources#stickers') %) stickers.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for your employees.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for your employees.
 - แชร์รูปถ่ายและวิดีโอของกิจกรรม Hour of Code ของคุณลงในโซเชียลมีเดีย ใช้ #HourOfCode และ @codeorg เพื่อที่เราจะสามารถเห็นความสำเร็จของคุณด้วยเช่นกัน!
 
 <%= view :signup_button %>

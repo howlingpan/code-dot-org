@@ -25,7 +25,7 @@
     "definition_collapse": "false",
     "disable_examples": "false",
     "instructions_important": "false",
-    "authored_hints": "[{\"hint_class\":null,\"hint_markdown\":\"\",\"hint_id\":\"\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/d41d8cd98f00b204e9800998ecf8427e/courseB_maze_seq1.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":null,\"hint_markdown\":\"\",\"hint_id\":\"\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/d41d8cd98f00b204e9800998ecf8427e/courseB_maze_seq1.mp3\"}]",
     "contained_level_names": [
       "courseB_multi_maze_seq1_predict1_2018"
     ],
@@ -38,7 +38,7 @@
   },
   "published": true,
   "notes": "This should be an Ice Age style \"freeplay\"",
-  "audit_log": "[{\"changed_at\":\"2018-04-12 17:07:20 +0000\",\"changed\":[\"notes\",\"start_blocks\",\"toolbox_blocks\",\"skin\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"},{\"changed_at\":\"2018-04-12 17:11:44 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-04-12 17:07:20 +0000\",\"changed\":[\"notes\",\"start_blocks\",\"toolbox_blocks\",\"skin\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"},{\"changed_at\":\"2018-04-12 17:11:44 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

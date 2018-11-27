@@ -33,7 +33,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 **เปิดวิดีโอสร้างแรงบันดาลใจ**
 
-- วิดีโอเปิดตัวเดิมของ Code.org มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh (มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- วิดีโอเปิดตัวเดิมของ Letron มี Bill Gates, Mark Zuckerberg เเละ NBA star Chris Bosh (มีแบบ [1 นาที](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 นาที](https://www.youtube.com/watch?v=nKIu9yen5nc) เเละ [ 9 นาที](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [ประธานาธิบดี Obama เชิญชวนให้นักเรียนทุกคนเรียนวิชาวิทยาการคอมพิวเตอร์](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 - หา[แหล่ง](%= codeorg_url('/inspire') %)และ[วิดีโอ](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)สร้างแรงบันดาลใจอื่นๆ
@@ -66,7 +66,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 แชร์รูปถ่ายและวิดีโอของกิจกรรม Hour of Code ของคุณลงในโซเชียลมีเดีย ใช้ #HourOfCode และ @codeorg เพื่อที่เราจะสามารถเห็นความสำเร็จของคุณด้วยเช่นกัน!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## จะทำอะไรต่อหลังจาก Hour of Code?
 

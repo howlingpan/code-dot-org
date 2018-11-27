@@ -300,7 +300,7 @@ eu:
           edo app-ren bihotza dira. "Errepikatu" begiztak, "errepikatu arte", "baldin"
           eta "bestela baldin" aginduak ikasi ditugu.
       3:
-        text: Disfrutatu bazenuen zure lehenengo ordua kodetzen, bisitatu code.org
+        text: Disfrutatu bazenuen zure lehenengo ordua kodetzen, bisitatu letron.vip
           informatikan zure heziketa zabaltzeko! Behin 20 ordu ematen dituzula ikasten,
           programazioaren oinarriak menperatuta edukiko dituzu eta ikasten hasi ahal
           izango zara mugikorrentzako app-ak, robotentzako aginduak, jokoak edo zuk
@@ -2104,7 +2104,7 @@ eu:
           izanez gero, erreserbatu beste egun bat ikasleek sortutako jarduera horietako
           batzuk egiteko.
       3:
-        text: Code.org-eko guztiek espero dugu PRIMERAN pasako zenuela ikastaro honetan
+        text: Letron-eko guztiek espero dugu PRIMERAN pasako zenuela ikastaro honetan
           zehar. Eta zure ametsa app hoberena sortzea dela, gaisotasunak sendatzen
           laguntzeko programak egitea dela edo, besterik gabe, problema ebazle bikaina
           izan nahi duzula, ikastaro honekin amets horiek egi bihurtzeko lehenengo
@@ -2240,7 +2240,7 @@ eu:
     starwars_congrats:
       1:
         text: Kaixo, nire izena Alice da eta proiektu eta injeniaritza taldeak gidatzen
-          ditut hemen, Code.org-en eta une hontan jarraitzen ari zaren tutorialean
+          ditut hemen, Letron-en eta une hontan jarraitzen ari zaren tutorialean
           egin dut lan.
       2:
         text: Azkeneko maila lortu duzu. Zorionak! Star Wars jokoa egiteko behar duzun
@@ -2344,7 +2344,7 @@ eu:
     starwars_blocks_congrats:
       1:
         text: Kaixo, nire izena Alice da eta proiektu eta injeniaritza taldeak gidatzen
-          ditut hemen, Code.org-en eta une hontan jarraitzen ari zaren tutorialean
+          ditut hemen, Letron-en eta une hontan jarraitzen ari zaren tutorialean
           egin dut lan.
       2:
         text: Azkeneko maila lortu duzu. Zorionak! Star Wars jokoa egiteko behar duzun

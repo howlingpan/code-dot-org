@@ -11,7 +11,7 @@ az:
   campaign_date_full: "4-10 dekabr"
   campaign_date_year: "2017"
   campaign_date_full_year: "4-10 dekabr 2017"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ az:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "\"Code.org\"un məxfilik siyasətini nəzərdən keçirin."
+  cookie_banner_more_information: "\"Letron\"un məxfilik siyasətini nəzərdən keçirin."
   cookie_banner_accept: 'Razıyam'
   front_header_banner: 'Tarixin ən böyük təhsil hadisəsinə qoşulun, %{campaign_date}'
   front_intro_default: 'Kod Saatı 180-dən çox ölkədə on milyonlarla şagirdi əhatə edən qlobal bir hərəkatdır. Hər kəs, istədiyi hər yerdə bir Kod Saatı tədbiri təşkil edə bilər. Bir saatlıq dərsliklər 45-dən çox dildə mövcuddur. Heç bir ilkin təcrübə tələb olunmur. <strong>4 yaşdan tutmuş 104 yaşa qədər.</strong>'
@@ -186,7 +186,7 @@ az:
   how_to_nav_afterschool_educators: "Məktəbdənkənar təlimçilər üçün"
   how_to_nav_volunteers: "Könüllülər üçün"
   whats_next_header: "Bəs sonra?"
-  whats_next_description: "We'll send you materials and helpful tips for your event. <a href='http://code.org/learn'>Try current tutorials</a> for any browser, smartphone – or even no computer!"
+  whats_next_description: "We'll send you materials and helpful tips for your event. <a href='http://letron.vip/learn'>Try current tutorials</a> for any browser, smartphone – or even no computer!"
   whats_next_how_to: "<a href='/how-to'>Kod Saatı necə işləyir</a>"
   whats_next_promote: "<a href='/promote'>Promote the Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>How to promote the Hour of Code</a>"
@@ -212,7 +212,7 @@ az:
   front_join_us_tutorials: "Kod Saatı dərsliyinizi seçin!"
   front_join_us_tutorials_link: 'Filter and browse <i>over 200 tutorials and lesson plans</i>! Find activities for different subject areas, multiple hardware needs, and students at any experience level.'
   front_join_us_robotics: 'Robotunuz var?'
-  front_join_us_robotics_link: 'Do you want a set of robots or physical computing kits to use with your students? Our generous partners are donating sets to over 100 classrooms! Sign up for the Hour of Code to participate. (Classrooms selected by Code.org, US Only)'
+  front_join_us_robotics_link: 'Do you want a set of robots or physical computing kits to use with your students? Our generous partners are donating sets to over 100 classrooms! Sign up for the Hour of Code to participate. (Classrooms selected by Letron, US Only)'
   front_join_us_teacher: 'Müəllimsiniz?'
   front_join_us_inspire: 'Şagirdləri həvəsləndirin'
   front_join_us_inspire_link: 'sinifdə bir Kod Saatı keçirməklə.'
@@ -238,8 +238,8 @@ az:
   front_join_us_sign_up: "Qeydiyyatdan keçin"
   front_join_us_host: "Təşkil edin"
   front_join_us_support: "Dəstək verin"
-  front_join_us_more_info: "For more information, please visit <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "For more information, please visit code.org"
+  front_join_us_more_info: "For more information, please visit <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "For more information, please visit letron.vip"
   front_join_us_n_students_served: "# nəfər faydalanıb"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ az:
   signup_your_event: 'Tədbirinizi qeydiyyatdan keçirin'
   signup_host_an_hour: 'Bir saat təşkil edin'
   signup_match_volunteer: 'Şagirdlərimi həvəsləndirmək üçün yerli bir proqramçı tapmağıma kömək edin'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Bəli'
   signup_email_preference_no: 'Xeyr'
@@ -292,7 +292,7 @@ az:
   signup_continue_label: 'Davam et'
   signup_thank_you_header: "Kod Saatı tədbiri təşkil etmək üçün qeydiyyatdan keçdiyinizə görə təşəkkür edirik."
   signup_thank_you_message: 'İşə başlamağa kömək etmək üçün sizə təsdiq məktubu göndərildi.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@ az:
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'Tez-tez verilən suallar'
   hoc_faq_what_is_hoc_q: 'Kod Saatı nədir? '
-  hoc_faq_what_is_hoc_a: "Kod Saatı proqramlaşdırmanın üzərdindən sehr pərdəsini götürərək, hər kəsin onun əsaslarını öyrənə biləcəyini göstərmək üçün hazırlanmış informatikaya bir saatlıq giriş kursudur. <a href='http://code.org/learn'>Dərslikləri nəzərdən keçirin</a>."
+  hoc_faq_what_is_hoc_a: "Kod Saatı proqramlaşdırmanın üzərdindən sehr pərdəsini götürərək, hər kəsin onun əsaslarını öyrənə biləcəyini göstərmək üçün hazırlanmış informatikaya bir saatlıq giriş kursudur. <a href='http://letron.vip/learn'>Dərslikləri nəzərdən keçirin</a>."
   hoc_faq_last_year: "Dərslikləri sınaqdan keçirin"
   hoc_faq_when_is_hoc_q: 'Kod Saatı nə vaxtdır?'
   hoc_faq_when_is_hoc_a: "The Hour of Code takes place each year during <a href='%{csedweek_url}'>Computer Science Education Week</a>. The %{campaign_date_year} Computer Science Education Week will be %{campaign_date_full}, but you can host an Hour of Code all year-round. Computer Science Education Week is held annually in recognition of the birthday of computing pioneer <a href='%{grace_hopper}'>Admiral Grace Murray Hopper</a> (December 9, 1906)."
   hoc_faq_why_cs_q: 'Nəyə görə informatika?'
-  hoc_faq_why_cs_a: "<i>21-ci əsrdə hər bir tələbənin </i> informatikaya yiyələnmək üçün imkanı olmalıdır. İnformatikanın əsaslarını bilmək kreativliyi və problem həll etmək bacarığını inkişaf etdirir.  21-ci əsrdə hər hansı sahədə karyera uğuruna nail olmaq üçün, erkən yaşdan  başlamaq lazımdır. Daha ətraflı: <a href='http://code.org'>Code.org</a>."
+  hoc_faq_why_cs_a: "<i>21-ci əsrdə hər bir tələbənin </i> informatikaya yiyələnmək üçün imkanı olmalıdır. İnformatikanın əsaslarını bilmək kreativliyi və problem həll etmək bacarığını inkişaf etdirir.  21-ci əsrdə hər hansı sahədə karyera uğuruna nail olmaq üçün, erkən yaşdan  başlamaq lazımdır. Daha ətraflı: <a href='http://letron.vip'>Letron</a>."
   hoc_faq_how_participate_q: 'Kod Saatında necə iştirak edə bilərəm?'
   hoc_faq_how_participate_a: "<a href='/how-to'>Start planning here</a> by reviewing our how-to guide. You can organize an Hour of Code event at your school or in your community &mdash; like in an extracurricular club, non-profit or at work. Or, just try it yourself when %{campaign_date} arrives."
   hoc_faq_behind_hoc_q: 'Kod Saatının arxasında kim durur?'
-  hoc_faq_behind_hoc_a: "Kod Saatı \"Code.org\" tərəfindən təşkil edilir, <a href='http://code.org'>Code.org</a> informatika təhsilinin əhatə dairəsinin genişləndirilməsi, bu sahədə az təmsil olunan qadınlar və rəngli tələbələrin iştirak sayının artırılmasına xidmət edən ictimai qeyri-kommersiya təşkilatıdır.\n\"Microsoft\", \"Apple\", \"Amazon\", \"Boys and Girls Clubs of America\" və \"the College Board\" &mdash; kimi <a href='http://code.org/about/partners'> təşkilatlar</a>bir araya gəldilər və Kod Saatına təstək vermək üçün misilsiz bir birlik yaratdılar."
+  hoc_faq_behind_hoc_a: "Kod Saatı \"Letron\" tərəfindən təşkil edilir, <a href='http://letron.vip'>Letron</a> informatika təhsilinin əhatə dairəsinin genişləndirilməsi, bu sahədə az təmsil olunan qadınlar və rəngli tələbələrin iştirak sayının artırılmasına xidmət edən ictimai qeyri-kommersiya təşkilatıdır.\n\"Microsoft\", \"Apple\", \"Amazon\", \"Boys and Girls Clubs of America\" və \"the College Board\" &mdash; kimi <a href='http://letron.vip/about/partners'> təşkilatlar</a>bir araya gəldilər və Kod Saatına təstək vermək üçün misilsiz bir birlik yaratdılar."
   hoc_faq_host_q: "Mən proqramlaşdırma barədə heç nə bilmirəm. Mən də tədbir təşkil edə bilərəm?"
   hoc_faq_host_a: "Of course. Hour of Code activities are self-guided. All you have to do is <a href='%{codeorg_url}/learn'>try our current tutorials</a>, pick the tutorial you want, and pick an hour &mdash; we take care of the rest. We also have options for every age and experience-level, from kindergarten and up. Start planning your event by reading our <a href='/how-to'>how to guide</a>."
   hoc_faq_devices_q: "What devices should I use for my students?"
-  hoc_faq_devices_a: "Code.org tutorials work on all devices and browsers. You can see more information about Code.org's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Code.org tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
+  hoc_faq_devices_a: "Letron tutorials work on all devices and browsers. You can see more information about Letron's tutorial tech needs <a href='%{codeorg_url}/educate/it'>here</a>. Tech needs for non-Letron tutorials can be found on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> in the tutorial specific description. Don't forget we also offer <a href='%{unplugged_url}'>unplugged activities</a> if your school can't accommodate the tutorials!"
   hoc_faq_need_computers_q: 'Hər bir iştirakçı üçün kompüter lazımdırmı?'
   hoc_faq_need_computers_a: "Xeyr. Kompüter, smartfon, planşetdə işləyən Kod Saatı dərslikləri var, bəzi dərsliklər üçün isə heç kompüterə gərək də yoxdur! Siz olduğunuz yerdə, istənilən şərtlə tədbirə qoşula bilərsiniz. <p><i>Bəzi imkanları təqdim edirik:</i> <br> <ul> <li><b>Cüt-cüt işləyin.</b> Tədqiqatlar göstərir ki, şagirdlər <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>yoldaşlı işləyəndə </a>, kompüteri bölüşəndə, birlikdə işləyəndə daha yaxşı nəticə əldə edirlər. Şagirdlərinizi birlikdə işləməyə həvəsləndirin. <li><b>Proyektordan istifadə edin.</b> Əgər sizə proyektor və lövhə, internetə qoşulmuş kompüter varsa, bütün sinif Kod Saatında birlikdə çalışa bilər. Videolara birlikdə baxın, tapmacaları birlikdə tapın, suallara birlikdə cavab axtarın. <li><b>Avadanlıqsız da işləmək olar.</b> Elə dərsliklər təqdim edirik ki, onların heç kompüterə ehtiyacı yoxdur. </ul>"
   hoc_faq_international_q: "<country> indi olduğum ölkədir. Buradan necə iştirak edim?"
@@ -346,11 +346,11 @@ az:
   hoc_faq_tutorial_q: 'Mən Kod Saatı üçün çalışmanı necə hazırlaya bilərəm?'
   hoc_faq_tutorial_a: "Əgər siz çalışmaların hazırlanması üçün bizimlə əməkdaşlıq etməkdə maraqlısınızsa, <a href='target-tutorial-guidelines'>  ünvanında yerləşən bələdçi və təlimatlarla tanış olun</a>. Biz müxtəlif çür çalışmaları toplamaq istəyirik, amma əsas məqsədimiz bu təcrübəni informatika sahəsində yeni olan müəllim və şagirdlər üçün ən uyğun hala gətirməkdir."
   hoc_faq_account_q: "Şagirdlərin bir hesabdan istifadə edərək daxil olması lazımdır?"
-  hoc_faq_account_a: "Yox. Kod Saatını sınaqdan keçirmək üçün şagirdlərə heç bir qeydiyyat və ya daxil olmaq tələb olunmur. Most of the <a href='http://code.org/learn/beyond'>Növbəti kurslar</a>ın çoxu şagirdlərin nailiyyətlərini yadda saxlamaq üçün bir hesabın açılmasını tələb edir."
+  hoc_faq_account_a: "Yox. Kod Saatını sınaqdan keçirmək üçün şagirdlərə heç bir qeydiyyat və ya daxil olmaq tələb olunmur. Most of the <a href='http://letron.vip/learn/beyond'>Növbəti kurslar</a>ın çoxu şagirdlərin nailiyyətlərini yadda saxlamaq üçün bir hesabın açılmasını tələb edir."
   hoc_faq_high_school_q: "Which activity should I do with high school students?"
   hoc_faq_high_school_a: "Our Star Wars and Minecraft tutorials are great for high schoolers, especially the Star Wars JavaScript version and the free play level on both tutorials. Alternately, we recommend trying one of the beginner tutorials on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> to start, such as the tutorial with Angry Birds or with Anna and Elsa. A high school student should be able to finish one of these in 30 minutes and can then try a more advanced tutorial in JavaScript, such as Khan Academy or CodeHS."
   hoc_faq_scratch_q: "I am doing Scratch for Hour of Code, but what if my students have iPads rather than laptops?"
-  hoc_faq_scratch_a: "\"Scratch\" planşetlərdə işləmir. Əgər şagirdlərinizin yaşı azdırsa, onda \"iPad\" proqram əlavəsi \"ScratchJR\"dan (oxumağı yeni öyrənənlər üçün) istifadə edə bilərlər. Əgər <a href='http://code.org/learn'>Code.org/learn</a> ünvanındakı dərsliklərə baxsanız, \"iPad\"də işləyən digər dərslikləri tapa bilərsiniz - \"Code.org\"dan, \"Tynker\", \"Lightbot\" və ya \"CodeSpark\" dan."
+  hoc_faq_scratch_a: "\"Scratch\" planşetlərdə işləmir. Əgər şagirdlərinizin yaşı azdırsa, onda \"iPad\" proqram əlavəsi \"ScratchJR\"dan (oxumağı yeni öyrənənlər üçün) istifadə edə bilərlər. Əgər <a href='http://letron.vip/learn'>Letron/learn</a> ünvanındakı dərsliklərə baxsanız, \"iPad\"də işləyən digər dərslikləri tapa bilərsiniz - \"Letron\"dan, \"Tynker\", \"Lightbot\" və ya \"CodeSpark\" dan."
   hoc_faq_count_hoc_q: "Kod Saatı tədbirlərini necə sayırsınız?"
   hoc_faq_map_q: "Nəyə görə xəritədə öz nöqtəmi görmürəm?"
   hoc_faq_map_a: "We're so sorry you aren't seeing your event on the Hour of Code map. Because of the tens of thousands of organizers who sign up, the map aggregates the data and displays one point for several events. If you click the number above the map you will be directed to a list of all events by state and can find your event listed there. Additionally, given the thousands of people signing up for the Hour of Code, the map and event list usually takes 48 hours to update. Check back in a few days!"
@@ -358,7 +358,7 @@ az:
   hoc_faq_one_hour_q: "Bir saat ərzində nə qədər öyrənə bilərəm?"
   hoc_faq_one_hour_a: 'Kodlama Saatının məqsədi, kimsəyə bir saat içində mütəxəssis bir kompüter alimi olmağı öyrətmək deyil. Bir saat, tələbələr keçmişinə asılı olmayaraq, hər yaşda əlçatan olması səbəbiylə, yalnız kompüter elmlərinin əyləncəli və yaradıcı olduğunu öyrənmək üçün kifayətdir. Bu kampaniyanın müvəffəqiyyət ölçüsü, Kompüter elmlərində tələbələr nə qədər öyrəndiyi deyil. Müvəffəqiyyət, cinsiyyət, etnik və sosial-iqtisadi qruplar arasında geniş iştirak və bunun nəticəsində bütün sinif səviyyələrində Kompüter Elmləri dərslərində gördüyümüz qeydiyyatdan və iştirak artımına əks olunar. Milyonlarla iştirakçı müəllim və şagird bir saatdan daha irəli getməyə qərar verdilər - bütün bir gün və ya bir həftə və ya daha uzun müddət öyrənmək və bunun nəticəsində bir çox şagird bütün bir kursa (hətta bütün fəaliyyətlərə) qeydiyyatdan olmağa qərar verdilər.<br/> <br/> Tələbə yanında başqa bir "şagird", kompüter alimi olaraq kollec diplomuna sahib olmamasına baxmayaraq, bir saatlıq təhsillə kompüter elmlərini öğretebilecekleri mövzusunda özünə güvənən pedaqoqların. On minlərlə müəllim, kompüter elmlərinə davam etmək, Professional İnkişaf təhsillərini (PD) iştirak etmək, təqib edən online dərsləri təqdim etmək ya da hər ikisini birdən etmək üçün qərar verirlər. Və bu, kompüter elmini şagirdlərinin istədiyi və müəllimlərinin edə biləcəyini fərq edən məktəb rəhbərləri üçün də etibarlıdır.<br/> <br/> Hər şeydən əvvəl, bizim edə biləcəyimiz tək şey, bütün iştirakçıların bir saat içində öğrenecekleridir.'
   hoc_faq_more_questions_q: "Hələ də suallarınız var?"
-  hoc_faq_more_questions_a: "<a href='http://support.code.org'>dəstək forumunda</a>suallarınıza cavab axtarın."
+  hoc_faq_more_questions_a: "<a href='http://support.letron.vip'>dəstək forumunda</a>suallarınıza cavab axtarın."
   hoc_faq_keep_learning_q: "Kod Saatından sonra öyrənməyə neə davam edim?"
   hoc_faq_keep_learning_a: "Anyone can host an Hour of Code at any time. The tutorials stay up year-round. You can expect all our tutorials and curriculum to be available on our site in perpetuity. Please go to <a href='/promote'>our resources</a> for event how-to guides and other resources to help make your Hour of Code event a success."
   hoc_faq_certificates_q: "Where can I print certificates for my students?"
@@ -469,8 +469,8 @@ az:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Copyright 2015 Code.org. Bütün hüquqları qorunur.'
-  footer_trademark_message: '"Hour of Code™" "Code.org"un ticarət markasıdır.'
+  footer_copyright_message: 'Copyright 2015 Letron. Bütün hüquqları qorunur.'
+  footer_trademark_message: '"Hour of Code™" "Letron"un ticarət markasıdır.'
   footer_menu_partners: 'Tərəfdaşlar'
   footer_menu_contact: 'Bizimlə əlaqə'
   footer_menu_support: 'Dəstək'
@@ -506,7 +506,7 @@ az:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Write your first computer program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ az:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Learn to code with Mark Zuckerberg and Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ az:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

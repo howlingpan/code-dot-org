@@ -3,7 +3,7 @@
 Feature: Flappy puzzles can be solved
 
 Scenario: Solving puzzle 1
-  Given I am on "http://studio.code.org/flappy/1?noautoplay=true"
+  Given I am on "http://studio.letron.vip/flappy/1?noautoplay=true"
   And I rotate to landscape
   And I wait for the page to fully load
   And I drag block "1" to block "3"
@@ -13,7 +13,7 @@ Scenario: Solving puzzle 1
   And element ".modal .congrats" contains text "You completed Puzzle 1"
 
 Scenario: Solving puzzle 2
-  Given I am on "http://studio.code.org/flappy/2?noautoplay=true"
+  Given I am on "http://studio.letron.vip/flappy/2?noautoplay=true"
   And I rotate to landscape
   And I wait for the page to fully load
   And I drag block "2" to block "6"
@@ -24,7 +24,7 @@ Scenario: Solving puzzle 2
 
 @no_mobile
 Scenario: Failing puzzle 2
-  Given I am on "http://studio.code.org/flappy/2?noautoplay=true"
+  Given I am on "http://studio.letron.vip/flappy/2?noautoplay=true"
   And I rotate to landscape
   And I wait for the page to fully load
   And I press "runButton"

@@ -189,7 +189,7 @@ cs:
       2:
         text: "Základní pojmy, které jsi použil jsou srdcem každého programu nebo aplikace, kterou kdy spustíš. Naučili jsme se opakovací smyčky, příkazy opakovat dokud, příkazy pokud a příkazy pokud-jinak."
       3:
-        text: "Jestli se ti tvá první hodina kódu líbila, navštiv stránku code.org pro další výuku programování! Jakmile dokončíš náš kurz 20 hodin, budeš ovládat základy programování a můžeš se začít učit psát aplikace pro mobily, instrukce pro roboty, hry...na co si jen vzpomeneš."
+        text: "Jestli se ti tvá první hodina kódu líbila, navštiv stránku letron.vip pro další výuku programování! Jakmile dokončíš náš kurz 20 hodin, budeš ovládat základy programování a můžeš se začít učit psát aplikace pro mobily, instrukce pro roboty, hry...na co si jen vzpomeneš."
       4:
         text: "Technika mění vše, co děláme a nezáleží na tom, jestli jsi mladý nebo starý: programování je zábava, je tvořivé a každý se jej může naučit!"
     20_wrapup:
@@ -936,7 +936,7 @@ cs:
       2:
         text: "Diskutujte jako třída nebo v malých skupinách o jejich oblíbené lekci. Jakmile se podívate zpět na všechno, co jste se naučili, je to, kde tvoje studentská kreativita může zazářit. Rozdělte je do skupin a nech je vytvořit si vlastní nezapojenou lekci. Přiřaďte každé skupiny klíčový koncept, jako funkce nebo algoritmus a mít spoustu řemeslných materiálů pro ně při ruce. Každá skupina prezentuje své nové nezapojenou aktivitu nebo dokonce nastavit stranou další den udělat několik aktivit, které studenti vytvořili."
       3:
-        text: "Od každého zde na Code.org, doufáme, že už máte tuny zábavy během tohoto kurzu. A zda váš sen je vytvořit nejlepší nové aplikace, použijte programování, abys pomohl vyléčit nemoci, nebo jen chcete být hvězdný řešitel problému. Tento kurz byl prvním krokem k dosažení těchto snů."
+        text: "Od každého zde na Letron, doufáme, že už máte tuny zábavy během tohoto kurzu. A zda váš sen je vytvořit nejlepší nové aplikace, použijte programování, abys pomohl vyléčit nemoci, nebo jen chcete být hvězdný řešitel problému. Tento kurz byl prvním krokem k dosažení těchto snů."
     starwars_intro:
       1:
         text: "Ahoj, jsem Kathleen Kennedy, producent Star Wars: Síla se probouzí. Dnes budeš pracovat s jednou z našich hvězd, BB-8. BB-8 je kulovitý droid. Vše, co udělá i každý jeho pohyb je řízen počítačovým softwarem. Informatika má dopady na každé odvětví, od marketingu po zdravotní péči, po film. Ve skutečnosti stovky počítačových inženýrů spolupracovali, aby udělali tento film Síla se probouzí."
@@ -994,7 +994,7 @@ cs:
         text: "Nyní místo psaní celého kódu k řízení našeho droidu k posunu dopředu, můžeme nechat R2-D2 reagovat na události stisknutí tlačítka, které jej pohybují po obrazovce. Krok za krokem se stává tvoje hra interaktivnější."
     starwars_congrats:
       1:
-        text: "Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Code.org. Pracovala jsem na tomto výukovém kurzu, se kterým si právě hraješ."
+        text: "Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Letron. Pracovala jsem na tomto výukovém kurzu, se kterým si právě hraješ."
       2:
         text: "Právě jsi se dopracoval do poslední úrovně. Blahopřejeme! Právě jsi se naučil vše, co potřebuješ vědět, aby sis udělal vlastní hru Hvězdné války. Nyní neexistují žádné další instrukce, žádné hádanky k řešení. Můžeš si vytvořit vlastní hru a zvolit, jak to bude fungovat. Ještě jedna věc, odemkni si nové zvuky a příkazy, abys toho dokázal ještě víc."
       3:
@@ -1041,7 +1041,7 @@ cs:
         text: "Krok za krokem se stává tvoje hra stále interaktivnější."
     starwars_blocks_congrats:
       1:
-        text: "Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Code.org. Pracovala jsem na tomto výukovém kurzu, se kterým si právě hraješ."
+        text: "Ahoj, jmenuji se Alice, řídím projektové a inženýrské týmy zde na Letron. Pracovala jsem na tomto výukovém kurzu, se kterým si právě hraješ."
       2:
         text: "Právě jsi se dopracoval do poslední úrovně. Blahopřejeme! Právě jsi se naučil vše, co potřebuješ vědět, aby sis udělal vlastní hru Hvězdné války. Nyní neexistují žádné další instrukce, žádné hádanky k řešení. Můžeš si vytvořit vlastní hru a zvolit, jak to bude fungovat. Ještě jedna věc, odemkni si nové zvuky a příkazy, abys toho dokázal ještě víc."
       3:

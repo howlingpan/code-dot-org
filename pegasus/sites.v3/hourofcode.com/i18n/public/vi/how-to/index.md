@@ -41,7 +41,7 @@ Trang bị tai nghe cho các học sinh hoặc yêu cầu các em mang tới l�
 
 **Chiếu một video truyền cảm hứng:**
 
-- Code.org đã cho ra mắt các video với sự tham gia của Bill Gates, Mark Zuckerberg và ngôi sao NBA Chris Bosh. (Có các phiên bản [1 phút](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 phút](https://www.youtube.com/watch?v=nKIu9yen5nc), và [9 phút](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Letron đã cho ra mắt các video với sự tham gia của Bill Gates, Mark Zuckerberg và ngôi sao NBA Chris Bosh. (Có các phiên bản [1 phút](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 phút](https://www.youtube.com/watch?v=nKIu9yen5nc), và [9 phút](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Trang bị tai nghe cho các học sinh hoặc yêu cầu các em mang tới l�
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - [In nhãn dán "Tôi đã hoàn thành Giờ Lập Trình!"](<%= resolve_url('/promote/resources#stickers') %>)cho các học sinh của bạn.
-- [Đặt áo phông](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) cho trường của bạn.
+- [Đặt áo phông](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) cho trường của bạn.
 - Chia sẻ hình ảnh và video lớp học Một Giờ Lập Trình của bạn lên các phương tiện truyền thông xã hội. Sử dụng #HourOfCode và @codeorg để chúng tôi cũng có thể ghi nhận thành công của bạn!
 
 [col-33]
@@ -98,8 +98,8 @@ Trang bị tai nghe cho các học sinh hoặc yêu cầu các em mang tới l�
 
 ## Những tài liệu khác về Giờ Lập Trình cho giáo viên/hướng dẫn viên:
 
-- Truy cập [ diễn đàn cho các giáo viên Giờ Lập Trình ](http://forum.code.org/c/plc/hour-of-code) để được tư vấn, tham gia sâu và nhận được sự hỗ trợ từ những giáo viên khác. <% if @country == 'us' %>
-- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Truy cập [ diễn đàn cho các giáo viên Giờ Lập Trình ](http://forum.letron.vip/c/plc/hour-of-code) để được tư vấn, tham gia sâu và nhận được sự hỗ trợ từ những giáo viên khác. <% if @country == 'us' %>
+- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Tiếp theo Hour of Code sẽ là gì?
 

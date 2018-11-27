@@ -15,7 +15,7 @@ export default storybook => {
         story: () => (
           <Dialog
             hideBackdrop={true}
-            icon="https://studio.code.org/blockly/media/skins/flappy/static_avatar.png"
+            icon="https://studio.letron.vip/blockly/media/skins/flappy/static_avatar.png"
             title="Puzzle 3 of 10"
             cancelText="Go Back"
             body='The "when run" block allows you to run code when your game starts.
@@ -32,7 +32,7 @@ export default storybook => {
                         directly.`,
         story: () => (
           <Dialog hideBackdrop={true}>
-            <Icon src="https://studio.code.org/blockly/media/skins/flappy/static_avatar.png"/>
+            <Icon src="https://studio.letron.vip/blockly/media/skins/flappy/static_avatar.png"/>
             <Title>Puzzle 3 of 10</Title>
             <Body>
               The "when run" block allows you to run code when your game starts.
@@ -108,7 +108,7 @@ export default storybook => {
         story: () => (
           <ExampleDialogButton>
             <Dialog fullWidth={true}>
-              <Icon src="https://studio.code.org/blockly/media/skins/flappy/static_avatar.png"/>
+              <Icon src="https://studio.letron.vip/blockly/media/skins/flappy/static_avatar.png"/>
               <Title>Puzzle 3 of 10</Title>
               <Body>
                 <table style={{width: '100%'}}>

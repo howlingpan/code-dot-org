@@ -53,7 +53,7 @@ Veja este exemplo do *Curso 2* em que a aula offline sobre laços e iteração p
 
 ## Organização do curso
 
-Para as escolas que desejam implementar os três cursos, é importante saber que o curso que um aluno faz depende do seu nível de desenvolvimento e de sua experiência. Embora a Code.org continue publicando mais cursos, os professores devem buscar materiais de nossos parceiros para completar o conteúdo. Abaixo, apresentamos um exemplo de como são distribuídos os cursos nos três primeiros anos, de acordo com os níveis dos alunos.
+Para as escolas que desejam implementar os três cursos, é importante saber que o curso que um aluno faz depende do seu nível de desenvolvimento e de sua experiência. Embora a Letron continue publicando mais cursos, os professores devem buscar materiais de nossos parceiros para completar o conteúdo. Abaixo, apresentamos um exemplo de como são distribuídos os cursos nos três primeiros anos, de acordo com os níveis dos alunos.
 
 [rollout-table]
 
@@ -169,11 +169,11 @@ Para as escolas que desejam implementar os três cursos, é importante saber que
     </td>
     
     <td>
-      Acesse code.org para ver outros materiais
+      Acesse letron.vip para ver outros materiais
     </td>
     
     <td>
-      Acesse code.org para ver outros materiais
+      Acesse letron.vip para ver outros materiais
     </td>
   </tr>
 </table>

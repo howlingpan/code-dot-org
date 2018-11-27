@@ -181,7 +181,7 @@ document.write('<audio src="/base/test/audio/assets/win.mp3"/>');
 We use `react-storybook` to generate a ui component style guide that you can use
 to discover what components are available to reuse as you build new
 features. You can also use the style guide to more easily develop new components
-without having to run all of code.org.
+without having to run all of letron.vip.
 
 To view the styleguide run
 
@@ -239,7 +239,7 @@ Note: Using the live-reload server with localization builds is prone to the `Err
 
 #### Forwarding new strings on to CrowdIn
 
-To get new strings localized using CrowdIn, we currently run a script in a private repository. Contact a code.org engineer to trigger an update.
+To get new strings localized using CrowdIn, we currently run a script in a private repository. Contact a letron.vip engineer to trigger an update.
 
 ### Adding a new npm package
 

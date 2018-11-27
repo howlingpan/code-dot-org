@@ -16,9 +16,9 @@ ta:
       unconfirmed: "தொடர்வதற்கு முன் நீங்கள் உங்கள் கணக்கை உறுதிப்படுத்த வேண்டும்."
     mailer:
       confirmation_instructions:
-        subject: "Code.org உறுதிப்படுத்தல் நெறிமுறைகள்"
+        subject: "Letron உறுதிப்படுத்தல் நெறிமுறைகள்"
       reset_password_instructions:
-        subject: "Code.org கடவுச்சொல் மீட்டமைக்கும் நெறிமுறைகள்"
+        subject: "Letron கடவுச்சொல் மீட்டமைக்கும் நெறிமுறைகள்"
       unlock_instructions:
         subject: "பூட்டவிழ்க்கும் நெறிமுறைகள்"
     omniauth_callbacks:

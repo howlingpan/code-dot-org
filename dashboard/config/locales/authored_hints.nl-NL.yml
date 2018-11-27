@@ -46,7 +46,7 @@ nl:
           is gedraaid.
         2-3_Artist_9_b: |-
           Vergeet niet om de kunstenaar 45 graden naar links te draaien voor je begint je vierkant te tekenen
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Denk eraan, je wilt het controle paneel 10 pixels
           * breder *... dus zorg ervoor dat je 10 tot welk nummer je wilt veranderen
@@ -121,7 +121,7 @@ nl:
         2-3_Artist_Loops_New_11_a: |-
           Vergeet niet dat de code van de laatste puzzel was:
 
-          ![] (https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+          ![] (https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
         2-3_Artist_Loops_New_11_b: Je nieuwe bocht moet komen aan het ** einde **
           van de code binnen de lus.
       2-3 Artist Loops New 12_authored_hint:
@@ -176,7 +176,7 @@ nl:
         2-3_Bee_Conditionals_14_c: |-
           Probeer dit  eens in twee aparte stukken op te delen.
 
-          ![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)
+          ![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)
 
           1) Haal 3 keer nectar op
           - Beweeg 5 keer vooruit
@@ -294,7 +294,7 @@ nl:
         2-3_Maze_Loops_21_a: Als je het lastig vindt om het traptrede patroon te vinden,
           volg dan eerst het pad met je vinger.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Wees er zeker van dat je artiest in je lus, na het tekenen
           van iedere lijn, achterwaarts en naar boven springt.
@@ -438,7 +438,7 @@ nl:
           **Oplossing**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Om het "beweeg vooruit" blok te gebruiken, sleep je het vanuit
           het blokken gebied naar de werkplaats en plak je het direct onder het blok
@@ -1992,7 +1992,7 @@ nl:
         Course_4_SCFL_2_a: |-
           Bekijk deze optie voor een bewegingspatroon:
 
-          ![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)
+          ![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)
         Course_4_SCFL_2_b: Merk op dat je bij elke iteratie van de `herhaal` lus op
           drie punten stopt om interactie te hebben met de objecten.
         Course_4_SCFL_2_d: |-
@@ -3803,7 +3803,7 @@ nl:
           programma!  Probeer de functie twee keer aan te roepen om deze puzzel op
           te lossen.
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: Zie je de **zeelantaarns** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)?
+        voyage_aquatic_10a: Zie je de **zeelantaarns** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)?
           Hoe kun je een voorwaardelijk opdrachtblok met ze combineren om door het
           Oceaanmonument te komen?
       HOC 2018 Level_9b_authored_hint:
@@ -3911,7 +3911,7 @@ nl:
           **Oplossing**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Probeer de agent wat bruggen te laten bouwen zodat
           Alex of Steve voorbij de grenzen van de kaart kunnen komen.
@@ -3972,7 +3972,7 @@ nl:
           te gebruiken en kijk of je erachter kunt komen hoe je de code korter maakt!
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: "Door deze twee drukplaten te passeren, wordt
-          het pad voor de speler geopend. \n![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
+          het pad voor de speler geopend. \n![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Gebruik het ''rechtsom''-blok om de richting
           van de agent te veranderen. '
@@ -4066,7 +4066,7 @@ nl:
           Alex of Steve voorbij de grenzen van de kaart kunnen komen.
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: "Door deze twee drukplaten te passeren, wordt
-          het pad voor de speler geopend. \n![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
+          het pad voor de speler geopend. \n![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: "Druk op 'Uitvoeren'! \nJe kunt je code ook uitvoeren
           als deze niet juist is.  Blijf je code opnieuw uitvoeren en instellen om
@@ -4746,7 +4746,7 @@ nl:
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       course4_bee_fwp_challenge1_authored_hint:
         courseF_bee_fwp_challenge1_e: |
           **Oplossing:**
@@ -5380,12 +5380,12 @@ nl:
         courseB_starWars_prog5_da: |-
           Bekijk wat er gebeurt wanneer je dezelfde oplossing zou gebruiken als de trap-stap puzzel:
 
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseB_starWars_prog5_2018_authored_hint:
         courseB_starWars_prog5_da: |-
           Bekijk wat er gebeurt wanneer je dezelfde oplossing zou gebruiken als de trap-stap puzzel:
 
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseC_artist_prog2_authored_hint:
         courseC_artist_prog2_a: Als je het blok 'beweeg vooruit door 100 pixels',
           zal ik automatisch een lijn tekenen.
@@ -5730,7 +5730,7 @@ nl:
         courseD_artist_ramp10_c: |-
           De artiest zal 6 driehoeken in totaal tekenen:
 
-          ![](https://images.code.org/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
+          ![](https://images.letron.vip/752d82f3afdca0a7d7c01d6fa2abb583-image-1499889821499.2_solution2.gif)
       courseE_bee_functions6_authored_hint:
         courseE_bee_functions6_a: "Als de puzzel moeilijk lijkt, probeer dan je functie
           stap voor stap te maken. \n\nVoeg een paar blokken toe en test je programma.
@@ -6338,7 +6338,7 @@ nl:
           </block>
           </xml>
 
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2018_authored_hint:
         courseF_artist_for_challenge2_c: 'De `for lus` gaat van 5 tot 250 in stappen
           van 2. '
@@ -6432,7 +6432,7 @@ nl:
           </block>
           </xml>
 
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_for_challenge2_2019_authored_hint:
         courseF_artist_for_challenge2_c: 'De `for lus` gaat van 5 tot 250 in stappen
           van 2. '
@@ -6526,27 +6526,27 @@ nl:
           </block>
           </xml>
 
-          ![](https://images.code.org/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
+          ![](https://images.letron.vip/4ce89e8d907f670408c3705f040e8677-image-1497728974326.49.09 PM.png)
       courseF_artist_fwp_challenge2_authored_hint:
         courseF_artist_fwp_challenge1_f: |-
           **Oplossing:**
 
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_fwp_challenge2_2018_authored_hint:
         courseF_artist_fwp_challenge1_f: |-
           **Oplossing:**
 
-          ![Solution Blocks](https://images.code.org/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
+          ![Solution Blocks](https://images.letron.vip/a82cfea836b95ce6625b08afcc3b7b37-image-1469727289590.png)
       courseF_artist_ramp10_authored_hint:
         courseF_artist_ramp10_c: |-
           Voor deze uitdaging moet je 6 driehoeken in totaal tekenen:
 
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_ramp10_2018_authored_hint:
         courseF_artist_ramp10_c: |-
           Voor deze uitdaging moet je 6 driehoeken in totaal tekenen:
 
-          ![](https://images.code.org/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
+          ![](https://images.letron.vip/bc62bed22e90d35e420b0a116ac487ef-image-1500347536221.2_solution2.gif)
       courseF_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_e: |-
           **Oplossing:**
@@ -7000,7 +7000,7 @@ nl:
         courseF_artist_variables_challenge1_d: |-
           **Oplossing:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_authored_hint:
         courseF_artist_variables_challenge2_a: Variabelen kunnen handig zijn omdat
           je ermee kan optellen doorheen een lus.
@@ -7010,7 +7010,7 @@ nl:
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2018_authored_hint:
         courseF_artist_variables_challenge2_a: Variabelen kunnen handig zijn omdat
           je ermee kan optellen doorheen een lus.
@@ -7020,7 +7020,7 @@ nl:
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_artist_variables_challenge2_2019_authored_hint:
         courseF_artist_variables_challenge2_a: Variabelen kunnen handig zijn omdat
           je ermee kan optellen doorheen een lus.
@@ -7030,7 +7030,7 @@ nl:
         courseF_artist_variables_challenge2_d: |-
           **Oplossing:**
 
-          ![Solution](https://images.code.org/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
+          ![Solution](https://images.letron.vip/311b4a946cb8f3b4144b5075be6460a3-image-1469641878222.png)
       courseF_bee_conditionals8_authored_hint:
         courseF_bee_conditionals8_a: |-
           **Herinnering:** De puzzel verandert iedere keer hij wordt uitgevoerd.

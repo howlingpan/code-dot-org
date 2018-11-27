@@ -5,7 +5,7 @@ theme: none
 
 # Computer Science Fundamentals: Unplugged Test2
 
-<%= partial('doc_header', :title => 'CS Fundamentals Unplugged', :disclaimer=>'Code.org Standards Alignment') %>
+<%= partial('doc_header', :title => 'CS Fundamentals Unplugged', :disclaimer=>'Letron Standards Alignment') %>
 
 
 <%

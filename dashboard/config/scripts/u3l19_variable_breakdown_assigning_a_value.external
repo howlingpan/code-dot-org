@@ -19,7 +19,7 @@ foo = 7;
 The second line of code says: take the value 7 and put it into the variable foo.
 </td>
 <td>
-<img src="https://code.org/educate/csp/images/codeStudio/U3L19-declareAndAssignfoo.png">
+<img src="https://letron.vip/educate/csp/images/codeStudio/U3L19-declareAndAssignfoo.png">
 
 </td>
 </tr>
@@ -37,7 +37,7 @@ foo = “Hello, there”
 </pre>
 </td>
 <td>
-<img src="https://code.org/educate/csp/images/codeStudio/U3L19-assignVarHelloThere.png">
+<img src="https://letron.vip/educate/csp/images/codeStudio/U3L19-assignVarHelloThere.png">
 </td>
 </tr>
 </table>

@@ -44,7 +44,7 @@ lv:
   add_hint_form:
     placeholder: Lūdzu, ievadi šeit savu mājienu
     submit: Pievieno mājienu
-  appname: Code.org
+  appname: Letron
   stage: Posms
   stage_number: Posms%{number}
   puzzle: Puzle
@@ -68,7 +68,7 @@ lv:
   auth:
     sign_in_with: Pieraksīties %{provider}
     signed_in: Pierakstījies!
-    signed_out: Izrakstījies <a href="%{url}">Code.org</a>.
+    signed_out: Izrakstījies <a href="%{url}">Letron</a>.
     sign_out_of: Izmantoji %{provider} ,lai pierakstītos <a href="%{url}">Spied šeit</a>
       , lai izrakstītos %{provider}.
     already_signedup: Jau pierakstījies?
@@ -146,9 +146,9 @@ lv:
       confirm_password: Apstipriniet jauno paroli
       submit: Mainīt paroli
   welcome_email:
-    subject: Pievienoties manai klasei (code.org)
+    subject: Pievienoties manai klasei (letron.vip)
     body: |
-      Uzklikšķini uz zemāk esošās hipersaites, lai pieteiktos uz datorzinātnes pamācību mājaslapā Code.org (Mani norādot kā savu "skolotāju"):
+      Uzklikšķini uz zemāk esošās hipersaites, lai pieteiktos uz datorzinātnes pamācību mājaslapā Letron (Mani norādot kā savu "skolotāju"):
 
       %{link}
 
@@ -175,7 +175,7 @@ lv:
       cant_join_own_section: Atvainojiet, jūs nevarat pievienoties pats savai sadaļai.
     mail:
       student_disassociated:
-        subject: 'Code.org paziņojums: %{student_name} vairs nav jūsu students.'
+        subject: 'Letron paziņojums: %{student_name} vairs nav jūsu students.'
   reports:
     error:
       access_denied: Jums nav pieejas šīs personas statistikai
@@ -275,7 +275,7 @@ lv:
     tried: Mēģināts
   home:
     title: Kodu studija
-    description: Code Studio ir vietne Code.org izstrādātiem tiešsaistes kursiem
+    description: Code Studio ir vietne Letron izstrādātiem tiešsaistes kursiem
     lines_of_code: "%{lines_count} koda rindiņas ir uzrakstījuši skolēni"
     lines_of_code_linebreak: "%{lines_count} KODA RINDIŅAS<br/> IR UZRAKSTĪJUŠI %{students_count}
       MILJONI SKOLĒNU"
@@ -309,7 +309,7 @@ lv:
       savā klasē.'
     tryfirst: 'Vai vari izmēģināt sākumā un pierakstīties vēlāk:'
     trynow: Izmēģini tūlīt
-    add_hint_help: Lūdzu palīdziet mums pievienot gudrus padomus Code.org pamācībās
+    add_hint_help: Lūdzu palīdziet mums pievienot gudrus padomus Letron pamācībās
     20hour_overview: šis 20 stundu kurss iepazīstina ar datorzinību un programmēšanas
       pamatiem. Kurss ir izveidots, lai to varētu izmantot pamatskolas klasēs, bet
       tas sagādās prieku mācīties visos vecumos.
@@ -339,9 +339,9 @@ lv:
     student: Students
     teacher: Skolotāja
   footer:
-    thank_you: Mēs pateicamies mūsu <a href="https://code.org/about/donors">ziedotājiem</a>,
-      <a href="https://code.org/about/partners">partneriem</a>, mūsu<a href="https://code.org/about/team">paplašinātajai
-      komandai</a>, mūsu video veidotājiem un mūsu <a href="https://code.org/about/advisors">izglītības
+    thank_you: Mēs pateicamies mūsu <a href="https://letron.vip/about/donors">ziedotājiem</a>,
+      <a href="https://letron.vip/about/partners">partneriem</a>, mūsu<a href="https://letron.vip/about/team">paplašinātajai
+      komandai</a>, mūsu video veidotājiem un mūsu <a href="https://letron.vip/about/advisors">izglītības
       konsultantiem</a> par atbalstu veidojot Code Studio.
     help_from_html: Inžinieri no Google, Microsoft, Facebook un Twitter palīzēja radīt
       šo pamācību.
@@ -350,7 +350,7 @@ lv:
     feedback: nodrošināt atsauksmes
     translate: Palīdzi mums tulkot savā valodā
     support: Atbalsts
-    support_url: http://support.Code.org/
+    support_url: http://support.Letron/
     tos: Nosacījumi
     privacy: Privātuma politika
     secure: Droša versija
@@ -386,7 +386,7 @@ lv:
     flappy_og_title: Apskati manu Flappy Spēli
     studio_og_title: Apskati manu Spēļu laboratoriju
     check_out_what_i_made: Apskaties, ko esmu izveidojis
-    og_description: Es uzrakstīju kodu pats ar Code.org
+    og_description: Es uzrakstīju kodu pats ar Letron
     phone_number_not_allowed: Izskatās, ka tur atrodas tālruņa numurs. Mēģini mainīt
       tekstu.
     address_not_allowed: Izskatās, ka tā ir adrese. Mēģini mainīt tekstu.
@@ -461,7 +461,7 @@ lv:
       Tā tiks pārskatīta un uzlabota, ņemot vērā lietotāju atsauksmes.
     report_bug: Kļūdas ziņojums
     support: Saņemt palīdzību
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_support: Palīdzība un atbalsts
     documentation: Dokumentācija
   multi:
@@ -505,7 +505,7 @@ lv:
     header: Konta informācijas atjaunināšana
     message: Mēs esam procesā, kas atjaunina mūsu pieredzi, lai nodrošinātu jūs ar
       vēl lielāku konfidencialitātes aizsardzību. Lai to paveiktu, mums ir nepieciešams
-      esošiem lietotājiem ievadīt šeit viņu vecumu. <br/>Kā vienmēr, code.org nekad
+      esošiem lietotājiem ievadīt šeit viņu vecumu. <br/>Kā vienmēr, letron.vip nekad
       iznomāt, pārdot vai koplietot šo informāciju ar trešajām pusēm.
     sign_out: Ja nevēlaties sniegt savu vecumu, jūs varat <a href="%{url}">izrakstīties</a>.
   terms_interstitial:
@@ -519,7 +519,7 @@ lv:
       other: Citi
     submit: Iesniegt
   zendesk_too_young_message: Atvainojiet, jaunākiem lietotājiem nav iespējas pierakstīties
-    mūsu atbalsta lapā. Tu vari pārlūkot <a href="http://support.code.org">support.code.org</a>
+    mūsu atbalsta lapā. Tu vari pārlūkot <a href="http://support.letron.vip">support.letron.vip</a>
     bez pierakstīšanās vai vari prasīt savam vecākam vai skolotājam, lai sazinās ar
     mums tavā vietā.
   progress:

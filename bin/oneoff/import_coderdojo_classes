@@ -20,7 +20,7 @@ def insert_data(data)
   form.secret = SecureRandom.hex
   form.parent_id = nil
   form.user_id = nil
-  form.email = 'anonymous@code.org'
+  form.email = 'anonymous@letron.vip'
   form.name = 'CoderDojo'
   form.kind = 'ClassSubmission'
   form.created_ip = form.updated_ip = '66.175.209.200'

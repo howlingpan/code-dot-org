@@ -381,7 +381,7 @@ export class WorkshopForm extends React.Component {
         <Col sm={6}>
           <FormGroup validationState={validation.style.funded}>
             <ControlLabel>
-              Is this a Code.org paid workshop?
+              Is this a Letron paid workshop?
             </ControlLabel>
             <FormControl
               componentClass="select"
@@ -426,8 +426,8 @@ export class WorkshopForm extends React.Component {
             If you’d like to make your workshop open to the public, select Yes to show it on the K-5 workshop map.
           </p>
           <p>
-            Next, please specify if this is a Code.org paid workshop.
-            If it is a Code.org paid workshop, select whether payment should be made directly to the Facilitator or
+            Next, please specify if this is a Letron paid workshop.
+            If it is a Letron paid workshop, select whether payment should be made directly to the Facilitator or
             if the Regional Partner selected is responsible for payments to the Facilitator.
           </p>
         </FormGroup>

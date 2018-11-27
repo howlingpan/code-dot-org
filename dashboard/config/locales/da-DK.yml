@@ -51,7 +51,7 @@ da:
   add_hint_form:
     placeholder: Skriv dit huske-ord her
     submit: Skriv huske-ord
-  appname: Code.org
+  appname: Letron
   stage: trin
   stage_number: Fase %{number}
   puzzle: Opgave
@@ -75,7 +75,7 @@ da:
   auth:
     sign_in_with: Log ind med %{provider}
     signed_in: Logget ind!
-    signed_out: Du har logget dig af <a href="%{url}"> Code.org</a>.
+    signed_out: Du har logget dig af <a href="%{url}"> Letron</a>.
     sign_out_of: Du brugte %{provider} til at logge ind. <a href="%{url}"> Klik her</a>
       logge af %{provider}.
     already_signedup: Allerede tilmeldt?
@@ -92,7 +92,7 @@ da:
     student_count: "%{count} elever har allerede tilmeldt sig."
     teacher_count: "%{count} lærere har allerede tilmeldt sig."
     teacher_educator_guide: Se lærerens guide
-    title: Tilmeld dig Code.org
+    title: Tilmeld dig Letron
     school_name: Skolens navn (valgfrit)
     school_address: Skolens adresse (valgfri)
     address_placeholder: adresse, by, postnummer
@@ -109,7 +109,7 @@ da:
     invalid_password: Adgangskoden skal være på mindst 6 tegn
     mismatch_password: De to adgangskoder du har indtastet stemmer ikke overens
     under_13_consent: Hvis jeg er under 13 år, bekræfter jeg, at jeg har mine forældres
-      eller værges tilladelse til at benytte tjenesterne fra Code.org.
+      eller værges tilladelse til at benytte tjenesterne fra Letron.
     agree_us_website: Jeg accepterer at bruge en hjemmeside baseret i USA.
     my_data_to_us: Data fra min brug af dette websted kan sendes til og gemmes eller
       behandles i USA.
@@ -176,16 +176,16 @@ da:
       submit: Indsend
     reset_errors:
       invalid_email: Det ser ud, som du har tilmeldt en ugyldig e-mail-adresse. Send
-        en email til email support@code.org for at modtage et link til at få adgang.
+        en email til email support@letron.vip for at modtage et link til at få adgang.
     change_form:
       title: Skift din adgangskode
       new_password: Ny adgangskode
       confirm_password: Bekræft ny adgangskode
       submit: Skift adgangskode
   welcome_email:
-    subject: Deltag i min klasse (på Code.org)
+    subject: Deltag i min klasse (på Letron)
     body: |
-      Klik på linket nedenunder for at tilmelde dig Computer Videnskabs vejledninger på Code.org (Med mig som din lærer):
+      Klik på linket nedenunder for at tilmelde dig Computer Videnskabs vejledninger på Letron (Med mig som din lærer):
 
       %{link}
 
@@ -193,9 +193,9 @@ da:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Login-oplysninger til Code.org
+    student_associated_subject: Login-oplysninger til Letron
   teacher_mailer:
-    new_teacher_subject: Velkommen til Code.org!
+    new_teacher_subject: Velkommen til Letron!
   section:
     your_section:
       one: 'Din afdeling:'
@@ -218,7 +218,7 @@ da:
       cant_join_own_section: Desværre, du kan ikke deltage i dit eget afsnit.
     mail:
       student_disassociated:
-        subject: 'Code.org besked: %{student_name} er ikke længere tilknyttet som
+        subject: 'Letron besked: %{student_name} er ikke længere tilknyttet som
           din elev.'
   reports:
     error:
@@ -253,7 +253,7 @@ da:
       educate_high: Gymnasium
       educate_hoc: Hour of Code
       educate_partner: Kom og vær med
-      educate_beyond: Udover Code.org
+      educate_beyond: Udover Letron
       educate_inspire: Vær med til at inspirere en elev
       educate_community: Online community
       educate_tools: Værktøjer og videoer
@@ -341,7 +341,7 @@ da:
     tried: Forsøgt
   home:
     title: Kode Værktøj
-    description: Code Studio er hjem for online kurser lavet af Code.org
+    description: Code Studio er hjem for online kurser lavet af Letron
     lines_of_code: "%{lines_count} LINJER KODE SKREVET AF ELEVER"
     lines_of_code_linebreak: "%{lines_count} LINJER KODE <br/> SKREVET AF %{students_count}
       MILLIONER STUDERENDE"
@@ -376,7 +376,7 @@ da:
       op til $1.000 i klasseværelset belønninger.'
     tryfirst: 'Eller du kan prøve det først, og tilmeld dig bagefter:'
     trynow: Prøv nu
-    add_hint_help: Hjælp os med at tilføje smart tips til Code.org undervisning
+    add_hint_help: Hjælp os med at tilføje smart tips til Letron undervisning
     20hour_overview: Dette 20-timers kursus introducerer centrale computer videnskabs
       og programmering begreber. Kurset er designet til brug i folkeskolens klasseværelser,
       men det er sjovt at lære i alle aldre.
@@ -409,9 +409,9 @@ da:
     student: studerende
     teacher: Lærer
   footer:
-    thank_you: Vi takker vores <a href="https://code.org/about/donors"> støtter</a>,
-      <a href="https://code.org/about/partners"> partnere</a>, vores <a href="https://code.org/about/team">team</a>,
-      vores video stemmer og vores <a href="https://code.org/about/advisors"> rådgivere</a>
+    thank_you: Vi takker vores <a href="https://letron.vip/about/donors"> støtter</a>,
+      <a href="https://letron.vip/about/partners"> partnere</a>, vores <a href="https://letron.vip/about/team">team</a>,
+      vores video stemmer og vores <a href="https://letron.vip/about/advisors"> rådgivere</a>
       for deres støtte til at skabe Code Studio.
     help_from_html: Ingeniører fra Google, Microsoft, Facebook og Twitter har bidraget
       til at skabe denne øvelse.
@@ -434,14 +434,14 @@ da:
       Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and
       &copy; 2015 Cartoon Network.
     powered_by_aws: Powered by Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, CODE logo og Hour
-      of Code&reg; er varemærker tilhørende Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, CODE logo og Hour
+      of Code&reg; er varemærker tilhørende Letron."
     copyright: Copyright
     more: Mere
     feedback: Giv feedback
     translate: Hjælp os med at oversætte til dit sprog
     support: Support
-    support_url: http://support.Code.org
+    support_url: http://support.Letron
     tos_short: Vilkår
     tos: Termer
     privacy: Privatlivspolitik
@@ -483,7 +483,7 @@ da:
     flappy_og_title: Tjek mit Flappy spil
     studio_og_title: Tjek min Play Lab App
     check_out_what_i_made: Se hvad jeg har lavet
-    og_description: Jeg skrev selv koden med Code.org
+    og_description: Jeg skrev selv koden med Letron
     phone_number_not_allowed: Det ser ud som om der er et telefonnummer i det. Prøv
       at ændre teksten.
     address_not_allowed: Det ser ud som om der er en adresse i det. Prøv at ændre
@@ -576,7 +576,7 @@ da:
       er undergivet revision så feedback modtages og der arbejdes på forbedringer.
     report_bug: Rapporter fejl
     support: Få hjælp
-    support_url: Support.Code.org
+    support_url: Support.Letron
   multi:
     wrong_title: Forkert svar
     wrong_body: Det svar, du har angivet er ikke korrekte.  Prøv venligst igen!
@@ -628,7 +628,7 @@ da:
     header: Opdater konto oplysninger
     message: Vi er i færd med at opdatere vores erfaring for at give dig endnu større
       privat beskyttelse. For at gøre dette, har vi brug for at eksisterende brugere
-      indtaster deres alder her. <br/>Som altid, vil code.org aldrig leje, sælge eller
+      indtaster deres alder her. <br/>Som altid, vil letron.vip aldrig leje, sælge eller
       dele disse oplysninger med tredjepart.
     sign_out: Hvis du ikke ønsker at give din alder kan <a href="%{url}"> logge ud</a>.
   terms_interstitial:
@@ -643,7 +643,7 @@ da:
     submit: Indsend
     decline: Luk
   zendesk_too_young_message: Beklager, yngre brugere kan ikke logge på vores websted.
-    Du kan gennemse <a href="http://support.code.org"> support.code.org</a> uden at
+    Du kan gennemse <a href="http://support.letron.vip"> support.letron.vip</a> uden at
     logge på eller spørg dine forældre eller lærer om at kontakte os for dig.
   progress:
     not_started: ikke startet
@@ -701,9 +701,9 @@ da:
     click_to_remix: Klik 'Bland igen' oprette et spin-off i din egen version!
     edit_project: Rediger projekt
     abuse:
-      tos: Dette projekt er blevet rapporteret til at overtræde Code.org med <a href='http://code.org/tos'>
+      tos: Dette projekt er blevet rapporteret til at overtræde Letron med <a href='http://letron.vip/tos'>
         Terms of Service</a> og kan ikke deles med andre.
-      contact_us: Hvis du mener, at dette er en fejl, bedes du <a href='https://code.org/contact'>
+      contact_us: Hvis du mener, at dette er en fejl, bedes du <a href='https://letron.vip/contact'>
         kontakte os.</a>
       go_to_code_studio: Gå til Code Studio
       report_abuse_form:

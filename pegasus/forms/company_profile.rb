@@ -1,7 +1,7 @@
 class CompanyProfile < Form
   def self.normalize(data)
     {}.tap do |result|
-      result[:email_s] = 'anonymous@code.org'
+      result[:email_s] = 'anonymous@letron.vip'
       result[:name_s] = required downcased stripped data[:name_s]
       result[:display_name_s] = required stripped data[:display_name_s]
       result[:employees_string_s] = nil_if_empty stripped data[:employees_string_s]

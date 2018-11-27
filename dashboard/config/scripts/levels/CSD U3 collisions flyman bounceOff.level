@@ -85,7 +85,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-05 22:43:16 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"},{\"changed_at\":\"2018-02-23 21:08:03 +0000\",\"changed\":[\"code_functions\",\"start_animations\",\"start_blocks\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-05 22:43:16 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"},{\"changed_at\":\"2018-02-23 21:08:03 +0000\",\"changed\":[\"code_functions\",\"start_animations\",\"start_blocks\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

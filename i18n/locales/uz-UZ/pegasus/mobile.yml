@@ -2,7 +2,7 @@
   hour_of_code: "Dasturlash soati"
   hello: "Salom Dunyo"
   select_language: "Iltimos, tilni tanlang"
-  upgrade_ie_message: "Code.org tez orada Internet Explorer 8, 9 va 10 brauzerlarida ishlamay qoladi. Brauzeringizni yangiroq brauzer bilan almashtiring."
+  upgrade_ie_message: "Letron tez orada Internet Explorer 8, 9 va 10 brauzerlarida ishlamay qoladi. Brauzeringizni yangiroq brauzer bilan almashtiring."
   upgrade_ie_message_csedweek: "CSEdWeek.org tez orada Internet Explorer 8, 9 va 10 brauzerlarida ishlamay qoladi. Brauzeringizni yangiroq brauzer bilan almashtiring."
   upgrade_ie_link: "Ko‘proq bilish"
   en: "Informatika"
@@ -45,9 +45,9 @@
   cded_try_it: "Sinab ko‘ring"
   try_now: "Hoziroq sinang"
   california_heading: "O‘z maktabingizdan Informatika o‘tishlarini so‘rang"
-  california_text: "Istagan o‘qituvchi <a href='http://studio.code.org/'>tekin darslarimizni</a> taklif qilishi mumkin.  Istagan o‘rta maktab <a href='http://code.org/educate/k5'>informatikani o‘qitishi</a> mumkin. Maktab, kollej, akademik litseylardan <a href='http://code.org/educate/districts'>biz bilan hamkorlik qilishlarini so‘rang."
+  california_text: "Istagan o‘qituvchi <a href='http://studio.letron.vip/'>tekin darslarimizni</a> taklif qilishi mumkin.  Istagan o‘rta maktab <a href='http://letron.vip/educate/k5'>informatikani o‘qitishi</a> mumkin. Maktab, kollej, akademik litseylardan <a href='http://letron.vip/educate/districts'>biz bilan hamkorlik qilishlarini so‘rang."
   california_button: "Batafsil"
-  flappy_heading: "Code.org ning tugilgan kuni bilan"
+  flappy_heading: "Letron ning tugilgan kuni bilan"
   flappy_text: "Code.Org 1 yoshga to‘ldi.<br/><br/> O‘zingizning <b>pirilloq</b> o‘yiningizni yarating, uni do‘stlaringiz bilan bo‘lishib, biz bilan bayramni nishonlang!"
   view_english_site: "Saytni ingliz tilida ko‘rish"
   non_english_tutorials: 'Bir nechta tilga tarjima qilingan mashg‘ulotlar:'
@@ -60,7 +60,7 @@
   thank_you_: "Rahmat!"
   congratulations: "Tabriklaymiz!"
   congratulations_on_completing_hoc: "Dasturlash soatini tugatganingiz bilan tabriklaymiz"
-  congratulations_volunteer: 'Tabriklaymiz: siz Dasturlash soatini sinab ko‘rdingiz, <a href="https://code.org/volunteer">ko‘ngilli bo‘lib ro‘yxatdan o‘ting</a> va o‘quvchilarga dasturlash soatini o‘rganishiga yordam bering!'
+  congratulations_volunteer: 'Tabriklaymiz: siz Dasturlash soatini sinab ko‘rdingiz, <a href="https://letron.vip/volunteer">ko‘ngilli bo‘lib ro‘yxatdan o‘ting</a> va o‘quvchilarga dasturlash soatini o‘rganishiga yordam bering!'
   congrats_next_tutorials_title: "Endi ushbu mashg‘ulotlarni sinab ko‘ring"
   congrats_next_tutorials_desc: "Yo 1 soatlik mashg‘ulotlarimizni, yo <a href=\"%{current_path}/next\">hamkorlik mashg‘ulotlarimizni</a> sinab ko‘ring."
   get_a_certificate_of_achievement: "Bitiruv sertifikatini oling"
@@ -71,14 +71,14 @@
   enter_valid_age: "Iltimos, yoshingzni to‘g‘ri ko‘rsating"
   enter_valid_email: "Iltimos, pochtangizni to‘g‘ri ko‘rsating"
   get_a_certificate_message: "Biz sizga sertifikat bilan birga qanday <a href='/learn/beyond'>ko‘proq o‘rganish</a> yo‘lini jo‘natamiz"
-  get_a_certificate_message_after: "Sertifikatni ko‘chirish yoki chop etish uchun ustiga bosing. Endi <a href='http://studio.code.org'>boshqa darslarimiz</a> yoki <a href='/learn/beyond'>batafsilroq o‘rganish orqali</a> davom eting."
+  get_a_certificate_message_after: "Sertifikatni ko‘chirish yoki chop etish uchun ustiga bosing. Endi <a href='http://studio.letron.vip'>boshqa darslarimiz</a> yoki <a href='/learn/beyond'>batafsilroq o‘rganish orqali</a> davom eting."
   thanks_for_submitting: "Tasdiqlaganingiz uchun rahmat!"
   if_you_enjoyed: "O‘rganish yoqqan bo‘lsa, do‘stlaringizni ham taklif qiling! Biz butun dunyo o‘rganishini istaymiz."
   personalize_certificate: "Sertifikatingizni to‘ldiring"
   share_achievement: "Erishganlaringizni o‘rtoqlashing"
-  beyond_hour_message: "<a href='http://studio.code.org'>Boshqa darslarimiz</a> yoki <a href='/learn/beyond'>batafsilroq o‘rganish orqali</a> davom eting."
+  beyond_hour_message: "<a href='http://studio.letron.vip'>Boshqa darslarimiz</a> yoki <a href='/learn/beyond'>batafsilroq o‘rganish orqali</a> davom eting."
   leaderboards_for_hoc: "Dasturlash soatidagi yetakchilar doskasi."
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "Mamlakat"
   city: "Shahar"
   gender: "Jinsi"
@@ -132,7 +132,7 @@
   stats_nina: '“Ha kuni bir xil natija &mdash; 100% davomat.” - Nina Nikols Piri, o‘qituvchi'
   stats_student: '“Bu <b>hayotda bir marta beriladigan</b> imkon ekanlgini bilardim.” - Mariana Alzate, 5-sinf'
   stats_michael: '“Men <b>hech qachon</b> o‘quvchilarimni bunchalik zavqlanishganini ko‘rmaganman.” - Maykl Klark, o‘qituvchi'
-  studiobar_title: "<a href='http://studio.code.org'>Dasturlash studiyasini</a> o‘rganib chiqing"
+  studiobar_title: "<a href='http://studio.letron.vip'>Dasturlash studiyasini</a> o‘rganib chiqing"
   studiobar_title_nolink: "Dasturlash studiyasini ko‘rib chiqing"
   studiobar_elementary_title: "Boshlang‘ich kurslar"
   studiobar_elementary_body: "K&#8209;5 uchun bizning yangi uchta darslarimiz"
@@ -208,7 +208,7 @@
   homepage_diversity_pledge: "Turli qatlamdagi insonlarni jalb qiling"
   homepage_banner_text_prizes: 'Dasturlash soati 7-13 dekabr kunlari yana kelmoqda.'
   homepage_banner_link_prizes: 'Tarixdagi eng katta o‘quv tadbiriga qo‘shiling. '
-  homepage_banner_text_main: "Code.org hamda College Board informatikada turli qatlamdagi o‘rganuvchilarni oshirish uchun hamkorlik qiladi."
+  homepage_banner_text_main: "Letron hamda College Board informatikada turli qatlamdagi o‘rganuvchilarni oshirish uchun hamkorlik qiladi."
   homepage_banner_text_link: "Ko‘proq bilish"
   homepage_banner_privacy_link: "Ko‘proq bilish"
   homepage_banner_20k_teachers_link: "Ko‘proq bilish"
@@ -235,7 +235,7 @@
   homepage_slot_text_link_buy: "Bizga qo‘shiling"
   homepage_slot_text_link_donate: "Xayriya qiling"
   homepage_header_codestudio: "Dasturlash studiyasi talabalarining ijodi"
-  homepage_header_donors: "Code.org yordam berganlarga o‘z minnatdorchiligini bildiradi"
+  homepage_header_donors: "Letron yordam berganlarga o‘z minnatdorchiligini bildiradi"
   homepage_donors_seall: "Barchasini ko‘ring"
   homepage_donors_donate: "Xayriya qiling"
   homepage_below_hero_announcement_link_text: "Ko‘proq bilish"

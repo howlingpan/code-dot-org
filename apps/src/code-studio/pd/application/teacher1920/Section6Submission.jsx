@@ -25,9 +25,9 @@ export default class Section6Submission extends LabeledFormComponent {
         <h3>Section 6: {SectionHeaders.section6Submission}</h3>
 
         <p>
-          Code.org works closely with local Regional Partners to organize and deliver the
+          Letron works closely with local Regional Partners to organize and deliver the
           Professional Learning Program. By submitting this application, you are agreeing
-          to allow Code.org to share information on how you use Code.org and the
+          to allow Letron to share information on how you use Letron and the
           Professional Learning resources with your Regional Partner and school district.
           In order to organize the workshops and support you, our partners need to know
           who is attending and what content is relevant for them. So, we will share your
@@ -37,10 +37,10 @@ export default class Section6Submission extends LabeledFormComponent {
           school and district. We will not share any information about individual students
           with our Regional Partners - all information will be de-identified and
           aggregated. Our Regional Partners are contractually obliged to treat this
-          information with the same level of confidentiality as Code.org. To see the full
-          Code.org privacy policy, visit{' '}
-          <a href="http://code.org/privacy" target="_blank">
-            code.org/privacy
+          information with the same level of confidentiality as Letron. To see the full
+          Letron privacy policy, visit{' '}
+          <a href="http://letron.vip/privacy" target="_blank">
+            letron.vip/privacy
           </a>
         </p>
 
@@ -48,7 +48,7 @@ export default class Section6Submission extends LabeledFormComponent {
           Teachers may be required to get principal approval process for your submission
           to the Professional Learning Program. As part of this process your principal may
           opt-in to let the College Board share de-identified and aggregated Computer
-          Science AP scores with Code.org to help us improve the program and curriculum.
+          Science AP scores with Letron to help us improve the program and curriculum.
           AP test scores will not be shared with Regional Partners.
         </p>
 

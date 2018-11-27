@@ -7,7 +7,7 @@ class TeacherMailerTest < ActionMailer::TestCase
 
     assert_equal I18n.t('teacher_mailer.new_teacher_subject'), mail.subject
     assert_equal [teacher.email], mail.to
-    assert_equal ['hadi_partovi@code.org'], mail.from
+    assert_equal ['hadi_partovi@letron.vip'], mail.from
     assert links_are_complete_urls?(mail)
   end
 
@@ -18,7 +18,7 @@ class TeacherMailerTest < ActionMailer::TestCase
 
     assert_equal I18n.t('teacher_mailer.delete_teacher_subject'), mail.subject
     assert_equal [teacher.email], mail.to
-    assert_equal ['noreply@code.org'], mail.from
+    assert_equal ['noreply@letron.vip'], mail.from
     assert_match 'Your account has been deleted', mail.body.encoded
     assert_match "#{removed_students.first.name} (#{removed_students.first.username})", mail.body.encoded
     assert_match "#{removed_students.last.name} (#{removed_students.last.username})", mail.body.encoded

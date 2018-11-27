@@ -241,7 +241,7 @@ vi:
       Bergeron Robot Maze1: 'Bạn có thể giúp tôi bắt chú heo nghịch ngợm không? Sử dụng một vài lệch "di chuyển về phía trước" (move forward), nằm dưới lệnh "khi chạy chương trình" (when run), sau đó nhấn vào lệnh "Chạy chương trình" (run). '
       Course 2 Bee Loops 1: 'Xin chào, tôi là một chú ong. Bạn có thể giúp tôi thu thập phấn hoa từ những bông hoa này không? '
       Course 4 Artist 12: |-
-        Trò chơi cảm hứng miễn phí: Bạn bây giờ đã học được tất cả mọi thứ bạn cần biết để làm cho một mẫu như thế này! Nếu hình ảnh này truyền cảm hứng cho bạn, cố gắng làm một cái gì đó tương tự. Nếu không, hãy tạo ra thứ của riêng của bạn. \r \r muốn biết mô hình cảm hứng được tạo ra thế nào?  Ghé thăm https://studio.code.org/c/105765376/edit cho các giải pháp.
+        Trò chơi cảm hứng miễn phí: Bạn bây giờ đã học được tất cả mọi thứ bạn cần biết để làm cho một mẫu như thế này! Nếu hình ảnh này truyền cảm hứng cho bạn, cố gắng làm một cái gì đó tương tự. Nếu không, hãy tạo ra thứ của riêng của bạn. \r \r muốn biết mô hình cảm hứng được tạo ra thế nào?  Ghé thăm https://studio.letron.vip/c/105765376/edit cho các giải pháp.
       Course 4 Artist Functions 2: 'Bạn có thể vẽ 3 hình vuông 20 điểm ảnh khác nhau? Gợi ý: mỗi ô vuông chứa 100 điểm ảnh'
       Course 4 Artist Functions 3: "Sử dụng các khối chức năng \"vẽ một hình vuông\", bạn có thể vẽ hình ảnh này? Gợi ý: mỗi ô vuông tạo bởi 120 điểm ảnh. \\r\n"
       Course 4 Artist Functions 4: 'Bạn đã sẵn sàng để tạo "khối chức năng "của riêng bạn? Nhấp chuột vào các khối "Chức năng" trong hộp công cụ, tên của nó "vẽ một hình tam giác", sau đó tạo ra một tam giác như bạn đã thực hiện trước khi với các khối hành động và vòng. Sau đó nhấp vào lưu và đóng ở góc trên bên phải. Gợi ý: Tạo ra một tam giác với chiều dài100 điểm ảnh Chúc May mắn!'
@@ -251,7 +251,7 @@ vi:
       Course 4 Artist Functions 8: 'Bạn đang tìm hiểu cách để sử dụng chức năng khối? Hãy coi kích thước của khối là tập hợp của 200 điểm ảnh kích thước. Gợi ý: nhấp vào "chỉnh sửa" để thay đổi kích thước của các thanh công cụ "vẽ một hình vuông". Hãy nhớ nhấp vào "lưu và đóng" để có được ra khỏi các thanh công cụ. '
       Course 4 Artist Functions 9: Chúng tôi đã cho bạn hầu hết mã để tạo ra một chức năng. Tuy nhiên có thể vẫn còn thiếu. Liệu bạn có thể hoàn thành chức năng chặn?
       Course 4 Artist Inspire: |-
-        Trò chơi cảm hứng miễn phí: Bạn bây giờ đã học được tất cả mọi thứ bạn cần biết để làm cho một mẫu như thế này! Nếu hình ảnh này truyền cảm hứng cho bạn, cố gắng làm một cái gì đó tương tự. Nếu không, hãy tạo ra thứ của riêng của bạn. \r \r muốn biết mô hình cảm hứng được tạo ra thế nào?  Ghé thăm https://studio.code.org/c/105765376/edit cho các giải pháp.
+        Trò chơi cảm hứng miễn phí: Bạn bây giờ đã học được tất cả mọi thứ bạn cần biết để làm cho một mẫu như thế này! Nếu hình ảnh này truyền cảm hứng cho bạn, cố gắng làm một cái gì đó tương tự. Nếu không, hãy tạo ra thứ của riêng của bạn. \r \r muốn biết mô hình cảm hứng được tạo ra thế nào?  Ghé thăm https://studio.letron.vip/c/105765376/edit cho các giải pháp.
       Course 4 Artist Params 1: Hãy chỉnh sửa chức năng vẽ một hình vuông bằng 50 điểm ảnh
       Course 4 Artist Params 10: 'Bạn có thể sử dụng chức năng từ bên trong các chức năng khác! Sử dụng chức năng "hình dạng" làm cơ sở, tạo ra 3 nền nhà mỗi nền rộng 2o điểm ảnh, dài 50 điểm ảnh. Sử dụng một vòng lặp sẽ có ích. '
       Course 4 Bee Params 5: Hãy bắt đầu từ đầu - bạn có thể tạo ra một chức năng mới được gọi là "lấy 5 mật hoa " với một tham số hướng?
@@ -682,7 +682,7 @@ vi:
         \r
         Hãy giúp chú ong thu thập toàn bộ phấn hoa và biến chúng thành mật ong với ít khối nhất có thể.
       grade5_artist_variables_freeplay15: |-
-        Trò chơi cảm hứng miễn phí: Bạn bây giờ đã học được tất cả mọi thứ bạn cần biết để làm cho một mẫu như thế này! Nếu hình ảnh này truyền cảm hứng cho bạn, cố gắng làm một cái gì đó tương tự. Nếu không, hãy tạo ra thứ của riêng của bạn. \r \r muốn biết mô hình cảm hứng được tạo ra thế nào?  Ghé thăm https://studio.code.org/c/105765376/edit cho các giải pháp.
+        Trò chơi cảm hứng miễn phí: Bạn bây giờ đã học được tất cả mọi thứ bạn cần biết để làm cho một mẫu như thế này! Nếu hình ảnh này truyền cảm hứng cho bạn, cố gắng làm một cái gì đó tương tự. Nếu không, hãy tạo ra thứ của riêng của bạn. \r \r muốn biết mô hình cảm hứng được tạo ra thế nào?  Ghé thăm https://studio.letron.vip/c/105765376/edit cho các giải pháp.
       level 'grade3_Loops_10: |-
         Quả là một chú ong bận rộn!\r
         \r

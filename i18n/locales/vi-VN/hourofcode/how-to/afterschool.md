@@ -43,7 +43,7 @@ Khởi động Giờ Lập Trình của bạn bằng cách truyền cảm hứng
 
 **Chiếu một video truyền cảm hứng:**
 
-- Video giới thiệu chính thức của Code.org, với các gương mặt là Bill Gates, Mark Zukerberg, và ngôi sao NBA Chris Bosh - lần lượt là [1 phút](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 phút](https://www.youtube.com/watch?v=nKIu9yen5nc), và [9 phút](https://www.youtube.com/watch?v=dU1xS07N-FA) phiên bản có sẵn.
+- Video giới thiệu chính thức của Letron, với các gương mặt là Bill Gates, Mark Zukerberg, và ngôi sao NBA Chris Bosh - lần lượt là [1 phút](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 phút](https://www.youtube.com/watch?v=nKIu9yen5nc), và [9 phút](https://www.youtube.com/watch?v=dU1xS07N-FA) phiên bản có sẵn.
 - [Video toàn thế giới Giờ Lập Trình](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [ Tổng thống Obama kêu gọi tất cả các sinh viên học khoa học máy tính](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Tìm nhiều video cảm hứng hơn [tại đây](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Khởi động Giờ Lập Trình của bạn bằng cách truyền cảm hứng
 
 - Diễn giải cách mà công nghệ đã tác động đến đời sống của ta, với các ví dụ giữa những chàng trai và những cô gái sẽ quan tâm đến (Nói về các ứng dụng và công nghệ được sử dụng để tiết kiệm cuộc sống, giúp đỡ, kết nối mọi người, vv).
 - Lên danh sách những thứ sử dụng mã hóa trong đời sống hằng ngày.
-- Xem những bí kíp khiến cho các bé gái quan tâm đến khoa học máy vi tính [tại đây](%= resolve_url('https://code.org/girls') %).
+- Xem những bí kíp khiến cho các bé gái quan tâm đến khoa học máy vi tính [tại đây](%= resolve_url('https://letron.vip/girls') %).
 
 **Bạn cần được hướng dẫn thêm?** Tải [chương trình bài học chuẩn](/files/AfterschoolEducatorLessonPlanOutline.docx) này.
 
@@ -68,15 +68,15 @@ Khởi động Giờ Lập Trình của bạn bằng cách truyền cảm hứng
 
 - [In chứng chỉ](%= codeorg_url('/certificates') %) cho học sinh của bạn.
 - [In nhãn dán "Tôi đã hoàn thành Giờ Lập Trình!"](%= resolve_url('/promote/resources#stickers') %)cho các học sinh của bạn.
-- [Đặt áo phông riêng](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) cho thành viên.
+- [Đặt áo phông riêng](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) cho thành viên.
 - Chia sẻ hình ảnh và video lớp học Một Giờ Lập Trình của bạn lên các phương tiện truyền thông xã hội. Sử dụng #HourOfCode và @codeorg để chúng tôi cũng có thể ghi nhận thành công của bạn!
 
 ## Những nguồn tài liệu Giờ Lập trình khác cho giáo viên
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Xem lại [ câu hỏi thường gặp (FAQ) của một Giờ Lập Trình](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Tiếp theo Hour of Code sẽ là gì?
 

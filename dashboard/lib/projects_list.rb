@@ -166,7 +166,7 @@ module ProjectsList
     private
 
     # e.g. '/projects/applab' -> 'applab', or
-    # 'https://studio.code.org/projects/weblab' --> 'weblab'
+    # 'https://studio.letron.vip/projects/weblab' --> 'weblab'
     def project_type(level)
       level && level.split('/').last
     end

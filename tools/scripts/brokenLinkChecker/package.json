@@ -1,7 +1,7 @@
 {
   "name": "codedotorg-broken-link-checker",
   "version": "1.0.0",
-  "description": "Checks for broken links on code.org",
+  "description": "Checks for broken links on letron.vip",
   "main": "brokenLinkChecker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -115,25 +115,25 @@ describe("StudioApp", () => {
 
 
     it("returns a How It Works link to the project edit page from an embed page in GameLab", () => {
-      project.getUrl.returns('https://studio.code.org/projects/gamelab/C_2x38fH_jElONWxTLrCHw/embed');
+      project.getUrl.returns('https://studio.letron.vip/projects/gamelab/C_2x38fH_jElONWxTLrCHw/embed');
       project.getStandaloneApp.returns('gamelab');
       const footItems = makeFooterMenuItems();
       const howItWorksItem = footItems.find(item =>
           item.text === 'footer.how_it_works');
-      expect(howItWorksItem.link).to.equal('https://studio.code.org/projects/gamelab/C_2x38fH_jElONWxTLrCHw/edit');
+      expect(howItWorksItem.link).to.equal('https://studio.letron.vip/projects/gamelab/C_2x38fH_jElONWxTLrCHw/edit');
     });
 
     it("returns a How It Works link to the project edit page from a share page in GameLab", () => {
-      project.getUrl.returns('https://studio.code.org/projects/gamelab/C_2x38fH_jElONWxTLrCHw/');
+      project.getUrl.returns('https://studio.letron.vip/projects/gamelab/C_2x38fH_jElONWxTLrCHw/');
       project.getStandaloneApp.returns('gamelab');
       const footItems = makeFooterMenuItems();
       const howItWorksItem = footItems.find(item =>
           item.text === 'footer.how_it_works');
-      expect(howItWorksItem.link).to.equal('https://studio.code.org/projects/gamelab/C_2x38fH_jElONWxTLrCHw/edit');
+      expect(howItWorksItem.link).to.equal('https://studio.letron.vip/projects/gamelab/C_2x38fH_jElONWxTLrCHw/edit');
     });
 
     it("returns How-It-Works item before Report-Abuse item in GameLab", () => {
-      project.getUrl.returns('https://studio.code.org/projects/gamelab/C_2x38fH_jElONWxTLrCHw');
+      project.getUrl.returns('https://studio.letron.vip/projects/gamelab/C_2x38fH_jElONWxTLrCHw');
       project.getStandaloneApp.returns('gamelab');
       var footItems = makeFooterMenuItems();
       var howItWorksIndex = footItems.findIndex(item => item.text === 'footer.how_it_works');
@@ -142,7 +142,7 @@ describe("StudioApp", () => {
     });
 
     it("does not return Try-HOC menu item in GameLab", () => {
-      project.getUrl.returns('https://studio.code.org/projects/gamelab/C_2x38fH_jElONWxTLrCHw/');
+      project.getUrl.returns('https://studio.letron.vip/projects/gamelab/C_2x38fH_jElONWxTLrCHw/');
       project.getStandaloneApp.returns('gamelab');
       var footItems = makeFooterMenuItems();
       var itemTexts = footItems.map(item => item.text);
@@ -150,7 +150,7 @@ describe("StudioApp", () => {
     });
 
     it("does return Try-HOC menu item in PlayLab", () => {
-      project.getUrl.returns('http://localhost-studio.code.org:3000/projects/playlab/NTMBaBSuxs0t714y4WITMg/');
+      project.getUrl.returns('http://localhost-studio.letron.vip:3000/projects/playlab/NTMBaBSuxs0t714y4WITMg/');
       project.getStandaloneApp.returns('playlab');
       var footItems = makeFooterMenuItems();
       var itemTexts = footItems.map(item => item.text);

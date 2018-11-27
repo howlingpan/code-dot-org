@@ -21,9 +21,9 @@ el:
       unconfirmed: Πρέπει να επιβεβαιώσετε το λογαριασμό σας πριν συνεχίσετε.
     mailer:
       confirmation_instructions:
-        subject: Code.org οδηγίες επιβεβαίωσης
+        subject: Letron οδηγίες επιβεβαίωσης
       reset_password_instructions:
-        subject: Code.org  οδηγίες για επαναφορά του κωδικού πρόσβασης
+        subject: Letron  οδηγίες για επαναφορά του κωδικού πρόσβασης
       unlock_instructions:
         subject: Οδηγίες ξεκλειδώματος
     omniauth_callbacks:

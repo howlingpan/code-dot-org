@@ -99,15 +99,15 @@ namespace :circle do
       start_sauce_connect
       RakeUtils.system_stream_output 'until $(curl --output /dev/null --silent --head --fail http://localhost:4445); do sleep 5; done'
     end
-    RakeUtils.system_stream_output 'until $(curl --output /dev/null --silent --head --fail http://localhost-studio.code.org:3000); do sleep 5; done'
+    RakeUtils.system_stream_output 'until $(curl --output /dev/null --silent --head --fail http://localhost-studio.letron.vip:3000); do sleep 5; done'
     Dir.chdir('dashboard/test/ui') do
       container_features = `find ./features -name '*.feature' | sort`.split("\n").map {|f| f[2..-1]}
       eyes_features = `grep -lr '@eyes' features`.split("\n")
       container_eyes_features = container_features & eyes_features
       RakeUtils.system_stream_output "bundle exec ./runner.rb" \
           " --feature #{container_features.join(',')}" \
-          " --pegasus localhost.code.org:3000" \
-          " --dashboard localhost-studio.code.org:3000" \
+          " --pegasus localhost.letron.vip:3000" \
+          " --dashboard localhost-studio.letron.vip:3000" \
           " --circle" \
           " --#{use_saucelabs ? "config #{ui_test_browsers.join(',')}" : 'local'}" \
           " --parallel #{use_saucelabs ? 16 : 8}" \
@@ -120,8 +120,8 @@ namespace :circle do
             " --eyes" \
             " --feature #{container_eyes_features.join(',')}" \
             " --config ChromeLatestWin7,iPhone" \
-            " --pegasus localhost.code.org:3000" \
-            " --dashboard localhost-studio.code.org:3000" \
+            " --pegasus localhost.letron.vip:3000" \
+            " --dashboard localhost-studio.letron.vip:3000" \
             " --circle" \
             " --parallel 10" \
             " --retry_count 1" \
@@ -202,7 +202,7 @@ def start_sauce_connect
   RakeUtils.system_stream_output 'tar -xzf sc-build-3265-linux.tar.gz'
   Dir.chdir(Dir.glob('sc-build-3265')[0]) do
     # Run sauce connect a second time on failure, known periodic "Error bringing up tunnel VM." disconnection-after-connect issue, e.g. https://circleci.com/gh/code-dot-org/code-dot-org/20930
-    RakeUtils.exec_in_background "for i in 1 2; do ./bin/sc -vv -l $CIRCLE_ARTIFACTS/sc.log -u $SAUCE_USERNAME -k $SAUCE_ACCESS_KEY -i #{CDO.circle_run_identifier} --tunnel-domains *.code.org,*.csedweek.org,*.hourofcode.com,*.codeprojects.org --wait-tunnel-shutdown && break; done"
+    RakeUtils.exec_in_background "for i in 1 2; do ./bin/sc -vv -l $CIRCLE_ARTIFACTS/sc.log -u $SAUCE_USERNAME -k $SAUCE_ACCESS_KEY -i #{CDO.circle_run_identifier} --tunnel-domains *.letron.vip,*.csedweek.org,*.hourofcode.com,*.codeprojects.org --wait-tunnel-shutdown && break; done"
   end
 end
 

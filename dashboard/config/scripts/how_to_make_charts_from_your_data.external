@@ -7,7 +7,7 @@ The following instructions are based on a tutorial your students will follow in 
 
 **The dataset:** <a href="https://drive.google.com/open?id=0B78N8p4zhHFgaHR2TG1QQ2NZQTg" target="_blank">MovieRating_avgRatingByAgeByGender.csv</a> 
 
-*NOTE: To make your own copy in your local Google Drive, click the “Open” icon: ![](https://images.code.org/0bd0989090eb89eb71134ad899ffc739-image-1454009835808.PNG)*
+*NOTE: To make your own copy in your local Google Drive, click the “Open” icon: ![](https://images.letron.vip/0bd0989090eb89eb71134ad899ffc739-image-1454009835808.PNG)*
 
 > Want to jump to a specific chart type? Use the links below:
 
@@ -27,7 +27,7 @@ The following instructions are based on a tutorial your students will follow in 
 
 **Do This:** Select the “age” and “avg rating” columns, as show below.
 
-![](https://images.code.org/ffaca4dab49fa2e0a71d75f4c6f9c2a2-image-1454102458528.gif)<br>
+![](https://images.letron.vip/ffaca4dab49fa2e0a71d75f4c6f9c2a2-image-1454102458528.gif)<br>
 *Select the "age" and "avg rating" columns*
 
 * **Hint:** To select an entire column, click the top cell (ex. A1), then hold down the "SHIFT" key and select the last cell from the last column you want (ex. B62).
@@ -47,7 +47,7 @@ Google gives suggestions of what kind of chart you can make from your data, but 
 * Check **"Use column A as labels."** This tells the chart that column A is your horizontal or "x" axis.
 * Click **“Insert”** to add your chart to the spreadsheet.
 
-![](https://images.code.org/097d30b261df0204fd6ec0f7a5af58bd-image-1454098624733.gif)
+![](https://images.letron.vip/097d30b261df0204fd6ec0f7a5af58bd-image-1454098624733.gif)
 *Change chart type and insert your scatter chart into the spreadsheet.*
 
 
@@ -55,11 +55,11 @@ Google gives suggestions of what kind of chart you can make from your data, but 
 ### Do a Visual Check
 At this point, your chart should look something like this:
 
-![](https://images.code.org/3012fe576b9d2a3bf985adf4dd6c4dcd-image-1454098640073.PNG)
+![](https://images.letron.vip/3012fe576b9d2a3bf985adf4dd6c4dcd-image-1454098640073.PNG)
 
 **Do This:** Take a moment to look at your visualization. You can switch between "View" and "Edit" mode with this button.
 
-![](https://images.code.org/9aa88eb7c54c2f75dde180a22f3b61f4-image-1453690323325.PNG)
+![](https://images.letron.vip/9aa88eb7c54c2f75dde180a22f3b61f4-image-1453690323325.PNG)
 
 <hr>
 
@@ -84,7 +84,7 @@ To select cells in non-adjacent columns, you need to use some fancy hotkeys: <br
 4. Repeat steps 2-3 for any additional columns you want to select (i.e., F1 through F62).
 </details><br>
 
-![](https://images.code.org/19de3c9486f50fe1fc1aa7fa8a1da283-image-1454102836246.gif)
+![](https://images.letron.vip/19de3c9486f50fe1fc1aa7fa8a1da283-image-1454102836246.gif)
 *Select the cells to include in the chart.*
 
 ### Insert Chart
@@ -95,14 +95,14 @@ To select cells in non-adjacent columns, you need to use some fancy hotkeys: <br
 * Check the boxes for **“Use row 1 as headers”** and **“Use column A as labels.”**
 * Click **“Insert”** to add your chart to the spreadsheet.
 
-![](https://images.code.org/210a6d48dd0266ee192d7cd374839ddf-image-1454102597958.gif)
+![](https://images.letron.vip/210a6d48dd0266ee192d7cd374839ddf-image-1454102597958.gif)
 *Change chart type and insert your line chart into the spreadsheet.*
 
 ### Do a Visual Check
 
 At this point, your chart should look something like this:
 
-![](https://images.code.org/87f354db26d09449f68a4fa56cb57352-image-1454102624517.PNG)
+![](https://images.letron.vip/87f354db26d09449f68a4fa56cb57352-image-1454102624517.PNG)
 
 <hr /> 
 
@@ -130,7 +130,7 @@ At this point, your chart should look something like this:
 </ol>
 </details><br>
 
-![](https://images.code.org/4208af40200c99a749ddeddbba3a1ebe-image-1454103069438.gif)
+![](https://images.letron.vip/4208af40200c99a749ddeddbba3a1ebe-image-1454103069438.gif)
 *Select the "age," "number of women," and "number of men" columns.
 
 
@@ -142,14 +142,14 @@ At this point, your chart should look something like this:
 * Check the boxes for **“Use row 1 as headers”** and **“Use column A as labels.”**
 * Click **“Insert”** to add your chart to the spreadsheet.
 
-![](https://images.code.org/700f3ade7e049c608d06c9d56952079c-image-1454103075843.gif)
+![](https://images.letron.vip/700f3ade7e049c608d06c9d56952079c-image-1454103075843.gif)
 *Change chart type and insert your bar chart into the spreadsheet.*
 
 ### Do a Visual Check
 
 At this point, your chart should look something like this:
 
-![](https://images.code.org/aa384da254515306546d51ada51943d1-image-1454103099651.PNG)
+![](https://images.letron.vip/aa384da254515306546d51ada51943d1-image-1454103099651.PNG)
 
 
 

@@ -48,7 +48,7 @@ ro:
         2-3_Artist_9_a: Acest romb este într-adevăr doar un pătrat rotit la 45 de
           grade.
         2-3_Artist_9_b: "Nu uitaţi să întoarceți artistul rămas la un unghi de 45
-          de grade, înainte să începeți să desenați pătratul dumneavoastră! \n\n![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)"
+          de grade, înainte să începeți să desenați pătratul dumneavoastră! \n\n![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)"
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Rețineți că doriți ca panoul de control să fie
           de 10 pixeli *mai larg *...deci asigurați-vă că ** adăugați ** 10 la orice
@@ -232,7 +232,7 @@ ro:
           da seama cum se utilizează o buclă `repetă` suplimentară pentru a reduce
           pe codul?
         2-3_Bee_Conditionals_14_c: "Încercați să rupeți codul în două bucăți separate:\n\n\n!
-          [] (Https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
+          [] (Https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
           Adună nectar de 3 ori\n  - Mută înainte de 5 ori\n  - Verifică să vezi dacă
           este nectar, dacă da: obțineți-l\n  - Întoarce la stânga\n  \n2) Fă miere
           \n  - Mută înainte o dată\n  - Fă două (bucați de) miere"
@@ -267,7 +267,7 @@ ro:
         2-3_Bee_Functions_8_a: "Dacă puzzle-ul pare a fi o provocare, încercați să
           vă construiți funcția câte puțin de fiecare dată. \n\nAdăugați câteva blocuri,
           apoi încercați-o. Adăugați mai multe, apoi încercați din nou. În curând,
-          veți reuși!\n\n![](Https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          veți reuși!\n\n![](Https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: |-
           Dacă puzzle-ul pare a fi o provocare, încercați să vă construiți funcția câte puțin de fiecare dată.
@@ -276,7 +276,7 @@ ro:
         2-3_Bee_Functions_8_b: |-
           Amintiți-vă să vă construiți codul în interiorul blocului funcțional verde.
 
-          ![](Https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](Https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Ar trebui să aveți la final patru blocuri în interiorul
           buclei dvs.
@@ -346,7 +346,7 @@ ro:
         2-3_Maze_Loops_21_a: Dacă întâmpinați dificultăți în găsirea modelului de
           scară, încercați să acoperiți căile blocate cu degetul.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Când vine vorba de interiorul buclei dvs., asigurați-vă că
           artistul sare înapoi și în sus după desenarea fiecărei linii.
@@ -490,7 +490,7 @@ ro:
           **Soluție**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Pentru a utiliza un bloc "mută înainte", glisați-l din zona
           barei de instrumente în spațiul de lucru și conectați-l la blocul `când
@@ -1874,7 +1874,7 @@ ro:
           **Soluție**
 
 
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       NEW Course 4 Artist Params inspire_authored_hint:
         brush_width: Am setat lățimea periei la 1 apoi culoarea la albastru, înainte
           de a face orice altceva.
@@ -1914,9 +1914,9 @@ ro:
 
 
 
-          ![](https://images.code.org/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
+          ![](https://images.letron.vip/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
 
-          Creați-vă propriile bucle sau faceți clic pe ![](https://images.code.org/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) pentru câteva idei!
+          Creați-vă propriile bucle sau faceți clic pe ![](https://images.letron.vip/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) pentru câteva idei!
       course1_artist_loops_challenge3_authored_hint:
         courseA_artist_loops_challenge2_c: Veţi avea nevoie de o MULȚIME de blocuri
           în interiorul buclei pentru această provocare.
@@ -1924,7 +1924,7 @@ ro:
         courseA_collector_loops_challenge2_a: |-
           Puteți să mergeți înapoi pe cale a doua oară înainte de a vă deplasa spre sud.
 
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       course1_collector_loops_challenge3_authored_hint:
         courseB_collector_loops_challenge1_c: |
           Mutați Est de două ori între fiecare traseu.
@@ -1982,7 +1982,7 @@ ro:
         courseC_maze_loops_challenge1_c: |-
           Dacă ajungeți până aici, trebuie doar să "întoarceți la stânga", apoi să "mergeți înainte" de câteva ori. Nu renunţați!
 
-          ![](https://images.code.org/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
+          ![](https://images.letron.vip/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
       course3_artist_concept_challenge1_authored_hint:
         courseE_artist_concept_challenge1_a: 'Jumătatea de hexagon are o **lungime
           de 30** și se întoarce la dreapta cu **60 grade**.  '
@@ -2362,7 +2362,7 @@ ro:
         courseA_collector_loops_challenge2_a: |-
           Puteți să mergeți înapoi pe cale a doua oară înainte de a vă deplasa spre sud.
 
-          ![](https://images.code.org/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
+          ![](https://images.letron.vip/88c28c76dbea70e20253083d22b5f5fd-image-1491001404225.01.21 PM.png)
       courseB_iceage_loops1_authored_hint:
         courseB_iceage_loops1_a: Ferește-te de gheață! Scrat va cădea prin ea!
       courseB_iceage_loops10_authored_hint:
@@ -2420,7 +2420,7 @@ ro:
         courseC_artist_loopsPrePre1a_b: |-
           Pentru a vă deplasa înainte cu 50 de pixeli, utilizați acest bloc:
 
-          ![](https://images.code.org/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
+          ![](https://images.letron.vip/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
       courseC_artist_loopsPrePre1a_2018_authored_hint:
         courseC_artist_loopsPrePre1a_b: |-
           Pentru a vă deplasa înainte cu 50 de pixeli, utilizați acest bloc:
@@ -2790,17 +2790,17 @@ ro:
         courseE_bee_functions6_a: "Dacă puzzle-ul pare a fi o provocare, încercați
           să vă construiți funcția câte puțin de fiecare dată. \n\nAdăugați câteva
           blocuri, apoi încercați-o. Adăugați mai multe, apoi încercați din nou. În
-          curând, veți reuși!\n\n![](Https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          curând, veți reuși!\n\n![](Https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
         courseE_bee_functions6_a: "Dacă puzzle-ul pare a fi o provocare, încercați
           să vă construiți funcția câte puțin de fiecare dată. \n\nAdăugați câteva
           blocuri, apoi încercați-o. Adăugați mai multe, apoi încercați din nou. În
-          curând, veți reuși!\n\n![](Https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          curând, veți reuși!\n\n![](Https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
         courseE_bee_functions6_a: "Dacă puzzle-ul pare a fi o provocare, încercați
           să vă construiți funcția câte puțin de fiecare dată. \n\nAdăugați câteva
           blocuri, apoi încercați-o. Adăugați mai multe, apoi încercați din nou. În
-          curând, veți reuși!\n\n![](Https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          curând, veți reuși!\n\n![](Https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: |-
           Dacă puzzle-ul pare a fi o provocare, încercați să vă construiți funcția câte puțin de fiecare dată.
@@ -2809,7 +2809,7 @@ ro:
         courseE_bee_functions7_b: |-
           Amintiți-vă să vă construiți codul în interiorul blocului funcțional verde.
 
-          ![](Https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](Https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: |-
           Dacă puzzle-ul pare a fi o provocare, încercați să vă construiți funcția câte puțin de fiecare dată.
@@ -2818,7 +2818,7 @@ ro:
         courseE_bee_functions7_b: |-
           Amintiți-vă să vă construiți codul în interiorul blocului funcțional verde.
 
-          ![](Https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](Https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: |-
           Dacă puzzle-ul pare a fi o provocare, încercați să vă construiți funcția câte puțin de fiecare dată.
@@ -2938,7 +2938,7 @@ ro:
         courseF_bee_functions6_a: "Dacă puzzle-ul pare a fi o provocare, încercați
           să vă construiți funcția câte puțin de fiecare dată. \n\nAdăugați câteva
           blocuri, apoi încercați-o. Adăugați mai multe, apoi încercați din nou. În
-          curând, veți reuși!\n\n![](Https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          curând, veți reuși!\n\n![](Https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: |-
           Dacă puzzle-ul pare a fi o provocare, încercați să vă construiți funcția câte puțin de fiecare dată.
@@ -3222,7 +3222,7 @@ ro:
         2-3_Bee_Functions_8_a: "Dacă puzzle-ul pare a fi o provocare, încercați să
           vă construiți funcția câte puțin de fiecare dată. \n\nAdăugați câteva blocuri,
           apoi încercați-o. Adăugați mai multe, apoi încercați din nou. În curând,
-          veți reuși!\n\n![](Https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          veți reuși!\n\n![](Https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: |-
           Dacă puzzle-ul pare a fi o provocare, încercați să vă construiți funcția câte puțin de fiecare dată.
@@ -3231,7 +3231,7 @@ ro:
         2-3_Bee_Functions_8_b: |-
           Amintiți-vă să vă construiți codul în interiorul blocului funcțional verde.
 
-          ![](Https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](Https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_bee_nestedLoops4_authored_hint:
         grade4_bee_nestedLoops4_b: |-
           Veți avea nevoie de o buclă imbricată pentru a muta înainte și pentru a obține nectar, dar numai o singură buclă pentru a colecta miere la sfârșit.

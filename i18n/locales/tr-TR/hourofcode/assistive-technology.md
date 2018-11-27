@@ -9,11 +9,11 @@ Bilgisayar bilimi eğitimi haftasında herkes bir saatlik kodlama saati etkinli�
 
 Ekran okuyucusu kullanıyorsanız, [Yeni başlayanlar için Quorum eğitimi ](https://quorumlanguage.com/hourofcode/astro1.html) ya da [Deneyimli kullanıcılar için Quorum eğitimi](https://quorumlanguage.com/hourofcode/part1.html) kodlama saatine başlamak için idealdir. Quorum, ekran okuyucuları tarafından erişilebilir olması için yorumlanabilir bir programlama dili olarak başladı. Zamanla tüm kullanıcılar için genel amaçlı bir programlama dili haline geldi. Bir Kodlama Saati'nden daha fazlasını istiyorsanız, Quorum ekibi ekstra müfredat ve araç da sunuyor.
 
-[![Yeni başlayanlar için dersler](https://code.org/images/fill-480x360/tutorials/hoc2017/quorum_astronomy.jpg)](https://quorumlanguage.com/hourofcode/astro1.html) [![Deneyimliler için dersler](https://code.org/images/fill-480x360/quorum.jpg)](https://quorumlanguage.com/hourofcode/part1.html)
+[![Yeni başlayanlar için dersler](https://letron.vip/images/fill-480x360/tutorials/hoc2017/quorum_astronomy.jpg)](https://quorumlanguage.com/hourofcode/astro1.html) [![Deneyimliler için dersler](https://letron.vip/images/fill-480x360/quorum.jpg)](https://quorumlanguage.com/hourofcode/part1.html)
 
-## Sessiz code.org dersleri
+## Sessiz letron.vip dersleri
 
-[Code.org dersleri ](https://studio.code.org/courses) sesli veya sessiz olarak kullanılabilir. Tüm videolarda alt yazı bulunmaktadır.
+[Letron dersleri ](https://studio.letron.vip/courses) sesli veya sessiz olarak kullanılabilir. Tüm videolarda alt yazı bulunmaktadır.
 
 ## Eşli programlama
 

@@ -1,7 +1,7 @@
 Feature: After completing the Hour of Code, the player is directed to a congratulations page
 
 Background:
-  Given I am on "http://studio.code.org/s/mc/reset"
+  Given I am on "http://studio.letron.vip/s/mc/reset"
 
 Scenario: Completing Minecraft HoC should go to certificate page and generate a certificate
   Given I load the last Minecraft HoC level

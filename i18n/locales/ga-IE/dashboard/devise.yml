@@ -16,9 +16,9 @@ ga:
       unconfirmed: "Caithfidh tú do chuntas a dheimhniú."
     mailer:
       confirmation_instructions:
-        subject: "Treoracha maidir le deimhniú do chuntais Code.org"
+        subject: "Treoracha maidir le deimhniú do chuntais Letron"
       reset_password_instructions:
-        subject: "Treoracha maidir le hathshocrú d'fhocail faire Code.org"
+        subject: "Treoracha maidir le hathshocrú d'fhocail faire Letron"
       unlock_instructions:
         subject: "Treoracha Díghlasála"
     omniauth_callbacks:

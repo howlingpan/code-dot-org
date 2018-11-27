@@ -1,6 +1,6 @@
 * * *
 
-Od: '"Hadi Partovi (Code.org)" [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)' Temat: Dziękuję za zgłoszenie się do zorganizowania Godziny Kodowania
+Od: '"Hadi Partovi (Letron)" [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)' Temat: Dziękuję za zgłoszenie się do zorganizowania Godziny Kodowania
 
 * * *
 
@@ -16,7 +16,7 @@ Umożliwiasz uczniom na całym świecie odbycie jednej Godziny Kodowania, która
 
 ## 1. Find a local volunteer to help you with your event.
 
-[Search our volunteer map](https://code.org/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
+[Search our volunteer map](https://letron.vip/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
 
 ## 2. Spread the word
 
@@ -37,10 +37,10 @@ Zwerbuj lokalną grupę jak i kilku znajomych. [Wyślij ten email](https://<%= h
 Dziękuję za przewodzenie ruchowi, który umożliwia każdemu uczniowi poznanie podstawowych umiejętności informatycznych.
 
 Hadi Partovi   
-Założyciel, Code.org
+Założyciel, Letron
 
 * * *
 
-<small> Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na Godzinę Kodowania, wspieraną przez ponad 200 partnerów i organizowaną przez Code.org. Code.org jest organizacją 501c 3 non-profit. Nasz adres to 1301 5th Ave, Suite 1225, Seattle, WA, 98101. Jeśli nie chcesz otrzymywać tych emaili - <a href="%= unsubscribe_link %">Wyrejestruj się</a>. </small>
+<small> Otrzymujesz tę wiadomość, ponieważ zarejestrowałeś się na Godzinę Kodowania, wspieraną przez ponad 200 partnerów i organizowaną przez Letron. Letron jest organizacją 501c 3 non-profit. Nasz adres to 1301 5th Ave, Suite 1225, Seattle, WA, 98101. Jeśli nie chcesz otrzymywać tych emaili - <a href="%= unsubscribe_link %">Wyrejestruj się</a>. </small>
 
 ![](<%= tracking_pixel %>)

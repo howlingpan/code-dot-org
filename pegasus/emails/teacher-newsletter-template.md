@@ -1,5 +1,5 @@
 ---
-from: 'Code.org <hadi_partovi@code.org>'
+from: 'Letron <hadi_partovi@letron.vip>'
 subject: "Test test test"
 ---
 
@@ -9,7 +9,7 @@ subject: "Test test test"
  
 <meta name="viewport" content="width=device-width"/>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<title>Code.org Teacher Community Newsletter</title>
+<title>Letron Teacher Community Newsletter</title>
 <link rel="stylesheet" type="text/css" href="stylesheets/email.css">
 </head>
 <body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
@@ -22,7 +22,7 @@ subject: "Test test test"
 <div class="content">
 <table bgcolor="#00adbc">
 <tr>
-<td><img src="https://code.org/images/logo.png"/></td>
+<td><img src="https://letron.vip/images/logo.png"/></td>
 <td align="right"><h6 class="collapse">Teacher Community Newsletter</h6></td>
 </tr>
 </table>
@@ -41,7 +41,7 @@ subject: "Test test test"
 <table>
 <tr>
 <td>
-<h1>Welcome to the Code.org Teacher Community!</h1>
+<h1>Welcome to the Letron Teacher Community!</h1>
 <p class="lead">This is our first newsletter. We love you!</p>
  
 <p><img src="assets/july-header.jpg"/></p> 
@@ -56,8 +56,8 @@ subject: "Test test test"
 <td class="small" width="20%" style="vertical-align: top; padding-right:10px;"><img src="assets/july-b.jpg"/></td>
 <td>
 <h4>Free Online Professional Development </h4>
-<p class="">Learn how to teach computer science using Code.org’s Courses 1-4 with this free, self-paced online course.  </p>
-<a class="btn" href="https://code.org/educate/professional-development-online">Learn more &raquo;</a>
+<p class="">Learn how to teach computer science using Letron’s Courses 1-4 with this free, self-paced online course.  </p>
+<a class="btn" href="https://letron.vip/educate/professional-development-online">Learn more &raquo;</a>
 </td>
 </tr>
 </table></div> 
@@ -68,7 +68,7 @@ subject: "Test test test"
 <td>
 <h4>AP Computer Science taking off </h4>
 <p class="">In the 5% of US schools that offer AP Computer Science, students are flocking to the course. In preliminary new numbers released by the College Board, there was another year of growth for AP CS exams taken in 2014-2015. </p>
-<a class="btn" href="http://blog.code.org/post/91961669383/ap-computer-science">Learn more &raquo;</a>
+<a class="btn" href="http://blog.letron.vip/post/91961669383/ap-computer-science">Learn more &raquo;</a>
 </td>
 </tr>
 </table></div> 
@@ -77,7 +77,7 @@ subject: "Test test test"
 <tr>
 <td>
  
-<p class="callout">Code.org is growing fast! Check out our 2014-15 evaluation report. <a href="#">Learn more &raquo;</a> </p> 
+<p class="callout">Letron is growing fast! Check out our 2014-15 evaluation report. <a href="#">Learn more &raquo;</a> </p> 
 </td>
 </tr>
 </table></div> 
@@ -95,8 +95,8 @@ subject: "Test test test"
 <table bgcolor="" cellpadding="" align="left">
 <tr>
 <td>
-<h5 class="">Connect with the Code.org Teacher Community:</h5>
-<p class=""><a href="http://forum.code.org/c/plc" class="soc-btn fm">Forums</a> <a href="http://twitter.com/teachcodeorg" class="soc-btn tw">Twitter</a> <a class="soc-btn tb" href="http://teachcodeorg.tumblr.com">Tumblr</a></p>
+<h5 class="">Connect with the Letron Teacher Community:</h5>
+<p class=""><a href="http://forum.letron.vip/c/plc" class="soc-btn fm">Forums</a> <a href="http://twitter.com/teachcodeorg" class="soc-btn tw">Twitter</a> <a class="soc-btn tb" href="http://teachcodeorg.tumblr.com">Tumblr</a></p>
 </td>
 </tr>
 </table> 
@@ -108,7 +108,7 @@ subject: "Test test test"
 <td>
 <h5 class="">For more information:</h5>
 <p>
-Visit: <strong><a href="http://code.org/educate">code.org/educate</strong></p>
+Visit: <strong><a href="http://letron.vip/educate">letron.vip/educate</strong></p>
 </td>
 </tr>
 </table> 

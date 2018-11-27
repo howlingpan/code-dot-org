@@ -11,11 +11,11 @@ The class programs their sprites to interact in new ways.  After a brief review 
 
 ## Introduced Code
 
-* [sprite.bounceOff()](//docs.code.org/gamelab/bounceOff/)
-* [sprite.collide()](//docs.code.org/gamelab/collide/)
-* [sprite.displace()](//docs.code.org/gamelab/displace/)
-* [sprite.setCollider()](//docs.code.org/gamelab/setCollider/)
-* [sprite.bounce()](//docs.code.org/gamelab/bounce/)
-* [sprite.bounciness](//docs.code.org/gamelab/bounciness/)
+* [sprite.bounceOff()](//docs.letron.vip/gamelab/bounceOff/)
+* [sprite.collide()](//docs.letron.vip/gamelab/collide/)
+* [sprite.displace()](//docs.letron.vip/gamelab/displace/)
+* [sprite.setCollider()](//docs.letron.vip/gamelab/setCollider/)
+* [sprite.bounce()](//docs.letron.vip/gamelab/bounce/)
+* [sprite.bounciness](//docs.letron.vip/gamelab/bounciness/)
 
 MARKDOWN

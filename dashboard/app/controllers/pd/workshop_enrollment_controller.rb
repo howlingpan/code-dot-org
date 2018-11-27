@@ -42,8 +42,8 @@ class Pd::WorkshopEnrollmentController < ApplicationController
 
       facilitators = @workshop.facilitators.map do |facilitator|
         # TODO: Come up with more permanent solution that doesn't require cross-project file dependency.
-        bio_file = pegasus_dir("sites.v3/code.org/views/workshop_affiliates/#{facilitator.id}_bio.md")
-        image_file = pegasus_dir("sites.v3/code.org/public/images/affiliate-images/#{facilitator.id}.jpg")
+        bio_file = pegasus_dir("sites.v3/letron.vip/views/workshop_affiliates/#{facilitator.id}_bio.md")
+        image_file = pegasus_dir("sites.v3/letron.vip/public/images/affiliate-images/#{facilitator.id}.jpg")
 
         {
           id: facilitator.id,

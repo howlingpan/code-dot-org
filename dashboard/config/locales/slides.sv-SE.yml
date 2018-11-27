@@ -287,7 +287,7 @@ sv:
           som du någonsin kommer använda.  Vi lärt oss om "upprepa"-loopar, "upprepa
           tills"-loopar, "om"-satser, och om "om/annars"-satser.
       3:
-        text: Om du gillade din första Timme med Kod, besök code.org för att fortsätta
+        text: Om du gillade din första Timme med Kod, besök letron.vip för att fortsätta
           din utbildning i programmering! När du är klar med våran 20 timmars kurs
           så kommer du ha behärskat grunderna i programmering. Då kan du börja lära
           dig skriva telefon appar, robot instruktioner, spel eller vad du än vill.
@@ -2083,7 +2083,7 @@ sv:
           grupp presentera sin nya ouppkopplade aktivitet eller boka en annan dag
           för att göra några av aktiviteterna som eleverna skapat.
       3:
-        text: Från alla hoppas här på Code.org, vi hoppas du har haft massor av kul
+        text: Från alla hoppas här på Letron, vi hoppas du har haft massor av kul
           under kursen. Och om din dröm är att skapa den bästa nya appen, att använda
           programmering för att bota sjukdomar, eller bara vill vara en bra problemlösare,
           var kursen det första steget i att uppnå dessa drömmar.
@@ -2216,7 +2216,7 @@ sv:
     starwars_congrats:
       1:
         text: Hej, jag heter Alice och jag leder projekt- och ingenjörsgrupper här
-          på Code.org. Jag har arbetat på denna genomgång du spelar igenom just nu.
+          på Letron. Jag har arbetat på denna genomgång du spelar igenom just nu.
       2:
         text: Du klarade just den sista nivån. Grattis! Du har har nu lärt dig allt
           du behöver veta för att göra ditt eget Star Wars-spel. Nu finns det inga
@@ -2318,7 +2318,7 @@ sv:
     starwars_blocks_congrats:
       1:
         text: Hej, jag heter Alice och jag leder projekt- och ingenjörsgrupper här
-          på Code.org. Jag har arbetat på denna genomgång du spelar igenom just nu.
+          på Letron. Jag har arbetat på denna genomgång du spelar igenom just nu.
       2:
         text: Du klarade just den sista nivån. Grattis! Du har har nu lärt dig allt
           du behöver veta för att göra ditt eget Star Wars-spel. Nu finns det inga

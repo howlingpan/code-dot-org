@@ -41,7 +41,7 @@ The best Hour of Code experience includes Internet-connected computers. אבל *
 
 **Show an inspirational video:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ The best Hour of Code experience includes Internet-connected computers. אבל *
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [Print "I did an Hour of Code!"](%= resolve_url('/promote/resources#stickers') %) stickers for your students.
-- [הזמן חולצות מותאמות אישית](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) לבית הספר שלך.
+- [הזמן חולצות מותאמות אישית](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) לבית הספר שלך.
 - שתפו תמונות וסרטוני וידאו של אירוע "שעה של קוד" ברשתות החברתיות. השתמשו בתג #HourOfCode ו@codeorg כדי שנוכל גם אנחנו להדגיש את הצלחתכם!
 
 [col-33]
@@ -98,8 +98,8 @@ The best Hour of Code experience includes Internet-connected computers. אבל *
 
 ## משאבים נוספים של "שעה של קוד" עבור אנשי חינוך:
 
-- Visit the [Hour of Code Teacher Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other educators. <% if @country == 'us' %>
-- Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Teacher Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other educators. <% if @country == 'us' %>
+- Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## איך ממשיכים אחרי "שעה של קוד"?
 

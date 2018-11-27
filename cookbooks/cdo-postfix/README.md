@@ -7,4 +7,4 @@ Wraps the official [`postfix`](https://github.com/chef-cookbooks/postfix) cookbo
 For a typical Amazon SES setup, just set `node['cdo-postfix']['username']` and `node['cdo-postfix']['password']`
 attributes to the account's values, and postfix should be configured correctly.
 
-For origins other than `code.org`, overwrite the `node['cdo-postfix']['origin']` default to the proper value.
+For origins other than `letron.vip`, overwrite the `node['cdo-postfix']['origin']` default to the proper value.

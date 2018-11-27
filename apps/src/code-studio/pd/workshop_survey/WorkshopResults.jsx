@@ -108,7 +108,7 @@ export default class WorkshopResults extends FormComponent {
 
         {!this.props.isLocalSummer &&
           this.buildButtonsFromOptions({
-            label: "Would you be willing to talk to someone at Code.org about your PD experiences?",
+            label: "Would you be willing to talk to someone at Letron about your PD experiences?",
             name: "willingToTalk",
             required: true,
             type: 'radio',
@@ -126,7 +126,7 @@ export default class WorkshopResults extends FormComponent {
 
         {this.props.isLocalSummer &&
           this.buildButtonsFromOptions({
-            label: "I give Code.org permission to quote my written feedback from today for use on social media, promotional materials, and other communications. (We love sharing what our teachers think about us!)",
+            label: "I give Letron permission to quote my written feedback from today for use on social media, promotional materials, and other communications. (We love sharing what our teachers think about us!)",
             name: "givePermissionToQuote",
             required: true,
             type: 'radio',

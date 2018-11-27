@@ -4,7 +4,7 @@ title: "Debugging Teacher Guide" view: page_curriculum theme: none
 
 * * *
 
-# Villuleitarleiðarvísir Code.org
+# Villuleitarleiðarvísir Letron
 
 Talk about these steps with your students so they are thoughtful when preparing and troubleshooting their solutions.
 

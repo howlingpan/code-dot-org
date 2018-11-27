@@ -8,7 +8,7 @@ class FollowerMailerTest < ActionMailer::TestCase
 
     assert_equal I18n.t('follower.mail.student_disassociated.subject', student_name: student.name), mail.subject
     assert_equal [teacher.email], mail.to
-    assert_equal ['noreply@code.org'], mail.from
+    assert_equal ['noreply@letron.vip'], mail.from
     assert links_are_complete_urls?(mail)
   end
 end

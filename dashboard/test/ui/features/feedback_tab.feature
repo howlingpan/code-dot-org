@@ -3,14 +3,14 @@ Feature: Feedback Tab Visibility
 
 Background:
   Given I create a teacher-associated student named "Lillian"
-  And I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/7?noautoplay=true"
+  And I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/7?noautoplay=true"
   Then I rotate to landscape
   And I wait to see "#runButton"
   And I submit this level
 
 Scenario: As student, 'Feedback' tab is not visible if no feedback
   #As student, see temporary text
-  And I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/7"
+  And I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/7"
   And element ".uitest-feedback" is not visible
 
 @no_ie
@@ -21,11 +21,11 @@ Scenario: As teacher, tab is invisible when not reviewing student work and visib
   Then I sign in as "Teacher_Lillian"
 
   #Not automatically visible on contained levels
-  Then I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/15"
+  Then I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/15"
   And element ".uitest-feedback" is not visible
 
   #Not automatically visible on un-contained levels
-  Then I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/7"
+  Then I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/7"
   And element ".uitest-feedback" is not visible
 
   #As teacher, reviewing work, submit feedback
@@ -51,7 +51,7 @@ Scenario: As teacher, tab is invisible when not reviewing student work and visib
   #As student, latest feedback from teacher is displayed
   Then I sign out
   And I sign in as "Lillian"
-  And I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/7"
+  And I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/7"
   And I press the first ".uitest-feedback" element
   And I wait until ".editor-column" contains text "Nice!"
   And element ".editor-column" contains text matching "Feedback from Teacher_Lillian\(From .* ago\)"

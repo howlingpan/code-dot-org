@@ -6,7 +6,7 @@ wrong 'There are no values of A and B that will make the output of the circuit t
 '
 markdown <<MARKDOWN
 The figure below shows a circuit composed of two logic gates. The output of the circuit is true.
-<br><img src="https://curriculum.code.org/media/uploads/csp/4eaa68a2a87b6dbce17d2a93c12a2f8d" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/4eaa68a2a87b6dbce17d2a93c12a2f8d" width="300"><br>
 Which of the following is a true statement about inputs A and B?
 MARKDOWN
 teacher_markdown <<MARKDOWN

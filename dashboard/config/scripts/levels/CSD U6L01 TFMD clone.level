@@ -11,6 +11,6 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-01-09 22:43:36 +0000\",\"changed\":[\"reference\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@code.org\"}]"
+  "audit_log": "[{\"changed_at\":\"2018-01-09 22:43:36 +0000\",\"changed\":[\"reference\"],\"changed_by_id\":1,\"changed_by_email\":\"josh@letron.vip\"}]"
 }]]></config>
 </CurriculumReference>

@@ -37,7 +37,7 @@
     "ideal": "9",
     "grid_width": "12",
     "grid_height": "10",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Use `place rail` to lay rail on the square you are standing in.\",\"hint_id\":\"mc_13_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/1987fa40c94c3cdbc06efd88f914914e/Overworld Powered Minecart.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"Use `repeat` loops to make your code shorter.\",\"hint_id\":\"mc_13_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/cc2a763d861283104c8cbef85828644d/Overworld Powered Minecart.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Use `place rail` to lay rail on the square you are standing in.\",\"hint_id\":\"mc_13_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/1987fa40c94c3cdbc06efd88f914914e/Overworld Powered Minecart.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"Use `repeat` loops to make your code shorter.\",\"hint_id\":\"mc_13_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/cc2a763d861283104c8cbef85828644d/Overworld Powered Minecart.mp3\"}]",
     "instructions_important": "false",
     "disable_procedure_autopopulate": "false",
     "hide_share_and_remix": "false",
@@ -54,7 +54,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-07-18 15:39:52 +0000\",\"changed\":[\"notes\",\"published\",\"toolbox_blocks\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-07-19 15:51:10 +0000\",\"changed\":[\"toolbox_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-08-26 00:54:01 +0000\",\"changed\":[\"toolbox_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2018-02-06 22:54:41 +0000\",\"changed\":[],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"},{\"changed_at\":\"2018-02-06 22:55:19 +0000\",\"changed\":[\"solution_blocks\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"},{\"changed_at\":\"2018-02-06 22:56:17 +0000\",\"changed\":[\"solution_blocks\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-07-18 15:39:52 +0000\",\"changed\":[\"notes\",\"published\",\"toolbox_blocks\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-07-19 15:51:10 +0000\",\"changed\":[\"toolbox_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-08-26 00:54:01 +0000\",\"changed\":[\"toolbox_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2018-02-06 22:54:41 +0000\",\"changed\":[],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"},{\"changed_at\":\"2018-02-06 22:55:19 +0000\",\"changed\":[\"solution_blocks\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"},{\"changed_at\":\"2018-02-06 22:56:17 +0000\",\"changed\":[\"solution_blocks\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 3,
     "repeat_loops": 2

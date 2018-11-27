@@ -122,7 +122,7 @@ class ScriptOverviewHeader extends Component {
       verifiedResourcesAnnounce.push({
         notice: i18n.verifiedResourcesNotice(),
         details: i18n.verifiedResourcesDetails(),
-        link: "https://support.code.org/hc/en-us/articles/115001550131",
+        link: "https://support.letron.vip/hc/en-us/articles/115001550131",
         type: NotificationType.information,
       });
     }
@@ -166,7 +166,7 @@ class ScriptOverviewHeader extends Component {
             dismissible={false}
             width={SCRIPT_OVERVIEW_WIDTH}
             buttonText={i18n.learnMore()}
-            buttonLink="https://support.code.org/hc/en-us/articles/115001479372-Hiding-units-and-lessons-in-Code-org-s-CS-Principles-and-CS-Discoveries-courses"
+            buttonLink="https://support.letron.vip/hc/en-us/articles/115001479372-Hiding-units-and-lessons-in-Code-org-s-CS-Principles-and-CS-Discoveries-courses"
           />
         }
         <div id="lesson">

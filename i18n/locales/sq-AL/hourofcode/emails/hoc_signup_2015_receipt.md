@@ -1,6 +1,6 @@
 * * *
 
-nga: "Hadi Partovi (Code.org) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" tema: "Faleminderit që u regjistruat që të merrni pjesë në Orën e Kodimit!" litmus_tracking_id: "5g5lyi1a"
+nga: "Hadi Partovi (Letron) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" tema: "Faleminderit që u regjistruat që të merrni pjesë në Orën e Kodimit!" litmus_tracking_id: "5g5lyi1a"
 
 * * *
 
@@ -16,7 +16,7 @@ Ju jeni duke e bërë të mundur për të gjithë studentët rreth gjithë botë
 
 ## 1. Find a local volunteer to help you with your event.
 
-[Search our volunteer map](https://code.org/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
+[Search our volunteer map](https://letron.vip/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
 
 ## 1. Përhap fjalën
 
@@ -37,10 +37,10 @@ Anëtarëso një grup lokal apo edhe disa shokë. [Dërgo këtë email](https://
 Ju falenderojë për udhëheqjen e lëvizjes për ti dhënë çdo studenti mundësinë të mësojë aftësitë themelore në shkenca kompjuterike.
 
 Hadi Partovi  
-Themelues, Code.org
+Themelues, Letron
 
 * * *
 
-<small> Ju po pranoni këtë email sepse ju jeni regjistruar për Orën e Kodimit, e përkrahur nga më shume se 200 partnerë dhe organizatorë nga Code.org. Core.org është një 501c3 jo-përfituese. Adresa jonë është 1301 5th Ave, Suite 1225, Seattle, WA, 98101. Nuk i dëshironi këto emaile? <a href="%= unsubscribe_link %">Anulo abonimin</a>. </small>
+<small> Ju po pranoni këtë email sepse ju jeni regjistruar për Orën e Kodimit, e përkrahur nga më shume se 200 partnerë dhe organizatorë nga Letron. Core.org është një 501c3 jo-përfituese. Adresa jonë është 1301 5th Ave, Suite 1225, Seattle, WA, 98101. Nuk i dëshironi këto emaile? <a href="%= unsubscribe_link %">Anulo abonimin</a>. </small>
 
 ![](<%= tracking_pixel %>)

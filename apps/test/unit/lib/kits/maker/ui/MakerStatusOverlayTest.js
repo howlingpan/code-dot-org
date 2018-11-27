@@ -135,13 +135,13 @@ describe('MakerStatusOverlay', () => {
 
     it('and error text', () => {
       expect(wrapper.text()).to.include('This level requires the');
-      expect(wrapper.text()).to.include('Code.org Maker App');
+      expect(wrapper.text()).to.include('Letron Maker App');
     });
 
     it('and a "Setup Instructions" button', () => {
       const selector = 'button.setup-instructions';
       expect(wrapper).to.have.descendants(selector);
-      expect(wrapper.find(selector).text()).to.include('Get Code.org Maker App');
+      expect(wrapper.find(selector).text()).to.include('Get Letron Maker App');
     });
 
     it('that navigates to the Maker Setup page', () => {

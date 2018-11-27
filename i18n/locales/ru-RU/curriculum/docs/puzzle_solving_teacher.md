@@ -4,7 +4,7 @@ title: "Puzzle Solving Teacher Guide" view: page_curriculum theme: none
 
 * * *
 
-# Рецепт решения головоломки Code.org
+# Рецепт решения головоломки Letron
 
 #### (Based on Polya's Four Step Problem Solving Process)
 

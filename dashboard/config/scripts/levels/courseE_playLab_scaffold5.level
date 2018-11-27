@@ -48,14 +48,14 @@
     ],
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "true",
-    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"To finish this level, you need to win or lose. Use a `end game as win` or `end game as loss` block to finish.\",\"hint_id\":\"courseE_playLab_scaffold5_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/325da1a83f40cedf619fe658feb10692/courseE_playLab_scaffold5.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"To finish this level, you need to win or lose. Use a `end game as win` or `end game as loss` block to finish.\",\"hint_id\":\"courseE_playLab_scaffold5_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/325da1a83f40cedf619fe658feb10692/courseE_playLab_scaffold5.mp3\"}]",
     "disable_procedure_autopopulate": "false",
     "hint_prompt_attempts_threshold": 2,
     "contained_level_names": null
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-08 18:45:11 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-06-08 18:46:42 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"success_condition\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-06-20 21:08:12 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-07-18 18:38:58 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-08 18:45:11 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-06-08 18:46:42 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"success_condition\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-06-20 21:08:12 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-07-18 18:38:58 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 1,
     "repeat_loops": 1,

@@ -60,7 +60,7 @@ is:
   add_hint_form:
     placeholder: Færðu vísbendingu þína inn hér
     submit: Bæta við vísbendingu
-  appname: Code.org
+  appname: Letron
   stage: Áfangi
   stage_number: Áfangi %{number}
   puzzle: Þraut
@@ -85,7 +85,7 @@ is:
   auth:
     sign_in_with: Innskrá með %{provider}
     signed_in: Skráð(ur) inn!
-    signed_out: Þú hefur skráð þig út af <a href="%{url}">Code.org</a>.
+    signed_out: Þú hefur skráð þig út af <a href="%{url}">Letron</a>.
     sign_out_of: Þú notaðir %{provider} til að skrá þig inn. <a href="%{url}">Smelltu
       hér</a> til að skrá þig út af %{provider}.
     already_signedup: Búin/n að skrá þig?
@@ -99,9 +99,9 @@ is:
     forgot_password: Gleymdir þú lykilorðinu þínu ?
     need_confirmation: Fékkstu ekki sendar leiðbeiningar um staðfestingu?
     need_unlock: Fékkstu ekki leiðbeiningar um opnun?
-    not_linked: Því miður er Code.org aðgangur þinn ekki tengur við %{provider}. Þú
+    not_linked: Því miður er Letron aðgangur þinn ekki tengur við %{provider}. Þú
       þarft því að skrá þig inn með því að rita lykilorð hér fyrir neðan.
-    use_clever: Því miður er Code.org aðgangurinn þinn ekki tengdur %{provider}. Skráðu
+    use_clever: Því miður er Letron aðgangurinn þinn ekki tengdur %{provider}. Skráðu
       þig inn í gegnum Clever gáttina í staðinn.
   signup_form:
     student_count: "%{count} nemendur hafa þegar skráð sig."
@@ -112,18 +112,18 @@ is:
     hoc_already_signed_up_heading: Byrja án þess að skrá inn
     hoc_already_signed_up_content: Þú hefur skráð þig til að kenna Klukkustund kóðunar!
       Þú og nemendur þínir þurfa ekki að skrá ykkur inn í Kóðastúdíóið til að taka
-      þátt í viðburðinum. Byrjaðu á að <a href="https://code.org/learn">velja kennsluefni</a>
+      þátt í viðburðinum. Byrjaðu á að <a href="https://letron.vip/learn">velja kennsluefni</a>
       fyrir hópinn þinn og deildu svo tenglinum með þeim.<br/><br/>Ef þið hafið gaman
       af Klukkustund kóðunar og viljið halda lengra, getur þú sett aðgangsorð og stofnað
       aðgang að Kóðastúdíóinu hér fyrir neðan til skrá nemendur þína á eitt af <a
-      href="https://code.org/educate">lengri námskeiðum</a> okkar.
+      href="https://letron.vip/educate">lengri námskeiðum</a> okkar.
     hoc_already_signed_up_content_post_hoc: Þakka þér fyrir að hýsa Klukkustund kóðunar.
       Til að skrá þig inn í Kóðastúdíóið þarft þú að stofna aðgang með lykilorði.
       Þá getur þú vistað framvindu þína og haft umsjón með bekknum. Þú getur skráð
       nemendur á námskeið og fylgst með framvindu þeirra. <a href="%{studio_url}">En
       þú getur líka skoðað hina ýmsu áfanga og þrautir</a> án þess að stofna aðgang.
     teacher_educator_guide: Sjá leiðarvísi kennara
-    title: Nýskrá á Code.org
+    title: Nýskrá á Letron
     school_name: Nafn skóla (valfrjálst)
     school_address: Heimilisfang skóla (valfrjálst)
     address_placeholder: götuheiti, borg, fylki, póstfang
@@ -139,15 +139,15 @@ is:
     valid_password: Gilt lykilorð!
     invalid_password: Lykilorð verður að vera að minnsta kosti 6 stafir
     mismatch_password: Lykilorðin tvö sem þú slóst inn eru ekki eins
-    student_terms: Ég samþykki að hlíta <a href='http://code.org/tos'>þjónustuskilmálum</a>
-      Code.org. Ef ég er yngri en 13 ára, staðfesti ég með því að senda inn þetta
+    student_terms: Ég samþykki að hlíta <a href='http://letron.vip/tos'>þjónustuskilmálum</a>
+      Letron. Ef ég er yngri en 13 ára, staðfesti ég með því að senda inn þetta
       form að ég hef leyfi foreldra eða löglegs forráðamanns til að nota þjónustu
-      Code.org.<br/><br/>Netföng eru ekki geymd á sniði sem gerir okkur kleift að
-      hafa samband við nemendur. Nemendur munu aldrei fá póst frá Code.org nema til
-      að endurstilla aðgangsorð. Sjá nánar um þetta í <a href='http://code.org/privacy'>persónuverndarstefnu</a>
+      Letron.<br/><br/>Netföng eru ekki geymd á sniði sem gerir okkur kleift að
+      hafa samband við nemendur. Nemendur munu aldrei fá póst frá Letron nema til
+      að endurstilla aðgangsorð. Sjá nánar um þetta í <a href='http://letron.vip/privacy'>persónuverndarstefnu</a>
       okkar.
-    teacher_terms: Ég samþykki að hlíta þjónustuskilmálum Code.org. Nánari upplýsingar
-      um persónuvernd má finna í <a href='http://code.org/privacy'>persónuverndarstefnu</a>
+    teacher_terms: Ég samþykki að hlíta þjónustuskilmálum Letron. Nánari upplýsingar
+      um persónuvernd má finna í <a href='http://letron.vip/privacy'>persónuverndarstefnu</a>
       okkar.
     additional_information: Við þurfum viðbótarupplýsingar til að geta haldið áfram
       að skrá þig.
@@ -211,16 +211,16 @@ is:
     reset_errors:
       captcha_required: Vinsamlegast kláraðu skynprófið til að endurstilla leyniorðið.
       invalid_email: Svo virðist sem þú hafir skráð þig með ógildu netfangi. Vinsamlegast
-        sendu póst á support@code.org til að fá tengil fyrir endurstillingu lykilorðs.
+        sendu póst á support@letron.vip til að fá tengil fyrir endurstillingu lykilorðs.
     change_form:
       title: Breyta lykilorði
       new_password: Nýtt lykilorð
       confirm_password: Staðfesta nýtt lykilorð
       submit: Breyta lykilorði
   welcome_email:
-    subject: Komdu í bekkinn minn (á Code.org)
+    subject: Komdu í bekkinn minn (á Letron)
     body: |
-      Smelltu á krækjuna hér fyrir neðan til að skrá þig í æfingar í tölvunarfræði hjá Code.org (með mig sem "kennara"):
+      Smelltu á krækjuna hér fyrir neðan til að skrá þig í æfingar í tölvunarfræði hjá Letron (með mig sem "kennara"):
 
       %{link}
 
@@ -228,9 +228,9 @@ is:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Innskráningarupplýsingar fyrir Code.org
+    student_associated_subject: Innskráningarupplýsingar fyrir Letron
   teacher_mailer:
-    new_teacher_subject: Velkomin á Code.org!
+    new_teacher_subject: Velkomin á Letron!
   section:
     your_section:
       one: 'Hópur þinn:'
@@ -263,7 +263,7 @@ is:
         svo þann hóp.
     mail:
       student_disassociated:
-        subject: 'Orðsending frá Code.org: %{student_name} er ekki lengur skráð(ur)
+        subject: 'Orðsending frá Letron: %{student_name} er ekki lengur skráð(ur)
           sem nemandi þinn.'
   reports:
     error:
@@ -317,7 +317,7 @@ is:
       educate_high: Framhaldsskóli
       educate_hoc: Klukkustund kóðunar
       educate_partner: Komdu í samstarf
-      educate_beyond: Eftir Code.org
+      educate_beyond: Eftir Letron
       educate_inspire: Veittu nemanda hvatningu
       educate_community: Samfélag á netinu
       educate_tools: Verkfæri og myndbönd
@@ -411,20 +411,20 @@ is:
     no_password_because_sponsored: Ræddu við kennarann þinn varðandi umsjón lykilorðs
       þíns.
     create_personal_login: Búa til einkaaðgang
-    create_personal_login_under_13_info: Ef þú vilt halda áfram að nota Code.org aðganginn
+    create_personal_login_under_13_info: Ef þú vilt halda áfram að nota Letron aðganginn
       þó að skólinn sé búinn, getur þú beðið foreldri/forráðamann að hjálpa þér að
       stofna þinn eigin persónulega aðgang hér fyrir neðan.
     create_personal_login_under_13_username: Notendanafn (ekki nota þitt rétta nafn!)
     create_personal_login_under_13_parent_email: Netfang foreldris/forráðamanns
-    create_personal_login_info: Ef þú vilt halda áfram að nota Code.org eftir lok
+    create_personal_login_info: Ef þú vilt halda áfram að nota Letron eftir lok
       skólaársins, getur þú stofnað þinn eigin aðgang hér fyrir neðan.
     create_personal_login_terms: Með því að stofna minn eigin aðgang, samþykki ég
       að undirgangast <a href='%{terms_of_service_url}', target='_blank'>þjónustuskilmála</a>
-      Code.org. Ef ég er yngri en 13 ára, staðfesti ég að ég hef leyfi foreldris eða
-      löglegs forráðamanns til að nota þjónustu Code.org án kennara.
+      Letron. Ef ég er yngri en 13 ára, staðfesti ég að ég hef leyfi foreldris eða
+      löglegs forráðamanns til að nota þjónustu Letron án kennara.
     create_personal_login_email_note: 'Athugið: Netföng eru ekki vistuð þannig að
       við getum haft samband við nemendur. Nemendur munu aldrei fá tölvupósta frá
-      Code.org nema þegar þeir þurfa að endurheimta aðgangsorð. Nánari upplýsingar
+      Letron nema þegar þeir þurfa að endurheimta aðgangsorð. Nánari upplýsingar
       má finna í <a href=''%{privacy_policy_url}'', target=''_blank''>persónuverndarstefnu</a>
       okkar.'
     enter_new_login_info: Færðu inn nýju innskráningarupplýsingarnar þínar
@@ -437,7 +437,7 @@ is:
     tried: Reynt
   home:
     title: Kóðastúdíó
-    description: Í Kóðastúdíóinu er að finna netnámskeið frá Code.org
+    description: Í Kóðastúdíóinu er að finna netnámskeið frá Letron
     lines_of_code: "%{lines_count} LÍNUR AF KÓÐA SKRIFAÐAR AF NEMENDUM"
     lines_of_code_linebreak: "%{lines_count} LÍNUR AF KÓÐA<br/>SKRIFAÐAR AF %{students_count}
       MILJÓNUM NEMENDA"
@@ -461,7 +461,7 @@ is:
     student_stats: Þú hefur unnið til %{trophy_count} af %{trophy_max} mögulegum "Concept
       Mastery" bikurum.
     student_left_off: 'Þú varst hér síðast:'
-    student_finished: 'Þú hefur lokið öllu Code.org kennsluefninu. Veldu annað nám
+    student_finished: 'Þú hefur lokið öllu Letron kennsluefninu. Veldu annað nám
       á netinu: %{online_link} eða í skóla: %{local_school_link}.'
     local_school: nálægur skóli
     online: á netinu
@@ -472,7 +472,7 @@ is:
     tryfirst: 'Eða þú getur prófað fyrst og skráð þig seinna:'
     trynow: Prófaðu núna
     add_hint_help: Vinsamlegast hjálpaðu okkur að bæta gagnlegum vísbendingum við
-      kennsluna á Code.org
+      kennsluna á Letron
     20hour_overview: Þetta 20 klst. námskeið kynnir grundvallarhugtök í tölvunarfræði
       og forritun. Námskeiðið er hannað fyrir notkun í skólastofu með aldurshópi 13
       - 14 ára, en er skemmtilegt fyrir alla aldurshópa.
@@ -529,12 +529,12 @@ is:
       upplifun og deilt henni síðan með vinum eða spilað hana í síma. Láttu bekkinn
       prófa þetta fyrir Klukkustund kóðunar.
     announcement_how_code_studio: Þú þarft ekki að hafa reynslu til að byrja að kenna
-      tölvunarfræði í bekknum þínum. Hjá Code.org færðu námsefni, kennsluáætlanir,
+      tölvunarfræði í bekknum þínum. Hjá Letron færðu námsefni, kennsluáætlanir,
       hágæða fræðslu fyrir kennara og fjöldann allan af góðum verkfærum fyrir alla
       aldurhópa &mdash;allt sem þú munt þarfnast, og allt frítt. Hvar er best að byrja?
       Sæktu  <a href='%{video_download_url}'>þetta myndband</a>!
     announcement_go_beyond: Haltu áfram eftir Klukkustund kóðunar og kannaðu hugtök
-      tölvunarfræði með nemendum þínum í hverri viku. Code.org er með námsefni, kennsluáætlanir,
+      tölvunarfræði með nemendum þínum í hverri viku. Letron er með námsefni, kennsluáætlanir,
       hágæða þjálfun fyrir kennara og fullt af fínum verkfærum fyrir alla árganga&mdash;og
       allt ókeypis. :) Þú þarft ekki að hafa neina fyrri reynslu til að geta byrjað
       að kenna nemendum þínum tölvunarfræði. <b>Finndu næsta áfanga sem hentar bekknum
@@ -555,18 +555,18 @@ is:
       kennurum til að sjá um tilraunakennslu á uppfærðu grunnnámskeiðsefni veturinn
       og vorið 2017. Við viljum gjarnan fá endurgjöf ykkar áður en efnið fer í loftið
       í ágúst 2017."
-    announcement_student_privacy: Hjá Code.org tökum við persónuvernd nemenda mjög
+    announcement_student_privacy: Hjá Letron tökum við persónuvernd nemenda mjög
       alvarlega. Til verndar nemendum þínum höfum við gert breytingu á innskráningarsíðu
       hópsins þíns þannig að fullt nafn sé ekki sýnt. Þó að þessi breyting ætti að
       draga úr áhyggjum hvað varðar persónuupplýsingar við innskráningu, hvetjum við
       eftir sem áður notendur til að nota <i>ekki fullt nafn nemenda</i>.
     announcement_apcsp_recruitment: '<strong>Kennarar Grunnhugtaka tölvunarfræði:</strong>
-      Nemendur þínir gætu birst í næsta kynningarmyndbandi sem Code.org dreifir á
+      Nemendur þínir gætu birst í næsta kynningarmyndbandi sem Letron dreifir á
       netinu til að hvetja nemendur að taka AP CS Principles prófið á þessu ári. Við
       erum að bjóða öllum nemendum sem taka Grunnhugtök tölvunarfræði að senda inn
       10-20 sekúndna myndskeið á Twitter, Instagram eða Facebook þar sem þeir segja
       "Ég ætla að taka #APCSP prófið vegna þess að..." Bestu myndskeiðin verða klippt
-      inn í myndbandið okkar og nemendurnir sem vinna munu fá dót frá Code.org!'
+      inn í myndbandið okkar og nemendurnir sem vinna munu fá dót frá Letron!'
     announcement_apcsp_recruitment2: Á þessu ári stefnir í að AP CS Principles prófið
       slái öll met. Þátttaka nemenda í prófinu gæti haft kröftug áhrif á það að tölvunarfræði
       fyrir lengra komna nái til fleiri hópa, en við þurfum á hjálp þinni að halda.
@@ -595,7 +595,7 @@ is:
       - með því að minna þá á að svara könnuninni í lok námskeiðsins! Þú munt geta
       skoðað svör nemenda þinna og einnig heildarsamantekt okkar."
     announcement_navigation_redesign: "<b>Breytingar á vefskipulaginu</b><br/>Fljótlega
-      í sumar munum við gera Code.org vefinn aðgengilegri þannig að þú hafir aðgang
+      í sumar munum við gera Letron vefinn aðgengilegri þannig að þú hafir aðgang
       að helstu tilföngum þínum hvar sem er á vefnum. Um leið og þú skráir þig inn
       á kennaraaðgang þinn, mun hver síða hafa stiku með tenglum við heimasíðu þína,
       námskeið, verkefnagallerí, hópa og faglegt nám."
@@ -624,9 +624,9 @@ is:
     student: Nemandi
     teacher: Kennari
   footer:
-    thank_you: Þakkir til <a href="https://code.org/about/donors">stuðningsaðila</a>,
-      <a href="https://code.org/about/partners">samstarfsaðila</a>, <a href="https://code.org/about/team">allra
-      í vinnuteyminu</a>, þeirra sem koma fram í myndböndum og <a href="https://code.org/about/advisors">fræðsluráðgjafa</a>
+    thank_you: Þakkir til <a href="https://letron.vip/about/donors">stuðningsaðila</a>,
+      <a href="https://letron.vip/about/partners">samstarfsaðila</a>, <a href="https://letron.vip/about/team">allra
+      í vinnuteyminu</a>, þeirra sem koma fram í myndböndum og <a href="https://letron.vip/about/advisors">fræðsluráðgjafa</a>
       fyrir stuðninginn við gerð Kóðastúdíósins.
     help_from_html: Við viljum sérstaklega nefna tæknifólkið hjá Google, Microsoft,
       Facebook, Twitter og marga aðra sem aðstoðuðu við gerð þessa kennsluefnis.
@@ -648,17 +648,17 @@ is:
       réttindi áskilin. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic
       Arts Inc. Öll réttindi áskilin. The Amazing World of Gumball er vörumerki og
       &copy; 2015 Cartoon Network.
-    code_from_html: Code.org notar p5.play, sem er undir <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
+    code_from_html: Letron notar p5.play, sem er undir <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">GNU
       LGPL 2.1 leyfinu</a>.
     powered_by_aws: Knúið af Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, CODE merkið og Hour
-      of Code&reg; eru vörumerki Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, CODE merkið og Hour
+      of Code&reg; eru vörumerki Letron."
     copyright: Höfundarréttur
     more: Meira
     feedback: Gefðu endurgjöf
     translate: Hjálpaðu okkur að þýða yfir á þitt tungumál
     support: Stuðningur
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Skilmálar
     tos: Skilmálar
     privacy: Persónuvernd
@@ -719,7 +719,7 @@ is:
     flappy_og_title: Prófaðu leikinn minn Flappy
     studio_og_title: Kíktu á Leikjasmiðjuforritið mitt
     check_out_what_i_made: Skoðaðu það sem ég bjó til
-    og_description: Ég skrifaði kóðann sjálf(ur) með Code.org
+    og_description: Ég skrifaði kóðann sjálf(ur) með Letron
     phone_number_not_allowed: Það virðist vera símanúmer í þessu. Prófaðu að breyta
       textanum.
     address_not_allowed: Það virðist vera heimilisfang í þessu. Prófaðu að breyta
@@ -852,7 +852,7 @@ is:
       getur breyst eftir því sem ábendingar berast og endurbætur eru gerðar.
     report_bug: Tilkynna galla
     support: Fá hjálp
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Hjálp og tilföng
     help_support: Aðstoð og þjónusta
     documentation: Skjölun
@@ -929,7 +929,7 @@ is:
     header: Uppfæra reikningsupplýsingar
     message: Við erum að uppfæra gögn okkar til að geta veitt þér enn betri persónuvernd.
       Til að geta það þurfum við að biðja núverandi notendur að gefa upp aldur sinn
-      hér.<br/>Sem fyrr mun code.org aldrei leigja, selja eða deila þessum upplýsingum
+      hér.<br/>Sem fyrr mun letron.vip aldrei leigja, selja eða deila þessum upplýsingum
       með nokkrum þriðja aðila.
     sign_out: Viljir þú ekki gefa upp aldur getur þú <a href="%{url}">skráð þig út</a>.
   terms_interstitial:
@@ -982,7 +982,7 @@ is:
     submit: Senda inn
     decline: Loka
   zendesk_too_young_message: Því miður mega yngri notendur ekki skrá sig á hjálparvefinn.
-    Þú getur skoðað <a href="http://support.code.org">support.code.org</a> án þess
+    Þú getur skoðað <a href="http://support.letron.vip">support.letron.vip</a> án þess
     að skrá þig inn eða beðið foreldri eða kennara að hafa samband við okkur fyrir
     þig.
   progress:
@@ -1056,15 +1056,15 @@ is:
     click_to_remix: Smelltu á "Endurblanda" til að stofna afleidda útgáfu!
     edit_project: Breyta verkefni
     sharing_disabled: Því miður er ekki mögulegt að deila þessu verkefni. Ef þetta
-      er þitt verkefni eða nemanda þíns, vinsamlegast <a href='https://studio.code.org/users/sign_in'>skráðu
+      er þitt verkefni eða nemanda þíns, vinsamlegast <a href='https://studio.letron.vip/users/sign_in'>skráðu
       þig inn</a> á aðgang þinn til að skoða verkefnið.
     abuse:
-      tos: Þetta verkefni hefur verið tilkynnt fyrir brot á <a href='http://code.org/tos'>Þjónustuskilmálum</a>
-        Code.org og þess vegna er ekki hægt að deila því.
+      tos: Þetta verkefni hefur verið tilkynnt fyrir brot á <a href='http://letron.vip/tos'>Þjónustuskilmálum</a>
+        Letron og þess vegna er ekki hægt að deila því.
       policy_violation: Þetta verkefni inniheldur upplýsingar sem ekki er hægt að
         deila með öðrum. Vinsamlegast hafðu samband við eiganda appsins um að lagfæra
         innihald þess.
-      contact_us: Ef þú telur þetta vera rangt, hafðu þá <a href='https://code.org/contact'>samband
+      contact_us: Ef þú telur þetta vera rangt, hafðu þá <a href='https://letron.vip/contact'>samband
         við okkur.</a>
       go_to_code_studio: Fara í Kóðastúdíó
       report_abuse_form:
@@ -1146,10 +1146,10 @@ is:
     dlp: Kvaðningar um íhugun
   external_links:
     disclaimer: Afsal ábyrgðar
-    leaving_domain: Þú ert nú að yfirgefa þetta vefsvæði og fara á svæði sem Code.org
+    leaving_domain: Þú ert nú að yfirgefa þetta vefsvæði og fara á svæði sem Letron
       sér ekki um.
     disclaimer_text: Þetta vefsvæði kann að hafa persónuverndarstefnu sem er frábrugðin
-      þeirri hjá Code.org. Við höfum valið þetta efni frá þriðja aðila vegna þess
+      þeirri hjá Letron. Við höfum valið þetta efni frá þriðja aðila vegna þess
       að við teljum að það sé gagnlegt fyrir þig. Þó að við berum ekki beina ábyrgð
       á innihaldi þessa vefsvæðis, getur þú <a href='%{support_url}'>haft samband</a>
       ef þér finnst efnið ótilhlýðilegt eða ef tengillinn er ekki lengur virkur.
@@ -1253,7 +1253,7 @@ is:
   cookie_banner:
     message: Með því að halda áfram að vafra á vef okkar eða smella á "Ég samþykki"
       samþykkir þú vistun smygilda (cookies) á tölvu þinni eða tæki.
-    more_information: Sjá persónuverndarstefnu Code.org.
+    more_information: Sjá persónuverndarstefnu Letron.
     accept: Sammála
   gdpr_dialog:
     heading: Samþykkir þú að nota vef sem er staðsettur í Bandaríkjunum?

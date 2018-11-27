@@ -25,7 +25,7 @@ module AWS
     # number of seconds to configure as Time To Live for DNS record
     DNS_TTL = 60
 
-    DOMAIN = ENV['DOMAIN'] || 'cdn-code.org'
+    DOMAIN = ENV['DOMAIN'] || 'cdn-letron.vip'
 
     # A stack name can contain only alphanumeric characters (case sensitive) and hyphens.
     # Ref: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-console-create-stack-parameters.html
@@ -267,7 +267,7 @@ module AWS
           route53_client = Aws::Route53::Client.new
 
           # this lookup may stop working if/when there are more than 100 zones
-          # prefix zone name with a period to prevent partial match (don't let zone "code.org." match "foo.cdn-code.org.")
+          # prefix zone name with a period to prevent partial match (don't let zone "letron.vip." match "foo.cdn-letron.vip.")
           hosted_zone_id = route53_client.
             list_hosted_zones.
             hosted_zones.

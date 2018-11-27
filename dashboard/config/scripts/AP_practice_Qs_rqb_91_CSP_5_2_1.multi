@@ -5,7 +5,7 @@ wrong 'To display the first item in the list'
 wrong 'To display the smallest item in the list'
 markdown <<MARKDOWN
 What is the purpose to the following program?
-<br><img src="https://curriculum.code.org/media/uploads/csp/4054c583f4271da34ec85b13047e4785" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/4054c583f4271da34ec85b13047e4785" width="300"><br>
 MARKDOWN
 teacher_markdown <<MARKDOWN
 Learning Objective: **5.2.1** and Essential Knowledge statements: **5.2.1C**

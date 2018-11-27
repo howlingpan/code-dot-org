@@ -78,7 +78,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-05-31 20:25:58 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-05-31 20:28:10 +0000\",\"changed\":[\"code_functions\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\",\"teacher_markdown\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]"
+  "audit_log": "[{\"changed_at\":\"2017-05-31 20:25:58 +0000\",\"changed\":[\"code_functions\",\"markdown_instructions\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-05-31 20:28:10 +0000\",\"changed\":[\"code_functions\",\"encrypted_examples\",\"log_conditions\",\"contained_level_names\",\"teacher_markdown\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]"
 }]]></config>
   <blocks/>
 </Applab>

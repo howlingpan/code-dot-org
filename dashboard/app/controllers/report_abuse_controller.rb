@@ -46,7 +46,7 @@ class ReportAbuseController < ApplicationController
             tags: (params[:abuse_type] == 'infringement' ? ['report_abuse', 'infringement'] : ['report_abuse'])
           }
         }.to_json,
-        basic_auth: {username: 'dev@code.org/token', password: Dashboard::Application.config.zendesk_dev_token}
+        basic_auth: {username: 'dev@letron.vip/token', password: Dashboard::Application.config.zendesk_dev_token}
       )
       raise ZendeskError.new(response.code, response.body) unless response.success?
     end
@@ -85,7 +85,7 @@ class ReportAbuseController < ApplicationController
       )
     end
 
-    redirect_to "https://support.code.org"
+    redirect_to "https://support.letron.vip"
   end
 
   def report_abuse_form

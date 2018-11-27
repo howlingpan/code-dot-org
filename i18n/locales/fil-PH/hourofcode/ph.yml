@@ -11,7 +11,7 @@ ph:
   campaign_date_full: "Disyembre 4-10"
   campaign_date_year: "2017"
   campaign_date_full_year: "Disyembre 4-10, 2017"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ ph:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Sumali sa pinakamalaking kaganapan ng pag-aaral sa kasaysayan, %{campaign_date}'
   front_intro_default: 'Ang Hour of Code ay isang pandaigdigang kilusan para maabot ang milyung-milyong mga estudyante sa 180+ na mga bansa. Kahit sino, kahit saan ay maaaring mag-organisa ng kaganapan ng Hour of Code. Isang oras na pagtuturo ay pwede sa mahigit 45 na wika. Hindi kailangan ng karanasan. <strong>Mga 4 hanggang 104 na gulang.</strong>'
@@ -186,7 +186,7 @@ ph:
   how_to_nav_afterschool_educators: "Para sa mga tagapagturo pagkatapos ng klase"
   how_to_nav_volunteers: "Para sa mga bokuntaryo"
   whats_next_header: "Ano na ang susunod?"
-  whats_next_description: "Papadalhan namin kayo ng mga materyales at nakakatulong na mga payo para sa iyong kaganapan. <a href='http://code.org/learn'>Subukan ang kaslukuyang mga pagtuturo</a> para sa kahit anong browse, smartphon - or kahit walang computer!"
+  whats_next_description: "Papadalhan namin kayo ng mga materyales at nakakatulong na mga payo para sa iyong kaganapan. <a href='http://letron.vip/learn'>Subukan ang kaslukuyang mga pagtuturo</a> para sa kahit anong browse, smartphon - or kahit walang computer!"
   whats_next_how_to: "<a href='/how-to'>Paano magpatakbo ng Hour of Code</a>"
   whats_next_promote: "<a href='/promote'>Ilunsad ang Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Paano ilunsad ang Hour of Code</a>"
@@ -212,7 +212,7 @@ ph:
   front_join_us_tutorials: "Piliin ang iyong pagtuturo sa Hour of Code!"
   front_join_us_tutorials_link: 'Salain at mag-browse <i>mahigit 200 na mga pagtuturo at mga plano ng aralin</i>! Maghanap ng mga aktibidad para sa iba''t ibang mga asignatura, maraming mga pangangailangan ng hardware, at mga estudyante sa anumang antas ng karanasan.'
   front_join_us_robotics: 'Manalo ng robots o circuits!'
-  front_join_us_robotics_link: 'Gusto mo ba ng isang set ng robot o pisikl na computing kits para gamitin sa mga estudyante mo? Ang aming mga mapagbigay na kasosyo ay magbibigay ng mga set sa mahigit 100 na mga silid-aralan! Mag-sign up para sa Hour of Code upang makilahok. (Ang mga silid-aralan na pinili ng Code.org, sa US lamang)'
+  front_join_us_robotics_link: 'Gusto mo ba ng isang set ng robot o pisikl na computing kits para gamitin sa mga estudyante mo? Ang aming mga mapagbigay na kasosyo ay magbibigay ng mga set sa mahigit 100 na mga silid-aralan! Mag-sign up para sa Hour of Code upang makilahok. (Ang mga silid-aralan na pinili ng Letron, sa US lamang)'
   front_join_us_teacher: 'Isa ka bang guro?'
   front_join_us_inspire: 'Mag-inspire ng mga estudyante gamit ang'
   front_join_us_inspire_link: 'Hour of Code sa classroom.'
@@ -238,8 +238,8 @@ ph:
   front_join_us_sign_up: "Magpalista"
   front_join_us_host: "I-host ito"
   front_join_us_support: "Tumulong"
-  front_join_us_more_info: "Para sa karagdagang impormasyon, mangyaring bisitahin ang <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "Para sa karagdagang impormasyon, mangyaring bisitahin ang code.org"
+  front_join_us_more_info: "Para sa karagdagang impormasyon, mangyaring bisitahin ang <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "Para sa karagdagang impormasyon, mangyaring bisitahin ang letron.vip"
   front_join_us_n_students_served: "# naglingkod"
   front_join_us_challenge: "Manalo ng isang video chat para sa iyong classroom kasama ang isang tanyag na tao!"
   front_join_us_learn_more: "Matuto ng higit pa"
@@ -267,7 +267,7 @@ ph:
   signup_your_event: 'I sign up ang iyong event'
   signup_host_an_hour: 'Mag host ng Hour'
   signup_match_volunteer: 'Tulungan mo akong makahanap ng isang lokal na software engineer para bigyang-inspirasyon ang aking mga estudyante'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ ph:
   signup_continue_label: 'Magpatuloy'
   signup_thank_you_header: "Salamat sa pagsali at pagsisimula ng mga aktibidad tungkol sa Hour of Code."
   signup_thank_you_message: 'Nagpadala na kami ng kumpirmasyon sa iyong email kasama ang importasyon upang makapagsimula.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ ph:
   hoc_faq_host_q: "Wala akong alam sa coding. Maaari parin ba akong mag hawak ng event?"
   hoc_faq_host_a: "Siyempre. Ang mga aktibidad ng Hour of code ay sariling-gabay. Ang kailangan mo lang gawin ay <a href='%{codeorg_url}/learn'>subukang ang kasalukuyan naming mga pagtuturo</a>, pumili ng pagtuturo na gusto mo, at pumili ng oras &mdash; kami na ang bahala sa iba. Mayroon din tayong mga pagpipilian sa bawat edad at antas ng karanasan, mula sa kindergarten pataas. Simulan ang pagpaplano ng iyong kaganapan sa pamamagitan ng pagbabasa ng aming <a href='/how-to'> ng kung paano-gawin na gabay</a>."
   hoc_faq_devices_q: "Anong mga aparato ba ang dapat kung gamitin para sa aking mga estudyante?"
-  hoc_faq_devices_a: "Ang pagtuturo ng Code.org ay gumagana s lahat ng mga aparato at mga browsers. Makikita mo ang higit pang mga impormasyon tungkol sa mga kailangan ng tech n pagtuturo sa Code.org <a href='%{codeorg_url}/educate/it'>dito</a>. Ang mga kailangan ng tech na pagtuturo sa non-Code.org ay pwedeng mahanap sa <a href='%{codeorg_url}/learn'>%{partner_url}/matuto</a>sa mga pagtuturo partikular na paglalarawan. Huwag kalimutan na nag-aalok din kami ng <a href='%{unplugged_url}'>mga aktibidad na unplugged</a> kung ng iyong paaralan ay hindi mapaunlakan ang mga pagtuturo!"
+  hoc_faq_devices_a: "Ang pagtuturo ng Letron ay gumagana s lahat ng mga aparato at mga browsers. Makikita mo ang higit pang mga impormasyon tungkol sa mga kailangan ng tech n pagtuturo sa Letron <a href='%{codeorg_url}/educate/it'>dito</a>. Ang mga kailangan ng tech na pagtuturo sa non-Letron ay pwedeng mahanap sa <a href='%{codeorg_url}/learn'>%{partner_url}/matuto</a>sa mga pagtuturo partikular na paglalarawan. Huwag kalimutan na nag-aalok din kami ng <a href='%{unplugged_url}'>mga aktibidad na unplugged</a> kung ng iyong paaralan ay hindi mapaunlakan ang mga pagtuturo!"
   hoc_faq_need_computers_q: 'Kelangan ko ba ng mga kompyuter sa bawat kasali?'
   hoc_faq_need_computers_a: "Hindi. Mayroon tayong mga pagtuturo ng Hour of Code na gumagana sa mga PC, smartphones, tablets, at ang ilan ay hindi na nangangailangan ng computer! Pwede kang sumali kahit na saan ka pa, ng kung ano man ang mayroon ka.<p> <i>Narito ng ilang mga pagpipilian:</i> <br> <ul> <li> <b>Magtrabaho ng pares-pares.</b> <a href='%{pair_programming_research}'>Pinapakita sa pananaliksik</a>mas natututo ng mga estudyante kapag<a href='%{pair_programming_video}'>pag-programming ng pares</a>, pagbabahagi ng isang computer at nagtutulungan. Hikayatin ang iyong mga estudyante na magbahagi. <li><b> Gumamit ng isang projected screen.</b> Kung mayroon kang projector at screen para sa web-connected na computer, ang iyong buong grupo ay pwdeng gawin ang Hour of Code ng sabay-sabay. Panoorin ang mga bahagi ng video ng sabay-sabay at magsalitan sa paglutas ng mga puzzle o sa pagsagot ng mga katanungan. <li><b> Mag-unplugged.</b> Nag-aalok kami ng <a href='%{unplugged_url}'>mga pagtuturo na hindi nangangailangan ng computer</a>sa lahat. </ul>"
   hoc_faq_international_q: "Nasa <country> ako. Paano ako makakasali?"
@@ -350,7 +350,7 @@ ph:
   hoc_faq_high_school_q: "Aling aktibidad ba ang dapat kung gawin sa mga estudyante ng high school?"
   hoc_faq_high_school_a: "Ating mga tutorial sa Star Wars at Minecraft ay mahusay para sa mga high schoolers, lalo na ang mga bersyon sa Star Wars JavaScript at ang malayang Maglaro antas sa parehong tutorial. Halili, inirerekomenda namin na subukan ang isa sa mga tutorial para sa baguhan sa <a href='%{codeorg_url}/learn'>%{partner_url}/malaman</a> upang simulan, tulad ng tutorial sa Angry Birds o kasama si Anna at Elsa. Isang estudyante ng high school ay dapat na tapusin ang isa sa mga ito sa loob ng 30 minuto at pagkatapos ay subukan ang isang mas advanced na tutorial sa JavaScript, tulad ng mga Khan Academy o CodeHS."
   hoc_faq_scratch_q: "Ginagawa ko ang Scratch para sa Hour of Code, ngunit paano kung ang mga estudyante ko ay may Ipads sa halip na laptops?"
-  hoc_faq_scratch_a: "Ang scratch ay hindi gumagana sa tablets. Kung ang mga estudyante mo ay mga bata pa, pwede nilang gamitin ang ScratchJR Pad app (para sa mga maaagang-mambabasa). Kung titignan mo ang mga pagtuturo sa <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, makakahanap ka ng ibang mga pagtuturo na gumagana sa iPads - mula sa Code.org, Tynker, Lightbot, o CodeSpark."
+  hoc_faq_scratch_a: "Ang scratch ay hindi gumagana sa tablets. Kung ang mga estudyante mo ay mga bata pa, pwede nilang gamitin ang ScratchJR Pad app (para sa mga maaagang-mambabasa). Kung titignan mo ang mga pagtuturo sa <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, makakahanap ka ng ibang mga pagtuturo na gumagana sa iPads - mula sa Letron, Tynker, Lightbot, o CodeSpark."
   hoc_faq_count_hoc_q: "Paano mo binibilang ang mga Hour of Code?"
   hoc_faq_map_q: "Bakit hindi ko makita ang aking tuldok sa mapa?"
   hoc_faq_map_a: "Humihingi kami ng paumanhin kung hindi mo makita ang iyong kaganapan sa mapa ng Hour of Code. Dahil sa sampu-sampung libo na mga organiser ang nag-sign up, binuo ng mapa ang mga datos at nagpakita ng iisang punto para sa ilang mga kaganapan. Kung iki-click mo ang numerong nasa taas ng mapa ay idi-direkta ka nito sa listahan ng lahat ng mga kaganapan ayun sa estado at makikita mong nakalista ang kaganaoan mo doon. Bukod pa rito, sa libong mga taong nag-sign up sa Hour of Code, ang mata at ang listahan ng mga kaganapan ay inaabot ng 48 na oras para mag-update. Tignan mo ulit pagkatapos ng ilang araw!"
@@ -358,7 +358,7 @@ ph:
   hoc_faq_one_hour_q: "Gaano kadami ang matutunan ng isang tao sa isang oras?"
   hoc_faq_one_hour_a: 'Ang layunin ng oras ng Hour of Code ay hindi turuan ang sino man upang maging isang dalubhasang siyentipiko ng computer sa loob ng isang oras. Ang isang oras ay sapat lamang upang matutuhan na ang computer science ay masaya at malikhain, na ito ay naa-access ng lahat ng edad, para sa lahat ng mga estudyante, anuman ang pinagmulan. Ang sukatan ng tagumpay ng kampanya na ito ay hindi sa kung gaano karami ang natutunan mga estudyante sa CS - ang tagumpay ay masasalamin sa malawak na pakikilahok sa iba ''t ibang kasarian at ang mga grupo ng etniko at Sosyo-ekonomiko, at ang resultang pagtaas sa pagpapatala at partisipasyon sa mga kurso ng CS sa lahat ng  mga antas. Milyun-milyong kalahok na mga guro at mga estudyante ay nagpasya na lumagpas sa isang oras - upang matuto ng isang buong araw o isang buong linggo o mas matagal, at nagpasiya ang marami sa mga estudyante na mag-enrol sa isang buong kurso (o maging isang pangunahing kolehiyo) bilang isang resulta. <br/> <br/> Bukod sa mga estudyante, ang isa pang "estudyante" ang mga tagapagturo na nagkamit ng tiwala sa sarili pagkatapos ng isang oras na sila ay maaaring magturo ng computer science kahit na sila ay hindi magkaroon ng degree sa kolehiyo bilang isang siyentipiko sa kompyuter. Sampung libong mga guro ay magpasya upang ituloy pa ang computer science, alinman sa pagdalo sa mga PD o nag-aalok ng mga follow-on online na mga kurso, o pareho. At ito ay angkop din sa mga administrator ng paaralan, na natatanto na ang computer science ay isang bagay na gusto ng kanilang mga estudyante at ang kanilang mga guro ay may kakayahan. <br/> <br/> Higit sa lahat, ano ang matututuhan ng lahat ng mga kalahok sa isang oras ay magagawa natin ito.'
   hoc_faq_more_questions_q: "May iba ka pa bang katanungan?"
-  hoc_faq_more_questions_a: "Subukan na makahanap ng sagot sa aming <a href='http://support.code.org'>support forum</a>."
+  hoc_faq_more_questions_a: "Subukan na makahanap ng sagot sa aming <a href='http://support.letron.vip'>support forum</a>."
   hoc_faq_keep_learning_q: "Paano ba ako patuloy na matututo pagkatapos ng Hour of Code?"
   hoc_faq_keep_learning_a: "Kahit sino ay pwede mag-host ng Hour of Code sa anumang oras. Ang mga pagtuturo itong ay magagamit buong taon. Maaasahan mong ang lahat naming mga pagtuturo at kurikulum na maaring makuha sa aming site ay walang katapusan. Mangyaring pumunta sa <a href='/promote'>sa mga pinagkukunan</a>para sa paano-gawin na mga gabay sa kaganapan at ibang pinagkukunan para makatulong sa sa tagumpay ng kaganapan ng Hour of Code."
   hoc_faq_certificates_q: "Saan ko ba pwedeng i-print ang mga sertipiko para sa aking mga estudyante?"
@@ -469,8 +469,8 @@ ph:
   highlights_constant_ny_short_heading: Natalo ng Brooklyn ang Chicago
   highlights_constant_athletes_heading: Ang mga kampeon at may mga gintong medalya na sina Serena Williams, Neymar Jr, Carmelo Anthony at higit pang napukaw na mga estudyante na magpursige.
   highlights_constant_athletes_short_heading: Itulak ang iyong sarili
-  footer_copyright_message: 'Hindi maaring ankinin. Pagmamay-ari ng Code.org 2015.'
-  footer_trademark_message: 'Ang Hour of Code™ ay pagmamay-ari ng Code.org.'
+  footer_copyright_message: 'Hindi maaring ankinin. Pagmamay-ari ng Letron 2015.'
+  footer_trademark_message: 'Ang Hour of Code™ ay pagmamay-ari ng Letron.'
   footer_menu_partners: 'Partners'
   footer_menu_contact: 'Makipag-ugnay sa Amin'
   footer_menu_support: 'Suportahan'
@@ -506,7 +506,7 @@ ph:
   tutorial_spritebox_name: "Coding ng Spritebox"
   tutorial_tynkerch_name: "Counter na Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder para sa bagong code.org/hoc"
+  tutorial_hoc_name: "Placeholder para sa bagong letron.vip/hoc"
   tutorial_code_name: "Isulat ang iyong unang computer program"
   tutorial_tinspire_name: "10 Minuto na Code para sa TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH na Tumatalbog na Bola (sa Scratch)"
@@ -1086,7 +1086,7 @@ ph:
   tutorial_spritebox_shortdescription: "Tumakbo, tumalo, at mag-code ng sariling paraan sa pamamagitan ng tatlong iba't ibang mga mundo para kolektahin ang mga butuin at matapos ito hanggang sa katapusan! Matuto ng pagkakasunod-sunod, pag-aayos ng bug, at mga silo, at mag-code sa Swift, Java, or sa Icons."
   tutorial_tynkerch_shortdescription: "Matuto ng Javascript habang tinatalo mo ang mga virus!"
   tutorial_lightbot_shortdescription: "I-program ang Lightbot para masagutan ang mga palaisipan gamit ang mga pamamaraan at mga loop!"
-  tutorial_hoc_shortdescription: "Placeholder para sa bagong code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder para sa bagong letron.vip/hoc"
   tutorial_code_shortdescription: "Matuto mag-code kasama si Mark Zuckerberg at ang Angry Birds!"
   tutorial_tinspire_shortdescription: "Hayaan ang mga estudyante na mag-umpisang mag-code sa kanilang TI-Nspire CX handhelds sa 10 minuto lamang sa bawat pagkakataon."
   tutorial_itchbounceball_shortdescription: "Gamitin ang ITCH - Scratch integrated na may isang video na aralin upang makagawa ng sariling bouncing ball na proyekto"
@@ -1666,7 +1666,7 @@ ph:
   tutorial_spritebox_longdescription: "Tumakbo, tumalo, at mag-code ng sariling paraan sa pamamagitan ng tatlong iba't ibang mga mundo para kolektahin ang mga butuin at matapos ito hanggang sa katapusan! Matuto ng pagkakasunod-sunod, pag-aayos ng bug, at mga silo, at mag-code sa Swift, Java, or sa Icons."
   tutorial_tynkerch_longdescription: "Isalba ang computer mula sa isang pinaghihinalaang virus! Kailangan mong ma-hack ang daan papunta sa sistema sa pamamagitan ng pagbura ng virus, pagbukas ng mga pinto, paglutas ng mga kalituhan, at paghahanap ng mga lagusan. Mag-ingat sa mga virus at mga glitch!"
   tutorial_lightbot_longdescription: "Ang Lightbot ay isang laro na humihiling sa mga manlalaro na gamitin ng lohika ng programming para lutasin ang mga palaisipan! Makakuha ng isang praktikal na pagkakaunawa sa pangunahing kaalaman sa mga konsepto ng coding sa pamamagitan ng pag-gabay sa Lightbot na pailawin lahat ng asul na mga tile sa baway antas. Matuto kung paano pagsunod-sunurin ang mga panuto, magsulat ng mg paraan, at gamitin ang loops sa buong pansariling gabay na aktibidad. Maganda para sa lahat ng edad at lahat ng antas ng kasanayan."
-  tutorial_hoc_longdescription: "Placeholder para sa bagong code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder para sa bagong letron.vip/hoc"
   tutorial_code_longdescription: "Matutunan ang pangunahing kaalaman ng mga konsepto sa Computer Science sa drag at drop programming. Ito ay kagaya ng laro, ang pagtuturong ito ay pansarili na pinagbibidahan ang mga video ng pagtuturo ni Bill Gates, Mark Zuckerberg, Angry Birds at Plants vs. Zombies. Matuto ng inuulit n loops, conditionals, at pangunahing kaalaman sa algorithms. Mayroon na sa 37 na mga wika."
   tutorial_tinspire_longdescription: "Ipakilala sa mga estudyante ang pangunahing kaalaman sa coding - sa loob ng 10 minuto sa bawat oras - gamit ang IT technology na dala-dala nila sa kanilang bag araw-araw. Itong mga aralin ay nagbibigay sa mga estudyante ng madaling pagpasok sa programming  na pwedeng makatulong na kumislap ang interes  nila sa coding at computer science. Ang mga estudyante  ay magsusulat ng mga programa  na magpapalakas ng konsepto ng matematika  gamit ng TI na pangunahing kaalaman sa wika na handa ng gamitin  sa kanilang TI-Nspire na hawak kamay."
   tutorial_itchbounceball_longdescription: "Ipakikita ko sa iyo sa pamamagitan ng  pagpapakilala sa Itch,  sa paggamit ng Scratch visual programming na wika.\n\nAng araling ito ay naglalaan ng direksyon na video at  text para sa mga code na kailangang idagdag para makuha ang tumatalbog-talbog na bola sa paligid ng screen.\n\nKapag ang mga estudyante  ay na kumpleto ang aktibidad na ito ay mayroong oportunidad para siyasatin ang ideya para sa mga pagbabago at mga aktibidad na ginawa. Walang nakatakdang layunin o kalalabasan dahil ito ay bukas na kapaligiran para sa pag-aaral, ngunit sa pang-umpisang code na ito ang mga estudyante ay nagkaroon ng kamangha-manghang mga proyekto!\n\nLahat ng panuto ay nakapaloob sa paligid ng Itch para hindi na kailangang magpalit ng screen  para masundan ang buong proyekto. Ang Headphones ay iniri-rekomenda."

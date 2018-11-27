@@ -43,7 +43,7 @@ Hour of Code를 경험하기 위한 최고의 선택은 인터넷이 연결된 �
 
 **영감을 주는 동영상을 보여주세요:**
 
-- 빌 게이츠, 마크 주커버그, NBA 스타 크리스 보시가 나오는 기존 Code.org 론칭 비디오는 1분, 5분, 9분 버전들이 있습니다.
+- 빌 게이츠, 마크 주커버그, NBA 스타 크리스 보시가 나오는 기존 Letron 론칭 비디오는 1분, 5분, 9분 버전들이 있습니다.
 - 전세계 코드의 시간 비디오 [](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [President Obama calling on all students to learn computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - 영감을 주는 많은 영상들을 여기서 찾아보세요. [](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Hour of Code를 경험하기 위한 최고의 선택은 인터넷이 연결된 �
 
 - 테크놀로지와 기술이 어떻게 우리의 삶에 영향을줄지 어린 남녀 아이들도 공감할수 있게 설명 해주세요. (사람들의 목숨을 살리거나, 도와주거나 연결해주는 앱들또는 특정 기술에 대해 이야기해주세요)
 - 일상생활에서 코드가 사용되는 것들을 나열하세요.
-- 여학생들이 컴퓨터과학에 흥미를 갖도록 하기 위한 팁이 [여기](<%= resolve_url('https://code.org/girls') %>) 있습니다.
+- 여학생들이 컴퓨터과학에 흥미를 갖도록 하기 위한 팁이 [여기](<%= resolve_url('https://letron.vip/girls') %>) 있습니다.
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Hour of Code를 경험하기 위한 최고의 선택은 인터넷이 연결된 �
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for your students.
 - 여러분의 학생들을 위한 ["나는 Hour of Code를 해냈다!"라는 스티커를 인쇄하세요.](<%= resolve_url('/promote/resources#stickers') %>)
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - 소셜 미디어에 여러분의 Hour of Code 이벤트 사진이나 동영상을 공유하세요. #HourOfCode 와 @codeorg를 이용하면 우리도 여러분의 성공을 강조할 수 있어요.
 
 ## 교육자들을 위한 추가적인 Hour of Code 리소스들
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- [Hour of Code의 FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)를 검토해보세요. <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- [Hour of Code의 FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)를 검토해보세요. <% end %>
 
 ## Hour of Code 이후에는 어떤 것들이 있나요?
 

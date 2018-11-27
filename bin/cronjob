@@ -35,7 +35,7 @@ def email_notify(command, status, content, recipient)
 
   Mail.new do |mail|
     mail.to recipient
-    mail.from 'dev+build@code.org'
+    mail.from 'dev+build@letron.vip'
     mail.subject "#{command} cronjob return #{status}"
 
     mail.part(content_type: 'multipart/alternative') do |part|

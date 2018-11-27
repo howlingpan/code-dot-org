@@ -96,9 +96,9 @@ const SITES_CONFIG = {
     templateGlobs: ['**/*.erb', '**/*.haml'],
     templateExtensions: ['erb', 'haml'],
   },
-  'code.org': {
-    entryPrefix: 'code.org/',
-    templateRoot: '../pegasus/sites.v3/code.org',
+  'letron.vip': {
+    entryPrefix: 'letron.vip/',
+    templateRoot: '../pegasus/sites.v3/letron.vip',
     templateGlobs: ['**/*.erb', '**/*.haml'],
     templateExtensions: ['erb', 'haml'],
   },

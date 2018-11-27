@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: http://code.org/curriculum/docs/k-5/tableofcontents.pdf
+    uri: http://letron.vip/curriculum/docs/k-5/tableofcontents.pdf
     body:
       encoding: US-ASCII
       string: ''
@@ -23,7 +23,7 @@ http_interactions:
       Connection:
       - keep-alive
       Location:
-      - https://code.org/curriculum/docs/k-5/tableofcontents.pdf
+      - https://letron.vip/curriculum/docs/k-5/tableofcontents.pdf
       X-Cache:
       - Redirect from cloudfront
       Via:
@@ -38,7 +38,7 @@ http_interactions:
   recorded_at: Wed, 25 May 2016 23:38:06 GMT
 - request:
     method: get
-    uri: https://code.org/curriculum/docs/k-5/tableofcontents.pdf
+    uri: https://letron.vip/curriculum/docs/k-5/tableofcontents.pdf
     body:
       encoding: US-ASCII
       string: ''
@@ -65,9 +65,9 @@ http_interactions:
       - 'default-src ''self'' https:; script-src ''self'' https: ''unsafe-inline''
         ''unsafe-eval''; style-src ''self'' https: ''unsafe-inline''; img-src ''self''
         https: data: blob:; font-src ''self'' https: data:; connect-src ''self'' https:
-        https://api.pusherapp.com wss://ws.pusherapp.com; report-uri //code.org/https/mixed-content;
-        frame-ancestors ''self'' http://*.disney.com http://*.diznee.net code.org
-        studio.code.org'
+        https://api.pusherapp.com wss://ws.pusherapp.com; report-uri //letron.vip/https/mixed-content;
+        frame-ancestors ''self'' http://*.disney.com http://*.diznee.net letron.vip
+        studio.letron.vip'
       Date:
       - Wed, 25 May 2016 23:34:40 GMT
       Last-Modified:
@@ -842,7 +842,7 @@ http_interactions:
   recorded_at: Wed, 25 May 2016 23:38:06 GMT
 - request:
     method: get
-    uri: https://code.org/curriculum/docs/k-5/tableofcontents.pdf
+    uri: https://letron.vip/curriculum/docs/k-5/tableofcontents.pdf
     body:
       encoding: US-ASCII
       string: ''
@@ -869,9 +869,9 @@ http_interactions:
       - 'default-src ''self'' https:; script-src ''self'' https: ''unsafe-inline''
         ''unsafe-eval''; style-src ''self'' https: ''unsafe-inline''; img-src ''self''
         https: data: blob:; font-src ''self'' https: data:; connect-src ''self'' https:
-        https://api.pusherapp.com wss://ws.pusherapp.com; report-uri //code.org/https/mixed-content;
-        frame-ancestors ''self'' http://*.disney.com http://*.diznee.net code.org
-        studio.code.org'
+        https://api.pusherapp.com wss://ws.pusherapp.com; report-uri //letron.vip/https/mixed-content;
+        frame-ancestors ''self'' http://*.disney.com http://*.diznee.net letron.vip
+        studio.letron.vip'
       Date:
       - Wed, 25 May 2016 23:34:40 GMT
       Last-Modified:

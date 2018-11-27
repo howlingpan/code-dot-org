@@ -30,7 +30,7 @@ es:
       2-3 Artist 9_authored_hint:
         2-3_Artist_9_a: Este diamante es sólo un cuadrado dado vuelta 45 grados.
         2-3_Artist_9_b: |-
-          ¡No olvide girar el artista a la izquierda 45 grados antes de empezar a dibujar tu cuadrado! ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ¡No olvide girar el artista a la izquierda 45 grados antes de empezar a dibujar tu cuadrado! ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Recuerda, quieres que el panel de control sea 10 píxeles * mayor *... así que no olvides ** añadir ** 10 a cualquier número que cambies.
         2-3_Artist_Debugging_10_b: "** ¡Está bien usar ensayo y error aquí! **\n\nComienza por cambiar un número a la vez.    \n\n ¿Que números de hacen qué?\n\nSi te pierdes, simplemente haz clic en \"Comenzar nuevamente\"."
@@ -89,7 +89,7 @@ es:
         2-3_Artist_Loops_New_11_a: |-
           Recordar que el código del último rompecabezas fue:
           
-          ![](https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+          ![](https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
         2-3_Artist_Loops_New_11_b: Tu nuevo giro debería ir al **final** del código dentro del bucle.
       2-3 Artist Loops New 12_authored_hint:
         2-3_Artist Loops_New_12_a: Antes de iniciar el diamante, el artista necesita girar 60 grados a la izquierda para llegar al camino correcto.
@@ -120,7 +120,7 @@ es:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: '¿Teniendo un tiempo difícil averiguar cómo bajar los bloques?  ¡Intentar tratar la flor roja exactamente igual que una flor morada!'
         2-3_Bee_Conditionals_14_b: '¿Si la flor roja fuera púrpura, podría usted averiguar cómo utilizar un bucle extra ''repetición'' para reducir el código?'
-        2-3_Bee_Conditionals_14_c: "Intenta separar esto en dos partes :  \n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Tomar néctar 3 veces\n  - Mueve adelante 5 veces\n  - Verifica si hay néctar, si hay: cógelo\n  - Gira a la izquierda\n  \n2) Fabricar miel \n  - Mueve adelante una vez\n  - Fabrica dos de miel"
+        2-3_Bee_Conditionals_14_c: "Intenta separar esto en dos partes :  \n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Tomar néctar 3 veces\n  - Mueve adelante 5 veces\n  - Verifica si hay néctar, si hay: cógelo\n  - Gira a la izquierda\n  \n2) Fabricar miel \n  - Mueve adelante una vez\n  - Fabrica dos de miel"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Recuerde: Flores de color púrpura sólo néctar ya sea 0 o 1 y puede cambiar cada vez que se ejecuta el programa.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -138,12 +138,12 @@ es:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: No tienes que usar un bucle con una función. Intenta moverte, usa las funciones, luego avanza y usa las funciones de nuevo.
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco.\nAgregue algunos bloques, luego pruébelo. Agrega más, luego intenta de nuevo. ¡Pronto, llegarás allí!"
         2-3_Bee_Functions_8_b: |-
           Recuerda construir tu código dentro del bloque de función verde.
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Deberías terminar con cuatro bloques dentro de tu bucle.
       2-3 Bee Loops 3_authored_hint:
@@ -184,7 +184,7 @@ es:
       2-3 Maze Loops 21_authored_hint:
         2-3_Maze_Loops_21_a: Si tienes problemas para encontrar el patrón de escalera, intenta cubrir los caminos bloqueados con tu dedo.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: Dentro de tu ciclo, asegúrate de que el artista salta hacia atrás y hacia arriba después de dibujar cada línea.
       4-5 Artist 3_authored_hint:
@@ -277,7 +277,7 @@ es:
           **Solución**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Para usar un bloque `avanzar`, arrástralo desde el área de la barra de herramientas al espacio de trabajo y conéctelo al bloque`al ejecutar`.
       Course 4 Artist 11_authored_hint:
@@ -694,7 +694,7 @@ es:
           </xml>
       Course 4 SCF 1a_authored_hint:
         Course_4_SCF_1a_a: Recuerda tus funciones desde la etapa 16.
-        Course_4_SCF_1a_b: "Mira este camino como su ruta principal:\n\n![](https://images.code.org/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
+        Course_4_SCF_1a_b: "Mira este camino como su ruta principal:\n\n![](https://images.letron.vip/1c3feab70af706409b3a05af4dc83c2e-image-1469726967858.png)"
         Course_4_SCF_1a_c: Deberías considerar usar un `bucle para`. No para los pasos, sino para el parámetro de la función.
         Course_4_SCF_1a_d: |-
           **Solución:**
@@ -920,7 +920,7 @@ es:
           </xml>
       Course 4 SCF 1b_authored_hint:
         Course_4_SCF_1b_a: "Tenga en cuenta que la forma de todos los puntos de miel es similar.\n\nBuen lugar para una función!"
-        Course_4_SCF_1b_b: "Mira esta idea de cómo la abeja podría viajar:\n\n![](https://images.code.org/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
+        Course_4_SCF_1b_b: "Mira esta idea de cómo la abeja podría viajar:\n\n![](https://images.letron.vip/996ab4a2de6048cbb99b84c56cc4ad61-image-1469726859769.png)"
         Course_4_SCF_1b_c: Deberías considerar usar un `bucle para` para la distancia que recorre la abeja.
         Course_4_SCF_1b_d: |-
           **Solución:**
@@ -1209,7 +1209,7 @@ es:
           </block>
           </xml>
       Course 4 SCF 3_authored_hint:
-        Course_4_SCF_3_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        Course_4_SCF_3_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         Course_4_SCF_3_b: 'Esta es una serie de octógonos con lados que son ''contador'' píxeles de largo. '
         Course_4_SCF_3_c: 'Cada octágono se llama desde dentro de un bucle ''para'' que va de 200 hasta 2 por 2. '
         Course_4_SCF_3_d: 'No olvides dar vuelta de 22.5 grados al final de cada iteración. '
@@ -1361,7 +1361,7 @@ es:
           </block>
           </xml>
       Course 4 SCFL 1_authored_hint:
-        Course_4_SCFL_1_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_1_b: 'Intente usar dos bucles `para`: uno para trepar y agarrar néctar, y el otro para bajar y hacer miel.'
         Course_4_SCFL_1_c: "Observe que un bucle `para` necesita varios bucles regulares dentro en que se repita 'contador' veces para hacer el patrón creciente de escalera.\n\nEl otro bucle `para` solo necesita un bucle regular para hacer una cantidad 'contador' de miel."
         Course_4_SCFL_1_d: |-
@@ -1499,7 +1499,7 @@ es:
           </xml>
       Course 4 SCFL 1a_authored_hint:
         Course_4_SCFL_1a_a: Puede que tengas que desplazarte más lejos en general para usar la menor cantidad de bloques.
-        Course_4_SCFL_1a_b: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
+        Course_4_SCFL_1a_b: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/253d710ff7d1b494fe8fd20cfc92baaf-image-1469726263579.png)"
         Course_4_SCFL_1a_c: Un `bucle para` te ayudará a ejecutar el mismo patrón, pero con un número variable de pasos. Tenga en cuenta que el número de pasos necesarios disminuye de 7 a 5 por 1.
         Course_4_SCFL_1a_d: |-
           **Solución:**
@@ -1581,7 +1581,7 @@ es:
           </xml>
       Course 4 SCFL 1b_authored_hint:
         Course_4_SCFL_1b_a: Intenta usando un 'bucle para'.
-        Course_4_SCFL_1b_b: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
+        Course_4_SCFL_1b_b: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/1957633c453f4025a3fd6ce0e201398b-image-1469642319721.png)"
         Course_4_SCFL_1b_c: |-
           **Solución:**
           
@@ -1644,7 +1644,7 @@ es:
           </block>
           </xml>
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
+        Course_4_SCFL_2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)"
         Course_4_SCFL_2_b: Observe que hay tres puntos durante cada iteración de este bucle `para` donde se detiene para interactuar con los objetos.
         Course_4_SCFL_2_c: Durante cada iteración del ciclo `para`, el número de cada objeto se relaciona con la variable` contador` de alguna manera.
         Course_4_SCFL_2_d: |-
@@ -2473,7 +2473,7 @@ es:
           </block>
           </xml>
       Course 4 SCV 2_authored_hint:
-        Course_4_SCV_2_a: "La imagen completa se compone de 10 de estas \"flores\":\n! [] (https://images.code.org/bac2a606dfa59c00409294499540267d-imagen-1469641972385.png)\n        \n... que se componen de 10 de estos decágonos:\n! [] (https://images.code.org/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
+        Course_4_SCV_2_a: "La imagen completa se compone de 10 de estas \"flores\":\n! [] (https://images.letron.vip/bac2a606dfa59c00409294499540267d-imagen-1469641972385.png)\n        \n... que se componen de 10 de estos decágonos:\n! [] (https://images.letron.vip/1e15f278c9c1606f90a2490ec3a94eb4-image-1469642051512.png)"
         Course_4_SCV_2_b: 'Este diseño utiliza lazos anidados (tres niveles). Todos los lazos se ejecutan ''lados'' veces. '
         Course_4_SCV_2_c: El artista gira a la izquierda cuando se crea cada decágono, pero gira a la derecha en los otros dos lazos.
         Course_4_SCV_2_d: Para evitar que todos sus 10 pétalos de "flores" sean dibujados en el mismo lugar, asegúrese de saltar hacia adelante por `longitud`/`lados` antes de girar 360/`lados` grados como parte de su lazo más externo.
@@ -2684,7 +2684,7 @@ es:
       Course 4 SCV 4_authored_hint:
         Course_4_SCV_4_a: Tres variables le ayudarán aquí. Una para las unidades de néctar, una para unidades de miel, y una para cuán lejos la abeja debería moverse en cada iteración.
         Course_4_SCV_4_b: 'Será muy útil usar tres lazos dentro de su lazo principal. Uno para moverse hacia adelante, uno para recolectar néctar y otro para hacer miel. '
-        Course_4_SCV_4_c: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCV_4_c: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCV_4_d: |-
           **Solución:**
           
@@ -2824,7 +2824,7 @@ es:
         Course_4_SCV_5_a: |-
           Eche un vistazo a esta opción de movimiento:
           
-          ![](https://images.code.org/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)
+          ![](https://images.letron.vip/a69c63a039031254097f19231dd7bf95-image-1469726483169.png)
         Course_4_SCV_5_b: Cada vez mediante el lazo, las flores tienen dos veces menos néctar y la abeja necesitará hacer una miel más.
         Course_4_SCV_5_c: Note que al principio del lazo exterior, las abejas se mueven tantas veces como haya néctar en la siguiente flor.
         Course_4_SCV_5_d: |-
@@ -2955,7 +2955,7 @@ es:
         Course_4_SCV_6_a: |-
           Eche un vistazo a cómo luce una sola forma completa
           
-          ! [] (https://images.code.org/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
+          ! [] (https://images.letron.vip/9e30d3a87186cefe730984feee195806-image-1469642178866.png)
         Course_4_SCV_6_b: 'Usted se beneficiará de la creación de 8 variables: red1, green1, blue1, red2, green2, blue2, longitud, y lados.'
         Course_4_SCV_6_c: Cada uno de los 5 lados de la forma se divide en pedazos de "largo" / "lados" donde el zig es verde azulado (rgb = 0,175,200) y el zag es morado (rgb = 100, 50, 150).
         Course_4_SCV_6_d: 'Para zig, gire a la izquierda en `360` /` lados`. Para zag, gire a la derecha en `360` /` lados`. '
@@ -3465,7 +3465,7 @@ es:
           Esta es la primera pista.
           
           Tiene * algo de * ** basic ** `margen`
-        second_hint: "Esta es la segunda pista. Tiene una imagen\n\n![](https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)"
+        second_hint: "Esta es la segunda pista. Tiene una imagen\n\n![](https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)"
         last_hint: Esta es la tercera y última pista. No tiene nada especial.
       Farmer for TTS testing_authored_hint:
         first_hint: |-
@@ -3475,7 +3475,7 @@ es:
         second_hint: |-
           Esta es la segunda pista. Tiene una imagen
           
-          ![](https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+          ![](https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: Esta es la tercera y última pista. No tiene nada especial.
       Function intro Ryan_authored_hint:
         Function_intro_Ryan_b: Si llamas a las funciones correctamente, este es el camino por el que ira...
@@ -3484,7 +3484,7 @@ es:
         Function_intro_Ryan_b: Si llamas a las funciones correctamente, este es el camino por el que ira...
         Function_intro_Ryan_a: '¡Puedes invocar una función muchas veces dentro de tu programa! Intenta invocarla dos veces para resolver este rompecabezas.'
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Mira las **linternas del mar** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? ¿Cómo podrías usar un condicional con ellas para atravesar el monumento oceánico?\n\n"
+        voyage_aquatic_10a: "Mira las **linternas del mar** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? ¿Cómo podrías usar un condicional con ellas para atravesar el monumento oceánico?\n\n"
       HOC 2018 Level_7a_authored_hint:
         aquatic7: Mund ta përdorësh bllokun e shtegut Nëse, për të ndihmuar veten që të marrësh kthesat e duhura.
       HOC 2018 Level_9b_authored_hint:
@@ -3587,7 +3587,7 @@ es:
           **Solución**
           
           
-          ![Image of Solution Blocks](https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Image of Solution Blocks](https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Haz que el Agent construya varios puentes para que Alex o Steve puedan caminar más allá de los bordes del mapa.
       MC_HOC_2017_01_Cole_authored_hint:
@@ -3629,7 +3629,7 @@ es:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Cruzar estos dos platos de presión aquí hará que se abra un camino para el jugador.
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Utiliza el bloque de "girar a la derecha" para modificar la dirección del Agent.'
         MC_HOC_2017_04POINT5_RYAN_a: El Agent solo tiene que llegar al primer plato de presión para que Alex o Steve puedan llegar al hacha.
@@ -3695,7 +3695,7 @@ es:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Cruzar estos dos platos de presión aquí hará que se abra un camino para el jugador.
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           ¡Pulsa "Ejecutar"! 
@@ -3909,13 +3909,13 @@ es:
         conditional_pointer: |-
           Comience por pensar sobre esta parte: ¿ Cuál es la diferencia en cada paso el camino? ¿ Qué tipo de bloque puede usar para tomas una *decisión* sobre si usted está en una flor o en un panal?
           
-          ![](https://images.code.org/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
+          ![](https://images.letron.vip/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
         turn_at_honeycomb_pointer: Que no sea hacer miel, ¿ve algo diferente que tiene que hacer en cada panal?
       Planning Farmer_authored_hint:
         conditional_pointer: |-
           Comience por pensar sobre esta parte: ¿ Cuál es la diferencia en cada paso el camino? ¿ Qué tipo de bloque puede usar para tomas una *decisión* sobre si usted está en una flor o en un panal?
           
-          ![](https://images.code.org/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
+          ![](https://images.letron.vip/a4883ea91c2f879ca1bb281d7944ed87-image-1471477752512.48.07 PM.png)
         turn_at_honeycomb_pointer: Que no sea hacer miel, ¿ve algo diferente que tiene que hacer en cada panal?
       Quantum Bee - Ryan_authored_hint:
         test_hint: Esto es una pista.
@@ -4060,12 +4060,12 @@ es:
         courseA_artist_loops_challenge1_a: |+
           Puede usar bucles como este para crear las paredes y el techo. Intenta repetir diferentes bloques . 
           
-          ! [] (https://images.code.org/1581a2f599b501103064fc9864aa964d-image-1491863694560.png) 
+          ! [] (https://images.letron.vip/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
           
-          Diseña el tuyo o haz clic en ! [] (https://images.code.org/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) para algunas ideas!
-        courseA_artist_loops_challenge1_b: "![](https://images.code.org/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
-        courseA_artist_loops_challenge1_c: "![](https://images.code.org/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
-        courseA_artist_loops_challenge1_d: "![](https://images.code.org/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
+          Diseña el tuyo o haz clic en ! [] (https://images.letron.vip/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) para algunas ideas!
+        courseA_artist_loops_challenge1_b: "![](https://images.letron.vip/34f3bae38f77f07eaf455188c0b008e5-image-1491864823946.png)"
+        courseA_artist_loops_challenge1_c: "![](https://images.letron.vip/24b208839971803f3f6cd6ae41da56df-image-1491864839734.png)"
+        courseA_artist_loops_challenge1_d: "![](https://images.letron.vip/d3ccefffa0cc77bdd4a597cdb49fc85e-image-1491864847347.png)"
       course1_artist_loops_challenge2_authored_hint:
         harvey_tictactoe: Puedes usar bloques `saltar` para moverte a otros espacios.
       course1_artist_loops_challenge3_authored_hint:
@@ -4126,7 +4126,7 @@ es:
         courseC_maze_loops_challenge1_c: |-
           Si lo has logrado hasta tan lejos, solo necesitas `girar a la izquierda`, luego `mover hacia adelante` unas pocas veces. ¡No te rindas!
           
-          ![](https://images.code.org/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
+          ![](https://images.letron.vip/7696c5c16b8ddf1d53436cdc7fb6346d-image-1494101728016.14.34 PM.png)
       course2_maze_programming_challenge2_authored_hint:
         courseC_maze_programming_challenge2_a: "*¡Si me envías hacia atrás, sé muy cuidadoso de que me dirija al camino correcto!*"
         courseC_maze_programming_challenge2_b: '¡La solución más corta usa solo 5 bloques, pero usa el bloque de `repetir!'
@@ -4165,7 +4165,7 @@ es:
         courseC_maze_debugging_challenge2_c: |-
           Hay dos caminos que puedes seguir al usar `mover hacia adelante`, y solo en cuatro turnos. ¡Si encuentras una manera de usar el bloque `repetir`, puede que hayan incluso más!
           
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       course4_artist_variables_challenge1_authored_hint:
         courseF_artist_variables_challenge1_c: Para completar el patrón, deberá girar a la izquierda dos veces, girar a la derecha dos veces y avanzar un total de cuatro veces.
       course4_artist_variables_challenge2_authored_hint:
@@ -4573,21 +4573,21 @@ es:
           - Mover hacia adelante 100 + 75 píxeles
           - Usar función
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco.\nAgregue algunos bloques, luego pruébelo. Agrega más, luego intenta de nuevo. ¡Pronto, llegarás allí!"
         courseE_bee_functions7_b: |-
           Recuerda construir tu código dentro del bloque de función verde.
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco.\nAgregue algunos bloques, luego pruébelo. Agrega más, luego intenta de nuevo. ¡Pronto, llegarás allí!"
         courseE_bee_functions7_b: |-
           Recuerda construir tu código dentro del bloque de función verde.
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco.\nAgregue algunos bloques, luego pruébelo. Agrega más, luego intenta de nuevo. ¡Pronto, llegarás allí!"
       courseE_bee_functions_challenge1_2018_authored_hint:
@@ -5030,13 +5030,13 @@ es:
         courseF_artist_for_challenge2_c: 'El `control de flujo` va de 5 a 250 por 2. '
         courseF_artist_for_challenge2_a: El cambio de color ocurre utilizando el bloque 'definir color con rojo, verde, azul'. Rojo es la constante definida como 255, verde  es siempre el valor de 'contador', y azul es siempre '255-contador'.
       courseF_artist_fwp_challenge2_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Esta es una serie de octógonos con lados que son ''contador'' píxeles de largo. '
         courseF_artist_fwp_challenge1_c: 'Cada octágono se llama desde dentro de un bucle ''para'' que va de 200 hasta 2 por 2. '
         courseF_artist_fwp_challenge1_d: 'No olvides dar vuelta de 22.5 grados al final de cada iteración. '
         courseF_artist_fwp_challenge1_e: Tanto el color de cada octágono como el ancho del lápiz están controlados por la variable `contador '.
       courseF_artist_fwp_challenge2_2018_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_b: 'Esta es una serie de octógonos con lados que son ''contador'' píxeles de largo. '
         courseF_artist_fwp_challenge1_c: 'Cada octágono se llama desde dentro de un bucle ''para'' que va de 200 hasta 2 por 2. '
         courseF_artist_fwp_challenge1_d: 'No olvides dar vuelta de 22.5 grados al final de cada iteración. '
@@ -5099,7 +5099,7 @@ es:
       courseF_bee_for8_2019_authored_hint:
         courseF_bee_for8_b: En este puzzle, tendrás que moverte en un patrón de escalones para llegar a las flores.
       courseF_bee_for_challenge2_authored_hint:
-        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Intente usar dos bucles `para`: uno para trepar y agarrar néctar, y el otro para bajar y hacer miel.'
         courseF_bee_for_challenge2_c: "Observe que un bucle `para` necesita varios bucles regulares dentro en que se repita 'contador' veces para hacer el patrón creciente de escalera.\n\nEl otro bucle `para` solo necesita un bucle regular para hacer una cantidad 'contador' de miel."
         courseF_bee_for_challenge2_d: |-
@@ -5236,7 +5236,7 @@ es:
           </block>
           </xml>
       courseF_bee_for_challenge2_2018_authored_hint:
-        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Intente usar dos bucles `para`: uno para trepar y agarrar néctar, y el otro para bajar y hacer miel.'
         courseF_bee_for_challenge2_c: "Observe que un bucle `para` necesita varios bucles regulares dentro en que se repita 'contador' veces para hacer el patrón creciente de escalera.\n\nEl otro bucle `para` solo necesita un bucle regular para hacer una cantidad 'contador' de miel."
         courseF_bee_for_challenge2_d: |-
@@ -5373,7 +5373,7 @@ es:
           </block>
           </xml>
       courseF_bee_for_challenge2_2019_authored_hint:
-        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Intente usar dos bucles `para`: uno para trepar y agarrar néctar, y el otro para bajar y hacer miel.'
         courseF_bee_for_challenge2_c: "Observe que un bucle `para` necesita varios bucles regulares dentro en que se repita 'contador' veces para hacer el patrón creciente de escalera.\n\nEl otro bucle `para` solo necesita un bucle regular para hacer una cantidad 'contador' de miel."
         courseF_bee_for_challenge2_d: |-
@@ -5510,7 +5510,7 @@ es:
           </block>
           </xml>
       courseF_bee_for_challenge3_authored_hint:
-        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Echa un vistazo a esta opción de movimiento:\n\n![](https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Intente usar dos bucles `para`: uno para trepar y agarrar néctar, y el otro para bajar y hacer miel.'
         courseF_bee_for_challenge2_c: "Observe que un bucle `para` necesita varios bucles regulares dentro en que se repita 'contador' veces para hacer el patrón creciente de escalera.\n\nEl otro bucle `para` solo necesita un bucle regular para hacer una cantidad 'contador' de miel."
         courseF_bee_for_challenge2_d: |-
@@ -5677,11 +5677,11 @@ es:
         courseF_bee_functions5a_b: Usa un bucle`siempre que` para viajar por todas las rutas principales, ya que son de diferentes longitudes.
         courseF_bee_functions5a_c: Dentro de tu bucle `siempre que`, asegúrate de avanzar, luego usa tu función para buscar una ruta.
       courseF_bee_functions6_authored_hint:
-        courseF_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseF_bee_functions6_b: Tu función debe verificar si hay una flor o un panal, obtener néctar o hacer miel, luego girar.
         courseF_bee_functions6_c: Dado que estás girando dentro de tu función, solo necesitas un bucle `siempre que` para atravesar este laberinto.
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
         courseF_bee_functions6_b: Tu función debe verificar si hay una flor o un panal, obtener néctar o hacer miel, luego girar.
         courseF_bee_functions6_c: Dado que estás girando dentro de tu función, solo necesitas un bucle `siempre que` para atravesar este laberinto.
       courseF_bee_functions7_authored_hint:
@@ -5972,12 +5972,12 @@ es:
       grade4_bee_conditionals_quantum5_authored_hint:
         remember_quantum: "** Recuerda: ** Este puzzle cambia cada vez que se ejecuta.\n\nQuerras usar un bloque condicional (`Si` o` Si /si no`) para resolver el desafío."
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco\nAgrega algunos bloques, luego pruébalo. Agrega más, luego intenta de nuevo. ¡Pronto, lo lograras!\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "Si el rompecabezas parece desafiante, intenta construir tu función de poco a poco.\nAgregue algunos bloques, luego pruébelo. Agrega más, luego intenta de nuevo. ¡Pronto, llegarás allí!"
         2-3_Bee_Functions_8_b: |-
           Recuerda construir tu código dentro del bloque de función verde.
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Si utiliza el bloque para hacerme 'avanzar 100 píxeles', sacaré una línea automáticamente.
         2-3_Artist_1_new_b: '¿Tienes problemas girando la esquina? Usa el bloque `girar a la derecha 90 grados`.'

@@ -1,5 +1,5 @@
 class FollowerMailer < ActionMailer::Base
-  default from: 'noreply@code.org'
+  default from: 'noreply@letron.vip'
 
   def student_disassociated_notify_teacher(teacher, student)
     @teacher = teacher

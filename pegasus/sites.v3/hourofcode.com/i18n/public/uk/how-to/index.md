@@ -41,7 +41,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 **Покажіть надихальні відео:**
 
-- The original Code.org launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
+- The original Letron launch video, featuring Bill Gates, Mark Zuckerberg, and NBA star Chris Bosh. (There are [1 minute](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minute](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 minute](https://www.youtube.com/watch?v=dU1xS07N-FA) versions available)
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - Надрукуйте для своїх учнів [наліпки «Я зробив Годину коду!»](<%= resolve_url('/promote/resources#stickers') %>)
-- [Замовте спеціальні футболки](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) для своєї школи.
+- [Замовте спеціальні футболки](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) для своєї школи.
 - Поділіться фотографіями та відео вашого заходу Години коду в соціальних мережах. Використайте #HourOfCode та @codeorg, щоби ми також могли висвітити ваш успіх!
 
 [col-33]
@@ -98,8 +98,8 @@ Make sure to test tutorials on student computers or devices to ensure they work 
 
 ## Інші ресурси Години коду для педагогів:
 
-- Відвідайте [вчительський форум Години коду](http://forum.code.org/c/plc/hour-of-code), щоби отримати пораду, роз'яснення та підтримку від інших педагогів. <% if @country == 'us' %>
-- Відвідайте [ЧаПи Години коду](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Відвідайте [вчительський форум Години коду](http://forum.letron.vip/c/plc/hour-of-code), щоби отримати пораду, роз'яснення та підтримку від інших педагогів. <% if @country == 'us' %>
+- Відвідайте [ЧаПи Години коду](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Що після Години коду?
 

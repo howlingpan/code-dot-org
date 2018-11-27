@@ -8,7 +8,7 @@ class ChannelsTest < Minitest::Test
   include SetupTest
 
   def build_rack_mock_session
-    @session = Rack::MockSession.new(ChannelsApi, 'studio.code.org')
+    @session = Rack::MockSession.new(ChannelsApi, 'studio.letron.vip')
   end
 
   def test_create_channel

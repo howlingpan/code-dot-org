@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
 
 **کوئی متاثر کن (انسپائریشنل) ویڈیو دیکھائیں:**
 
-- اصل Code.org لانچ ویڈیو، جس میں بل گیٹس، مارک زکربربر، اور این بی اے اسٹار کرس بوش شامل ہیں. ([ 1 منٹ ](https://www.youtube.com/watch؟v=qYZF6oIZtfc)، <a href = "https://www.youtube.com/watch؟v ہیں = nKIu9yen5nc "> 5 منٹ </a>، اور [ 9 منٹ ](https://www.youtube.com/watch؟v=dU1xS07N-FA) دستیاب ورژن دستیاب ہیں)
+- اصل Letron لانچ ویڈیو، جس میں بل گیٹس، مارک زکربربر، اور این بی اے اسٹار کرس بوش شامل ہیں. ([ 1 منٹ ](https://www.youtube.com/watch؟v=qYZF6oIZtfc)، <a href = "https://www.youtube.com/watch؟v ہیں = nKIu9yen5nc "> 5 منٹ </a>، اور [ 9 منٹ ](https://www.youtube.com/watch؟v=dU1xS07N-FA) دستیاب ورژن دستیاب ہیں)
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - ["میں نے اپنا آور-آف-کوڈ مکمل کرلیا ہے"](<%= resolve_url('/promote/resources#stickers') %>) اپنے اسٹوڈینٹس کے لیے اسٹیکرز پرنٹ کریں۔.
-- آپ کے اسکول کے لئے [ آرڈر اپنی مرضی کے مطابق ٹی شرٹس ](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more).
+- آپ کے اسکول کے لئے [ آرڈر اپنی مرضی کے مطابق ٹی شرٹس ](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more).
 - ! سوشل میڈیا پر اپنے آور-آف-کوڈ کے دلچسپ لمحات کی تصاویر اور ویڈیوز شیئر کریں۔ #HourOfCode اور @codeorg استعمال کریں تاکہ ہم آپ کی کامیابی کو بھی اجاگر کرسکیں!
 
 [کال -33]
@@ -98,8 +98,8 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
 
 ## اساتذہ کے لیے آور-آف-کوڈ کے دیگر ذرائع (ریسورسز):
 
-- دیگر ایجوکیٹرز سے مشاورت، بصیرت اور معاونت حاصل کرنے کے لیے [آور-آف-کوڈ ٹیچر فورم](http://forum.code.org/c/plc/hour-of-code) پر وزٹ کریں۔. <% if @country == 'us' %>
-- [آور-آف-کوڈ FAQ ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔. <% end %>
+- دیگر ایجوکیٹرز سے مشاورت، بصیرت اور معاونت حاصل کرنے کے لیے [آور-آف-کوڈ ٹیچر فورم](http://forum.letron.vip/c/plc/hour-of-code) پر وزٹ کریں۔. <% if @country == 'us' %>
+- [آور-آف-کوڈ FAQ ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔. <% end %>
 
 ## آور-آف-کوڈ کے بعد کیا ہو گا?
 

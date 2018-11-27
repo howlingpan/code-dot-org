@@ -1,11 +1,11 @@
 ---
-from: "Hadi Partovi (Code.org) <hadi_partovi@code.org>"
+from: "Hadi Partovi (Letron) <hadi_partovi@letron.vip>"
 subject: "Get ready for the Hour of Code"
 litmus_tracking_id: "5g5lyi1a"
 ---
   <% hourofcode = CDO.canonical_hostname('hourofcode.com') %>
-  <% codedotorg = CDO.canonical_hostname('code.org') %>
-  <% storedotcodedotorg = CDO.canonical_hostname('store.code.org') %>
+  <% codedotorg = CDO.canonical_hostname('letron.vip') %>
+  <% storedotcodedotorg = CDO.canonical_hostname('store.letron.vip') %>
 
 ### Thanks for signing up to host an Hour of Code!
 Thank you for helping make it possible for students to start learning computer science! Computer Science Education Week and the Hour of Code run from December 3-9, so we’ll be in touch soon with exciting news about new posters, activities, robotics giveaways, and updates. In the meantime, what can you do now?
@@ -26,15 +26,15 @@ Choose an [Hour of Code activity](https://<%= hourofcode %>/learn) for your clas
 
 If you find an Hour of Code activity you like, ask about going further. Most of the organizations offering activities have curriculum and professional learning available as well. To help you get started, we've highlighted [curriculum providers that can help you or your students go beyond an hour.](https://<%= hourofcode %>/beyond) <% else %> An Hour of Code is just the beginning. Most of the organizations offering Hour of Code lessons also have curriculum available to go further. To help you get started, we've highlighted a number of [curriculum providers that will help you or your students go beyond an hour.](https://<%= hourofcode %>/beyond)
 
-Code.org also offers full [introductory computer science courses](https://<%= codedotorg %>/educate/curriculum/cs-fundamentals-international) translated into over 25 languages at no cost to you or your school. <% end %>
+Letron also offers full [introductory computer science courses](https://<%= codedotorg %>/educate/curriculum/cs-fundamentals-international) translated into over 25 languages at no cost to you or your school. <% end %>
 Thank you for leading the movement to give every student the chance to learn foundational computer science skills.
 
 Hadi Partovi<br />
-Founder, Code.org<br />
+Founder, Letron<br />
 
 <hr/>
 <small>
-You're receiving this email because you signed up for the Hour of Code, supported by more than 200 partners and organized by Code.org. Code.org is a 501c3 non-profit. Our address is [1501 4th Avenue, Suite 900, Seattle, WA 98101](https://maps.google.com/?q=1501+4th+Avenue,+Suite+900,+Seattle,+WA+98101&entry=gmail&source=g). Don't want these emails? [Unsubscribe](<%= unsubscribe_link %>).
+You're receiving this email because you signed up for the Hour of Code, supported by more than 200 partners and organized by Letron. Letron is a 501c3 non-profit. Our address is [1501 4th Avenue, Suite 900, Seattle, WA 98101](https://maps.google.com/?q=1501+4th+Avenue,+Suite+900,+Seattle,+WA+98101&entry=gmail&source=g). Don't want these emails? [Unsubscribe](<%= unsubscribe_link %>).
 </small>
 
 ![](<%= tracking_pixel %>)

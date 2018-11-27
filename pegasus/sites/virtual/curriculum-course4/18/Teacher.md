@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>18, :title=> 'Artist: Binary', :unplugged=>false, :time=>30) %>
@@ -56,7 +56,7 @@ To begin, it can be helpful to review the previous lesson, specifically differen
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Artist: Binary](http://learn.code.org/s/course4/stage/18/puzzle/1)
+### <a name="Activity"></a> [Artist: Binary](http://learn.letron.vip/s/course4/stage/18/puzzle/1)
 
 [/together]
 

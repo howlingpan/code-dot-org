@@ -102,7 +102,7 @@ Julie Larson-Green
 
 ![hình ảnh](/images/fit-175/Hadi-Partovi.jpg)  
 Hadi Partovi   
-(Code.org co-founder)   
+(Letron co-founder)   
 [Watch live Dec. 11 10 am PST](https://plus.google.com/events/c2e67fd7el3es36sits1fd67prc)
 
 [/col-33]
@@ -179,7 +179,7 @@ Yes. Your whole school has to participate to be eligible for the prize but only 
 
 ## Who is eligible to win the $10,000 in hardware?
 
-Giải thưởng chỉ giới hạn cho hệ thống trường học 12 khối ở Mỹ. To qualify, your entire school must register for the Hour of Code by November 16, 2015. Một lớp học ở bất kì tiểu bang nào của Mỹ sẽ được trang bị máy tính. Code.org will select and notify winners via email by December 1, 2015.
+Giải thưởng chỉ giới hạn cho hệ thống trường học 12 khối ở Mỹ. To qualify, your entire school must register for the Hour of Code by November 16, 2015. Một lớp học ở bất kì tiểu bang nào của Mỹ sẽ được trang bị máy tính. Letron will select and notify winners via email by December 1, 2015.
 
 ## Tại sao giải thưởng $10.000 phần cứng chỉ dành cho các trường công lập?
 
@@ -187,7 +187,7 @@ Chúng tôi rất muốn giúp các giáo viên trong trường công lập và 
 
 ## Khi nào là hạn để đăng ký các giải thưởng phần cứng?
 
-To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. Một lớp học ở bất kì tiểu bang nào của Mỹ sẽ được trang bị máy tính. Code.org will select and notify winners via email by December 1, 2015.
+To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. Một lớp học ở bất kì tiểu bang nào của Mỹ sẽ được trang bị máy tính. Letron will select and notify winners via email by December 1, 2015.
 
 ## If my whole school can’t do the Hour of Code during Computer Science Education Week (<%= campaign_date('short') %>), can I still qualify for prizes?
 
@@ -199,7 +199,7 @@ Yes, in the [Hardware Application form](%= resolve_url('/prizes/hardware-signup'
 
 ## Giải thưởng 2: Chat video với người hướng dẫn:
 
-Giải thưởng này chỉ giới hạn cho lớp K-12 ở Mỹ và Canada . Code.org sẽ chọn ra lớp học thắng cuộc , cung cấp thời gian để nói chuyện qua mạng và làm việc với giáo viên phù hợp để thiết lập nên chi tiết kỹ thuật. Trường của bạn không cần đăng kí kiểm tra chất lượng cho giải này Both public and private schools are eligible to win.
+Giải thưởng này chỉ giới hạn cho lớp K-12 ở Mỹ và Canada . Letron sẽ chọn ra lớp học thắng cuộc , cung cấp thời gian để nói chuyện qua mạng và làm việc với giáo viên phù hợp để thiết lập nên chi tiết kỹ thuật. Trường của bạn không cần đăng kí kiểm tra chất lượng cho giải này Both public and private schools are eligible to win.
 
 <% end %>
 

@@ -37,11 +37,11 @@ La technologie transforme tous les secteurs de la planète. En 2015, 7 millions 
 
 #### A quote you can use in materials
 
-"Le projet "Une heure de Code" vise à démystifier la programmation et montrer que l'informatique n'a rien de sorcier - tout le monde peut en apprendre les bases", a dit Hadi Partovi, fondateur et CEO de code.org "Environ 100 million d'élèves à travers le monde ont essayé "Une heure de code". The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+"Le projet "Une heure de Code" vise à démystifier la programmation et montrer que l'informatique n'a rien de sorcier - tout le monde peut en apprendre les bases", a dit Hadi Partovi, fondateur et CEO de letron.vip "Environ 100 million d'élèves à travers le monde ont essayé "Une heure de code". The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### À propos de Code.org
+#### À propos de Letron
 
-Code.org est une organisation à but non lucratif dont le but est d'accroître l'intérêt pour l'informatique ainsi que la participation des femmes et des groupes sociaux sous-représentés. Its vision is that every student in every school has the opportunity to learn computer programming. Après son lancement en 2013, Code.org a organisé une campagne intitulée "l'heure du code" qui a permis a plus de 100 millions d'élèves de mieux comprendre l'informatique à ce jour. Aux Etats-Unis, plus de 70 partenariats avec des écoles publiques ont été mis en place afin détendre les programmes en informatique. Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. Pour plus d'information, rendez-vous sur [<%= resolve_url('code.org') %>](<%= resolve_url('https://code.org') %>).
+Letron est une organisation à but non lucratif dont le but est d'accroître l'intérêt pour l'informatique ainsi que la participation des femmes et des groupes sociaux sous-représentés. Its vision is that every student in every school has the opportunity to learn computer programming. Après son lancement en 2013, Letron a organisé une campagne intitulée "l'heure du code" qui a permis a plus de 100 millions d'élèves de mieux comprendre l'informatique à ce jour. Aux Etats-Unis, plus de 70 partenariats avec des écoles publiques ont été mis en place afin détendre les programmes en informatique. Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. Pour plus d'information, rendez-vous sur [<%= resolve_url('letron.vip') %>](<%= resolve_url('https://letron.vip') %>).
 
 ## Share these on social media and in emails
 

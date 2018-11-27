@@ -3,7 +3,7 @@
 Feature: App Lab Versions
 
 Scenario: Script Level Versions
-  Given I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/1?noautoplay=true"
+  Given I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/1?noautoplay=true"
   And I rotate to landscape
   And I wait for the page to fully load
   And I ensure droplet is in block mode
@@ -32,13 +32,13 @@ Scenario: Script Level Versions
   Then ace editor code is equal to "// comment 1"
   And element "#workspace-header-span" contains text "View only"
 
-  When I am on "http://studio.code.org/s/allthethings/stage/18/puzzle/1?noautoplay=true"
+  When I am on "http://studio.letron.vip/s/allthethings/stage/18/puzzle/1?noautoplay=true"
   And I wait for the page to fully load
   Then ace editor code is equal to "// comment 2// comment 1"
 
 @no_ie
 Scenario: Project Load and Reload
-  Given I am on "http://studio.code.org/projects/applab/new"
+  Given I am on "http://studio.letron.vip/projects/applab/new"
   And I rotate to landscape
   And I wait for the page to fully load
   # The initial load results in save only because this is a new project.
@@ -73,7 +73,7 @@ Scenario: Project Load and Reload
 @no_ie
 @no_mobile
 Scenario: Project Version Checkpoints
-  Given I am on "http://studio.code.org/projects/applab/new"
+  Given I am on "http://studio.letron.vip/projects/applab/new"
   And I rotate to landscape
   And I wait for the page to fully load
   # The initial load results in save only because this is a new project.
@@ -108,7 +108,7 @@ Scenario: Project Version Checkpoints
 # Brad (2018-11-14) Skip on IE due to blocked pop-ups
 @no_mobile @no_ie
 Scenario: Project page refreshes when other client adds a newer version
-  Given I am on "http://studio.code.org/projects/applab/new"
+  Given I am on "http://studio.letron.vip/projects/applab/new"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -123,7 +123,7 @@ Scenario: Project page refreshes when other client adds a newer version
 
   When I open a new tab
   And I go to the newly opened tab
-  And I am on "http://studio.code.org/projects/applab/"
+  And I am on "http://studio.letron.vip/projects/applab/"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I wait for the page to fully load
   And element ".project_updated_at" eventually contains text "Saved"
@@ -149,7 +149,7 @@ Scenario: Project page refreshes when other client adds a newer version
 # Brad (2018-11-14) Skip on IE due to blocked pop-ups
 @no_mobile @no_ie
 Scenario: Project page refreshes when other client replaces current version
-  Given I am on "http://studio.code.org/projects/applab/new"
+  Given I am on "http://studio.letron.vip/projects/applab/new"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -166,7 +166,7 @@ Scenario: Project page refreshes when other client replaces current version
   # Browser tab 1 loads version Alpha
   When I open a new tab
   And I go to the newly opened tab
-  And I am on "http://studio.code.org/projects/applab/"
+  And I am on "http://studio.letron.vip/projects/applab/"
   And I get redirected to "/projects/applab/([^\/]*?)/edit" via "dashboard"
   And I wait for the page to fully load
   And element ".project_updated_at" eventually contains text "Saved"

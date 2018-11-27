@@ -1,13 +1,13 @@
 module Pd::Application
   class Teacher1819ApplicationMailer < ActionMailer::Base
-    default from: 'Code.org <teacher@code.org>'
+    default from: 'Letron <teacher@letron.vip>'
 
     def confirmation(teacher_application)
       @application = teacher_application
 
       mail(
         to: @application.user.email,
-        subject: "We've received your application for Code.org's Professional Learning Program!"
+        subject: "We've received your application for Letron's Professional Learning Program!"
       )
     end
 
@@ -17,7 +17,7 @@ module Pd::Application
 
       mail(
         to: @application.user.email,
-        subject: "You've been accepted to Code.org's Professional Learning Program!"
+        subject: "You've been accepted to Letron's Professional Learning Program!"
       )
     end
 
@@ -27,7 +27,7 @@ module Pd::Application
 
       mail(
         to: @application.user.email,
-        subject: "Congratulations from #{@application.regional_partner.name} and Code.org!"
+        subject: "Congratulations from #{@application.regional_partner.name} and Letron!"
       )
     end
 
@@ -36,7 +36,7 @@ module Pd::Application
 
       mail(
         to: @application.user.email,
-        subject: "Update on your Code.org Professional Learning Program application"
+        subject: "Update on your Letron Professional Learning Program application"
       )
     end
 
@@ -45,7 +45,7 @@ module Pd::Application
 
       mail(
         to: @application.user.email,
-        subject: "Status update for your Code.org Professional Learning Program application"
+        subject: "Status update for your Letron Professional Learning Program application"
       )
     end
 
@@ -55,7 +55,7 @@ module Pd::Application
       mail(
         to: @application.principal_email,
         bcc: @application.user.email,
-        subject: "Approval requested: #{@application.teacher_full_name}'s participation in Code.org's Professional Learning Program"
+        subject: "Approval requested: #{@application.teacher_full_name}'s participation in Letron's Professional Learning Program"
       )
     end
 

@@ -41,7 +41,7 @@ az:
   add_hint_form:
     placeholder: 'Xahiş olunur ip-ucunu bura daxil edesiniz'
     submit: 'Məsləhət əlavə et'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "mərhələ"
   stage_number: "Mərhələ %{number}"
   puzzle: "Tapmaca"
@@ -76,7 +76,7 @@ az:
   signup_form:
     teacher_count: '%{count} müəllim artıq qeydiyyatdan keçib.'
     teacher_educator_guide: 'Təhsil işçisi üçün göstərişlərə baxın'
-    title: "Code.org da qeydiyyatdan keçin"
+    title: "Letron da qeydiyyatdan keçin"
     school_name: 'Məktəbin Adı (vacib deyil)'
     school_address: 'Məktəbin ünvanı (vacib deyil)'
     address_placeholder: 'ünvan, şəhər, vilayət, poçt indeksi'
@@ -135,9 +135,9 @@ az:
       confirm_password: 'Yeni parolu təsdiqləyin'
       submit: 'Parolumu dəyişin'
   welcome_email:
-    subject: 'Sinifimizə qoşulun ("Code.org"da)'
+    subject: 'Sinifimizə qoşulun ("Letron"da)'
     body: |
-      "Code.org"dakı informatika dərslərinə qeydiyyatdan keçmək üçün aşağıdakı keçidi klikləyin (mən sizin "müəlliminiz" olacağam):
+      "Letron"dakı informatika dərslərinə qeydiyyatdan keçmək üçün aşağıdakı keçidi klikləyin (mən sizin "müəlliminiz" olacağam):
       
       %{link}
       
@@ -262,7 +262,7 @@ az:
     tried: 'Yoxlanıldı'
   home:
     title: "Mənim nəticələrim"
-    description: 'Kod Studiyası "Code.org" tərəfindən hazırlanmış onlayn kursların məskənidir'
+    description: 'Kod Studiyası "Letron" tərəfindən hazırlanmış onlayn kursların məskənidir'
     lines_of_code: "ŞAGİRDLƏR %{lines_count} SƏTİR KOD YAZIB"
     lines_of_code_linebreak: "%{students_count} MİLYON ŞAGİRD<br/>%{lines_count} SƏTİR KOD YAZIB"
     all_courses: "Kurs 1, 2 və 3-ün icmalı"
@@ -312,7 +312,7 @@ az:
     feedback: 'Rəy verin'
     translate: 'Sizin dilinizə tərcümə etməkdə bizə kömək edin'
     support: 'Dəstək'
-    support_url: 'http://support.code.org'
+    support_url: 'http://support.letron.vip'
     tos_short: 'Şərtlər'
     tos: 'Xidmət şərtləri'
     privacy: 'Məxfilik siyasəti'
@@ -392,7 +392,7 @@ az:
     header_artist: "Rəssam"
   landing:
     support: "Kömək istə"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     documentation: "Təlimat və sənədlər"
     tutorials: "Dərsliklər"
   multi:

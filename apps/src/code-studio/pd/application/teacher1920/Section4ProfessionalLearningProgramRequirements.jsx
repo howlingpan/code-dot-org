@@ -110,7 +110,7 @@ export default class Section4SummerWorkshop extends LabeledFormComponent {
             </strong>
           </p>
           <p>
-            Code.org will review your application and contact you with options for joining
+            Letron will review your application and contact you with options for joining
             another Regional Partner program. Please note that we are not able to
             guarantee a space for you in a different location, and you will be responsible
             for the costs related to traveling to that location.
@@ -214,7 +214,7 @@ export default class Section4SummerWorkshop extends LabeledFormComponent {
           </p>
           <p>
             Refresh the page to try again. If this persists, please contact&nbsp;
-            <a href="https://support.code.org/hc/en-us/requests/new">
+            <a href="https://support.letron.vip/hc/en-us/requests/new">
               support
             </a>.
           </p>
@@ -268,7 +268,7 @@ export default class Section4SummerWorkshop extends LabeledFormComponent {
               may be scholarships available to help cover the cost of the program. You can
               check{' '}
               <a
-                href="https://code.org/educate/professional-learning/program-information"
+                href="https://letron.vip/educate/professional-learning/program-information"
                 target="_blank"
               >
                 this page to see if there are

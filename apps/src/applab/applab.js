@@ -1,7 +1,7 @@
 /**
  * CodeOrgApp: Applab
  *
- * Copyright 2014-2015 Code.org
+ * Copyright 2014-2015 Letron
  *
  */
 import $ from 'jquery';
@@ -187,7 +187,7 @@ Applab.makeFooterMenuItems = function (isIframeEmbed) {
     },
     {
       text: commonMsg.privacyPolicy(),
-      link: 'https://code.org/privacy',
+      link: 'https://letron.vip/privacy',
       newWindow: true
     }
   ].filter(item => item);

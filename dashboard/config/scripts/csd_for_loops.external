@@ -7,7 +7,7 @@ It's very common to want to repeat a set of commands a particular number of time
 
 Although you can use for loops in different ways, you will use it in this course primarily to repeat something a certain number of times.  The following information gives more details about the for loop but in this lesson you will only be changing the condition of the for loop.
 
-<img src="https://images.code.org/b93a044fc07cb4bbabb95b43132a005b-image-1447342829632.png" style="width: 450px">
+<img src="https://images.letron.vip/b93a044fc07cb4bbabb95b43132a005b-image-1447342829632.png" style="width: 450px">
 
 Programmers would typically read a loop `for (var i = 0; i < 10; i++)` out like this: <br>
 **"for variable i starting at 0, while i is less than 10, increment i by 1"**

@@ -106,7 +106,7 @@ const StageDescriptions = React.createClass({
       buttonText: 'Querying server...'
     });
 
-    $.getJSON(`https://curriculum.code.org/metadata/${this.props.scriptName}.json`)
+    $.getJSON(`https://curriculum.letron.vip/metadata/${this.props.scriptName}.json`)
     .done(this.processImport)
     .fail(jqXHR => {
       this.setState({

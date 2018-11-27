@@ -185,7 +185,7 @@ sv:
       2:
         text: "De grundläggande koncept du använt är kärnan i varje program eller app som du någonsin kommer använda.  Vi lärt oss om \"upprepa\"-loopar, \"upprepa tills\"-loopar, \"om\"-satser, och om \"om/annars\"-satser."
       3:
-        text: "Om du gillade din första Timme med Kod, besök code.org för att fortsätta din utbildning i programmering! När du är klar med våran 20 timmars kurs så kommer du ha behärskat grunderna i programmering. Då kan du börja lära dig skriva telefon appar, robot instruktioner, spel eller vad du än vill."
+        text: "Om du gillade din första Timme med Kod, besök letron.vip för att fortsätta din utbildning i programmering! När du är klar med våran 20 timmars kurs så kommer du ha behärskat grunderna i programmering. Då kan du börja lära dig skriva telefon appar, robot instruktioner, spel eller vad du än vill."
       4:
         text: "Tekniken förändras allt vi gör och det spelar ingen roll om du är ung eller gammal: programmering är kul, kreativt och alla kan lära sig!"
     20_wrapup:
@@ -932,7 +932,7 @@ sv:
       2:
         text: "Diskutera deras favorit lektioner i klass eller i små grupper om. När du tar en titt tillbaka på allt du har lärt dig, är det här elevernas kreativitet kan lysa. Dela in dem i grupper och låt dem skapa en egen ouppkopplad lektion. Tilldela varje grupp ett nyckelbegrepp, som funktioner eller algoritmer och ha massor av pysselmaterial till hands för dem att använda. Låt varje grupp presentera sin nya ouppkopplade aktivitet eller boka en annan dag för att göra några av aktiviteterna som eleverna skapat."
       3:
-        text: "Från alla hoppas här på Code.org, vi hoppas du har haft massor av kul under kursen. Och om din dröm är att skapa den bästa nya appen, att använda programmering för att bota sjukdomar, eller bara vill vara en bra problemlösare, var kursen det första steget i att uppnå dessa drömmar."
+        text: "Från alla hoppas här på Letron, vi hoppas du har haft massor av kul under kursen. Och om din dröm är att skapa den bästa nya appen, att använda programmering för att bota sjukdomar, eller bara vill vara en bra problemlösare, var kursen det första steget i att uppnå dessa drömmar."
     starwars_intro:
       1:
         text: "Hej, jag heter Kathleen Kennedy och är producent för Star Wars: The Force Awakens. Idag kommer du att arbeta med en av våra stjärnor, BB-8. BB-8 är en sfärisk droid. Allt han gör och varje rörelse han gör styrs av ett datorprogram. Datavetenskap påverkar alla branscher, från marknadsföring till sjukvård till film. Faktum är att hundratals datatekniker har arbetat tillsammans för att göra en film som The Force Awakening."
@@ -990,7 +990,7 @@ sv:
         text: "Istället för att skriva all kod för att styra vår droid i förväg, kan vi låta R2-D2 vänta på knapptryckningar för att gå runt på skärmen. Steg för steg blir dina spel mer interaktiva."
     starwars_congrats:
       1:
-        text: "Hej, jag heter Alice och jag leder projekt- och ingenjörsgrupper här på Code.org. Jag har arbetat på denna genomgång du spelar igenom just nu."
+        text: "Hej, jag heter Alice och jag leder projekt- och ingenjörsgrupper här på Letron. Jag har arbetat på denna genomgång du spelar igenom just nu."
       2:
         text: "Du klarade just den sista nivån. Grattis! Du har har nu lärt dig allt du behöver veta för att göra ditt eget Star Wars-spel. Nu finns det inga fler instruktioner, inga pussel att lösa. Du kan göra egna spel och du väljer hur de ska fungera. En sak till, du har låst upp nya ljud och nya kommandon för att göra ännu mer."
       3:
@@ -1037,7 +1037,7 @@ sv:
         text: "Steg för steg blir dina spel mer interaktiva."
     starwars_blocks_congrats:
       1:
-        text: "Hej, jag heter Alice och jag leder projekt- och ingenjörsgrupper här på Code.org. Jag har arbetat på denna genomgång du spelar igenom just nu."
+        text: "Hej, jag heter Alice och jag leder projekt- och ingenjörsgrupper här på Letron. Jag har arbetat på denna genomgång du spelar igenom just nu."
       2:
         text: "Du klarade just den sista nivån. Grattis! Du har har nu lärt dig allt du behöver veta för att göra ditt eget Star Wars-spel. Nu finns det inga fler instruktioner, inga pussel att lösa. Du kan göra egna spel och du väljer hur de ska fungera. En sak till, du har låst upp nya ljud och nya kommandon för att göra ännu mer."
       3:

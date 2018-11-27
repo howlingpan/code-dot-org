@@ -11,7 +11,7 @@
   campaign_date_full: "දෙසැම්බර් 5-11"
   campaign_date_year: "2016"
   campaign_date_full_year: "දෙසැම්බර් 5-11, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'ඉතිහාසයේ දැවැන්තම අධ්‍යාපනික වැඩසටහන සමග සම්බන්ධවන්න, %{campaign_date}'
   front_intro_default: 'Hour of Code යනු රටවල් 180+ ක පමණ සුවහසක් සිසුන් වෙත පරිගණක අධ්‍යාපනය ලඟාකිරීමේ ගෝලීය ව්‍යාපාරයකි. ලොව ඕනෑම කෙනෙකුට, ඕනෑම තැනක, ඕනෑම ආයතනකය Hour of Code වැඩසටහනක් සංවිධානය කල හැකිය. පැය එකේ පාඨමාලා භාෂා 45කින් දැන් සමන්විතයි. කිසිම පලපුරුද්දක් අවශ්‍ය නොමැත. වයස අවුරුදු 4 සිට 104 දක්වා ඔනෑම අයෙක්ට'
@@ -186,12 +186,12 @@
   how_to_nav_afterschool_educators: "පාසලෙන් පසු අධ්‍යාපකයන් හට"
   how_to_nav_volunteers: "ස්වෙච්ඡා සේවකයන් සඳහා"
   whats_next_header: "ඊලඟට කුමක්ද?"
-  whats_next_description: "ඔබට ඔබගේ වැඩසටහණ සඳහා අවශ්‍යවන අමුද්‍රව්‍ය හා උපකාරක අපවිසින් ඔබට එවනු ලැබේ.අලුත් පාඩම් ලඟදීම බලාපොරොත්තුවන්න.\n<a href='http://code.org/learn'>දැනට තිබෙන පාඩම් උත්සාහ කරන්න </a>"
+  whats_next_description: "ඔබට ඔබගේ වැඩසටහණ සඳහා අවශ්‍යවන අමුද්‍රව්‍ය හා උපකාරක අපවිසින් ඔබට එවනු ලැබේ.අලුත් පාඩම් ලඟදීම බලාපොරොත්තුවන්න.\n<a href='http://letron.vip/learn'>දැනට තිබෙන පාඩම් උත්සාහ කරන්න </a>"
   whats_next_how_to: "<a href='/how-to'>Hour of Code වැඩසටහනක් සංවිධානය කරන්නේ කෙසේද</a>"
   whats_next_promote: "<a href='/promote'>Hour of Code සඳහා අනුග්‍රහය දැක්වීම</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>සඳහා අනුග්‍රහය දක්වන්නේ කෙසේද</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Hour of Code සඳහා අනුග්‍රහය දක්වන්නේ කෙසේද</a>"
-  whats_next_try: "<a href='http://code.org/learn'>පාඩම් උත්සාහකරන්න</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>පාඩම් උත්සාහකරන්න</a>"
   whats_next_try_button: 'පාඩම් උත්සාහකරන්න'
   n_have_learned_an_hoc: "<h1></h1>Hour of Code උත්සාහකරන්න</h2><h3></h3>"
   anybody_can_learn: 'ඕනෑම අයකුට ඉගෙනගන්න පුලුවන්.'
@@ -238,8 +238,8 @@
   front_join_us_sign_up: "ලියාපදිංචි වන්න"
   front_join_us_host: "අනුග්‍රාහකත්වය දක්වන්න"
   front_join_us_support: "එයට සහයෝගය දක්වන්න"
-  front_join_us_more_info: "වැඩිදුර තොරතුරු සඳහා, පිවිසෙන්න <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "වැඩිදුර තොරතුරු සඳහා, පිවිසෙන්න code.org"
+  front_join_us_more_info: "වැඩිදුර තොරතුරු සඳහා, පිවිසෙන්න <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "වැඩිදුර තොරතුරු සඳහා, පිවිසෙන්න letron.vip"
   front_join_us_n_students_served: "# සේවයකරනලදී"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@
   signup_your_event: 'ඔබේ වැඩසටහණ ලියාපදිංචි කරන්න'
   signup_host_an_hour: 'පැයක් සංවිධානය කරන්න'
   signup_match_volunteer: 'මාගේ සිසුන් දිරිමත් කරන්න මෙරට සිටින මෘදුකාංග ඉන්ජිනේරුවකු සොයන්න මට උදවු කරන්න.'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@
   signup_continue_label: 'Continue'
   signup_thank_you_header: "Hour of Code වැඩසටහනක් සංවිධානය කිරීම සඳහා ලියාපදිංචී වීම පිලිබඳ ඔබට ස්තුතියි."
   signup_thank_you_message: 'ආරම්භකිරීමසඳහා අවශ්‍ය උපකාරක සමඟ තහවුරු කිරිමේ පණිවිඩයක් ඔබට අප විසින් එවන ලදී.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -350,7 +350,7 @@
   hoc_faq_high_school_q: "පාසලේ ඉහල පන්තිවල සිටින සිසුන් සඳහා සිදුකළයුතු ක්‍රියාකාරකම් මොනවාද?"
   hoc_faq_high_school_a: "අපගේ ස්ටා වෝස් සහ මයින්ක්‍රාෆ්ට් ක්‍රීඩා පාසල් සිසුන් සඳහා කදිමයි. විශේෂයෙන්ම පාඩම් දෙකේම ඇති ස්ටා වෝස් ජාව ස්ක්‍රිප්ට් සහ ෆ්‍රී ප්ලේ සංස්කරණ. අවශ්‍ය නම් ඇන්ග්‍රි බර්ඩ්ස් හෝ ඇනා සහ එල්සා ඇති පාඩම් වල <a href='%{codeorg_url}/learn'>%{partner_url} මුල්ම පියවර</a> වලින් පටන්ගන්නත් පුලුවන්. පාසල් සිසුවෙකුට මෙම පාඩම් විනාඩි 30ක් ඇතුලත සම්පූර්ණ කල හැකි විය යුතු අතර ඉන්පසුව තරමක් සංකීර්ණ ජාවාස්ක්‍රිප්ට් පාඩම් වෙත යොමු විය හැක."
   hoc_faq_scratch_q: "මම Hour of Code වලදි Scratch කරන්නයි හිතාගෙන ඉන්නේ. ඒත් මගේ ළමයි ලඟ ලැප්ටොප් නැතුව අයි පෑඩ් තියනවනම් මොකද කරන්නේ?"
-  hoc_faq_scratch_a: "Scratch ටැබ්ලට් වල වැඩ කරන්නේ නැත. ඔබේ සිසුන් බාලවයස් වල කියවීමේ මූලික අවධිය පසු කරන වයසේ අය නම් ඔවුන්ට අයි පෑඩ් වල ScratchJR ඇප් එක භාවිතා කල හැක. <a href='%{codeorg_url}/learn'>%{partner_url}මෙතනින්</a> ඔබට අයි පෑඩ් වල භාවිතා කල හැකි වෙනත් පාඩම් බලා ගත හැක. - Code.org, Tynker, Lightbot, හෝ CodeSpark වෙතින්."
+  hoc_faq_scratch_a: "Scratch ටැබ්ලට් වල වැඩ කරන්නේ නැත. ඔබේ සිසුන් බාලවයස් වල කියවීමේ මූලික අවධිය පසු කරන වයසේ අය නම් ඔවුන්ට අයි පෑඩ් වල ScratchJR ඇප් එක භාවිතා කල හැක. <a href='%{codeorg_url}/learn'>%{partner_url}මෙතනින්</a> ඔබට අයි පෑඩ් වල භාවිතා කල හැකි වෙනත් පාඩම් බලා ගත හැක. - Letron, Tynker, Lightbot, හෝ CodeSpark වෙතින්."
   hoc_faq_count_hoc_q: "Hour of Code ඔබ ගණන් කරනේ කෙසේද?"
   hoc_faq_map_q: "මාසටහන් කල ස්ථාන සිතියමේ පෙන්වන්නැතේ ඇයි?"
   hoc_faq_map_a: "අප ඔබේ වැඩසටහන මෙම සිතියමේ නොපෙන්වීම පිලිබඳ කණගාටු වන්නෙමු. දහස් ගණනක් මෙම වැඩසටහන් ක්‍රියාතමක කරන බැවින් මෙම සිතියමේ එක් විටක පෙන්වන්නේ තෝරාගත් වැඩසටහන් කිහිපයක් පමණි. ඔබ සිතියමෙහි ඉහල ඇති අංක මත ක්ලික් කරොත් සියලුම වැඩසටහන් ඇති ලයිස්තුවකට ඔබව යොමු කෙරෙනු ඇති අතර එහිදී ඔබේ වැඩසටහන ඔබට දැකිය හැක. සිතියම සෑම පැය 48කට වරක්ම යාවත්කාලීන කෙරෙනු ඇත. දවස් දෙක තුනකින් බලන්න!"
@@ -358,13 +358,13 @@
   hoc_faq_one_hour_q: "එක් පැයක් තුල එක් අයකුට උගත හැකි ප්‍රමාණය කොපමණද?"
   hoc_faq_one_hour_a: 'Hour of Code හි අරමුණ ඕනෑම අයකු පැයක් තුල පරිගණක විද්‍යාව පිලිබඳ හසල දැනුමැති අයෙකු බිහි කිරීම නොවේ. පැයක් තුල පරිගණක විද්‍යාව යනු විනෝදාත්මක දෙයක් බවද එය ඕනෑම අයෙකුට ඉගෙනගත හැකි බවට පෙන්විය හැක. මෙහි සාර්ථකත්වය යනු මෙයට සහභාගී වන සිසුන් ගණන නොව මෙය විවිධ සමාජ මට්ටම්, ගැහැණු පිරිමි කණ්ඩායම් වල සහභාගිත්වයයි. මිලියනයකටත් වඩා සිසුන් හා ගුරුවරු මෙය පැයකට වඩා කල හැකි කාර්යයක් බවට තේරුම් ගෙන ඇත. <br/><br/>මේ හේතුවෙන් පූර්ණ කාලීන පාඨමාලා සඳහා ද සිසුන් බොහෝ පිරිසක් ලියාපදිංචි වී ඇත. අප ගුරුවරු ලෙස පිලිගන්නා අය පැයැක් තුල තම සිසුන්ට මෙම මූලික දෑ තමන්ට ඉගැන්විය හැකියයි කියා ආත්ම විශ්වාසය ඇති පුද්ගලයින්ය. ඇතැම් අය පරිගණක විද්‍යාව පිලිබඳ කිසිම අධ්‍යාපනික සුදුසුකමක් පවා නැති අයයි. නමුත් ගුරුවරු පරිගණක විද්‍යාව පිලිබඳ ඉදිරියට ඉගෙනගැනීමට යොමු වේ. මෙය පාසල් වල නිලධාරින්ට පවා අදාලය. <br/><br/>අවසානයේ සහභාගී වන්නන් ගත යුතු දේ නම් මට පැයක් තුල මෙය සිදු කල හැකි යන විශ්වාසයයි.'
   hoc_faq_more_questions_q: "තවමත් ඔබට තවත් ගැටලු තිබේද?"
-  hoc_faq_more_questions_a: "අපගේ <a href='http://support.code.org'>උපකාරක ෆෝරමයෙන්</a> පිළිතුර සොයාගැනීමට උත්සාහකරන්න."
+  hoc_faq_more_questions_a: "අපගේ <a href='http://support.letron.vip'>උපකාරක ෆෝරමයෙන්</a> පිළිතුර සොයාගැනීමට උත්සාහකරන්න."
   hoc_faq_keep_learning_q: "එකෙන් පසුව මා දිගින් දිගටම ඉගෙනගන්නේ කෙසේද?"
   hoc_faq_keep_learning_a: "ඕනෑම අයෙකුට වැඩසටහනක් සංවිධානය කල හැකියි. මෙම පාඩම් මාලා ඕනෑම විටක අපගේ වෙබ් අඩවියෙන් ලබාගත හැක. ඔබෙ වැඩසටහන සාර්ථක කරගැනීම සඳහා උපදෙස් <a href='/promote'>මෙතනින්</a> බලන්න."
   hoc_faq_certificates_q: "මාගේ සිසුන් සඳහා සහතික පත් ලබාදීම සඳහා ඒවා මුද්‍රණය කල හැක්කේ කොහෙන්ද?"
   hoc_faq_certificates_a: "ඉදිරියේදි පන්තියේ සියලුම දෙනා සඳහා සහතික පත් මුද්‍රණය කිරීමට <a href='%{codeorg_url}/certificates'>සහතික පත් පිටුව</a> වෙත යන්න. ඔබට මඉන්ක්‍රාෆ්ට් ක්‍රීඩාවේ යෙදෙන සිසුන් සඳහා <a href='%{codeorg_url}/certificates?course=mc'>විශේෂ සහතික</a> පවා මුද්‍රණය කර ගත හැකියි."
   hoc_faq_logo_q: "Hour of Code ලාංඡනය හෝ නාමය භාවිතාකීරීම සඳහා සීමාවන් තිබේද?"
-  hoc_faq_logo_a: "Hour of Code යනු ලියාපදිංචි වෙළඳ සලකුණකි. අපට එය භාවිතා කිරීම වැලැක්වීමට අවශ්‍ය නැති නමුත් එය සීමාසහිතව භාවිතා වීම පිලිබඳ සෑහීමක පත් විය හැකි විය යුතුය. කරුණාකර භාවිත කිරීමේ ප්‍රතිපත්ති කියවන්න <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>මෙතනින්</a>."
+  hoc_faq_logo_a: "Hour of Code යනු ලියාපදිංචි වෙළඳ සලකුණකි. අපට එය භාවිතා කිරීම වැලැක්වීමට අවශ්‍ය නැති නමුත් එය සීමාසහිතව භාවිතා වීම පිලිබඳ සෑහීමක පත් විය හැකි විය යුතුය. කරුණාකර භාවිත කිරීමේ ප්‍රතිපත්ති කියවන්න <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>මෙතනින්</a>."
   stats_hoc_2013_image_alt: '2013 Hour of Code පිළිබඳ තොරතුරු'
   stats_growth: "එය මිලියන 15ක් සිසුන් සඳහා ලඟාවූ වේගවත්ම ආකාරයයි."
   stats_i18n: "සිසුන් භාෂා 45කට අධික සංඛ්‍යාවකින් ඉගෙනගනිමින් සිටී"
@@ -469,8 +469,8 @@
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'සියලුම හිමිකම් ඇවිරිණි. පිටපත් කිරීමේ අයිතිය %{current_year} වර්ශය සඳහා Code.org සතුය.'
-  footer_trademark_message: 'Hour of Code™ යනු Code.org සමාගමේ ලියාපදිංචි වෙළඳ සලකුණකි.'
+  footer_copyright_message: 'සියලුම හිමිකම් ඇවිරිණි. පිටපත් කිරීමේ අයිතිය %{current_year} වර්ශය සඳහා Letron සතුය.'
+  footer_trademark_message: 'Hour of Code™ යනු Letron සමාගමේ ලියාපදිංචි වෙළඳ සලකුණකි.'
   footer_menu_partners: 'හවුල්කරුවන්'
   footer_menu_contact: 'අප අමතන්න'
   footer_menu_support: 'සහාය'
@@ -506,7 +506,7 @@
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Write your first computer program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Learn to code with Mark Zuckerberg and Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

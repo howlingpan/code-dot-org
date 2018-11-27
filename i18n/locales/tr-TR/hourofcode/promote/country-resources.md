@@ -105,7 +105,7 @@ We’ll host a variety of fun, hour-long tutorials, created by a variety of part
 - Organizatörler için minimum hazırlık zamanı gerektir
 - Kendi yönlendirmelerine sahiptir - öğrencilerin kendi hızlarına ve seviyelerine uygun hareket etmelerine izin verir
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Donanım gereksinimlerinizi kendiniz planlayın - bilgisayar kullanımı isteğe bağlı
 
@@ -124,7 +124,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 Show students an inspirational video to kick off the Hour of Code. Examples:
 
-- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'un yer aldığı ilk Code.org yayın videosu ( 1 dakika </ 0>,  5 dakika </ 1> ve  9 dakika < / 2> sürümler)</li> 
+- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'un yer aldığı ilk Letron yayın videosu ( 1 dakika </ 0>,  5 dakika </ 1> ve  9 dakika < / 2> sürümler)</li> 
     
     - The [Hour of Code 2013 launch video](https://www.youtube.com/watch?v=FC5FbmsH4fw), or the [Hour of Code 2014 video](https://www.youtube.com/watch?v=96B5-JGA9EQ)
     - [Başkan Obama, tüm öğrencileri bilgisayar bilimi öğrenmeye çağırıyor](https://www.youtube.com/watch?v=6XvmhE1J9PY)</ul> 

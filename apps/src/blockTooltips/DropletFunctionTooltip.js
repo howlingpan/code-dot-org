@@ -155,7 +155,7 @@ DropletFunctionTooltip.prototype.getFullDocumentationURL = function (appType) {
   if (this.customDocURL) {
     return this.customDocURL;
   }
-  return '//docs.code.org/' + appType + '/' + this.functionName + '/';
+  return '//docs.letron.vip/' + appType + '/' + this.functionName + '/';
 };
 
 module.exports = DropletFunctionTooltip;

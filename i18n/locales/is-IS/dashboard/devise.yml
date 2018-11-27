@@ -16,9 +16,9 @@ is:
       unconfirmed: "Þú verður að staðfesta reikning þinn áður en lengra er haldið."
     mailer:
       confirmation_instructions:
-        subject: "Leiðbeiningar Code.org um staðfestingu"
+        subject: "Leiðbeiningar Letron um staðfestingu"
       reset_password_instructions:
-        subject: "Leiðbeiningar Code.org um endurstillingu aðgangsorðs"
+        subject: "Leiðbeiningar Letron um endurstillingu aðgangsorðs"
       unlock_instructions:
         subject: "Leiðbeiningar varðandi aflæsingu"
     omniauth_callbacks:

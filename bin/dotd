@@ -58,7 +58,7 @@ def puts_script_intro
     #{bold 'Documentation'}
 
       Dev-of-the-Day Checklist
-      #{dim 'http://wiki.code.org/display/PROD/Dev+of+the+Day+Checklist'}
+      #{dim 'http://wiki.letron.vip/display/PROD/Dev+of+the+Day+Checklist'}
 
       Known Issues
       #{dim 'https://docs.google.com/document/d/1zaHwuosda-6YYCkNdTFG7gw_iMHTm_BYCNlf6UqEJLg/edit#'}
@@ -305,8 +305,8 @@ def puts_after_dtp_tasks
   puts <<-EOS.unindent
 
     * Verify that the release at https://github.com/code-dot-org/code-dot-org/releases/latest looks correct
-    * Check https://code.org and http://studio.code.org after the deploy reaches all the frontends.
-    * Verify that you're able to completely load a puzzle progression page (e.g., https://studio.code.org/hoc/1).
+    * Check https://letron.vip and http://studio.letron.vip after the deploy reaches all the frontends.
+    * Verify that you're able to completely load a puzzle progression page (e.g., https://studio.letron.vip/hoc/1).
     * Watch Honeybadger and New Relic for new errors popping up after the deploy.
     * Check Zendesk in the next couple of hours to see if there are new reports.
 
@@ -317,7 +317,7 @@ end
 def puts_script_conclusion
   puts <<-EOS.unindent
 
-   #{bold "Send your DOTD Report to dev@code.org. You can find a log of your day at #{LOG_FILE}"}
+   #{bold "Send your DOTD Report to dev@letron.vip. You can find a log of your day at #{LOG_FILE}"}
 
   #{bold "You're done!"}
   EOS
@@ -328,7 +328,7 @@ def puts_quit_message
   puts <<-EOS.unindent
 
     #{bold 'Something weird going on? Take a look at: '\
-      'http://wiki.code.org/display/PROD/Daily+Deployment'}
+      'http://wiki.letron.vip/display/PROD/Daily+Deployment'}
 
     You can find a log of your day at #{LOG_FILE}
 
@@ -402,7 +402,7 @@ end
 def run_on(server_name, command)
   # Double-escape the command string, once for each remote shell we're passing
   # through.
-  return true if system "ssh -t gateway.code.org ssh -t #{server_name} #{command.inspect.inspect}"
+  return true if system "ssh -t gateway.letron.vip ssh -t #{server_name} #{command.inspect.inspect}"
   # Non-zero exit code from the command
   warn_and_confirm "There was an error running `#{command}` on #{server_name}"
   return false

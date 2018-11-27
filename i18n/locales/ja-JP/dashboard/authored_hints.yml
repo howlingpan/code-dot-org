@@ -32,7 +32,7 @@ ja:
         2-3_Artist_9_b: |-
           次の四角形を描く前にアーティストを左に45度回転させることを忘れないで！
           
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: コントロールパネルの幅を、10ピクセル"広く"したい時は、あなたが変更した値に、10"加える"ことを忘れないでください。
         2-3_Artist_Debugging_10_b: "\"試行錯誤を繰り返すことが大切です！\"\n\nまずはひとつの数字を変えてみる事から始めましょう。\n\nどの数字がどんな役割でしたか？\n\nもし思ったよりも変わりすぎたなら、\"はじめから\"をクリックすれば、あなたのコードは最初の状態に戻ります。"
@@ -91,7 +91,7 @@ ja:
         2-3_Artist_Loops_New_11_a: |-
           前のパズルで作ったコードはこうでした。
           
-          ![](https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+          ![](https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
         2-3_Artist_Loops_New_11_b: 新たな回転は、ループの中のコードの**最後**におかなければなりません。
       2-3 Artist Loops New 12_authored_hint:
         2-3_Artist Loops_New_12_a: 正しい道筋をたどるためには、ダイヤモンドを描き始める前に、アーティストは60度左に向く必要があります。
@@ -122,7 +122,7 @@ ja:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: ブロックの減らし方が難しいですか？赤い花を紫の花とまったく同じものとして扱ってみてください！
         2-3_Bee_Conditionals_14_b: 赤い花が紫色だったら、追加の「くりかえし」ループを使ってコードを減らす方法が分かったでしょうか？
-        2-3_Bee_Conditionals_14_c: "2つの別のかたまりに分けてみましょう。\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) 花のミツをとるを3回\n - 前にすすむを5回\n - 花のミツかどうか確認して、もしそうなら花のミツをとる\n - 左にまがる\n\n2) ハチミツをつくる\n - 前にすすむを1回\n - ハチミツを2つつくる"
+        2-3_Bee_Conditionals_14_c: "2つの別のかたまりに分けてみましょう。\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) 花のミツをとるを3回\n - 前にすすむを5回\n - 花のミツかどうか確認して、もしそうなら花のミツをとる\n - 左にまがる\n\n2) ハチミツをつくる\n - 前にすすむを1回\n - ハチミツを2つつくる"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: '注意: 紫の花だけ0か1個の花のミツがあって、プログラムを実行するたびにそれが変わります。'
       2-3 Bee Conditionals 3_authored_hint:
@@ -140,13 +140,13 @@ ja:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: ループを関数と一緒に使う必要はありません。すすんで、関数を使って、そしてすすんで、もう一度関数を使ってみてください。
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！"
         2-3_Bee_Functions_8_b: |-
           緑の関数ブロックの中にコードを書くことを覚えておいてください。
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: 繰り返しの中には４つのブロックが必要です。
       2-3 Bee Loops 3_authored_hint:
@@ -262,7 +262,7 @@ ja:
         Function_intro_Ryan_b: 関数を正しく呼び出すと、あなたはこの道を行くことになります...
         Function_intro_Ryan_a: 関数はプログラム内で繰り返し呼び出すことができます!  関数を 2 回呼び出して、このパズルをクリアしましょう。
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "**海のランタン** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png) が見えますか?海のランタンと条件をどう組み合わせれば、海底遺跡を通りぬけられるでしょうか?\n\n"
+        voyage_aquatic_10a: "**海のランタン** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png) が見えますか?海のランタンと条件をどう組み合わせれば、海底遺跡を通りぬけられるでしょうか?\n\n"
       HOC 2018 Level_9b_authored_hint:
         voyage_aquatic_9a: 赤色と青色のサンゴブロックが見えますか？それぞれ左と右に曲がる道しるべにしてサンゴ礁を進みます。
       K2.0 sequence pre_authored_hint:
@@ -306,7 +306,7 @@ ja:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           この 2 つの重量感知板をふむと、道が開いてプレイヤーが通れるようになります。 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Agent の向きを変えるには「右を向く」ブロックを使います'
         MC_HOC_2017_04POINT5_RYAN_a: Agent を 1 つ目の重量感知板に立たせれば、アレックス (スティーブ) が斧にたどり着けます。
@@ -372,7 +372,7 @@ ja:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           この 2 つの重量感知板をふむと、道が開いてプレイヤーが通れるようになります。 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           「実行」を押しましょう! 
@@ -672,23 +672,23 @@ ja:
           - 前に動くブロック 100 + 75 ピクセル
           - 関数を使う
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！"
         courseE_bee_functions7_b: |-
           緑の関数ブロックの中にコードを書くことを覚えておいてください。
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！"
         courseE_bee_functions7_b: |-
           緑の関数ブロックの中にコードを書くことを覚えておいてください。
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！"
       courseE_bee_functions_challenge1_2018_authored_hint:
@@ -781,7 +781,7 @@ ja:
         courseF_bee_for_challenge2_d: |-
           答えは先生に聞いてくださいね。
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！"
       courseF_bee_functions8a_2018_authored_hint:
@@ -859,13 +859,13 @@ ja:
       grade4_artist_nested_loop_triangles6_authored_hint:
         4-5_Nested_Loops_12_a: "360÷36＝？"
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "パズルが難しいと感じたら関数を一度に少しずつ作ってみてください。\n\nブロックをいくつか追加したら試してみてください。更に追加して再度試してみると、やがて成功するでしょう！"
         2-3_Bee_Functions_8_b: |-
           緑の関数ブロックの中にコードを書くことを覚えておいてください。
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: ブロックを使って僕に「100ピクセル前に進む」ことを教えて。そうすれば自動的に線を引いてあげるよ。
         2-3_Artist_1_new_b: カドをまがるのが、むずかしい？「90度まがる」ブロックを使ってみて。

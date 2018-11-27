@@ -353,7 +353,7 @@ is:
           (e. if else) setningar.
       3:
         image: notes/hoc6_3.jpg
-        text: Ef þér líkaði við þessa fyrstu klukkustund kóðunar, heimsæktu þá code.org
+        text: Ef þér líkaði við þessa fyrstu klukkustund kóðunar, heimsæktu þá letron.vip
           til að halda áfram að mennta þig í forritun! Ef þú klárar 20 klst. kennsluna
           okkar, þá hefur þú fengið góðan grunn í forritun og getur byrjað að læra
           að skrifa öpp, leiðbeiningar vélmenna, leiki og hvað sem er.
@@ -2149,7 +2149,7 @@ is:
           notað. Láttu hvern hóp kynna nýju æfingarnar sínar eða taktu jafnvel frá
           annan dag til að fara í eitthvað af æfingunum sem nemendur hafa skapað.
       3:
-        text: Allir hér hjá Code.org vona að þið hafið skemmt ykkur vel á þessu námskeiði.
+        text: Allir hér hjá Letron vona að þið hafið skemmt ykkur vel á þessu námskeiði.
           Og hvort sem draumurinn er að búa til besta nýja appið, nota forritun til
           að lækna sjúkdóma, eða bara vera stjarna við lausn  vandamála, þá var þetta
           námskeið fyrsta skrefið í átt til að láta þá drauma rætast.
@@ -2272,7 +2272,7 @@ is:
           hann um skjáinn. Skref fyrir skref er leikurinn þinn að verða gagnvirkari.
     starwars_congrats:
       1:
-        text: Hæ, ég heiti Alice og ég stjórna framleiðsluteyminu hér hjá Code.org
+        text: Hæ, ég heiti Alice og ég stjórna framleiðsluteyminu hér hjá Letron
           og ég vann að þessu kennsluefni sem þú ert að nota einmitt núna.
       2:
         text: Og þér tókst að komast á síðasta borðið. Til hamingju! Þú hefur lært
@@ -2370,7 +2370,7 @@ is:
         text: Skref fyrir skref er leikurinn þinn að verða gagnvirkari.
     starwars_blocks_congrats:
       1:
-        text: Hæ, ég heiti Alice og ég stjórna framleiðsluteyminu hér hjá Code.org
+        text: Hæ, ég heiti Alice og ég stjórna framleiðsluteyminu hér hjá Letron
           og ég vann að þessu kennsluefni sem þú ert að nota einmitt núna.
       2:
         text: Og þér tókst að komast á síðasta borðið. Til hamingju! Þú hefur lært

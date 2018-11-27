@@ -34,10 +34,10 @@ export default class Joining extends LabeledFormComponent {
     return (
       <FormGroup>
         <p>
-          Congratulations on your acceptance to Code.org’s Facilitator Development
+          Congratulations on your acceptance to Letron’s Facilitator Development
           Program for {this.props.course}! Please complete this registration
           form <strong>within two weeks</strong>, and contact&nbsp;
-          <a href="mailto:facilitators@code.org">facilitators@code.org</a> with any
+          <a href="mailto:facilitators@letron.vip">facilitators@letron.vip</a> with any
           questions.
         </p>
 
@@ -62,7 +62,7 @@ export default class Joining extends LabeledFormComponent {
           {this.props.data.ableToAttend === "No" &&
             <p>
               If you're unable to attend your assigned FiT Weekend, please
-              contact <a href="mailto:facilitators@code.org">facilitators@code.org</a> as
+              contact <a href="mailto:facilitators@letron.vip">facilitators@letron.vip</a> as
               soon as possible so we can assist you.
             </p>
           }

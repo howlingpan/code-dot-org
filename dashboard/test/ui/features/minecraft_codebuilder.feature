@@ -9,7 +9,7 @@ Scenario: Importing an Agent level from a share link
   #
   # Create a new level source
   #
-  Given I am on "http://studio.code.org/s/allthethings/stage/25/puzzle/2"
+  Given I am on "http://studio.letron.vip/s/allthethings/stage/25/puzzle/2"
   And I rotate to landscape
   And I wait for the page to fully load
   And element "#runButton" is visible
@@ -24,7 +24,7 @@ Scenario: Importing an Agent level from a share link
   #
   # Import level source into codebuilder
   #
-  When I am on "http://studio.code.org/projects/minecraft_codebuilder/"
+  When I am on "http://studio.letron.vip/projects/minecraft_codebuilder/"
   And I get redirected to "/projects/minecraft_codebuilder/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -53,7 +53,7 @@ Scenario: Importing an Agent level from a project link
   #
   # Create a new level source
   #
-  Given I am on "http://studio.code.org/projects/minecraft_hero/"
+  Given I am on "http://studio.letron.vip/projects/minecraft_hero/"
   And I get redirected to "/projects/minecraft_hero/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load
@@ -70,7 +70,7 @@ Scenario: Importing an Agent level from a project link
   #
   # Import level source into codebuilder
   #
-  When I am on "http://studio.code.org/projects/minecraft_codebuilder/"
+  When I am on "http://studio.letron.vip/projects/minecraft_codebuilder/"
   And I get redirected to "/projects/minecraft_codebuilder/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load

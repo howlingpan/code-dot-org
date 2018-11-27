@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? あなたがソフトウェアエンジ�
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     学校を訪れる場合は、身元確認など必要な書類を事前に完成させておきます。
   </li>
   <li>
-    どのように子どもたちと交流するか、<a href="https://code.org/files/CSTT_Volunteers.pdf">こちらのヒント</a>を確認してみてください。
+    どのように子どもたちと交流するか、<a href="https://letron.vip/files/CSTT_Volunteers.pdf">こちらのヒント</a>を確認してみてください。
   </li>
   <li>
     #HourOfCode ハッシュタグとともに、FacebookやTwitter、Instagram、Tumblrでのコミュニティに参加しましょう。
@@ -184,7 +184,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           </td>
           
           <td>
-            <strong>継続的な変化をもたらしましょう</strong>　Hour of Codeを継続的なコンピューターサイエンスのコースにしていくこと/ 継続的に授業に取り入れることについて、学校の先生と話してみましょう。 <a href="https://code.org/yourschool">code.org/yourschool</a>をみて先生と一緒に学校の教員の現状について回答し、授業の中でコンピューターサイエンスを継続的に取り入れることを約束してもらいましょう。
+            <strong>継続的な変化をもたらしましょう</strong>　Hour of Codeを継続的なコンピューターサイエンスのコースにしていくこと/ 継続的に授業に取り入れることについて、学校の先生と話してみましょう。 <a href="https://letron.vip/yourschool">letron.vip/yourschool</a>をみて先生と一緒に学校の教員の現状について回答し、授業の中でコンピューターサイエンスを継続的に取り入れることを約束してもらいましょう。
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h3>
         <ul>
           <li>
-            写真等の記録をCode.orgに@code.orgで共有しましょう
+            写真等の記録をLetronに@letron.vipで共有しましょう
           </li>
           <li>
             自身の企業にボランティアした時間を申告しましょう
@@ -205,7 +205,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
             イベントで<strong>特に児童の</strong>写真や動画をとる際、さらにイベント後にSNS等でのシェアを考えている場合には、先生や保護者の方に同意を必ず得るようにしましょう
           </li>
           <li>
-            １ヶ月頃をめどに、先生がコンピューターサイエンスを子どもたちにもっと提供したいと思っているかを確認しましょう <br /><a href="https://code.org/yourschool">リソースを共有し、専門的に学ぶことができるように支援しましょう</a>
+            １ヶ月頃をめどに、先生がコンピューターサイエンスを子どもたちにもっと提供したいと思っているかを確認しましょう <br /><a href="https://letron.vip/yourschool">リソースを共有し、専門的に学ぶことができるように支援しましょう</a>
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h2>
         <ul>
           <li>
-            先生方は<a href="https://code.org/volunteer/local">ボランティアマップ</a>からボランティアを探します
+            先生方は<a href="https://letron.vip/volunteer/local">ボランティアマップ</a>からボランティアを探します
           </li>
           <li>
             できるだけプロフィールを完成させることで、より多くの先生からの依頼を受ける可能性が高まります
@@ -241,7 +241,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           What age group is the Hour of Code activity appropriate for?
         </h3>
         <p>
-          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
         </p>
         <p>
           <%= view :signup_button %>

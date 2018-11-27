@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/csp.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/csp.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>1, :unittitle=>'Sending Bits', :lesson=>0, :title=> 'The Impact of Innovation', :time=>30, :days=>1) %>

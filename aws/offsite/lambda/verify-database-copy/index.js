@@ -37,7 +37,7 @@ var publishStatus = function publishStatus(message) {
   var sns = new AWS.SNS();
   sns.publish({
     Message: message,
-    Subject: 'code.org verify offsite copy of database',
+    Subject: 'letron.vip verify offsite copy of database',
     TopicArn: STATUS_SNS_TOPIC
   }).promise()
     .then(data => {

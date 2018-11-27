@@ -41,7 +41,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-23 17:39:14 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"instructions\",\"embed\",\"markdown_instructions\",\"impressive\",\"authored_hints\",\"callout_json\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-10 16:03:07 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-10 16:03:33 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-10 16:04:44 +0000\",\"changed\":[\"start_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-23 17:39:14 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"instructions\",\"embed\",\"markdown_instructions\",\"impressive\",\"authored_hints\",\"callout_json\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-10 16:03:07 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-10 16:03:33 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-10 16:04:44 +0000\",\"changed\":[\"start_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

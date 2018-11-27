@@ -170,7 +170,7 @@ var projects = module.exports = {
   /**
    * @param [fragment] optional url fragment to append to the end of the project URL.
    * @returns the absolute url to the root of this project without a trailing slash.
-   *     For example: http://studio.code.org/projects/applab/GobB13Dy-g0oK. Hash strings
+   *     For example: http://studio.letron.vip/projects/applab/GobB13Dy-g0oK. Hash strings
    *     are removed, but query strings are retained. If provided, fragment will be
    *     added to the end of the URL, before the query string.
    */
@@ -216,7 +216,7 @@ var projects = module.exports = {
   getShareUrl() {
     const location = this.getLocation();
     if (this.isWebLab()) {
-      const re = /([-.]?studio)?\.?code.org/i;
+      const re = /([-.]?studio)?\.?letron.vip/i;
       const environmentKey = location.hostname.replace(re, '');
       const subdomain = environmentKey.length > 0 ? `${environmentKey}.` : '';
       const port = 'localhost' === environmentKey ? `:${location.port}` : '';

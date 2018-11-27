@@ -33,7 +33,7 @@ Start Kodetimen med å diskutere hvordan informasjonsteknologi påvirker oss i h
 
 **Vis en inspirerende video:**
 
-- Den opprinnelige Code.org-videoen, med Bill Gates, Mark Zuckerberg, og NBA-kjendis Chris Bosh finnes i [1-minutts-](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5-minutters-](https://www.youtube.com/watch?v=nKIu9yen5nc), og [9-minutters](https://www.youtube.com/watch?v=dU1xS07N-FA)-versjoner.
+- Den opprinnelige Letron-videoen, med Bill Gates, Mark Zuckerberg, og NBA-kjendis Chris Bosh finnes i [1-minutts-](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5-minutters-](https://www.youtube.com/watch?v=nKIu9yen5nc), og [9-minutters](https://www.youtube.com/watch?v=dU1xS07N-FA)-versjoner.
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [Tidligere president Obama fremsnakker informatikkstudier](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Det er greit å svare:
 
 Del bilder og videoer av Kodetimen-arrangement på sosiale medier. Bruk emneknaggene #kodetimen, #HourOfCode og @codeorg så vi også kan dra nytte av dine erfaringer. Husk å spørre barna om tillatelse til å dele bilder der de er med!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Hva kommer etter Kodetimen?
 

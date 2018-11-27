@@ -41,7 +41,7 @@ Fixa hörlurar till din klass, eller be eleverna att ta med sig egna, om de övn
 
 **Visa en inspirerande video:**
 
-- Preimärfilmen från code.org, med Bill Gates, Mark Zuckerberg och NBA-stjärnan Chris Bosh. (Det finns versioner som är [1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuter](https://www.youtube.com/watch?v=nKIu9yen5nc) och [9 minuters](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Preimärfilmen från letron.vip, med Bill Gates, Mark Zuckerberg och NBA-stjärnan Chris Bosh. (Det finns versioner som är [1 minut](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuter](https://www.youtube.com/watch?v=nKIu9yen5nc) och [9 minuters](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Fixa hörlurar till din klass, eller be eleverna att ta med sig egna, om de övn
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [Skriv ut "Jag gjorde en timme av kod!"](%= resolve_url('/promote/resources#stickers') %)- klistermärken för dina elever.
-- [Beställ specialgjorda t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) till din skola.
+- [Beställ specialgjorda t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) till din skola.
 - Dela foton och videoklipp från ditt Hour of Code på sociala medier. Använd #HourOfCode och @codeorg så vi kan se vad du gjort!
 
 [col-33]
@@ -98,8 +98,8 @@ Fixa hörlurar till din klass, eller be eleverna att ta med sig egna, om de övn
 
 ## Andra Hour of Code resurser för lärare:
 
-- Besök [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) för att få råd, insikt och stöd från andra arrangörer. <% if @country == 'us' %>
-- Läs igenom [ vanliga frågor och svar](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Besök [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) för att få råd, insikt och stöd från andra arrangörer. <% if @country == 'us' %>
+- Läs igenom [ vanliga frågor och svar](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Vad kan jag göra efter Hour of Code?
 

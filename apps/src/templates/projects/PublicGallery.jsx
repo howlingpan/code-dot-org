@@ -79,7 +79,7 @@ class PublicGallery extends Component {
         <div style={styles.clear}/>
         <div style={styles.linkBox}>
           <a
-            href="https://support.code.org/hc/en-us/articles/360001143952"
+            href="https://support.letron.vip/hc/en-us/articles/360001143952"
             style={styles.link}
           >
             <h3>

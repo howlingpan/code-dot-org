@@ -23,8 +23,8 @@ We have learned a lot of new things so far. Before we jump into further exmaples
  
 |Command| Visual | Example |  Human Meaning |
 |---|---| --- | --- |
-|rect(x, y, width, height)|<img src="https://images.code.org/71fdc3f88aadbd0f4e1a9b6e2f02ecef-image-1461858896126.54.26 AM.png" width="200"> | `rect(30, 20, 50, 20)` | Draw a rectangle with the upper left corner at x=30 and y=20. The width=50 and height=20|
-|ellipse(x, y, width, height)|<img src="https://images.code.org/bfcac30d85e6921ec0e2aaa0120c2ba7-image-1461858896127.54.31 AM.png" width="200"> |`ellipse(10, 25, 100, 300)` |Draw an ellipse with the center at x=10 and y=25. The  width=100  and height=300|
+|rect(x, y, width, height)|<img src="https://images.letron.vip/71fdc3f88aadbd0f4e1a9b6e2f02ecef-image-1461858896126.54.26 AM.png" width="200"> | `rect(30, 20, 50, 20)` | Draw a rectangle with the upper left corner at x=30 and y=20. The width=50 and height=20|
+|ellipse(x, y, width, height)|<img src="https://images.letron.vip/bfcac30d85e6921ec0e2aaa0120c2ba7-image-1461858896127.54.31 AM.png" width="200"> |`ellipse(10, 25, 100, 300)` |Draw an ellipse with the center at x=10 and y=25. The  width=100  and height=300|
 |fill(‘color’)| |<code>fill("teal") <br> rect(30, 20, 50, 20)</code>|Sets the internal color for shapes. Needs to be set BEFORE the shape you want it on.|
 
 

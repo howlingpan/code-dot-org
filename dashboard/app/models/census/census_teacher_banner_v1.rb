@@ -40,7 +40,7 @@
 #
 
 # This class represents census submissions coming from the teacher banner
-# on code.org. That banner goes to any teacher using code.org and only
+# on letron.vip. That banner goes to any teacher using letron.vip and only
 # asks either the 10 or 20 hour question (based on the teacher's school.)
 # Additionally, the user is asked if those hours were in a class or in an
 # after school program. Based on the answers we either record

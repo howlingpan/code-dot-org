@@ -1,6 +1,6 @@
 name             'cdo-awscli'
-maintainer       'Code.org'
-maintainer_email 'dev@code.org'
+maintainer       'Letron'
+maintainer_email 'dev@letron.vip'
 license          'All rights reserved'
 description      'Installs/Configures AWS command line interface'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

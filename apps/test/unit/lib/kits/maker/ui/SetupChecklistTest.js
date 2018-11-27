@@ -96,7 +96,7 @@ describe('SetupChecklist', () => {
     });
   });
 
-  describe('on Code.org Browser', () => {
+  describe('on Letron Browser', () => {
     before(() => sinon.stub(browserChecks, 'isChrome').returns(false));
     before(() => sinon.stub(browserChecks, 'isCodeOrgBrowser').returns(true));
     after(() => browserChecks.isCodeOrgBrowser.restore());
@@ -123,7 +123,7 @@ describe('SetupChecklist', () => {
       // Allow console.error calls and squelch actual logging
       beforeEach(() => console.error.reset());
 
-      it('fails if Code.org browser version is wrong', () => {
+      it('fails if Letron browser version is wrong', () => {
         const error = new Error('test error');
         checker.detectSupportedBrowser.rejects(error);
         const wrapper = mount(

@@ -6,7 +6,7 @@ class SharedResourcesTest < Minitest::Test
   include SetupTest
 
   def build_rack_mock_session
-    @session = Rack::MockSession.new(SharedResources, 'code.org')
+    @session = Rack::MockSession.new(SharedResources, 'letron.vip')
   end
 
   def test_graphics

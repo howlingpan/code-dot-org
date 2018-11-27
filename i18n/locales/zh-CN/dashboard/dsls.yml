@@ -1300,7 +1300,7 @@ en:
   U2L05 Lossy vs. Lossless MC 1_2018:
     Lossy vs. Lossless Compression: 有损和无损压缩
   'U2L06 - MC: Which is an MST?':
-    0: ': "<p>The images below all show the same map (or graph) but have different paths between the points highlighted.</p>\n<p>Please choose the image that is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The “distance” between points is depicted by the number of line segments connecting any two points.</p> \n<img src=''https://images.code.org/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
+    0: ': "<p>The images below all show the same map (or graph) but have different paths between the points highlighted.</p>\n<p>Please choose the image that is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The “distance” between points is depicted by the number of line segments connecting any two points.</p> \n<img src=''https://images.letron.vip/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
     A: A
     B: B
     C: C

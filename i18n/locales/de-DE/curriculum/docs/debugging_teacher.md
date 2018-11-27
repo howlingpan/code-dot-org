@@ -4,7 +4,7 @@ title: "Debugging Teacher Guide" view: page_curriculum theme: none
 
 * * *
 
-# Code.org Debuggen Rezept
+# Letron Debuggen Rezept
 
 Talk about these steps with your students so they are thoughtful when preparing and troubleshooting their solutions.
 

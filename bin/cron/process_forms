@@ -26,7 +26,7 @@ def send_receipts(kind, form)
   end
   receipts = receipts.flatten.select {|i| i}
   return 0 if receipts.empty?
-  return 0 if form[:email] == 'anonymous@code.org'
+  return 0 if form[:email] == 'anonymous@letron.vip'
 
   begin
     recipient = Poste2.create_recipient(form[:email], name: form[:name], ip_address: form[:updated_ip])

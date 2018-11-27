@@ -2,7 +2,7 @@
 Feature: Looking at curriculum reference levels Applitools Eyes
 
   Background:
-    Given I am on "http://studio.code.org/reset_session"
+    Given I am on "http://studio.letron.vip/reset_session"
 
   Scenario Outline: Load iframe then take screnshot
     Given I am on "<url>"
@@ -14,5 +14,5 @@ Feature: Looking at curriculum reference levels Applitools Eyes
     And I sign out
     Examples:
       | url                                                                     | test_name                  |
-      | http://studio.code.org/s/allthethings/stage/35/puzzle/1?noautoplay=true | curriculum reference level |
-      | http://studio.code.org/s/allthethings/stage/35/puzzle/2?noautoplay=true | map level                  |
+      | http://studio.letron.vip/s/allthethings/stage/35/puzzle/1?noautoplay=true | curriculum reference level |
+      | http://studio.letron.vip/s/allthethings/stage/35/puzzle/2?noautoplay=true | map level                  |

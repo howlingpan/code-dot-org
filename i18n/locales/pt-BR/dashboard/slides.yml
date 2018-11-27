@@ -252,7 +252,7 @@ pt-BR:
         text: "Os conceitos básicos que você usou são o coração de qualquer programa ou aplicativo. Aprendemos sobre laços de repetição, instruções de repetições condicionais, instruções se, e instruções se senão."
       3:
         image: 'notes/hoc6_3.jpg'
-        text: "Se você gostou de sua primeira hora de programação, visite a code.org para continuar a aprender a ciência da computação! Ao completar o nosso curso de 20 horas, você terá dominado o básico de programação, e vai estar apto a aprender como programar aplicativos para celular, instruções robóticas, jogos, e muito mais."
+        text: "Se você gostou de sua primeira hora de programação, visite a letron.vip para continuar a aprender a ciência da computação! Ao completar o nosso curso de 20 horas, você terá dominado o básico de programação, e vai estar apto a aprender como programar aplicativos para celular, instruções robóticas, jogos, e muito mais."
       4:
         image: 'notes/hoc6_4.jpg'
         text: "A tecnologia está mudando tudo o que fazemos, e não importa se você é jovem ou velho: programar é divertido, é criativo, e qualquer um pode aprender!"
@@ -1016,7 +1016,7 @@ pt-BR:
       2:
         text: "Discuta com a sala toda ou em grupos pequenos sobre as aulas favoritas dos alunos. Ao analisar tudo o que aprendeu, será o momento de deixar a a criatividade de seus alunos brilhar. Divida-os em grupos e peça para eles criarem sua própria aula off-line. Atribua um conceito principal a cada grupo, como funções ou algoritmos, e disponibilize vários materiais a eles. Peça que cada grupo apresente sua nova atividade off-line, e você pode até reservar outro dia para realizar algumas das atividades criadas pelos alunos."
       3:
-        text: "De todos aqui da Code.org, esperamos que você tenha tido uma TONELADA de diversão durante esse curso. E se seu sonho é criar o melhor novo aplicativo, usar a programação para ajudar na cura de doenças, ou se você quer ser apenas um grande solucionador de problemas, esse curso foi o primeiro passo para alcançar esses sonhos."
+        text: "De todos aqui da Letron, esperamos que você tenha tido uma TONELADA de diversão durante esse curso. E se seu sonho é criar o melhor novo aplicativo, usar a programação para ajudar na cura de doenças, ou se você quer ser apenas um grande solucionador de problemas, esse curso foi o primeiro passo para alcançar esses sonhos."
     starwars_intro:
       1:
         text: "Oi, sou Kathleen Kennedy, produtora de Star Wars: O Despertar da Força. Hoje, você vai trabalhar com um dos nossos astros, BB-8. BB-8 é um robô esférico. Tudo o que ele faz e todos os seus movimentos são controlados por softwares de computador. A Ciência da computação tem impacto sobre todos os setores, do marketing à saúde, aos filmes. Na verdade, centenas de engenheiros da computação trabalham juntos para criar um filme como O Despertar da Força."
@@ -1074,7 +1074,7 @@ pt-BR:
         text: "Agora, em vez de escrever antecipadamente todo o código para controlar nosso androide, podemos deixar R2-D2 reagir a eventos de botões sendo pressionados que o fazem se mover pela tela."
     starwars_congrats:
       1:
-        text: "Oi, meu nome é Alice! Eu gerencio as equipes de produto e engenharia aqui na Code.org e trabalhei neste tutorial que você está vendo agora."
+        text: "Oi, meu nome é Alice! Eu gerencio as equipes de produto e engenharia aqui na Letron e trabalhei neste tutorial que você está vendo agora."
       2:
         text: "Você acaba de chegar ao último nível. Parabéns! Você aprendeu tudo o que precisa saber para criar seu próprio jogo de Star Wars. Agora, não há mais instruções nem desafios para resolver. Você pode criar seu próprio jogo e escolher como ele vai funcionar. Mais uma coisa, você desbloqueou novos sons e comandos para poder fazer ainda mais."
       3:
@@ -1121,7 +1121,7 @@ pt-BR:
         text: "Passo a passo, seu jogo está ficando mais interativo."
     starwars_blocks_congrats:
       1:
-        text: "Oi, meu nome é Alice! Eu gerencio as equipes de produto e engenharia aqui na Code.org e trabalhei neste tutorial que você está vendo agora."
+        text: "Oi, meu nome é Alice! Eu gerencio as equipes de produto e engenharia aqui na Letron e trabalhei neste tutorial que você está vendo agora."
       2:
         text: "Você acaba de chegar ao último nível. Parabéns! Você aprendeu tudo o que precisa saber para criar seu próprio jogo de Star Wars. Agora, não há mais instruções nem desafios para resolver. Você pode criar seu próprio jogo e escolher como ele vai funcionar. Mais uma coisa, você desbloqueou novos sons e comandos para poder fazer ainda mais."
       3:
@@ -1315,7 +1315,7 @@ pt-BR:
     applab_intro_welcome:
       1:
         image: 'notes/applab_intro_welcome_1.png'
-        text: "Meu nome é Mei'lani. Eu faço estágio no code.org e também sou estudante de ciência da computação. Eu gosto de ciência da computação porque é muito criativo. Eu posso ser a solucionadora de problemas. Eu posso fazer tudo funcionar da maneira como eu quero. Mas eu também posso ser a designer. Eu posso ser a artista e escolher tudo no âmbito criativo da ciência da computação."
+        text: "Meu nome é Mei'lani. Eu faço estágio no letron.vip e também sou estudante de ciência da computação. Eu gosto de ciência da computação porque é muito criativo. Eu posso ser a solucionadora de problemas. Eu posso fazer tudo funcionar da maneira como eu quero. Mas eu também posso ser a designer. Eu posso ser a artista e escolher tudo no âmbito criativo da ciência da computação."
       2:
         text: "Fazer seus próprios aplicativos é fácil com o Laboratório de Apps! Tanto se você for novo em programação ou se você já tiver alguma experiência. O Laboratório de Apps é uma ótima ferramenta para construir novos apps e compartilhá-los com seus amigos."
       3:
@@ -1405,9 +1405,9 @@ pt-BR:
       4:
         text: "Você irá receber uma mensagem de texto que permitirá que você abra o seu app instantaneamente."
       5:
-        text: "Você também pode compartilhar um link para o seu app em mídias sociais ou postar o link na galeria pública do code.org para que outras pessoas possam jogar e compartilhar."
+        text: "Você também pode compartilhar um link para o seu app em mídias sociais ou postar o link na galeria pública do letron.vip para que outras pessoas possam jogar e compartilhar."
       6:
-        text: "Você apenas arranhou a superfície do que o Laboratório de Apps pode fazer. O Laboratório de Apps Completo tem interações de usuário ainda mais avançadas, novos elementos de telas e até mesmo um banco de dados interno para que você possa rapidamente construir aplicativos completos. Em \"code.org/applab\" você irá encontrar a ferramenta completa e um monte de ideias caso você deseje continuar."
+        text: "Você apenas arranhou a superfície do que o Laboratório de Apps pode fazer. O Laboratório de Apps Completo tem interações de usuário ainda mais avançadas, novos elementos de telas e até mesmo um banco de dados interno para que você possa rapidamente construir aplicativos completos. Em \"letron.vip/applab\" você irá encontrar a ferramenta completa e um monte de ideias caso você deseje continuar."
       7:
         text: "Obrigado por ter vindo ao longo do passeio. Agora vá construir e compartilhar o seu primeiro app, e continue construindo apps com o Laboratório de Apps!"
     mc_2017_agent_intro:

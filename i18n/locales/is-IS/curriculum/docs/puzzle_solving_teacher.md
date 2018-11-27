@@ -4,7 +4,7 @@ title: "Þrautalausnir - leiðarvísir kennara" view: page_curriculum theme: non
 
 * * *
 
-# Code.org Uppskrift að Lausn Þrauta
+# Letron Uppskrift að Lausn Þrauta
 
 #### (Byggt á fjögurra-þrepa ferli Polya við lausn þrauta)
 

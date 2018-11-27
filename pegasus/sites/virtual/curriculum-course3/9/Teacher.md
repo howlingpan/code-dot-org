@@ -228,7 +228,7 @@ Use these activities to enhance student learning. They can be used as outside of
 ### Songwriting a Program
 
 - What if we acted out songs instead of singing them?  All of a sudden, our chorus would be a function of repeated actions, rather than words.
-- Use the concepts of the arrows from the [Graph Paper Programming](http://staging.code.org/curriculum/course2/1/Teacher) lesson and create a program with lots of repeating instructions.  
+- Use the concepts of the arrows from the [Graph Paper Programming](http://staging.letron.vip/curriculum/course2/1/Teacher) lesson and create a program with lots of repeating instructions.  
   - Circle those repeating actions so that the class can see where they are.
   - Define a function called "Chorus" above the program.
   - Cross out everywhere the repeating actions appear in the program and write "Chorus" instead.
@@ -236,7 +236,7 @@ Use these activities to enhance student learning. They can be used as outside of
 
 ### Functional Suncatchers
 
-- [Functional Suncatchers](https://code.org/curriculum/course3/4/Teacher) This activity shows functions from a different perspective. The students will follow a series of repetitive steps, then be asked to identify certain sets of “skills” that are duplicated several times. Once those skills are defined, they will be called from a main program and the whole beautiful process of creation will be recorded on a single sheet of paper.
+- [Functional Suncatchers](https://letron.vip/curriculum/course3/4/Teacher) This activity shows functions from a different perspective. The students will follow a series of repetitive steps, then be asked to identify certain sets of “skills” that are duplicated several times. Once those skills are defined, they will be called from a main program and the whole beautiful process of creation will be recorded on a single sheet of paper.
 
 [/together]
 

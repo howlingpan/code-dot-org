@@ -4,7 +4,7 @@ title: "Debugging Teacher Guide" view: page_curriculum theme: none
 
 * * *
 
-# Procedimento de depuração da Code.org
+# Procedimento de depuração da Letron
 
 Apresente esses passos para seus alunos, assim eles podem refletir quando estiverem preparando suas soluções e resolvendo problemas.
 

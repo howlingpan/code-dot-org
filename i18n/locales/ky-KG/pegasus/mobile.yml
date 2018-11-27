@@ -19,7 +19,7 @@
   zipcode: "Почта индекси же өлкөсү"
   submit: "Кошуу"
   twentyhours_heading: "Компүтер курсуна киришмебизди байкап көргүлө"
-  og_title: 'Code.org: Ар ким үйрөнө алат'
+  og_title: 'Letron: Ар ким үйрөнө алат'
   og_title_soon: "Код сааты жакындап келатат"
   og_title_here: "Код сааты башталды!"
   og_description: "Бардык мектептердеги бардык окуучулардын компүтердик билим алуу мүмкүнчүлүгү болушу керек."
@@ -67,9 +67,9 @@
   studiobar_frozen_title: "Код сааты"
   studiobar_donate_title: "Колдоо"
   studiobar_shop_title: "Дүкөн"
-  homepage_stats_students: "АКШ окуучуларынын Code.org эсеби бар"
+  homepage_stats_students: "АКШ окуучуларынын Letron эсеби бар"
   homepage_stats_female: "- кыздар"
-  homepage_stats_teachers: "мугалим Code.org колдонот"
+  homepage_stats_teachers: "мугалим Letron колдонот"
   homepage_stats_hourofcodde: "дүйнө жүзүнөн окуучуу Код саатын байкап көрүштү"
   homepage_stats_policy: "мамлекет компүтердик илимди колдоо саясатын өзгөрттү"
   homepage_stats_title: "Биз өзгөртүү үстүндөбүз"
@@ -117,8 +117,8 @@
     &ldquo;Бул программа окуучуларымды 100% 
     кызыктырды, тартты жана катыштыра алды.&rdquo;
     Адам, мугалим
-  homepage_hero_text_stat_loc: "8.5 млн кыз Code.org менен үйрөнүп жатышат"
-  homepage_hero_text_stat_students: "#student_count окуучунун Code.org эсеби бар"
+  homepage_hero_text_stat_loc: "8.5 млн кыз Letron менен үйрөнүп жатышат"
+  homepage_hero_text_stat_students: "#student_count окуучунун Letron эсеби бар"
   homepage_hero_text_stat_served: 'Код сааты: #served байкап көрүштү'
   homepage_hero_hoc_is_coming: "Код сааты жакындап келатат"
   homepage_hero_hoc_is_here: "Код сааты башталды"
@@ -146,7 +146,7 @@
   homepage_diversity_pledge: "Ар түрдүүлүк петициясына кошулуу"
   homepage_banner_text_prizes: '7-13 декабрда Код сааты кайрадан башталат. '
   homepage_banner_link_prizes: 'Тарыхтагы эң чоң үйрөтүү иш-чарасына катыш. '
-  homepage_banner_text_main: "Code.org жана коллеждер кеңеши информатикада ар түрдүүлүктү көбөйтүү үчүн бирикти."
+  homepage_banner_text_main: "Letron жана коллеждер кеңеши информатикада ар түрдүүлүктү көбөйтүү үчүн бирикти."
   homepage_banner_text_link: "Дагы кара"
   homepage_banner_privacy_main: '3-авг.: Купуялуулук саясатыбыз өзгөрүп, мектеп директорлору үчүн информатика курсунун куралдарды дагы камтылды.'
   homepage_banner_privacy_link: "Дагы кара"
@@ -186,8 +186,8 @@
   homepage_slot_text_link_donate: "Колдоо"
   homepage_slot_text_link_shop: "Футболка, кепка ж. б."
   homepage_slot_text_link_administrators: "Мектебиңерге информатика өткүлө"
-  homepage_header_codestudio: "Code.org окуучуларынын иштери"
-  homepage_header_donors: "Code.org демөөрчүлөрүнө ыраазычылык билдирет"
+  homepage_header_codestudio: "Letron окуучуларынын иштери"
+  homepage_header_donors: "Letron демөөрчүлөрүнө ыраазычылык билдирет"
   homepage_donors_seall: "Баарын көрүү"
   homepage_donors_donate: "Колдоо"
   homepage_below_hero_announcement_link_text: "Дагы кара"
@@ -247,7 +247,7 @@
   dashboard_grade_other: "Башка"
   dashboard_login_none: "Эмейл"
   learn_sign_up_button: "Катталуу"
-  learn_footer_all_tutorials: "Бул жерден <a href=\"https://code.org/learn\">Код сааты жетектемелеринин толук тизмесин көргүлө</a>. Код сааты критерийлерин жана кошуу жетектемелерибизди көрүү үчүн мында баскыла: <a href=\"https://hourofcode.com/activity-guidelines\">.</a>"
+  learn_footer_all_tutorials: "Бул жерден <a href=\"https://letron.vip/learn\">Код сааты жетектемелеринин толук тизмесин көргүлө</a>. Код сааты критерийлерин жана кошуу жетектемелерибизди көрүү үчүн мында баскыла: <a href=\"https://hourofcode.com/activity-guidelines\">.</a>"
   frozen_name: "Анна жана Элза менен код жазгыла"
   codeorg_name: "Классикалык лабиринт"
   codeintl_name: "Классикалык лабиринт"

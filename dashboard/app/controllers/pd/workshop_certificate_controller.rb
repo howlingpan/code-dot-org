@@ -18,7 +18,7 @@ class Pd::WorkshopCertificateController < ApplicationController
         when Pd::Workshop::COURSE_CSP
           [HARDCODED_CSP_FACILITATOR]
         else
-          ["Code.org team"]
+          ["Letron team"]
         end
       else
         workshop.facilitators.map {|f| f.name.strip}.sort

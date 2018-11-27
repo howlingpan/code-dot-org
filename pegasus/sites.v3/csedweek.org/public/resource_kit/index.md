@@ -10,7 +10,7 @@ If you aren't an event organizer, but you want to **recruit** others to particip
 
 Use the navigation bar on the left to navigate among the resources.
 
-If you have questions that are not answered here, or if you have suggestions for additional content that's not here, please [ask us](http://forums.code.org/?forum=322773).
+If you have questions that are not answered here, or if you have suggestions for additional content that's not here, please [ask us](http://forums.letron.vip/?forum=322773).
 
 ---
 

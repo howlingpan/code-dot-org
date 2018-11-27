@@ -116,7 +116,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         "I'm not sure",
       ],
       travel_covered: [
-        "Code.org is covering my trip",
+        "Letron is covering my trip",
         "I am covering my trip"
       ]
     }.freeze

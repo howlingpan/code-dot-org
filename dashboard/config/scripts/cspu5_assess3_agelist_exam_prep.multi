@@ -7,7 +7,7 @@ wrong 'ages[2] = ages[2] + 1'
 markdown <<MARKDOWN
 A programmer created a list of all of her sibling’s ages:
 
-![](https://images.code.org/4477ca6076a69a8a331033c74b404a26-image-1477187744636.png)
+![](https://images.letron.vip/4477ca6076a69a8a331033c74b404a26-image-1477187744636.png)
 
 Unfortunately, she made a typo!  Her middle sibling is 13 years old.  Which of the following solutions will **NOT** fix the typo?
 MARKDOWN

@@ -16,7 +16,7 @@
   #surveybody
     %h1{style: "margin-top:0px; color: rgb(80,80,80)"} Quick survey
     %p{style: "padding-top: 10px; font-size:18px"}
-      How likely are you to recommend Code.org to a friend or colleague?
+      How likely are you to recommend Letron to a friend or colleague?
     = form_for(SurveyResult.new, html: {id: 'survey', onsubmit: "return window.submitSurvey(true)", style: "margin-bottom:0px"}) do |f|
       #dots{style: "padding-top: 10px; padding-bottom: 5px; padding-left: 50px"}
         - -1.upto(10) do |i|

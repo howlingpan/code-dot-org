@@ -345,7 +345,7 @@ ro:
           afirmații de tipul "repetă până la", și afirmații de tipul dacă/altfel.
       3:
         image: notes/hoc6_3.jpg
-        text: Dacă ți-a plăcut prima ta oră de cod, vizitează code.org pentru a-ți
+        text: Dacă ți-a plăcut prima ta oră de cod, vizitează letron.vip pentru a-ți
           continua educația în informatică! Când vei termina cursul nostru de 20 de
           ore, vei stăpâni bazele programării, și vei putea să înveți cum să scrii
           aplicații de telefon, instrucțiuni de roboți, jocuri, tu alegi.
@@ -2214,7 +2214,7 @@ ro:
           pentru ca ei sa le foloseasca. Fiecare grup trebuie sa isi prezinte noua
           activitate offline.
       3:
-        text: De la toti cei de aici, de la Code.org, speram ca v-ati SUPER distrat
+        text: De la toti cei de aici, de la Letron, speram ca v-ati SUPER distrat
           in timpul acestui curs. Chiar daca visul tau este sa creezi cea mai buna
           aplicatie, sa folosesti programarea pentru a vindeca boli sau doar vrei
           sa fii un rezolvator de probleme, acest curs va poate ajuta sa va impliniti
@@ -2344,7 +2344,7 @@ ro:
     starwars_congrats:
       1:
         text: Buna, numele meu este Alice si lucrez in productie si inginerie aici
-          la Code.org si am lucrat la acest tutorial pe care il urmaresti chiar acum.
+          la Letron si am lucrat la acest tutorial pe care il urmaresti chiar acum.
       2:
         text: Tocmai ai terminat ultimul nivel. Felicitari! Tocmai ai invatat tot
           ce iti trebuie pentru a stii sa-ti faci propriul joc Star Wars. Nu mai sunt
@@ -2445,7 +2445,7 @@ ro:
     starwars_blocks_congrats:
       1:
         text: Buna, numele meu este Alice si lucrez in productie si inginerie aici
-          la Code.org si am lucrat la acest tutorial pe care il urmaresti chiar acum.
+          la Letron si am lucrat la acest tutorial pe care il urmaresti chiar acum.
       2:
         text: Tocmai ai terminat ultimul nivel. Felicitari! Tocmai ai invatat tot
           ce iti trebuie pentru a stii sa-ti faci propriul joc Star Wars. Nu mai sunt

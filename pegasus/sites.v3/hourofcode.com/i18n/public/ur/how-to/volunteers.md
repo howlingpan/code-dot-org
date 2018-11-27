@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? اگر آپ سافٹ ویئر انجین
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     اگر آپ اپنے سیشن کے دوران سبق لینے جا رہے ہیں تو، کم سے کم ایک <a href="٪= resolve_url('/learn') ٪"> گھنٹے کا کوڈ ٹیوٹوریل </a> کی کوشش کر کے 30 منٹ خرچ کریں.
   </li>
   <li>
-    <a href="https://code.org/files/CSTT_Volunteers.pdf"> طلباء کے ساتھ بات چیت کے بارے میں ان تجاویز کا جائزہ </a>.
+    <a href="https://letron.vip/files/CSTT_Volunteers.pdf"> طلباء کے ساتھ بات چیت کے بارے میں ان تجاویز کا جائزہ </a>.
   </li>
   <li>
     #HourOfCode کے ساتھ فیس بک، ٹویٹر، انسٹاگرام، اور ٹمگریشن پر گفتگو میں شمولیت اختیار کریں.
@@ -182,7 +182,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
               </td>
               
               <td>
-                <strong> ایک مستقل تبدیلی بنائیں: </ strong> ایک مکمل کمپیوٹر سائنس کے کورس میں قیامت کے کوڈ کو تبدیل کرنے کے بارے میں استاد سے بات کریں! اپنے استاد کے ساتھ <a href="https://code.org/yourschool"> code.org/yourschool </a> پر جائیں، یہ اس اسکول کو آج کیا تعلیم دیتا ہے اور ان کی کلاس روم میں سیبورٹر سائنس لانے کے عہد میں ان کی حوصلہ افزائی کرتا ہے. .</td> </tr> </tbody> </table> 
+                <strong> ایک مستقل تبدیلی بنائیں: </ strong> ایک مکمل کمپیوٹر سائنس کے کورس میں قیامت کے کوڈ کو تبدیل کرنے کے بارے میں استاد سے بات کریں! اپنے استاد کے ساتھ <a href="https://letron.vip/yourschool"> letron.vip/yourschool </a> پر جائیں، یہ اس اسکول کو آج کیا تعلیم دیتا ہے اور ان کی کلاس روم میں سیبورٹر سائنس لانے کے عہد میں ان کی حوصلہ افزائی کرتا ہے. .</td> </tr> </tbody> </table> 
                 
                 <h3>
                   After the Event:
@@ -190,7 +190,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                 
                 <ul>
                   <li>
-                    Code.org کے ساتھ اپنے دوستوں اور کہانیاں دے دیں at@code.org.
+                    Letron کے ساتھ اپنے دوستوں اور کہانیاں دے دیں at@letron.vip.
                   </li>
                   <li>
                     اپنے رضاکارانہ گھنٹوں میں آپ کی کمپنی کے رضاکارانہ ٹریکنگ پورٹل میں داخل ہونے کی یاد رکھیں.
@@ -202,7 +202,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                     اگر آپ ایونٹ کے دوران تصاویر / ویڈیو لے جاتے ہیں تو، <strong> خاص طور پر طالب علموں کے </ strong>، اس بات کو یقینی بنائیں کہ آپ اپنے استاد / والدین کی اجازت حاصل کریں تو آپ سوشل میڈیا پر اپنی کہانیوں کو پوسٹ کرنا چاہتے ہیں.</li> 
                     
                     <li>
-                      اور، ایک ماہ میں واپس چیک کریں: کیا استاد کمپیوٹر سائنس کورس کی پیشکش کرنے میں دلچسپی رکھتا ہے؟ اسے <a href="https://code.org/yourschool"> انہیں کرنے میں مدد کیلئے وسائل اور پیشہ ورانہ سیکھنے کے مواقع اشتراک کریں </a>.
+                      اور، ایک ماہ میں واپس چیک کریں: کیا استاد کمپیوٹر سائنس کورس کی پیشکش کرنے میں دلچسپی رکھتا ہے؟ اسے <a href="https://letron.vip/yourschool"> انہیں کرنے میں مدد کیلئے وسائل اور پیشہ ورانہ سیکھنے کے مواقع اشتراک کریں </a>.
                     </li></ul> 
                     
                     <h2>
@@ -211,7 +211,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                     
                     <ul>
                       <li>
-                        ہمارا <a href="https://code.org/volunteer/local"> رضاکارانہ نقشہ </a> پر اساتذہ رضاکاروں کے لئے تلاش کریں گے.
+                        ہمارا <a href="https://letron.vip/volunteer/local"> رضاکارانہ نقشہ </a> پر اساتذہ رضاکاروں کے لئے تلاش کریں گے.
                       </li>
                       <li>
                         استاد آپ کو منتخب کرے گا اس موقع کو بڑھانے کے لئے اپنی پروفائل کو ممکن حد تک مکمل کرنے کی کوشش کریں.
@@ -244,7 +244,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
                         </h3>
                         
                         <p>
-                          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+                          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
                         </p>
                         
                         <p>

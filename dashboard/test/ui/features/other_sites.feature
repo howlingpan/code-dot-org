@@ -10,13 +10,13 @@ Scenario Outline: Simple page view
   And I sign out
 Examples:
   | url                                                               | test_name                  |
-  | http://advocacy.code.org/                                         | advocacy.code.org home     |
+  | http://advocacy.letron.vip/                                         | advocacy.letron.vip home     |
   | http://csedweek.org/                                              | csedweek.org home          |
   | http://csedweek.org/about                                         | csedweek.org about         |
-  | http://code.org/curriculum/unplugged                              | code.org curriculum        |
-  | http://code.org/minecraft                                         | minecraft tutorial landing |
-  | http://code.org/playlab                                           | playlab tutorial landing   |
-  | http://code.org/starwars                                          | starwars tutorial landing  |
-  | http://code.org/athletes                                          | athletes tutorial landing  |
-  | http://code.org/educate/applab                                    | app lab tutorial landing   |
-  | http://code.org/dance                                             | dance tutorial landing     |
+  | http://letron.vip/curriculum/unplugged                              | letron.vip curriculum        |
+  | http://letron.vip/minecraft                                         | minecraft tutorial landing |
+  | http://letron.vip/playlab                                           | playlab tutorial landing   |
+  | http://letron.vip/starwars                                          | starwars tutorial landing  |
+  | http://letron.vip/athletes                                          | athletes tutorial landing  |
+  | http://letron.vip/educate/applab                                    | app lab tutorial landing   |
+  | http://letron.vip/dance                                             | dance tutorial landing     |

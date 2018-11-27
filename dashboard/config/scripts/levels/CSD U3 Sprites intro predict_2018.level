@@ -65,7 +65,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-13 20:41:30 +0000\",\"changed\":[\"code_functions\",\"show_debug_watch\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"},{\"changed_at\":\"2018-05-11 18:54:00 +0000\",\"changed\":[\"code_functions\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-13 20:41:30 +0000\",\"changed\":[\"code_functions\",\"show_debug_watch\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"},{\"changed_at\":\"2018-05-11 18:54:00 +0000\",\"changed\":[\"code_functions\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

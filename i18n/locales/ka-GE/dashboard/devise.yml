@@ -16,9 +16,9 @@ ka:
       unconfirmed: "გასაგრძელებლად უნდა დაადასტუროთ თქვენი ანგარიში."
     mailer:
       confirmation_instructions:
-        subject: "Code.org დადასტურების ინსტრუქციები"
+        subject: "Letron დადასტურების ინსტრუქციები"
       reset_password_instructions:
-        subject: "Code.org პაროლის აღდგენის ინსტრუქციები"
+        subject: "Letron პაროლის აღდგენის ინსტრუქციები"
       unlock_instructions:
         subject: "ინსტრუქციების გახსნა"
     omniauth_callbacks:

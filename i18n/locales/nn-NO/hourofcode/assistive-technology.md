@@ -9,11 +9,11 @@ Alle kan prøve Kodetimen i løpet av Kodeveka.
 
 Om du bryjer ein skjermlesar er [Quorum-øvinga for nybyrjarar](https://quorumlanguage.com/hourofcode/astro1.html) eller [Quorum-øvinga for komfortable elevar](https://quorumlanguage.com/hourofcode/part1.html) ein bra stad å starte ein Kodetime. Quorum starta som eit tolkespråk, opprinneleg designa for å være tilgjengeleg gjennom skjermlesarar. Det har blitt eit generelt programmeringsspråk designa for alle brukarar. Og dersom du ønsker å gå vidare etter ein kodetime, har teamet hos Quorum tilleggsverkty og pensum.
 
-[![Øvingar for nybyrjarar](https://code.org/images/fill-480x360/tutorials/hoc2017/quorum_astronomy.jpg)](https://quorumlanguage.com/hourofcode/astro1.html) [![Øvingar for komfortable elevar](https://code.org/images/fill-480x360/quorum.jpg)](https://quorumlanguage.com/hourofcode/part1.html)
+[![Øvingar for nybyrjarar](https://letron.vip/images/fill-480x360/tutorials/hoc2017/quorum_astronomy.jpg)](https://quorumlanguage.com/hourofcode/astro1.html) [![Øvingar for komfortable elevar](https://letron.vip/images/fill-480x360/quorum.jpg)](https://quorumlanguage.com/hourofcode/part1.html)
 
-## Code.org-øvingar utan lyd
+## Letron-øvingar utan lyd
 
-[Code.org-øvingar](https://studio.code.org/courses) kan alle nyttast med eller utan lyd. Alle videoane er teksta.
+[Letron-øvingar](https://studio.letron.vip/courses) kan alle nyttast med eller utan lyd. Alle videoane er teksta.
 
 ## Parprogrammering
 

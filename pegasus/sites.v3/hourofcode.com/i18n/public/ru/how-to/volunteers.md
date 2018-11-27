@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? Если вы работаете в ра
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     Если вы собираетесь посетить школу, соберите все нужные справки или требуемые документы.
   </li>
   <li>
-    <a href="https://code.org/files/CSTT_Volunteers.pdf">Просмотрите эти советы</a> о том, как взаимодействовать с учениками.
+    <a href="https://letron.vip/files/CSTT_Volunteers.pdf">Просмотрите эти советы</a> о том, как взаимодействовать с учениками.
   </li>
   <li>
     Присоединитесь к обсуждению на Facebook, Twitter, Instagram и Tumblr c хештегом #HourOfCode.
@@ -184,7 +184,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           </td>
           
           <td>
-            <strong>Предложите долгосрочное изменение:</strong> Поговорите с учителем о превращении Часа Кода в полноценный курс компьютерных наук! Перейдите на <a href="https://code.org/yourschool">code.org/yourschool</a> с вашим учителем, чтобы указать чему школа обучает сегодня и поощрить их пообещать привнести компьютерную науку в их классы.
+            <strong>Предложите долгосрочное изменение:</strong> Поговорите с учителем о превращении Часа Кода в полноценный курс компьютерных наук! Перейдите на <a href="https://letron.vip/yourschool">letron.vip/yourschool</a> с вашим учителем, чтобы указать чему школа обучает сегодня и поощрить их пообещать привнести компьютерную науку в их классы.
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h3>
         <ul>
           <li>
-            Поделитесь своими фото или рассказом с Code.org через giving@code.org.
+            Поделитесь своими фото или рассказом с Letron через giving@letron.vip.
           </li>
           <li>
             Не забудьте указать ваши волонтерские часы на портале волонтерской деятельности вашей компании.
@@ -205,7 +205,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
             Если вы снимали фото или видео во время мероприятия, <strong>особенно с участием учеников</strong>, убедитесь что вы получили разрешение учителя или родителя, если вы хотите опубликовать их в социальных медиа.
           </li>
           <li>
-            И проверьте через месяц: заинтересован ли учитель в предоставлении курса компьютерной науки? Поделитесь <a href="https://code.org/yourschool">ресурсами и возможностями профессионального обучения, которые могут помочь им сделать это</a>.
+            И проверьте через месяц: заинтересован ли учитель в предоставлении курса компьютерной науки? Поделитесь <a href="https://letron.vip/yourschool">ресурсами и возможностями профессионального обучения, которые могут помочь им сделать это</a>.
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h2>
         <ul>
           <li>
-            Учителя ищут волонтеров на нашей <a href="https://code.org/volunteer/local">карте волонтеров</a>.
+            Учителя ищут волонтеров на нашей <a href="https://letron.vip/volunteer/local">карте волонтеров</a>.
           </li>
           <li>
             Постарайтесь заполнить ваш профиль как можно полнее, чтобы повысит шанс что учитель выберет вас.
@@ -241,7 +241,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           What age group is the Hour of Code activity appropriate for?
         </h3>
         <p>
-          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
         </p>
         <p>
           <%= view :signup_button %>

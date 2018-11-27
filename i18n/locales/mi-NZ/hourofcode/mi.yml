@@ -11,7 +11,7 @@ mi:
   campaign_date_full: "5- 11 o Hakihea"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 Hakihea, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ mi:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Tēnā whakapiri mai ki te takunetanga ako nui whakaharahara o te wā, %{campaign_date}'
   front_intro_default: 'He kuhunga ā-ao te Hour of Code kua pā ki ngā ākonga piriona, kua horapa hoki ki ngā whenua 180 neke atu. Ahakoa ko wai, ahakoa nō hea, e wātea ana kia kawea e wai rānei i tētahi takunetanga Hour of Code. He whakaakoranga kotahi haora te roa kua whakamāoritia ki ngā reo e 45 neke atu. Ehara i te mea me tae mōhio atu. <strong>Pakeke 4 ki te 104.</strong>'
@@ -186,12 +186,12 @@ mi:
   how_to_nav_afterschool_educators: "Mā ngā kaiwhakaako o muri i te kura"
   how_to_nav_volunteers: "Mā ngā tūao"
   whats_next_header: "He aha kei te aroaro?"
-  whats_next_description: "Ka tukuna e mātou ētahi rauemi me ētahi kōrero āwhina mō tāu takunetanga.<a href='http://code.org/learn'>Whakamātauria ngā akoranga o te wā</a>he mea āhei me ngā pūtirotiro katoa, te waea atamai - me te kore te kore rorohiko rānei!"
+  whats_next_description: "Ka tukuna e mātou ētahi rauemi me ētahi kōrero āwhina mō tāu takunetanga.<a href='http://letron.vip/learn'>Whakamātauria ngā akoranga o te wā</a>he mea āhei me ngā pūtirotiro katoa, te waea atamai - me te kore te kore rorohiko rānei!"
   whats_next_how_to: "<a href='/how-to'>Te Whakahaere i tētahi Hour of Hode</a>"
   whats_next_promote: "<a href='/promote'>Whakatairangatia te Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote'>Te whakatairanga i tētahi Hour of Code</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Te whakatairanga i tētahi Hour of Code</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Whakamātau i ngā whakaakoranga</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Whakamātau i ngā whakaakoranga</a>"
   whats_next_try_button: 'Whakamātau i ngā whakaakoranga'
   n_have_learned_an_hoc: "<h1>Whakamātau i tētahi</h1><h2>Hour of Code</h2><h3>#tāngata kua whakamāutau kē</h3>"
   anybody_can_learn: 'E taea ana e wai rānei te ako.'
@@ -238,8 +238,8 @@ mi:
   front_join_us_sign_up: "Waitohu Mai"
   front_join_us_host: "Taurimatia"
   front_join_us_support: "Tautokotia"
-  front_join_us_more_info: "Mō ētahi atu mōhiohio, toro atu ki <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "Mō ētahi atu mōhiohio, tēnā toro atu ki code.org"
+  front_join_us_more_info: "Mō ētahi atu mōhiohio, toro atu ki <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "Mō ētahi atu mōhiohio, tēnā toro atu ki letron.vip"
   front_join_us_n_students_served: "#tāngata i whai wāhi"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ mi:
   signup_your_event: 'Waitohungia tō takunetanga'
   signup_host_an_hour: 'Taurimatia tētahi haora'
   signup_match_volunteer: 'Tēnā āwhinatia ahai ki te rapu i tētahi kaipūkaha pūmanawa o te takiwā ki te whakakipakipa i aku ākonga'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ mi:
   signup_continue_label: 'Continue'
   signup_thank_you_header: "Tēnā koe i tō waitohu mai ki te kawe i tētahi takunetanga Hour of Code."
   signup_thank_you_message: 'Kua tukuna e mātou tētahi īmēra whakaū me ngā mōhiohio e tika ana kia tīmata pai ai koe.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ mi:
   hoc_faq_host_q: "Kāore aku mōhiotanga ki tēnei mea te waehere. E whakaae tonu ana māku tētahi takunetanga e taurima?"
   hoc_faq_host_a: "Āna. He mea ārahi-whaiaro ngā ngohe o Hour of Code. Ko tāu he<a href='%{codeorg_url}/learn'>whakamātau i ngā whakaakoranga o te wā nei</a>, he whiriwhiri i tāu e hiahia ana, me tētahi haora&mdash;, ā, mā mātou te toenga. He kōwhiringa hoki ā mātou mā ngā tāngata katoa ahakoa te pakeke, ahakoa hoki te taumata-mōhio, mai i te whare kōhungahunga piki ake. Me tīmata ki te whakamahere i tō takunetanga mā te pānui i tā mātou <a href='/how-to'>puka aratohu</a>."
   hoc_faq_devices_q: "Ko ēhea pūrere hei whakamahi māku me aku ākonga?"
-  hoc_faq_devices_a: "He mea whakahaere ngā whakaakoranga Code.org ki ngā pūrere me ngā pūtirotiro katoa. He mōhiohio atu anō e wātea ana mō ngā hiahia ā-hangarau mō ngā whakaakoranga Code.org <a href='%{codeorg_url}/educate/it'> ki konei</a>. Ko ngā hiahia ā-hangarau mō ngā whakaakoranga ehara i te whakaakoranga Code.org ka kitea i <a href='%{codeorg_url}/learn'>%{partner_url}/ako</a>ki ngā whakaahuatanga motuhake o te whakaakoranga. Kaua hoki e wareware, ka whakaratoa hoki e mātou ētahi <a href='%{unplugged_url}'>ngohe momotu</a>ki te kore e taea e tō kura ngā whakaakoranga te whakahaere!"
+  hoc_faq_devices_a: "He mea whakahaere ngā whakaakoranga Letron ki ngā pūrere me ngā pūtirotiro katoa. He mōhiohio atu anō e wātea ana mō ngā hiahia ā-hangarau mō ngā whakaakoranga Letron <a href='%{codeorg_url}/educate/it'> ki konei</a>. Ko ngā hiahia ā-hangarau mō ngā whakaakoranga ehara i te whakaakoranga Letron ka kitea i <a href='%{codeorg_url}/learn'>%{partner_url}/ako</a>ki ngā whakaahuatanga motuhake o te whakaakoranga. Kaua hoki e wareware, ka whakaratoa hoki e mātou ētahi <a href='%{unplugged_url}'>ngohe momotu</a>ki te kore e taea e tō kura ngā whakaakoranga te whakahaere!"
   hoc_faq_need_computers_q: 'E tika ana kia whai rorohiko te katoa o ngā kaiuru?'
   hoc_faq_need_computers_a: "Kāore. He whakaakoranga Hour of Code ā mātou ka whakahaerehia ki ngā rorohiko PC, ngā waea atamai, ngā paparorohiko, me ētahi atu anō hoki e āhei ana me te kore rorohiko! Ka pai noa iho tō piri mai ahakoa ki hea, ahakoa hoki tāu momo pūrere. <p><i>Anei ētahi kōwhiringa:</i><br><ul><li><b>Mahi takirua.</b><a href='%{pair_programming_research}'>He mea whakaatu mai e te rangahau</a>ka pai ake te ako a te ākonga mā roto mai i te <a href='%{pair_programming_video}'>papatonotanga takirua</a>, mā te mahitahi ki tētahi rorohiko me te mahitahi ā-takirua. Me akiaki i ngā ākonga ki te mahi takirua.<li><b>Whakamahia tētahi mata rauata.</b> Mēnā he rauata, he mata hoki tāu mō tētahi rorohiko honohono ā-Tukutuku ka taea e te katoa o te rōpū tētahi Hour of Code ā-rōpū. Mātakitaki ā-rōpū ngā wāhanga ataata, ā, ka whai wāhi te katoa ki te whakaoti panga, ki te whakautu pātai rānei. <li><b>Me uru momotu.</b>Ka whakaratoa e mātou<a href='%{unplugged_url}'>ētahi whakaakoranga rorohiko kore</a>.</ul>"
   hoc_faq_international_q: "Kei <country> ahau. Ka pēhea taku uru atu?"
@@ -350,7 +350,7 @@ mi:
   hoc_faq_high_school_q: "Me kawe ahau i tēhea ngohe me aku ākonga kura tuarua?"
   hoc_faq_high_school_a: "He rawe te whakaakoranga Star Wars me te whakaakoranga Mahimaina mā ngā ākonga kura tuarua. Kātahi te mea pai ko te Star Wars putanga JavaScript me te taumata tākaro wātea kei ia whakaakoranga. Hei whakaaro atu anō, e taunaki ana mātou me whakamātau i tētahi o ngā whakaakoranga tauhou kei <a href='%{codeorg_url}/learn'>%{partner_url}/ako</a>hei tīmatanga, pēnei i te whakaakoranga Angry Birds, te whakaakoranga rānei me Anna rāu ko Elsa. Tōna tikanga ka tutuki e te ākonga kura tuarua tēnei whakaakoranga i te 30 miniti kātahi ka huri ki tētahi whakaakoranga taumata kē ki JavaScript pēnei i Khan Academy, o CodeHS rānei."
   hoc_faq_scratch_q: "E kawe ana ahau i te Scratch mō te Hour of Code, otirā, me aha ahau mēnā he īPapa noa iho ā rātou, arā, karekau ā rātou rorohiko pona?"
-  hoc_faq_scratch_a: "Tē taea te Scratch te whakahaerehia ki ngā paparorohiko. Mēnā he nohinohi tonu ngā ākonga ka pai te taupānga īPapa ScratchJR (mō ngā tamariki e ako ana ki te pānui). Ki te titiro koe ki ngā whakaakoranga kei<a href='%{codeorg_url}/learn'>%{partner_url}/ako</a>ka kite i ētahi atu whakaakoranga e āhei ana te whakahaere i te īPapa - Tynker, Lightbot, CodeSpark nō Code.org."
+  hoc_faq_scratch_a: "Tē taea te Scratch te whakahaerehia ki ngā paparorohiko. Mēnā he nohinohi tonu ngā ākonga ka pai te taupānga īPapa ScratchJR (mō ngā tamariki e ako ana ki te pānui). Ki te titiro koe ki ngā whakaakoranga kei<a href='%{codeorg_url}/learn'>%{partner_url}/ako</a>ka kite i ētahi atu whakaakoranga e āhei ana te whakahaere i te īPapa - Tynker, Lightbot, CodeSpark nō Letron."
   hoc_faq_count_hoc_q: "Ka pēhea te tatau i ngā Hours of Code?"
   hoc_faq_map_q: "He te take kāore au i te kite i taku tongi ki te mahere?"
   hoc_faq_map_a: "Kia manawanui mai i te korenga o tō takunetanga ake i te mahere Hour of Code. He manomano kaiwhakarite ka waitohu mai, ā, ko tā te mahere he whakahiato i ngā raraunga me te whakaatu i tētahi tohu mō ngā takunetanga maha. Ki te pāwhiri koe i te tau kei runga ake i te mahere ka tukuna koe ki tētahi rārangi o ngā takunetanga katoa ā-rohe, ā, ka kitea tō takunetanga ki reira. Hei tāpiri atu, nā te mea he manomano tāngata e waitohu ana ki Hour of Code ka pau te 48 haora kia whakahoutia te mahere me te rārangi takunetanga. Hoki mai anō hei ngā rangi tata nei!"
@@ -358,13 +358,13 @@ mi:
   hoc_faq_one_hour_q: "He pēhea te nui o tā te tangata ako i te haora kotahi?"
   hoc_faq_one_hour_a: 'Kāore a Hour of Code e whai ana kia mātanga kaipūtaiao rorohiko te tangata i roto i te kotahi haora. Ka taea noa iho, i taua haora kotahi, te ako i te ngahau, i te auaha hoki o te mahi pūtaiao, ā, kia mōhio hoki i te wātea ki te tangata ahakoa te pakeke, ki ngā ākonga katoa ahakoa te ahurea. Kāore hoki te angitu o tēnei whakamataaratanga e inehia mā te nui o te pūtaiao rorohiko ka akona, heoi anō tāna angitu he mea ka kitea i te whānuitanga o ngā kaiuru puta noa i ngā ira, ngā iwi, me ngā pāpori katoa, ā, ko tona hua, ko te nui tonu o te tangata ka uru atu, ka whai wāhi atu hoki ki ngā akoaranga pūtaiao rorohiko i ngā taumata ako katoa. Kei ngā miriona te tokonui o ngā kaiuru pouako atu, ākonga mai ki neke ki tua o te kotahi haora nei ki te ako i te roanga atu o te rā, o te wiki, o te aha rānei, ā, ko te hua o tēnei ko te urunga o ngā ākonga ki ngā akoranga wā kikī (te wahi rānei i te tohu whare wānanga).<br/><br/>Hāunga ngā ākonga ko tērā atu momo "tauira" tērā ko te pouako kua māia i roto i te haora kotahi ki te whakaako i te pūtaiao rorohiko ahakoa kāore pea i a rātou tētahi tohu whare wānanga, ehara hoki rātou i te kaipūtaiao rorohiko. He manomano pouako kua noho whakatau kia whāia tonuhia te pūtaiao rorohiko ki taumata kē atu mā te uru ki tētahi ngaiotanga, mā te whakarato ngāiotanga ā-tuihino rānei, mā ngā mea e rua rānei. E hāngai hoki ana ēnei kōrero ki ngā kaiwhakahaere kura i runga i tō rātou mōhio ko te pūtaiao rorohiko tētahi marau e tino kaingākautia ana e ngā ākonga, e tino taea ana hoki e ngā pouako. <br/><br/>Ko te mea nui, ko te mōhio o ngā kaiuru ka taea e rātou tēnei te mahi i roto i te haora kotahi.'
   hoc_faq_more_questions_q: "He pātai tonu āu?"
-  hoc_faq_more_questions_a: "Tērā pea ka kitea te whakautu ki tā mātou <a href='http://support.code.org'>wānanga tautoko</a>."
+  hoc_faq_more_questions_a: "Tērā pea ka kitea te whakautu ki tā mātou <a href='http://support.letron.vip'>wānanga tautoko</a>."
   hoc_faq_keep_learning_q: "Ka pēhea taku ako tonu i muri atu i te Hour of Code?"
   hoc_faq_keep_learning_a: "E āhei ana te tangata, ahakoa ko wai, tētahi Hour of Code te taurima i te wā e hiahia ana. Ka noho tonu ngā whakaakoranga mō te roanga atu o te tau. Ka wātea ngā whakaakoranga me te marautanga i tā mātou pae haere ake nei, haere ake nei. Tēnā haere atu ki <a href='/promote'> ā mātou rauemi</a>kia kitea ngā puka-aratohu takunetanga me ngā rauemi ka āwhina i a koe kia eke angitu tō takunetanga Hour of Code."
   hoc_faq_certificates_q: "Ki hea tāngia ai ngā tiwhitikete mō aku ākonga?"
   hoc_faq_certificates_a: "Haere atu ki tā mātou <a href='%{codeorg_url}/certificates'>whārangi tiwhikete</a>ki reira tāngia wawetia ai ngā tiwhikete mō tāu akomanga. E āhei ana hoki ngā <a href='%{codeorg_url}/certificates?course=mc'> tiwhikete motuhake te tā mā ngā ākonga e whai ana i te whakaakoranga Mahimaina."
   hoc_faq_logo_q: "He here e whakatū ana i taku whakamahi i te moko, i te ingoa Hour of Code rānei?"
-  hoc_faq_logo_a: "Kua whai tohu te Hour of Code. kāore mātou i te hiahia ki te aukati i tana whakamahinga, engari, e hiahia kē ana mātou kia tika te whakamahinga i raro i ētahi ture iti noa iho nei. Tēnā tirohia ngā aratohu nei<a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> mō te whakamahinga</a>."
+  hoc_faq_logo_a: "Kua whai tohu te Hour of Code. kāore mātou i te hiahia ki te aukati i tana whakamahinga, engari, e hiahia kē ana mātou kia tika te whakamahinga i raro i ētahi ture iti noa iho nei. Tēnā tirohia ngā aratohu nei<a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> mō te whakamahinga</a>."
   stats_hoc_2013_image_alt: 'Ngā raraunga nō te Hour of Code 2013'
   stats_growth: "Ko ia te mea hohoro rawa ki te pā atu ki ngā kaiwhakamahi 15 miriona te nui."
   stats_i18n: "E ako ana ngā ākonga ki ngā reo 45 neke atu"
@@ -469,8 +469,8 @@ mi:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Mana tārua %{current_year} Code.org. Kua rāhuitia ngā mōtika katoa.'
-  footer_trademark_message: 'He mea ™moko te Hour of Code nā Code.org.'
+  footer_copyright_message: 'Mana tārua %{current_year} Letron. Kua rāhuitia ngā mōtika katoa.'
+  footer_trademark_message: 'He mea ™moko te Hour of Code nā Letron.'
   footer_menu_partners: 'Ngā Hoa me ngā Kaiwhakaruruhau'
   footer_menu_contact: 'Whakapā mai'
   footer_menu_support: 'Tautoko'
@@ -506,7 +506,7 @@ mi:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Write your first computer program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ mi:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Learn to code with Mark Zuckerberg and Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ mi:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

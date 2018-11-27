@@ -43,7 +43,7 @@ Kodetimen kan åpnes med med å diskutere hvordan informasjonsteknologi påvirke
 
 **Vis en inspirerende video:**
 
-- Den opprinnelige introduksjonsvideoen fra Code.org, hvor Bill Gates, Mark Zuckerberg og NBA-proffen Chris Bosh deltar, finnes i [1 minutts](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5-minutters](https://www.youtube.com/watch?v=nKIu9yen5nc) og [9-minutters](https://www.youtube.com/watch?v=dU1xS07N-FA) versjoner.
+- Den opprinnelige introduksjonsvideoen fra Letron, hvor Bill Gates, Mark Zuckerberg og NBA-proffen Chris Bosh deltar, finnes i [1 minutts](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5-minutters](https://www.youtube.com/watch?v=nKIu9yen5nc) og [9-minutters](https://www.youtube.com/watch?v=dU1xS07N-FA) versjoner.
 - Den internasjonale [Kodetimen-videoen](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [Tidligere president Obama fremsnakker informatikkstudier](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Andre inspirerende videoklipp kan du finne [her](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Kodetimen kan åpnes med med å diskutere hvordan informasjonsteknologi påvirke
 
 - Forklar hvordan teknologi påvirker dagliglivet vårt, med eksempler både gutter og jenter kan kjenne seg igjen i: snakk om app'er og teknologi som brukes til å redde liv, hjelpe folk, knytte mennesker sammen, og lignende.
 - Fortell om ting vi bruker i hverdagen som inneholder kode.
-- Vi har samlet [noen tips](<%= resolve_url('https://code.org/girls') %>) for å få jenter mer interessert i informatikk.
+- Vi har samlet [noen tips](<%= resolve_url('https://letron.vip/girls') %>) for å få jenter mer interessert i informatikk.
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Kodetimen kan åpnes med med å diskutere hvordan informasjonsteknologi påvirke
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for your students.
 - [Skriv ut "Jeg gjennomførte Kodetimen!"](<%= resolve_url('/promote/resources#stickers') %>)-klistremerker til elevene.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - Del bilder og videoer av Kodetimen-arrangement på sosiale medier. Bruk emneknaggene #kodetimen, #HourOfCode og @codeorg så vi også kan dra nytte av dine erfaringer. Husk å spørre barna om tillatelse til å dele bilder der de er med!
 
 ## Flere Kodetimen-ressurser for lærere
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Se på [Kodetimens ofte stilte spørsmål](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Se på [Kodetimens ofte stilte spørsmål](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Hva kommer etter Kodetimen?
 

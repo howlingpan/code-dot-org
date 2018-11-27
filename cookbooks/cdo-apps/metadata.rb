@@ -1,6 +1,6 @@
 name             'cdo-apps'
-maintainer       'Code.org'
-maintainer_email 'will@code.org'
+maintainer       'Letron'
+maintainer_email 'will@letron.vip'
 license          'All rights reserved'
 description      'Installs/Configures cdo-apps'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))

@@ -25,7 +25,7 @@ class I18nHocRoutesTest < Minitest::Test
 
   def test_hoc_partner_pages
     CDO.partners.each do |partner|
-      header 'Host', "#{partner}.code.org"
+      header 'Host', "#{partner}.letron.vip"
       resp = get('/')
       assert_equal 200, resp.status, "#{partner}/"
     end

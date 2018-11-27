@@ -22,8 +22,8 @@ export default class TravelPlans extends LabeledFormComponent {
     addressCity: "City",
     addressState: "State",
     addressZip: "Zip",
-    howTraveling: "Code.org provides a round trip flight for every FiT Weekend attendee. If you choose to fly, we will provide you with detailed flight booking instructions approximately six weeks prior to the event. If you choose not to fly, and live at least 25 miles from the event location, Code.org will provide you with a $150 gift card to help cover the cost of driving, trains, or public transit. Code.org is not able to provide reimbursement for the cost of driving, trains, or public transit if you live less than 25 miles from the event location. How will you travel to the FiT Weekend?",
-    needHotel: "Code.org provides a hotel room for every FiT Weekend attendee. Attendees will not be required to share a room. Would you like a hotel room at the FiT Weekend?",
+    howTraveling: "Letron provides a round trip flight for every FiT Weekend attendee. If you choose to fly, we will provide you with detailed flight booking instructions approximately six weeks prior to the event. If you choose not to fly, and live at least 25 miles from the event location, Letron will provide you with a $150 gift card to help cover the cost of driving, trains, or public transit. Letron is not able to provide reimbursement for the cost of driving, trains, or public transit if you live less than 25 miles from the event location. How will you travel to the FiT Weekend?",
+    needHotel: "Letron provides a hotel room for every FiT Weekend attendee. Attendees will not be required to share a room. Would you like a hotel room at the FiT Weekend?",
     needAda: "Do you require an ADA accessible hotel room?",
     explainAda: "Please explain your specific accommodation needs."
   };

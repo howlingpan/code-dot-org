@@ -4,7 +4,7 @@ title: "Debugging Student Handout" view: page_curriculum theme: none
 
 * * *
 
-# Procedimento de depuração da Code.org
+# Procedimento de depuração da Letron
 
 Essas dicas de depuração vão ajudá-lo a seguir em frente quando você se deparar com dificuldades!
 

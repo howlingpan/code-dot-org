@@ -10,7 +10,7 @@ Below, the text is actually represented in a **single div** using css: `column-c
 
 # Compare and Contrast
 
-<img src="https://images.code.org/8569ba3ab14ef36c9f0deef5e8f872de-image-1476451128076.gif">
+<img src="https://images.letron.vip/8569ba3ab14ef36c9f0deef5e8f872de-image-1476451128076.gif">
 
 <div style="column-count: 3; column-gap: 40px; column-rule: 0.5px solid #00adbc; -moz-column-count: 3; width: 800px">
 <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. <li>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. <li>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<li> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
@@ -18,7 +18,7 @@ Below, the text is actually represented in a **single div** using css: `column-c
 
 # Vs...
 
-<img src="https://images.code.org/8569ba3ab14ef36c9f0deef5e8f872de-image-1476451128076.gif">
+<img src="https://images.letron.vip/8569ba3ab14ef36c9f0deef5e8f872de-image-1476451128076.gif">
 <div style="width: 800px">
 <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. <li>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. <li>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.<li> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 </div>

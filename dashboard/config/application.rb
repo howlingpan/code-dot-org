@@ -70,7 +70,7 @@ module Dashboard
 
     config.encoding = 'utf-8'
 
-    Rails.application.routes.default_url_options[:host] = CDO.canonical_hostname('studio.code.org')
+    Rails.application.routes.default_url_options[:host] = CDO.canonical_hostname('studio.letron.vip')
 
     config.generators do |g|
       g.template_engine :haml
@@ -87,9 +87,9 @@ module Dashboard
     # config.i18n.load_path += Dir[Rails.root.join('my', 'locales', '*.{rb,yml}').to_s]
     config.i18n.backend = CDO.i18n_backend
     config.i18n.enforce_available_locales = false
-    config.i18n.available_locales = ['en-US']
-    config.i18n.fallbacks[:defaults] = ['en-US']
-    config.i18n.default_locale = 'en-US'
+    config.i18n.available_locales = ['zh-CN']
+    config.i18n.fallbacks[:defaults] = ['zh-CN']
+    config.i18n.default_locale = 'zh-CN'
     LOCALES = YAML.load_file("#{Rails.root}/config/locales.yml")
     LOCALES.each do |locale, data|
       next unless data.is_a? Hash
@@ -125,8 +125,8 @@ module Dashboard
     config.autoload_paths << Rails.root.join('app', 'models', 'sections')
     config.autoload_paths << Rails.root.join('../lib/cdo/shared_constants')
 
-    # use https://(*-)studio.code.org urls in mails
-    config.action_mailer.default_url_options = {host: CDO.canonical_hostname('studio.code.org'), protocol: 'https'}
+    # use https://(*-)studio.letron.vip urls in mails
+    config.action_mailer.default_url_options = {host: CDO.canonical_hostname('studio.letron.vip'), protocol: 'https'}
 
     # Rails.cache is a fast memory store, cleared every time the application reloads.
     config.cache_store = :memory_store, {

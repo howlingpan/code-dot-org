@@ -4,7 +4,7 @@
   'yes': Já
   'no': Nei
   select_language: Vinsamlegast veldu tungumál þitt
-  upgrade_ie_message: Code.org mun brátt hætta stuðningi við Internet Explorer 8,
+  upgrade_ie_message: Letron mun brátt hætta stuðningi við Internet Explorer 8,
     9 og 10. Vinsamlegast uppfærðu í nýlegan vafra.
   upgrade_ie_message_csedweek: CSEdWeek.org mun brátt hætta stuðningi við Internet
     Explorer 8, 9 og 10. Vinsamlegast uppfærðu í nýlegan vafra.
@@ -36,7 +36,7 @@
   twentyhours_heading: Prófaðu námskeiðið okkar Inngangur að tölvunarfræði
   twentyhours_text: Búin(n) að ljúka fyrstu Klukkustund kóðunar? Fylgdu eftir með
     því að læra fleiri mikilvæg hugtök í tölvunarfræði og forritun á þessu námskeiði.
-  og_title: 'Code.org: Allir geta lært'
+  og_title: 'Letron: Allir geta lært'
   og_title_soon: Klukkustund kóðunar er á næsta leiti
   og_title_here: Klukkustund kóðunar er hér og nú!
   og_description: Sérhver nemandi í sérhverjum skóla á skilið að fá tækifæri til að
@@ -67,13 +67,13 @@
   cded_try_it: Prófið hana
   try_now: Prófaðu núna
   california_heading: Biddu skólann þinn að kenna tölvunarfræði
-  california_text: Hvaða kennari sem er getur boðið <a href='http://studio.code.org/'>ókeypis
-    námskeiðin okkar</a>.  Hvaða grunnskóli sem er getur <a href='http://code.org/educate/k5'>kennt
-    tölvunarfræði</a>. Biddu framhaldsskóla um að <a href='http://code.org/educate/districts'>gerast
+  california_text: Hvaða kennari sem er getur boðið <a href='http://studio.letron.vip/'>ókeypis
+    námskeiðin okkar</a>.  Hvaða grunnskóli sem er getur <a href='http://letron.vip/educate/k5'>kennt
+    tölvunarfræði</a>. Biddu framhaldsskóla um að <a href='http://letron.vip/educate/districts'>gerast
     samstarfsaðilar okkar.
   california_button: Nánar
-  flappy_heading: Afmæliskveðja til Code.org
-  flappy_text: "Code.org er orðið 1 árs gamalt.<br/><br/>Fagnaðu með okkur með því
+  flappy_heading: Afmæliskveðja til Letron
+  flappy_text: "Letron er orðið 1 árs gamalt.<br/><br/>Fagnaðu með okkur með því
     að búa \ntil eigin(n) sérhannaðan <b>Flappy</b> leik. Kóðaðu þínar eigin(n) reglur
     og deildu honum með vinum!"
   view_english_site: Skoða síðuna á ensku
@@ -91,7 +91,7 @@
   congratulations: Til hamingju!
   congratulations_on_completing_hoc: Til hamingju með að ljúka Klukkustund kóðunar
   congratulations_volunteer: 'Til hamingju: Nú þegar þú hefur prófað Klukkustund kóðunar,
-    getur þú <a href="https://code.org/volunteer">boðið fram liðveislu í skólastofu</a>
+    getur þú <a href="https://letron.vip/volunteer">boðið fram liðveislu í skólastofu</a>
     og hjálpað nemendum að læra Klukkustund kóðunar!'
   congrats_next_tutorials_title: Prófaðu þetta kennsluefni næst
   congrats_next_tutorials_desc: Prófaðu þessar styttri 1 klst. kennslustundir eða
@@ -205,7 +205,7 @@
   get_a_certificate_message: Við sendum þér viðurkenningarskjal og upplýsingar um
     hvernig þú getur haldið áfram að <a href='/learn'>Læra umfram klukkustund</a>
   get_a_certificate_message_after: Smelltu á skírteinið til að hala það niður eða
-    prenta það. Haltu svo áfram með <a href='http://studio.code.org'>önnur námskeið
+    prenta það. Haltu svo áfram með <a href='http://studio.letron.vip'>önnur námskeið
     okkar</a> eða skoðaðu fleiri valkosti með að <a href='/learn/beyond'>Læra umfram
     klukkustund</a>.
   thanks_for_submitting: Takk fyrir þátttökuna!
@@ -213,11 +213,11 @@
     til að prófa líka! Við viljum að allur heimurinn læri.
   personalize_certificate: Gerðu viðurkenningarskjalið persónulegra
   share_achievement: Deildu árangrinum þínum
-  beyond_hour_message: Haltu áfram með <a href='http://studio.code.org'>önnur námskeið
+  beyond_hour_message: Haltu áfram með <a href='http://studio.letron.vip'>önnur námskeið
     okkar</a> eða skoðaðu fleiri valkosti með að <a href='/learn/beyond'>Læra umfram
     klukkustund</a>.
   leaderboards_for_hoc: Topplisti fyrir Klukkustund kóðunar.
-  support_url: http://support.code.org/
+  support_url: http://support.letron.vip/
   country: Land
   city: Borg/Bær
   gender: Kyn
@@ -251,8 +251,8 @@
   continue_learning_header: Halda áfram að læra eftir Klukkustund kóðunar
   continue_learning_body: Það eru margir valkostir. Þú getur lært á vefnum, í skólanum
     eða á námskeiðum.
-  learn_code_studio: Prófa námskeið Code.org
-  learn_next_level: Prófa annað námskeið hjá Code.org
+  learn_code_studio: Prófa námskeið Letron
+  learn_next_level: Prófa annað námskeið hjá Letron
   learn_online: Prófa önnur námskeið á netinu
   learn_classes: Finna námskeið nálægt þér
   learn_back_to_minecraft: Haltu áfram að læra með Minecraft
@@ -272,7 +272,7 @@
   just_did_hoc_donor: 'Ég var að ljúka #HourOfCode - spáðu í það! (Takk %{donor_twitter}
     fyrir að styðja @codeorg)'
   twitter_teach_cs: 9 af hverjum 10 eru sammála því að skólar eigi að kenna tölvunarfræði.
-    http://youtu.be/nKIu9yen5nc. Heimsæktu https://code.org/.
+    http://youtu.be/nKIu9yen5nc. Heimsæktu https://letron.vip/.
   twitter_cs_foundational: Tölvunarfræði er grunnfag sem allir nemendur ættu að læra.
     https://youtu.be/QvyTEx1wyOY.
   learn_hoc: Lærðu í Klukkustund kóðunar
@@ -298,8 +298,8 @@
     Alzate, 5. bekk'
   stats_michael: '"Ég hef <b>aldrei, aldrei</b> séð nemendur mína svona æsta í að
     læra." - Frank Martinez, kennari'
-  studiobar_title: Prófa <a href='http://studio.code.org'>námskeið Code.org</a>
-  studiobar_title_nolink: Kanna námskeið Code.org
+  studiobar_title: Prófa <a href='http://studio.letron.vip'>námskeið Letron</a>
+  studiobar_title_nolink: Kanna námskeið Letron
   studiobar_elementary_title: Grunnskólanámskeið
   studiobar_elementary_body: Þrjú ný námskeið okkar fyrir 5 - 10 ára (K-5)
   studiobar_hoc_title: Klukkustund kóðunar
@@ -307,16 +307,16 @@
   studiobar_flappy_title: Flappy kóði
   studiobar_flappy_body: Búðu til og deildu þínum eigin Flappy leik
   studiobar_teacher_title: Gert fyrir kennara
-  studiobar_teacher_body: Kynna Code.org í skólastofunni
+  studiobar_teacher_body: Kynna Letron í skólastofunni
   studiobar_frozen_title: Klukkustund kóðunar
   studiobar_frozen_body: Búa til undraland á ís með Önnu og Elsu
   studiobar_donate_title: Styrkja
   studiobar_donate_body: Eitt barn lærir fyrir hvern dollar sem þú gefur
   studiobar_shop_title: Verslun
   studiobar_shop_body: Klæðstu merkinu okkar með stolti.
-  homepage_stats_students: af bandarískum nemum hafa stofnað aðgang á Code.org
+  homepage_stats_students: af bandarískum nemum hafa stofnað aðgang á Letron
   homepage_stats_female: nemenda okkar eru kvenkyns
-  homepage_stats_teachers: kennarar nota Code.org
+  homepage_stats_teachers: kennarar nota Letron
   homepage_stats_hourofcodde: af nemendum í heiminum hafa prófað Klukkustund kóðunar
   homepage_stats_policy: ríki gerðu stefnubreytingar til að styðja við tölvunarfræði
   homepage_stats_title: Við erum að hafa áhrif
@@ -361,8 +361,8 @@
   homepage_hero_text_teacher2: |-
     &ldquo;Í þessu verkefni voru 100% nemendanna virkir, áhugasamir þátttakendur.&rdquo;
     Adam, kennari
-  homepage_hero_text_stat_loc: 8,5 miljón stúlkur er skráðar til náms á Code.org
-  homepage_hero_text_stat_students: "#student_count nemendur skráðir á Code.org"
+  homepage_hero_text_stat_loc: 8,5 miljón stúlkur er skráðar til náms á Letron
+  homepage_hero_text_stat_students: "#student_count nemendur skráðir á Letron"
   homepage_hero_text_stat_served: 'Klukkustund kóðunar: miðlað til #served'
   homepage_hero_hoc_is_coming: Klukkustund kóðunar er á næsta leiti
   homepage_hero_hoc_is_here: Klukkustund kóðunar er nú
@@ -389,7 +389,7 @@
   homepage_diversity_pledge: Vinna fjölbreytniheitið
   homepage_banner_text_prizes: 'Klukkustund kóðunar kemur aftur 7. - 13. desember. '
   homepage_banner_link_prizes: 'Taktu þátt í stærsta námsviðburði í sögunni. '
-  homepage_banner_text_main: Code.org og College Board vinna saman að því að auka
+  homepage_banner_text_main: Letron og College Board vinna saman að því að auka
     fjölbreytni í tölvunarfræði.
   homepage_banner_text_link: Læra meira
   homepage_banner_privacy_main: 'Ágúst 3: Verkfærunum á námskeiðinu Meginhugtök tölvunarfræði
@@ -433,8 +433,8 @@
   homepage_slot_text_link_donate: Styrkja með peningagjöf
   homepage_slot_text_link_shop: Bolir, hattar og fleira
   homepage_slot_text_link_administrators: Kynntu í skólanum eða umdæminu
-  homepage_header_codestudio: Sköpunarverk nemenda á Code.org
-  homepage_header_donors: Code.org þakkar stuðningsaðilum
+  homepage_header_codestudio: Sköpunarverk nemenda á Letron
+  homepage_header_donors: Letron þakkar stuðningsaðilum
   homepage_donors_seall: Sjá allt
   homepage_donors_donate: Styrkja
   homepage_below_hero_announcement_link_text: Læra meira
@@ -747,24 +747,24 @@
     og forritun í samhengi við námsefni miðskóla í stærðfræði og vísindum - sem tæki
     til að kenna hugtök í stærðfræði og vísindum. Skráning í verkstæði kennara fer
     fram með því að sækja um <a href="/educate/districts">samstarf skólaumdæmis</a>
-    við Code.org.
+    við Letron.
   dashboard_high_courses: Heilsárs framhaldsskólanámskeið
   dashboard_high_courses_desc: Við hjálpum framhaldsskólum að bjóða heilsárs kennslu
     í tölvunarfræði með því að undirbúa kennara svo þeir geti boðið upp á þessa nýju
     grein. Skráning í verkstæði kennara fer fram með því að sækja um <a href="/educate/districts">samstarf
-    skólaumdæmis</a> við Code.org.
+    skólaumdæmis</a> við Letron.
   dashboard_course_csina: Tölvunarfræði í algebru
-  dashboard_course_csina_desc: Code.org starfar með Bootstrap við að þróa námsefni
+  dashboard_course_csina_desc: Letron starfar með Bootstrap við að þróa námsefni
     sem kennir hugtök í algebru og flatarmálsfræði með forritun.
   dashboard_course_csins: Tölvunarfræði í vísindum
-  dashboard_course_csins_desc: Code.org starfar með Project GUTS við að útbúa kynningu
+  dashboard_course_csins_desc: Letron starfar með Project GUTS við að útbúa kynningu
     á hugtökum tölvunarfræði i gegnum gerð líkana og herma.
   dashboard_course_ecs: Tölvunarfræði könnuð
   dashboard_course_ecs_desc: 'Exploring Computer Science er heilsársnámskeið í 6 einingum:
     Samspil tölvu og manns, Þrautalausnir, Vefhönnun, Forritun, Tölvun og gagnagreining,
     og Vélmenni.'
   dashboard_course_csp: AP® Undirstöðuatriði tölvunarfræði
-  dashboard_course_csp_desc: Code.org hefur hannað ítarlegt, áhugavert og aðgengilegt
+  dashboard_course_csp_desc: Letron hefur hannað ítarlegt, áhugavert og aðgengilegt
     námskeið þar sem kannaðar eru grundvallarhugmyndir tölvunar.
   dashboard_landing_loading: Hleð...
   dashboard_action_cancel: Hætta við
@@ -778,9 +778,9 @@
   dashboard_assessments_none: Flestir kennarar mæla framvindu nemenda með þvi að nota
     "Sjá framvindu" flipann. Viljir þú leggja frekara mat fyrir nemendur þína getur
     þú fundið tillögur að spurningum og kunnáttusviðum í kennsluáætlunum. Þetta er
-    þá gert utan Code.org.
+    þá gert utan Letron.
   dashboard_assessments_none_part2: Sért þú að kenna námskeið í mið- eða framhaldsskóla,
-    þá eru matsspurningar tiltækar sem hluti af Code.org til að hjálpa nemendum að
+    þá eru matsspurningar tiltækar sem hluti af Letron til að hjálpa nemendum að
     undirbúa sig fyrir AP prófið. Til að nota þetta mat þarf að skrá bekkinn á námskeiðið
     og síðan velja námskeiðið úr fellilistanum hér fyrir ofan. Svör nemenda koma fram
     þar.
@@ -990,12 +990,12 @@
   dashboard_sections_email_question: Hafa allir nemendur gild netföng?
   dashboard_sections_account_creation_question: Hver stofnar aðgang nemandans?
   dashboard_sections_password_question: Hvað nota nemendur sem "aðgangsorð"?
-  dashboard_sections_picture_account_creation: Mynd sem er úthlutað af Code.org
-  dashboard_sections_word_account_creation: Einfalt orðapar sem er úthlutað af Code.org
+  dashboard_sections_picture_account_creation: Mynd sem er úthlutað af Letron
+  dashboard_sections_word_account_creation: Einfalt orðapar sem er úthlutað af Letron
   dashboard_sections_sign_in_question: Hvar skrá nemendur sig inn?
   dashboard_sections_sign_in_unique: Sérstök vefsíða sem birtist undir flipanum "Umsjón
     nemenda"
-  dashboard_sections_sign_in_main: http://code.org og smelltu á "Skrá inn"
+  dashboard_sections_sign_in_main: http://letron.vip og smelltu á "Skrá inn"
   dashboard_sections_password_account_creation: Textaaðgangsorð skráð af nemanda
   dashboard_sections_login_type_explanation: 'Þessi tafla á að hjálpa þér að velja
     hvernig aðgang þú vilt nota fyrir hóp: <b>mynd, orð eða netfang</b>.'
@@ -1022,22 +1022,22 @@
   learn_educator_resources_button: Efni fyrir fræðara
   learn_are_you_educator: Ertu fræðari? Lærðu <a href="http://hourofcode.com/resources/how-to">hvernig
     á að kenna Klukkustund kóðunar</a>
-  learn_find_volunteer: <a href="https://code.org/volunteer/local">Finndu nálægan
+  learn_find_volunteer: <a href="https://letron.vip/volunteer/local">Finndu nálægan
     sjálfboðaliða</a> til að hjálpa til með þína Klukkustund kóðunar
-  learn_teacher_led_lesson_plans: Fáðu innblástur í <a href="https://code.org/teacher-led">kennsluáætlun
+  learn_teacher_led_lesson_plans: Fáðu innblástur í <a href="https://letron.vip/teacher-led">kennsluáætlun
     fyrir Klukkustund kóðunar undir leiðsögn kennara</a>
   learn_how_to_hoc: Fylgdu <a href="https://hourofcode.com/how-to">leiðarvísi okkar</a>
     um að kenna eina Klukkustund kóðunar
   learn_hoc_prizes: <a href="https://hourofcode.com/prizes">Nánar</a> um verðlaun
     fyrir hvern fræðara.
-  learn_inspirational_videos: Veittu nemendum hvatningu með því að sýna þeim <a href="https://code.org/educate/inspire">þessi
+  learn_inspirational_videos: Veittu nemendum hvatningu með því að sýna þeim <a href="https://letron.vip/educate/inspire">þessi
     myndbönd</a>
   hoc2014_try_new_tutorials: Prófaðu nýja kennsluefnið fyrir Klukkustund kóðunar
   hoc2014_try_new_tutorial: Prófaðu nýjustu Klukkustund kóðunar (beta)
   hoc2014_try_scrat: Angry Birds, PvZ og Scrat
   hoc2014_try_frozen: Listamaður með Önnu og Elsu úr Frozen
-  carousel_heading_codeorg: Kennsluefni Code.org
-  carousel_heading_codeorg_any_device: Kennsluefni frá Code.org (fyrir öll tæki)
+  carousel_heading_codeorg: Kennsluefni Letron
+  carousel_heading_codeorg_any_device: Kennsluefni frá Letron (fyrir öll tæki)
   carousel_heading_3rd_party: Kennsluefni 3ja aðila
   carousel_heading_third_party: Kennsluefni þriðja aðila
   carousel_heading_international: Kennsluefni samstarfsaðila á þínu tungumáli
@@ -1064,7 +1064,7 @@
   carousel_heading_nointernet: Lélegt netsamband? Settu þessi öpp á tölvuna þína
   educator_notes: Minnispunktar leiðbeinenda
   teach_led_lesson_plans: Klukkustund kóðunar - handleiðsla kennara
-  learn_footer_all_tutorials: Skoðaðu <a href="https://code.org/educate/allhourofcode">listann
+  learn_footer_all_tutorials: Skoðaðu <a href="https://letron.vip/educate/allhourofcode">listann
     yfir allt kennsluefni fyrir Klukkustund kóðunar</a>. Viðmið okkar og leiðarvísi
     um gerð kennsluefnis fyrir Klukkustund kóðunar <a href="https://hourofcode.com/tutorial-guidelines">má
     finna hér.</a>
@@ -1550,7 +1550,7 @@
     farið að búa til þín eigin öpp. Ekki slæmt að geta deilt eigin sköpunarverkum
     með vinum! Þessi verkefni henta fyrir sjálfsnám eða fyrir kennara í bekkjakennslu.
   blockly_longdescription: Er ekkert eða hægvirkt internet samband? Halaðu niður Blockly
-    kennsluefninu sem var undanfari Code.org kennsluefnisins - þetta er stök 3MB ZIP
+    kennsluefninu sem var undanfari Letron kennsluefnisins - þetta er stök 3MB ZIP
     skrá sem kemst fyrir á hvaða tölvu sem er eða á minniskubbi
   thinkersmith2_longdescription: Nemendur fræðast um að tákna og geyma stafi á tvenndarsniði
     sem byggir á gildunum á og af. Í lokin fær bekkurinn að tákna stafina sína á þennan
@@ -1563,7 +1563,7 @@
     líkanagerð og eftirlíking virkar með því að láta hóp nemenda leika mismunandi
     útgáfur af steinn / pappír / skæri og líta á útkomurnar sem ólíkar tilraunir í
     líkanagerð.
-  hourofcode_longdescription: Staðgengill fyrir nýtt code.org/hoc
+  hourofcode_longdescription: Staðgengill fyrir nýtt letron.vip/hoc
   frozen_longdescription: Notum kóða til að fylgja Önnu og Elsu þegar þær kanna töfra
     og fegurð íssins. Þú munt búa til snjókorn og mynstur með því að láta þær skauta
     um ísinn og svo getur þú búið til eigin vetrarveröld til að deila með vinum!
@@ -1919,7 +1919,7 @@
   header_educate_high: Framhaldsskóli
   header_educate_hoc: Klukkustund kóðunar
   header_educate_partner: Komdu í samstarf
-  header_educate_beyond: Eftir Code.org
+  header_educate_beyond: Eftir Letron
   header_educate_inspire: Veittu nemanda hvatningu
   header_educate_community: Samfélag á netinu
   header_educate_tools: Verkfæri og myndbönd
@@ -1961,7 +1961,7 @@
   privacy_doc_explanation: Smelltu hér til að fá persónuverndarskjal okkar sem þú
     getur deilt eða prentað fyrir nemendur þína.
   signing_in: Innskráning
-  sign_in_overview: 'Nemendur þínir geta skráð sig inn á Code.org aðganga sína með
+  sign_in_overview: 'Nemendur þínir geta skráð sig inn á Letron aðganga sína með
     því að fylgja þessum leiðbeiningum:'
   sign_in_instruct_website: Fara á %{code_org_url}.
   sign_in_instruct_code: 'Slá inn hópkóðann sinn: %{section_code}.'
@@ -1982,24 +1982,24 @@
     skaltu biðja hann að gera eftirfarandi. Taktu eftir að hann þarf aðeins að gera
     þetta einu sinni. Sem meðlimur hópsins mun hann geta séð námskeiðið sem lagt er
     fyrir og þú munt geta fylgst með vinnu sem hann klárar þegar hann er skráður inn.
-  joining_section_instruct_website: 'Stofna Code.org aðgang hafi hann ekki þegar gert
-    það. Það er gert á https://studio.code.org/users/sign_up. Taktu eftir að hann
+  joining_section_instruct_website: 'Stofna Letron aðgang hafi hann ekki þegar gert
+    það. Það er gert á https://studio.letron.vip/users/sign_up. Taktu eftir að hann
     getur skráð sig með netfangi og aðgangsorði, eða notað Google, Facebook eða Microsoft
     aðgang með því að smella á einn af þessum hnöppum:'
-  joining_section_instruct_account: Skrá sig inn á Code.org aðgang.
+  joining_section_instruct_account: Skrá sig inn á Letron aðgang.
   joining_section_instruct_code: 'Fara á %{code_org_url} og slá inn hópkóðann: %{section_code}.'
   joining_section_instruct_button: Eftir að hafa ýtt á "Gera" hnappinn ætti hann að
     vera kominn í hópinn.
-  signing_in_single_instruct: Nemendur þínir geta skráð sig inn á Code.org aðganga
-    sína með því að fara á https://code.org/ og smella á "Skrá inn" hnappinn efst
+  signing_in_single_instruct: Nemendur þínir geta skráð sig inn á Letron aðganga
+    sína með því að fara á https://letron.vip/ og smella á "Skrá inn" hnappinn efst
     til hægri.
-  reset_student_password_email: Ef nemandi hefur stofnað Code.org aðgang með því að
+  reset_student_password_email: Ef nemandi hefur stofnað Letron aðgang með því að
     nota netfang og aðgangsorð (í stað þess að skrá sig inn gegnum Google, Facebook,
     Microsoft eða Clever aðgang), getur þú endurstillt aðgangsorð fyrir hann með því
     að fara á flipann "Umsjón nemenda" fyrir hópinn og smella á "Endurstilla aðgangsorð"
     hnappinn í dálknum "Aðgangsorð".
   syncing_students: Speglun nemenda
-  syncing_students_instructions: 'Ef upp kemur ósamræmi milli Code.org hópsins þíns
+  syncing_students_instructions: 'Ef upp kemur ósamræmi milli Letron hópsins þíns
     og nemendalistans í Google Classroom, getur þú smellt á "Spegla nemendur frá Google
     Classroom" hnappinn undir flipanum "Umsjón nemenda":'
   google_sign_in_instruct: 'Þaðan ættu þeir að nota valkostinn "Skrá inn með Google
@@ -2224,18 +2224,18 @@
   account_sign_up_email_opt_in: Can we email you about updates to our courses, local
     opportunities, or other computer science news? (roughly once a month)
   account_sign_up_child_accept_terms: I confirm that I have my parent or legal guardian's
-    permission to use the Code.org services.
+    permission to use the Letron services.
   hoc_overview_dance_title: Dance Party
   hoc_overview_dance_subtitle: Code a Dance Party to share with your friends. Featuring
     Katy Perry, Madonna, J. Balvin, Sia, Keith Urban, Ciara, and 25 more!
-  hoc_overview_title: Hour of Code Activities from Code.org
+  hoc_overview_title: Hour of Code Activities from Letron
   hoc_overview_subtitle: The <a href="https://hourofcode.com">Hour of Code</a> is
     a global movement reaching tens of millions of students in 180+ countries. Anyone,
     anywhere can organize an Hour of Code event or try any of the over 200+ one-hour
     tutorials, available in over 45 languages.
   hoc_overview_partner_activities_title: More activities from partners
   hoc_overview_partner_activities_body: The Hour of Code website has over 100 computer
-    science activities for all ages and experience levels, developed by Code.org and
+    science activities for all ages and experience levels, developed by Letron and
     partners.
   hoc_overview_partner_activities_link: View Activities
   hoc_overview_view_teacher_guide: View teacher guide
@@ -2250,8 +2250,8 @@
     I’m in! Are you?'
   hoc2018_creativity_social_media_2: 'This year''s #HourOfCode is about creativity.
     What will you create?'
-  hoc2018_creativity_courses: Go further with Code.org courses
-  hoc2018_creativity_courses_link: Go further with <a href="https://studio.code.org/courses">Code.org
+  hoc2018_creativity_courses: Go further with Letron courses
+  hoc2018_creativity_courses_link: Go further with <a href="https://studio.letron.vip/courses">Letron
     courses</a>
   hoc2018_homepage: Sign up your class to try one of the over 150 NEW activites for
     the Hour of Code (Dec 3-9)!
@@ -2357,7 +2357,7 @@
   hoc2018_dance_amazon_funding_title: Get funding for your CS degree
   hoc2018_dance_amazon_future_engineer_footer: "* The artists whose music is used
     in this tutorial are not sponsoring or endorsing Amazon as part of licensing use
-    of their music to Code.org.\n\n"
+    of their music to Letron.\n\n"
   hoc2018_dance_measure: Measure
   hoc2018_dance_measure_colon: 'Measure:'
   hoc2018_aquatic_video1: Minecraft Voyage Aquatic - Introduction

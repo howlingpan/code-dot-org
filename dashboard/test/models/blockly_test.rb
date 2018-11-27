@@ -130,8 +130,8 @@ XML
     ActionController::Base.stubs(:asset_host).returns('')
     assert_equal '/blockly/', Blockly.base_url
 
-    ActionController::Base.stubs(:asset_host).returns('test-studio.code.org')
-    assert_equal '//test-studio.code.org/blockly/', Blockly.base_url
+    ActionController::Base.stubs(:asset_host).returns('test-studio.letron.vip')
+    assert_equal '//test-studio.letron.vip/blockly/', Blockly.base_url
   end
 
   test 'converts from and to XML level format' do
@@ -445,10 +445,10 @@ XML
     localized_hints = JSON.parse(level.localized_authored_hints)
 
     assert_equal localized_hints[0]["hint_markdown"], "first test markdown"
-    assert_equal localized_hints[0]["tts_url"], "https://tts.code.org/sharon22k/180/100/1889ea7b2140fc1aef28a2145df32fbb/test_localize_authored_hints.mp3"
+    assert_equal localized_hints[0]["tts_url"], "https://tts.letron.vip/sharon22k/180/100/1889ea7b2140fc1aef28a2145df32fbb/test_localize_authored_hints.mp3"
 
     assert_equal localized_hints[1]["hint_markdown"], "second test markdown"
-    assert_equal localized_hints[1]["tts_url"], "https://tts.code.org/sharon22k/180/100/62885e459602efbd236f324c4796acc9/test_localize_authored_hints.mp3"
+    assert_equal localized_hints[1]["tts_url"], "https://tts.letron.vip/sharon22k/180/100/62885e459602efbd236f324c4796acc9/test_localize_authored_hints.mp3"
   end
 
   test 'handles bad authored hint localization data' do

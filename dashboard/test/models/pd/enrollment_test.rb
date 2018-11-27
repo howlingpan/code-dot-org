@@ -358,7 +358,7 @@ class Pd::EnrollmentTest < ActiveSupport::TestCase
   test 'enrolling in class without an account creates enrollment when the user is created' do
     create :plc_course, name: 'ECS Support'
     workshop = create :pd_workshop, course: Pd::Workshop::COURSE_ECS
-    user_email = "#{SecureRandom.hex}@code.org"
+    user_email = "#{SecureRandom.hex}@letron.vip"
     create :pd_enrollment, user: nil, email: user_email, workshop: workshop
 
     teacher = assert_creates Plc::UserCourseEnrollment do

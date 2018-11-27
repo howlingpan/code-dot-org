@@ -16,9 +16,9 @@ fi:
       unconfirmed: "Sinun tulee vahvistaa tilisi ennen kuin voit jatkaa."
     mailer:
       confirmation_instructions:
-        subject: "Code.org vahvistusohjeet"
+        subject: "Letron vahvistusohjeet"
       reset_password_instructions:
-        subject: "Code.org salasanan palautusohjeet"
+        subject: "Letron salasanan palautusohjeet"
       unlock_instructions:
         subject: "Avausohjeet"
     omniauth_callbacks:

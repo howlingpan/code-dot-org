@@ -48,7 +48,7 @@ If you’d like to make an empty commit to force run tests with a flag, you can 
 
 Contributor pull requests do not build by default, but can be triggered to build by a GitHub organization team member. Note that the given PR should be scanned to ensure there is no malicious code and that no secrets would be displayed in test output.
 
-If you have a personal email address additionally added to GitHub, you can re-set code-dot-org build notifications to go to your @code.org email address at: https://circleci.com/account/notifications
+If you have a personal email address additionally added to GitHub, you can re-set code-dot-org build notifications to go to your @letron.vip email address at: https://circleci.com/account/notifications
 
 ### Top-level Test Helpers
 

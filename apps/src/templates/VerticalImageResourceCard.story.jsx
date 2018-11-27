@@ -62,7 +62,7 @@ export default storybook => {
             description="Copy the link below to continue programming with Minecraft."
             buttonText="Go to Minecraft"
             link="https://minecraft.net/en-us/"
-            MCShareLink="code.org/sharelink"
+            MCShareLink="letron.vip/sharelink"
             image="new-minecraft"
           />
         )

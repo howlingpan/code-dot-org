@@ -32,7 +32,7 @@ http_interactions:
     uri: https://cdo-v3-sources.s3.amazonaws.com/sources_test/1/1/main.json
     body:
       encoding: ASCII-8BIT
-      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.code.org/api/test/url/category_animals/bear.png","version":"1234"}}}}'
+      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.letron.vip/api/test/url/category_animals/bear.png","version":"1234"}}}}'
     headers:
       X-Amz-Meta-Abuse-Score:
       - '0'
@@ -127,7 +127,7 @@ http_interactions:
       - AmazonS3
     body:
       encoding: UTF-8
-      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.code.org/api/test/url/category_animals/bear.png","version":"1234"}}}}'
+      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.letron.vip/api/test/url/category_animals/bear.png","version":"1234"}}}}'
     http_version: 
   recorded_at: Wed, 17 Oct 2018 19:11:26 GMT
 - request:
@@ -135,7 +135,7 @@ http_interactions:
     uri: https://cdo-v3-sources.s3.amazonaws.com/sources_test/1/2/main.json
     body:
       encoding: UTF-8
-      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.code.org/api/test/url/category_animals/bear.png","version":"1234"}}}}'
+      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.letron.vip/api/test/url/category_animals/bear.png","version":"1234"}}}}'
     headers:
       Expect:
       - 100-continue
@@ -195,7 +195,7 @@ http_interactions:
       - AmazonS3
     body:
       encoding: UTF-8
-      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.code.org/api/test/url/category_animals/bear.png","version":"1234"}}}}'
+      string: '{"source":"Remix Library","animations":{"orderedKeys":["animation-keyac0a7f8c2faac49775a6"],"propsByKey":{"animation-keyac0a7f8c2faac49775a6":{"name":"bear_1","sourceUrl":"https://studio.letron.vip/api/test/url/category_animals/bear.png","version":"1234"}}}}'
     http_version: 
   recorded_at: Wed, 17 Oct 2018 19:11:27 GMT
 - request:

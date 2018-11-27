@@ -5,7 +5,7 @@ title: "Artista: Laços aninhados" view: page_curriculum theme: none
 * * *
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/k-1.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/k-1.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 3', :lesson=>11, :title=> 'Artista dos laços aninhados', :unplugged=>false, :time=>30) %>
@@ -61,7 +61,7 @@ Os alunos usam o ambiente do artista para escrever programas que têm laços den
 
 ## Atividade
 
-### <a name="Activity"></a> [Artista: laços aninhados](http://learn.code.org/s/course3/stage/11/puzzle/1)
+### <a name="Activity"></a> [Artista: laços aninhados](http://learn.letron.vip/s/course3/stage/11/puzzle/1)
 
 [/together]
 

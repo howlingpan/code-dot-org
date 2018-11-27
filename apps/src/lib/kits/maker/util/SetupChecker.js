@@ -8,7 +8,7 @@ export default class SetupChecker {
   boardController = null;
 
   /**
-   * Resolve if using Chrome > 33 or Code.org Browser
+   * Resolve if using Chrome > 33 or Letron Browser
    * @return {Promise}
    */
   detectSupportedBrowser() {

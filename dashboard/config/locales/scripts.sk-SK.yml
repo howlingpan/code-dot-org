@@ -986,7 +986,7 @@ sk:
             Introduction:
               description_teacher: V týchto úlohých študenti začnú úvodom (alebo opakovaním
                 - podľa toho, ako pokročilá je Vaša trieda) do online pracovného prostredia
-                Code.org. Videá Vám vysvetlia ako funguje pracovné prostredie, vrátane
+                Letron. Videá Vám vysvetlia ako funguje pracovné prostredie, vrátane
                 tlačidiel "Spustiť", "Obnoviť" a "Krok". Videá tiež ukážu ako presúvať
                 bloky, ako ich vymazať či spájať. Následne si študenti precvičia svoje
                 schopnosti v _postupnostiach_ a _odstraňovaní chýb_. Po tom študenti
@@ -1026,7 +1026,7 @@ sk:
           stages:
             Introduction:
               description_teacher: V tomto postupe študenti začínaju úvodom do online
-                pracovného prostredia Code.org alebo (revidovaním v závislosti na
+                pracovného prostredia Letron alebo (revidovaním v závislosti na
                 skúsenostiach tvojej triedy). Študenti sa naučia základné funkčnosti
                 rozhrania ako sú tlačidlá "Spustiť", "Obnoviť" a "Vykročiť". Ťahanie,
                 vymazanie a spájanie blokov Blockly predstavuje úvodné video. V tejto
@@ -1056,19 +1056,19 @@ sk:
             The Design Process:
               description_teacher: |-
                 V priebehu štyroch hodín budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. V tejto časti sa študenti dozvedia o procese dizajnu a ako ho použiť vo vlastných projektoch. Príručku kurzu pre všetky štyri úrovne procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursee/12/).
+                (https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               description_teacher: "V priebehu štyroch hodín budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. \n\nŠtudenosti dostanú priestor vytvoriť vlastný projekt v
                 kurzoch Umelec či Play Lab. Toto bude pravdepodovne najdlhšia časť
                 kurzu. Príručku kurzu pre všetky štyri úrovne procesu nájdeme v prvom
-                [here](https://curriculum.code.org/csf/coursee/12/)."
+                [here](https://curriculum.letron.vip/csf/coursee/12/)."
             Functions in Artist:
               name: Funkcie s Umelcom
               description_student: Jednoducho s funkciami vytvor zložitejšie kresby!
               description_teacher: Študenti sa oboznámia s používaním funkcií na stránke
-                Code.org. V Umelcovi budeme tvoriť a upravovať veľkolepé obrázky.
+                Letron. V Umelcovi budeme tvoriť a upravovať veľkolepé obrázky.
                 Študenti sa naučia viac o vnorených funkciach, čo je vlastne zvolanie
                 jednej funkcie z vnútra inéj, ktoré sú na tvorbu komplexnejších vzorov.
             Functions in Farmer:
@@ -1082,7 +1082,7 @@ sk:
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Nakoniec budú študenti schopní prezentovať svoj projekt rovesníkom
                 a blízkym alebo ho zdielať. Príručku kurzu pre všetky štyri úrovne
-                procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursee/12/).
+                procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursee/12/).
             Building a Foundation:
               name: Stavanie základov
             Programming in Artist:
@@ -1133,24 +1133,24 @@ sk:
             The Design Process:
               description_teacher: |-
                 V priebehu piatich lekcií budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. V tejto časti sa študenti dozvedia o procese dizajnu a ako ho použiť vo vlastných projektoch. Príručku kurzu pre všetkých päť úrovní procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursef/15/).
+                (https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               description_teacher: V priebehu piatich lekcií budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Študenti dostanú priestor vytvoriť vlastný projekt v kurzoch
                 Umelec či Play Lab. Toto bude pravdepodovne najdlhšia časť kurzu.
-                Príručku kurzu pre všetkćh päť úrovní procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursef/15/).
+                Príručku kurzu pre všetkćh päť úrovní procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               description_teacher: |-
                 V priebehu piatich lekcií budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. Keďže sú už projekty postavené, získavajú tu spätnú väzbu a majú priestor si projekty zrevidovať. Príručku kurzu pre všetkých päť úrovní procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursef/15/).
+                (https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               description_teacher: V priebehu piatich lekcií budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Študenti dostanú priestor vytvoriť vlastný projekt v kurzoch
                 Umelec či Play Lab. Nakoniec, študenti dostanú priesto rprezentovať
                 svoje práce rovesníkom alebo ich zdielať s blízkymi. Príručku kurzu
-                pre všetkých päť úrovní procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursef/15/).
+                pre všetkých päť úrovní procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursef/15/).
             Building a Foundation:
               name: Stavanie základov
             Programming in Artist:
@@ -1560,7 +1560,7 @@ sk:
             Introduction:
               name: Úvod
               description_teacher: V tomto postupe študenti začínaju úvodom do online
-                pracovného prostredia Code.org alebo (revidovaním v závislosti na
+                pracovného prostredia Letron alebo (revidovaním v závislosti na
                 skúsenostiach tvojej triedy). Študenti sa naučia základné funkčnosti
                 rozhrania ako sú tlačidlá "Spustiť", "Obnoviť" a "Vykročiť". Ťahanie,
                 vymazanie a spájanie blokov Blockly predstavuje úvodné video. V tejto
@@ -1572,7 +1572,7 @@ sk:
               name: Funkcie s Umelecom
               description_student: Jednoducho s funkciami vytvor zložitejšie kresby!
               description_teacher: Študenti sa oboznámia s používaním funkcií na stránke
-                Code.org. V Umelcovi budeme tvoriť a upravovať veľkolepé obrázky.
+                Letron. V Umelcovi budeme tvoriť a upravovať veľkolepé obrázky.
                 Študenti sa naučia viac o vnorených funkciach, čo je vlastne zvolanie
                 jednej funkcie z vnútra inéj, ktoré sú na tvorbu komplexnejších vzorov.
             Explore Project Ideas:
@@ -1589,20 +1589,20 @@ sk:
             The Design Process:
               description_teacher: |-
                 V priebehu štyroch hodín budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. V tejto časti sa študenti dozvedia o procese dizajnu a ako ho použiť vo vlastných projektoch. Príručku kurzu pre všetky štyri úrovne procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursee/12/).
+                (https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               description_teacher: "V priebehu štyroch hodín budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. \n\nŠtudenosti dostanú priestor vytvoriť vlastný projekt v
                 kurzoch Umelec či Play Lab. Toto bude pravdepodovne najdlhšia časť
                 kurzu. Príručku kurzu pre všetky štyri úrovne procesu nájdeme v prvom
-                [here](https://curriculum.code.org/csf/coursee/12/)."
+                [here](https://curriculum.letron.vip/csf/coursee/12/)."
             Present Your Project:
               description_teacher: V priebehu štyroch hodín budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Nakoniec budú študenti schopní prezentovať svoj projekt rovesníkom
                 a blízkym alebo ho zdielať. Príručku kurzu pre všetky štyri úrovne
-                procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursee/12/).
+                procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               name: Internet
             Crowdsourcing:
@@ -1670,24 +1670,24 @@ sk:
             The Design Process:
               description_teacher: |-
                 V priebehu piatich lekcií budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. V tejto časti sa študenti dozvedia o procese dizajnu a ako ho použiť vo vlastných projektoch. Príručku kurzu pre všetkých päť úrovní procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursef/15/).
+                (https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               description_teacher: V priebehu piatich lekcií budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Študenti dostanú priestor vytvoriť vlastný projekt v kurzoch
                 Umelec či Play Lab. Toto bude pravdepodovne najdlhšia časť kurzu.
-                Príručku kurzu pre všetkćh päť úrovní procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursef/15/).
+                Príručku kurzu pre všetkćh päť úrovní procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               description_teacher: |-
                 V priebehu piatich lekcií budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. Keďže sú už projekty postavené, získavajú tu spätnú väzbu a majú priestor si projekty zrevidovať. Príručku kurzu pre všetkých päť úrovní procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursef/15/).
+                (https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               description_teacher: V priebehu piatich lekcií budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Študenti dostanú priestor vytvoriť vlastný projekt v kurzoch
                 Umelec či Play Lab. Nakoniec, študenti dostanú priesto rprezentovať
                 svoje práce rovesníkom alebo ich zdielať s blízkymi. Príručku kurzu
-                pre všetkých päť úrovní procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursef/15/).
+                pre všetkých päť úrovní procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursef/15/).
             Conditionals with Cards:
               name: Podmienky s kartami
             Variables as Constant in Artist:
@@ -1780,21 +1780,21 @@ sk:
             The Design Process:
               description_teacher: |-
                 V priebehu piatich lekcií budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. V tejto časti sa študenti dozvedia o procese dizajnu a ako ho použiť vo vlastných projektoch. Príručku kurzu pre všetkých päť úrovní procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursef/15/).
+                (https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               description_teacher: V priebehu piatich lekcií budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Študenti dostanú priestor vytvoriť vlastný projekt v kurzoch
                 Umelec či Play Lab. Toto bude pravdepodovne najdlhšia časť kurzu.
-                Príručku kurzu pre všetkćh päť úrovní procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursef/15/).
+                Príručku kurzu pre všetkćh päť úrovní procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               description_teacher: |-
                 V priebehu piatich lekcií budú študenti pracovať na programovaní dizajnu vlastného projektu v kurze Play Lab alebo Umelec. Keďže sú už projekty postavené, získavajú tu spätnú väzbu a majú priestor si projekty zrevidovať. Príručku kurzu pre všetkých päť úrovní procesu nájdeme v prvom [here]
-                (https://curriculum.code.org/csf/coursef/15/).
+                (https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               description_teacher: V priebehu piatich lekcií budú študenti pracovať
                 na programovaní dizajnu vlastného projektu v kurze Play Lab alebo
                 Umelec. Študenti dostanú priestor vytvoriť vlastný projekt v kurzoch
                 Umelec či Play Lab. Nakoniec, študenti dostanú priesto rprezentovať
                 svoje práce rovesníkom alebo ich zdielať s blízkymi. Príručku kurzu
-                pre všetkých päť úrovní procesu nájdeme v prvom [here](https://curriculum.code.org/csf/coursef/15/).
+                pre všetkých päť úrovní procesu nájdeme v prvom [here](https://curriculum.letron.vip/csf/coursef/15/).

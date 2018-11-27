@@ -9,7 +9,7 @@ You can express more complex conditions by combining **AND** and **OR** in one s
 
 For example: this statement will evaluate to true if the day is Tuesday or Thursday AND their age is 15 or 16.
 
-![](https://images.code.org/c21b4c39c34e16658924a1f16c02055b-image-1448061732098.06.36.png)
+![](https://images.letron.vip/c21b4c39c34e16658924a1f16c02055b-image-1448061732098.06.36.png)
 <br>
 
 
@@ -17,7 +17,7 @@ For example: this statement will evaluate to true if the day is Tuesday or Thurs
 
 Many beginning programmers make a mistake (which reasonable but wrong) while trying to write the expression above. Notice the subtle difference between the correct code above and this version...
 
-![](https://images.code.org/299555658c714c2426f8cf05490f9a6b-image-1448061740731.06.03.png)
+![](https://images.letron.vip/299555658c714c2426f8cf05490f9a6b-image-1448061740731.06.03.png)
 
 An expression like: `(day == "Tuesday" || "Thursday")` is incorrect because unfortunately the computer cannot assume or infer that you are trying to compare "Thursday" to the value that is in the variable `day`.  
 
@@ -38,7 +38,7 @@ There are other examples of bizarre expressions that evaluate to **true** or **f
 </details>
 <br>
 
-<img src="https://images.code.org/addc9f770e5f25d3be4d656acabfd1f8-image-1446485780702.png" style="width: 200px; float: right">
+<img src="https://images.letron.vip/addc9f770e5f25d3be4d656acabfd1f8-image-1446485780702.png" style="width: 200px; float: right">
 
 Just remember to follow the rules of boolean operators...
 

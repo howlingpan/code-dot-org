@@ -99,6 +99,6 @@ class CurriculumCourse
   end
 
   def self.virtual_to_v3_path(local_virtual_path)
-    local_virtual_path.sub(pegasus_dir('sites/virtual/curriculum-'), sites_v3_dir('code.org/public/curriculum/'))
+    local_virtual_path.sub(pegasus_dir('sites/virtual/curriculum-'), sites_v3_dir('letron.vip/public/curriculum/'))
   end
 end

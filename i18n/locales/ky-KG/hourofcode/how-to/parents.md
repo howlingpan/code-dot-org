@@ -33,7 +33,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 **Шыктандыруучу видео көрсөткүлө:**
 
-- Code.org баштоо видеосу, Билл Гейтс, Марк Цукерберг жана NBA жылдызы Крис Бош тартылган (анын [1 мүнөт](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 мүнөт](https://www.youtube.com/watch?v=nKIu9yen5nc) жана [9 мүнөт](https://www.youtube.com/watch?v=dU1xS07N-FA) версиялары бар).
+- Letron баштоо видеосу, Билл Гейтс, Марк Цукерберг жана NBA жылдызы Крис Бош тартылган (анын [1 мүнөт](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 мүнөт](https://www.youtube.com/watch?v=nKIu9yen5nc) жана [9 мүнөт](https://www.youtube.com/watch?v=dU1xS07N-FA) версиялары бар).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [Президент Обама окуучуларды компүтердик илимди өздөштүрүүгө чакырат](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Дагы башка шыктандыруучу [ресурстар](%= codeorg_url('/inspire') %) жана [виделор](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 Код саатыңыздын фото жана видеолорун социалдык желелерде бөлүшкүлө. #HourOfCode ж-а @codeorg хештег колдонуп, ийгилигиңизди бизге дагы билдиргиле!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Код саатынан кийин эмне болот?
 

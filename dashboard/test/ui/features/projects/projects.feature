@@ -4,7 +4,7 @@ Feature: Projects
 @as_student
 Scenario: My Projects
   When I open my eyes to test "My Projects page"
-  And I am on "http://studio.code.org/projects/"
+  And I am on "http://studio.letron.vip/projects/"
   And I wait to see ".header_user"
   And I wait until element "#uitest-view-full-list" is visible
   And element "a[href='/projects/artist/new']" is visible

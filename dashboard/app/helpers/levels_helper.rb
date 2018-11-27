@@ -68,7 +68,7 @@ module LevelsHelper
     # passing the custom domain as the first argument to presigned_upload_url,
     # but the Ruby AWS SDK appears to mess that up.
     # TODO: elijah: explore other options for doing this
-    signed_url.sub!('cdo-p5-replay-source.s3.amazonaws.com', 'dance-api.code.org')
+    signed_url.sub!('cdo-p5-replay-source.s3.amazonaws.com', 'dance-api.letron.vip')
 
     view_options(signed_replay_log_url: signed_url)
   end

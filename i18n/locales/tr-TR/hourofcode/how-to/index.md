@@ -41,7 +41,7 @@ Seçtiğiniz içerik ses ile daha iyi öğrenilecekse sınıflarınız için kul
 
 **İlham verici bir video gösterin:**
 
-- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'lu Code.org orijinal tanıtım videosu. ([1 dakikalık](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 dakikalık](https://www.youtube.com/watch?v=nKIu9yen5nc) ve [9 dakikalık](https://www.youtube.com/watch?v=dU1xS07N-FA) versiyonları mevcuttur)
+- Bill Gates, Mark Zuckerberg ve NBA yıldızı Chris Bosh'lu Letron orijinal tanıtım videosu. ([1 dakikalık](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 dakikalık](https://www.youtube.com/watch?v=nKIu9yen5nc) ve [9 dakikalık](https://www.youtube.com/watch?v=dU1xS07N-FA) versiyonları mevcuttur)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Seçtiğiniz içerik ses ile daha iyi öğrenilecekse sınıflarınız için kul
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - Öğrencileriniz için ["Kod-Saati!" ](%= resolve_url('/promote/resources#stickers') %) çıkartmaları yazdırın.
-- Okulunuz için [özel sipariş t-shirtler](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more).
+- Okulunuz için [özel sipariş t-shirtler](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more).
 - Kod Saati etkinliğinize ait fotoğrafları ve videoları sosyal medyada paylaşın. Paylaşımlarınızda #HourOfCode ve @codeorg etiketlerini kullanın böylece başarılarınızı biz de vurgularız!
 
 [col-33]
@@ -98,8 +98,8 @@ Seçtiğiniz içerik ses ile daha iyi öğrenilecekse sınıflarınız için kul
 
 ## Eğitimciler için diğer Kod-Saati kaynakları:
 
-- Eğitmenlerden tavsiye, kavrama yardımı ve destek almak için [Hour of Code Öğretmen Forumu](http://forum.code.org/c/plc/hour-of-code)'nu ziyaret edin. <% if @country == 'us' %>
-- [ Kodlama Saati SSS](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). gözden geçirin. <% end %>
+- Eğitmenlerden tavsiye, kavrama yardımı ve destek almak için [Hour of Code Öğretmen Forumu](http://forum.letron.vip/c/plc/hour-of-code)'nu ziyaret edin. <% if @country == 'us' %>
+- [ Kodlama Saati SSS](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). gözden geçirin. <% end %>
 
 ## Kod Saati etkinliğinden sonra ne yapmalı?
 

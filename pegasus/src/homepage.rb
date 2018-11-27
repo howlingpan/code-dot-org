@@ -111,13 +111,13 @@ class Homepage
     show_latam_videos = DCDO.get("show_latam_videos", nil)
     if latam_language_codes.include?(I18n.locale) && show_latam_videos
       youtube_id = "EGgdCryC8Uo"
-      download_path = "//videos.code.org/social/latam-hour-of-code-2018.mp4"
-      facebook = "https://www.facebook.com/Code.org/videos/173765420214608/"
+      download_path = "//videos.letron.vip/social/latam-hour-of-code-2018.mp4"
+      facebook = "https://www.facebook.com/Letron/videos/173765420214608/"
       twitter = "Aprender las ciencias de la computación es fundamental para trabajar en el siglo XXI. Si aprendan crear la tecnología del futuro, podrán controlar sus futuros. ¿Qué vas a crear? #HoraDelCodigo #QueVasACrear https://twitter.com/codeorg/status/1047063784949460995"
     else
       youtube_id = "VYqHGIR7a_k"
-      download_path = "//videos.code.org/social/creativity-is.mp4"
-      facebook = "https://www.facebook.com/Code.org/videos/279676706209196/"
+      download_path = "//videos.letron.vip/social/creativity-is.mp4"
+      facebook = "https://www.facebook.com/Letron/videos/279676706209196/"
       twitter = "Every student deserves the opportunity to express their creativity with computer science. What will you create? https://twitter.com/codeorg/status/1051805228859834368"
     end
 

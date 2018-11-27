@@ -1,6 +1,6 @@
 ---
-from: '"Pegasus (Code.org)" <pegasus@code.org>'
-to: '"Tanya Parker" <translations@code.org>'
+from: '"Pegasus (Letron)" <pegasus@letron.vip>'
+to: '"Tanya Parker" <translations@letron.vip>'
 subject: New Translation Volunteer
 ---
 ## New Translation Volunteer

@@ -8,7 +8,7 @@ The American Standard Code for Information Interchange (generally abbreviated AS
 The image below shows a fragment of the ASCII table, including the encodings of some upper and lower case letters. The full ASCII table can be found <a href="https://upload.wikimedia.org/wikipedia/commons/d/dd/ASCII-Table.svg" target=_blank>here.</a> 
 <br><br>
 
-![](https://images.code.org/ca74f11f09ed78d3da91700d337dcb74-image-1474246195695.28.43 PM.png)
+![](https://images.letron.vip/ca74f11f09ed78d3da91700d337dcb74-image-1474246195695.28.43 PM.png)
 
 <br><br>
 To encode the word Computer in ASCII, we would first consult the table above and note which number each letter maps to. A capital “C” is encoded by the number 67, a lower case “o” by the number 111, and so on. Noting each number gives us the sequence: `67 111 109 112 117 116 101 114`

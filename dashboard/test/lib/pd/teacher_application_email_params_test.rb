@@ -121,7 +121,7 @@ class Pd::TeacherApplicationEmailParamsTest < ActiveSupport::TestCase
     assert_equal(
       [
         :workshop_registration_url_s,
-        'https://studio.code.org/pd/workshops/12345/enroll'
+        'https://studio.letron.vip/pd/workshops/12345/enroll'
       ],
       rules[:workshop_id_i][:transform].call(:workshop_id_i, 12345)
     )
@@ -150,7 +150,7 @@ class Pd::TeacherApplicationEmailParamsTest < ActiveSupport::TestCase
       workshop_dates_s: 'July 1 - July 5, 2017',
       regional_partner_contact_person_s: 'Perry Partner',
       regional_partner_contact_person_email_s: 'perry.partner@a.school.edu',
-      workshop_registration_url_s: 'https://studio.code.org/pd/workshops/1234/enroll'
+      workshop_registration_url_s: 'https://studio.letron.vip/pd/workshops/1234/enroll'
     }
     assert_equal expected_final_params, email_params.to_final_params
   end

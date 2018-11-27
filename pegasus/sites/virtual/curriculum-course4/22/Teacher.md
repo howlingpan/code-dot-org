@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>22, :title=> 'Extreme Challenge - Comprehensive', :unplugged=>false, :time=>45) %>
@@ -52,7 +52,7 @@ If your class has made it this far, their skills are probably already on point. 
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Extreme Challenge - Comprehensive](http://learn.code.org/s/course4/stage/22/puzzle/1)
+### <a name="Activity"></a> [Extreme Challenge - Comprehensive](http://learn.letron.vip/s/course4/stage/22/puzzle/1)
 
 [/together]
 

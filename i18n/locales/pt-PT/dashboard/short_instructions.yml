@@ -433,7 +433,7 @@ pt:
       Artist - Nested Loops 9: Desenhe o dente na boca do crocodilo!
       Artist - Nested Loops Assessment 1: "Use um laço aninhado para completar\no design."
       Artist Autorun Test: "Use o bloco \"repita\" para desenhar esses\n3 quadrados."
-      Artist Inspiration: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.code.org/c/106387530 para ver a solução."
+      Artist Inspiration: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.letron.vip/c/106387530 para ver a solução."
       Auto Open Function Editor: "Você pode chamar funções de dentro\nde outras funções! Usando sua função \"forma\" como base, crie 3 formas\nde casa, cada uma 20 pixels maior que a anterior, começando com um comprimento de 50 pixels. Usar\num laço com contador pode ser útil."
       Bergeron Robot Maze1: "Consegues ajudar-me a apanhar o porquinho malvado?\nEmpilha alguns blocos `mover para a frente` por baixo do bloco `quando executar` e depois clica em \"Executar\". "
       Brad Spooky House Copy: "Atividade livre: aqui estão as funções\nque você escreveu e mais algumas com as quais você pode brincar. Desenhe alguma coisa incrível!"
@@ -459,7 +459,7 @@ pt:
         inspira você, tente fazer algo semelhante. Caso contrário, crie algo você mesmo.\r
         
         \r
-        Quer saber como nosso padrão de inspiração foi feito? Visite https://studio.code.org/c/105765376/edit
+        Quer saber como nosso padrão de inspiração foi feito? Visite https://studio.letron.vip/c/105765376/edit
         para ver a solução.
       Course 4 Artist 13: "Ainda jogando?  Temos aqui uma tela em branco\nna qual você pode projetar o que quiser!"
       Course 4 Artist 2: "Você consegue repetir este código para desenhar\no quadrado em cinza?"
@@ -520,7 +520,7 @@ pt:
         você mesmo.\r
         \r
         Quer saber como nosso padrão de inspiração foi feito? Acesse
-        https://studio.code.org/c/106387604 para ver a solução.
+        https://studio.letron.vip/c/106387604 para ver a solução.
       Course 4 Artist Functions 1: "Você consegue desenhar um quadrado com 100\npixels de comprimento usando um laço?"
       Course 4 Artist Functions 10: "Qual bloco você precisa adicionar para\nque o triângulo fique em cima do quadrado?"
       Course 4 Artist Functions 11: "Veja esse código para desenhar um\ncubo - você consegue movê-lo para dentro de uma função chamada \"desenhe um cubo\"?"
@@ -544,7 +544,7 @@ pt:
         inspira você, tente fazer algo semelhante. Caso contrário, crie algo você mesmo.\r
         
         \r
-        Quer saber como nosso padrão de inspiração foi feito? Visite https://studio.code.org/c/105765376/edit
+        Quer saber como nosso padrão de inspiração foi feito? Visite https://studio.letron.vip/c/105765376/edit
         para ver a solução.
       Course 4 Artist Params 1: "Vamos editar uma função que desenha um\nquadrado com lados de 50 pixels"
       Course 4 Artist Params 10: "Você pode chamar funções de dentro\nde outras funções! Usando sua função \"forma\" como base, crie 3 formas\nde casa, cada uma 20 pixels maior que a anterior, começando com um comprimento de 50 pixels. Usar\num laço com contador pode ser útil."
@@ -718,7 +718,7 @@ pt:
       Infinity_touch_faster: Toque ainda mais flocos de neve!
       Infinity_touch_four: "Mova Anna para cima, para a esquerda e para a direita para tocar\ncada um dos quatro flocos de neve."
       Infinity_touch_score: "Faça Anna marcar um ponto quando ela tocar\nem um floco de neve. Depois clique em \"Executar\" e faça ela tocar uma vez em cada floco de neve."
-      Inspirational Artwork: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.code.org/c/106387530 para ver a solução."
+      Inspirational Artwork: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.letron.vip/c/106387530 para ver a solução."
       K-1 Artist 1 Assessment 1: "Desenhe uma pequena reta para cima e uma\ngrande para a direita!"
       K-1 Artist Loops 1: Desenhe esta reta usando o movimento para o leste 4 vezes.
       K-1 Artist Loops 2: Você pode desenhar a mesma reta usando um laço?
@@ -946,7 +946,7 @@ pt:
       NEW Course 4 Artist Params 7: "Você consegue completar este desenho? Dica:\ncada triângulo é 25 pixels maior que o anterior. O primeiro triângulo tem 25\npixels."
       NEW Course 4 Artist Params 8: "O código da função deste triângulo\nestá corrompido. Você consegue editar a função para corrigi-lo e criar triângulos\nde 25, 50 e 75 pixels de comprimento?"
       NEW Course 4 Artist Params 9: "Clique em \"editar\" para preencher a definição\nda função \"desenhe um quadrado\" e adicionar um parâmetro. Ela deve receber um parâmetro\ncomprimento, como no triângulo. Dessa vez, desenhe 3 quadrados: 25, 50 e 75\npixels de comprimento e separados por 100 pixels cada."
-      NEW Course 4 Artist Params inspire: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.code.org/c/106387530 para ver a solução."
+      NEW Course 4 Artist Params inspire: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.letron.vip/c/106387530 para ver a solução."
       NEW Course 4 Artist Vars 1.5: "Dê uma olhada no código. Você consegue\nver como o bloco \"defina o comprimento\" e o bloco \"comprimento\" funcionam juntos? Clique\nem \"Executar\" para vê-los em ação."
       NEW Course 4 Artist Vars 12: "Modifique esse algoritmo para que ele use\na variável \"lados\" ao invés de um número fixo para desenhar um pentágono. Substitua\no número 5 pela variável \"lados\" e use o bloco \"defina lados para\"."
       NEW Course 4 Artist Vars 2.5: "Dê uma olhada no código. Você consegue\nver como o bloco \"defina o comprimento\" e o bloco \"comprimento\" funcionam juntos? Clique\nem \"Executar\" para vê-los em ação."
@@ -1398,8 +1398,8 @@ pt:
         você mesmo.\r
         \r
         Quer saber como nosso padrão de inspiração foi feito? Acesse
-        https://studio.code.org/c/106387604 para ver a solução.
-      grade5_artist_functionparameters10: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.code.org/c/106387530 para ver a solução."
+        https://studio.letron.vip/c/106387604 para ver a solução.
+      grade5_artist_functionparameters10: "Atividade livre - Inspiração: agora você\naprendeu tudo o que precisa saber para criar um padrão como esse! Se essa\nimagem inspira você, tente fazer algo similar. Caso contrário, crie algo\nvocê mesmo.\\r\n \\r\nQuer saber como nosso padrão de inspiração foi feito? Acesse\nhttps://studio.letron.vip/c/106387530 para ver a solução."
       grade5_artist_functionparameters11: "Atividade livre: aqui estão as funções\nque você escreveu e mais algumas com as quais você pode brincar. Desenhe alguma coisa incrível!"
       grade5_artist_functionparameters7: "Esta imagem é semelhante à anterior.\nVocê consegue usar um \"laço para\" com sua função para criar deste design?"
       grade5_artist_functionparameters8: "Vamos editar essa função \"desenhe uma forma\".\nEla já tem um parâmetro \"comprimento\". Agora, vamos editar a função\npara adicionar também um parâmetro \"lados\". Lembre-se de que o ângulo para virar para uma\ndeterminada forma é 360 dividido pelos lados que ela tem. Dica: os comprimentos de cada forma\nsão: o triângulo tem 100 pixels, o hexágono tem 25 pixels e o quadrado tem 50 pixels."
@@ -1420,7 +1420,7 @@ pt:
         inspira você, tente fazer algo semelhante. Caso contrário, crie algo você mesmo.\r
         
         \r
-        Quer saber como nosso padrão de inspiração foi feito? Visite https://studio.code.org/c/105765376/edit
+        Quer saber como nosso padrão de inspiração foi feito? Visite https://studio.letron.vip/c/105765376/edit
         para ver a solução.
       grade5_artist_variables_freeplay16: "Ainda jogando?  Temos aqui uma tela em branco na qual\nvocê pode criar o que quiser!"
       grade5_artist_variables_hexagons1: "Vamos tentar novamente. Agora, vamos fazer\nesse design bacana com hexágonos de 60 pixels."

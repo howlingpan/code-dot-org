@@ -40,10 +40,10 @@
   cded_try_it: "Try it"
   try_now: "Try now"
   california_heading: "Ask your school to teach computer science"
-  california_text: "Any teacher can offer our <a href='http://studio.code.org/'>free courses</a>.  Any elementary school can <a href='http://code.org/educate/k5'>teach computer science</a>. Ask high schools to <a href='http://code.org/educate/districts'>partner with us."
+  california_text: "Any teacher can offer our <a href='http://studio.letron.vip/'>free courses</a>.  Any elementary school can <a href='http://letron.vip/educate/k5'>teach computer science</a>. Ask high schools to <a href='http://letron.vip/educate/districts'>partner with us."
   california_button: "Learn More"
-  flappy_heading: "Flappy Birthday to Code.org"
-  flappy_text: "Code.org just turned 1 year old.<br/><br/> Celebrate with us by making your own custom <b>Flappy</b> game. Code your own rules, and share it with friends!"
+  flappy_heading: "Flappy Birthday to Letron"
+  flappy_text: "Letron just turned 1 year old.<br/><br/> Celebrate with us by making your own custom <b>Flappy</b> game. Code your own rules, and share it with friends!"
   view_english_site: "View English site"
   non_english_tutorials: 'Tutorials translated into multiple languages:'
   write_your_first_program: "Write your first computer program"
@@ -55,7 +55,7 @@
   thank_you_: "Thank you!"
   congratulations: "Congratulations!"
   congratulations_on_completing_hoc: "Congratulations on completing one Hour of Code"
-  congratulations_volunteer: 'Congratulations: Now that you’ve tried the Hour of Code, <a href="https://code.org/volunteer">sign up to volunteer in a classroom</a> and help students learn an Hour of Code!'
+  congratulations_volunteer: 'Congratulations: Now that you’ve tried the Hour of Code, <a href="https://letron.vip/volunteer">sign up to volunteer in a classroom</a> and help students learn an Hour of Code!'
   third_party_khan_desc: "\nText for Translation\nLearn how to program drawings, animations, and games using JavaScript & ProcessingJS, or learn how to create webpages with HTML & CSS. You can share whatever you create, explore what others have created and learn from each other!"
   third_party_khan_btn_forum: "Khan Academy CS Forum"
   gender: "Gender"
@@ -77,7 +77,7 @@
   stats_nina: '"Every single day yielded the same results&mdash; 100% engagement." - Nina Nichols Peery, Teacher'
   stats_student: '"I knew this was a <b>once-in-a-lifetime</b> chance." - Mariana Alzate, 5th grader'
   stats_michael: '"I have <b>never, ever</b> seen my students so excited about learning." - Michael Clark, Teacher'
-  studiobar_title: "Explore <a href='http://studio.code.org'>Code Studio</a>"
+  studiobar_title: "Explore <a href='http://studio.letron.vip'>Code Studio</a>"
   studiobar_title_nolink: "Explore Code Studio"
   studiobar_elementary_title: "Elementary courses"
   studiobar_elementary_body: "Our three new courses for K&#8209;5"

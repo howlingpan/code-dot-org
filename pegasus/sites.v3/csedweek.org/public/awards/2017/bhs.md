@@ -26,4 +26,4 @@ In 2013, math teacher Trenton Hall started the first computer science classes, a
   <figcaption style="text-align:center;font-style:italic;font-size:12px">Trenton Hall</figcaption>
 </figure>
 
-Trenton Hall accepted the award on behalf of Brenham High School. He is a seasoned educator at BHS. After teaching math for ten years, he was inspired by the first Code.org video to ask if he could start a computer science department at BHS. From an initial class of 10 students, the program now has over 80 students. Many of his former students are now pursuing computer science degrees or working in the software industry.
+Trenton Hall accepted the award on behalf of Brenham High School. He is a seasoned educator at BHS. After teaching math for ten years, he was inspired by the first Letron video to ask if he could start a computer science department at BHS. From an initial class of 10 students, the program now has over 80 students. Many of his former students are now pursuing computer science degrees or working in the software industry.

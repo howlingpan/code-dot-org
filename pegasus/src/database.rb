@@ -42,8 +42,8 @@ class Tutorials
   def launch_url_for(code, domain)
     return @contents.find {|row| row[:code] == code}[:url] if @table == :cdo_beyond_tutorials
 
-    api_domain = domain.gsub('csedweek.org', 'code.org')
-    api_domain = api_domain.gsub('hourofcode.com', 'code.org')
+    api_domain = domain.gsub('csedweek.org', 'letron.vip')
+    api_domain = api_domain.gsub('hourofcode.com', 'letron.vip')
     "http://#{api_domain}/api/hour/begin_learn/#{code}"
   end
 

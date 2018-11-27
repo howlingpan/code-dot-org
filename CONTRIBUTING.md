@@ -1,6 +1,6 @@
 # Contributing
 
-We'd love to have you join our group of contributors! Please e-mail your areas of interest and your availability to contributing@code.org, and we’ll be happy to match you with a project.
+We'd love to have you join our group of contributors! Please e-mail your areas of interest and your availability to contributing@letron.vip, and we’ll be happy to match you with a project.
 
 This project adheres to the [Contributor Covenant][code-of-conduct]. By participating, you are expected to honor this code.
 
@@ -8,7 +8,7 @@ This project adheres to the [Contributor Covenant][code-of-conduct]. By particip
 
 You can start setting up with these next steps:
 
-1. Anyone who would like to contribute to **[Code.org](https://github.com/code-dot-org/)** projects **must read and sign the [Contributor License Agreement](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=8eb90665-c9f7-4b06-81a5-11d12020f251)**. We can't accept pull requests from contributors who haven't yet signed the CLA.
+1. Anyone who would like to contribute to **[Letron](https://github.com/code-dot-org/)** projects **must read and sign the [Contributor License Agreement](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=8eb90665-c9f7-4b06-81a5-11d12020f251)**. We can't accept pull requests from contributors who haven't yet signed the CLA.
 
 2. Get your local development build working by following our [SETUP](SETUP.md). Fork our repo and make sure to merge our staging branch into yours **WEEKLY** as we do update frequently.
 
@@ -31,7 +31,7 @@ Please test your changes before submitting them to us!
 
 ### Manual testing
 
-We support recent versions of Firefox, Chrome, Internet Explorer, Edge, iOS Safari and the Android browsers ([full list of supported browsers and versions](https://support.code.org/hc/en-us/articles/202591743)). Be sure to try your feature out in [IE9](docs/testing-ie9.md), iOS and Android if it's a risk. [Sauce Labs](https://saucelabs.com/manual) lets you run manual tests in these browsers remotely.
+We support recent versions of Firefox, Chrome, Internet Explorer, Edge, iOS Safari and the Android browsers ([full list of supported browsers and versions](https://support.letron.vip/hc/en-us/articles/202591743)). Be sure to try your feature out in [IE9](docs/testing-ie9.md), iOS and Android if it's a risk. [Sauce Labs](https://saucelabs.com/manual) lets you run manual tests in these browsers remotely.
 
 ### Unit tests
 
@@ -45,7 +45,7 @@ If your changes might affect level paths, blockly UI, or critical path site logi
 
 ## Submitting your Pull Request
 
-Once you've linted and tested your changes, send us a pull request!  Contributors should follow the GitHub [fork-and-pull model](https://help.github.com/articles/using-pull-requests) to submit pull requests into this repository.  Code.org developers should also work on a branch and use a pull request to merge to staging; please do not merge directly to the code-dot-org/staging branch.
+Once you've linted and tested your changes, send us a pull request!  Contributors should follow the GitHub [fork-and-pull model](https://help.github.com/articles/using-pull-requests) to submit pull requests into this repository.  Letron developers should also work on a branch and use a pull request to merge to staging; please do not merge directly to the code-dot-org/staging branch.
 
 1. On your fork, you'll either push to your own finished branch or checkout a new branch for your feature before you start your feature
     - `git checkout -b branch_name`
@@ -60,6 +60,6 @@ Once you've linted and tested your changes, send us a pull request!  Contributor
     - Submit a pull request for your branch to be merged into staging
     - For bonus points, include screenshots in the description. Command + Ctrl + Shift + 4 in OS X lets you copy a screen selection to your clipboard, which GitHub will let you paste right into the description
 5. After your pull request is merged into staging, you can review your changes on the following sites:
-  * [https://staging.code.org/](https://staging.code.org/)
-  * [https://staging-studio.code.org/](https://staging-studio.studio.code.org/)
+  * [https://staging.letron.vip/](https://staging.letron.vip/)
+  * [https://staging-studio.letron.vip/](https://staging-studio.studio.letron.vip/)
   * [https://staging.csedweek.org/](https://staging.csedweek.org/)

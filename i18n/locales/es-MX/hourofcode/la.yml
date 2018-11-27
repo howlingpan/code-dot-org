@@ -11,7 +11,7 @@ la:
   campaign_date_full: "Del 7 al 13 de diciembre"
   campaign_date_year: "2016"
   campaign_date_full_year: "Del 5 al 11 de diciembre del 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ la:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'Continuar navegando en nuestro sitio o seleccionar la opción "Acepto," indica que usted acepta el almacenamiento de cookies en su computadora o dispositivo.'
-  cookie_banner_more_information: "Ver la política de privacidad de Code.org."
+  cookie_banner_more_information: "Ver la política de privacidad de Letron."
   cookie_banner_accept: 'Acepto'
   front_header_banner: 'Únete al mayor evento educativo la historia, %{campaign_date}'
   front_intro_default: 'La Hora de Código es un movimiento global alcanzando decenas de millones de estudiantes en más de 180 países. Cualquiera, en cualquier lugar puede organizar un evento de la Hora de Código. los tutoriales de una-hora están disponibles en más de 45 idiomas. No se requiere tener experiencia. <strong>Edades de 4 a 104.</strong>'
@@ -186,7 +186,7 @@ la:
   how_to_nav_afterschool_educators: "Para los educadores de extraescolares"
   how_to_nav_volunteers: "Para los voluntarios"
   whats_next_header: "¿Qué sigue?"
-  whats_next_description: "Le enviaremos los materiales y consejos para su evento. <a href='http://code.org/learn'> prueba tutoriales actuales</a> para cualquier navegador, smartphone ¡o incluso sin ordenador!"
+  whats_next_description: "Le enviaremos los materiales y consejos para su evento. <a href='http://letron.vip/learn'> prueba tutoriales actuales</a> para cualquier navegador, smartphone ¡o incluso sin ordenador!"
   whats_next_how_to: "<a href='/how-to'>Cómo organizar una Hora del Código</a>"
   whats_next_promote: "<a href='/promote'>Promociona la Hora de Código</a>"
   whats_next_how_to_promote: "<a href='/resources/promote'> ¿Cómo promover la Hora del Código?</a>"
@@ -238,8 +238,8 @@ la:
   front_join_us_sign_up: "Regístrate"
   front_join_us_host: "Organiza"
   front_join_us_support: "Apóyala"
-  front_join_us_more_info: "Para más información, por favor visite <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "Para más información, por favor visite code.org"
+  front_join_us_more_info: "Para más información, por favor visite <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "Para más información, por favor visite letron.vip"
   front_join_us_n_students_served: "# estudiantes que an sido apoyados"
   front_join_us_challenge: "¡Gane una video conferencias con una celebridad para su clase!"
   front_join_us_learn_more: "Aprender más"
@@ -267,7 +267,7 @@ la:
   signup_your_event: 'Registre su evento'
   signup_host_an_hour: 'Organiza una Hora del Código'
   signup_match_volunteer: 'Ayúdeme a encontrar un ingeniero de software local para inspirar a mis studiantes'
-  signup_email_preference_opt_in: '¿Podemos enviarle correos electrónicos sobre actualizaciones de cursos de Code.org, oportunidades locales u otras noticias de la ciencia de la computación?'
+  signup_email_preference_opt_in: '¿Podemos enviarle correos electrónicos sobre actualizaciones de cursos de Letron, oportunidades locales u otras noticias de la ciencia de la computación?'
   signup_email_preference_privacy: '(Ver nuestra política de privacidad)'
   signup_email_preference_yes: 'Si'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ la:
   signup_continue_label: 'Continuar'
   signup_thank_you_header: "¡Gracias por inscribirte para ser anfitrión de una Hora del Código!"
   signup_thank_you_message: 'Le enviamos un correo electrónico de confirmación con información para ayudarlo a comenzar.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ la:
   hoc_faq_host_q: "No sé nada acerca de programación. ¿Aún así puedo organizar un evento?"
   hoc_faq_host_a: "Por supuesto. Las actividades de la Hora del Cóðigo son autodirigidas. Todo lo que tienes que hacer es <a href='%{codeorg_url}/learn'>intentar con nuestros tutoriales</a>, selecciona el tutorial que tu quieras, y elige una hora &mdash; nosotros nos ocupamos del resto. También tenemos opciones para todas las edades y todos los niveles de experiencia, desde el jardín de niños en adelante. Inicia organizando tu evento leyendo nuestra <a href='/how-to'>guía</a>."
   hoc_faq_devices_q: "¿Qué dispositivos debería utilizar para mis estudiantes?"
-  hoc_faq_devices_a: "Los tutoriales de Code.org funcionan en todos los dispositivos y navegadores. Puedes ver más información sobre las necesidades de tecnología de tutorial de Code.org <a href='%{codeorg_url}/educate/it'>aquí</a>. Las necesidades de tecnología para los tutoriales de nonCode.org se pueden encontrar en <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> en la descripción específica del tutorial. No olvide que también ofrecemos <a href='%{unplugged_url}'>actividades desconectadas</a> si su escuela no puede acomodar los tutoriales!"
+  hoc_faq_devices_a: "Los tutoriales de Letron funcionan en todos los dispositivos y navegadores. Puedes ver más información sobre las necesidades de tecnología de tutorial de Letron <a href='%{codeorg_url}/educate/it'>aquí</a>. Las necesidades de tecnología para los tutoriales de nonLetron se pueden encontrar en <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> en la descripción específica del tutorial. No olvide que también ofrecemos <a href='%{unplugged_url}'>actividades desconectadas</a> si su escuela no puede acomodar los tutoriales!"
   hoc_faq_need_computers_q: '¿Necesito computadoras para todos los participantes?'
   hoc_faq_need_computers_a: "No. Tenemos tutoriales de la Hora del Código que funcionan en PC, teléfonos inteligentes, tabletas y algunos que no requieren computadora en absoluto. Puedes unirte donde sea que estés, con lo que sea que tengas. <p> <i> Aquí hay algunas opciones: </i> <br> <ul> <li> <b>Trabajar en parejas.</b> <a href='%{pair_programming_research}'> La investigación muestra que</a> los estudiantes aprenden mejor con <a href='%{pair_programming_video}'> programación de pares</a>, compartiendo una computadora y trabajando juntos. Anima a tus alumnos a trabajar en pares. <li><b> Usa una pantalla proyectada.</b> Si tienes un proyector y una pantalla con una computadora conectada a la Web, tu grupo entero puede hacer una Hora de Código juntos. Mirar partes de videos juntos y tomar turnos para resolver acertijos o responder preguntas. <li><b> Desconéctate. </b> Ofrecemos <a href='%{unplugged_url}'> tutoriales que no requieren computadora </a>.</ul>"
   hoc_faq_international_q: "Estoy en Latinoamérica. ¿Cómo puedo participar internacionalmente?"
@@ -350,7 +350,7 @@ la:
   hoc_faq_high_school_q: "¿Que actividades debería hacer yo con estudiantes de secundaria?"
   hoc_faq_high_school_a: "Nuestros tutoriales de Star Wars y Minecraft son geniales para los estudiantes de secundaria, especialmente la versión Javascript de Star Wars y el nivel de juego libre de ambos tutoriales. Alternativamente, le recomendamos intentar uno de los tutoriales para principiantes en <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> para empezar, como el tutorial de Angry Birds o con Ana y Elsa. Un estudiante de secundaria será capaz de finalizarlo en 30 minutos y después puede intentar un tutorial más avanzado en Javascript como Khan Academy o CodeHS."
   hoc_faq_scratch_q: "Enseño Scratch para la Hora del Código, pero ¿qué pasa si mis estudiantes usan iPads en lugar de laptops?"
-  hoc_faq_scratch_a: "Scratch no funciona en tabletas. Si tus estudiantes son jóvenes, pueden utilizar ScratchJR para iPad (para niños que comienzan a leer). Si buscas tutoriales en <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, puedes encontrar otros tutoriales que funcionen en iPads - de Code.org, Tynker, Lightbot, or CodeSpark."
+  hoc_faq_scratch_a: "Scratch no funciona en tabletas. Si tus estudiantes son jóvenes, pueden utilizar ScratchJR para iPad (para niños que comienzan a leer). Si buscas tutoriales en <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, puedes encontrar otros tutoriales que funcionen en iPads - de Letron, Tynker, Lightbot, or CodeSpark."
   hoc_faq_count_hoc_q: "¿Cómo se cuentan las Hora de Código?"
   hoc_faq_map_q: "¿Por qué no puedo ver mi punto en el mapa?"
   hoc_faq_map_a: "Sentimos que no pueda ver su evento en el mapa de la Hora del Código. Debido a las decenas de miles de organizadores que se inscriben, el mapa agrupa los datos y muestra un punto para varios eventos. Si hace clic en el número de arriba del mapa será dirigido a una lista de todos los eventos por estado y encontrará su evento en la lista. Además, debido a las miles de personas que se registra para la Hora del Código, el mapa y la lista de evento generalmente tarda 48 horas en actualizarse. ¡Compruébalo en unos días!"
@@ -358,7 +358,7 @@ la:
   hoc_faq_one_hour_q: "¿Cuánto se puede aprender en una hora?"
   hoc_faq_one_hour_a: 'La meta de la Hora de Código no es enseñar a cualquiera para que se convierta en un científico de computación experto en una hora. Una Hora es suficiente para aprender que la ciencia de la computación es divertida y creativa,, que es accesible a todas las edades, para todos los estudiantes, sin importar su situación. La medida de éxito de esta campaña no es cuántos estudiantes de ciencias de computación aprenden -el éxito se refleja en una amplia participación entre los distintos grupos de género, étnicos y socioeconómicos, y en el consecuente aumento de las inscripciones y participación en cursos de computación en todos los niveles. Millones de maestros participantes y estudiantes han decidido ir más allá de una hora - para aprender durante un día entero, una semana entera, o aún más, y muchos estudiantes han decidido inscribirse en un curso completo (inclusive en una universidad). <br/><br/> Junto a los estudiantes, otro "aprendiz" es el educador que luego de una hora gana la confianza para poder enseñar ciencia de la computación aún cuando no tenga un grado universitario como científico de computación. Decenas de miles de maestros deciden continuar con la ciencia de computación, sea inscribiéndose en un PhD, en cursos en línea, o en ambos. Y esto aplica también a escuelas de administradores, que se dan cuenta de que la ciencia de la computación es algo que sus estudiantes desean y que sus maestros están capacitados para enseñar.<br/><br/>Sobre todas las cosas, lo que todos los participantes aprenden en una hora es que pueden aprender.'
   hoc_faq_more_questions_q: "¿Aún tienes preguntas?"
-  hoc_faq_more_questions_a: "Intenta encontrar respuestas en nuestro <a href='http://support.code.org'>foro de soporte</a>."
+  hoc_faq_more_questions_a: "Intenta encontrar respuestas en nuestro <a href='http://support.letron.vip'>foro de soporte</a>."
   hoc_faq_keep_learning_q: "¿Cómo sigo aprendiendo luego de la Hora de Código?"
   hoc_faq_keep_learning_a: "Cualquier persona puede organizar una Hora del Código en cualquier momento. Los tutoriales permanecen durante todo el año. Todos nuestros tutoriales y planes de estudios estarán disponibles en nuestro sitio perpetuamente. Por favor visita <a href='/promote'> nuestros recursos</a> para guías de procedimientos de evento y otros recursos que ayuden a hacer de tu evento de la Hora del Código un éxito."
   hoc_faq_certificates_q: "¿Donde puedo imprimir certificados para mis alumnos?"
@@ -469,8 +469,8 @@ la:
   highlights_constant_ny_short_heading: Brooklyn le gana a Chicago
   highlights_constant_athletes_heading: Los campeones y medallistas de oro Serena Williams, Neymar Jr, Carmelo Anthony y más inspiran a estudiantes a esforzarse.
   highlights_constant_athletes_short_heading: Esfuérzate
-  footer_copyright_message: 'Copyright %{current_year} Code.org. Todos los derechos reservados.'
-  footer_trademark_message: 'Hora del código ™ es una marca registrada de Code.org.'
+  footer_copyright_message: 'Copyright %{current_year} Letron. Todos los derechos reservados.'
+  footer_trademark_message: 'Hora del código ™ es una marca registrada de Letron.'
   footer_menu_partners: 'Socios y Asesores'
   footer_menu_contact: 'Contáctenos'
   footer_menu_support: 'Soporte'
@@ -506,7 +506,7 @@ la:
   tutorial_spritebox_name: "Codificación de una caja de sprite"
   tutorial_tynkerch_name: "Tuneo del contador"
   tutorial_lightbot_name: "Robot de luz"
-  tutorial_hoc_name: "Marcador de posición para el nuevo code.org/hoc"
+  tutorial_hoc_name: "Marcador de posición para el nuevo letron.vip/hoc"
   tutorial_code_name: "Codifica tu primer programa de computación"
   tutorial_tinspire_name: "10 minutos de código para la TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH, La bola que rebota (en Scratch)"
@@ -1086,7 +1086,7 @@ la:
   tutorial_spritebox_shortdescription: "¡Correr, saltar y codificar a través de tres diferentes mundos para recoger las estrellas y llegar a la meta! Aprender la secuencia, depuración y lazos y Código Swift, Java, o con los iconos."
   tutorial_tynkerch_shortdescription: "¡Aprende Javascript para derrotar a los virus!"
   tutorial_lightbot_shortdescription: "¡Programa Lightbot para resolver puzzles utilizando procedimientos y bucles!"
-  tutorial_hoc_shortdescription: "Marcador de posición para el nuevo code.org/hoc"
+  tutorial_hoc_shortdescription: "Marcador de posición para el nuevo letron.vip/hoc"
   tutorial_code_shortdescription: "¡Aprende a programar con Mark Zuckerberg y Angry Birds!"
   tutorial_tinspire_shortdescription: "Los alumnos comienzan a codificar en su dispositivo TI-Nspire CX en sólo 10 minutos."
   tutorial_itchbounceball_shortdescription: "Uso de ITCH-Scratch integrado con una lección en vídeo para hacer su proyecto de lanzador de bola"
@@ -1666,7 +1666,7 @@ la:
   tutorial_spritebox_longdescription: "¡Correr, saltar y codificar a través de tres diferentes mundos para recoger las estrellas y llegar a la meta! Aprender la secuencia, depuración y lazos y Código Swift, Java, o con los iconos."
   tutorial_tynkerch_longdescription: "¡Guarde la computadora de un virus malicioso! Tendrás que hackear tu camino a través del sistema eliminando virus, abriendo puertas, resolviendo laberintos y navegando por los portales. ¡Cuidado con los virus y fallas!"
   tutorial_lightbot_longdescription: "¡Lightbot es un juego que pide a los jugadores usar la lógica de programación para resolver acertijos! Obtenga una comprensión práctica de los conceptos básicos de codificación al guiar a Lightbot para que ilumine todos los mosaicos azules en cada nivel. Aprenda a secuenciar instrucciones, escribir procedimientos y utilizar ciclos a lo largo del camino en esta actividad autoguiada. Ideal para todas las edades y todos los niveles de habilidad."
-  tutorial_hoc_longdescription: "Marcador de posición para el nuevo code.org/hoc"
+  tutorial_hoc_longdescription: "Marcador de posición para el nuevo letron.vip/hoc"
   tutorial_code_longdescription: "Aprende los conceptos básicos de la informática con la programación arrastrar y soltar. Este es un tutorial autodirigido y en forma de juego con videoconferencias de Bill Gates, Mark Zuckerberg, Angry Birds y Plants vs. Zombies. Aprende los conceptos de repetición de bucles, condicionales y algoritmos básicos. Disponibles en 37 idiomas."
   tutorial_tinspire_longdescription: "Presente a los estudiantes los principios básicos de la codificación, en solo 10 minutos a la vez, utilizando la tecnología TI que llevan en sus mochilas todos los días. Estas lecciones les dan a los estudiantes una entrada fácil en la programación que puede ayudar a despertar su interés en la codificación y la informática. Los estudiantes escribirán programas que pueden fortalecer los conceptos matemáticos utilizando el lenguaje TI Basic que está listo para usar en sus computadoras de mano TI-Nspire."
   tutorial_itchbounceball_longdescription: "Lo guiaremos a través de una introducción a Itch, utilizando el lenguaje de programación visual Scratch.\n\nEsta lección proporciona un video y las instrucciones de texto para el código que los estudiantes deben agregar para obtener una pelota que rebota zanily alrededor de la pantalla.\n\nUna vez que los estudiantes completan esta actividad, hay una oportunidad de explorar con ideas para otros cambios y actividades que se pueden realizar. No hay un objetivo o resultado establecido, ya que es un entorno de aprendizaje abierto, pero con este código inicial, ¡los estudiantes crean proyectos increíbles!\n\nTodas las instrucciones están contenidas en el entorno de Itch, por lo que no es necesario cambiar de pantalla para seguir con el proyecto. Auriculares son recomendados."

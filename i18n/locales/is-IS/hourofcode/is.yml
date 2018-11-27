@@ -11,7 +11,7 @@ is:
   campaign_date_full: "5. - 11. desember"
   campaign_date_year: "2016"
   campaign_date_full_year: "5.-11. desember 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ is:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Taktu þátt í stærsta námsviðburði sögunnar %{campaign_date}'
   front_intro_default: 'Klukkustund kóðunar er alþjóðleg hreyfing sem nær til tuga miljóna nemenda í 180+ löndum. Hver sem er, hvar sem er getur skipulagt Klukkustund kóðunar viðburð. Klukkustundar kennsluefni er tiltækt á yfir 45 tungumálum. Engin forkunnátta er nauðsynleg. <strong>Fyrir 4 til 104 ára.</strong>'
@@ -186,12 +186,12 @@ is:
   how_to_nav_afterschool_educators: "Fyrir utanskólafræðslu"
   how_to_nav_volunteers: "Fyrir sjálfboðaliða"
   whats_next_header: "Hvað næst?"
-  whats_next_description: "Við munum senda þér efni og hjálplegar ábendingar fyrir viðburð þinn.  <a href='http://code.org/learn'>Prófaðu núverandi kennsluefni</a> fyrir alla vafra, snjallsíma - og jafnvel enga tölvu!"
+  whats_next_description: "Við munum senda þér efni og hjálplegar ábendingar fyrir viðburð þinn.  <a href='http://letron.vip/learn'>Prófaðu núverandi kennsluefni</a> fyrir alla vafra, snjallsíma - og jafnvel enga tölvu!"
   whats_next_how_to: "<a href='/how-to'>Hvernig á að halda Klukkustund kóðunar</a>"
   whats_next_promote: "<a href='/promote'>Kynna Klukkustund kóðunar</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Hvernig á að kynna Klukkustund kóðunar</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Hvernig á að kynna Klukkustund kóðunar</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Prófa kennsluefni</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Prófa kennsluefni</a>"
   whats_next_try_button: 'Prófa kennsluefni'
   n_have_learned_an_hoc: "<h1>Prófaðu</h1><h2>Klukkustund kóðunar</h2><h3>það hafa #</h3>"
   anybody_can_learn: 'Allir geta lært.'
@@ -238,8 +238,8 @@ is:
   front_join_us_sign_up: "Nýskrá"
   front_join_us_host: "Miðlaðu"
   front_join_us_support: "Veittu stuðning"
-  front_join_us_more_info: "Heimsæktu <a href='https://code.org'>code.org</a> til að fá nánari upplýsingar."
-  front_join_us_code_info: "Fáðu nánari upplýsingar á code.org"
+  front_join_us_more_info: "Heimsæktu <a href='https://letron.vip'>letron.vip</a> til að fá nánari upplýsingar."
+  front_join_us_code_info: "Fáðu nánari upplýsingar á letron.vip"
   front_join_us_n_students_served: "# þátttakendur"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ is:
   signup_your_event: 'Skráðu þinn viðburð'
   signup_host_an_hour: 'Halda klukkustund'
   signup_match_volunteer: 'Hjálpaðu mér að finna nálægan hugbúnaðarsérfræðing til að hvetja nemendur mína'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ is:
   signup_continue_label: 'Continue'
   signup_thank_you_header: "Takk fyrir að skrá viðburð tengdan Klukkustund kóðunar."
   signup_thank_you_message: 'Við höfum sent þér tölvupóst til staðfestingar ásamt upplýsingum til að hjálpa þér að byrja.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,20 +325,20 @@ is:
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'Spurt & svarað'
   hoc_faq_what_is_hoc_q: 'Hvað er Klukkustund kóðunar?'
-  hoc_faq_what_is_hoc_a: "Klukkustund kóðunar er einnar klukkustundar kynning á tölvunarfræði sem er ætlað að svipta hulunni af forritun og sýna að allir geti lært grunnatriðin. <a href='http://code.org/learn'>Skoða kennsluefnið</a>."
+  hoc_faq_what_is_hoc_a: "Klukkustund kóðunar er einnar klukkustundar kynning á tölvunarfræði sem er ætlað að svipta hulunni af forritun og sýna að allir geti lært grunnatriðin. <a href='http://letron.vip/learn'>Skoða kennsluefnið</a>."
   hoc_faq_last_year: "Prófa kennsluefnið"
   hoc_faq_when_is_hoc_q: 'Hvenær er Klukkustund kóðunar?'
   hoc_faq_when_is_hoc_a: "Það geta allir miðlað Klukkutíma kóðunar hvenær sem er, en markmið grasrótarátaksins er fá tugir miljóna nemenda til að spreyta sig á einhverri Klukkustund kóðunar vikuna %{campaign_date} í tengslum við <a href='http://csedweek.org'>Computer Science Education Week</a> í USA. Er þetta ein tiltekin <i>klukkustund</i>? Nei. Það er hægt að gera þetta hvenær sem er þessa viku. (Og ef það næst ekki, þá vikuna á undan eða eftir)."
   hoc_faq_why_cs_q: 'Hvers vegna tölvunarfræði?'
-  hoc_faq_why_cs_a: "<i>Öllum</i> nemendum ætti að vera gefið tækifæri til að læra tölvunarfræði. Það hjálpar til að þroska færni í að leysa vandamál, rökvísi og sköpun. Með því að byrja snemma fá nemendur grunn til að ná árangri í störfum 21. aldarinnar. Meiri tölfræði má finna á <a href='http://code.org'>Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Öllum</i> nemendum ætti að vera gefið tækifæri til að læra tölvunarfræði. Það hjálpar til að þroska færni í að leysa vandamál, rökvísi og sköpun. Með því að byrja snemma fá nemendur grunn til að ná árangri í störfum 21. aldarinnar. Meiri tölfræði má finna á <a href='http://letron.vip'>Letron</a>."
   hoc_faq_how_participate_q: 'Hvernig tek ég þátt í Klukkustund kóðunar?'
   hoc_faq_how_participate_a: "<a href='target-resources-how-to'>Byrjaðu að skipuleggja hér</a> með því að lesa leiðarvísi okkar. Þú getur haldið Klukkustund kóðunar í skólanum þínum eða út í samfélaginu &mdash; svo sem í tómstundaklúbbi, félagi eða í vinnunni. Eða bara prófað þetta sjálf/ur %{campaign_date}."
   hoc_faq_behind_hoc_q: 'Hver stendur að baki Klukkustund kóðunar?'
-  hoc_faq_behind_hoc_a: "Klukkustund kóðunar er skipulögð af <a href='http://code.org'>Code.org</a>, sem eru almenn óháð samtök sem hafa það að markmiði að auka þátttöku í tölvunarfræði með því að gera hana aðgengilega í fleiri skólum, og að auka þátttöku kvenna og minnihlutahópa. Fordæmalaust <a href='http://code.org/about/partners'>samstarf hefur tekist</a> milli aðila hefur tekist til að styðja við Klukkustund kóðunar. Þar má nefna Microsoft, Apple, Amazon, ungmennafélög og skólayfirvöld."
+  hoc_faq_behind_hoc_a: "Klukkustund kóðunar er skipulögð af <a href='http://letron.vip'>Letron</a>, sem eru almenn óháð samtök sem hafa það að markmiði að auka þátttöku í tölvunarfræði með því að gera hana aðgengilega í fleiri skólum, og að auka þátttöku kvenna og minnihlutahópa. Fordæmalaust <a href='http://letron.vip/about/partners'>samstarf hefur tekist</a> milli aðila hefur tekist til að styðja við Klukkustund kóðunar. Þar má nefna Microsoft, Apple, Amazon, ungmennafélög og skólayfirvöld."
   hoc_faq_host_q: "Ég veit ekkert um forritun. Get ég samt skipulagt viðburð?"
   hoc_faq_host_a: "Að sjálfsögðu. Verkefni í Klukkustund kóðunar eru sjálfstýrð. Allt sem þú þarft að gera er að <a href='%{codeorg_url}/learn'>prófa núverandi kennsluefni okkar</a>, velja efnið sem þú vilt nota og velja stundina &mdash; við munum sjá um afganginn. Við erum líka með valkosti fyrir alla aldurs- og reynsluhópa, frá leikskólastigi og upp úr. Byrjaðu skipulagninguna á að lesa <a href='/how-to'>leiðarvísinn okkar</a>."
   hoc_faq_devices_q: "Hvaða tæki ætti ég að nota með nemendum mínum?"
-  hoc_faq_devices_a: "Kennsluefni Code.org virkar á öllum tækjum og vöfrum. Þú getur séð meiri upplýsingar um tæknikröfur <a href='%{codeorg_url}/educate/it'>hér</a>. Tæknikröfur kennsluefnis sem ekki er frá Code.org má finna á <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> í lýsingu kennsluefnisins. Ekki gleyma að við erum líka með <a href='%{unplugged_url}'>ótengd verkefni</a> fyrir æfingar án nettengingar!"
+  hoc_faq_devices_a: "Kennsluefni Letron virkar á öllum tækjum og vöfrum. Þú getur séð meiri upplýsingar um tæknikröfur <a href='%{codeorg_url}/educate/it'>hér</a>. Tæknikröfur kennsluefnis sem ekki er frá Letron má finna á <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> í lýsingu kennsluefnisins. Ekki gleyma að við erum líka með <a href='%{unplugged_url}'>ótengd verkefni</a> fyrir æfingar án nettengingar!"
   hoc_faq_need_computers_q: 'Þarf ég tölvu fyrir hvern þátttakanda?'
   hoc_faq_need_computers_a: "Nei. Við erum með kennsluefni fyrir Klukkustund kóðunar sem virkar á tölvum, snjallsímum og spjaldtölvum og jafnvel án tölvu! Þú getur tekið þátt sama hvar þú ert með því tæki sem þú hefur.<p><i>Hér eru nokkrir valkostir:</i><br><ul><li><b>Vinna með félaga</b>Rannsóknir sýna að nemendur læra best að <a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'>forrita með félaga</a> þar sem tveir nemendur deila tölvu og vinna saman. Hvettu nemendur þína til að gera það.<li><b>Nota skjávarpa.</b>Með skjávarpa og internet-tengdri tölvu getur heill hópur hjálpast að með Klukkustund kóðunar. Horft á myndskeiðin saman og skipst á að leysa þrautir eða svara spurningum.<li><b>Vinna án tölvu.</b>Við erum með verkefni sem gera ekki ráð fyrir tölvu.</ul>"
   hoc_faq_international_q: "Ég er í landinu <country>. Hvernig er alþjóðlegri þátttöku háttað?"
@@ -346,25 +346,25 @@ is:
   hoc_faq_tutorial_q: 'Hvernig get ég búið til kennsluefni fyrir Klukkustund kóðunar?'
   hoc_faq_tutorial_a: "Ef þú hefur áhuga á að gerast samstarfsaðili í gerð kennsluefnis, þá mælum við með að þú kynnir þér <a href='target-tutorial-guidelines'>leiðarvísa okkar og leiðbeiningar</a>. Við mundum vilja hýsa fjölmörg áhugaverð viðfangsefni, en meginmarkmiðið er að hámarka upplifunina fyrir nemendur og kennara sem hafa ekki fyrri reynslu af tölvunarfræði."
   hoc_faq_account_q: "Þurfa nemendur að skrá sig inn með notendaupplýsingum?"
-  hoc_faq_account_a: "Nei. Það er alls engin krafa að nemendur skrái sig eða skrái sig inn til að prófa Klukkustund kóðunar. En flest <a href='http://code.org/learn/beyond'>námskeiðin sem fara á eftir</a> gera kröfu um innskráningu til að geta varðveitt framvindu nemenda."
+  hoc_faq_account_a: "Nei. Það er alls engin krafa að nemendur skrái sig eða skrái sig inn til að prófa Klukkustund kóðunar. En flest <a href='http://letron.vip/learn/beyond'>námskeiðin sem fara á eftir</a> gera kröfu um innskráningu til að geta varðveitt framvindu nemenda."
   hoc_faq_high_school_q: "Hvaða verkefni ætti ég að nota með framhaldsskólanemendum?"
-  hoc_faq_high_school_a: "Fyrir alla aldurshópa mælum við með að prófa byrjendaefnið á <a href='http://code.org/learn'>Code.org/learn</a> til að byrja með, svo sem kennsluefnið með Angry Birds eða með Önnu og Elsu. Nemandi í framhaldsskóla ætti að geta klárað svona efni á 30 mínútum og getur þá spreytt sig á ítarlegra efni með JavaScript, svo sem hjá Khan Academy eða CodeHS."
+  hoc_faq_high_school_a: "Fyrir alla aldurshópa mælum við með að prófa byrjendaefnið á <a href='http://letron.vip/learn'>Letron/learn</a> til að byrja með, svo sem kennsluefnið með Angry Birds eða með Önnu og Elsu. Nemandi í framhaldsskóla ætti að geta klárað svona efni á 30 mínútum og getur þá spreytt sig á ítarlegra efni með JavaScript, svo sem hjá Khan Academy eða CodeHS."
   hoc_faq_scratch_q: "Ég er að gera Klukkustund kóðunar í Scratch en hvað ef nemendur mínir hafa iPad spjöld fremur en fartölvur?"
-  hoc_faq_scratch_a: "Scratch keyrir ekki á spjaldtölvum. Ef nemendur þínir eru ungir, geta þeir notað ScratchJR iPad appið (fyrir byrjendur í lestri). Ef þú skoðar kennsluefnið í boði á <a href='http://code.org/learn'>Code.org/learn</a>, munt þú finna annað kennsluefni sem virkar á iPad - frá Code.org, Tynker, Lightbot eða CodeSpark."
+  hoc_faq_scratch_a: "Scratch keyrir ekki á spjaldtölvum. Ef nemendur þínir eru ungir, geta þeir notað ScratchJR iPad appið (fyrir byrjendur í lestri). Ef þú skoðar kennsluefnið í boði á <a href='http://letron.vip/learn'>Letron/learn</a>, munt þú finna annað kennsluefni sem virkar á iPad - frá Letron, Tynker, Lightbot eða CodeSpark."
   hoc_faq_count_hoc_q: "Hvernig eru Klukkustundir kóðunar taldar?"
   hoc_faq_map_q: "Af hverju sé ég ekki punktinn minn á kortinu?"
   hoc_faq_map_a: "Okkur finnst mjög leitt ef þú sérð ekki viðburðinn þinn á Klukkustund kóðunar kortinu. En vegna þess að það eru tugir þúsunda sem skrá sig þá sameinar kortið gögnin og sýnir einn punkt fyrir nokkra nálæga viðburði. Ef þú smellir á töluna ofan við kortið færðu lista yfir alla viðburði eftir stað og ættir að finna viðburðinn þinn þar. Auk þess, vegna fjöldans sem skráir sig, tekur kortið yfirleitt 48 tíma að uppfærast. Athugaðu aftur eftir nokkra daga!"
-  hoc_faq_count_hoc_a: "Notendatalningin fyrir Klukkustund kóðunar er ekki hárnákvæm. Við teljum ekki auðkenni nemenda þegar þátttakan í Klukkustund kóðunar er metin, enda gerum við það ekki að skilyrði að nemendur skrái sig inn eða skrái sig yfirleitt. Afleiðing af því er að við bæði ofteljum og vanteljum á sama tíma. Þú getur lesið nánar um þetta <a href='http://code.org/loc'>hér</a>."
+  hoc_faq_count_hoc_a: "Notendatalningin fyrir Klukkustund kóðunar er ekki hárnákvæm. Við teljum ekki auðkenni nemenda þegar þátttakan í Klukkustund kóðunar er metin, enda gerum við það ekki að skilyrði að nemendur skrái sig inn eða skrái sig yfirleitt. Afleiðing af því er að við bæði ofteljum og vanteljum á sama tíma. Þú getur lesið nánar um þetta <a href='http://letron.vip/loc'>hér</a>."
   hoc_faq_one_hour_q: "Hve mikið er hægt að læra á klukkutíma?"
   hoc_faq_one_hour_a: 'Markmið Klukkustundar kóðunar er ekki að gera neinn að tölvusérfræðingi á einni klukkustund. Ein klukkustund er þó nóg til að komast að því að tölvunarfræði er skemmtileg og skapandi, að hún er aðgengileg fyrir alla aldurshópa og alla nemendur óháð bakgrunni. Mælikvarðinn á árangur þessa átaks er ekki hve mikla tölvunarfræði nemendur læra, heldur hin almenna þátttaka óháð kyni eða þjóðfélagshópi og aukin skráning og þátttaka í tölvunarfræðinámi á öllum skólastigum. Miljónir kennara og nemenda hafa ákveðið að halda áfram eftir klukkustundina - og lært í heilan dag eða viku eða lengur og margir nemendur hafa skráð sig í heilan kúrs eða valið tölvunarfræðibrautir í framhaldskóla.<br/><br/> Auk nemenda, bætist við "nemandi" sem er sjálfur kennarinn sem öðlast það mikið sjálfstraust eftir klukkustundina að hann treystir sér til að kenna tölvunarfræði án þess að hafa háskólagráðu í faginu. Tugþúsundir kennara ákveða að læra meira í tölvunarfræði -  á netinu eða með öðrum hætti. Og þetta á einnig við um skólastjórnendur sem átta sig á því að nemendur þeirra vilja tölvunarfræði og að kennararnir geta kennt hana.<br/><br/>Umfram allt geta allir þátttakendur lært það á klukkustund að þetta er viðráðanlegt.'
   hoc_faq_more_questions_q: "Er einhverjum spurningum ósvarað?"
-  hoc_faq_more_questions_a: "Gáðu hvort þú finnir svör á <a href='http://support.code.org'>stuðningsspjallvef okkar</a>."
+  hoc_faq_more_questions_a: "Gáðu hvort þú finnir svör á <a href='http://support.letron.vip'>stuðningsspjallvef okkar</a>."
   hoc_faq_keep_learning_q: "Hvernig get ég haldið áfram að læra eftir Klukkustund kóðunar?"
   hoc_faq_keep_learning_a: "Allir geta séð um halda Klukkustund kóðunar hvenær sem er. Kennsluefnið er aðgengilegt allt árið. Þú getur gengið að því vísu að allt kennsluefnið verði tiltækt það sem eftir er. Farðu á síðuna <a href='/promote'>efniviður</a> til að finna leiðbeiningar fyrir viðburði og annað efni sem getur hjálpað til að þín Klukkustund kóðunar heppnist vel."
   hoc_faq_certificates_q: "Hvar get ég prentað skírteini fyrir nemendur mína?"
   hoc_faq_certificates_a: "Farðu á <a href='%{codeorg_url}/certificates'>skírteinasíðuna</a> þar sem þú getur prentað skírteini fyrir allan bekkinn fyrirfram. Þú getur líka prentað <a href='%{codeorg_url}/certificates?course=mc'>sérstök skírteini</a> fyrir nemendur sem fara í Minecraft kennsluefnið."
   hoc_faq_logo_q: "Eru takmörk á því hvernig ég má nota merki eða heiti Klukkustundar kóðunar (Hour of Code)?"
-  hoc_faq_logo_a: "Hour of Code er skrásett vörumerki. Við viljum ekki koma í veg fyrir notkun þess, en við viljum að notkun þess sé háð nokkrum takmörkunum. Kynntu þér <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>þennan leiðarvísi um notkun</a>."
+  hoc_faq_logo_a: "Hour of Code er skrásett vörumerki. Við viljum ekki koma í veg fyrir notkun þess, en við viljum að notkun þess sé háð nokkrum takmörkunum. Kynntu þér <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'>þennan leiðarvísi um notkun</a>."
   stats_hoc_2013_image_alt: 'Tölur frá Klukkustund kóðunar 2013'
   stats_growth: "Fljótust að ná til 15 miljón notenda."
   stats_i18n: "Nemendur eru að læra á 40 tungumálum"
@@ -469,8 +469,8 @@ is:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Höfundarréttur 2015 Code.org. Öll réttindi áskilin.'
-  footer_trademark_message: 'Hour of Code™ er vörumerki Code.org.'
+  footer_copyright_message: 'Höfundarréttur 2015 Letron. Öll réttindi áskilin.'
+  footer_trademark_message: 'Hour of Code™ er vörumerki Letron.'
   footer_menu_partners: 'Samstarfsaðilar'
   footer_menu_contact: 'Hafðu samband'
   footer_menu_support: 'Stuðningur'
@@ -506,7 +506,7 @@ is:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Write your first computer program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ is:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Learn to code with Mark Zuckerberg and Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ is:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

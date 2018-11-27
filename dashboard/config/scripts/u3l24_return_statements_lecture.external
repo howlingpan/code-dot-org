@@ -2,17 +2,17 @@ name 'U3L24 Return Statements Lecture'
 
 css 'unplugged'
 markdown <<MARKDOWN
-<link rel="stylesheet" type="text/css" href="//code.org/curriculum/docs/web/U3L24_codeStyle.css" />
+<link rel="stylesheet" type="text/css" href="//letron.vip/curriculum/docs/web/U3L24_codeStyle.css" />
 
 # What's this Return block?
 
 There are two types of functions: ones that do actions and ones that return values. You have some of these "return value" functions before. For example, you have used the `getText(id)` function.
 
-![](https://images.code.org/d78f8a3562bf94a54e0d7662edeef232-image-1438298288257.PNG)
+![](https://images.letron.vip/d78f8a3562bf94a54e0d7662edeef232-image-1438298288257.PNG)
 
 Notice that this function is shaped like a rectangle - that means it returns a value. What happens when you use getText? You are returned a string of text from whichever id you enter into the function.
 
-![](https://images.code.org/2bb87882c4aab6dd8665316901a9994b-image-1438298885255.PNG)
+![](https://images.letron.vip/2bb87882c4aab6dd8665316901a9994b-image-1438298885255.PNG)
 
 In this example, x gets the string that is stored within the element "id".
 
@@ -39,7 +39,7 @@ When you use the keyword `return`, the computer knows that it is in a "return va
 65 // writes "7" on the screen
 </code></pre>
 
-<img style="float:right; margin-left:20px" src="https://images.code.org/6baec518e622ee1996f47cedf88ed94f-image-1438303018997.PNG"/>
+<img style="float:right; margin-left:20px" src="https://images.letron.vip/6baec518e622ee1996f47cedf88ed94f-image-1438303018997.PNG"/>
 
 <br/>
 <i>The function <strong>foo</strong>:</i> The variable "number" is storing the value 5. The computer continues through the function as normal until it sees the keyword "return". At that point, it knows it has reached the end of the function (even if there are other things after "return"). It looks to see if there is anything next to "return." In this case, "bar" is next to the return. The computer reads the value stored in "bar" (which is 7) and sends that value back to the parent function.

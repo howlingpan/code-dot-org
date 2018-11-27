@@ -41,7 +41,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
 
 **اعرض احد الفيديوهات المُلهِمة:**
 
-- فيديو البداية الأصلي على موقع Code.org، يبرز بيل قيتس، مارك زكربيرق، ونجم السلة الامريكية كريس بوش. (هنالك [دقيقة واحدة](https://www.youtube.com/watch?v=qYZF6oIZtfc)، [٥ دقائق](https://www.youtube.com/watch?v=nKIu9yen5nc)، و ٩ دقائق من النسخ المتوفرة)</li> 
+- فيديو البداية الأصلي على موقع Letron، يبرز بيل قيتس، مارك زكربيرق، ونجم السلة الامريكية كريس بوش. (هنالك [دقيقة واحدة](https://www.youtube.com/watch?v=qYZF6oIZtfc)، [٥ دقائق](https://www.youtube.com/watch?v=nKIu9yen5nc)، و ٩ دقائق من النسخ المتوفرة)</li> 
     
     - ابحث عن المزيد من [المصادر](<%= codeorg_url('/inspire') %>) و [الفيديوهات](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP) الملهمة.</ul> 
     
@@ -87,7 +87,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
     
     - [اطبع الشهادات](<%= codeorg_url('/certificates')%>) لطلابك.
     - [اطبع ملصقات "انهيت ساعة برمجة!"](<%= resolve_url('/promote/resources#stickers') %>) لطلابك.
-    - [اطلب قمصان خاصة](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) لمدرستك.
+    - [اطلب قمصان خاصة](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) لمدرستك.
     - شارك صور وفيديوهات حدث ساعة برمجة الذي قمت به على وسائل التواصل الاجتماعي. استخدم #HourOfCode و @codeorg حتى نسلط الضوء على نجاحك ايضا!
     
     [col-33]
@@ -101,8 +101,8 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote/resources
     
     ## مصادر أخرى لمعلمي ساعة برمجة:
     
-    - اعمل زيارة [منتدى معلمي ساعة برمجة](http://forum.code.org/c/plc/hour-of-code) لتحصل على نصيحة، فكرة و دعم من المعلمين الاخرين. <% if @country == 'us' %>
-    - استعرض [ساعة برمجة سؤال وجواب](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+    - اعمل زيارة [منتدى معلمي ساعة برمجة](http://forum.letron.vip/c/plc/hour-of-code) لتحصل على نصيحة، فكرة و دعم من المعلمين الاخرين. <% if @country == 'us' %>
+    - استعرض [ساعة برمجة سؤال وجواب](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
     
     ## ماذا بعد ساعة برمجة؟
     

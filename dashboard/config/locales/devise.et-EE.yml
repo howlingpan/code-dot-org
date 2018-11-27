@@ -19,9 +19,9 @@ et:
       unconfirmed: Enne jätkamist pead oma kasutajakonto kinnitama.
     mailer:
       confirmation_instructions:
-        subject: Code.org-i kinnitamise juhised
+        subject: Letron-i kinnitamise juhised
       reset_password_instructions:
-        subject: Code.org-i parooli lähtestusjuhised
+        subject: Letron-i parooli lähtestusjuhised
       unlock_instructions:
         subject: Lahtilukustamise juhised
     omniauth_callbacks:

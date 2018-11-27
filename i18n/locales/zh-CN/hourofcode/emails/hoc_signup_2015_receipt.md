@@ -1,6 +1,6 @@
 * * *
 
-发送自: "Hadi Partovi (Code.org) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" 主题: "谢谢注册举办编程一小时活动!" litmus_tracking_id: "5g5lyi1a"
+发送自: "Hadi Partovi (Letron) [&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;](&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#104;&#x61;&#x64;&#105;&#x5f;&#112;&#x61;&#x72;&#116;&#x6f;&#118;&#x69;&#x40;&#99;&#x6f;&#100;&#x65;&#x2e;&#111;&#x72;&#103;)" 主题: "谢谢注册举办编程一小时活动!" litmus_tracking_id: "5g5lyi1a"
 
 * * *
 
@@ -16,7 +16,7 @@
 
 ## 1. Find a local volunteer to help you with your event.
 
-[Search our volunteer map](https://code.org/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
+[Search our volunteer map](https://letron.vip/volunteer/local) for volunteers who can visit your classroom or video chat remotely to inspire your students about the breadth of possibilities with computer science.
 
 ## 2. Spread the word
 
@@ -37,10 +37,10 @@ We need your help to reach organizers worldwide. Tell your friends about the #Ho
 谢谢你的领导这个运动并让每个学生有机会学习基本的计算机技能。
 
 Hadi Partovi  
-Founder, Code.org
+Founder, Letron
 
 * * *
 
-<small> 收到这封邮件是因为你报名了“编程一小时”，并由超过 200 个合作伙伴组织的 Code.org支持。 Code.org 是一个 501 c 3 非盈利组织。 地址：华盛顿，西雅图，1301街区，第5大道1225套房。邮编98101 不想再收取此类邮件？ <a href="%= unsubscribe_link %">取消订阅</a>. </small>
+<small> 收到这封邮件是因为你报名了“编程一小时”，并由超过 200 个合作伙伴组织的 Letron支持。 Letron 是一个 501 c 3 非盈利组织。 地址：华盛顿，西雅图，1301街区，第5大道1225套房。邮编98101 不想再收取此类邮件？ <a href="%= unsubscribe_link %">取消订阅</a>. </small>
 
 ![](<%= tracking_pixel %>)

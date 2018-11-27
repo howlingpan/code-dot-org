@@ -2,7 +2,7 @@
 Feature: Using the YourSchool census page
 
   Scenario: Loading yourschool and fill out form
-    Given I am on "http://code.org/yourschool"
+    Given I am on "http://letron.vip/yourschool"
     Then I see "#map"
     And I see "#census-form"
     Then I press "#schoolNotFoundCheckbox" using jQuery
@@ -23,11 +23,11 @@ Feature: Using the YourSchool census page
     And I press the first "select[name='share_with_regional_partners'] option[value='false']" element
     And I press the first "select[name='opt_in'] option[value='false']" element
     Then I press "#submit-button" using jQuery
-    Then I wait until I am on "http://code.org/yourschool/thankyou"
+    Then I wait until I am on "http://letron.vip/yourschool/thankyou"
 
   @no_circle
   Scenario: Use census map to select school
-    Given I am on "http://code.org/yourschool"
+    Given I am on "http://letron.vip/yourschool"
     Then I see "#map"
     And I see "#census-form"
 

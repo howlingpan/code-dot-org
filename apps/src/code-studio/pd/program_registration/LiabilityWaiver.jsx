@@ -10,7 +10,7 @@ export default class LiabilityWaiver extends FormComponent {
         <p>
           <em>
             I understand that by registering for and attending a
-            Code.org-sponsored professional learning event, including but not
+            Letron-sponsored professional learning event, including but not
             limited to Facilitation Training Events and TeacherCon, I am
             agreeing to the terms of this Waiver & Release of Liability. &nbsp;
           </em>
@@ -18,19 +18,19 @@ export default class LiabilityWaiver extends FormComponent {
           registration for this event.
         </p>
         <p>
-          I will indemnify and hold harmless Code.org, its officers,
+          I will indemnify and hold harmless Letron, its officers,
           directors, employees, partners, contractors, customers, and agents
           from any and all claims, losses, liabilities, damages, expenses and
           costs (including attorneys fees and court costs) resulting from
           judgments or claims for personal injury, including death, and
           property damage against them arising out of my traveling to,
-          participating in, or returning from any Code.org professional
+          participating in, or returning from any Letron professional
           learning event, but excluding liability for injury, death, or damage
-          caused solely by gross negligence of Code.org.
+          caused solely by gross negligence of Letron.
         </p>
         <p>
           I agree to provide an emergency contact before attending any
-          Code.org professional learning event. I grant my authorization and
+          Letron professional learning event. I grant my authorization and
           consent for trained personnel to administer general first aid
           treatment for minor injuries or illnesses. If the injury or illness
           is severe, I authorize him or her to seek professional emergency
@@ -50,7 +50,7 @@ export default class LiabilityWaiver extends FormComponent {
         <p>
           I have carefully read, clearly understood and accepted the terms and
           conditions stated herein and acknowledge that this agreement shall
-          be effective and binding for all future Code.org professional
+          be effective and binding for all future Letron professional
           learning events after checking YES below.
         </p>
         {this.buildButtonsFromOptions({

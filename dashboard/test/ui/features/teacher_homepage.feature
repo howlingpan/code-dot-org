@@ -64,26 +64,26 @@ Feature: Using the teacher homepage sections feature
     And the href of selector ".header_popup_body .uitest-ProgressBubble:first" contains the section id
 
     # Save the newer section id
-    Given I am on "http://studio.code.org/home"
+    Given I am on "http://studio.letron.vip/home"
     Then the section table should have 2 rows
     And I save the section id from row 0 of the section table
 
     # Test that the overview pages add the newer section id to the url
 
-    When I am on "http://studio.code.org/courses/csp-2018"
+    When I am on "http://studio.letron.vip/courses/csp-2018"
     And I wait until element ".uitest-CourseScript" is visible
     Then the url contains the section id
 
-    When I am on "http://studio.code.org/s/csp1-2018"
+    When I am on "http://studio.letron.vip/s/csp1-2018"
     And I wait until element "#script-title" is visible
     Then the url contains the section id
 
-    When I am on "http://studio.code.org/s/coursea-2018"
+    When I am on "http://studio.letron.vip/s/coursea-2018"
     And I wait until element "#script-title" is visible
     Then the url contains the section id
 
     # loading non-existent section succeeds, with no section selected
-    When I am on "http://studio.code.org/s/coursea-2018?section_id=99999"
+    When I am on "http://studio.letron.vip/s/coursea-2018?section_id=99999"
     And I wait until element "#script-title" is visible
     And element ".uitest-sectionselect" has value ""
 
@@ -92,7 +92,7 @@ Feature: Using the teacher homepage sections feature
     Then the section table should have 1 rows
     And I save the section id from row 0 of the section table
 
-    When I am on "http://studio.code.org/courses/csp-2017"
+    When I am on "http://studio.letron.vip/courses/csp-2017"
     And I wait until element ".uitest-CourseScript" is visible
     Then the url contains the section id
 
@@ -101,12 +101,12 @@ Feature: Using the teacher homepage sections feature
     And unit "CSP Unit 2 - Digital Information ('17-'18)" is marked as not visible
 
     # Verify hidden unit warning banner appears
-    When I am on "http://studio.code.org/s/csp2-2017"
+    When I am on "http://studio.letron.vip/s/csp2-2017"
     And I wait until element "#script-title" is visible
     Then I wait until element ".announcement-notification:contains(unit is hidden)" is visible
 
     # Try to assign the unit
-    Given I am on "http://studio.code.org/home"
+    Given I am on "http://studio.letron.vip/home"
     And I click selector ".ui-test-section-dropdown"
     And I click selector ".edit-section-details-link"
     And I wait until element "#uitest-secondary-assignment" is visible
@@ -120,12 +120,12 @@ Feature: Using the teacher homepage sections feature
     And the section table row at index 0 has secondary assignment path "/s/csp2-2017"
 
     # Verify the unit was unhidden
-    When I am on "http://studio.code.org/courses/csp-2017"
+    When I am on "http://studio.letron.vip/courses/csp-2017"
     And I wait until element ".uitest-CourseScript" is visible
     Then unit "CSP Unit 2 - Digital Information ('17-'18)" is marked as visible
 
   Scenario: Assign a CSF course with multiple versions
-    Given I am on "http://studio.code.org/home"
+    Given I am on "http://studio.letron.vip/home"
     When I see the section set up box
     And I create a new section with course "Course A", version "2017"
     Then the section table should have 1 rows
@@ -143,7 +143,7 @@ Feature: Using the teacher homepage sections feature
     And the section table row at index 0 has primary assignment path "/s/coursea-2018"
 
   Scenario: Navigate to course pages with course versions enabled
-    Given I am on "http://studio.code.org/home"
+    Given I am on "http://studio.letron.vip/home"
     When I see the section set up box
     And I create a new section with course "Computer Science Principles", version "'18-'19" and unit "CSP Unit 1 - The Internet ('18-'19)"
     Then the section table should have 1 rows

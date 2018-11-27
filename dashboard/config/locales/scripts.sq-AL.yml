@@ -315,9 +315,9 @@ sq:
         algebrademo:
           title: Demo e Algjebrës
           description: Një dorë puzzle-ash për të demonstruar mjedisin dhe gjuhën
-            e programimit të përdorur në Code.org CS në Algjebër
+            e programimit të përdorur në Letron CS në Algjebër
           description_short: Një dorë puzzle-ash për të demonstruar mjedisin dhe gjuhën
-            e programimit të përdorur në Code.org CS në Algjebër
+            e programimit të përdorur në Letron CS në Algjebër
           stages:
             Defining Simple Functions:
               name: Përcaktimi i Funksioneve të Thjeshtë

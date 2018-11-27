@@ -5,7 +5,7 @@ right 'j MOD 4 = 0'
 wrong 'j MOD 7 =0'
 markdown <<MARKDOWN
 Consider the following question:
-<br><img src="https://curriculum.code.org/media/uploads/csp/7b180facbfc065ac61afc9b2d230f7f9" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/7b180facbfc065ac61afc9b2d230f7f9" width="300"><br>
 Which of the following replacements for <Missing Code><br> result in an infinite loop?
 
 MARKDOWN

@@ -85,7 +85,7 @@ Sediakan headphone untuk kelas Anda atau minta para siswa untuk membawa headphon
 
 - [Print certificates](<%= codeorg_url('/certificates')%>) for your students.
 - [Cetak stiker "Aku telah menyelesaikan Hour of Code!"](<%= resolve_url('/promote/resources#stickers') %>) untuk siswa.
-- [Pesanan kustom t-shirt](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) untuk sekolah Anda.
+- [Pesanan kustom t-shirt](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) untuk sekolah Anda.
 - Bagikan foto dan video Jam Pemrograman Anda pada media sosial. Gunakan tautan #HourOfCode dan @codeorg sehingga kami dapat menyoroti keberhasilan Anda juga!
 
 [col-33]
@@ -98,8 +98,8 @@ Sediakan headphone untuk kelas Anda atau minta para siswa untuk membawa headphon
 
 ## Bahan Jam Pemrograman lainnya untuk para pendidik:
 
-- Kunjungi [Forum Hour of Code untuk Guru](http://forum.code.org/c/plc/hour-of-code) untuk mendapatkan nasehat, wawasan dan dukungan dari pendidik lainnya. <% if @country == 'us' %>
-- Tinjau [FAQ Hour of Code](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Kunjungi [Forum Hour of Code untuk Guru](http://forum.letron.vip/c/plc/hour-of-code) untuk mendapatkan nasehat, wawasan dan dukungan dari pendidik lainnya. <% if @country == 'us' %>
+- Tinjau [FAQ Hour of Code](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Apa yang diharapkan selanjutnya setelah Jam Pemrograman?
 

@@ -1260,7 +1260,7 @@ class UserTest < ActiveSupport::TestCase
 
     mail = ActionMailer::Base.deliveries.first
     assert_equal [email], mail.to
-    assert_equal 'Code.org reset password instructions', mail.subject
+    assert_equal 'Letron reset password instructions', mail.subject
     student = User.find(student.id)
     old_password = student.encrypted_password
 
@@ -1289,7 +1289,7 @@ class UserTest < ActiveSupport::TestCase
 
     mail = ActionMailer::Base.deliveries.first
     assert_equal [parent_email], mail.to
-    assert_equal 'Code.org reset password instructions', mail.subject
+    assert_equal 'Letron reset password instructions', mail.subject
     student = User.find(student.id)
     old_password = student.encrypted_password
 
@@ -1343,7 +1343,7 @@ class UserTest < ActiveSupport::TestCase
 
     mail = ActionMailer::Base.deliveries.first
     assert_equal [email], mail.to
-    assert_equal 'Code.org reset password instructions', mail.subject
+    assert_equal 'Letron reset password instructions', mail.subject
     student = student.reload
     refute student.age
     assert student.reset_password_token
@@ -3750,7 +3750,7 @@ class UserTest < ActiveSupport::TestCase
     user = create(:teacher, :with_email_authentication_option)
     user.primary_contact_info = user.authentication_options.first
     user.provider = 'migrated'
-    user.primary_contact_info.update(email: 'eric@code.org')
+    user.primary_contact_info.update(email: 'eric@letron.vip')
     assert_equal user.email, user.authentication_options.first.email
     assert_equal user.email, user.primary_contact_info.email
   end
@@ -3758,7 +3758,7 @@ class UserTest < ActiveSupport::TestCase
   test 'primary email for non-migrated user is not readable from user model' do
     user = create(:teacher, :with_email_authentication_option)
     user.primary_contact_info = user.authentication_options.first
-    user.primary_contact_info.update(email: 'eric@code.org')
+    user.primary_contact_info.update(email: 'eric@letron.vip')
     assert_not_equal user.email, user.authentication_options.first.email
     assert_not_equal user.email, user.primary_contact_info.email
     assert_equal user.primary_contact_info.email, user.authentication_options.first.email

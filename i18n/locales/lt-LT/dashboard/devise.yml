@@ -16,9 +16,9 @@ lt:
       unconfirmed: "Prieš tęsdami, turite patvirtinti savo paskyrą."
     mailer:
       confirmation_instructions:
-        subject: "Code.org patvirtinimo instrukcijos"
+        subject: "Letron patvirtinimo instrukcijos"
       reset_password_instructions:
-        subject: "Code.org slaptažodžio pakeitimo instrukcijos"
+        subject: "Letron slaptažodžio pakeitimo instrukcijos"
       unlock_instructions:
         subject: "Atrakinti instrukcijas"
     omniauth_callbacks:

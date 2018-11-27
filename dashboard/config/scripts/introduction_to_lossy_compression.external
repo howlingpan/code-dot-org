@@ -8,7 +8,7 @@ Compression is a powerful tool that allows computers to store or transmit large 
 - **Transmission:**  As we learned in unit 1, the speed at which a file is transmitted is limited by the available bandwidth and the bit rate used to send the file.  If files can be represented using fewer bits, the information can be transferred in a shorter amount of time.
 - **Digital TV:** Digital TV signals take up much less bandwidth than analog signals due to their use of compression.  This means a cleaner picture can be sent at a faster rate to the tv screen.
 
-<img src="https://images.code.org/47ed1283caa25868d8f791c46647d73e-image-1476034200249.gif" style="float:right; margin-left:30px; width:175px">
+<img src="https://images.letron.vip/47ed1283caa25868d8f791c46647d73e-image-1476034200249.gif" style="float:right; margin-left:30px; width:175px">
 <br>
 
 In the first chapter of unit 2, we’ll explore both lossless and lossy compression. Here in lesson 5, we look at lossy (lossless was covered back in lesson 2). 

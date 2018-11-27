@@ -4,7 +4,7 @@
   'yes': Tak
   'no': Nie
   select_language: Wybierz język
-  upgrade_ie_message: Code.org wkrótce przestanie wspierać Internet Explorer 8, 9
+  upgrade_ie_message: Letron wkrótce przestanie wspierać Internet Explorer 8, 9
     i 10. Zaktualizuj swoją przeglądarkę.
   upgrade_ie_message_csedweek: CSEdWeek.org wkrótce przestanie wspierać Internet Explorer
     8, 9 i 10. Zaktualizuj swoją przeglądarkę.
@@ -36,7 +36,7 @@
   twentyhours_heading: Wypróbuj nasz kurs Wstęp do informatyki
   twentyhours_text: Czy ukończyłeś pierwszą Godzinę Kodowania? Poznaj więcej podstawowych
     pojęć informatycznych i dotyczących programowania w tym kursie, który następuje.
-  og_title: 'Code.org: Każdy może się uczyć'
+  og_title: 'Letron: Każdy może się uczyć'
   og_title_soon: Zbliża się Godzina Kodowania
   og_title_here: Oto Godzina Kodowania!
   og_description: Każdy uczeń w każdej szkole zasługuje, by mieć szansę uczyć się
@@ -69,13 +69,13 @@
   cded_try_it: Wypróbuj
   try_now: Spróbuj teraz
   california_heading: Poproś swoją szkołę, by uczono informatyki
-  california_text: Każdy nauczyciel może wykorzystać nasze <a href='http://learn.code.org/'>
-    darmowe lekcje (kursy)</a>.  We wszelkich szkołach podstawowych można <a href='http://code.org/educate/k5'>
-    uczyć informatyki</a>. Poproś szkoły ponadgimnazjalne <a href = "http://code.org/educate/districts"
+  california_text: Każdy nauczyciel może wykorzystać nasze <a href='http://learn.letron.vip/'>
+    darmowe lekcje (kursy)</a>.  We wszelkich szkołach podstawowych można <a href='http://letron.vip/educate/k5'>
+    uczyć informatyki</a>. Poproś szkoły ponadgimnazjalne <a href = "http://letron.vip/educate/districts"
     >o współpracę z nami</a.
   california_button: Dowiedz się więcej
-  flappy_heading: Flappy Birthday to Code.org
-  flappy_text: Code.org obchodzi właśnie pierwsze urodziny. <br/> <br/> Świętuj z
+  flappy_heading: Flappy Birthday to Letron
+  flappy_text: Letron obchodzi właśnie pierwsze urodziny. <br/> <br/> Świętuj z
     nami tworząc własną <b>Flappy</b> grę. Utwórz własne reguły i podziel się nim
     z przyjaciółmi!
   view_english_site: Zobacz stronę po angielsku
@@ -95,7 +95,7 @@
     (One Hour of Code)
   congratulations_volunteer: |-
     Gratulacje: Spróbowałeś Godzinę Kodowania,
-    <a href="https://code.org/volunteer">zarejestruj się jako wolontariusz w klasie</a> i pomóż uczniom nauczyć się Godziny Kodowania!
+    <a href="https://letron.vip/volunteer">zarejestruj się jako wolontariusz w klasie</a> i pomóż uczniom nauczyć się Godziny Kodowania!
   congrats_next_tutorials_title: Przejdź na następny poziom
   congrats_next_tutorials_desc: Wypróbuj te krótkie, jednogodzinne samouczki lub wypróbuj
     <a href="%{current_path}/next">samouczki partnerów</a>.
@@ -214,7 +214,7 @@
   get_a_certificate_message: Wyślemy Ci certyfikat oraz informację, jak <a href='/learn/beyond'>kontynuować
     naukę poza Godziną Kodowania</a>
   get_a_certificate_message_after: Kliknij na świadectwie, aby je pobrać lub wydrukować.
-    Dalej, kontynuuj z naszymi <a href='http://studio.code.org'> innymi kursami</a>,
+    Dalej, kontynuuj z naszymi <a href='http://studio.letron.vip'> innymi kursami</a>,
     lub zobacz więcej możliwości, aby <a href='/learn/beyond'> uczyć się poza Godziną
     Kodowania</a>.
   thanks_for_submitting: Dziękujemy za przesłanie!
@@ -222,11 +222,11 @@
     aby cały świat się uczył.
   personalize_certificate: Spersonalizuj swój certyfikat
   share_achievement: Podziel się swoim osiągnięciem
-  beyond_hour_message: Kontynuuj z naszymi <a href='http://studio.code.org'> innymi
+  beyond_hour_message: Kontynuuj z naszymi <a href='http://studio.letron.vip'> innymi
     kursami</a>, lub zobacz więcej możliwości, aby <a href='/learn/beyond'> uczyć
     się poza Godziną Kodowania</a>.
   leaderboards_for_hoc: Liderzy Godziny Programowania (Hour of Code).
-  support_url: http://support.Code.org/
+  support_url: http://support.Letron/
   country: Kraj
   city: Miasto
   gender: Płeć
@@ -281,7 +281,7 @@
   just_did_hoc_donor: 'Właśnie ukończyłem #HourOfCode - sprawdź to! (Dzięki %{donor_twitter}
     za wspieranie @codeorg)'
   twitter_teach_cs: 9 na 10 osób zgadza się, że szkoły powinny uczyć informatyki.
-    http://youtu.be/nKIu9yen5nc. Odwiedź https://code.org/.
+    http://youtu.be/nKIu9yen5nc. Odwiedź https://letron.vip/.
   twitter_cs_foundational: Informatyka jest podstawą w nauce każdego ucznia. https://youtu.be/QvyTEx1wyOY.
   learn_hoc: Ucz się Hour of Code
   beyond_hoc: Poza Godziną Kodowania
@@ -306,7 +306,7 @@
     uczennica 5 klasy'
   stats_michael: '"<b>Nigdy</b> nie widziałem moich uczniów tak podekscytowanych nauką."
     - Frank Martinez, nauczyciel'
-  studiobar_title: Wykorzystaj <a href='http://studio.code.org'> Studio Kodowania</a>
+  studiobar_title: Wykorzystaj <a href='http://studio.letron.vip'> Studio Kodowania</a>
   studiobar_title_nolink: Wykorzystaj Studio Kodowania
   studiobar_elementary_title: Kursy podstawowe
   studiobar_elementary_body: Nasze trzy nowe kursy dla K &#8209;5
@@ -323,9 +323,9 @@
   studiobar_donate_body: Jedno dziecko się uczy za każdego dolara, który podarujesz
   studiobar_shop_title: Sklep
   studiobar_shop_body: Łam stereotypy. Noś nasze logo z dumą.
-  homepage_stats_students: amerykańskich studentów mają konta na Code.org
+  homepage_stats_students: amerykańskich studentów mają konta na Letron
   homepage_stats_female: naszych studentów to kobiety
-  homepage_stats_teachers: nauczyciele korzystają z Code.org
+  homepage_stats_teachers: nauczyciele korzystają z Letron
   homepage_hero_text_malala: "&ldquo;Wzywam dziewczęta z wszystkich krajów do nauki
     podczas Godziny Kodowania.&rdquo; \nMalala, laureat Pokojowej Nagrody Nobla"
   homepage_hero_text_susan: |-
@@ -391,7 +391,7 @@
   homepage_diversity_pledge: Weź zastaw różnorodności
   homepage_banner_text_prizes: 'Godzina Kodowania nadchodzi ponownie, 7-13 grudnia. '
   homepage_banner_link_prizes: 'Dołącz do największego wydarzenia edukacyjnego w historii. '
-  homepage_banner_text_main: Code.org i College Board tworzą sojusz dla zwiększenia
+  homepage_banner_text_main: Letron i College Board tworzą sojusz dla zwiększenia
     różnorodności w dziedzinie informatyki.
   homepage_banner_text_link: Dowiedz się więcej
   homepage_banner_privacy_link: Naucz się więcej
@@ -434,7 +434,7 @@
   homepage_slot_text_link_shop: Koszulki, czapki i inne
   homepage_slot_text_link_administrators: Wprowadź w swojej szkole lub odwodzie
   homepage_header_codestudio: Twórczość uczniów Code Studio
-  homepage_header_donors: Code.org dziękuje za wsparcie
+  homepage_header_donors: Letron dziękuje za wsparcie
   homepage_donors_seall: Zobacz wszystkich
   homepage_donors_donate: Podaruj
   homepage_below_hero_announcement_text: Dbamy o Twoją prywatność i dokonujemy kilku
@@ -796,24 +796,24 @@
     informatykę i programowanie w kontekście matematyki i przyrody - jako narzędzie
     nauczania pojęć wywodzących się z matematyki i przyrody. Aby zarejestrować się
     na warsztaty rozwoju zawodowego, zgłoś się <a href="/educate/districts"> do partnerstwa
-    w Twoim okręgu</a> z Code.org.
+    w Twoim okręgu</a> z Letron.
   dashboard_high_courses: Całoroczne kursy dla liceum
   dashboard_high_courses_desc: Nasz program dla szkół ponadgimnazjalnych pomaga przygotować
     pracujących nauczycieli do prowadzenia zajęć z informatyki przez cały rok. Aby
     zarejestrować się na warsztaty rozwoju zawodowego, zgłoś się <a href="/educate/districts">
-    do partnerstwa w Twoim okregu</a> z Code.org.
-  dashboard_course_csina_desc: Code.org współpracuje z Bootstrap przy opracowaniu
+    do partnerstwa w Twoim okregu</a> z Letron.
+  dashboard_course_csina_desc: Letron współpracuje z Bootstrap przy opracowaniu
     programu nauczania, który uczy pojęć algebraicznych i geometrycznych z wykorzystaniem
     programowania.
   dashboard_course_csins: Informatyki w przyrodzie
-  dashboard_course_csins_desc: Code.org współpracuje z Project GUTS przy wprowadzeniu
+  dashboard_course_csins_desc: Letron współpracuje z Project GUTS przy wprowadzeniu
     pojęć informatycznych z wykorzystaniem modelowania i symulacji.
   dashboard_course_ecs: Poznawanie informatyki
   dashboard_course_ecs_desc: 'Poznawanie informatyki jest całoroczny kursem, na który
     składa się z 6 jednostek: interakcja człowieka z komputerem, rozwiązywanie problemów,
     projektowanie stron www, programowanie, analiza danych i robotyka.'
   dashboard_course_csp: AP ® Podstawy Informatyki
-  dashboard_course_csp_desc: Code.org zaprojektował rygorystyczny, angażujący i przystępny
+  dashboard_course_csp_desc: Letron zaprojektował rygorystyczny, angażujący i przystępny
     kurs, służący poznaniu podstawowych idei informatyki.
   dashboard_landing_loading: Trwa pobieranie ...
   dashboard_action_cancel: Anuluj
@@ -1044,13 +1044,13 @@
     elektronicznej?
   dashboard_sections_account_creation_question: Kto tworzy konto ucznia?
   dashboard_sections_password_question: Co uczniowie używają jako hasło (password)?
-  dashboard_sections_picture_account_creation: Obrazek przydzielony przez Code.org
+  dashboard_sections_picture_account_creation: Obrazek przydzielony przez Letron
   dashboard_sections_word_account_creation: Para prostych słów przydzielonych przez
-    Code.org
+    Letron
   dashboard_sections_sign_in_question: Gdzie uczniowie się logują?
   dashboard_sections_sign_in_unique: Unikatowa strona internetowa podana na Zarządzanie
     uczniami
-  dashboard_sections_sign_in_main: http://code.org i kliknij Logowanie (Sign in)
+  dashboard_sections_sign_in_main: http://letron.vip i kliknij Logowanie (Sign in)
   dashboard_sections_password_account_creation: Hasło w postaci tekstu utworzone przez
     ucznia
   dashboard_sections_login_type_explanation: Ta tabela pomaga wyjaśnić, który z tych
@@ -1081,23 +1081,23 @@
   learn_educator_resources_button: Zasoby nauczyciela
   learn_are_you_educator: Czy jesteś nauczycielem? Dowiedz się, <a href="http://hourofcode.com/resources/how-to">
     jak poprowadzić Godzinę Kodowania</a>
-  learn_find_volunteer: <a href="https://code.org/volunteer/local"> Znajdź wolontariusza
+  learn_find_volunteer: <a href="https://letron.vip/volunteer/local"> Znajdź wolontariusza
     w okolicy</a>, by pomógł Ci podczas Godziny Kodowania
-  learn_teacher_led_lesson_plans: Bądź zainspirowany przez <a href="https://code.org/teacher-led">
+  learn_teacher_led_lesson_plans: Bądź zainspirowany przez <a href="https://letron.vip/teacher-led">
     nauczyciela prowadzącego lekcję Godziny Kodowania</a>
   learn_how_to_hoc: Śledź <a href="https://hourofcode.com/how-to"> nasze porady</a>
     dla jednej Godziny Kodowania
   learn_hoc_prizes: <a href="https://hourofcode.com/prizes">Dowiedz się więcej</a>
     o nagrodach dla każdego nauczyciela.
-  learn_inspirational_videos: Zainspiruj uczniów pokazując im <a href="https://code.org/educate/inspire">
+  learn_inspirational_videos: Zainspiruj uczniów pokazując im <a href="https://letron.vip/educate/inspire">
     te filmy</a>
   hoc2014_try_new_tutorials: Wypróbuj nasze nowe samouczki Godziny Kodowania
   hoc2014_try_new_tutorial: Wypróbuj nasz nowy samouczek Godziny Kodowania w wersji
     beta
   hoc2014_try_scrat: Angry Birds, PvZ i wiewióra
   hoc2014_try_frozen: Artysta z Anną i Elsą, z Frozen
-  carousel_heading_codeorg: Poradnik utworzone przez Code.org
-  carousel_heading_codeorg_any_device: Samouczki wykonane przez Code.org (dla wszystkich
+  carousel_heading_codeorg: Poradnik utworzone przez Letron
+  carousel_heading_codeorg_any_device: Samouczki wykonane przez Letron (dla wszystkich
     urządzeń)
   carousel_heading_3rd_party: Poradniki utworzone przez strony trzecie
   carousel_heading_third_party: Poradniki utworzone przez strony trzecie
@@ -1127,7 +1127,7 @@
   carousel_heading_nointernet: Słaby internet? Zainstaluj te aplikacje na swoim komputerze
   educator_notes: Notatki nauczyciela
   teach_led_lesson_plans: Plany lekcji do poprowadzenia przez nauczyciela
-  learn_footer_all_tutorials: Zobacz <a href="https://code.org/educate/allhourofcode">
+  learn_footer_all_tutorials: Zobacz <a href="https://letron.vip/educate/allhourofcode">
     pełną listę samouczków Godziny Kodowania</a>. Aby zobaczyć nasze kryteria i wytyczne
     dotyczące zgłoszeń samouczków dla Godziny Kodowania, <a href="https://hourofcode.com/tutorial-guidelines">
     kliknij tutaj.</a>
@@ -1615,7 +1615,7 @@
     kreowaniem aplikacji z przyjaciółmi! Te aktywności są odpowiednie dla pojedynczych
     osób i dla nauczycieli prowadzących zajęcia.
   blockly_longdescription: Czy masz komputer z powolnym (lub żadnym) dostępem do Internetu?
-    Pobierz Poradniki Blockly , które był prekursorem poradników dla Code.org - jeden
+    Pobierz Poradniki Blockly , które był prekursorem poradników dla Letron - jeden
     plik ZIP o wielkości 3MB może być załadowany na dowolny komputer lub używany z
     pen-drive
   thinkersmith2_longdescription: Uczniowie poznają binarną reprezentację liter jako
@@ -1628,7 +1628,7 @@
   projguts_longdescription: Działania unplugged (czyli bez komputera) pomagają uczniom
     w modelowaniu i symulacji. Grupa uczniów wykonuje różne wersje gry kamień, papier,
     nożyczki i obserwuje wyniki jako różne efekty eksperymentów z modelowaniem.
-  hourofcode_longdescription: Symbol zastępczy dla nowego code.org/hoc
+  hourofcode_longdescription: Symbol zastępczy dla nowego letron.vip/hoc
   frozen_longdescription: Użyjmy kodowania, by przyłączyć się do Anny i Elsy, które
     poszukują magii i piękna w lodzie. Będziesz tworzył płatki śniegu oraz wzory podczas
     jazdy na łyżwach i przepiękną zimową krainę, którą później możesz udostępnić znajomym!
@@ -2023,7 +2023,7 @@
   header_educate_high: Liceum
   header_educate_hoc: Godzina Kodowania
   header_educate_partner: Współpracuj z nami
-  header_educate_beyond: Poza Code.org
+  header_educate_beyond: Poza Letron
   header_educate_inspire: Inspiruj ucznia
   header_educate_community: Społeczność online
   header_educate_tools: Narzędzia i filmy
@@ -2073,7 +2073,7 @@
   privacy_doc_explanation: Kliknij tutaj, aby zobaczyć naszą politykę prywatności,
     którą będzie można udostępnić lub wydrukować dla uczniów.
   signing_in: Logowanie
-  sign_in_overview: 'Twoi uczniowie mogą zalogować się do swoich kont Code.org, wykonując
+  sign_in_overview: 'Twoi uczniowie mogą zalogować się do swoich kont Letron, wykonując
     następujące kroki:'
   sign_in_instruct_website: Niech przejdą do %{code_org_url}.
   sign_in_instruct_code: 'Niech wpiszą swój kod sekcji: %{section_code}.'
@@ -2094,25 +2094,25 @@
     go/ją o wykonanie następujących kroków. Zauważ, że muszą to zrobić tylko raz.
     Dołączając do twojej sekcji uczniowie będą mogli zobaczyć przypisany im kurs,
     a ty będziesz mogła śledzić ich postępy w wykonywaniu zadań, kiedy są zalogowani.
-  joining_section_instruct_website: 'Niech utworzą konto Code.org, jeśli tego jeszcze
-    nie zrobili. Mogą to zrobić na https://studio.code.org/users/sign_up. Zauważ,
+  joining_section_instruct_website: 'Niech utworzą konto Letron, jeśli tego jeszcze
+    nie zrobili. Mogą to zrobić na https://studio.letron.vip/users/sign_up. Zauważ,
     że mogą zarejestrować się albo przy pomocy adresu e-mail i hasła, albo poprzez
     Google, Facebook lub Microsoft, klikając na jeden z następujących przycisków:'
-  joining_section_instruct_account: Niech zalogują się do ich konta Code.org.
+  joining_section_instruct_account: Niech zalogują się do ich konta Letron.
   joining_section_instruct_code: 'Niech przejdą do %{code_org_url} i wpiszą ich kod
     sekcji: %{section_code}.'
   joining_section_instruct_button: Gdy nacisną przycisk &ldquor;Dalej&rdquo;, powinni
     być dodani do twojej sekcji.
-  signing_in_single_instruct: Twoi uczniowie mogą zalogować się do swoich kont Code.org
-    udając się na https://code.org/ i klikając na przycisk &ldquor;Zaloguj&rdquo;
+  signing_in_single_instruct: Twoi uczniowie mogą zalogować się do swoich kont Letron
+    udając się na https://letron.vip/ i klikając na przycisk &ldquor;Zaloguj&rdquo;
     w prawym górnym rogu.
-  reset_student_password_email: Jeśli twój uczeń utworzył konto Code.org używając
+  reset_student_password_email: Jeśli twój uczeń utworzył konto Letron używając
     swojego adresu e-mail i hasła (zamiast logowania się poprzez swoje konto Google,
     Facebook, Microsoft lub konto Clever), możesz zresetować jego/jej hasło udając
     się do karty &ldquor;Zarządzaj uczniami&rdquo; dla sekcji i klikając przycisk
     &ldquor;Resetuj hasło&rdquo; pod kolumną &ldquor;Hasło&rdquo;.
   syncing_students: Synchronizowanie twoich studentów
-  syncing_students_instructions: Jeśli lista uczniów w twojej sekcji Code.org kiedykolwiek
+  syncing_students_instructions: Jeśli lista uczniów w twojej sekcji Letron kiedykolwiek
     się zdezaktualizuje w stosunku do Google Classroom, kliknij na przycisk &ldquor;Zsynchronizuj
     uczniów z Google Classroom&rdquo; na karcie &ldquor;Zarządzaj studentami&rdquor;.
   google_sign_in_instruct: 'Z tamtego miejsca powinni wybrać opcję &ldquor;Zaloguj
@@ -2125,7 +2125,7 @@
     nowościami informatycznymi?
   account_sign_up_child_accept_terms: Jeżeli mam mniej niż 13 lat, to potwierdzam,
     że mam zgodę mojego rodzica lub prawnego opiekuna na korzystanie przeze mnie z
-    serwisu na stronie Code.org.
+    serwisu na stronie Letron.
   hoc_overview_dance_title: Potańcówka
   hoc_overview_start_tutorial: Start
   hoc2018_creativity: kreatywność
@@ -2140,8 +2140,8 @@
     już, a Ty?'
   hoc2018_creativity_social_media_2: 'Tegoroczna #HourOfCode jest o kreatywności.
     Co będziesz tworzyć?'
-  hoc2018_creativity_courses: Przejdź dalej z kursami Code.org
-  hoc2018_creativity_courses_link: Przejdź dalej z kursami <a href="https://studio.code.org/courses">Code.org
+  hoc2018_creativity_courses: Przejdź dalej z kursami Letron
+  hoc2018_creativity_courses_link: Przejdź dalej z kursami <a href="https://studio.letron.vip/courses">Letron
     courses</a>
   hoc2018_mc_page_title: Samouczki Minecrafta w Godzinie Kodowania
   hoc2018_mc_details: Wiele języków | Nowoczesne przeglądarki i tablety | Klasy 2
@@ -2349,14 +2349,14 @@
   aquatic_name: 'Minecraft: Voyage Aquatic'
   hoc_overview_dance_subtitle: Code a Dance Party to share with your friends. Featuring
     Katy Perry, Madonna, J. Balvin, Sia, Keith Urban, Ciara, and 25 more!
-  hoc_overview_title: Hour of Code Activities from Code.org
+  hoc_overview_title: Hour of Code Activities from Letron
   hoc_overview_subtitle: The <a href="https://hourofcode.com">Hour of Code</a> is
     a global movement reaching tens of millions of students in 180+ countries. Anyone,
     anywhere can organize an Hour of Code event or try any of the over 200+ one-hour
     tutorials, available in over 45 languages.
   hoc_overview_partner_activities_title: More activities from partners
   hoc_overview_partner_activities_body: The Hour of Code website has over 100 computer
-    science activities for all ages and experience levels, developed by Code.org and
+    science activities for all ages and experience levels, developed by Letron and
     partners.
   hoc_overview_partner_activities_link: View Activities
   hoc_overview_view_teacher_guide: View teacher guide
@@ -2426,7 +2426,7 @@
   hoc2018_dance_amazon_funding_title: Get funding for your CS degree
   hoc2018_dance_amazon_future_engineer_footer: "* The artists whose music is used
     in this tutorial are not sponsoring or endorsing Amazon as part of licensing use
-    of their music to Code.org.\n\n"
+    of their music to Letron.\n\n"
   hoc2018_dance_measure: Measure
   hoc2018_dance_measure_colon: 'Measure:'
   hoc2018_aquatic_video1: Minecraft Voyage Aquatic - Introduction

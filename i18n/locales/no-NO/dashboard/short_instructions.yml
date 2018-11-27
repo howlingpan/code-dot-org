@@ -474,7 +474,7 @@
         Fritt spill: Du har nå lært alt du trenger å vite for å lage et mønster som dette! Hvis du liker dette bildet, prøv å lage noe lignende. Hvis ikke, lag noe helt annet.\r
         
         \r
-        Vil du vite hvordan vårt mønster ble laget? Besøk https://studio.code.org/c/105765376/edit for å se løsningen.
+        Vil du vite hvordan vårt mønster ble laget? Besøk https://studio.letron.vip/c/105765376/edit for å se løsningen.
       Course 4 Artist 13: Spiller du fortsatt? Her er et blankt lerret hvor du kan designe alt du vil!
       Course 4 Artist 2: Kan du repetere denne koden slik at den tegner det nedtonede kvadratet?
       Course 4 Artist 20: Spiller du fortsatt? Her er et blankt lerret hvor du kan designe alt du vil!
@@ -533,7 +533,7 @@
       Course 4 Artist For Loops inspire: |-
         Fritt spill-inspirasjon: Du har nå lært alt du trenger å vite for å vite for å lage et mønster som dette! Hvis du liker dette bildet, prøv å lage noe lignende. Hvis ikke kan du lage noe helt annet.\r
         \r
-        Vil du vite hvordan vårt inspirasjons-mønster ble laget? Besøk https://studio.code.org/c/106387604 for å se løsningen.
+        Vil du vite hvordan vårt inspirasjons-mønster ble laget? Besøk https://studio.letron.vip/c/106387604 for å se løsningen.
       Course 4 Artist Functions 1: Kan du tegne et kvadrat som er 100 piksler i lengde ved å bruke en løkke?
       Course 4 Artist Functions 10: Hvilken blokk må du legge til for å få trekanten til å stå på toppen av kvadratet?
       Course 4 Artist Functions 11: Sjekk ut denne koden som tegner en kube - kan du flytte den inn i en funksjon kalt "Tegn en kube"
@@ -563,7 +563,7 @@
         Fritt spill: Du har nå lært alt du trenger å vite for å lage et mønster som dette! Hvis du liker dette bildet, prøv å lage noe lignende. Hvis ikke, lag noe helt annet.\r
         
         \r
-        Vil du vite hvordan vårt mønster ble laget? Besøk https://studio.code.org/c/105765376/edit for å se løsningen.
+        Vil du vite hvordan vårt mønster ble laget? Besøk https://studio.letron.vip/c/105765376/edit for å se løsningen.
       Course 4 Artist Params 1: La oss redigere en funksjon som tegner et kvadrat med sider på 50 piksler
       Course 4 Artist Params 10: 'Du kan kalle på funksjoner fra innsiden av andre funksjoner! Bruk "figur"-funksjonen som grunnlag, opprett 3 hus-figurer som hver er 20 piksler større enn den forrige. Den første starter på 50 piksler i lengde. Å bruke en teller-løkke kan være nyttig. '
       Course 4 Artist Params 12: Bruk din "hjul"-funksjon til å tegne hver av disse figurene. Lengden på siden av hvert bilde er 50 piksler.
@@ -1526,7 +1526,7 @@
       grade5_artist_for_loopsfreeplay11: |-
         Fritt spill-inspirasjon: Du har nå lært alt du trenger å vite for å vite for å lage et mønster som dette! Hvis du liker dette bildet, prøv å lage noe lignende. Hvis ikke kan du lage noe helt annet.\r
         \r
-        Vil du vite hvordan vårt inspirasjons-mønster ble laget? Besøk https://studio.code.org/c/106387604 for å se løsningen.
+        Vil du vite hvordan vårt inspirasjons-mønster ble laget? Besøk https://studio.letron.vip/c/106387604 for å se løsningen.
       grade5_artist_functionparameters10: "Inspirasjon til fritt spill: Du har nå lært alt du trenger å vite for å lage et mønster som dette! Hvis dette bildet inspirerer deg, kan du prøve å lage noe lignende, ellers du kan skape noe helt eget. \\r \\r Vil du vite hvordan vårt inspirasjonsmønster ble laget? "
       grade5_artist_functionparameters11: 'Frilek: Her er funksjonene du har skrevet, og litt mer for å leke med. Tegn noe kjempestilig! Lek med pennetykkelsen for å se hvor ulike tegningene dine blir!'
       grade5_artist_functionparameters7: Dette bildet er likt det forrige. Kan du bruke en "for-løkke" med din funksjon til å lage dette designet?
@@ -1543,7 +1543,7 @@
         Fritt spill: Du har nå lært alt du trenger å vite for å lage et mønster som dette! Hvis du liker dette bildet, prøv å lage noe lignende. Hvis ikke, lag noe helt annet.\r
         
         \r
-        Vil du vite hvordan vårt mønster ble laget? Besøk https://studio.code.org/c/105765376/edit for å se løsningen.
+        Vil du vite hvordan vårt mønster ble laget? Besøk https://studio.letron.vip/c/105765376/edit for å se løsningen.
       grade5_artist_variables_freeplay16: Spiller du fortsatt? Her er et blankt lerret hvor du kan designe alt du vil!
       grade5_artist_variables_hexagons1: "La oss prøve det igjen. Nå, la oss tegne denne kule design med med 60 piksel store sekskanter."
       grade5_artist_variables_letterT11: Her er samme algoritmen som vi kom opp med for den forrige oppgaven – hva bør du sette variabelen "sider" til for å tegne dette bildet av firkanter?

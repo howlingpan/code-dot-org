@@ -27,7 +27,7 @@
     "never_autoplay_video": "true",
     "examples_required": "false",
     "markdown_instructions": "Debug this level. Remove the extra blocks, and add the missing blocks. Get the bird to the pig!",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"There are two solutions to this puzzle.\",\"hint_id\":\"courseA_maze_seq_challenge1_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/95c88d35922d03203e752e7c8e864fad/courseA_maze_seq_challenge1.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"There are two solutions to this puzzle.\",\"hint_id\":\"courseA_maze_seq_challenge1_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/95c88d35922d03203e752e7c8e864fad/courseA_maze_seq_challenge1.mp3\"}]",
     "instructions_important": "false",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
@@ -40,7 +40,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-08-01 14:06:13 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"instructions\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-01 14:08:26 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"ideal\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-01 14:09:10 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-01 14:11:05 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"ideal\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-08-01 14:06:13 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"instructions\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-01 14:08:26 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"ideal\",\"contained_level_names\",\"maze_data\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-01 14:09:10 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-01 14:11:05 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"ideal\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 3,
     "debugging": 2

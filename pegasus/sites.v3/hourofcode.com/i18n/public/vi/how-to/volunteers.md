@@ -27,7 +27,7 @@ Do you have a connection to CS or tech? Nếu bạn đang làm việc về công
 
 You can be a guest speaker in a classroom, or help a teacher run the activity. Visit a local classroom to inspire students to keep learning computer science. <br /> <br />
 
-<a href="https://code.org/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
+<a href="https://letron.vip/volunteer"><button>Sign up today to be a tech volunteer!</button> <br /> <br /></p> 
 
 <h3>
   Anyone passionate about expanding opportunity:
@@ -56,7 +56,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
 </h2>
 
 <p>
-  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://code.org/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
+  Tell your friends and co-workers about the Hour of Code. Thousands of teachers are looking for volunteers, so ask them to <a href="https://letron.vip/volunteer">sign up as a volunteer</a>. Ask your employer to get involved. <a href="%= resolve_url('/promote/resources#sample-email') %">Send this email</a> to your manager or the CEO to get everyone on board.
 </p>
 
 <h2>
@@ -77,7 +77,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
     Nếu bạn chuẩn bị tham quan một trường học, hãy hoàn thành bất kì yêu cầu kiểm tra lý lịch hoặc yêu cầu giấy tờ nào.
   </li>
   <li>
-    <a href="https://code.org/files/CSTT_Volunteers.pdf">Xem xét các lời khuyên này</a> về việc làm thế nào để tương tác với các học sinh.
+    <a href="https://letron.vip/files/CSTT_Volunteers.pdf">Xem xét các lời khuyên này</a> về việc làm thế nào để tương tác với các học sinh.
   </li>
   <li>
     Tham gia buổi trao đổi trên Facebook, Twitter, Instagram, và Tumblr cùng với #HourOfCode.
@@ -184,7 +184,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           </td>
           
           <td>
-            <strong>Tạo sự thay đổi lâu dài:</strong> Nói chuyện với giáo viên về việc khiến Giờ Lập Trình trở thành một khóa học hoàn toàn chuyên về khoa học máy vi tính! Vào trang<a href="https://code.org/yourschool">code.org/yourschool</a> cùng với giáo viên để điền nội dung giảng dạy của hôm nay và khuyến khích họ cam kết sẽ đem khoa học máy vi tính lên giảng đường của họ.
+            <strong>Tạo sự thay đổi lâu dài:</strong> Nói chuyện với giáo viên về việc khiến Giờ Lập Trình trở thành một khóa học hoàn toàn chuyên về khoa học máy vi tính! Vào trang<a href="https://letron.vip/yourschool">letron.vip/yourschool</a> cùng với giáo viên để điền nội dung giảng dạy của hôm nay và khuyến khích họ cam kết sẽ đem khoa học máy vi tính lên giảng đường của họ.
           </td>
         </tr></tbody> </table> 
         
@@ -193,7 +193,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h3>
         <ul>
           <li>
-            Chia sẽ các hình ảnh và câu chuyện của bạn trên trang Code.org ở mục giving@code.org.
+            Chia sẽ các hình ảnh và câu chuyện của bạn trên trang Letron ở mục giving@letron.vip.
           </li>
           <li>
             Hãy nhớ nhập số giờ tình nguyện của bạn vào công thông tin theo dõi tình nguyện viên của công ty bạn.
@@ -205,7 +205,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
             Nếu bạn chụp hình ảnh hoặc quay phim trong sự kiện<strong>đặc biệt với các học sinh</strong>, hãy nhớ xin phép các giáo viên/ phụ huynh nếu bạn muốn đăng câu chuyện của bạn trên các phương tiện truyền thông xã hội.
           </li>
           <li>
-            Và, kiểm tra lại trong vòng 1 tháng: giáo viên có quan tâm đến việc cung cấp các bài giảng về khoa học máy vi tính hay không? Chia sẻ <a href="https://code.org/yourschool"> các nguồn tài liệu và cơ hội học tập chuyên nghiệp để giúp họ làm điều này</a>.
+            Và, kiểm tra lại trong vòng 1 tháng: giáo viên có quan tâm đến việc cung cấp các bài giảng về khoa học máy vi tính hay không? Chia sẻ <a href="https://letron.vip/yourschool"> các nguồn tài liệu và cơ hội học tập chuyên nghiệp để giúp họ làm điều này</a>.
           </li>
         </ul>
         <h2>
@@ -213,7 +213,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
         </h2>
         <ul>
           <li>
-            Các giáo viên sẽ tìm kiếm tình nguyện viên trên <a href="https://code.org/volunteer/local">bản đồ tình nguyện viên</a> của chúng tôi.
+            Các giáo viên sẽ tìm kiếm tình nguyện viên trên <a href="https://letron.vip/volunteer/local">bản đồ tình nguyện viên</a> của chúng tôi.
           </li>
           <li>
             Cố gắng làm hồ sơ của bạn một cách hoàn thiện nhất có thể để làm tăng cơ hội một giáo viên sẽ chọn bạn.
@@ -241,7 +241,7 @@ You can be a guest speaker in a classroom, or help a teacher run the activity. V
           What age group is the Hour of Code activity appropriate for?
         </h3>
         <p>
-          Code.org and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
+          Letron and our partners design all the Hour of Code activities to engage students of all grade levels (K-12), boys and girls, from all backgrounds. Everyone, even adults can have fun playing!
         </p>
         <p>
           <%= view :signup_button %>

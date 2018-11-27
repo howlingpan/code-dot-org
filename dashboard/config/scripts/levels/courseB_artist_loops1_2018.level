@@ -42,7 +42,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-07-28 22:07:35 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"never_autoplay_video\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-07-28 22:07:35 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"never_autoplay_video\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 1,
     "repeat_loops": 1

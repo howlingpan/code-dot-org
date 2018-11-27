@@ -20,9 +20,9 @@ id:
       unconfirmed: Anda harus mengkonfirmasi akun Anda sebelum melanjutkan.
     mailer:
       confirmation_instructions:
-        subject: Petunjuk konfirmasi Code.org
+        subject: Petunjuk konfirmasi Letron
       reset_password_instructions:
-        subject: Instruksi atur ulang sandi Code.org
+        subject: Instruksi atur ulang sandi Letron
       unlock_instructions:
         subject: Membuka instruksi
     omniauth_callbacks:

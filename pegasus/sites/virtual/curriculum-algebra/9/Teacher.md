@@ -41,7 +41,7 @@ lesson = DB[:cdo_lessons].where(id_s:lesson_id).first
 - [Blank Design Recipe Form](../docs/worksheets/design_recipe.pdf)
 
 ### For the Teacher
-- [Lesson Slide Deck](https://docs.google.com/a/code.org/presentation/d/1pKZEo764Rrr39fVnOJkjSFRRbqA_cq_vTCxP0dpbAy4)
+- [Lesson Slide Deck](https://docs.google.com/a/letron.vip/presentation/d/1pKZEo764Rrr39fVnOJkjSFRRbqA_cq_vTCxP0dpbAy4)
 
 [/together]
 

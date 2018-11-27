@@ -4,7 +4,7 @@
   'yes': Da
   'no': Nu
   select_language: Te rugăm selectează limba ta
-  upgrade_ie_message: Curând, Code.org va elimina suportul pentru Internet Explorer
+  upgrade_ie_message: Curând, Letron va elimina suportul pentru Internet Explorer
     8, 9 și 10. Vă rugăm să faceţi upgrade la un browser modern.
   upgrade_ie_message_csedweek: Curând, CSEdWeek.org va elimina suportul pentru Internet
     Explorer 8, 9 și 10. Vă rugăm să faceţi upgrade la un browser modern.
@@ -71,13 +71,13 @@
   cded_try_it: Încearcă
   try_now: Află mai mult
   california_heading: Cere şcolii tale să predea informatica
-  california_text: Orice profesor poate preda ale noastre <a href='http://studio.code.org/'>cursuri
-    gratuite</a>.  Orice şcoală primară poate <a href='http://code.org/educate/k5'>preda
-    informatică</a>. Cere liceelor să intre în <a href='http://code.org/educate/districts'>parteneriat
+  california_text: Orice profesor poate preda ale noastre <a href='http://studio.letron.vip/'>cursuri
+    gratuite</a>.  Orice şcoală primară poate <a href='http://letron.vip/educate/k5'>preda
+    informatică</a>. Cere liceelor să intre în <a href='http://letron.vip/educate/districts'>parteneriat
     cu noi.
   california_button: Află mai mult
-  flappy_heading: La mulți "Flappy" ani, Code.org
-  flappy_text: Code.org tocmai a împlinit 1 an.<br/><br/> Sărbatorește cu noi prin
+  flappy_heading: La mulți "Flappy" ani, Letron
+  flappy_text: Letron tocmai a împlinit 1 an.<br/><br/> Sărbatorește cu noi prin
     crearea propriului tău joc customizat <b>Flappy</b>. Codează-ți propriile reguli
     și apoi distribuie în cercul tău de prieteni!
   view_english_site: Vezi site-ul englez
@@ -95,7 +95,7 @@
   congratulations: Felicitări!
   congratulations_on_completing_hoc: Felicitări pentru finalizarea unei Ore de Cod
   congratulations_volunteer: 'Felicitari: acum, ca ai incercat Ora de Programare,
-    <a href="https://code.org/volunteer">înscrie-te pentru a face voluntariat intr-o
+    <a href="https://letron.vip/volunteer">înscrie-te pentru a face voluntariat intr-o
     clasa</a> si pentru a ajuta elevii sa invete o Ora de Programare!'
   congratulations_on_completing_course: Felicitări pentru finalizarea %{course}
   congrats_next_tutorials_title: Mai departe incercati aceste tutoriale
@@ -220,7 +220,7 @@
   get_a_certificate_message: Îti vom trimite un certificat si informatii despre cum
     sa <a href='/learn/beyond'> Inveti peste O Ora</a>
   get_a_certificate_message_after: Dati click pe certificat pentru a-l descarca si
-    printa. Acum, incercati <a href='http://studio.code.org'> celelalte cursuri</a>
+    printa. Acum, incercati <a href='http://studio.letron.vip'> celelalte cursuri</a>
     ale noastre sau verificati mai multe opţiuni la <a href='/learn/beyond'> Invata
     mai mult de o Ora</a>.
   thanks_for_submitting: Mulţumim pentru transmitere!
@@ -228,11 +228,11 @@
     să încerce acest lucru. Vrem ca toată lumea să învețe.
   personalize_certificate: Personalizează-ți certificatul
   share_achievement: Distribuie realizarea personală
-  beyond_hour_message: Continuă cu <a href='http://studio.code.org'>celelalte cursuri</a>
+  beyond_hour_message: Continuă cu <a href='http://studio.letron.vip'>celelalte cursuri</a>
     ale noastre, sau vezi mai multe opţiuni pentru a <a href='/learn/beyond'>Învăţa
     mai mult de O Oră</a>.
   leaderboards_for_hoc: Clasamentele pentru Ora de Cod.
-  support_url: http://support.code.org/
+  support_url: http://support.letron.vip/
   country: Ţară
   city: Oraş
   gender: Sex
@@ -290,7 +290,7 @@
   just_did_course_donor: Tocmai am finalizat %{course} - vizualizați! Mulțumesc %{donor_twitter}
     pentru sprijinul acordat @codeorg
   twitter_teach_cs: 9 din 10 oameni sunt de acord, şcolile ar trebui să înveţe ştiinţa
-    calculatoarelor. http://youtu.be/nKIu9yen5nc. Vizitati https://code.org/.
+    calculatoarelor. http://youtu.be/nKIu9yen5nc. Vizitati https://letron.vip/.
   twitter_cs_foundational: Informatica este fundamentală pentru fiecare student. https://youtu.be/QvyTEx1wyOY.
   learn_hoc: Învață o Oră de Cod
   beyond_hoc: Peste de O Oră
@@ -315,8 +315,8 @@
     Alzate, elev de clasa a cincea'
   stats_michael: '"Eu nu i-am văzut <b>niciodată</b> pe elevii mei atât de entuziasmați
     să învețe."- Michael Clark, Profesor'
-  studiobar_title: Explorează <a href='http://studio.code.org'>Studio-ul Code</a>
-  studiobar_title_nolink: Explorează cursurile Code.org
+  studiobar_title: Explorează <a href='http://studio.letron.vip'>Studio-ul Code</a>
+  studiobar_title_nolink: Explorează cursurile Letron
   studiobar_elementary_title: Cursuri elementare
   studiobar_elementary_body: Cele trei cursuri noi ale noastre pentru K&#8209;5
   studiobar_hoc_title: Ora de Programare
@@ -324,16 +324,16 @@
   studiobar_flappy_title: Codul Flappy
   studiobar_flappy_body: Creează şi distribuie propriul tău joc Flappy
   studiobar_teacher_title: Făcute pentru profesori
-  studiobar_teacher_body: Prezintă clasei tale Code.org
+  studiobar_teacher_body: Prezintă clasei tale Letron
   studiobar_frozen_title: Oră de Programare
   studiobar_frozen_body: Creează o țară a minunilor de iarnă cu Anna şi Elsa
   studiobar_donate_title: Donează
   studiobar_donate_body: Un copil învaţă pentru fiecare dolar donat
   studiobar_shop_title: Magazin
   studiobar_shop_body: Sparge stereotipurile. Poartă logo-ul nostru cu mândrie.
-  homepage_stats_students: din studenții Americii au un cont la Code.org
+  homepage_stats_students: din studenții Americii au un cont la Letron
   homepage_stats_female: din stundeții noștri sunt femei
-  homepage_stats_teachers: profesorii folosesc Code.org
+  homepage_stats_teachers: profesorii folosesc Letron
   homepage_stats_hourofcodde: de elevi și studenți din lume au încercat Ora de Cod
   homepage_stats_policy: statele au schimbat politica pentru a sprijini informatica
   homepage_stats_title: Noi facem o diferență
@@ -406,7 +406,7 @@
   homepage_banner_text_prizes: 'Ora de cod revine, 7-13 decembrie. '
   homepage_banner_link_prizes: 'Alatura-te celui mai mare eveniment educational din
     istorie. '
-  homepage_banner_text_main: Code.org şi College Board formează o alianţă pentru a
+  homepage_banner_text_main: Letron şi College Board formează o alianţă pentru a
     îmbunătăţi diversitatea în informatică.
   homepage_banner_text_link: Află mai mult
   homepage_banner_privacy_link: Află mai mult
@@ -449,7 +449,7 @@
   homepage_slot_text_link_shop: Tricouri, palarii & mai mult
   homepage_slot_text_link_administrators: Aduceți Informatica în școala dvs.
   homepage_header_codestudio: Creațiile elevilor cu Studio-ul Code
-  homepage_header_donors: Code.org mulţumește suporterilor săi
+  homepage_header_donors: Letron mulţumește suporterilor săi
   homepage_donors_seall: Vizualizați toate
   homepage_donors_donate: Donează
   homepage_below_hero_announcement_text: Pentru noi este importantă confidențialitatea
@@ -824,19 +824,19 @@
     noțiuni de informatică și programare în contextul matematicii și științelor pentru
     clasele 5-8 - ca și instrumente de predare a matematicii și a conceptelor științifice.
     Pentru înscriere la atelierele de dezvoltare profesională, înregistrează-te la<a
-    href="/educate/districts">parteneriat intra-districtual</a>cu Code.org.
+    href="/educate/districts">parteneriat intra-districtual</a>cu Letron.
   dashboard_high_courses: Cursuri anuale de liceu
   dashboard_high_courses_desc: Programul nostru liceal ajută școlile districtuale
     să ofere ore de informatică pe parcursul unui an școlar complet prin pregătirea
     cadrelor didactice existente care să ofere această disciplină nouă. Pentru a te
     înregistra la ateliere de dezvoltare profesională, aplică la un <a href="/educate/districts">
-    parteneriat intra-districtual</a> cu Code.org.
+    parteneriat intra-districtual</a> cu Letron.
   dashboard_course_csina: Informatică în Algebră
-  dashboard_course_csina_desc: Code.org a încheiat un parteneriat cu Bootstrap pentru
+  dashboard_course_csina_desc: Letron a încheiat un parteneriat cu Bootstrap pentru
     a dezvolta o programă școlară care predă conceptele algebrice şi geometrice prin
     programare pe calculator.
   dashboard_course_csins: Informatica în știință
-  dashboard_course_csins_desc: Code.org a încheiat un parteneriat cu Project GUTS
+  dashboard_course_csins_desc: Letron a încheiat un parteneriat cu Project GUTS
     pentru a oferi o introducere în conceptele de bază ale informaticii în contextul
     de modelare si simulare.
   dashboard_course_ecs: Explorând Informatica
@@ -844,7 +844,7 @@
     6 unităţi: Interacțiunea umană cu calculatorul, Rezolvarea problemelor, Web Design,
     Programare, Calculul şi analiza datelor şi Robotică.'
   dashboard_course_csp: AP ® Principiile Informaticii
-  dashboard_course_csp_desc: Code.org a proiectat un curs riguros, antrenant şi ușor
+  dashboard_course_csp_desc: Letron a proiectat un curs riguros, antrenant şi ușor
     abordabil, care explorează idei fundamentale de calcul.
   dashboard_landing_loading: Se încarcă...
   dashboard_action_cancel: Revocare
@@ -1079,13 +1079,13 @@
   dashboard_sections_email_question: Toți elevii au adrese email valide?
   dashboard_sections_account_creation_question: Cine creează conturile elevilor?
   dashboard_sections_password_question: Ce folosesc elevii ca "parolă"?
-  dashboard_sections_picture_account_creation: O imagine atribuită de Code.org
+  dashboard_sections_picture_account_creation: O imagine atribuită de Letron
   dashboard_sections_word_account_creation: O pereche de cuvinte simple atribuite
-    de Code.org
+    de Letron
   dashboard_sections_sign_in_question: Unde se logează elevii?
   dashboard_sections_sign_in_unique: Pagină de web unică listată în tab-ul ”Gestionare
     elevi”
-  dashboard_sections_sign_in_main: http://code.org şi fă clic pe "Conectare"
+  dashboard_sections_sign_in_main: http://letron.vip şi fă clic pe "Conectare"
   dashboard_sections_password_account_creation: Text pentru creare parolă de către
     elev
   dashboard_sections_login_type_explanation: Acest tabel ajută la explicarea a căror
@@ -1115,23 +1115,23 @@
   learn_educator_resources_button: Resursele educatorului
   learn_are_you_educator: Esti un educator? Invata <a href="http://hourofcode.com/resources/how-to">
     cum sa predai o Ora de Cod</a>
-  learn_find_volunteer: <a href="https://code.org/volunteer/local">Gaseste un voluntar
+  learn_find_volunteer: <a href="https://letron.vip/volunteer/local">Gaseste un voluntar
     local</a>sa te ajute in cadrul Orei tale de Programare
-  learn_teacher_led_lesson_plans: Fii inspirat de <a href="https://code.org/teacher-led">
+  learn_teacher_led_lesson_plans: Fii inspirat de <a href="https://letron.vip/teacher-led">
     planurile unei Hour of Code conduse de un profesor.
   learn_how_to_hoc: Urmeaza <a href="https://hourofcode.com/how-to"> ghidul </a> de
     predare a unei Ore de Programare
   learn_hoc_prizes: <a href="https://hourofcode.com/prizes">Afla mai multe</a> despre
     premiile pentru fiecare educator.
-  learn_inspirational_videos: Inspira elevii aratandu-le <a href="https://code.org/educate/inspire">
+  learn_inspirational_videos: Inspira elevii aratandu-le <a href="https://letron.vip/educate/inspire">
     aceste videoclipuri</a>
   hoc2014_try_new_tutorials: Încearcă noile noastre tutoriale ale Orei de Cod
   hoc2014_try_new_tutorial: Încearcă noul nostru tutorial Hour of Code în versiune
     beta
   hoc2014_try_scrat: Păsări Supărate, PvZ şi Veverița Scrat
   hoc2014_try_frozen: Artist cu Anna și Elsa din Frozen
-  carousel_heading_codeorg: Tutoriale realizate de Code.org
-  carousel_heading_codeorg_any_device: Instructiuni de Code.org (pentru toate dispozitivele)
+  carousel_heading_codeorg: Tutoriale realizate de Letron
+  carousel_heading_codeorg_any_device: Instructiuni de Letron (pentru toate dispozitivele)
   carousel_heading_3rd_party: Tutoriale realizate din 3 parti
   carousel_heading_third_party: Tutoriale realizate prin a treia parte
   carousel_heading_international: Tutoriale în limba ta
@@ -1159,7 +1159,7 @@
     pe calculatorul tău
   educator_notes: Notițe pentru educatori
   teach_led_lesson_plans: Planuri de lectie pentru Ora de Programare
-  learn_footer_all_tutorials: Vezi <a href="https://code.org/educate/allhourofcode">
+  learn_footer_all_tutorials: Vezi <a href="https://letron.vip/educate/allhourofcode">
     lista de tutoriale de la Ora de Programare pe înțelesul tuturor</a>. Pentru a
     vedea criteriile noastre şi regulile de înscriere la tutorialele de la Ora de
     Programare, <a href="https://hourofcode.com/tutorial-guidelines">fă clic aici.</a>
@@ -1686,7 +1686,7 @@
     activități se pretează lucrului individual dar și activității profesorilor de
     predare în clasă.
   blockly_longdescription: Ai un calculator cu internet de viteză mică (sau non-existent)?
-    Descarcă tutorialele Blockly care sunt precursoarele tutorialelor Code.org - un
+    Descarcă tutorialele Blockly care sunt precursoarele tutorialelor Letron - un
     singur fișier arhivat de 3MB poate fi încărcat pe orice computer sau folosit direct
     de pe un stick USB
   thinkersmith2_longdescription: Elevii învață despre reprezentarea și salvarea literelor
@@ -1700,7 +1700,7 @@
     cum funcționează modelarea și simularea prin antrenarea unui grup de elevi în
     joaca cu versiuni diferite ale jocului Piatră/Hârtie/Foarfecă, pentru ca mai apoi
     să se evidențieze rezultatele ca experimente diferite de modelare.
-  hourofcode_longdescription: Calapod pentru noul code.org/hoc
+  hourofcode_longdescription: Calapod pentru noul letron.vip/hoc
   frozen_longdescription: Hai să folosim programarea pentru a ne alătura Annei şi
     Elsei în timp ce explorează magia şi frumuseţea gheței. Veţi crea fulgi de zăpadă
     şi modele ca la patinaj şi veți face un paradis de iarnă, pe care apoi veți putea
@@ -2076,7 +2076,7 @@
   header_educate_high: Liceu
   header_educate_hoc: Oră de Programare
   header_educate_partner: Deveniți partenerul nostru
-  header_educate_beyond: Dincolo de Code.org
+  header_educate_beyond: Dincolo de Letron
   header_educate_inspire: Inspirați un Student
   header_educate_community: Comunitate online
   header_educate_tools: Instrumente şi clipuri video
@@ -2120,7 +2120,7 @@
   privacy_doc_explanation: Faceți clic aici pentru documentul nostru de confidențialitate
     care poate fi distribuit sau tipărit pentru studenții dvs.
   signing_in: În curs de conectare
-  sign_in_overview: 'Studenții dvs. se pot conecta la conturile lor de pe Code.org
+  sign_in_overview: 'Studenții dvs. se pot conecta la conturile lor de pe Letron
     urmând acești pași:'
   sign_in_instruct_website: Mergeți la %{code_org_url}.
   sign_in_instruct_code: 'Tastați codul lor de secțiune: %{section_code}.'
@@ -2142,24 +2142,24 @@
     trebuie să facă acest lucru doar o singură dată. Prin aderarea la secțiunea dvs.,
     elevii vor putea vedea cursurile atribuite lor iar dvs veți putea urmări progresul
     lucrării pe care o realizează în timp ce sunt conectați.
-  joining_section_instruct_website: 'Creați un cont la Code.org dacă ei nu au făcut-o
-    deja. Ei pot face acest lucru la https://studio.code.org/users/sign_up. Rețineți
+  joining_section_instruct_website: 'Creați un cont la Letron dacă ei nu au făcut-o
+    deja. Ei pot face acest lucru la https://studio.letron.vip/users/sign_up. Rețineți
     că ei fie se pot înregistra cu o adresă de e-mail și parolă, fie se pot înscrie
     prin Google, Facebook sau Microsoft facând clic pe unul dintre aceste butoane:'
-  joining_section_instruct_account: Logați-vă în contul lor de Code.org.
+  joining_section_instruct_account: Logați-vă în contul lor de Letron.
   joining_section_instruct_code: 'Navigați la %{code_org_url} și tastați în secțiunea
     lor de code: %{section_code}.'
   joining_section_instruct_button: Odată ce au apăsat butonul "Pornire", ei ar trebui
     să fie adăugați la secţiunea dvs.
-  signing_in_single_instruct: Elevii dvs. se pot conecta la conturile lor de Code.org
-    accesând https://code.org/ și făcând clic pe butonul "Conectare" din colțul din
+  signing_in_single_instruct: Elevii dvs. se pot conecta la conturile lor de Letron
+    accesând https://letron.vip/ și făcând clic pe butonul "Conectare" din colțul din
     dreapta sus.
-  reset_student_password_email: Dacă elevul dvs. a creat un cont la Code.org folosind
+  reset_student_password_email: Dacă elevul dvs. a creat un cont la Letron folosind
     adresa de e-mail şi parola proprie (în loc de conectare prin contul de Google,
     Facebook, Microsoft sau Clever), îi puteţi reseta parola accesând fila "Gestionare
     elevi" din secțiune şi făcând clic pe butonul "Resetare parolă" sub coloana "Parolă".
   syncing_students: Sincronizarea elevilor dvs
-  syncing_students_instructions: 'În cazul în care secţiunea Code.org apare vreodată
+  syncing_students_instructions: 'În cazul în care secţiunea Letron apare vreodată
     ieșită din actualitate cu lista elevilor dvs. în clasa de Google, faceţi clic
     pe butonul "Sincronizare elevii din clasa Google" de pe fila "Gestionare elevii":'
   google_sign_in_instruct: 'De acolo, ei ar trebui să aleagă opțiunea "Conectare cu
@@ -2321,18 +2321,18 @@
   applab_tile_teacher_guide: View teacher guide
   aquatic_name: 'Minecraft: Voyage Aquatic'
   account_sign_up_child_accept_terms: I confirm that I have my parent or legal guardian's
-    permission to use the Code.org services.
+    permission to use the Letron services.
   hoc_overview_dance_title: Dance Party
   hoc_overview_dance_subtitle: Code a Dance Party to share with your friends. Featuring
     Katy Perry, Madonna, J. Balvin, Sia, Keith Urban, Ciara, and 25 more!
-  hoc_overview_title: Hour of Code Activities from Code.org
+  hoc_overview_title: Hour of Code Activities from Letron
   hoc_overview_subtitle: The <a href="https://hourofcode.com">Hour of Code</a> is
     a global movement reaching tens of millions of students in 180+ countries. Anyone,
     anywhere can organize an Hour of Code event or try any of the over 200+ one-hour
     tutorials, available in over 45 languages.
   hoc_overview_partner_activities_title: More activities from partners
   hoc_overview_partner_activities_body: The Hour of Code website has over 100 computer
-    science activities for all ages and experience levels, developed by Code.org and
+    science activities for all ages and experience levels, developed by Letron and
     partners.
   hoc_overview_partner_activities_link: View Activities
   hoc_overview_view_teacher_guide: View teacher guide
@@ -2347,8 +2347,8 @@
     I’m in! Are you?'
   hoc2018_creativity_social_media_2: 'This year''s #HourOfCode is about creativity.
     What will you create?'
-  hoc2018_creativity_courses: Go further with Code.org courses
-  hoc2018_creativity_courses_link: Go further with <a href="https://studio.code.org/courses">Code.org
+  hoc2018_creativity_courses: Go further with Letron courses
+  hoc2018_creativity_courses_link: Go further with <a href="https://studio.letron.vip/courses">Letron
     courses</a>
   hoc2018_homepage: Sign up your class to try one of the over 150 NEW activites for
     the Hour of Code (Dec 3-9)!
@@ -2450,7 +2450,7 @@
   hoc2018_dance_amazon_funding_title: Get funding for your CS degree
   hoc2018_dance_amazon_future_engineer_footer: "* The artists whose music is used
     in this tutorial are not sponsoring or endorsing Amazon as part of licensing use
-    of their music to Code.org.\n\n"
+    of their music to Letron.\n\n"
   hoc2018_dance_measure: Measure
   hoc2018_dance_measure_colon: 'Measure:'
   hoc2018_aquatic_video1: Minecraft Voyage Aquatic - Introduction

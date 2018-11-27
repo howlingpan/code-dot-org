@@ -24,7 +24,7 @@ it:
         Questa casa ha bisogno di un tetto! Disegna un triangolo.<br>
         <b>Suggerimento</b>: tutti e tre i lati hanno la stessa lunghezza.<br>
 
-        <img src="https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif"
+        <img src="https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif"
         width="300"/>
       2-3 Artist 7: 'Finisci di disegnare le ultime due finestre a destra. Ciascuna
         finestra è un quadratino di lato 25 pixel. '
@@ -534,24 +534,24 @@ it:
       Alien Defender: "**Idea di progetto:** Costruisci un gioco di difesa nel Laboratorio!"
       Alien Defender_2018: "**Idea di progetto:** Costruisci un gioco di difesa nel
         Laboratorio!"
-      AppLab Intro 7 - Change Screen Color: "<div style=\"float:right\">\n<img src=\"https://images.code.org/bf9b1fb57751fa90c9b786339914ad70-image-1508521068798.34.54
+      AppLab Intro 7 - Change Screen Color: "<div style=\"float:right\">\n<img src=\"https://images.letron.vip/bf9b1fb57751fa90c9b786339914ad70-image-1508521068798.34.54
         AM.png\" style=\"height:150px\"> \n</div>\n\n**Obiettivo:** Rendere verde
         (*green*) lo schermo.\n\n**Come:** Sposta nell'area di lavoro il blocco `setProperty()`.
         Usa il menù a discesa\nper assegnare a `\"background-color\"` il colore `\"green\"`.
-        Poi clicca su \"Esegui\".\n\n**Sei bloccato?\nClicca qui** ![expandable](https://images.code.org/817990cbff035c9960b84a4b228ecaba-image-1508521071643.gif)"
+        Poi clicca su \"Esegui\".\n\n**Sei bloccato?\nClicca qui** ![expandable](https://images.letron.vip/817990cbff035c9960b84a4b228ecaba-image-1508521071643.gif)"
       AppLab Intro 7 - Change Text 2: |-
         <div style="float:right">
-        <img src="https://images.code.org/39ead723fbd2b047aa2d1e401cbfec8a-image-1506545619076.34.29 PM.png" style="height:200px;">
+        <img src="https://images.letron.vip/39ead723fbd2b047aa2d1e401cbfec8a-image-1506545619076.34.29 PM.png" style="height:200px;">
         </div>
 
         **Obiettivo:** Fai in modo che il testo diventi più grande e blu.
 
         **Come:**  Hai bisogno di due linee di codice. Una per attribuire all'etichetta `"label1"` la dimensione `"font-size"` di `80` e l'altra per impostare il colore `"text-color"`  a `"blue"`.
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/2d5d46a03082af3b01847aad6602e2ea-image-1511280140482.gif)
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/2d5d46a03082af3b01847aad6602e2ea-image-1511280140482.gif)
       AppLab Intro 7 - Full Text: |-
         <div style="float:right">
-        <img src="https://images.code.org/1e81d5bcdd69172f4127de55d045225f-image-1507565161167.05.19 AM.png" style="height:200px">
+        <img src="https://images.letron.vip/1e81d5bcdd69172f4127de55d045225f-image-1507565161167.05.19 AM.png" style="height:200px">
         </div>
 
         **Obiettivo:** Fai in modo che i bottoni diventino `"red"` (rosso) e `"blue"` (blu). Quindi cambia il testo nella grande etichetta arancione.
@@ -562,25 +562,25 @@ it:
         * Imposta il colore di sfondo `"background-color"` dei pulsanti a `"red"` e `"blue"`.
         * Cambia il testo `"text"` della grande etichetta arancione come preferisci, per esempio `"Benvenuto nella mia nuova app!"`.
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/4bf99e7352e7c17a5bf73ced80171f6a-image-1511280628092.gif)
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/4bf99e7352e7c17a5bf73ced80171f6a-image-1511280628092.gif)
       AppLab Intro 7 - onEvent intro: |-
-        <img src="https://images.code.org/3d8c8487ea669563d3401c0009cd9462-image-1511281194897.gif" style="float:right;height:200px">
+        <img src="https://images.letron.vip/3d8c8487ea669563d3401c0009cd9462-image-1511281194897.gif" style="float:right;height:200px">
 
         **Obiettivo:** All'inizio la schermata è blu. Aggiungi il codice necessario affinché diventi verde (*green*) quando si clicca sul pulsante "Green-ify" (*"Inverdirsci"*).
 
         **Come:** Aggiungi del codice dentro al blocco `onEvent()` per impostare il colore di sfondo `"background-color"` a `"green"`.
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/5ddf6b129bc04b79839b3661ccef788b-image-1511281012076.gif)
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/5ddf6b129bc04b79839b3661ccef788b-image-1511281012076.gif)
       AppLab Intro 7 - onEvent twoButtons: |-
-        <img src="https://images.code.org/158c9258bfff18c2177440f201446c47-image-1507566793890.gif" style="float:right;height:200px">
+        <img src="https://images.letron.vip/158c9258bfff18c2177440f201446c47-image-1507566793890.gif" style="float:right;height:200px">
 
         **Obiettivo:** Aiuta a completare questa app luminosa. Il pulsante "On" rende già lo schermo bianco (*white*). Premi "Esegui" per provarla. Quindi scrivi del codice per fare in modo che premendo il pulsante "Off" lo schermo diventi nuovamente nero (*black*).
 
         **Come:** Aggiungi del codice nel blocco `onEvent()` per impostare il colore di sfondo dello schermo `"background-color"`
         a `"black"` ed il colore del testo dell'etichetta `"text-color"` a `"white"`.
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/020b1d9b465aaf35967a528a92961c13-image-1511281772276.gif)
-      AppLab Intro 7 - playSound: "<img src=\"https://images.code.org/28176329f15dea1a863564b069e72aab-image-1511282702534.44.52
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/020b1d9b465aaf35967a528a92961c13-image-1511281772276.gif)
+      AppLab Intro 7 - playSound: "<img src=\"https://images.letron.vip/28176329f15dea1a863564b069e72aab-image-1511282702534.44.52
         AM.png\" style=\"float:right;height:200px\">\n\n**Obiettivo:** Questa tastiera
         è quasi completa! Esegui l'app per vedere come funziona. Quindi aggiungi un'immagine,
         del teso ed il relativo suono.\n\n**Come:** \n* Aggiungi un blocco `onEvent()`
@@ -589,27 +589,27 @@ it:
         `setProperty()` (al di fuori del precedente `onEvent()`) per cambiare la proprietà
         `\"image\"` del pulsante. Scegli quindi un'immagine usando il terzo elenco
         a discesa.\n* Aggiungi ancora un blocco `setProperty()` per modificare il
-        testo `\"text\"` del pulsante.\n\n**Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/a3fdcb8954c5e8d585bef64df1ec5b1a-image-1511285408512.gif)"
+        testo `\"text\"` del pulsante.\n\n**Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/a3fdcb8954c5e8d585bef64df1ec5b1a-image-1511285408512.gif)"
       AppLab Intro 7 - thisOrThatAddButton: |-
-        <img src="https://images.code.org/3feb07aaf3d933b094647479673a3293-image-1508373443129.37.00 PM.png" style="float:right;height:200px">
+        <img src="https://images.letron.vip/3feb07aaf3d933b094647479673a3293-image-1508373443129.37.00 PM.png" style="float:right;height:200px">
 
         **Obiettivo:** Aggiungi un secondo pulsante alla schermata con scritto "Right!" (*destra*) con identificativo `"id"` impostato a `"rightButton"`.
 
         **Come:** In Modalità Interfaccia trascina un nuovo pulsante. Posizionalo e dimensionalo correttamente. Quindi imposta il suo identificativo `"id"`, il testo `"text"`, il colore di sfondo `"background color"` e la dimensione del testo `"font size"`.
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/7035ad0445984cf889b159cf5682e35a-image-1508383186447.gif)
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/7035ad0445984cf889b159cf5682e35a-image-1508383186447.gif)
       AppLab Intro 7 - thisOrThatAddScreen: |-
-        <img src="https://images.code.org/f102a1363aa575cc530379d9a4ee378c-image-1508382068883.00.59 PM.png" style="float:right;height:200px">
+        <img src="https://images.letron.vip/f102a1363aa575cc530379d9a4ee378c-image-1508382068883.00.59 PM.png" style="float:right;height:200px">
 
         **Obiettivo:** Crea una nuova schermata denominata `"rightScreen"` (schermata di destra). Aggiungi un'etichetta con il testo "Sei arrivato a destra!".
 
         **Come:** In Modalità Interfaccia trascina un nuovo elemento Schermata. Cambia il suo identificativo `"id"` in `"rightScreen"`. Quindi trascina un'etichetta sulla nuova schermata e cambia il testo in "Sei arrivato a destra!".
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/11cf186acb0453cf9ec46929b763f568-image-1508383646159.gif)
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/11cf186acb0453cf9ec46929b763f568-image-1508383646159.gif)
       AppLab Intro 7 - thisOrThatPersonalize: |-
-        <a href="https://studio.code.org/projects/applab/gx21oCP10-V4GlNMlSpwdQ" target="_blank"><img src="https://images.code.org/ba6c0db48cc1c3c28c135f1c2f67f361-image-1511244802597.10.18 PM.png" style="float:right;height:200px"></a>
-        <a href="https://studio.code.org/projects/applab/SM_edi1btguZZiQaTtUT9Q" target="_blank"><img src="https://images.code.org/284b55697d786e0cd64350d0967c5dda-image-1511244806272.11.05 PM.png" style="float:right;height:200px"></a>
-        <a href="https://studio.code.org/projects/applab/SMvVhgBX_GGyxg5LSEMrgg" target="_blank"><img src="https://images.code.org/445181ff8d84861919512ba9b8e09586-image-1511244809994.12.40 PM.png" style="float:right;height:200px"></a>
+        <a href="https://studio.letron.vip/projects/applab/gx21oCP10-V4GlNMlSpwdQ" target="_blank"><img src="https://images.letron.vip/ba6c0db48cc1c3c28c135f1c2f67f361-image-1511244802597.10.18 PM.png" style="float:right;height:200px"></a>
+        <a href="https://studio.letron.vip/projects/applab/SM_edi1btguZZiQaTtUT9Q" target="_blank"><img src="https://images.letron.vip/284b55697d786e0cd64350d0967c5dda-image-1511244806272.11.05 PM.png" style="float:right;height:200px"></a>
+        <a href="https://studio.letron.vip/projects/applab/SMvVhgBX_GGyxg5LSEMrgg" target="_blank"><img src="https://images.letron.vip/445181ff8d84861919512ba9b8e09586-image-1511244809994.12.40 PM.png" style="float:right;height:200px"></a>
 
         **Obiettivo:** Costruisci la tua app ampliando questo progetto. Poi condividila con i tuoi amici!
 
@@ -617,7 +617,7 @@ it:
 
         <details><summary><b>Idee "Scegli la tua avventura"</b></summary>
 
-        Prova questo esempio di app <a href="https://studio.code.org/projects/applab/SMvVhgBX_GGyxg5LSEMrgg"
+        Prova questo esempio di app <a href="https://studio.letron.vip/projects/applab/SMvVhgBX_GGyxg5LSEMrgg"
         target="_blank">Scegli la tua avventura</a> così puoi vedere come funziona. Ecco alcune idee per aiutarti a tirar fuori la tua storia.
 
         <li>Crea una storia basata sul tuo personaggio preferito, reale o immaginario.</li>
@@ -627,7 +627,7 @@ it:
 
         <details><summary><b>Idee "Biglietto di auguri"</b></summary>
 
-        Prova questo esempio di app <a href="https://studio.code.org/projects/applab/SM_edi1btguZZiQaTtUT9Q"
+        Prova questo esempio di app <a href="https://studio.letron.vip/projects/applab/SM_edi1btguZZiQaTtUT9Q"
         target="_blank">Biglietto di auguri</a> così puoi vedere come funziona. Ecco alcune idee per aiutarti a tirar fuori il tuo biglietto.
 
         <li>Pensa ad un compleanno, ad una vacanza o ad altri giorni speciali in arrivo. Crea un biglietto per festeggiarlo!</li>
@@ -637,7 +637,7 @@ it:
 
         <details><summary><b>Idee "Quiz della personalità"</b></summary>
 
-        Prova questo esempio di app <a href="https://studio.code.org/projects/applab/gx21oCP10-V4GlNMlSpwdQ"
+        Prova questo esempio di app <a href="https://studio.letron.vip/projects/applab/gx21oCP10-V4GlNMlSpwdQ"
         target="_blank">Quiz della personalità</a> così puoi vedere come funziona. Ecco alcune idee per aiutarti a tirar fuori il tuo quiz.
 
         <li>Crea un quiz su un argomento in cui una persona possa appassionarsi, per esempio un pasto, una squadra, un libro o un posto.</li>
@@ -645,17 +645,17 @@ it:
         <li>Crea un quiz per aiutare le persone a prendere decisioni importanti.</li>
         </details>
       AppLab Intro 7 - thisOrThatSetScreen: |-
-        <img src="https://images.code.org/acd1acf659a2504d38ff80256d8e870f-image-1508374065550.com-crop (1).gif" style="float:right;height:200px">
+        <img src="https://images.letron.vip/acd1acf659a2504d38ff80256d8e870f-image-1508374065550.com-crop (1).gif" style="float:right;height:200px">
 
         **Obiettivo:** Lo schermo deve commutare su `"rightScreen"` quando l'utente clicca il pulsante `"rightButton"`.
 
         **Come:** In Modalità Codice aggiungi un nuovo blocco `onEvent()` al tuo programma relativo al pulsante "Right!" (*destra*). Poi aggiungi al suo interno un blocco `setScreen()` che permetta di commutare alla schermata `"rightScreen"`.
 
-        **Sei bloccato? Clicca qui:** ![expandable](https://images.code.org/64dfec0d9f9c2fc237abb90ef6a72f0e-image-1508384166252.gif)
+        **Sei bloccato? Clicca qui:** ![expandable](https://images.letron.vip/64dfec0d9f9c2fc237abb90ef6a72f0e-image-1508384166252.gif)
       Artist Autorun Test: Usa il blocco `ripeti ... volte` per disegnare questi tre
         quadrati.
       Artist Inspiration: |-
-        <img src="https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
+        <img src="https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Bergeron Robot Maze1: |-
@@ -663,7 +663,7 @@ it:
         <a href="https://www.programmailfuturo.it/come/lezioni-tecnologiche/corso-2/lezione-3#VIDEO" target="_blank">Video doppiato in italiano</a>
       CSDU2 Color Blindness: "# Filtro daltonici\r\n\r\n\r\n\r\n\n"
       Color Blindness Filter: "# Filtro daltonici\r\n\r\n\r\n\r\n\n"
-      Course 4 Artist 10: "<img src=\"https://images.code.org/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"
+      Course 4 Artist 10: "<img src=\"https://images.letron.vip/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"
         width=\"150px;\" style=\"mix-blend-mode: multiply;\" />\n\n**Tempo di giocare:**
         \ Ecco il codice per una figura interessante.   \n\nChe cosa succede se la
         ripeti più volte, girando ad ogni iterazione?   \n\nNota che il codice per
@@ -675,33 +675,33 @@ it:
         l'artista deve ruotare di **360 gradi/4 = 90 gradi** ogni volta. Puoi farlo
         aggiungendo un blocco `gira a destra di 30 gradi` prima di ripetere la figura
         (dato che **60+30 = 90**).<br/>\n<img src=\"https://programmailfuturo.it/images/codeorg/4-3-11-a.png\"\nwidth=\"500px;\"
-        style=\"mix-blend-mode: multiply;\" /><br/>\n<a href=\"https://studio.code.org/c/120106816\"
+        style=\"mix-blend-mode: multiply;\" /><br/>\n<a href=\"https://studio.letron.vip/c/120106816\"
         target=\"_blank\">Vedi la soluzione</a>.\n<br/>\n</details>\n</h4>\n\n<h4>\n<details>\n<summary>\n\n<b>Ripeti
         6</b>\n\n</summary>\n<br/>\nSe ripeti per 6 volte questo codice così com'è,
         ottieni una rotazione totale pari a **6x60**, ossia un giro completo di **360
-        gradi**.<br>\n<img\nsrc=\"https://images.code.org/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"
-        \ width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" /><br/>\n<a href=\"https://studio.code.org/c/105644852\"
+        gradi**.<br>\n<img\nsrc=\"https://images.letron.vip/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"
+        \ width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" /><br/>\n<a href=\"https://studio.letron.vip/c/105644852\"
         target=\"_blank\">Vedi la soluzione</a>.\n<br/>\n</details>\n</h4>\n\n<h4>\n<details>\n<summary>\n\n<b>Ripeti
         12</b>\n\n</summary>\n\n<br/>\nSe vuoi invece ripetere la figura 12 volte,
         l'artista deve effettuare una rotazione di **360 gradi/12 = 30 gradi** ad
         ogni ripetizione. Ciò significa che, prima di ripetere la figura, l'artista
         deve tornare un po' indietro con un blocco `gira a sinistra di 30 gradi` (infatti
         60-30 = 30).<br/>\n<img src=\"https://programmailfuturo.it/images/codeorg/4-3-11-b.png\"\nwidth=\"500px;\"
-        style=\"mix-blend-mode: multiply;\" />\n<br/>\n<a href=\"https://studio.code.org/c/120106805\"
+        style=\"mix-blend-mode: multiply;\" />\n<br/>\n<a href=\"https://studio.letron.vip/c/120106805\"
         target=\"_blank\">Vedi la soluzione</a>.\n<br/>\n</details>\n</h4>\n\nNow
         it's your turn!  Can you recreate each image by repeating the starting shape?
         \ "
       Course 4 Artist 11: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/><br>
         <br>
         E ora una piccola sfida!<br>
         <br>
         Per ottenere la figura che vedi devi usare solo blocchi che ti sono già stati mostrati. Riesci a capire come ricrearla? Sentiti libero di fare più tentativi e di commettere errori. Nessuno si aspetta che tu ci riesca perfettamente al primo tentativo. <br>
         <br>
-        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.code.org/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
+        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.letron.vip/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
       Course 4 Artist 12: |-
-        <img src="https://images.code.org/70795d84048767ae7fb65883f476b27c-image-1440050836837.01.09.png"
+        <img src="https://images.letron.vip/70795d84048767ae7fb65883f476b27c-image-1440050836837.01.09.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist 13: Hai ancora voglia di giocare? Ecco una tela bianca su cui
@@ -746,7 +746,7 @@ it:
         non li colora quando incontra uno "0". Clicca su "Esegui" per vedere come
         l'artista usa le stringhe binarie per disegnare questa figura.
       Course 4 Artist Binary Free Play 2b: |-
-        <img src="https://images.code.org/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
+        <img src="https://images.letron.vip/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Binary pre1: |-
@@ -755,7 +755,7 @@ it:
         Riesci a far produrre all'artista il disegno mostrato nella prima riga, la cui codifica binaria è "01010101"?
       Course 4 Artist For Loops 1: Usa il blocco `ripeti ... volte` per disegnare
         un triangolo equilatero con i lati di 50 pixel.
-      Course 4 Artist For Loops 11: Ricordi che nella lezione 6 (<a href="https://studio.code.org/s/course4/stage/6/puzzle/10"
+      Course 4 Artist For Loops 11: Ricordi che nella lezione 6 (<a href="https://studio.letron.vip/s/course4/stage/6/puzzle/10"
         target="_blank">esercizio 10</a> e seguenti) abbiamo usato la variabile `sides`
         (<i>lati</i>) per rappresentare il numero dei lati di un poligono? Ora devi
         fare la stessa cosa con la variabile `counter` (<i>contatore</i>). La figura
@@ -812,19 +812,19 @@ it:
         Ricorda che per creare una spirale non devi chiudere il poligono. Questo significa che ogni forma deve avere un lato in meno del solito.
       Course 4 Artist For Loops inspire: |-
         <img
-        src="https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
+        src="https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Functions Inspiration: |-
-        <img src="https://images.code.org/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png"
+        <img src="https://images.letron.vip/cf373e03bede480ae54aec72ce823454-image-1442951867535.54.11.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Functions challenge: |-
-        <img src="https://images.code.org/69f1c2b415f907c86aaa6ed2534c3682-image-1442870371171.13.38.png"
+        <img src="https://images.letron.vip/69f1c2b415f907c86aaa6ed2534c3682-image-1442870371171.13.38.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo.
       Course 4 Artist Inspire: |-
-        <img src="https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
+        <img src="https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       Course 4 Artist Vars 1: |-
@@ -1064,7 +1064,7 @@ it:
         <b>Super Sfida sulle funzioni:</b> Usa quello che hai imparato nell'esercizio precedente per disegnare un'immagine come questa.<br>
         <br><i>Nota: Il codice diventa più semplice se usi le funzioni con parametri.</i><br>
         <img
-        src="https://images.code.org/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
+        src="https://images.letron.vip/d3d6a51fafdcc0a09a5c6b0e0f3c2b92-image-1446239805818.08.59.png"
         width="300px"/>
       Course 4 SCFL 1: "<b>Super Sfida sui cicli con contatore:</b> Risolvi questo
         esercizio usando il minor numero possibile di blocchi."
@@ -1074,30 +1074,30 @@ it:
         esercizio usando il minor numero di blocchi possibile."
       Course 4 SCFL 3: |-
         <b>Super Sfida sui cicli con contatore:</b> Riesci a ricreare questo disegno?<br>
-        <img src="https://images.code.org/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png"
+        <img src="https://images.letron.vip/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png"
         width="350px"/>
       Course 4 SCFL 4: |-
         <b>Super Sfida sui cicli con contatore:</b> Riesci a ricreare questo disegno?<br>
-        <img src="https://images.code.org/407f502735beec686187451bdf67aada-image-1446002848700.59.34.png"
+        <img src="https://images.letron.vip/407f502735beec686187451bdf67aada-image-1446002848700.59.34.png"
         width="350px"/>
       Course 4 SCFL 6: |-
         <b>Super Sfida sui cicli con contatore:</b> Riesci a ricreare questo disegno usando un solo ciclo?<br>
         <img
-        src="https://images.code.org/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png"
+        src="https://images.letron.vip/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png"
         width="350px"/>
       Course 4 SCFL 7: |-
         <b>Super Sfida sui cicli con contatore:</b> L'artista vuole disegnare qualche onda! Riesci ad aiutarlo ricreando questo disegno?<br>
-        <img src="https://images.code.org/fba3423f2e9a405d4d3859de32cdb0f3-image-1446102880655.13.36.png"
+        <img src="https://images.letron.vip/fba3423f2e9a405d4d3859de32cdb0f3-image-1446102880655.13.36.png"
         width="350px"/>
       Course 4 SCFP 1: Crea una funzione con parametri che permetta all'artista di
         saltare all'indietro e in avanti di x pixel e anche su e giù di y pixel (con
         numeri positivi e negativi).
       Course 4 SCV 1: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png"
         width="250px"/><br>
         <b>Super Sfida sulle variabili:</b> ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       Course 4 SCV 2: |-
-        <img src="https://images.code.org/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
+        <img src="https://images.letron.vip/85f0b27009edd86eff78692004b9ed52-image-1444712655590.02.32.png"
         width="250px"/><br>
         <b>Super Sfida sulle variabili:</b> ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       Course 4 SCV 3: |-
@@ -1117,7 +1117,7 @@ it:
       Course 4 SCV 5: "<b>Super Sfida sulle variabili:</b> risolvi questo esercizio
         con il minore numero possibile di blocchi!"
       Course 4 SCV 6: |-
-        <img src="https://images.code.org/499fc71a0a06bacb68a9789ad57f8148-image-1445574373673.16.44.png"
+        <img src="https://images.letron.vip/499fc71a0a06bacb68a9789ad57f8148-image-1445574373673.16.44.png"
         width="250px"/><br>
         <b>Super Sfida sulle variabili:</b> ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       Course 4 SCVP 1: Crea una funzione con parametri che permetta all'artista di
@@ -1190,37 +1190,37 @@ it:
         <br>
         Iniziamo con 10 punti così non è troppo difficile. Lascia che il punteggio scenda da 10 fino a 0 per risolvere l'esercizio.
       D_Frozen_nested3: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
 
         Ora usa il blocco `salta a 200 avanti 200 in basso` per far saltare di nuovo Elsa al centro e farla girare intorno per disegnare la fila di figure in diverse direzioni.
 
         Che fiocchi spettacolari che puoi realizzare!
         <hr/>
         Guarda questi esempi con diversi poligoni:
-        ![](https://images.code.org/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
-        ![](https://images.code.org/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
-        ![](https://images.code.org/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
+        ![](https://images.letron.vip/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
+        ![](https://images.letron.vip/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
+        ![](https://images.letron.vip/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
 
         Delle forme astratte potrebbero rendere il fiocco di neve più simile a uno di questi:
-        ![](https://images.code.org/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
-        ![](https://images.code.org/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
-        ![](https://images.code.org/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
+        ![](https://images.letron.vip/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
+        ![](https://images.letron.vip/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
+        ![](https://images.letron.vip/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
       D_Frozen_nested4: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
 
         Prova a sovrapporre due diverse figure di fiocchi di neve una sopra l'altra con una piccola rotazione tra le due - guarda cosa ottieni!
-      D_Frozen_nested5: '![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      D_Frozen_nested5: '![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _"Dai spazio alla tua creatività, divertiti con forme e angoli per disegnare
         nuovi fiocchi di neve! "_'
       D_Frozen_nested6: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
 
 
-        <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
+        <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
         Disegna uno schema a scalinata che utilizza angoli compresi tra 75 e 105 gradi -- ma assicurati che le curve a sinistra e a destra utilizzino lo stesso angolo.
         (Dopo scoprirai perché.)
       D_Frozen_nested7: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
 
         Ruota di 180 gradi e disegna di nuovo lo stesso schema a scalinata!
 
@@ -1230,9 +1230,9 @@ it:
 
         Ecco un esempio di scale che usa un angolo di 76 gradi:
 
-        ![](https://images.code.org/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
+        ![](https://images.letron.vip/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
       D_Frozen_nested8: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
 
         Fai ruotare questa figura 5 o 6 volte fino a formare un cerchio.
         - Se scegli di farla ruotare 5 volte, usa angoli di 72 gradi.
@@ -1241,9 +1241,9 @@ it:
 
         Ecco un esempio di Elsa che fa ruotare uno schema 6 volte:
 
-        ![](https://images.code.org/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
+        ![](https://images.letron.vip/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
       D_Frozen_nested9: |
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
 
         Fai qualche prova con ciò che hai creato. Disegna quello che vuoi!
         - Cosa succede se usi due angoli diversi nello schema a scalinata?
@@ -1416,37 +1416,37 @@ it:
       Geometric Sun_2018: "**Idea per un progetto:** Crea un modello utilizzando idee
         geometriche come forme. Realizzarlo richiede pianificazione e persistenza!"
       HOC 2018 Level_1: "Ti serviranno provviste per il viaggio che ti aspetta. Prendi
-        una **barca** ![](https://images.code.org/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png)
-        dalla **cassa** ![](https://images.code.org/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png).\n\n"
-      HOC 2018 Level_10: "C'è un **calamaro** ![](https://images.code.org/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png)
+        una **barca** ![](https://images.letron.vip/0b3162de9dc0abf3e0890d315b8cc699-image-1538697977747.png)
+        dalla **cassa** ![](https://images.letron.vip/e0cf43fd36a50dd16ee06595047bfd8f-image-1538697999418.png).\n\n"
+      HOC 2018 Level_10: "C'è un **calamaro** ![](https://images.letron.vip/82f305ab1cb4a9ff9044991a18edb16e-image-1538947827218.png)
         nascosto da qualche parte in questo Monumento oceanico, riuscirai a trovarlo?\n\n"
-      HOC 2018 Level_11: Costruisci un muro di **prismarino** ![](https://images.code.org/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png)
-        intorno al calcestruzzo nero. Così si attiverà il **condotto** ![](https://images.code.org/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png)
+      HOC 2018 Level_11: Costruisci un muro di **prismarino** ![](https://images.letron.vip/d110b8d13c01756fcdbef3768b2e2859-image-1538699770898.png)
+        intorno al calcestruzzo nero. Così si attiverà il **condotto** ![](https://images.letron.vip/7773cf30f42e6727a23c8cb364d4664b-image-1538699800030.png)
         e avrai completato la sfida!
       HOC 2018 Level_12: Congratulazioni! Il mondo acquatico aperto ti aspetta. Costruisci
         una barriera corallina! Un vulcano! Un relitto! Sei tu a decidere.
       HOC 2018 Level_2: Con le barche si fa meno fatica che a nuotare in mare aperto!
         Dirigiti alla fine del molo per salire a bordo.
       HOC 2018 Level_3: Prendi i remi e naviga in mare aperto per catturare il **merluzzo**
-        ![](https://images.code.org/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png).
-      HOC 2018 Level_4: Diamo il merluzzo da mangiare al **delfino** ![](https://images.code.org/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png).
+        ![](https://images.letron.vip/9b636884eefb1efe18f9f844e1e916a9-image-1538698597353.png).
+      HOC 2018 Level_4: Diamo il merluzzo da mangiare al **delfino** ![](https://images.letron.vip/8c240fd4df4da2795ba7ca942b77a057-image-1538947890991.png).
         Usa un blocco ripeti per attraversare l'oceano più rapidamente.
-      HOC 2018 Level_5: C'è una **conchiglia di nautilo** ![](https://images.code.org/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png)
+      HOC 2018 Level_5: C'è una **conchiglia di nautilo** ![](https://images.letron.vip/2eb084fa0c718dee6ca4b6379381f735-image-1538698936660.png)
         nascosta da qualche parte! Esplora il relitto per raggiungere la **cassa**
-        ![](https://images.code.org/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png).
-      HOC 2018 Level_6: Fa freddo là fuori! Cattura un **salmone** ![](https://images.code.org/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png)
+        ![](https://images.letron.vip/16cdd5779b38909d4bf47b29535c92b0-image-1538698950602.png).
+      HOC 2018 Level_6: Fa freddo là fuori! Cattura un **salmone** ![](https://images.letron.vip/c66eadf25b3cdfe20bbfdc91e2c28c94-image-1538699000102.png)
         mentre ti dirigi alle rovine sottomarine.
       HOC 2018 Level_7a: "Hai scovato le rovine sottomarine. Cerca nell'arenaria,
-        c'è una **cassa** ![](https://images.code.org/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png)
-        che contiene un tesoro in **prismarino** ![](https://images.code.org/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png).\n\n"
+        c'è una **cassa** ![](https://images.letron.vip/29a5fd76b869d755a60d39fbbb4057eb-image-1538699081910.png)
+        che contiene un tesoro in **prismarino** ![](https://images.letron.vip/5f5ebe5121b8f9787d7dbd38ad0a86cc-image-1538699091018.png).\n\n"
       HOC 2018 Level_8: "Prima gli iceberg, ora la lava? Attraversa quest'isola vulcanica
-        e trova i **pesci tropicali** ![](https://images.code.org/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png)
+        e trova i **pesci tropicali** ![](https://images.letron.vip/6d3293e7709cb1a43d9f7617fd0cc2b8-image-1538699180397.png)
         nella barriera corallina.\n\n"
       HOC 2018 Level_9b: "Sei arrivato alla barriera corallina, ora cerca il **Cuore
-        del mare** ![](https://images.code.org/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png)
-        ! Usa il corallo rosso e blu per raggiungere il **forziere** del tesoro ![](https://images.code.org/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png).\n\n"
+        del mare** ![](https://images.letron.vip/3035926d2a37aa695b5d47413adcffa2-image-1538699398781.png)
+        ! Usa il corallo rosso e blu per raggiungere il **forziere** del tesoro ![](https://images.letron.vip/af697397dd70e5b6b93b00eb46c558af-image-1538699377397.png).\n\n"
       Inspirational Artwork: |-
-        <img src="https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
+        <img src="https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       InspirationalArtwork: Hai imparato tutto quello che devi sapere per creare uno
@@ -1771,7 +1771,7 @@ it:
         <br>
         <b>Nota</b>: riesci a capire come modificare ulteriormente la funzione per risolvere l'esercizio con soli 15 blocchi in totale?
       NEW Course 4 Artist Params inspire: |-
-        <img src="https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
+        <img src="https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       NEW Course 4 Artist Vars 12: Riutilizza adesso l'algoritmo dell'esercizio precedente
@@ -1867,12 +1867,12 @@ it:
       Standalone_Artist_2: 'Disegna questo rombo che ha i lati lunghi 150 pixel.<br><br><b>Attenzione</b>:
         un rombo ha gli angoli di 60 e 120 gradi, ma i gradi dell’istruzione “gira”
         sono misurati rispetto al percorso davanti all’Artista. Vedi anche le spiegazioni
-        del video del <a href="https://studio.code.org/s/course2/stage/4/puzzle/1">primo
+        del video del <a href="https://studio.letron.vip/s/course2/stage/4/puzzle/1">primo
         esercizio dell''Artista nel Corso 2</a>.'
       Standalone_Artist_3: 'Come fai a disegnare questo esagono che ha i lati lunghi
         100 pixel? <br><br><b>Attenzione</b>: un esagono ha gli angoli di 120 gradi,
         ma i gradi dell’istruzione “gira” sono misurati rispetto al percorso davanti
-        all’Artista. Vedi anche le spiegazioni del video del <a href="https://studio.code.org/s/course2/stage/4/puzzle/1">primo
+        all’Artista. Vedi anche le spiegazioni del video del <a href="https://studio.letron.vip/s/course2/stage/4/puzzle/1">primo
         esercizio dell''Artista nel Corso 2</a>.'
       Standalone_Artist_4: Adesso c'è il nuovo blocco "ripeti 6 volte". Questo blocco
         di ripetizione, detto anche "ciclo", ripete 6 volte quello che si trova al
@@ -2037,14 +2037,14 @@ it:
         lo stesso problema. In questo caso, per esempio, potrebbe essere più veloce
         andare all'indietro, piuttosto che muoversi in avanti!
       course3_artist_concept_challenge1: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/><br>
         <br>
         E ora una piccola sfida!<br>
         <br>
         Per ottenere la figura che vedi devi usare solo blocchi che ti sono già stati mostrati. Riesci a capire come ricrearla? Sentiti libero di fare più tentativi e di commettere errori. Nessuno si aspetta che tu ci riesca perfettamente al primo tentativo. <br>
         <br>
-        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.code.org/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
+        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.letron.vip/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
       course3_artist_functions_challenge1: Dopo aver definito una funzione, la puoi
         richiamare più e più volte - quando e dove vuoi! Prova questo codice per scoprire
         come funziona, dopo di che modificalo per creare un disegno tutto tuo!
@@ -2074,7 +2074,7 @@ it:
       course4_artist_binary_challenge2: |-
         Questa griglia è costituita da 256 bit - questo significa che poche modifiche possono causare grandi problemi. Sei abbastanza perseverante per risistemare questo logo?
 
-        ![](https://images.code.org/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
+        ![](https://images.letron.vip/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
       course4_artist_concept_challenge2: Crea cinque girandole usando il codice riportato
         di seguito.
       course4_artist_functions_challenge2: |-
@@ -2089,7 +2089,7 @@ it:
         modifiche per vedere cosa succede. Riesci a capire come funziona? (Oppure
         cancellalo e sostituiscilo con qualcosa di totalmente diverso)
       course4_artist_variables_challenge2: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
 
         Ora hai imparato tutto quello che ti serve per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       course4_collector_nested_loops_challenge2: "*\"A caccia di diamanti - usando
@@ -2102,100 +2102,100 @@ it:
       courseA_artist_loops10: |-
         ## È ora di tornare a terra. Aiutami a posizionare le pietre così non cado in acqua!
 
-        ![expandable](https://images.code.org/d3213d375d0271e114aa4313cdeb34be-image-1498064942606.gif)
+        ![expandable](https://images.letron.vip/d3213d375d0271e114aa4313cdeb34be-image-1498064942606.gif)
       courseA_artist_loops10_2018: |-
         ## È ora di tornare a terra. Aiutami a posizionare le pietre così non cado in acqua!
 
-        ![expandable](https://images.code.org/d3213d375d0271e114aa4313cdeb34be-image-1498064942606.gif)
+        ![expandable](https://images.letron.vip/d3213d375d0271e114aa4313cdeb34be-image-1498064942606.gif)
       courseA_artist_loops11: "## Aiutami a costruire i gradini per vedere la barca
-        che salpa.\r \n\r \n![expandable](https://images.code.org/ed19f00a2350b186fbe86ea805e17925-image-1498065450651.gif)"
+        che salpa.\r \n\r \n![expandable](https://images.letron.vip/ed19f00a2350b186fbe86ea805e17925-image-1498065450651.gif)"
       courseA_artist_loops11_2018: "## Aiutami a costruire i gradini per vedere la
-        barca che salpa.\r \n\r \n![expandable](https://images.code.org/ed19f00a2350b186fbe86ea805e17925-image-1498065450651.gif)"
+        barca che salpa.\r \n\r \n![expandable](https://images.letron.vip/ed19f00a2350b186fbe86ea805e17925-image-1498065450651.gif)"
       courseA_artist_loops12: |-
         L'artista ha visto qualcosa di divertente al largo. Disegna ciò che pensi abbia visto. Quando sei soddisfatto, premi "Termina" per completare la lezione.
 
         ___
         ### Alcune idee:
 
-        ![](https://images.code.org/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
-        ![](https://images.code.org/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
-        ![](https://images.code.org/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
-        ![](https://images.code.org/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
+        ![](https://images.letron.vip/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
+        ![](https://images.letron.vip/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
+        ![](https://images.letron.vip/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
+        ![](https://images.letron.vip/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
       courseA_artist_loops12_2018: |-
         L'artista ha visto qualcosa di divertente al largo. Disegna ciò che pensi abbia visto. Quando sei soddisfatto, premi "Termina" per completare la lezione.
 
         ___
         ### Alcune idee:
 
-        ![](https://images.code.org/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
-        ![](https://images.code.org/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
-        ![](https://images.code.org/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
-        ![](https://images.code.org/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
+        ![](https://images.letron.vip/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
+        ![](https://images.letron.vip/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
+        ![](https://images.letron.vip/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
+        ![](https://images.letron.vip/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
       courseA_artist_loops2: |-
         Aiuta l'artista a disegnare questa linea: due volte avanti.
 
-        ![](https://images.code.org/04501f26a36673460f5c8fe04e3e7686-image-1498002095108.gif)
+        ![](https://images.letron.vip/04501f26a36673460f5c8fe04e3e7686-image-1498002095108.gif)
       courseA_artist_loops2_2018: |-
         Aiuta l'artista a disegnare questa linea: due volte avanti.
 
-        ![](https://images.code.org/04501f26a36673460f5c8fe04e3e7686-image-1498002095108.gif)
+        ![](https://images.letron.vip/04501f26a36673460f5c8fe04e3e7686-image-1498002095108.gif)
       courseA_artist_loops3: |-
         Il nostro artista sta cercando di disegnare cinque volte una linea in avanti, ma non riesce a farlo correttamente. Puoi aiutarlo?
 
-        ![expandable] (https://images.code.org/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif)
+        ![expandable] (https://images.letron.vip/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif)
       courseA_artist_loops3_2018: |-
         Il nostro artista sta cercando di disegnare cinque volte una linea in avanti, ma non riesce a farlo correttamente. Puoi aiutarlo?
 
-        ![expandable] (https://images.code.org/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif)
+        ![expandable] (https://images.letron.vip/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif)
       courseA_artist_loops4: |-
         Ora usa un ciclo <xml><block type="controls_repeat_simplified_dropdown"><title
         name="TIMES" config="2-6">5</title></block></xml> per disegnare questa linea cinque volte!
 
-        ![](https://images.code.org/b2bc7f52ffdac2ad0d8e7c2d798c24df-image-1501875818062.gif)
+        ![](https://images.letron.vip/b2bc7f52ffdac2ad0d8e7c2d798c24df-image-1501875818062.gif)
       courseA_artist_loops4_2018: |-
         Ora usa un ciclo <xml><block type="controls_repeat_simplified_dropdown"><title
         name="TIMES" config="2-6">5</title></block></xml> per disegnare questa linea cinque volte!
 
-        ![](https://images.code.org/b2bc7f52ffdac2ad0d8e7c2d798c24df-image-1501875818062.gif)
+        ![](https://images.letron.vip/b2bc7f52ffdac2ad0d8e7c2d798c24df-image-1501875818062.gif)
       courseA_artist_loops5: "## Disegna una linea composta da sette segmenti. Questo
-        diventerà il nostro orizzonte. \n\n![expandable] (https://images.code.org/dc7c4317177f2b94421c5aa589c31ac7-image-1498002771889.gif)"
+        diventerà il nostro orizzonte. \n\n![expandable] (https://images.letron.vip/dc7c4317177f2b94421c5aa589c31ac7-image-1498002771889.gif)"
       courseA_artist_loops5_2018: "## Disegna una linea composta da sette segmenti.
-        Questo diventerà il nostro orizzonte. \n\n![expandable] (https://images.code.org/dc7c4317177f2b94421c5aa589c31ac7-image-1498002771889.gif)"
+        Questo diventerà il nostro orizzonte. \n\n![expandable] (https://images.letron.vip/dc7c4317177f2b94421c5aa589c31ac7-image-1498002771889.gif)"
       courseA_artist_loops6: |-
         ## Mettiamo una bella collina sullo sfondo.
 
-        ![expandable] (https://images.code.org/f64d93b6d9a7d9c3edfce3c227c0dd49-image-1498062074031.gif)
+        ![expandable] (https://images.letron.vip/f64d93b6d9a7d9c3edfce3c227c0dd49-image-1498062074031.gif)
       courseA_artist_loops6_2018: |-
         ## Mettiamo una bella collina sullo sfondo.
 
-        ![expandable] (https://images.code.org/f64d93b6d9a7d9c3edfce3c227c0dd49-image-1498062074031.gif)
+        ![expandable] (https://images.letron.vip/f64d93b6d9a7d9c3edfce3c227c0dd49-image-1498062074031.gif)
       courseA_artist_loops7: |-
         ## Usa il ciclo <xml><block type="controls_repeat_simplified_dropdown"><title
         name="TIMES" config="3-10">???</title></block></xml> per aggiungere le onde all'acqua.
 
-        ![expandable](https://images.code.org/01c5f6772a8b608a2fca5f6de7e25c67-image-1498062629139.gif)
+        ![expandable](https://images.letron.vip/01c5f6772a8b608a2fca5f6de7e25c67-image-1498062629139.gif)
       courseA_artist_loops7_2018: |-
         ## Usa il ciclo <xml><block type="controls_repeat_simplified_dropdown"><title
         name="TIMES" config="3-10">???</title></block></xml> per aggiungere le onde all'acqua.
 
-        ![expandable](https://images.code.org/01c5f6772a8b608a2fca5f6de7e25c67-image-1498062629139.gif)
+        ![expandable](https://images.letron.vip/01c5f6772a8b608a2fca5f6de7e25c67-image-1498062629139.gif)
       courseA_artist_loops7_forVideo: |-
         ## Usa il ciclo <xml><block type="controls_repeat_simplified_dropdown"><title
         name="TIMES" config="3-10">???</title></block></xml> per aggiungere le onde all'acqua.
 
-        ![expandable](https://images.code.org/01c5f6772a8b608a2fca5f6de7e25c67-image-1498062629139.gif)
+        ![expandable](https://images.letron.vip/01c5f6772a8b608a2fca5f6de7e25c67-image-1498062629139.gif)
       courseA_artist_loops8: |-
         ## Ci serve una scala per salire sulla barca.
 
-        ![expandable](https://images.code.org/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
+        ![expandable](https://images.letron.vip/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
       courseA_artist_loops8_2018: |-
         ## Ci serve una scala per salire sulla barca.
 
-        ![expandable](https://images.code.org/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
+        ![expandable](https://images.letron.vip/ee90228fae25ecca1fba589b721f9120-image-1498063066878.gif)
       courseA_artist_loops9: "**Sfida:** la scaletta per scendere al molo è rotta,
-        aiutami a ripararla.\r \n\r \n![expandable](https://images.code.org/9d36df1afb6a738ba7bcff8734403ff3-image-1498063282074.gif)"
+        aiutami a ripararla.\r \n\r \n![expandable](https://images.letron.vip/9d36df1afb6a738ba7bcff8734403ff3-image-1498063282074.gif)"
       courseA_artist_loops9_2018: "**Sfida:** la scaletta per scendere al molo è rotta,
-        aiutami a ripararla.\r \n\r \n![expandable](https://images.code.org/9d36df1afb6a738ba7bcff8734403ff3-image-1498063282074.gif)"
+        aiutami a ripararla.\r \n\r \n![expandable](https://images.letron.vip/9d36df1afb6a738ba7bcff8734403ff3-image-1498063282074.gif)"
       courseA_artist_loops_challenge1: |-
         Puoi usare un ciclo per disegnare molte linee di seguito.
 
@@ -2203,7 +2203,7 @@ it:
 
         Ecco qualche idea:
 
-        ![](https://images.code.org/6e59e881e0aa1d31186e81a203655a0b-image-1501785654664.png)
+        ![](https://images.letron.vip/6e59e881e0aa1d31186e81a203655a0b-image-1501785654664.png)
       courseA_artist_loops_challenge1_2018: |-
         Puoi usare un ciclo per disegnare molte linee di seguito.
 
@@ -2211,7 +2211,7 @@ it:
 
         Ecco qualche idea:
 
-        ![](https://images.code.org/6e59e881e0aa1d31186e81a203655a0b-image-1501785654664.png)
+        ![](https://images.letron.vip/6e59e881e0aa1d31186e81a203655a0b-image-1501785654664.png)
       courseA_artist_loops_challenge2a: |-
         *"Aiutami a preparare il campeggio!"*
 
@@ -2332,52 +2332,52 @@ it:
       courseA_maze_seq1: '*"Gioca con questi blocchi e cerca di farmi arrivare fino
         a quel cattivone di un maialino!"*'
       courseA_maze_seq10: "**Sfida:** aggira la dinamite (TNT) per far arrivare l'uccellino
-        fino al maialino!\r\n\r\n![expandable](https://images.code.org/a656e421bc90e530a7e1ce636e507752-image-1497996976195.gif)"
+        fino al maialino!\r\n\r\n![expandable](https://images.letron.vip/a656e421bc90e530a7e1ce636e507752-image-1497996976195.gif)"
       courseA_maze_seq10_2018: "**Sfida:** Evita la dinamite (TNT) per far arrivare
         l'uccellino fino al maialino! "
       courseA_maze_seq11: "E ora un esercizio più breve! Muovi in una direzione, poi
         in un'altra, per far arrivare l'uccellino fino al maialino.\r\n\r\n![expandable]
-        (https://images.code.org/bb4571384fc56702704a0c9395ee3695-image-1497996380902.gif)"
+        (https://images.letron.vip/bb4571384fc56702704a0c9395ee3695-image-1497996380902.gif)"
       courseA_maze_seq11_2018: E ora un esercizio più breve! Muovi in una direzione,
         poi in un'altra, per far arrivare l'uccellino fino al maialino.
-      courseA_maze_seq12: "Prendi quel maialino! \r\n\r\n![expandable](https://images.code.org/c6ae5024441e2305db82d06679e5a281-image-1497997160569.gif)"
-      courseA_maze_seq12_2018: "Prendi quel maialino! \r\n\r\n![expandable](https://images.code.org/c6ae5024441e2305db82d06679e5a281-image-1497997160569.gif)"
+      courseA_maze_seq12: "Prendi quel maialino! \r\n\r\n![expandable](https://images.letron.vip/c6ae5024441e2305db82d06679e5a281-image-1497997160569.gif)"
+      courseA_maze_seq12_2018: "Prendi quel maialino! \r\n\r\n![expandable](https://images.letron.vip/c6ae5024441e2305db82d06679e5a281-image-1497997160569.gif)"
       courseA_maze_seq1_2018: '*"Gioca con questi blocchi e cerca di farmi arrivare
         fino a quel cattivone di un maialino!"*'
       courseA_maze_seq2: "*\"C'è un errore! Correggi il codice per farmi arrivare
-        fino al maialino.\"*\r\n\r\n\r\n![expandable](https://images.code.org/4af4959874b3ca1fdd3008dc4f77add4-image-1497994904322.gif)"
+        fino al maialino.\"*\r\n\r\n\r\n![expandable](https://images.letron.vip/4af4959874b3ca1fdd3008dc4f77add4-image-1497994904322.gif)"
       courseA_maze_seq2_2018: "*\"C'è un errore! Correggi il codice per farmi arrivare
-        fino al maialino.\"*\r\n\r\n\r\n![expandable](https://images.code.org/4af4959874b3ca1fdd3008dc4f77add4-image-1497994904322.gif)"
-      courseA_maze_seq3: "*\"Modifica il codice per farmi arrivare al maialino!\"*\r\n\r\n![expandable](https://images.code.org/4adca88dc6df7378846a91d0fb0e59d1-image-1497995239069.gif)"
-      courseA_maze_seq3_2018: "*\"Modifica il codice per farmi arrivare al maialino!\"*\r\n\r\n![expandable](https://images.code.org/4adca88dc6df7378846a91d0fb0e59d1-image-1497995239069.gif)"
+        fino al maialino.\"*\r\n\r\n\r\n![expandable](https://images.letron.vip/4af4959874b3ca1fdd3008dc4f77add4-image-1497994904322.gif)"
+      courseA_maze_seq3: "*\"Modifica il codice per farmi arrivare al maialino!\"*\r\n\r\n![expandable](https://images.letron.vip/4adca88dc6df7378846a91d0fb0e59d1-image-1497995239069.gif)"
+      courseA_maze_seq3_2018: "*\"Modifica il codice per farmi arrivare al maialino!\"*\r\n\r\n![expandable](https://images.letron.vip/4adca88dc6df7378846a91d0fb0e59d1-image-1497995239069.gif)"
       courseA_maze_seq4: "*\"C'è qualcosa di sbagliato.\"*\n\r\n\r\nELIMINA un blocco
-        per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.code.org/6af44fb0ba5ac5dd5502e2538f51fb9c-image-1497996162453.gif)"
+        per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.letron.vip/6af44fb0ba5ac5dd5502e2538f51fb9c-image-1497996162453.gif)"
       courseA_maze_seq4_2018: "*\"C'è qualcosa di sbagliato.\"*\n\r\n\r\nELIMINA un
-        blocco per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.code.org/6af44fb0ba5ac5dd5502e2538f51fb9c-image-1497996162453.gif)"
-      courseA_maze_seq5: "Prova questo da solo dall'inizio.\r\n\r\n![expandable](https://images.code.org/e4ef591b4580db478330c298d1af756f-image-1497997080163.gif)"
+        blocco per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.letron.vip/6af44fb0ba5ac5dd5502e2538f51fb9c-image-1497996162453.gif)"
+      courseA_maze_seq5: "Prova questo da solo dall'inizio.\r\n\r\n![expandable](https://images.letron.vip/e4ef591b4580db478330c298d1af756f-image-1497997080163.gif)"
       courseA_maze_seq5_2018: Fai un tentativo.
       courseA_maze_seq5a_2018: |-
         *"Maialino, maialino, aspettami che arrivo!"*
 
         Cosa puoi aggiungere alla fine di questo codice per far arrivare l'uccellino fino al maialino?
       courseA_maze_seq6: "Muovi in una direzione, poi in un'altra per far arrivare
-        l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.code.org/8f71c406afa60c6898937d950c670205-image-1497996506419.gif)"
+        l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.letron.vip/8f71c406afa60c6898937d950c670205-image-1497996506419.gif)"
       courseA_maze_seq6_2018: Muovi in una direzione, poi in un'altra per far arrivare
         l'uccellino fino al maialino!
       courseA_maze_seq7: "Cerca di capire cosa manca, quindi aggiungi i blocchi necessari
-        per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.code.org/35bdb628dabd4259b581286b071c02f3-image-1497996651260.gif)"
+        per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.letron.vip/35bdb628dabd4259b581286b071c02f3-image-1497996651260.gif)"
       courseA_maze_seq7_2018: "Cerca di capire cosa manca, quindi aggiungi i blocchi
-        necessari per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.code.org/35bdb628dabd4259b581286b071c02f3-image-1497996651260.gif)"
+        necessari per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable](https://images.letron.vip/35bdb628dabd4259b581286b071c02f3-image-1497996651260.gif)"
       courseA_maze_seq8: "Risolvi questo esercizio per far arrivare l'uccellino fino
-        al maialino!\r\n\r\n![expandable] (https://images.code.org/fb4735244f74a4e001d1fa7b5c6028f9-image-1497998330218.gif)"
+        al maialino!\r\n\r\n![expandable] (https://images.letron.vip/fb4735244f74a4e001d1fa7b5c6028f9-image-1497998330218.gif)"
       courseA_maze_seq8_2018: Risolvi questo esercizio per far arrivare l'uccellino
         fino al maialino!
       courseA_maze_seq9: "**Sfida:** Correggi gli errori in questo esercizio, aggiungendo
         i blocchi necessari per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable]
-        (https://images.code.org/3f35068dd3cf51c420a536fa078f854d-image-1497996843105.gif)"
+        (https://images.letron.vip/3f35068dd3cf51c420a536fa078f854d-image-1497996843105.gif)"
       courseA_maze_seq9_2018: "**Sfida:** Correggi gli errori in questo esercizio,
         aggiungendo i blocchi necessari per far arrivare l'uccellino fino al maialino!\r\n\r\n![expandable]
-        (https://images.code.org/3f35068dd3cf51c420a536fa078f854d-image-1497996843105.gif)"
+        (https://images.letron.vip/3f35068dd3cf51c420a536fa078f854d-image-1497996843105.gif)"
       courseA_maze_seq_challenge1: Correggi gli errori in questo programma. Togli
         i blocchi di troppo e aggiungi quelli che mancano. Fai arrivare l'uccellino
         fino al maialino!
@@ -2423,25 +2423,25 @@ it:
 
         In questo esercizio, clicca sui suggerimenti: ci troverai delle belle idee per realizzare questo progetto passo dopo passo.
 
-        ![](https://images.code.org/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
+        ![](https://images.letron.vip/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
       courseA_playlab_events_challenge1_2018: |-
         Cliccando sul gatto apparirà l'uccellino! Puoi scrivere un programma per mostrare anche gli altri personaggi?
 
         In questo esercizio, clicca sui suggerimenti: ci troverai delle belle idee per realizzare questo progetto passo dopo passo.
 
-        ![](https://images.code.org/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
+        ![](https://images.letron.vip/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
       courseA_playlab_events_challenge2: |-
         Dai ad ognuno di loro qualcosa da fare quando ci clicchi sopra. Cosa diranno gli animali? Cos'altro succederà?
 
         In questo esercizio, clicca sui suggerimenti: ci troverai delle belle idee!
 
-        ![](https://images.code.org/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
+        ![](https://images.letron.vip/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
       courseA_playlab_events_challenge2_2018: |-
         Dai ad ognuno di loro qualcosa da fare quando ci clicchi sopra. Cosa diranno gli animali? Cos'altro succederà?
 
         In questo esercizio, clicca sui suggerimenti: ci troverai delle belle idee!
 
-        ![](https://images.code.org/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
+        ![](https://images.letron.vip/d42103835215d4b070f7f463b5e3073c-image-1494531456899.30.19 PM.png)
       courseB_Scrat_ramp1_2018: "Per far arrivare Scrat fino alla ghianda, trascina
         il blocco <xml><block type=\"maze_moveEast\"/></xml> sotto al blocco <xml><block
         type=\"when_run\"/></xml>, poi premi \"▶ Esegui\"!  \n\n\n---\n"
@@ -2465,20 +2465,20 @@ it:
         ___
         ### Idee:
 
-        ![](https://images.code.org/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
-        ![](https://images.code.org/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
-        ![](https://images.code.org/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
-        ![](https://images.code.org/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
+        ![](https://images.letron.vip/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
+        ![](https://images.letron.vip/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
+        ![](https://images.letron.vip/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
+        ![](https://images.letron.vip/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
       courseB_artist_loops10_2018: |-
         Usa tutto quello che hai imparato per disegnare ciò che pensi che l'artista vedrà quando arriverà a casa.
 
         ___
         ### Idee:
 
-        ![](https://images.code.org/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
-        ![](https://images.code.org/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
-        ![](https://images.code.org/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
-        ![](https://images.code.org/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
+        ![](https://images.letron.vip/b329e035f02cf0273987a530d4ff93b3-image-1497998147979.gif)
+        ![](https://images.letron.vip/126edbb030b78586c620fea11bd9c867-image-1497998152966.gif)
+        ![](https://images.letron.vip/a4fc9deba0ecdae5f434a828708d997b-image-1497998171788.gif)
+        ![](https://images.letron.vip/55271714dcfc01bf49441cdf3bf17649-image-1497998176661.gif)
       courseB_artist_loops6: Dietro i cespugli c'è una bellissima pianta rampicante
         fiorita. Riesci ad salire e capire dove va a finire?
       courseB_artist_loops6_2018: Dietro i cespugli c'è una bellissima pianta rampicante
@@ -2568,10 +2568,10 @@ it:
 
         Cerca di capire cosa fa ogni blocco.
       courseB_playlab_events3: Usa un evento per fare in modo che il drago cambi umore
-        in modo casuale ![](https://images.code.org/c365e065614fea592612264f33624c09-image-1475698889081.17.53.png)
+        in modo casuale ![](https://images.letron.vip/c365e065614fea592612264f33624c09-image-1475698889081.17.53.png)
         quando clicchi su di lei.
       courseB_playlab_events3_2018: Usa un evento per fare in modo che il drago cambi
-        umore in modo casuale ![](https://images.code.org/c365e065614fea592612264f33624c09-image-1475698889081.17.53.png)
+        umore in modo casuale ![](https://images.letron.vip/c365e065614fea592612264f33624c09-image-1475698889081.17.53.png)
         quando clicchi su di lei.
       courseB_playlab_events4: |-
         È il momento del cavaliere!
@@ -2617,63 +2617,63 @@ it:
         Facciamo in modo che gli animali scompaiano quando si clicca su di loro.
         Esegui il programma già pronto e prova a giocare con il cane, poi associa questo divertente effetto anche agli altri animali. Puoi anche aggiungere dei suoni e un punteggio per rendere più realistica la gara tra animali!
 
-        ![](https://images.code.org/d48437a0b08be90110541e0ef21076e0-image-1497907722000.gif)
+        ![](https://images.letron.vip/d48437a0b08be90110541e0ef21076e0-image-1497907722000.gif)
       courseB_playlab_events_challenge2_2018: |-
         Facciamo in modo che gli animali scompaiano quando si clicca su di loro.
         Esegui il programma già pronto e prova a giocare con il cane, poi associa questo divertente effetto anche agli altri animali. Puoi anche aggiungere dei suoni e un punteggio per rendere più realistica la gara tra animali!
 
-        ![](https://images.code.org/d48437a0b08be90110541e0ef21076e0-image-1497907722000.gif)
+        ![](https://images.letron.vip/d48437a0b08be90110541e0ef21076e0-image-1497907722000.gif)
       courseB_starWars_prog1: |-
-        ![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"Vai a recuperare i rottami metallici, BB-8!"_
+        ![Rey](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"Vai a recuperare i rottami metallici, BB-8!"_
 
-        Stai attento alle barriere e alle casse. Il rottame metallico assomiglia a questo: ![picture of scrap metal](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
-      courseB_starWars_prog10: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        Stai attento alle barriere e alle casse. Il rottame metallico assomiglia a questo: ![picture of scrap metal](https://images.letron.vip/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+      courseB_starWars_prog10: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Riesci a raccoglierli tutti?"_'
-      courseB_starWars_prog10_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog10_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Riesci a raccoglierli tutti?"_'
-      courseB_starWars_prog11: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog11: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Continua!"_'
-      courseB_starWars_prog11_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog11_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Continua!"_'
       courseB_starWars_prog1_2018: |-
-        ![Rey](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"Vai a recuperare i rottami metallici, BB-8!"_
+        ![Rey](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)_"Vai a recuperare i rottami metallici, BB-8!"_
 
-        Stai attento alle barriere e alle casse. Il rottame metallico assomiglia a questo: ![picture of scrap metal](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
-      courseB_starWars_prog2: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        Stai attento alle barriere e alle casse. Il rottame metallico assomiglia a questo: ![picture of scrap metal](https://images.letron.vip/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)
+      courseB_starWars_prog2: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Recupera tutto il metallo."_'
-      courseB_starWars_prog2_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog2_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Recupera tutto il metallo."_'
-      courseB_starWars_prog3: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog3: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Continua, BB-8!"_'
-      courseB_starWars_prog3_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog3_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Continua, BB-8!"_'
-      courseB_starWars_prog4: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog4: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Prendili, BB-8!"_'
-      courseB_starWars_prog4_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog4_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Prendili, BB-8!"_'
-      courseB_starWars_prog5: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog5: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Riesci a raccoglierli tutti?"_'
-      courseB_starWars_prog5_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog5_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Riesci a raccoglierli tutti?"_'
-      courseB_starWars_prog6: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog6: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Ce la puoi fare!"_'
-      courseB_starWars_prog6_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog6_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Ce la puoi fare!"_'
-      courseB_starWars_prog7: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog7: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Vai a prenderli!"_'
-      courseB_starWars_prog7_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog7_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Vai a prenderli!"_'
       courseB_starWars_prog8: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Contina così, BB-8."_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Contina così, BB-8."_
 
         **Sfida:** Recupera tutti i rottami metallici.
       courseB_starWars_prog8_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Contina così, BB-8."_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Contina così, BB-8."_
 
         **Sfida:** Recupera tutti i rottami metallici.
-      courseB_starWars_prog9: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog9: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Ce la puoi fare!"_'
-      courseB_starWars_prog9_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseB_starWars_prog9_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Ce la puoi fare!"_'
       courseC19_playLab_EOC1: |-
         È sorprendente quanto tu abbia imparato! Ora creiamo insieme un vero videogioco.
@@ -2699,23 +2699,23 @@ it:
       courseC_PlayLab_events7: |-
         Il blocco `ripeti per sempre` ti permette di ripetere del codice per sempre. Usa questo blocco per muovere ripetutamente il dinosauro (personaggio 2) in alto e in basso di 400 pixel.
 
-        ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
+        ![](https://images.letron.vip/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events7_2018: |-
         Il blocco `ripeti per sempre` ti permette di ripetere del codice per sempre. Usa questo blocco per muovere ripetutamente il dinosauro (personaggio 2) in alto e in basso di 400 pixel.
 
-        ![](https://images.code.org/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
+        ![](https://images.letron.vip/0cbe6dd5f4e2251e3f121dbabc0cc19d-image-1523040103822.com-resize.gif)
       courseC_PlayLab_events8: |-
         Puoi fare in modo che il pinguino (personaggio 1) riproduca il suono di "un colpo" e dica "Ahi!" quando sbatte contro il dinosauro?
 
         Quando hai finito, esegui il gioco e falli scontrare.
 
-        ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
+        ![](https://images.letron.vip/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
       courseC_PlayLab_events8_2018: |-
         Puoi fare in modo che il pinguino (personaggio 1) riproduca il suono di "un colpo" e dica "Ahi!" quando sbatte contro il dinosauro?
 
         Quando hai finito, esegui il gioco e falli scontrare.
 
-        ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
+        ![](https://images.letron.vip/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
       courseC_PlayLab_events_challenge1_2018: |-
         Usa un nuovo blocco per fare in modo che il pinguino ritorni automaticamente all'inizio quando sbatte contro il dinosauro e quando segna un punto. Questo renderà il tuo gioco più sfidante e divertente!
 
@@ -2731,7 +2731,7 @@ it:
       courseC_artist_loops1a: |-
         **Tempo di giocare:** Facciamo qualcosa di più intrigante, un passo alla volta! Puoi creare ciò che preferisci, ma se vuoi ti mostriamo come fare un disegno come questo!
 
-        ![expandable](https://images.code.org/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
+        ![expandable](https://images.letron.vip/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
 
         Usa il blocco `salta a 200 avanti 200 in basso` per portarti al centro dell'area di gioco, quindi usa il blocco `disegna un adesivo` per far apparire un uccello.
 
@@ -2753,54 +2753,54 @@ it:
         Ora aggiungi l'adesivo di un pipistrello subito dopo l'uccello per ottenere un'immagine come quella qui sotto.
         ___
 
-        ![expandable](https://images.code.org/3aa37f679eabc7a5a337291db614dd98-image-1496711069351.03.49.png)
+        ![expandable](https://images.letron.vip/3aa37f679eabc7a5a337291db614dd98-image-1496711069351.03.49.png)
       courseC_artist_loops3a_2018: |-
         Troppo divertente!
 
         Ora aggiungi l'adesivo di un pipistrello subito dopo l'uccello per ottenere un'immagine come quella qui sotto.
         ___
 
-        ![expandable](https://images.code.org/3aa37f679eabc7a5a337291db614dd98-image-1496711069351.03.49.png)
+        ![expandable](https://images.letron.vip/3aa37f679eabc7a5a337291db614dd98-image-1496711069351.03.49.png)
       courseC_artist_loops4a: |-
         Aggiungi un blocco al tuo codice in modo che l'artista faccia un salto avanti di 75 pixel tra la stampa dell'uccello e quella del pipistrello. In questo esercizio assicurati di avere il blocco `salta a 200 avanti 200 in basso` all'interno del ciclo, in modo da rimanere al centro dello schermo.
         __
 
-        ![expandable](https://images.code.org/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
+        ![expandable](https://images.letron.vip/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
       courseC_artist_loops4a_2018: |-
         Modifica il programma in modo che l'artista faccia un salto avanti di 75 pixel tra la stampa dell'uccello e quella del pipistrello. In questo esercizio assicurati di usare il blocco `salta a 200 avanti 200 in basso` all'interno del ciclo, in modo da rimanere al centro dello schermo!
         ___
 
-        ![expandable](https://images.code.org/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
+        ![expandable](https://images.letron.vip/5b67ed8d878d6c2a5009eee054427fd5-image-1496711253365.05.35.png)
       courseC_artist_loops5a: |-
         Cosa accade se sostituisci uno o entrambi gli adesivi con creature differenti?
         ___
-        ![expandable](https://images.code.org/cadb5e244db64a781bc02b55f2e7ccca-image-1496711397989.08.28.png)
+        ![expandable](https://images.letron.vip/cadb5e244db64a781bc02b55f2e7ccca-image-1496711397989.08.28.png)
       courseC_artist_loops5a_2018: |-
         Cosa accade se sostituisci uno o entrambi gli adesivi con creature differenti?
         ___
-        ![expandable](https://images.code.org/cadb5e244db64a781bc02b55f2e7ccca-image-1496711397989.08.28.png)
+        ![expandable](https://images.letron.vip/cadb5e244db64a781bc02b55f2e7ccca-image-1496711397989.08.28.png)
       courseC_artist_loops5b: |-
         Cosa accade quando `vai avanti` e poi `vai indietro` di 100, 200 o 400 pixel all'interno del ciclo?
         - Per realizzare un'opera d'arte, prova ad usare il blocco `imposta lo schema` prima di iniziare il ciclo!
         ___
-        ![expandable](https://images.code.org/d523de02389fd23db3029327c03b727d-image-1497039953252.24.18.png)
+        ![expandable](https://images.letron.vip/d523de02389fd23db3029327c03b727d-image-1497039953252.24.18.png)
       courseC_artist_loops5b_2018: |-
         Cosa accade quando `vai avanti` e poi `vai indietro` di 100, 200 o 400 pixel all'interno del ciclo?
         - Per realizzare un'opera d'arte, prova ad usare il blocco `imposta lo schema` prima di iniziare il ciclo!
         ___
-        ![expandable](https://images.code.org/d523de02389fd23db3029327c03b727d-image-1497039953252.24.18.png)
+        ![expandable](https://images.letron.vip/d523de02389fd23db3029327c03b727d-image-1497039953252.24.18.png)
       courseC_artist_loops6a: |-
         Aggiungi un terzo adesivo dove preferisci all'interno del ciclo! Come ti sembra adesso?
         - Per avere ancora più varietà, cambia anche lo schema del pennello!
         ___
 
-        ![expandable](https://images.code.org/b0f999ef4b9ab6bd9780e9fbac07dc8d-image-1497040845047.39.55.png)
+        ![expandable](https://images.letron.vip/b0f999ef4b9ab6bd9780e9fbac07dc8d-image-1497040845047.39.55.png)
       courseC_artist_loops6a_2018: |-
         Aggiungi un terzo adesivo dove preferisci all'interno del ciclo! Come ti sembra adesso?
         - Per avere ancora più varietà, cambia anche lo schema del pennello!
         ___
 
-        ![expandable](https://images.code.org/b0f999ef4b9ab6bd9780e9fbac07dc8d-image-1497040845047.39.55.png)
+        ![expandable](https://images.letron.vip/b0f999ef4b9ab6bd9780e9fbac07dc8d-image-1497040845047.39.55.png)
       courseC_artist_loops7a: |-
         Prova a modificare il ciclo `ripeti ... volte` in modo che venga eseguito un differente numero di volte. Di quanto devi far girare l'artista per continuare a compiere un giro completo?
         - Prova a cambiare il numero di rotazioni
@@ -2809,7 +2809,7 @@ it:
         ___
         Questa immagine usa un pirata, un ninja e una giraffa. Il ciclo si ripete 18 volte con curve di 20 gradi ciascuna.
 
-        ![expandable](https://images.code.org/99411638acb44e8a7ba5b9696fe11fa4-image-1496714175039.53.24.png)
+        ![expandable](https://images.letron.vip/99411638acb44e8a7ba5b9696fe11fa4-image-1496714175039.53.24.png)
       courseC_artist_loops7a_2018: |-
         Prova a modificare il ciclo `ripeti ... volte` in modo che venga eseguito un differente numero di volte. Di quanto devi far girare l'artista per continuare a compiere un giro completo?
         - Prova a cambiare il numero di rotazioni
@@ -2818,19 +2818,19 @@ it:
         ___
         Questa immagine usa un pirata, un ninja e una giraffa. Il ciclo si ripete 18 volte con curve di 20 gradi ciascuna.
 
-        ![expandable](https://images.code.org/99411638acb44e8a7ba5b9696fe11fa4-image-1496714175039.53.24.png)
+        ![expandable](https://images.letron.vip/99411638acb44e8a7ba5b9696fe11fa4-image-1496714175039.53.24.png)
       courseC_artist_loops8a: |-
         Ora crea qualcosa di tuo. Cosa accade se realizzi due cerchi distinti con adesivi diversi?
         ___
         Ti serve un'idea? Prova a fare un disegno come questo.
 
-        ![expandable](https://images.code.org/d8e0ad6294aa5e04e4aab56631a6b50b-image-1496714582863.02.14.png)
+        ![expandable](https://images.letron.vip/d8e0ad6294aa5e04e4aab56631a6b50b-image-1496714582863.02.14.png)
       courseC_artist_loops8a_2018: |-
         Ora crea qualcosa di tuo. Cosa accade se realizzi due cerchi distinti con adesivi diversi?
         ___
         Ti serve un'idea? Prova a fare un disegno come questo.
 
-        ![expandable](https://images.code.org/d8e0ad6294aa5e04e4aab56631a6b50b-image-1496714582863.02.14.png)
+        ![expandable](https://images.letron.vip/d8e0ad6294aa5e04e4aab56631a6b50b-image-1496714582863.02.14.png)
       courseC_artist_loopsPre1a: |-
         Ora, metti questo codice in un ciclo `ripeti ... volte` è fallo ripetere per **6** volte.
         - Nota che abbiamo aggiunto una curva di 60 gradi alla fine del codice all'interno del ciclo per ottenere una rotazione completa.
@@ -3272,89 +3272,89 @@ it:
         ultimi esercizi per completare questo livello."
       courseC_puppy_loops8courseC_maze_loops8: "**Sfida:** Metti a frutto ciò che
         hai imparato negli ultimi esercizi per completare questo livello."
-      courseC_starWars_loops1: "![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops1: "![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _\"Vai a recuperare i rottami metallici, BB-8!\"_ \n\nUsa cinque blocchi uguali
-        per recuperare i rottami metallici che brillano come questo: ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)"
+        per recuperare i rottami metallici che brillano come questo: ![](https://images.letron.vip/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)"
       courseC_starWars_loops10: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Vai BB-8!"_
 
         Stai andando alla grande! Continua così!
       courseC_starWars_loops10_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Vai BB-8!"_
 
         Stai andando alla grande! Continua così!
       courseC_starWars_loops11: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua, BB-8!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua, BB-8!"_
 
         Ci sei quasi! Questa volta scegli il percorso che preferisci!
       courseC_starWars_loops11_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua, BB-8!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua, BB-8!"_
 
         Ci sei quasi! Questa volta scegli il percorso che preferisci!
-      courseC_starWars_loops1_2018: "![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops1_2018: "![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _\"Vai a recuperare i rottami metallici, BB-8!\"_ \n\nUsa cinque blocchi uguali
-        per recuperare i rottami metallici che brillano come questo: ![](https://images.code.org/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)"
+        per recuperare i rottami metallici che brillano come questo: ![](https://images.letron.vip/5665566ab779d9b63d03cf8ba127a98f-image-1500570606896.gif)"
       courseC_starWars_loops2: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Vai BB-8!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Vai BB-8!"_
 
         Per recuperare tutti i rottami metallici, prova a creare un ciclo `ripeti ... volte` con un solo blocco all'interno.
       courseC_starWars_loops2_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Vai BB-8!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Vai BB-8!"_
 
         Per recuperare tutti i rottami metallici, prova a creare un ciclo `ripeti ... volte` con un solo blocco all'interno.
       courseC_starWars_loops4: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
 
         In questo esercizio, due cicli `ripeti ... volte` ti aiuteranno a far in modo che BB-8 recuperi tutti i rottami metallici con il minor numero possibile di blocchi!
       courseC_starWars_loops4_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
 
         In questo esercizio, due cicli `ripeti ... volte` ti aiuteranno a far in modo che BB-8 recuperi tutti i rottami metallici con il minor numero possibile di blocchi!
-      courseC_starWars_loops5: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops5: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Vai BB-8!"_'
-      courseC_starWars_loops5_2018: '![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
+      courseC_starWars_loops5_2018: '![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png)
         _"Vai BB-8!"_'
       courseC_starWars_loops6: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Riesci a prenderli tutti?"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Riesci a prenderli tutti?"_
 
         I cicli funzionano anche con più di un blocco al loro interno!  Puoi far ripetere questa sequenza?
       courseC_starWars_loops6_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Riesci a prenderli tutti?"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Riesci a prenderli tutti?"_
 
         I cicli funzionano anche con più di un blocco al loro interno!  Puoi far ripetere questa sequenza?
       courseC_starWars_loops7: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Puoi farcela!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Puoi farcela!"_
 
         Riesci a recuperare tutti i rottami metallici usando un solo ciclo? Prova a programmare tutto con blocchi singoli, poi cerca il codice ripetuto da mettere nel ciclo.
       courseC_starWars_loops7_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Puoi farcela!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Puoi farcela!"_
 
         Riesci a recuperare tutti i rottami metallici usando un solo ciclo? Prova a programmare tutto con blocchi singoli, poi cerca il codice ripetuto da mettere nel ciclo.
       courseC_starWars_loops8: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
 
         **Sfida:** Metti a frutto ciò che hai imparato negli ultimi esercizi per completare questo esercizio.
       courseC_starWars_loops8_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua così, BB-8."_
 
         **Sfida:** Metti a frutto ciò che hai imparato negli ultimi esercizi per completare questo esercizio.
       courseC_starWars_loops9: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua!"_
 
         Sfrutta ciò che hai imparato per recuperare tutti i rottami metallici!
       courseC_starWars_loops9_2018: |-
-        ![](https://images.code.org/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua!"_
+        ![](https://images.letron.vip/51347264025d71343bb2b5bd6b49813b-image-1500569514703.png) _"Continua!"_
 
         Sfrutta ciò che hai imparato per recuperare tutti i rottami metallici!
-      courseD_Frozen_nested1: "![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_\"Ciao,
+      courseD_Frozen_nested1: "![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_\"Ciao,
         sono Elsa di Arendelle. Aiutami a disegnare una forma.\"_\n\nDisegna una piccola
         figura, larga tra **20 e 50 pixel**.  Può avere la forma che preferisci.\n<hr/>\n\nPotresti
-        realizzare un poligono, come uno di questi:\n![](https://images.code.org/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)\n![](https://images.code.org/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)\n![](https://images.code.org/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
-        \ \n\n\nO anche una figura astratta, come una di queste:\n![](https://images.code.org/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)\n![](https://images.code.org/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)\n![](https://images.code.org/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)\n"
+        realizzare un poligono, come uno di questi:\n![](https://images.letron.vip/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)\n![](https://images.letron.vip/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)\n![](https://images.letron.vip/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
+        \ \n\n\nO anche una figura astratta, come una di queste:\n![](https://images.letron.vip/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)\n![](https://images.letron.vip/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)\n![](https://images.letron.vip/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)\n"
       courseD_Frozen_nested2: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
 
         Ora parti dalla tua figura e disegnane due o tre di fila saltando in avanti un certo numero di pixel.
 
@@ -3365,48 +3365,48 @@ it:
 
         La tua fila potrebbe venire come una di queste:
 
-        ![](https://images.code.org/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
-        ![](https://images.code.org/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
-        ![](https://images.code.org/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
+        ![](https://images.letron.vip/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
+        ![](https://images.letron.vip/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
+        ![](https://images.letron.vip/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
         <br/>  <br/>
 
         Oppure, le tue figure potrebbero distribuirsi come una di queste:
 
-        ![](https://images.code.org/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
-        ![](https://images.code.org/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
-        ![](https://images.code.org/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
+        ![](https://images.letron.vip/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
+        ![](https://images.letron.vip/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
+        ![](https://images.letron.vip/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
       courseD_Frozen_nested3: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
 
         Ora usa il blocco `salta a 200 avanti 200 in basso` per far saltare di nuovo Elsa al centro e farla girare intorno per disegnare la fila di figure in diverse direzioni.
 
         Che fiocchi spettacolari che puoi realizzare!
         <hr/>
         Guarda questi esempi con diversi poligoni:
-        ![](https://images.code.org/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
-        ![](https://images.code.org/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
-        ![](https://images.code.org/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
+        ![](https://images.letron.vip/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
+        ![](https://images.letron.vip/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
+        ![](https://images.letron.vip/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
 
         Delle forme astratte potrebbero rendere il fiocco di neve più simile a uno di questi:
-        ![](https://images.code.org/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
-        ![](https://images.code.org/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
-        ![](https://images.code.org/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
+        ![](https://images.letron.vip/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
+        ![](https://images.letron.vip/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
+        ![](https://images.letron.vip/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
       courseD_Frozen_nested4: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
 
         Prova a sovrapporre due diverse figure di fiocchi di neve una sopra l'altra con una piccola rotazione tra le due - guarda cosa ottieni!
-      courseD_Frozen_nested5: '![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      courseD_Frozen_nested5: '![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _"Dai spazio alla tua creatività, divertiti con forme e angoli per disegnare
         nuovi fiocchi di neve! "_'
       courseD_Frozen_nested6: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
 
 
-        <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
+        <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
         Disegna uno schema a scalinata che utilizza angoli compresi tra 75 e 105 gradi -- ma assicurati che le curve a sinistra e a destra utilizzino lo stesso angolo.
         (Dopo scoprirai perché.)
       courseD_Frozen_nested7: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
 
         Ruota di 180 gradi e disegna di nuovo lo stesso schema a scalinata!
 
@@ -3416,9 +3416,9 @@ it:
 
         Ecco un esempio di scale che usa un angolo di 76 gradi:
 
-        ![](https://images.code.org/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
+        ![](https://images.letron.vip/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
       courseD_Frozen_nested8: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
 
         Fai ruotare questa figura 5 o 6 volte fino a formare un cerchio.
         - Se scegli di farla ruotare 5 volte, usa angoli di 72 gradi.
@@ -3427,31 +3427,31 @@ it:
 
         Ecco un esempio di Elsa che fa ruotare uno schema 6 volte:
 
-        ![](https://images.code.org/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
+        ![](https://images.letron.vip/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
       courseD_Frozen_nested9: |
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
 
         Fai qualche prova con ciò che hai creato. Disegna quello che vuoi!
         - Cosa succede se usi due angoli diversi nello schema a scalinata?
         - Cosa succede se rendi lo schema a rombo più lungo o più corto?
         - Cosa sembra ciò che ottieni disegnando due fiocchi di neve uno sopra l'altro?
-      courseD_artist_1_2018: "![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      courseD_artist_1_2018: "![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _“Ciao, sono Elsa di Arendelle, aiutami a disegnare una bella forma.\"_\n\nDisegna
         un esagono con lati lunghi 50 pixel. \n\n---\n\nPer disegnare un esagono dovrai:\n-
         andare avanti di **50** pixel\n- girare a destra di **60** gradi\n- ripetere
         per un totale di **6** volte\n\n"
-      courseD_artist_2_2018: "![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      courseD_artist_2_2018: "![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _“Buon lavoro!\"_\n\nDopo l'esagono, gira a destra di **60** gradi, quindi
         disegna una linea lunga **150** pixel.\n\nTermina riportando Elsa al centro
         dell'area di gioco, usando il blocco <xml><block type=\"jump_to\"><title name=\"VALUE\">nel
         mezzo al centro</title></block></xml>. \n\n\n"
       courseD_artist_3_2018: |
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Creiamo un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Creiamo un fiocco di neve."_
 
 
         Per trasformare questo codice in un fiocco di neve, annida tutto il codice all'interno di un ciclo `ripeti ... volte` ed eseguilo per un totale di **6** volte. Dovresti aggiungere solo un blocco.
       courseD_artist_4_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Rendiamo i fiocchi di neve speciali!"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Rendiamo i fiocchi di neve speciali!"_
 
         **Ispirazione:** Dove devi aggiungere il codice se vuoi disegnare un piccolo quadrato sulla punta di ogni linea lunga?
 
@@ -3463,7 +3463,7 @@ it:
         - dovresti girare di 90 gradi
         - ripeti queste azioni per un totale di 4 volte
       courseD_artist_5_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Prova a modificare le forme o le lunghezze delle linee per personalizzare il tuo fiocco di neve! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Prova a modificare le forme o le lunghezze delle linee per personalizzare il tuo fiocco di neve! "_
 
         <br/>
 
@@ -3471,7 +3471,7 @@ it:
 
         - prova a invertire la forma nel mezzo del fiocco di neve con quella alla termine di ogni linea!
       courseD_artist_6_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a zig-zag."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a zig-zag."_
 
         <br/>
 
@@ -3481,7 +3481,7 @@ it:
         - Dove devi mettere un nuovo blocco `ripeti ... volte` per realizzare questo nuovo effetto?
         - Quante volte devi ripetere lo schema di 2 linee brevi per ottenerne 6 in totale?
       courseD_artist_7_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
 
         Ruota di 180 gradi e disegna di nuovo lo stesso schema a scalinata!
 
@@ -3491,9 +3491,9 @@ it:
 
         Ecco un esempio di scale che usa un angolo di 76 gradi:
 
-        ![](https://images.code.org/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
+        ![](https://images.letron.vip/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
       courseD_artist_8_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
 
         Fai ruotare questa figura 5 o 6 volte fino a formare un cerchio.
         - Se scegli di farla ruotare 5 volte, usa angoli di 72 gradi.
@@ -3502,9 +3502,9 @@ it:
 
         Ecco un esempio di Elsa che fa ruotare uno schema 6 volte:
 
-        ![](https://images.code.org/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
+        ![](https://images.letron.vip/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
       courseD_artist_9_2018: |
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
 
         Fai qualche prova con ciò che hai creato. Disegna quello che vuoi!
         - Cosa succede se usi due angoli diversi nello schema a scalinata?
@@ -3539,15 +3539,15 @@ it:
       courseD_artist_binary_challenge2: |-
         Questa griglia è costituita da 256 bit - questo significa che poche modifiche possono causare grandi problemi. Sei abbastanza perseverante per risistemare questo logo?
 
-        ![](https://images.code.org/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
+        ![](https://images.letron.vip/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
       courseD_artist_binary_challenge2_2018: |-
         Questa griglia è costituita da 256 bit - questo significa che poche modifiche possono causare grandi problemi. Sei abbastanza perseverante per risistemare questo logo?
 
-        ![](https://images.code.org/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
+        ![](https://images.letron.vip/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
       courseD_artist_binary_challenge3: |-
         Questa griglia è costituita da 256 bit - questo significa che poche modifiche possono causare grandi problemi. Sei abbastanza perseverante per risistemare questo logo?
 
-        ![](https://images.code.org/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
+        ![](https://images.letron.vip/74e15f513982b47762dd33ebbc21e5e9-image-1498776314610.png)
       courseD_artist_functions2: |-
         Le funzioni ti permettono di definire nuovi blocchi!
 
@@ -3576,7 +3576,7 @@ it:
       courseD_artist_functions7: "Sposta il codice che disegna la finestra all'interno
         del blocco che definisce la funzione `draw a window` (*disegna una finestra*).
         Ora, potremo richiamare la funzione ogni volta che ci serve disegnare una
-        finestra senza dover scrivere nuovamente il codice.\n\n<img src=\"https://images.code.org/57c016bcafe697e6ddb196e0f13c9ef9-image-1468602046641.gif\"
+        finestra senza dover scrivere nuovamente il codice.\n\n<img src=\"https://images.letron.vip/57c016bcafe697e6ddb196e0f13c9ef9-image-1468602046641.gif\"
         width=\"450px\"/>\n<br/> \n\nProva a risolvere questo esercizio creando la
         funzione `disegna una finestra` e richiamandola cinque volte. Stai attento
         alla porta!\n\n- Le finestre del piano di sopra distano 50 pixel una dall'altra.\n-
@@ -3656,17 +3656,17 @@ it:
 
         Hai bisogno di un'idea? Prova a realizzare uno di questi:
 
-        ![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)
-        ![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)
-        ![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
+        ![expandable](https://images.letron.vip/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)
+        ![expandable](https://images.letron.vip/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)
+        ![expandable](https://images.letron.vip/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
       courseD_artist_nestedLoopsFP_2018: |-
         Adesso è il tuo turno. Usa le tecniche che hai imparato per realizzare qualcosa che ti piaccia!
 
         Hai bisogno di un'idea? Prova a realizzare uno di questi:
 
-        ![expandable](https://images.code.org/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)
-        ![expandable](https://images.code.org/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)
-        ![expandable](https://images.code.org/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
+        ![expandable](https://images.letron.vip/7ac814e356b3548f57bfab8a9eb31dff-image-1497993113904.png)
+        ![expandable](https://images.letron.vip/bd29d35c9a8abf9d27591b90b0f3ec0f-image-1497993121072.png)
+        ![expandable](https://images.letron.vip/2970f34785e51ae98be7aff6fe0827ce-image-1497993126938.png)
       courseD_artist_nestedLoops_challenge1: |-
         Riesci a scoprire come realizzare un'immagine come questa?
 
@@ -3679,66 +3679,66 @@ it:
         - Entrambe le forme hanno **lati di 50 pixel**.
         - Gli *ottagoni* si realizzano con angoli di **45 gradi**.
         - I *triangoli* si realizzano con angoli di **120 gradi**.
-      courseD_artist_project1: "![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_\"Ciao,
+      courseD_artist_project1: "![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_\"Ciao,
         sono Elsa di Arendelle. Aiutami a disegnare una forma.\"_\n\nDisegna una piccola
         figura, larga tra **20 e 50 pixel**.  Può avere la forma che preferisci.\n<hr/>\n\nPotresti
-        realizzare un poligono, come uno di questi:\n![](https://images.code.org/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)\n![](https://images.code.org/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)\n![](https://images.code.org/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
-        \ \n\n\nO anche una figura astratta, come una di queste:\n![](https://images.code.org/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)\n![](https://images.code.org/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)\n![](https://images.code.org/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)\n"
+        realizzare un poligono, come uno di questi:\n![](https://images.letron.vip/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)\n![](https://images.letron.vip/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)\n![](https://images.letron.vip/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
+        \ \n\n\nO anche una figura astratta, come una di queste:\n![](https://images.letron.vip/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)\n![](https://images.letron.vip/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)\n![](https://images.letron.vip/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)\n"
       courseD_artist_project1_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_"Ciao, sono Elsa di Arendelle. Aiutami a disegnare una forma."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_"Ciao, sono Elsa di Arendelle. Aiutami a disegnare una forma."_
 
         Disegna una piccola figura, larga tra **20 e 50 pixel**.  Può avere la forma che preferisci.
         <hr/>
 
         Potresti realizzare un poligono, come uno di questi:
-        ![](https://images.code.org/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)
-        ![](https://images.code.org/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)
-        ![](https://images.code.org/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
+        ![](https://images.letron.vip/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)
+        ![](https://images.letron.vip/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)
+        ![](https://images.letron.vip/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
 
 
         O anche una figura astratta, come una di queste:
-        ![](https://images.code.org/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)
-        ![](https://images.code.org/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)
-        ![](https://images.code.org/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)
+        ![](https://images.letron.vip/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)
+        ![](https://images.letron.vip/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)
+        ![](https://images.letron.vip/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)
       courseD_artist_project1_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_"Ciao, sono Elsa di Arendelle. Aiutami a disegnare una forma."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)_"Ciao, sono Elsa di Arendelle. Aiutami a disegnare una forma."_
 
         Disegna una piccola figura, larga tra **20 e 50 pixel**.  Può avere la forma che preferisci.
         <hr/>
 
         Potresti realizzare un poligono, come uno di questi:
-        ![](https://images.code.org/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)
-        ![](https://images.code.org/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)
-        ![](https://images.code.org/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
+        ![](https://images.letron.vip/14e58b3901ca7c13319cc64f18ae5d82-image-1495765942356.21.06.png)
+        ![](https://images.letron.vip/8f79d689ea4936a3725a37025f8fda40-image-1495765942357.25.49.png)
+        ![](https://images.letron.vip/e5d222ae7356af4811aa153640af135e-image-1495765942357.26.09.png)
 
 
         O anche una figura astratta, come una di queste:
-        ![](https://images.code.org/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)
-        ![](https://images.code.org/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)
-        ![](https://images.code.org/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)
+        ![](https://images.letron.vip/8471c095219da3044b3830bebeedefb3-image-1496436883704.32.19.png)
+        ![](https://images.letron.vip/2fe6ed2db5308f4b34f7632fc6b8a64d-image-1496436883705.40.32.png)
+        ![](https://images.letron.vip/abb0947f634bc4b712d47516587a6cb8-image-1496436883705.47.21.png)
       courseD_artist_project1a: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
 
 
-        <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
+        <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
         Disegna uno schema a scalinata che utilizza angoli compresi tra 75 e 105 gradi -- ma assicurati che le curve a sinistra e a destra utilizzino lo stesso angolo.
         (Dopo scoprirai perché.)
       courseD_artist_project1a_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
 
 
-        <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
+        <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
         Disegna uno schema a scalinata che utilizza angoli compresi tra 75 e 105 gradi -- ma assicurati che le curve a sinistra e a destra utilizzino lo stesso angolo.
         (Dopo scoprirai perché.)
       courseD_artist_project1a_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Proviamo qualcosa di nuovo. Questa volta, pattina a  zig-zag"_
 
 
-        <img src="https://images.code.org/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
+        <img src="https://images.letron.vip/73b1310fca6cf884ec8fb8b026210212-image-1495839168718.16.10.png" width="200px" style="float: left; margin: 0 15px 15px 0;" />
         Disegna uno schema a scalinata che utilizza angoli compresi tra 75 e 105 gradi -- ma assicurati che le curve a sinistra e a destra utilizzino lo stesso angolo.
         (Dopo scoprirai perché.)
       courseD_artist_project2: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
 
         Ora parti dalla tua figura e disegnane due o tre di fila saltando in avanti un certo numero di pixel.
 
@@ -3749,18 +3749,18 @@ it:
 
         La tua fila potrebbe venire come una di queste:
 
-        ![](https://images.code.org/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
-        ![](https://images.code.org/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
-        ![](https://images.code.org/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
+        ![](https://images.letron.vip/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
+        ![](https://images.letron.vip/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
+        ![](https://images.letron.vip/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
         <br/>  <br/>
 
         Oppure, le tue figure potrebbero distribuirsi come una di queste:
 
-        ![](https://images.code.org/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
-        ![](https://images.code.org/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
-        ![](https://images.code.org/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
+        ![](https://images.letron.vip/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
+        ![](https://images.letron.vip/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
+        ![](https://images.letron.vip/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
       courseD_artist_project2_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
 
         Ora parti dalla tua figura e disegnane due o tre di fila saltando in avanti un certo numero di pixel.
 
@@ -3771,18 +3771,18 @@ it:
 
         La tua fila potrebbe venire come una di queste:
 
-        ![](https://images.code.org/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
-        ![](https://images.code.org/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
-        ![](https://images.code.org/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
+        ![](https://images.letron.vip/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
+        ![](https://images.letron.vip/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
+        ![](https://images.letron.vip/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
         <br/>  <br/>
 
         Oppure, le tue figure potrebbero distribuirsi come una di queste:
 
-        ![](https://images.code.org/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
-        ![](https://images.code.org/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
-        ![](https://images.code.org/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
+        ![](https://images.letron.vip/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
+        ![](https://images.letron.vip/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
+        ![](https://images.letron.vip/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
       courseD_artist_project2_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _“Ora, ne disegniamo più di una."_
 
         Ora parti dalla tua figura e disegnane due o tre di fila saltando in avanti un certo numero di pixel.
 
@@ -3793,18 +3793,18 @@ it:
 
         La tua fila potrebbe venire come una di queste:
 
-        ![](https://images.code.org/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
-        ![](https://images.code.org/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
-        ![](https://images.code.org/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
+        ![](https://images.letron.vip/cefc818d8636c7ce185738311870ff1d-image-1495820778762.39.25.png)
+        ![](https://images.letron.vip/80dc77914de15685dc696825dff61723-image-1495820778762.39.43.png)
+        ![](https://images.letron.vip/00cda078f119b1ddb0af27ae4a44b089-image-1495820778761.39.08.png)
         <br/>  <br/>
 
         Oppure, le tue figure potrebbero distribuirsi come una di queste:
 
-        ![](https://images.code.org/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
-        ![](https://images.code.org/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
-        ![](https://images.code.org/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
+        ![](https://images.letron.vip/0c4066fe7547bc1f4495aacbeecdea6d-image-1496437220447.47.04.png)
+        ![](https://images.letron.vip/4069376b784c147a8d443d49e22f783f-image-1496437220446.40.15.png)
+        ![](https://images.letron.vip/02704ab3fb3356f76c544bb64c1a7cce-image-1496437220446.32.04.png)
       courseD_artist_project2a: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
 
         Ruota di 180 gradi e disegna di nuovo lo stesso schema a scalinata!
 
@@ -3814,9 +3814,9 @@ it:
 
         Ecco un esempio di scale che usa un angolo di 76 gradi:
 
-        ![](https://images.code.org/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
+        ![](https://images.letron.vip/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
       courseD_artist_project2a_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
 
         Ruota di 180 gradi e disegna di nuovo lo stesso schema a scalinata!
 
@@ -3826,9 +3826,9 @@ it:
 
         Ecco un esempio di scale che usa un angolo di 76 gradi:
 
-        ![](https://images.code.org/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
+        ![](https://images.letron.vip/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
       courseD_artist_project2a_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Ora girati e torna da dove siamo venuti."_
 
         Ruota di 180 gradi e disegna di nuovo lo stesso schema a scalinata!
 
@@ -3838,57 +3838,57 @@ it:
 
         Ecco un esempio di scale che usa un angolo di 76 gradi:
 
-        ![](https://images.code.org/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
+        ![](https://images.letron.vip/ceea66fad37e79cc45a850911f90440c-image-1496696286635.16.27.png)
       courseD_artist_project3: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
 
         Ora usa il blocco `salta a 200 avanti 200 in basso` per far saltare di nuovo Elsa al centro e farla girare intorno per disegnare la fila di figure in diverse direzioni.
 
         Che fiocchi spettacolari che puoi realizzare!
         <hr/>
         Guarda questi esempi con diversi poligoni:
-        ![](https://images.code.org/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
-        ![](https://images.code.org/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
-        ![](https://images.code.org/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
+        ![](https://images.letron.vip/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
+        ![](https://images.letron.vip/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
+        ![](https://images.letron.vip/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
 
         Delle forme astratte potrebbero rendere il fiocco di neve più simile a uno di questi:
-        ![](https://images.code.org/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
-        ![](https://images.code.org/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
-        ![](https://images.code.org/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
+        ![](https://images.letron.vip/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
+        ![](https://images.letron.vip/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
+        ![](https://images.letron.vip/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
       courseD_artist_project3_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
 
         Ora usa il blocco `salta a 200 avanti 200 in basso` per far saltare di nuovo Elsa al centro e farla girare intorno per disegnare la fila di figure in diverse direzioni.
 
         Che fiocchi spettacolari che puoi realizzare!
         <hr/>
         Guarda questi esempi con diversi poligoni:
-        ![](https://images.code.org/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
-        ![](https://images.code.org/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
-        ![](https://images.code.org/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
+        ![](https://images.letron.vip/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
+        ![](https://images.letron.vip/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
+        ![](https://images.letron.vip/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
 
         Delle forme astratte potrebbero rendere il fiocco di neve più simile a uno di questi:
-        ![](https://images.code.org/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
-        ![](https://images.code.org/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
-        ![](https://images.code.org/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
+        ![](https://images.letron.vip/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
+        ![](https://images.letron.vip/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
+        ![](https://images.letron.vip/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
       courseD_artist_project3_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Trasformiamo la figura in un fiocco di neve."_
 
         Ora usa il blocco `salta a 200 avanti 200 in basso` per far saltare di nuovo Elsa al centro e farla girare intorno per disegnare la fila di figure in diverse direzioni.
 
         Che fiocchi spettacolari che puoi realizzare!
         <hr/>
         Guarda questi esempi con diversi poligoni:
-        ![](https://images.code.org/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
-        ![](https://images.code.org/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
-        ![](https://images.code.org/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
+        ![](https://images.letron.vip/b32ebfb3be559bf8a6d017a854e0b97e-image-1495821528995.42.08.png)
+        ![](https://images.letron.vip/08d7155f6829f82d878dfa57ad5dcaf3-image-1495821528996.42.26.png)
+        ![](https://images.letron.vip/7d461ee9046871e6993406e558f28176-image-1495821528996.42.58.png)
 
         Delle forme astratte potrebbero rendere il fiocco di neve più simile a uno di questi:
-        ![](https://images.code.org/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
-        ![](https://images.code.org/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
-        ![](https://images.code.org/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
+        ![](https://images.letron.vip/376d7ba20b6bb86e08b1675370e87b92-image-1496695869798.44.00.png)
+        ![](https://images.letron.vip/4f649cc779920632674afac5acce5c95-image-1496695869798.47.51.png)
+        ![](https://images.letron.vip/a68f925ffd87241ebc09183acc908b4b-image-1496695869796.31.49.png)
       courseD_artist_project3a: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
 
         Fai ruotare questa figura 5 o 6 volte fino a formare un cerchio.
         - Se scegli di farla ruotare 5 volte, usa angoli di 72 gradi.
@@ -3897,9 +3897,9 @@ it:
 
         Ecco un esempio di Elsa che fa ruotare uno schema 6 volte:
 
-        ![](https://images.code.org/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
+        ![](https://images.letron.vip/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
       courseD_artist_project3a_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
 
         Fai ruotare questa figura 5 o 6 volte fino a formare un cerchio.
         - Se scegli di farla ruotare 5 volte, usa angoli di 72 gradi.
@@ -3908,9 +3908,9 @@ it:
 
         Ecco un esempio di Elsa che fa ruotare uno schema 6 volte:
 
-        ![](https://images.code.org/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
+        ![](https://images.letron.vip/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
       courseD_artist_project3a_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Gira e trasforma la figura in un fiocco di neve."_
 
         Fai ruotare questa figura 5 o 6 volte fino a formare un cerchio.
         - Se scegli di farla ruotare 5 volte, usa angoli di 72 gradi.
@@ -3919,47 +3919,47 @@ it:
 
         Ecco un esempio di Elsa che fa ruotare uno schema 6 volte:
 
-        ![](https://images.code.org/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
+        ![](https://images.letron.vip/b0fe02e728f80ae7a4b731f32371a37b-image-1496697582505.19.34.png)
       courseD_artist_project4: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
 
         Prova a sovrapporre due diverse figure di fiocchi di neve una sopra l'altra con una piccola rotazione tra le due - guarda cosa ottieni!
       courseD_artist_project4_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
 
         Prova a sovrapporre due diverse figure di fiocchi di neve una sopra l'altra con una piccola rotazione tra le due - guarda cosa ottieni!
       courseD_artist_project4_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png) _"Cosa succede se disegniamo i fiocchi di neve uno sopra l'altro?"_
 
         Prova a sovrapporre due diverse figure di fiocchi di neve una sopra l'altra con una piccola rotazione tra le due - guarda cosa ottieni!
       courseD_artist_project4a: |
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
 
         Fai qualche prova con ciò che hai creato. Disegna quello che vuoi!
         - Cosa succede se usi due angoli diversi nello schema a scalinata?
         - Cosa succede se rendi lo schema a rombo più lungo o più corto?
         - Cosa sembra ciò che ottieni disegnando due fiocchi di neve uno sopra l'altro?
       courseD_artist_project4a_2018: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
 
         Fai qualche prova con ciò che hai creato. Disegna quello che vuoi!
         - Cosa succede se usi due angoli diversi nello schema a scalinata?
         - Cosa succede se rendi lo schema a rombo più lungo o più corto?
         - Cosa sembra ciò che ottieni disegnando due fiocchi di neve uno sopra l'altro?
       courseD_artist_project4a_2019: |-
-        ![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
+        ![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)  _"E adesso, cosa possiamo ancora fare? Esploriamo e creiamo le nostre meraviglie invernali! "_
 
         Fai qualche prova con ciò che hai creato. Disegna quello che vuoi!
         - Cosa succede se usi due angoli diversi nello schema a scalinata?
         - Cosa succede se rendi lo schema a rombo più lungo o più corto?
         - Cosa sembra ciò che ottieni disegnando due fiocchi di neve uno sopra l'altro?
-      courseD_artist_project5: '![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      courseD_artist_project5: '![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _"Dai spazio alla tua creatività, divertiti con forme e angoli per disegnare
         nuovi fiocchi di neve! "_'
-      courseD_artist_project5_2018: '![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      courseD_artist_project5_2018: '![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _"Dai spazio alla tua creatività, divertiti con forme e angoli per disegnare
         nuovi fiocchi di neve! "_'
-      courseD_artist_project5_2019: '![](https://images.code.org/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
+      courseD_artist_project5_2019: '![](https://images.letron.vip/109aa2afaa3b7b1ecebff518bacdf3c5-image-1500660008987.png)
         _"Dai spazio alla tua creatività, divertiti con forme e angoli per disegnare
         nuovi fiocchi di neve! "_'
       courseD_artist_ramp11: |-
@@ -4789,13 +4789,13 @@ it:
 
         Ogni quadrato ha lati di **20 pixel** e ci sono **15 quadrati per riga**.
       courseE_artist_concept_challenge1: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png" width="200px"/>
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png" width="200px"/>
 
         E ora una sfida!
 
         Per ottenere la figura che vedi, devi usare solo blocchi che ti sono già stati mostrati. Riesci a capire come ricrearla? Sentiti libero di fare più tentativi e di commettere errori. Nessuno si aspetta che tu ci riesca perfettamente al primo tentativo.
       courseE_artist_concept_challenge1_2018: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png" width="200px"/>
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png" width="200px"/>
 
         E ora una sfida!
 
@@ -4884,7 +4884,7 @@ it:
       courseE_artist_functions7: |-
         Sposta il codice che disegna la finestra all'interno del blocco che definisce la funzione `disegna una finestra`. Ora, potremo richiamare la funzione ogni volta che ci serve disegnare una finestra senza dover scrivere nuovamente il codice.
 
-        ![](https://images.code.org/615a5e93abdaffeed438a976a56fc1f5-image-1497998528859.gif)
+        ![](https://images.letron.vip/615a5e93abdaffeed438a976a56fc1f5-image-1497998528859.gif)
 
         Prova a risolvere questo esercizio creando la funzione `draw a window` (*disegna una finestra*) e richiamandola cinque volte. Stai attento alla porta!
 
@@ -5400,15 +5400,15 @@ it:
       courseF_artist_for10: |-
         **Tempo di giocare:** Prova ad usare la variabile `counter` (*contatore*) con altri elementi grafici per creare immagini magiche come questa.
 
-        ![](https://images.code.org/5a4eec10a53aa78ad6b12fb5e48680f8-image-1497991505852.png)
+        ![](https://images.letron.vip/5a4eec10a53aa78ad6b12fb5e48680f8-image-1497991505852.png)
       courseF_artist_for10_2018: |-
         **Tempo di giocare:** Prova ad usare la variabile `counter` (*contatore*) con altri elementi grafici per creare immagini magiche come questa.
 
-        ![](https://images.code.org/5a4eec10a53aa78ad6b12fb5e48680f8-image-1497991505852.png)
+        ![](https://images.letron.vip/5a4eec10a53aa78ad6b12fb5e48680f8-image-1497991505852.png)
       courseF_artist_for10_2019: |-
         **Tempo di giocare:** Prova ad usare la variabile `counter` (*contatore*) con altri elementi grafici per creare immagini magiche come questa.
 
-        ![](https://images.code.org/5a4eec10a53aa78ad6b12fb5e48680f8-image-1497991505852.png)
+        ![](https://images.letron.vip/5a4eec10a53aa78ad6b12fb5e48680f8-image-1497991505852.png)
       courseF_artist_for1_2018: "**Tempo di giocare:** Sperimenta con il ciclo `ripeti
         con counter` e la variabile `countrer` (*contatore*).  \n\nTrascina qualche
         blocco e vedi cosa succede.  \n"
@@ -5472,27 +5472,27 @@ it:
       courseF_artist_for_challenge1: |-
         Riesci a ricreare questo disegno?
 
-        <img src="https://images.code.org/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png" width="350px"/>
+        <img src="https://images.letron.vip/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png" width="350px"/>
       courseF_artist_for_challenge1_2018: |-
         Riesci a ricreare questo disegno?
 
-        <img src="https://images.code.org/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png" width="350px"/>
+        <img src="https://images.letron.vip/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png" width="350px"/>
       courseF_artist_for_challenge1_2019: |-
         Riesci a ricreare questo disegno?
 
-        <img src="https://images.code.org/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png" width="350px"/>
+        <img src="https://images.letron.vip/724b2efa8aefe863bd0d6491a3f1590f-image-1445563707400.26.50.png" width="350px"/>
       courseF_artist_for_challenge2: |-
         Riesci a ricreare questo disegno usando un solo ciclo?
 
-        <img src="https://images.code.org/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png" width="350px"/>
+        <img src="https://images.letron.vip/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png" width="350px"/>
       courseF_artist_for_challenge2_2018: |-
         Riesci a ricreare questo disegno usando un solo ciclo?
 
-        <img src="https://images.code.org/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png" width="350px"/>
+        <img src="https://images.letron.vip/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png" width="350px"/>
       courseF_artist_for_challenge2_2019: |-
         Riesci a ricreare questo disegno usando un solo ciclo?
 
-        <img src="https://images.code.org/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png" width="350px"/>
+        <img src="https://images.letron.vip/b0d15d06465d645c5ca533e5da6387b3-image-1446075597132.36.04.png" width="350px"/>
       courseF_artist_ramp9: |-
         Usa ciò che hai imparato per disegnare questo triangolo.
         ___
@@ -5527,13 +5527,13 @@ it:
         ultimo esercizio all'interno."
       courseF_artist_variables3: "Prima che le cose si complichino, puoi spostare
         la lunghezza di 50 in una variabile (`length`) , in modo da poterla usare
-        nei prossimi esercizi? \n\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+        nei prossimi esercizi? \n\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables3_2018: "Prima che le cose si complichino, puoi spostare
         la lunghezza di 50 in una variabile (`length`) , in modo da poterla usare
-        nei prossimi esercizi? \n\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+        nei prossimi esercizi? \n\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables3_2019: "Prima che le cose si complichino, puoi spostare
         la lunghezza di 50 in una variabile (`length`) , in modo da poterla usare
-        nei prossimi esercizi? \n\n![expandable](https://images.code.org/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
+        nei prossimi esercizi? \n\n![expandable](https://images.letron.vip/73447d004093c6be8ab01a1358155f16-image-1498068386665.gif)"
       courseF_artist_variables4: Ora, usa la variabile `length` (*lunghezza*) per
         fare in modo che l'artista disegni i vari triangoli spostati ognuno in avanti
         di `length` pixel e verso il basso di `length` pixel.
@@ -5697,19 +5697,19 @@ it:
       courseF_artist_variables_challenge1_2019: Questa è un sfida! Riesci a creare
         una variabile `length` (*lunghezza*) e usarla per creare questo schema?
       courseF_artist_variables_challenge1a: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
 
         Ora hai imparato tutto quello che ti serve per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       courseF_artist_variables_challenge2: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
 
         Ora hai imparato tutto quello che ti serve per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       courseF_artist_variables_challenge2_2018: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
 
         Ora hai imparato tutto quello che ti serve per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       courseF_artist_variables_challenge2_2019: |-
-        <img src="https://images.code.org/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
+        <img src="https://images.letron.vip/7469d6b9aaaae532d864caecb65bd2cc-image-1444706295435.54.39.png" width="250px"/>
 
         Ora hai imparato tutto quello che ti serve per realizzare un disegno come questo! Questo esercizio è fatto apposta per essere difficile da risolvere! Riesci a lavorarci su fino a capire come si fa?
       courseF_artistembed_variables9: |-
@@ -5925,22 +5925,22 @@ it:
         <table>
         <tr>
         <td>
-        <img src="https://images.code.org/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif" width="150"/><br/>
+        <img src="https://images.letron.vip/8f4f2a68dae2cf0aa82cc0a49ea4df04-image-1466787750475.gif" width="150"/><br/>
         <h4>Una chiocciola</h4><br/><br/>
         </td>
 
         <td>
-        <img src="https://images.code.org/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif" width="150"/><br/>
+        <img src="https://images.letron.vip/732ce5dd91c7f49f06e88da1a9f664f3-image-1466794904255.gif" width="150"/><br/>
         <h4>Una città</h4><br/><br/>
         </td>
 
         <td>
-        <img src="https://images.code.org/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif" width="150"/><br/>
+        <img src="https://images.letron.vip/37fdd6fdd761df09fd4949d5e43f0a7f-image-1466795165642.gif" width="150"/><br/>
         <h4>Un concerto</h4><br/><br/>
         </td>
 
         <td>
-        <img src="https://images.code.org/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif" width="150"/><br/>
+        <img src="https://images.letron.vip/f7bf86b0f86669d82ee2c1565738b9cb-image-1466794447737.gif" width="150"/><br/>
         <h4>Una torta di compleanno</h4><br/><br/>
         </td>
 
@@ -6039,7 +6039,7 @@ it:
 
         Quando hai finito, esegui il gioco e falli scontrare.
 
-        ![](https://images.code.org/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
+        ![](https://images.letron.vip/a634f249021651f60a1acf37bf78d07d-image-1475342557950.gif)
       grade2_puppy_loops2: |-
         Adesso è disponibile un nuovo blocco! Con il blocco `ripeti ... volte` (detto anche <i>ciclo</i>) puoi ripetere più volte un insieme di blocchi.<br>
         <br>
@@ -6261,12 +6261,12 @@ it:
         all'interno del blocco che definisce la funzione `draw a window` (*disegna
         una finestra*). Ora, potremo richiamare la funzione ogni volta che ci serve
         disegnare una finestra senza dover scrivere nuovamente il codice.\n\n<img
-        src=\"https://images.code.org/57c016bcafe697e6ddb196e0f13c9ef9-image-1468602046641.gif\"
+        src=\"https://images.letron.vip/57c016bcafe697e6ddb196e0f13c9ef9-image-1468602046641.gif\"
         width=\"450px\"/>\n<br/> \n\nProva a risolvere questo esercizio creando la
         funzione `disegna una finestra` e richiamandola cinque volte. Stai attento
         alla porta!\n\n- Le finestre del piano di sopra distano 50 pixel una dall'altra.\n-
         Le finestre del piano terra si trovano 100 pixel al di sotto delle precedenti."
-      grade4_artist_nestedLoops_challenge: "<img src=\"https://images.code.org/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"
+      grade4_artist_nestedLoops_challenge: "<img src=\"https://images.letron.vip/c876143212d195192013582f57c6df04-image-1445625392518.36.18.png\"
         width=\"150px;\" style=\"mix-blend-mode: multiply;\" />\n\n**Tempo di giocare:**
         \ Ecco il codice per una figura interessante.   \n\nChe cosa succede se la
         ripeti più volte, girando ad ogni iterazione?   \n\nNota che il codice per
@@ -6278,31 +6278,31 @@ it:
         l'artista deve ruotare di **360 gradi/4 = 90 gradi** ogni volta. Puoi farlo
         aggiungendo un blocco `gira a destra di 30 gradi` prima di ripetere la figura
         (dato che **60+30 = 90**).<br/>\n<img src=\"https://programmailfuturo.it/images/codeorg/4-3-11-a.png\"\nwidth=\"500px;\"
-        style=\"mix-blend-mode: multiply;\" /><br/>\n<a href=\"https://studio.code.org/c/120106816\"
+        style=\"mix-blend-mode: multiply;\" /><br/>\n<a href=\"https://studio.letron.vip/c/120106816\"
         target=\"_blank\">Vedi la soluzione</a>.\n<br/>\n</details>\n</h4>\n\n<h4>\n<details>\n<summary>\n\n<b>Ripeti
         6</b>\n\n</summary>\n<br/>\nSe ripeti per 6 volte questo codice così com'è,
         ottieni una rotazione totale pari a **6x60**, ossia un giro completo di **360
-        gradi**.<br>\n<img\nsrc=\"https://images.code.org/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"
-        \ width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" /><br/>\n<a href=\"https://studio.code.org/c/105644852\"
+        gradi**.<br>\n<img\nsrc=\"https://images.letron.vip/b79f96b87097ce3afe8a6a5608d04e36-image-1440132287456.44.27.png\"
+        \ width=\"500px;\"  style=\"mix-blend-mode:\nmultiply;\" /><br/>\n<a href=\"https://studio.letron.vip/c/105644852\"
         target=\"_blank\">Vedi la soluzione</a>.\n<br/>\n</details>\n</h4>\n\n<h4>\n<details>\n<summary>\n\n<b>Ripeti
         12</b>\n\n</summary>\n\n<br/>\nSe vuoi invece ripetere la figura 12 volte,
         l'artista deve effettuare una rotazione di **360 gradi/12 = 30 gradi** ad
         ogni ripetizione. Ciò significa che, prima di ripetere la figura, l'artista
         deve tornare un po' indietro con un blocco `gira a sinistra di 30 gradi` (infatti
         60-30 = 30).<br/>\n<img src=\"https://programmailfuturo.it/images/codeorg/4-3-11-b.png\"\nwidth=\"500px;\"
-        style=\"mix-blend-mode: multiply;\" />\n<br/>\n<a href=\"https://studio.code.org/c/120106805\"
+        style=\"mix-blend-mode: multiply;\" />\n<br/>\n<a href=\"https://studio.letron.vip/c/120106805\"
         target=\"_blank\">Vedi la soluzione</a>.\n<br/>\n</details>\n</h4>\n\nNow
         it's your turn!  Can you recreate each image by repeating the starting shape?
         \ "
       grade4_artist_nestedLoops_challenge2: |-
-        <img src="https://images.code.org/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
+        <img src="https://images.letron.vip/6cac10470af71bbb5d75bf5e2669046f-image-1439939145211.png"
         width="200px"/><br>
         <br>
         E ora una piccola sfida!<br>
         <br>
         Per ottenere la figura che vedi devi usare solo blocchi che ti sono già stati mostrati. Riesci a capire come ricrearla? Sentiti libero di fare più tentativi e di commettere errori. Nessuno si aspetta che tu ci riesca perfettamente al primo tentativo. <br>
         <br>
-        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.code.org/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
+        <b>Suggerimento</b>: La figura che viene ripetuta è quasi identica a quella del <a href="https://studio.letron.vip/s/course4/stage/3/puzzle/11" target="_blank">precedente esercizio</a>, l'unica differenza consiste nel fatto che il primo ciclo disegna tratti di lunghezza leggermente diversa.
       grade4_artist_nested_loop_circles1: Questo è un esercizio di riepilogo -- Usa
         un ciclo annidato per completare il disegno.
       grade4_artist_nested_loop_flags1: Inserisci in un ciclo il codice che trovi
@@ -6452,7 +6452,7 @@ it:
         Questa casa ha bisogno di un tetto! Disegna un triangolo.<br>
         <b>Suggerimento</b>: tutti e tre i lati hanno la stessa lunghezza.<br>
 
-        <img src="https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif"
+        <img src="https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif"
         width="300"/>
       grade4_review_artist3: Il blocco `salta` consente di muovere l'artista senza
         disegnare. Disegna la linea tratteggiata usando sia i blocchi `salta` che
@@ -6466,7 +6466,7 @@ it:
       grade4_scaffolded_project6: Hai finito! Ora puoi giocare con il tuo videogioco
         o condividerlo con i tuoi amici e compagni di classe!
       grade5_artist_binary10: |-
-        <img src="https://images.code.org/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
+        <img src="https://images.letron.vip/0a30f23ff6138828d053267719d34fa8-image-1444435986654.00.22.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_binary2: |-
@@ -6486,7 +6486,7 @@ it:
         <b>Suggerimento</b>: devi eliminare qualcosa!
       grade5_artist_for_loops7a: Riduci l'angolo a 72 gradi per ottenere questa spirale
         pentagonale.
-      grade5_artist_for_loops8: Ricordi che nella lezione 6 (<a href="https://studio.code.org/s/course4/stage/6/puzzle/10"
+      grade5_artist_for_loops8: Ricordi che nella lezione 6 (<a href="https://studio.letron.vip/s/course4/stage/6/puzzle/10"
         target="_blank">esercizio 10</a> e seguenti) abbiamo usato la variabile `sides`
         (<i>lati</i>) per rappresentare il numero dei lati di un poligono? Ora devi
         fare la stessa cosa con la variabile `counter` (<i>contatore</i>). La figura
@@ -6501,11 +6501,11 @@ it:
         del numero di lati del poligono.
       grade5_artist_for_loopsfreeplay11: |-
         <img
-        src="https://images.code.org/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
+        src="https://images.letron.vip/9b5897e059bb29bd2faf8504659a3cfc-image-1440719685627.49.33.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_functionparameters10: |-
-        <img src="https://images.code.org/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
+        <img src="https://images.letron.vip/1df195df9d808f0dd539bef0f5c2958b-image-1443049871563.02.54.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_parameters_squares1: |-
@@ -6535,7 +6535,7 @@ it:
         Tempo di giocare: Guarda! Ora l'algoritmo precedente è annidato all'interno di un altro ciclo. Fai degli esperimenti modificando i valori delle due variabili per disegnare delle figure fantastiche.<br><br>
         Per disegni ancora più belli, prova a giocare con i colori! Assegna dei colori a caso all'interno di ogni ciclo e osserva come cambia la figura che ottieni.
       grade5_artist_variables_freeplay15: |-
-        <img src="https://images.code.org/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
+        <img src="https://images.letron.vip/b5e28b084cb331ee030ea3853ed921bd-image-1440060815818.51.21.png"
         width="250px"/><br>
         Ora hai imparato tutto quello che devi sapere per realizzare un disegno come questo! Se la figura ti ispira, prova a realizzare qualcosa di simile. In caso contrario, crea qualcosa di tuo.
       grade5_artist_variables_hexagons1: |-
@@ -6690,11 +6690,11 @@ it:
       gradek_artist_loops1: |-
         Aiuta l'artista a disegnare questa linea: due volte avanti.
 
-        ![](https://images.code.org/7ddc7b43ef27197559c7defb0af56d03-image-1470776934855.gif)
+        ![](https://images.letron.vip/7ddc7b43ef27197559c7defb0af56d03-image-1470776934855.gif)
       gradek_artist_loops2: |-
         Il nostro artista sta cercando di disegnare cinque volte una linea in avanti, ma non riesce a farlo correttamente. Puoi aiutarlo?
 
-        ![](https://images.code.org/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif)
+        ![](https://images.letron.vip/6d79b5f8291bd8e11c427bff25f423c2-image-1467935497388.gif)
       gradek_playlab_events1c: Il cane, vuole dire "Ciao". Riesci ad aiutarlo?
       iceAgeLoopsforVideo: Riesci a raggiungere la ghianda con un solo blocco <xml><block
         type="maze_moveForward"/></xml>? Prova con un ciclo!

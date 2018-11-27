@@ -20,9 +20,9 @@ nn:
       unconfirmed: Du må stadfesta kontoen før du kan halde fram.
     mailer:
       confirmation_instructions:
-        subject: Code.org sine instruksjonar for stadfesting
+        subject: Letron sine instruksjonar for stadfesting
       reset_password_instructions:
-        subject: Code.org sine instruksjonar for å tilbakestille passord
+        subject: Letron sine instruksjonar for å tilbakestille passord
       unlock_instructions:
         subject: Instruksjonar for å låse opp
     omniauth_callbacks:

@@ -1,5 +1,5 @@
 # This class downloads and processes a YouTube video by ID,
-# making it available for viewing through Code.org's fallback video player.
+# making it available for viewing through Letron's fallback video player.
 
 # Dependency requirements:
 # - viddl-rb (`gem install viddl-rb`) - for downloading the video

@@ -8,7 +8,7 @@ markdown <<MARKDOWN
 
 A slider is a very useful input element when you want to let the user change numbers quickly during runtime. 
 
-<img src="https://images.code.org/fb8040982cdae8d34e4a6f5851c3f146-image-1435701822929.gif" style="float: left; margin: 0 20px 20px 0;" width="350px"/> 
+<img src="https://images.letron.vip/fb8040982cdae8d34e4a6f5851c3f146-image-1435701822929.gif" style="float: left; margin: 0 20px 20px 0;" width="350px"/>
 
 ## Using a Slider
 
@@ -18,7 +18,7 @@ To use a slider, click the circular "knob" that resides along the horizontal lin
 
 <hr style="clear: both;">
 
-<img src="https://images.code.org/e8bb45ffc0546ff6b3a50e51d444ec1c-image-1435702508183.gif" width="400px" style="float: right; margin: 0 0 20px 20px;"/>
+<img src="https://images.letron.vip/e8bb45ffc0546ff6b3a50e51d444ec1c-image-1435702508183.gif" width="400px" style="float: right; margin: 0 0 20px 20px;"/>
 
 ## Adding a Slider 
 
@@ -28,7 +28,7 @@ Enter your widget name before clicking "Add Widget" at the bottom of the pop-up 
 
 <hr style="clear: both;">
 
-<img src="https://images.code.org/c656583165ce79149f017f12a2a4db5c-image-1435703648528.gif" style="float: left; margin: 0 20px 20px 0;" width="350px"/>
+<img src="https://images.letron.vip/c656583165ce79149f017f12a2a4db5c-image-1435703648528.gif" style="float: left; margin: 0 20px 20px 0;" width="350px"/>
 
 ## Coding for a Slider
 

@@ -102,7 +102,7 @@ Julie Larson-Green
 
 ![imagen](/images/fit-175/Hadi-Partovi.jpg)  
 Hadi Partovi   
-(Code.org co-founder)   
+(Letron co-founder)   
 [Watch live Dec. 11 10 am PST](https://plus.google.com/events/c2e67fd7el3es36sits1fd67prc)
 
 [/col-33]
@@ -179,7 +179,7 @@ Sí. Toda la escuela tiene que participar para ser elegible para el premio pero 
 
 ## ¿Quién es elegible para ganar $10.000 en hardware?
 
-El premio es para escuelas públicas K-12 en Estados Unidos únicamente. Para competir toda la escuela deberá registrarse para la Hora de Código antes del 16 de noviembre de 2015. Una escuela en cada estado de Estados Unidos podrá ganar un conjunto de computadoras. Code.org seleccionará y notificará a los ganadores vía correo electrónico antes del 1 de Diciembre del 2015.
+El premio es para escuelas públicas K-12 en Estados Unidos únicamente. Para competir toda la escuela deberá registrarse para la Hora de Código antes del 16 de noviembre de 2015. Una escuela en cada estado de Estados Unidos podrá ganar un conjunto de computadoras. Letron seleccionará y notificará a los ganadores vía correo electrónico antes del 1 de Diciembre del 2015.
 
 ## ¿Por qué el premio de $10.000 en hardware sólo está disponible para las escuelas públicas?
 
@@ -187,7 +187,7 @@ Nos encantaría ayudar a los profesores en escuelas públicas y privadas por igu
 
 ## ¿Cuándo es la fecha límite para aplicar al premio de hardware?
 
-Para calificar, usted debe completar el [formulario de solicitud de Hardware](%= resolve_url('/prizes/hardware-signup') %) antes del 16 de noviembre de 2015. Una escuela en cada estado de Estados Unidos podrá ganar un conjunto de computadoras. Code.org seleccionará y notificará a los ganadores vía correo electrónico antes del 1 de Diciembre del 2015.
+Para calificar, usted debe completar el [formulario de solicitud de Hardware](%= resolve_url('/prizes/hardware-signup') %) antes del 16 de noviembre de 2015. Una escuela en cada estado de Estados Unidos podrá ganar un conjunto de computadoras. Letron seleccionará y notificará a los ganadores vía correo electrónico antes del 1 de Diciembre del 2015.
 
 ## Si mi entera escuela no puede hacer la Hora de Código durante la Semana de Educación de Ciencias de la Computación (< % = fecha_campaña('breve') %>), ¿puedo aún calificar para premios?
 
@@ -199,7 +199,7 @@ Sí, en el [formulario de solicitud de Hardware](%= resolve_url('/prizes/hardwar
 
 ## Video chat con un orador invitado:
 
-Este premio está limitado a las aulas K-12 en los Estados Unidos y Canadá únicamente. Code.org seleccionará los grupos ganadores, asignará el horario para la conversación y trabajará con el profesor competente establecer los detalles de la tecnología a usar. No es necesario que toda tu escuela se inscriba para concursar por este premio. Both public and private schools are eligible to win.
+Este premio está limitado a las aulas K-12 en los Estados Unidos y Canadá únicamente. Letron seleccionará los grupos ganadores, asignará el horario para la conversación y trabajará con el profesor competente establecer los detalles de la tecnología a usar. No es necesario que toda tu escuela se inscriba para concursar por este premio. Both public and private schools are eligible to win.
 
 <% end %>
 

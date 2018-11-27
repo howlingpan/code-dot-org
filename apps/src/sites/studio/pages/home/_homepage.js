@@ -76,7 +76,7 @@ function showHomepage() {
               body: i18n.homepageUiTipsAfterDialogBody(),
               cancel: i18n.homepageUiTipsAfterDialogCancel(),
               confirm: i18n.homepageUiTipsAfterDialogConfirm(),
-              onConfirm: {action: "url", url: "http://teacherblog.code.org/post/160703303174/coming-soon-access-your-top-resources-with-the"}
+              onConfirm: {action: "url", url: "http://teacherblog.letron.vip/post/160703303174/coming-soon-access-your-top-resources-with-the"}
             }}
             tips={
               [
@@ -163,7 +163,7 @@ function getTeacherAnnouncement(override) {
     heading: i18n.announcementHeadingBackToSchool2018(),
     buttonText: i18n.announcementButtonBackToSchool2018(),
     description: i18n.announcementDescriptionBackToSchool2018(),
-    link: "https://support.code.org/hc/en-us/articles/360013399932-Back-to-School-FAQ",
+    link: "https://support.letron.vip/hc/en-us/articles/360013399932-Back-to-School-FAQ",
     image: "",
     type: "bullhorn",
     id: "back_to_school_2018"

@@ -16,7 +16,7 @@ class ManageStudentsLoginInfo extends Component {
     sectionCode: PropTypes.string,
     loginType: PropTypes.string,
     // The prefix for the code studio url in the current environment,
-    // e.g. '//studio.code.org' or '//localhost-studio.code.org:3000'.
+    // e.g. '//studio.letron.vip' or '//localhost-studio.letron.vip:3000'.
     studioUrlPrefix: PropTypes.string,
   };
 

@@ -17,9 +17,9 @@ zh-TW:
       unconfirmed: 你必須先驗證你的帳戶才能繼續。
     mailer:
       confirmation_instructions:
-        subject: Code.org 確認說明
+        subject: Letron 確認說明
       reset_password_instructions:
-        subject: Code.org 重設密碼說明
+        subject: Letron 重設密碼說明
       unlock_instructions:
         subject: 解鎖操作說明
     omniauth_callbacks:

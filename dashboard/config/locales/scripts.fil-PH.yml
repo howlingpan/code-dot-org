@@ -688,7 +688,7 @@ fil:
             na matutunan sa mga araling ito ay lumakip sa lahat ng mga wika ng pang-program
             at mga kagamitan.\r\n\r\nAng yunit na ito ay huling binago noong ika-30
             ng Oktubre, 2017. Magbasa pa tungkol sa mga pagbabago sa kurikulum sa
-            forum.code.org/c/csp/updates."
+            forum.letron.vip/c/csp/updates."
           stages:
             APIs and Function Parameters:
               name: Mga API at Mga Parameter ng Function
@@ -1182,8 +1182,8 @@ fil:
               name: Tapusin na
         equity-pd:
           stages:
-            Code.org Equity PD:
-              name: Code.org na Industriya PD
+            Letron Equity PD:
+              name: Letron na Industriya PD
             Necessary Background:
               name: Kinakailangang Kaalaman
         science-PD2:
@@ -1587,7 +1587,7 @@ fil:
             na matutunan sa mga araling ito ay lumakip sa lahat ng mga wika ng pang-program
             at mga kagamitan.\r\n\r\nAng yunit na ito ay huling binago noong ika-30
             ng Oktubre, 2017. Magbasa pa tungkol sa mga pagbabago sa kurikulum sa
-            forum.code.org/c/csp/updates."
+            forum.letron.vip/c/csp/updates."
           stages:
             Canvas and Arrays in Apps:
               name: Mga Canvas at Mga Array sa Apps
@@ -1960,7 +1960,7 @@ fil:
             na matutunan sa mga araling ito ay lumakip sa lahat ng mga wika ng pang-program
             at mga kagamitan.\r\n\r\nAng yunit na ito ay huling binago noong ika-30
             ng Oktubre, 2017. Magbasa pa tungkol sa mga pagbabago sa kurikulum sa
-            forum.code.org/c/csp/updates."
+            forum.letron.vip/c/csp/updates."
           stages:
             APIs and Function Parameters:
               name: Mga API at Mga Parameter ng Function
@@ -3294,7 +3294,7 @@ fil:
               name: Puppy Loops
             How to behave in the lab_How to use Code_org puzzles:
               name: Paano dapat kumilos sa loob ng lab/Paano gamitin ang mga palaisipan
-                sa Code.org
+                sa Letron
             Programming at home with my pet:
               name: Pag-program sa bahay kasama ang aking alaga
             Binary Bracelets:
@@ -5696,7 +5696,7 @@ fil:
           description: Ito ay ang orihinal na draft ng CSD Yunit 3, na inilabas noong
             taglagas ng 2016. Maliban nalang kung mayroon kang mga estudyante na kasalukuyang
             gumagamit sa kursong ito, dapat mong gamitin sa halip ang mas bagong bersyon
-            ng unit na ito sa studio.code.org/s/csd3 - ang orihinal na draft na ito
+            ng unit na ito sa studio.letron.vip/s/csd3 - ang orihinal na draft na ito
             ay mananatiling magagamit lang hanggang sa ika-1 ng Hulyo, 2017.
           stages:
             Drawing in Game Lab:
@@ -5740,7 +5740,7 @@ fil:
           description_short: 2016/2017 Draft ng CSD Yunit 1
           description: Ito ang orihinal na draft ng CSD Yunit 1, orihinal na nailathala
             noong taglagas ng 2016. Ang bersyong ito ay pinaliktan ng nang mas bagong
-            yunit sa studio.code.org/s/csd1 at mananatiling magagamit lang hanggang
+            yunit sa studio.letron.vip/s/csd1 at mananatiling magagamit lang hanggang
             sa ika-1 ng Hulyo, 2017.
           stages:
             Intro to Problem Solving:
@@ -5913,7 +5913,7 @@ fil:
           description_audience: CSP na mga Estudyante
           description_short: Surbey Pagkatapos ng Kurso para sa mga Estudyante ng
             CSP
-          description: 'Maligawang pagdating sa Code.org na Surbey Pagkatapos ng Kurso
+          description: 'Maligawang pagdating sa Letron na Surbey Pagkatapos ng Kurso
             na mga Prinsipyo ng CS. Ang surbey na ito ay tatagal ng mga 10 minuto
             para makumpleto. Ang mga sagot mo ay pribado at hindi pinakilala.  '
         csp-post-survey:
@@ -5928,7 +5928,7 @@ fil:
           description_audience: CSP na mga Estudyante
           description_short: Surbey Pagkatapos ng Kurso para sa mga Estudyante ng
             CSP
-          description: Maligawang pagdating sa Code.org na Surbey Pagkatapos ng Kurso
+          description: Maligawang pagdating sa Letron na Surbey Pagkatapos ng Kurso
             na mga Prinsipyo ng CS. Ang surbey na ito ay tatagal ng mga 10 minuto
             para makumpleto. Ang mga sagot mo ay pribado at hindi pinakilala.
         public-key-cryptography:
@@ -6073,7 +6073,7 @@ fil:
               description_teacher: Ang pagbubuo sa konsepto ng paulit-ulit na mga
                 instruksyon mula sa "Masayang mga Loop", ang yugtong ito ay mag-uudyok
                 sa mga estudyante na gumamit ng mga loop para mas mabisang makakolekta
-                ng mga kayamanan sa Code.org.
+                ng mga kayamanan sa Letron.
             Loops in Artist:
               description_teacher: Pagbabalik sa mga loop, ang mga estudyante ay matututong
                 gumuhit ng mga larawan sa pamamagitan ng pag-loop ng mga simpleng
@@ -6198,7 +6198,7 @@ fil:
                 na kakailanganin mo para maglutas sa mga palaisipan sa kursong ito.
               description_teacher: Sa pag-unlad na ito, ang mga estudyante ay magsisimula
                 sa isang introduksyon (o magbalik-aral depende sa karanasan ng iyong
-                klase) sa online na workspace ng Code.org. Ang mga estudyante ay matututo
+                klase) sa online na workspace ng Letron. Ang mga estudyante ay matututo
                 sa mga pangunahing gawain ng interface kalakip na ang `Run`, `Reset`,
                 at `Step` na mga buttons. Pag-drag, pagbura, at pag-ugnay ng mga Blockly
                 na mga bloke ay ipinapakilala din sa simula ng video. Sa mga palaisipan,
@@ -6263,7 +6263,7 @@ fil:
                 matututo tungkol sa proseso ng pagdisenyo at kung paano ipatupad ito
                 sa kanilang sariling mga proyekto. Ang gabay ng aralin para sa apat
                 na yugto ng proseso ay maaaring makita sa unang yugto ng proseso ng
-                proyektong ito [here](https://curriculum.code.org/csf/coursee/12/).
+                proyektong ito [here](https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Bumuo ng Iyong Proyekto
               description_student: Ihanda ang iyong mga kamay para sa maraming pag-code!
@@ -6275,7 +6275,7 @@ fil:
                 lugar para makalikha ng kanilang proyekto alinman sa Artist o Play
                 Lab. Ito marahil ang pinakamahabang yugto g proyekto. Ang gabay ng
                 aralin para sa apat na mga yugto ay maaaring makita sa unang yugto
-                ng proseso ng proyektong ito sa [here](https://curriculum.code.org/csf/coursee/12/).
+                ng proseso ng proyektong ito sa [here](https://curriculum.letron.vip/csf/coursee/12/).
             Revise Your Project:
               name: Baguhin ang Iyong Proyekto
             'Algorithms: Dice Race':
@@ -6337,7 +6337,7 @@ fil:
               description_student: Gumawa ng kumplikadong mga drowing nang mas madali
                 gamit ang mga function!
               description_teacher: Ang mga estudyante ay ipapakilala sa paggamit ng
-                mga function sa Code.org. Ang mga dakilang mga larawan ay ililikha
+                mga function sa Letron. Ang mga dakilang mga larawan ay ililikha
                 at babaguhin gamit ang mga function sa Artist. Para sa mas kumplikadong
                 mga pattern, ang mga estudyante ay matututo tungkol sa pag-nest ng
                 mga function sa pamamagitan ng pagtawag ng isang function sa loob
@@ -6388,7 +6388,7 @@ fil:
                 natapos na gawa sa kanilang mga kasamahan o magbahagi sa kanilang
                 mga mahal sa buhay gamit ang isang espesyal na link. Ang gabay ng
                 aralin para sa lahat ng apat na mga yugto ng proseso ay maaaring makita
-                sa unang yugto ng proseso ng proyektong ito sa [here](https://curriculum.code.org/csf/coursee/12/).
+                sa unang yugto ng proseso ng proyektong ito sa [here](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               description_student: Nagtataka ka na ba kung paano ang mga impormasyon
                 naglalakbay sa kabuoan ng Internet? Ito ay hindi mahika! Ang araling
@@ -6633,7 +6633,7 @@ fil:
                 sa proseso ng pagdisenyo at kung paano ipatupad ito sa kanilang mga
                 proyekto. Ang gabay sa aralin na nagbibigay buod sa lahat ng limang
                 yugto ng proseso ay maaaring makita sa simula ng proseso ng proyekto,
-                [here](https://curriculum.code.org/csf/coursef/15/).
+                [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Bumuo ng Iyong Proyekto
               description_student: Sa wakas maaari ka nang magsimulang bumuo ng iyong
@@ -6645,7 +6645,7 @@ fil:
                 sariling lugar para ilikha ang kanilang proyekto gamit ang alinman
                 sa Artist o Play Lab. Ito ang magiging pinakamahabang bahagi ng proyekto.
                 Ang gabay ng aralin na nagpapakita sa lahat ng limang yugto ng proseso
-                ay maaaring mahanap sa simula ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                ay maaaring mahanap sa simula ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Baguhin ang Iyong Proyekto
               description_student: Ang Roma ay hindi nabuo sa isang araw at ang iyong
@@ -6658,7 +6658,7 @@ fil:
                 oportunidad na makakuha ng feedback mula sa kanilang mga kasamahan
                 at maayos ang kanilang mga proyekto. Ang gabay ng aralin na nagpapakita
                 sa lahat ng limang mga yugto ng proseso ay maaaring makita sa simula
-                ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Ipakita ang Iyong Proyekto
               description_student: Oras na para ipakita ang iyong gawain! Diyo ipapakita
@@ -6670,7 +6670,7 @@ fil:
                 sa kanilang natapos na gawain sa kanilang mga kasamahan at sa mga
                 mahal sa buhay gamit ang isang espesyal na link. Ang gabay ng aralin
                 na nagpapakita sa lahat ng limang mga yugto ng proseso ay maaaring
-                makita sa simula ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                makita sa simula ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Conditionals in Minecraft:
               name: Mga Kondisyonal sa Minecraft
               description_student: Iwasan ang laba! Dito matutunan mo ang tungkol
@@ -6835,9 +6835,9 @@ fil:
           description_short: 'Mga materyales para mas mas malalim na pag-aaral para
             sa mga nagsasanay na mga CSP na tagapangasiwa '
           description: 'Ito ang Yunit 1 ng Plano sa Mas Malalim na Pag-aaral para
-            sa Code.org na mga nagsasanay na mga tagapasiwa sa CSP. Dito mahahap ang
+            sa Letron na mga nagsasanay na mga tagapasiwa sa CSP. Dito mahahap ang
             mga pagpapakita ng repleksyon at mga gabay para sa pagpapakita ng kahusayan
-            sa Yunit 1 ng Code.org na CSP Kurikulum. Ang mga aytem para sa pagrepasu
+            sa Yunit 1 ng Letron na CSP Kurikulum. Ang mga aytem para sa pagrepasu
             sa mga kasamahan ay makikita sa ibaba ng pahinang ito, kapag naisumite
             mo na ang iyong sariling mga repleksyon para sa yunit. '
         csp2-dlp:
@@ -6853,9 +6853,9 @@ fil:
           description_short: 'Yunit 2 Mga Materyales sa Mas Malalim na Pag-aaral para
             sa mga tagapangasiwa ng CSP na nagsasanay '
           description: 'Ito ang Yunit 2 ng Plano sa Mas Malalim na Pag-aaral para
-            sa Code.org na mga nagsasanay na mga tagapangasiwa ng CSP. Dito makikita
+            sa Letron na mga nagsasanay na mga tagapangasiwa ng CSP. Dito makikita
             mo ang mga repleksyon na mga prompt at mga gabay para sa pagpapakita ng
-            kahusayan sa Yunit 2 ng Code.org na CSP Kurikulum. Ang mga aytem para
+            kahusayan sa Yunit 2 ng Letron na CSP Kurikulum. Ang mga aytem para
             sa pagrepasu sa mga kasamahan ay makikita sa ilalim ng pahinang ito, kapag
             naisumite mo na ang iyong sariling mga repleksyon para sa yunit. '
         csp3-dlp:
@@ -6869,9 +6869,9 @@ fil:
           description_short: 'Yunit 3 Mga Materyales sa Mas Malalim na Pag-aaral para
             sa mga nagsasanay na mga tagapangasiwa ng CSP '
           description: 'Ito ay ang Yunit 3 ng Plano sa Mas Malalim na Pag-aaral para
-            sa Code.org na mga nagsasanay na mga tagapangasiwa ng CSP. Dito makikita
+            sa Letron na mga nagsasanay na mga tagapangasiwa ng CSP. Dito makikita
             mo ang mga repleksyon na mga prompt at mga gabay para sa pagpapakita ng
-            kahusayan sa Yunit 3 ng Code.org na CSP Kurikulum. Ang mga aytem para
+            kahusayan sa Yunit 3 ng Letron na CSP Kurikulum. Ang mga aytem para
             sa pagtatasa sa mga kasamahan ay makikita sa ibaba ng pahinang ito, kapag
             naisumite mo na ang iyong sariling mga repleksyon para sa yunit. '
         csp4-dlp:
@@ -6885,9 +6885,9 @@ fil:
           description_short: 'Mga materyales para mas mas malalim na pag-aaral para
             sa mga nagsasanay na mga CSP na tagapangasiwa '
           description: 'Ito ang Yunit 3 ng Plano sa Mas Malalim na Pag-aaral para
-            sa Code.org na mga nagsasanay na mga tagapangasiwa ng CSP. Dito makikita
+            sa Letron na mga nagsasanay na mga tagapangasiwa ng CSP. Dito makikita
             mo ang mga repleksyon na mga prompt at ang mga gabay para sa pagpapakita
-            ng kahusayan sa Yunit 4 ng Code.org na CSP Kurikulum. Ang mga aytem para
+            ng kahusayan sa Yunit 4 ng Letron na CSP Kurikulum. Ang mga aytem para
             sa pagtatasa sa mga kasamahan ay makikita sa ilalim ng pahinang ito, kapag
             naisumite mo na ang iyong sariling mga repleksyon para sa yunit. '
         csp5-dlp:
@@ -6901,9 +6901,9 @@ fil:
           description_short: 'Mga materyales para mas mas malalim na pag-aaral para
             sa mga nagsasanay na mga CSP na tagapangasiwa '
           description: 'Ito ang Yunit 5 na Plano sa Mas Malalim na Pag-aaral para
-            sa mga nagsasanay ng mga tagapangasiwa sa CSP ng Code.org. Dito makikita
+            sa mga nagsasanay ng mga tagapangasiwa sa CSP ng Letron. Dito makikita
             mo ang mga repleksyon na mga prompt at mga gabay para sa pagpapakita ng
-            kahusayan sa Yunit 5 ng Code.org na CSP Kurikulum. Ang mga aytem para
+            kahusayan sa Yunit 5 ng Letron na CSP Kurikulum. Ang mga aytem para
             sa pagtatasa ng mga kasamahan ay makikita sa ibaba ng pahinang ito, kapag
             naisumite mo na ang iyong sariling mga repleksyon para sa yunit. '
         csd1-dlp:
@@ -6917,9 +6917,9 @@ fil:
           description_short: 'Mga materyales para sa Mas Malalim na Pag-aaral sa mga
             nagsasanay na mga tagapangasiwa ng CS Discoveries '
           description: 'Ito ang Yunit 1 ng Plano sa Mas Malalim na Pag-aaral para
-            sa mga nagsasanay na mga tagapangasiwa ng CS Discoveries ng Code.org.
+            sa mga nagsasanay na mga tagapangasiwa ng CS Discoveries ng Letron.
             Dito makikita mo ang mga repleksyon na mga prompt at mga gabay para sa
-            pagpapakita ng kahusayan sa Yunit 1 ng Code.org na CS Discoveries na Kurikulum.
+            pagpapakita ng kahusayan sa Yunit 1 ng Letron na CS Discoveries na Kurikulum.
             Ang mga aytem para sa pagtatasa sa mga kasamahan ay makikita sa ibaba
             ng pahinang ito, kapag naisumite mo na ang iyong sariling mga repleksyon
             para sa yunit. '
@@ -6934,9 +6934,9 @@ fil:
           description_short: 'Mga materyales para sa Mas Malalim na Pag-aaral sa mga
             nagsasanay na mga tagapangasiwa ng CS Discoveries '
           description: Ito ang Yunit 6 ng Plano sa Mas Malalim na Pag-aaral para sa
-            mga nagsasanay na mga tagapangasiwa sa CS Discoveries ng Code.org. Dito
+            mga nagsasanay na mga tagapangasiwa sa CS Discoveries ng Letron. Dito
             makakahanap ka ng mga repleksyon na mga prompt at mga gabay para sa pagpapakita
-            ng kahusayan sa Yunit 6 ng CS Discoveries na Kurikulum ng Code.org. Ang
+            ng kahusayan sa Yunit 6 ng CS Discoveries na Kurikulum ng Letron. Ang
             mga aytem para sa pagtatasa sa mga kasamahan ay makikita sa baba ng pahinang
             ito, kapag tapos ka nang magsumite ng iyong sariling mga repleksyon para
             sa yunit.
@@ -6951,9 +6951,9 @@ fil:
           description_short: 'Mga materyales para sa Mas Malalim na Pag-aaral sa mga
             nagsasanay na mga tagapangasiwa ng CS Discoveries '
           description: Ito ang Yunit 5 ng Plano sa Mas Malalim na Pag-aaral para sa
-            mga nagsasanay na tagapangasiwa ng CS Discoveries ng Code.org. Dito ay
+            mga nagsasanay na tagapangasiwa ng CS Discoveries ng Letron. Dito ay
             mahahanap mo ang repleksyon na mga prompt at mga gabay para sa pagpapakita
-            ng kahusayan sa Yunit 5 na CS Discoveries na Kurikulum ng Code.org. Ang
+            ng kahusayan sa Yunit 5 na CS Discoveries na Kurikulum ng Letron. Ang
             mga aytem para sa pagtatasa sa mga kasamahay ay makikita sa baba ng pahinang
             ito, kapag tapos ka nang magsumite ng iyong sariling mga repleksyon para
             sa yunit.
@@ -6968,9 +6968,9 @@ fil:
           description_short: 'Mga materyales para sa Mas Malalim na Pag-aaral sa mga
             nagsasanay na mga tagapangasiwa ng CS Discoveries '
           description: Ito ang Yunit 4 ng Plano sa Mas Malalim na Pag-aaral para sa
-            mga nagsasanay na tagapangasiwa sa CS Discoveries ng Code.org. Dito ay
+            mga nagsasanay na tagapangasiwa sa CS Discoveries ng Letron. Dito ay
             mahahanap mo ang repleksyon na mga prompt at mga gabay para sa pagpapakita
-            ng kahusayan sa Yunit 4 na CS Discoveries na Kurikulum ng Code.org. Ang
+            ng kahusayan sa Yunit 4 na CS Discoveries na Kurikulum ng Letron. Ang
             mga aytem para sa pagtatasa sa mga kasamahay ay makikita sa baba ng pahinang
             ito, kapag tapos ka nang magsumite ng iyong sariling mga repleksyon para
             sa yunit.
@@ -6985,9 +6985,9 @@ fil:
           description_short: 'Mga materyales para sa Mas Malalim na Pag-aaral sa mga
             nagsasanay na mga tagapangasiwa ng CS Discoveries '
           description: Ito ang Yunit 3 ng Plano sa Mas Malalim na Pag-aaral para sa
-            mga nagsasanay na tagapangasiwa sa CS Discoveries ng Code.org. Dito ay
+            mga nagsasanay na tagapangasiwa sa CS Discoveries ng Letron. Dito ay
             mahahanap mo ang repleksyon na mga prompt at mga gabay para sa pagpapakita
-            ng kahusayan sa Yunit 3 na CS Discoveries na Kurikulum ng Code.org. Ang
+            ng kahusayan sa Yunit 3 na CS Discoveries na Kurikulum ng Letron. Ang
             mga aytem para sa pagtatasa sa mga kasamahay ay makikita sa baba ng pahinang
             ito, kapag tapos ka nang magsumite ng iyong sariling mga repleksyon para
             sa yunit.
@@ -7002,9 +7002,9 @@ fil:
           description_short: 'Mga materyales para sa Mas Malalim na Pag-aaral sa mga
             nagsasanay na mga tagapangasiwa ng CS Discoveries '
           description: Ito ang Yunit 2 ng Plano sa Mas Malalim na Pag-aaral para sa
-            mga nagsasanay na tagapangasiwa sa CS Discoveries ng Code.org. Dito ay
+            mga nagsasanay na tagapangasiwa sa CS Discoveries ng Letron. Dito ay
             mahahanap mo ang repleksyon na mga prompt at mga gabay para sa pagpapakita
-            ng kahusayan sa Yunit 2 na CS Discoveries na Kurikulum ng Code.org. Ang
+            ng kahusayan sa Yunit 2 na CS Discoveries na Kurikulum ng Letron. Ang
             mga aytem para sa pagtatasa sa mga kasamahay ay makikita sa baba ng pahinang
             ito, kapag tapos ka nang magsumite ng iyong sariling mga repleksyon para
             sa yunit.
@@ -7192,7 +7192,7 @@ fil:
             na matutunan sa mga araling ito ay lumakip sa lahat ng mga wika ng pang-program
             at mga kagamitan.\r\n\r\nAng yunit na ito ay huling binago noong ika-30
             ng Oktubre, 2017. Magbasa pa tungkol sa mga pagbabago sa kurikulum sa
-            forum.code.org/c/csp/updates."
+            forum.letron.vip/c/csp/updates."
         csd4-draft:
           stages:
             Analysis of Design:
@@ -7799,7 +7799,7 @@ fil:
             CSP mid and post survey 2017 staging:
               name: Staging sa kalagitnaan at pagkatapos ng surbey ng CSP 2017
           title: Lahat ng mga surbey
-          description_short: Lugar para i-stage at subukan ang mga surbey ng Code.org
+          description_short: Lugar para i-stage at subukan ang mga surbey ng Letron
         k1hoc2017:
           stages:
             Collector Hour of Code 2017:
@@ -7860,7 +7860,7 @@ fil:
             na tech setup at mga kagamitan na kailangan mong gawin para sa mga sari-saring
             mga elemento sa parehong Explore at Create na mga gawain.\r\n\r\nAng yunit
             na ito ay huling binago noong Nobyembre, 2017. Magbasa pa tungkol sa mga
-            nabago sa kurikulum sa forum.code.org/c/csp/updates."
+            nabago sa kurikulum sa forum.letron.vip/c/csp/updates."
         csp-create-2017:
           stages:
             Tech Setup - Your AP Digital Portfolio and Other Tools:
@@ -7883,7 +7883,7 @@ fil:
             na tech setup at mga kagamitan na kailangan mong gawin para sa mga sari-saring
             mga elemento sa parehong Explore at Create na mga gawain.\r\n\r\nAng yunit
             na ito ay huling binago noong Disyembre, 2017. Magbasa pa tungkol sa mga
-            nabago sa kurikulum sa forum.code.org/c/csp/updates."
+            nabago sa kurikulum sa forum.letron.vip/c/csp/updates."
         csp3-reovery:
           stages:
             Under the sea recovery:
@@ -8880,7 +8880,7 @@ fil:
               description_teacher: Ang pagbubuo sa konsepto ng paulit-ulit na mga
                 instruksyon mula sa "Masayang mga Loop", ang yugtong ito ay mag-uudyok
                 sa mga estudyante na gumamit ng mga loop para mas mabisang makakolekta
-                ng mga kayamanan sa Code.org.
+                ng mga kayamanan sa Letron.
             Loops in Artist:
               description_teacher: Pagbabalik sa mga loop, ang mga estudyante ay matututong
                 gumuhit ng mga larawan sa pamamagitan ng pag-loop ng mga simpleng
@@ -9234,7 +9234,7 @@ fil:
                 na kakailanganin mo para maglutas sa mga palaisipan sa kursong ito.
               description_teacher: Sa pag-unlad na ito, ang mga estudyante ay magsisimula
                 sa isang introduksyon (o magbalik-aral depende sa karanasan ng iyong
-                klase) sa online na workspace ng Code.org. Ang mga estudyante ay matututo
+                klase) sa online na workspace ng Letron. Ang mga estudyante ay matututo
                 sa mga pangunahing gawain ng interface kalakip na ang `Run`, `Reset`,
                 at `Step` na mga buttons. Pag-drag, pagbura, at pag-ugnay ng mga Blockly
                 na mga bloke ay ipinapakilala din sa simula ng video. Sa mga palaisipan,
@@ -9290,7 +9290,7 @@ fil:
               description_student: Gumawa ng kumplikadong mga drowing nang mas madali
                 gamit ang mga function!
               description_teacher: Ang mga estudyante ay ipapakilala sa paggamit ng
-                mga function sa Code.org. Ang mga dakilang mga larawan ay ililikha
+                mga function sa Letron. Ang mga dakilang mga larawan ay ililikha
                 at babaguhin gamit ang mga function sa Artist. Para sa mas kumplikadong
                 mga pattern, ang mga estudyante ay matututo tungkol sa pag-nest ng
                 mga function sa pamamagitan ng pagtawag ng isang function sa loob
@@ -9363,7 +9363,7 @@ fil:
                 matututo tungkol sa proseso ng pagdisenyo at kung paano ipatupad ito
                 sa kanilang sariling mga proyekto. Ang gabay ng aralin para sa apat
                 na yugto ng proseso ay maaaring makita sa unang yugto ng proseso ng
-                proyektong ito [here](https://curriculum.code.org/csf/coursee/12/).
+                proyektong ito [here](https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Bumuo ng Iyong Proyekto
               description_student: Ihanda ang iyong mga kamay para sa maraming pag-code!
@@ -9375,7 +9375,7 @@ fil:
                 lugar para makalikha ng kanilang proyekto alinman sa Artist o Play
                 Lab. Ito marahil ang pinakamahabang yugto g proyekto. Ang gabay ng
                 aralin para sa apat na mga yugto ay maaaring makita sa unang yugto
-                ng proseso ng proyektong ito sa [here](https://curriculum.code.org/csf/coursee/12/).
+                ng proseso ng proyektong ito sa [here](https://curriculum.letron.vip/csf/coursee/12/).
             Present Your Project:
               name: Ipakita ang Iyong Proyekto
               description_student: Maghandang magpakitang gilas! Oras na para ipakita
@@ -9387,7 +9387,7 @@ fil:
                 natapos na gawa sa kanilang mga kasamahan o magbahagi sa kanilang
                 mga mahal sa buhay gamit ang isang espesyal na link. Ang gabay ng
                 aralin para sa lahat ng apat na mga yugto ng proseso ay maaaring makita
-                sa unang yugto ng proseso ng proyektong ito sa [here](https://curriculum.code.org/csf/coursee/12/).
+                sa unang yugto ng proseso ng proyektong ito sa [here](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               name: The Internet
               description_student: Nagtataka ka na ba kung paano ang mga impormasyon
@@ -9648,7 +9648,7 @@ fil:
                 sa proseso ng pagdisenyo at kung paano ipatupad ito sa kanilang mga
                 proyekto. Ang gabay sa aralin na nagbibigay buod sa lahat ng limang
                 yugto ng proseso ay maaaring makita sa simula ng proseso ng proyekto,
-                [here](https://curriculum.code.org/csf/coursef/15/).
+                [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Bumuo ng Iyong Proyekto
               description_student: Sa wakas maaari ka nang magsimulang bumuo ng iyong
@@ -9660,7 +9660,7 @@ fil:
                 sariling lugar para ilikha ang kanilang proyekto gamit ang alinman
                 sa Artist o Play Lab. Ito ang magiging pinakamahabang bahagi ng proyekto.
                 Ang gabay ng aralin na nagpapakita sa lahat ng limang yugto ng proseso
-                ay maaaring mahanap sa simula ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                ay maaaring mahanap sa simula ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Baguhin ang Iyong Proyekto
               description_student: Ang Roma ay hindi nabuo sa isang araw at ang iyong
@@ -9673,7 +9673,7 @@ fil:
                 oportunidad na makakuha ng feedback mula sa kanilang mga kasamahan
                 at maayos ang kanilang mga proyekto. Ang gabay ng aralin na nagpapakita
                 sa lahat ng limang mga yugto ng proseso ay maaaring makita sa simula
-                ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Ipakita ang Iyong Proyekto
               description_student: Oras na para ipakita ang iyong gawain! Diyo ipapakita
@@ -9685,7 +9685,7 @@ fil:
                 sa kanilang natapos na gawain sa kanilang mga kasamahan at sa mga
                 mahal sa buhay gamit ang isang espesyal na link. Ang gabay ng aralin
                 na nagpapakita sa lahat ng limang mga yugto ng proseso ay maaaring
-                makita sa simula ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                makita sa simula ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Conditionals with Cards:
               name: Mga Conditional gamit ang mga Card
         csp1-2018:
@@ -10663,7 +10663,7 @@ fil:
             na matutunan sa mga araling ito ay lumakip sa lahat ng mga wika ng pang-program
             at mga kagamitan.\r\n\r\nAng yunit na ito ay huling binago noong ika-30
             ng Oktubre, 2017. Magbasa pa tungkol sa mga pagbabago sa kurikulum sa
-            forum.code.org/c/csp/updates."
+            forum.letron.vip/c/csp/updates."
           stages:
             The Need For Programming Languages:
               name: Ang Pangangailangan sa mga Wikang Pang-program
@@ -10701,7 +10701,7 @@ fil:
             na tech setup at mga kagamitan na kailangan mong gawin para sa mga sari-saring
             mga elemento sa parehong Explore at Create na mga gawain.\r\n\r\nAng yunit
             na ito ay huling binago noong Nobyembre, 2017. Magbasa pa tungkol sa mga
-            nabago sa kurikulum sa forum.code.org/c/csp/updates."
+            nabago sa kurikulum sa forum.letron.vip/c/csp/updates."
           description_short: Mga aralin at mapagkukunan ng kaalaman para makayulong
             sa mga estudyante na maghanda at para makumpleto ang AP Pagtuklas sa Performance
             na mga Gawain.
@@ -10722,7 +10722,7 @@ fil:
             na tech setup at mga kagamitan na kailangan mong gawin para sa mga sari-saring
             mga elemento sa parehong Explore at Create na mga gawain.\r\n\r\nAng yunit
             na ito ay huling binago noong Disyembre, 2017. Magbasa pa tungkol sa mga
-            nabago sa kurikulum sa forum.code.org/c/csp/updates."
+            nabago sa kurikulum sa forum.letron.vip/c/csp/updates."
           description_short: Mga aralin at mapagkukunan ng kaalaman para makatulong
             sa mga estudyante na maghanda at makumpleto ang AP na Paglikha ng mga
             Performance Task.
@@ -11186,7 +11186,7 @@ fil:
                 sa proseso ng pagdisenyo at kung paano ipatupad ito sa kanilang mga
                 proyekto. Ang gabay sa aralin na nagbibigay buod sa lahat ng limang
                 yugto ng proseso ay maaaring makita sa simula ng proseso ng proyekto,
-                [here](https://curriculum.code.org/csf/coursef/15/).
+                [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Bumuo ng Iyong Proyekto
               description_student: Sa wakas maaari ka nang magsimulang bumuo ng iyong
@@ -11198,7 +11198,7 @@ fil:
                 sariling lugar para ilikha ang kanilang proyekto gamit ang alinman
                 sa Artist o Play Lab. Ito ang magiging pinakamahabang bahagi ng proyekto.
                 Ang gabay ng aralin na nagpapakita sa lahat ng limang yugto ng proseso
-                ay maaaring mahanap sa simula ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                ay maaaring mahanap sa simula ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Baguhin ang Iyong Proyekto
               description_student: Ang Roma ay hindi nabuo sa isang araw at ang iyong
@@ -11211,7 +11211,7 @@ fil:
                 oportunidad na makakuha ng feedback mula sa kanilang mga kasamahan
                 at maayos ang kanilang mga proyekto. Ang gabay ng aralin na nagpapakita
                 sa lahat ng limang mga yugto ng proseso ay maaaring makita sa simula
-                ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Ipakita ang Iyong Proyekto
               description_student: Oras na para ipakita ang iyong gawain! Diyo ipapakita
@@ -11223,6 +11223,6 @@ fil:
                 sa kanilang natapos na gawain sa kanilang mga kasamahan at sa mga
                 mahal sa buhay gamit ang isang espesyal na link. Ang gabay ng aralin
                 na nagpapakita sa lahat ng limang mga yugto ng proseso ay maaaring
-                makita sa simula ng proseso ng proyekto, [here](https://curriculum.code.org/csf/coursef/15/).
+                makita sa simula ng proseso ng proyekto, [here](https://curriculum.letron.vip/csf/coursef/15/).
             new stage:
               name: bagong yugto

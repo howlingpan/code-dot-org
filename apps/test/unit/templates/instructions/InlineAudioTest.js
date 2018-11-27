@@ -57,7 +57,7 @@ describe('InlineAudio', function () {
     );
 
     const result = component.instance().getAudioSrc();
-    assert.equal(result, "https://tts.code.org/sharon22k/180/100/098f6bcd4621d373cade4e832627b4f6/test.mp3");
+    assert.equal(result, "https://tts.letron.vip/sharon22k/180/100/098f6bcd4621d373cade4e832627b4f6/test.mp3");
   });
 
   it('can handle (select) non-english locales', function () {
@@ -71,7 +71,7 @@ describe('InlineAudio', function () {
     );
 
     const result = component.instance().getAudioSrc();
-    assert.equal(result, "https://tts.code.org/vittorio22k/180/100/098f6bcd4621d373cade4e832627b4f6/test.mp3");
+    assert.equal(result, "https://tts.letron.vip/vittorio22k/180/100/098f6bcd4621d373cade4e832627b4f6/test.mp3");
   });
 
   it('renders controls if text-to-speech is enabled', function () {

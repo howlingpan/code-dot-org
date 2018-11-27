@@ -5,10 +5,10 @@
  */
 
  /**
- * Backup of theme javascript included in the support.code.org ZenDesk template
+ * Backup of theme javascript included in the support.letron.vip ZenDesk template
  * customizations.
  *
- * Modify template at: https://support.code.org/hc/admin/appearance
+ * Modify template at: https://support.letron.vip/hc/admin/appearance
  *
  * Please keep this backup up-to-date.
  */

@@ -32,7 +32,7 @@ pl:
         2-3_Artist_9_b: |-
           Nie zapomnij obrócić artystę o 45 stopni w lewo zanim zaczniesz rysować kwadrat!
           
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Pamiętaj, że chcesz aby podkładka kierunkowa była o 10 pikseli *szersza*... upewnij się, że **dodajesz** 10 do liczby, którą zmieniasz.
         2-3_Artist_Debugging_10_b: "**Metoda prób i błędów sprawdza się tu doskonale!**\n\nZmieniaj po jednej liczbie na raz.\n\nJeśli się zgubisz, po prostu kliknij \"Zacznij od nowa\",  a kod będzie taki jak na początku."
@@ -157,7 +157,7 @@ pl:
       2-3 Bee Conditionals 14_authored_hint:
         2-3_Bee_Conditionals_14_a: Przez dłuższy czas zastanawiasz się jak ułożyć kolejne bloki? Potraktuj czerwony kwiat dokładnie tak samo, jak fioletowy!
         2-3_Bee_Conditionals_14_b: Gdyby czerwony kwiat był fioletowy, czy możesz sobie wyobrazić, jak używać dodatkowych powtórzeń pętli skrócenia kodu?
-        2-3_Bee_Conditionals_14_c: "Spróbuj zrobić to w 2 oddzielnych krokach:  \n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Pobierz nektar 3 razy\n  - Przejdź o 5 pól\n  - Sprawdź, czy jest nektar, jeśli tak, weź go\n  - Skręć w lewo\n  \n2) Zrób miód \n  - Przesuń się na nastepne pole\n  - Zrób miód 2 razy"
+        2-3_Bee_Conditionals_14_c: "Spróbuj zrobić to w 2 oddzielnych krokach:  \n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1) Pobierz nektar 3 razy\n  - Przejdź o 5 pól\n  - Sprawdź, czy jest nektar, jeśli tak, weź go\n  - Skręć w lewo\n  \n2) Zrób miód \n  - Przesuń się na nastepne pole\n  - Zrób miód 2 razy"
       2-3 Bee Conditionals 15_authored_hint:
         2-3_Bee_Conditionals_15_a: 'Pamiętaj: Fioletowe kwiaty mogą mieć nektar lub nie (0 lub 1) i mogą zmienić ten stan za każdym uruchomieniem programu.'
       2-3 Bee Conditionals 3_authored_hint:
@@ -175,13 +175,13 @@ pl:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: Nie musisz używać pętli z funkcją. Spróbuj w ruchu, za pomocą funkcji, by przeniósł się ponownie przy użyciu funkcji.
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel!"
         2-3_Bee_Functions_8_b: |-
           Pamiętaj, aby budować kodu wewnątrz zielonego bloku funkcji.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Powinieneś użyć czterech bloków wewnątrz pętli.
       2-3 Bee Loops 3_authored_hint:
@@ -222,7 +222,7 @@ pl:
       2-3 Maze Loops 21_authored_hint:
         2-3_Maze_Loops_21_a: Jeśli masz problem ze znalezieniem wzoru schodków, próbuj napisać kod linia po linii.
       4-5 Artist 1_authored_hint:
-        4-5_Artist_1_a: "![](https://images.code.org/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
+        4-5_Artist_1_a: "![](https://images.letron.vip/e5a08f29a9c4e306de5553dafca9fb5d-image-1467913845542.gif)"
       4-5 Artist 11_authored_hint:
         4-5_Artist_11_a: W pętli upewnij się, że artysta przeskakuje do tyłu i do góry po każdej linii.
       4-5 Artist 3_authored_hint:
@@ -317,7 +317,7 @@ pl:
           **Rozwiązanie**
           
           
-          ![Obraz bloków rozwiązanie] (https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Obraz bloków rozwiązanie] (https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Bergeron Robot Maze1_authored_hint:
         2-3_Maze_1_a: Aby użyć bloku 'Idź do przodu', przeciągnij go do obszaru roboczego i ułóż poniżej bloku 'po uruchomieniu'.
       Course 4 Artist 11_authored_hint:
@@ -460,7 +460,7 @@ pl:
       Course 4 SCF 2_authored_hint:
         Course_4_SCF_2_a: Każdy sześciokąt ma boki długości 40 pikseli.
       Course 4 SCF 3_authored_hint:
-        Course_4_SCF_3_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        Course_4_SCF_3_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         Course_4_SCF_3_d: 'Nie zapomnij obrócić się o 22.5 stopni pod koniec każdej iteracji. '
         Course_4_SCF_3_e: Zarówno kolor każdego ośmiokąta jak i szerokość pióra są sterowane przez zmienną 'licznik'.
         Course_4_SCF_3_f: |-
@@ -610,14 +610,14 @@ pl:
           </block>
           </xml>
       Course 4 SCFL 1_authored_hint:
-        Course_4_SCFL_1_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_1_b: 'Spróbuj użyć dwóch pętlach "dla": jednej dla wznoszenia się by zebrać nektar, a drugiej dla schodzenia i robienia miodu.'
         Course_4_SCFL_1_c: "Zauważ, że jedna pętla \"dla\" potrzebuje wewnątrz wielu zwykłych pętli, które powtarzaj się 'licznik' razy, aby utworzyć wzór wznoszących się schodów. Inna pętla \"dla\" potrzebuje tylko jednej zwykłej pętli, aby zrobić 'licznik' miodu."
       Course 4 SCFL 1b_authored_hint:
         Course_4_SCFL_1b_a: Spróbuj użyć pętli "dla".
-        Course_4_SCFL_1b_b: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_1b_b: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
       Course 4 SCFL 2_authored_hint:
-        Course_4_SCFL_2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        Course_4_SCFL_2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         Course_4_SCFL_2_b: Zauważ, że istnieją trzy czynności podczas każdego kroku pętli `for`, która przechodzisz, aby wykonać jakąś akcję dla konkretnego obiektu.
         Course_4_SCFL_2_c: Podczas każdej iteracji pętli `for`, liczba każdego elementu odpowiada w jakiś sposób zmiennej `counter`.
         Course_4_SCFL_2_d: |-
@@ -798,7 +798,7 @@ pl:
           **Rozwiązanie**
           
           
-          ![Obraz bloków rozwiązanie] (https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          ![Obraz bloków rozwiązanie] (https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Spróbuj tak pokierować Agentem tak, aby zbudował kilka dróg dla minicart, dzięki temu będziesz mógł wyruszyć w świat!
       MC_HOC_2017_01_Cole_authored_hint:
@@ -840,7 +840,7 @@ pl:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Przekroczenie tych dwóch płyt naciskowych otworzy przejście dla gracza. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Aby Agent się obrócił, Użyj bloku "skręć w prawo", aby Agent się obrócił '
         MC_HOC_2017_04POINT5_RYAN_a: Wystarczy, że Agent dotrze do pierwszej płyty naciskowej, aby Alex lub Steve mogli dotrzeć do siekiery.
@@ -906,7 +906,7 @@ pl:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Przekroczenie tych dwóch płyt naciskowych otworzy przejście dla gracza. 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Naciśnij przycisk "Uruchom"! 
@@ -1119,7 +1119,7 @@ pl:
         courseC_maze_debugging_challenge2_c: |-
           Są dwie różne ścieżki, które możesz śledzić używając `move forward`, i tylko 4 zakręty. Jeśli znajdziesz sposób, aby wykorzystać blok `repeat`, może być nawet więcej!
           
-          ![](https://images.code.org/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
+          ![](https://images.letron.vip/8a4665671cda35fea1f629a5bcc39e26-image-1493502743154.48.05 PM.png)
       course4_artist_variables_challenge2_authored_hint:
         courseF_artist_variables_challenge2_a: 'Zmienne są pomocne, ponieważ można do nich dodawać w każdym kroku pętli. '
         courseF_artist_variables_challenge2_b: Łamigłówka ma jedną pętle, która tworzy wielokąt, jedną pętle, która powtarza wielokąt `boki` razy, następnie jeszcze jedną pętle, która powtarza to wszystko po dodaniu wartości 5 do `sides`.
@@ -1823,23 +1823,23 @@ pl:
       courseE_artist_ramp12_authored_hint:
         courseD_artist_ramp12_a: Możesz najpierw narysować kwadrat, a potem trójkąt, albo odwrotnie!
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel!"
         courseE_bee_functions7_b: |-
           Pamiętaj, aby budować kodu wewnątrz zielonego bloku funkcji.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel!"
         courseE_bee_functions7_b: |-
           Pamiętaj, aby budować kodu wewnątrz zielonego bloku funkcji.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel!"
       courseE_bee_functions_challenge1_2018_authored_hint:
@@ -1877,11 +1877,11 @@ pl:
         courseF_artist_for_challenge2_c: '`pętla for` zmienia się od 5 do 250 z krokiem równym 2. '
         courseF_artist_for_challenge2_a: Zmiana koloru odbywa się poprzez użycie bloku `ustaw kolor z kolorem czerwonym, zielonym, niebieskim`. Czerwony ma stałą wartość 255, zielony jest zawsze wartością `licznik`, a niebieski to `255-licznik`.
       courseF_artist_fwp_challenge2_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_d: 'Nie zapomnij obrócić się o 22.5 stopni pod koniec każdej iteracji. '
         courseF_artist_fwp_challenge1_e: Zarówno kolor każdego ośmiokąta jak i szerokość pióra są sterowane przez zmienną 'licznik'.
       courseF_artist_fwp_challenge2_2018_authored_hint:
-        courseF_artist_fwp_challenge1_a: "![](https://images.code.org/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
+        courseF_artist_fwp_challenge1_a: "![](https://images.letron.vip/9310e6352e85a8265b424c9d57ca28d1-image-1446239776339.gif)"
         courseF_artist_fwp_challenge1_d: 'Nie zapomnij obrócić się o 22.5 stopni pod koniec każdej iteracji. '
         courseF_artist_fwp_challenge1_e: Zarówno kolor każdego ośmiokąta jak i szerokość pióra są sterowane przez zmienną 'licznik'.
       courseF_artist_variables_challenge1a_authored_hint:
@@ -1912,31 +1912,31 @@ pl:
         courseF_bee_conditionals8_a: "** Pamiętaj: **\n\nTa plansza jest inna za każdym uruchomieniem.\n\nBędziesz potrzebował użyć bloku warunkowego ('if' lub ' if/else') do rozwiązania problemu."
         courseF_bee_conditionals8_c: Co się stanie jak użyjesz bloku `while path ahead` i weźmiesz pierwszy kwiat jako ostatni?
       courseF_bee_for10_authored_hint:
-        courseF_bee_for10_c: "W zagadce pierwszy zestaw ma **14** kwiatów, drugi zestaw ma **10** kwiatów, trzeci zestaw ma **6** kwiatów a czwarty zestaw ma **2** kwiaty.\n\nZauważ, że na obrazku jest **7** czerwonych kwadratów, **5** pomarańczowych kwadratów, **3** zielone kwadraty i **1** niebieski blok.\n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nJak te liczby są ze sobą powiązane?"
+        courseF_bee_for10_c: "W zagadce pierwszy zestaw ma **14** kwiatów, drugi zestaw ma **10** kwiatów, trzeci zestaw ma **6** kwiatów a czwarty zestaw ma **2** kwiaty.\n\nZauważ, że na obrazku jest **7** czerwonych kwadratów, **5** pomarańczowych kwadratów, **3** zielone kwadraty i **1** niebieski blok.\n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nJak te liczby są ze sobą powiązane?"
       courseF_bee_for10_2018_authored_hint:
-        courseF_bee_for10_c: "W zagadce pierwszy zestaw ma **14** kwiatów, drugi zestaw ma **10** kwiatów, trzeci zestaw ma **6** kwiatów a czwarty zestaw ma **2** kwiaty.\n\nZauważ, że na obrazku jest **7** czerwonych kwadratów, **5** pomarańczowych kwadratów, **3** zielone kwadraty i **1** niebieski blok.\n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nJak te liczby są ze sobą powiązane?"
+        courseF_bee_for10_c: "W zagadce pierwszy zestaw ma **14** kwiatów, drugi zestaw ma **10** kwiatów, trzeci zestaw ma **6** kwiatów a czwarty zestaw ma **2** kwiaty.\n\nZauważ, że na obrazku jest **7** czerwonych kwadratów, **5** pomarańczowych kwadratów, **3** zielone kwadraty i **1** niebieski blok.\n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nJak te liczby są ze sobą powiązane?"
       courseF_bee_for10_2019_authored_hint:
-        courseF_bee_for10_c: "W zagadce pierwszy zestaw ma **14** kwiatów, drugi zestaw ma **10** kwiatów, trzeci zestaw ma **6** kwiatów a czwarty zestaw ma **2** kwiaty.\n\nZauważ, że na obrazku jest **7** czerwonych kwadratów, **5** pomarańczowych kwadratów, **3** zielone kwadraty i **1** niebieski blok.\n\n![](https://images.code.org/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nJak te liczby są ze sobą powiązane?"
+        courseF_bee_for10_c: "W zagadce pierwszy zestaw ma **14** kwiatów, drugi zestaw ma **10** kwiatów, trzeci zestaw ma **6** kwiatów a czwarty zestaw ma **2** kwiaty.\n\nZauważ, że na obrazku jest **7** czerwonych kwadratów, **5** pomarańczowych kwadratów, **3** zielone kwadraty i **1** niebieski blok.\n\n![](https://images.letron.vip/602ce14659299af6a59a79ebd0bdb9d4-image-1493221855089.6.11 Hint Drawing.png)\n\nJak te liczby są ze sobą powiązane?"
       courseF_bee_for_challenge2_authored_hint:
-        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Spróbuj użyć dwóch pętlach "dla": jednej dla wznoszenia się by zebrać nektar, a drugiej dla schodzenia i robienia miodu.'
         courseF_bee_for_challenge2_c: "Zauważ, że jedna pętla \"dla\" potrzebuje wewnątrz wielu zwykłych pętli, które powtarzaj się 'licznik' razy, aby utworzyć wzór wznoszących się schodów. Inna pętla \"dla\" potrzebuje tylko jednej zwykłej pętli, aby zrobić 'licznik' miodu."
       courseF_bee_for_challenge2_2018_authored_hint:
-        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Spróbuj użyć dwóch pętlach "dla": jednej dla wznoszenia się by zebrać nektar, a drugiej dla schodzenia i robienia miodu.'
         courseF_bee_for_challenge2_c: "Zauważ, że jedna pętla \"dla\" potrzebuje wewnątrz wielu zwykłych pętli, które powtarzaj się 'licznik' razy, aby utworzyć wzór wznoszących się schodów. Inna pętla \"dla\" potrzebuje tylko jednej zwykłej pętli, aby zrobić 'licznik' miodu."
       courseF_bee_for_challenge2_2019_authored_hint:
-        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Spróbuj użyć dwóch pętlach "dla": jednej dla wznoszenia się by zebrać nektar, a drugiej dla schodzenia i robienia miodu.'
         courseF_bee_for_challenge2_c: "Zauważ, że jedna pętla \"dla\" potrzebuje wewnątrz wielu zwykłych pętli, które powtarzaj się 'licznik' razy, aby utworzyć wzór wznoszących się schodów. Inna pętla \"dla\" potrzebuje tylko jednej zwykłej pętli, aby zrobić 'licznik' miodu."
       courseF_bee_for_challenge3_authored_hint:
-        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.code.org/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
+        courseF_bee_for_challenge2_a: "Spójrz na tę opcję dla ruchu:! [] (https://images.letron.vip/07fa7bdbbaaae3ecf2663a360b3e87d7-image-1469726373660.png)"
         courseF_bee_for_challenge2_b: 'Spróbuj użyć dwóch pętlach "dla": jednej dla wznoszenia się by zebrać nektar, a drugiej dla schodzenia i robienia miodu.'
         courseF_bee_for_challenge2_c: "Zauważ, że jedna pętla \"dla\" potrzebuje wewnątrz wielu zwykłych pętli, które powtarzaj się 'licznik' razy, aby utworzyć wzór wznoszących się schodów. Inna pętla \"dla\" potrzebuje tylko jednej zwykłej pętli, aby zrobić 'licznik' miodu."
       courseF_bee_functions6_authored_hint:
-        courseF_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel!"
       courseF_bee_functions8a_2018_authored_hint:
@@ -2294,12 +2294,12 @@ pl:
         grade1_artist_loops6_b: |-
           Zauważ, że każda pętla tworzy wzór schodów, które będą zwrócone w inną stronę.
           
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
       grade1_artist_loops7a_authored_hint:
         artistLoopsK9_b: |-
           Zauważ, że każda pętla tworzy wzór schodów, które będą zwrócone w inną stronę.
           
-          ![](https://images.code.org/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
+          ![](https://images.letron.vip/7d08d5514766c5c15074e90731991505-image-1466705649513.gif)
       grade1_maze_sequence7_authored_hint:
         grade1_maze_sequence7a: Nie wiesz co zrobić? Spróbuj dodawać bloki jeden po drugim aż znajdziesz rozwiązanie.
       grade2_CaringForNewPet_4_authored_hint:
@@ -2434,13 +2434,13 @@ pl:
       grade4_bee_conditionals_quantum5_authored_hint:
         remember_quantum: "** Pamiętaj: **\n\nTa plansza jest inna za każdym uruchomieniem.\n\nBędziesz potrzebował użyć bloku warunkowego ('if' lub ' if/else') do rozwiązania problemu."
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel! \n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "Jeśli zadanie wydaje Ci sie za trudne,  spróbuj budować funkcje po kawałku.  \n\nDodaj bloki, a następnie wypróbuj ich działanie. Dodaj kolejne, a następnie spróbuj ponownie.  Wkrótce osiągniesz cel!"
         2-3_Bee_Functions_8_b: |-
           Pamiętaj, aby budować kodu wewnątrz zielonego bloku funkcji.
           
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Jeżeli użyjesz bloku "idź do przodu o 100 pikseli", narysuję linię automatycznie.
         2-3_Artist_1_new_b: Masz problem z zakrętem? Użyj bloku "skręć w prawo o 90 stopni".

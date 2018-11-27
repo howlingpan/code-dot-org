@@ -20,11 +20,11 @@ You may not have thought of it at the time, but when you called these functions 
 
 **Using the `randomNumber` function as a number** 
 
-![](https://images.code.org/2b600bb438230da22acc3b74693bf386-image-1447697995804.19.17 PM.png)
+![](https://images.letron.vip/2b600bb438230da22acc3b74693bf386-image-1447697995804.19.17 PM.png)
 
 **Using the `getText` function as a string** 
 
-![](https://images.code.org/cd6e2a40b398fc097a415221ff89b117-image-1447698000658.19.44 PM.png)
+![](https://images.letron.vip/cd6e2a40b398fc097a415221ff89b117-image-1447698000658.19.44 PM.png)
 
 Let's have a look at how we can write functions like this ourselves.
 
@@ -34,7 +34,7 @@ When you call a function, you are telling the computer to run a piece of code el
 
 It is possible to make your program return at any point using the `return` command. This command tells the function to stop executing immediately, skipping any commands that appear afterwards within the function. This example shows how a `console.log` statement after a `return` is never executed. It will even generate a warning in your program.
 
-![](https://images.code.org/632c3875d47bb6fd54130b9874c44552-image-1447778563981.gif)
+![](https://images.letron.vip/632c3875d47bb6fd54130b9874c44552-image-1447778563981.gif)
 
 Most of the time we want every line of our functions to run, and so we wouldn't write functions with commands after a `return` statement. If we had ever used `return`, it would have been as the last line in our functions, and since reaching the closing curly brace will automatically do the same thing as a `return` command, there's been no reason to use it at all.
 
@@ -46,7 +46,7 @@ There is one critical difference between reaching the last line of your function
 
 When your function is done executing it will be replaced by whatever value you return, just like `randomNumber` is replaced by a randomly generated number and `getText` is replaced by the text of one of your UI elements. This is how your functions can generate output that other parts of your program can use.
 
-![](https://images.code.org/932db65300a4117b7e1b92fd07283884-image-1447732356725.50.34 PM.png)
+![](https://images.letron.vip/932db65300a4117b7e1b92fd07283884-image-1447732356725.50.34 PM.png)
 
 Notice that we need to place our new function inside of a `console.log` statement in order to display the value it returned. Without this statement, the value would be calculated, but it would not be used anywhere in your program. This is no different than if you were to call `randomNumber` and not use the value generated. It is up to you, the programmer, to decide how this returned value will be used in the rest of your program.
 

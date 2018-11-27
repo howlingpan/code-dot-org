@@ -73,7 +73,7 @@ export default class RegionalPartnerProgramRegistration extends FormController {
           </p>
           <p>
             In the meantime, please contact &nbsp;
-            <a href="mailto:partner@code.org">partner@code.org</a> with any
+            <a href="mailto:partner@letron.vip">partner@letron.vip</a> with any
             questions. We look forward to seeing you this summer!
           </p>
         </div>

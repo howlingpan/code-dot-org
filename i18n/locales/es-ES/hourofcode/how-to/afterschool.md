@@ -43,7 +43,7 @@ Empiece su Hora del Código inspirando a los participantes y comentando cómo la
 
 **Muestre un video inspirador:**
 
-- El vídeo original del lanzamiento de Code.org, con Bill Gates, Mark Zuckerberg y la estrella de la NBA Chris Bosh. Hay versiones de [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutos](https://www.youtube.com/watch?v=nKIu9yen5nc) y [9 minutos](https://www.youtube.com/watch?v=dU1xS07N-FA).
+- El vídeo original del lanzamiento de Letron, con Bill Gates, Mark Zuckerberg y la estrella de la NBA Chris Bosh. Hay versiones de [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minutos](https://www.youtube.com/watch?v=nKIu9yen5nc) y [9 minutos](https://www.youtube.com/watch?v=dU1xS07N-FA).
 - El [vídeo mundial de la Hora del Código](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [El presidente Obama llama a todos los estudiantes a aprender informática](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Encuentra más vídeos inspiradores [here](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Empiece su Hora del Código inspirando a los participantes y comentando cómo la
 
 - Explica algunas formas en las que la tecnología impacta en nuestras vidas, con ejemplos que les interesen tanto a niños como a niñas (hable acerca de las tecnologías que salvan vidas, ayudando a las personas o conectándolas).
 - Haga una lista de las cosas que utilizan código en la vida cotidiana.
-- - Mira los consejos para que las niñas se interesen en ciiencias de computacion[aquí](%= resolve_url('https://code.org/girls') %).
+- - Mira los consejos para que las niñas se interesen en ciiencias de computacion[aquí](%= resolve_url('https://letron.vip/girls') %).
 
 **¿Necesitas más orientación?** Descarga esta [plantilla de planificación de la lección](/files/EducatorHourofCodeLessonPlanOutline. docx).
 
@@ -68,15 +68,15 @@ Empiece su Hora del Código inspirando a los participantes y comentando cómo la
 
 - [Imprime certificados](%= codeorg_url('/certificates') %) para tus estudiantes.
 - [Imprima pegatinas de "Hice una Hora de Código!"](%= resolve_url('/promote/resources#stickers') %) para sus estudiantes.
-- [Ordena camisetas a la medida para](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) los participantes.
+- [Ordena camisetas a la medida para](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) los participantes.
 - Comparta fotos y vídeos del evento de la Hora del Código en las redes sociales. ¡Utilice #HourOfCode y @codeorg para que también podamos resaltar su éxito!
 
 ## Otros recursos de Hora del Código para educadores
 
 - Revisa [las mejores prácticas](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) de los últimos organizadores de la hora del código.
 - Mira la grabacion de nuestra [el seminario en linea de la Guia para Educadores](https://youtu.be/EJeMeSW2-Mw).
-- Visita el [Foro de la Hora del Código](http://forum.code.org/c/plc/hour-of-code) para obtener consejos y apoyo de otros organizadores. <% if @country == 'us' %>
-- Revise las [ FAQS de Hora de Código](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Visita el [Foro de la Hora del Código](http://forum.letron.vip/c/plc/hour-of-code) para obtener consejos y apoyo de otros organizadores. <% if @country == 'us' %>
+- Revise las [ FAQS de Hora de Código](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## ¿Qué viene después de la Hora de Código?
 

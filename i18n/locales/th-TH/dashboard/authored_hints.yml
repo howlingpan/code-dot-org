@@ -167,7 +167,7 @@ th:
       2-3 Bee Functions 6_authored_hint:
         2-3_Bee_Functions_6_a: คุณไม่จำเป็นต้องใช้ลูปกับฟังก์ชัน ลองเคลื่อนย้ายผึ้งโดยใช้ฟังก์ชันจากนั้นย้ายผึ้งและใช้ฟังก์ชันอีกครั้ง
       2-3 Bee Functions 8_authored_hint:
-        2-3_Bee_Functions_8_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!"
       2-3 Bee Loops 2_authored_hint:
@@ -295,7 +295,7 @@ th:
         Function_intro_Ryan_b: ถ้าคุณเรียกใช้งานฟังก์ชั่นอย่างถูกต้อง นี่คือเส้นทางที่คุณจะเดินทางไป
         Function_intro_Ryan_a: คุณสามารถเรียกฟังก์ชั่นได้หลายครั้งในโปรแกรมของคุณ ลองเรียกใช้งานดูสักสองครั้งเพื่อพิชิตปริศนาด่านนี้ให้สาเร็จ
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "ดู **ตะเกียงใต้ทะเล** [](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png) หรือไม่ คุณจะใช้มันเพื่อผ่าน Ocean Monument ได้อย่างไร"
+        voyage_aquatic_10a: "ดู **ตะเกียงใต้ทะเล** [](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png) หรือไม่ คุณจะใช้มันเพื่อผ่าน Ocean Monument ได้อย่างไร"
       HOC 2018 Level_9b_authored_hint:
         voyage_aquatic_9a: เห็นบล็อกปะการังสีแดงและสีฟ้าไหม? ใช้เป็นเครื่องนำทางเพื่อหันขวาและหันซ้ายผ่านแนวปะการัง
       K2.0 sequence 10_authored_hint:
@@ -526,9 +526,9 @@ th:
         courseA_artist_loops_challenge1_a: |+
           คุณสามารถใช้ลูปแบบนี้เพื่อสร้างผนังและหลังคา ลองทำซ้ำบล็อกที่แตกต่างกันไป
           
-          ![](https://images.code.org/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
+          ![](https://images.letron.vip/1581a2f599b501103064fc9864aa964d-image-1491863694560.png)
           
-          น้องๆ อาจจะออกแบบเองหรือคลิก ![](https://images.code.org/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) เพื่อดูไอเดียก็ได้
+          น้องๆ อาจจะออกแบบเองหรือคลิก ![](https://images.letron.vip/53090194cea5dbf35ce9e35205156f5d-image-1491864793265.png) เพื่อดูไอเดียก็ได้
       course1_maze_seq_challenge1_authored_hint:
         courseA_maze_seq_challenge2_a: ลองนับจำนวนช่องว่างใช้นิ้วของคุณ จำไว้ว่าต้องไม่นับรวมเอาที่ที่คุณเริ่มต้น!
       course2_maze_seq_challenge1_authored_hint:
@@ -551,13 +551,13 @@ th:
         courseA_artist_loops3_b: |-
           คุณต้องใช้บล็อกแบบนี้เพื่อแก้ปริศนา
           
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops3_2018_authored_hint:
         courseA_artist_loops3_a: ลองลากตามรอยช้าๆไปตามโปรแกรม ด้วยการใช้นิ้วมือของคุณ เพื่อดูว่ามีอะไรไม่ถูกต้อง
         courseA_artist_loops3_b: |-
           คุณต้องใช้บล็อกแบบนี้เพื่อแก้ปริศนา
           
-          ![](https://images.code.org/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
+          ![](https://images.letron.vip/16a3ab2e639eacee18ee5405ed9966dc-image-1498670745551.24.49 AM.png)
       courseA_artist_loops4_authored_hint:
         courseA_artist_loops4_a: ถ้าคุณต้องการให้ลูปซ้ำมากกว่า 4 ครั้งคุณสามารถเปลี่ยนหมายเลขที่ด้านบนของบล็อกได้
         courseA_artist_loops4_b: |-
@@ -1146,7 +1146,7 @@ th:
         courseB_starWars_prog5_da: |-
           ดูสิ่งที่เกิดขึ้น หากว่าคุณใช้วิธีการแก้ปัญหาเดียวกัน เป็นปริศนาขั้นบันได:
           
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseB_starWars_prog5_2018_authored_hint:
         courseB_starWars_prog5_a: รูปแบบดูจะไปเหมือนกับปริศนาที่แล้วใช่ไหม
         courseB_starWars_prog5_b: บีบี-8 จะคว้าเศษซากโลหะตอนที่เขากลิ้งผ่านและทับมันไป
@@ -1154,7 +1154,7 @@ th:
         courseB_starWars_prog5_da: |-
           ดูสิ่งที่เกิดขึ้น หากว่าคุณใช้วิธีการแก้ปัญหาเดียวกัน เป็นปริศนาขั้นบันได:
           
-          ![](https://images.code.org/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
+          ![](https://images.letron.vip/866b4121069423bf03d92dcb8f2276af-image-1503709785988.09.24.png)
       courseB_starWars_prog6_authored_hint:
         courseB_starWars_prog6_a: รูปแบบที่เห็นอยู่นี้ เป็นรูปแบบขั้นบันได ที่มีการเคลื่อนไหวสองครั้งในแต่ละทิศทาง
         courseB_starWars_prog6_b: |-
@@ -1432,10 +1432,10 @@ th:
         courseC_artist_loopsPrePre1a_a: |-
           บล็อกที่คุณต้องใช้บล็อกแรกคือ:
           
-          ![](https://images.code.org/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
+          ![](https://images.letron.vip/60e3354a2e7dd37b64833eac1e8694be-image-1499710228373.08.14 AM.png)
         courseC_artist_loopsPrePre1a_b: |-
           เคลื่อนที่ไปข้างหน้า 50 พิกเซล ใช้บล็อกนี้:
-          ![](https://images.code.org/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
+          ![](https://images.letron.vip/411fca4606a09641e6eedf5069ac4efa-image-1499710237929.08.27 AM.png)
       courseC_artist_loopsPrePre1a_2018_authored_hint:
         courseC_artist_loopsPrePre1a_a: |-
           บล็อกที่คุณต้องใช้บล็อกแรกคือ:
@@ -1762,7 +1762,7 @@ th:
           
           สุดท้าย ให้ใส่บล็อกอื่นๆของคุณกลับเข้าที่
           
-          ![](https://images.code.org/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
+          ![](https://images.letron.vip/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
         courseC_maze_debugging3_b: ไม่สามารถหาได้ว่ามีอะไรผิดปกติ ลองเรียกใช้งานโค้ดครั้งหนึ่งหรือสองครั้งเพื่อดูว่าเกิดอะไรขึ้น
       courseC_maze_debugging3_2018_authored_hint:
         courseC_maze_debugging3_a: |-
@@ -1772,7 +1772,7 @@ th:
           
           สุดท้าย ให้ใส่บล็อกอื่นๆของคุณกลับเข้าที่
           
-          ![](https://images.code.org/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
+          ![](https://images.letron.vip/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
         courseC_maze_debugging3_b: ไม่สามารถหาได้ว่ามีอะไรผิดปกติ ลองเรียกใช้งานโค้ดครั้งหนึ่งหรือสองครั้งเพื่อดูว่าเกิดอะไรขึ้น
       courseC_maze_debugging3_2019_authored_hint:
         courseC_maze_debugging3_a: |-
@@ -1782,7 +1782,7 @@ th:
           
           สุดท้าย ให้ใส่บล็อกอื่นๆของคุณกลับเข้าที่
           
-          ![](https://images.code.org/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
+          ![](https://images.letron.vip/bbafa5a100505b2b99a3f43ad3195471-image-1479933232821.gif)
         courseC_maze_debugging3_b: ไม่สามารถหาได้ว่ามีอะไรผิดปกติ ลองเรียกใช้งานโค้ดครั้งหนึ่งหรือสองครั้งเพื่อดูว่าเกิดอะไรขึ้น
       courseC_maze_debugging4_authored_hint:
         courseC_maze_debugging4_a: ใช้ปุ่ม  "ขั้นตอน " เพื่อเรียกใช้งานผ่านคำสั่งทีละครั้ง คุณคิดว่าจะช่วยให้คุณค้นหาบรรทัดที่ผิดได้หรือไม่
@@ -1831,7 +1831,7 @@ th:
         courseC_maze_programming2_b: ให้แน่ใจว่าบล็อกทั้งหมดมีการต่อติดกันอย่างสมบูรณฺ์ แล้วให้คลิก "เริ่ม" อีกครั้งหนึ่ง
       courseC_maze_programming3_authored_hint:
         courseC_maze_programming3_b: |-
-          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
+          ![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
           
           เมื่อต้องการลบบล็อกใดบล็อคหนึ่งออกจากตรงกลางของโค้ด ให้ลากบล็อกทั้งหมดไปยังส่วนอื่นของพื้นที่ทำงาน
           
@@ -1840,7 +1840,7 @@ th:
           สุดท้าย ให้ใส่บล็อกอื่นๆของคุณกลับเข้าที่
       courseC_maze_programming3_2018_authored_hint:
         courseC_maze_programming3_b: |-
-          ![](https://images.code.org/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
+          ![](https://images.letron.vip/afddde0e99d5d270c658de0c03dd6e2c-image-1481174000309.gif)
           
           เมื่อต้องการลบบล็อกใดบล็อคหนึ่งออกจากตรงกลางของโค้ด ให้ลากบล็อกทั้งหมดไปยังส่วนอื่นของพื้นที่ทำงาน
           
@@ -1917,13 +1917,13 @@ th:
         course_starWars_loops9_c: |-
           คุณไม่จำเป็นต้องหันซ้ายเพื่อแก้ปริศนานี้ การเหันทั้งหมดของคุณสามารถหันไปทางขวาอย่างเดียว
           
-          ![](https://images.code.org/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
+          ![](https://images.letron.vip/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
       courseC_starWars_loops9_2018_authored_hint:
         course_starWars_loops9_b: คุณสามารถใส่บล็อกได้มากกว่าหนึ่งบล็อกภายในลูป `ทำซ้ำ`
         course_starWars_loops9_c: |-
           คุณไม่จำเป็นต้องหันซ้ายเพื่อแก้ปริศนานี้ การเหันทั้งหมดของคุณสามารถหันไปทางขวาอย่างเดียว
           
-          ![](https://images.code.org/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
+          ![](https://images.letron.vip/3dd00d424aa4112934053548b48bbb69-image-1510198997590.40.57.png)
       courseD_artist_5_2018_authored_hint:
         '1': If you are switching your shapes, don't forget that you will need to switch their angles, too!
       courseD_artist_binary1_authored_hint:
@@ -1932,14 +1932,14 @@ th:
         courseD_artist_binary1_c: |-
           ต่อไปนี้คือวิธีที่คุณใส่ข้อมูลไบนารีโค้ดของคุณ:
           
-          ![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+          ![](https://images.letron.vip/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
       courseD_artist_binary1_2018_authored_hint:
         courseD_artist_binary1_a: ใส่ค่าไบนารีที่เป็นเลข 0 (ศูนย์) หรือ 1(หนึ่ง) ที่คุณต้องการ ลงไปแทน "???"
         courseD_artist_binary1_b: ศิลปินจะวาดช่องเป็นสีขาวแทนค่า 1 และวาดช่องเป็นสีดำแทนค่า 0 ทุกๆตัวเลข
         courseD_artist_binary1_c: |-
           ต่อไปนี้คือวิธีที่คุณใส่ข้อมูลไบนารีโค้ดของคุณ:
           
-          ![](https://images.code.org/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
+          ![](https://images.letron.vip/ec0f974e32c4323fc61cb49b48b8f1c0-image-1500334311345.2_hint.gif)
       courseD_artist_binary2_authored_hint:
         courseD_artist_binary2_a: เพียงคลิก ` เริ่ม `เพื่อดูโปรแกรมนี้ทำงาน
       courseD_artist_binary2_2018_authored_hint:
@@ -2081,20 +2081,20 @@ th:
         courseD_artist_nestedLoops9_a: เริ่มต้นด้วยการใช้ลูปที่ซ้อนกันเช่นเดียวกับก่อนหน้านี้ แต่คราวนี้ให้สร้างด้วยสี่เหลี่ยมแทน
       courseD_artist_nestedLoopsFP_authored_hint:
         courseD_artist_nestedLoopsFP_a: |-
-          <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
+          <img src="https://images.letron.vip/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
           
           รูปนี้ถูกสร้างขึ้นโดยใช้ลูปซ้อนกันอันเดียวที่ทำซ้ำหกเหลี่ยม (ที่มีด้าน 50px) 15 ครั้งโดยใช้การหันไป 48 องศา
         courseD_artist_nestedLoopsFP_c: |-
-          <img src="https://images.code.org/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
+          <img src="https://images.letron.vip/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
           
           รูปนี้ถูกสร้างขึ้นโดยใช้ลูปซ้อนกันอันเดียวที่ทำซ้ำรูปห้าเหลี่ยมด้านเท่า (ที่มีด้าน 50 px) 15 ครั้งโดยใช้การหันไป 48 องศา
       courseD_artist_nestedLoopsFP_2018_authored_hint:
         courseD_artist_nestedLoopsFP_a: |-
-          <img src="https://images.code.org/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
+          <img src="https://images.letron.vip/9257cbf61f238f5a749a949059731934-image-1478732674615.02.25.png" width="200px"/>
           
           รูปนี้ถูกสร้างขึ้นโดยใช้ลูปซ้อนกันอันเดียวที่ทำซ้ำหกเหลี่ยม (ที่มีด้าน 50px) 15 ครั้งโดยใช้การหันไป 48 องศา
         courseD_artist_nestedLoopsFP_c: |-
-          <img src="https://images.code.org/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
+          <img src="https://images.letron.vip/f654f1512860c6c8cf6795c961a8959c-image-1478732674616.02.58.png" width="200px"/>
           
           รูปนี้ถูกสร้างขึ้นโดยใช้ลูปซ้อนกันอันเดียวที่ทำซ้ำรูปห้าเหลี่ยมด้านเท่า (ที่มีด้าน 50 px) 15 ครั้งโดยใช้การหันไป 48 องศา
       courseD_artist_ramp12_authored_hint:
@@ -2189,7 +2189,7 @@ th:
         courseD_bee_conditionals8_a: "**ข้อควรจำ:** ปริศนานี้เปลี่ยนแปลงทุกครั้งที่ถูกเรียกใช้งาน\n\nคุณควรที่จะต้องใช้บล็อกเงื่อนไข  (`ถ้า(if)` หรือ `ถ้า/อย่างอื่น(if/else)`) เพื่อแก้ปัญหาที่ท้าทายนี้"
         courseD_bee_conditionals8_hintVid2: ดูวิดีโอเรื่องนี้เพื่อช่วยในการแก้ปริศนา
       courseD_bee_debugging2_authored_hint:
-        courseD_bee_debugging2_b: "คุณมองเห็นแบบแผนไหม?\n ลองใช้ลูปซ้อนลูปเพื่อแก้ปริศนานี้\n\n![](https://images.code.org/72fbb8a06937479599b12804f990a0f3-image-1501012383369.50.27.png)"
+        courseD_bee_debugging2_b: "คุณมองเห็นแบบแผนไหม?\n ลองใช้ลูปซ้อนลูปเพื่อแก้ปริศนานี้\n\n![](https://images.letron.vip/72fbb8a06937479599b12804f990a0f3-image-1501012383369.50.27.png)"
       courseD_bee_debugging5_authored_hint:
         courseD_bee_debugging5_a: |-
           เริ่มด้วยการดูแค่ลูปแรก
@@ -2537,11 +2537,11 @@ th:
       courseE_bee_concept3_2018_authored_hint:
         courseE_bee_concept3a_a: ลองใช้ลูปซ้อนลูป `ทำซ้ำ`พื่อแก้ปริศนานี้
       courseE_bee_functions6_authored_hint:
-        courseE_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
-        courseE_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
-        courseE_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseE_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!"
       courseE_bee_functions7_2018_authored_hint:
@@ -2642,7 +2642,7 @@ th:
       courseF_bee_functions6_authored_hint:
         courseF_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n<xml>\n  <block type=\"procedures_defnoreturn\" editable=\"false\">\n    <mutation/>\n    <title name=\"NAME\">get nectar make honey</title>\n    <statement name=\"STACK\">\n\n    </statement>\n  </block>\n</xml>"
       courseF_bee_functions6_2018_authored_hint:
-        courseF_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        courseF_bee_functions6_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!"
       courseF_bee_functions8a_2018_authored_hint:
@@ -2826,7 +2826,7 @@ th:
       grade4_bee_conditionals_quantum5_authored_hint:
         remember_quantum: "**ข้อควรจำ:** ปริศนานี้เปลี่ยนแปลงทุกครั้งที่ถูกเรียกใช้งาน\n\nคุณควรที่จะต้องใช้บล็อกเงื่อนไข  (`ถ้า(if)` หรือ `ถ้า/อย่างอื่น(if/else)`) เพื่อแก้ปัญหาที่ท้าทายนี้"
       grade4_bee_functions7_authored_hint:
-        2-3_Bee_Functions_8_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+        2-3_Bee_Functions_8_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "หากปริศนาดูเหมือนว่าจะท้าทายเกินไป ให้ลองสร้างฟังก์ชั่นทีละเล็กทีละน้อยในแต่ละครั้ง  \n\nเพิ่มบล็อกบางอย่างแล้วลองเอาออก เพิ่มใหม่แล้วลองอีกครั้ง  ในไม่ช้า คุณจะได้รับความสำเร็จ!"
       grade4_bee_nestedLoops2a_authored_hint:

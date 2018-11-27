@@ -12,7 +12,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-12 14:58:47 +0000\",\"changed\":[],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-09-26 17:40:01 +0000\",\"changed\":[],\"changed_by_id\":743,\"changed_by_email\":\"kvenkatesh@unomaha.edu\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-12 14:58:47 +0000\",\"changed\":[],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-09-26 17:40:01 +0000\",\"changed\":[],\"changed_by_id\":743,\"changed_by_email\":\"kvenkatesh@unomaha.edu\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

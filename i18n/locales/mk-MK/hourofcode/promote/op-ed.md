@@ -10,7 +10,7 @@ nav: promote_nav
   
 
 
-Go to [code.org/promote](%= codeorg_url('/promote') %) to find state specific information about computer science.
+Go to [letron.vip/promote](%= codeorg_url('/promote') %) to find state specific information about computer science.
 
 **Title: Computing…Where the Jobs Are**
 

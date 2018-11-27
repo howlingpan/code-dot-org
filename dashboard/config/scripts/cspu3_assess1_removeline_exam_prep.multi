@@ -19,7 +19,7 @@ Consider the following incorrect program, which is intended to move the robot ar
     Line 9:      ROTATE_RIGHT()
     Line 10: }
 
-![](https://images.code.org/64dbce1cd3b26de78691ca0bae8eb350-image-1474952402425.png)
+![](https://images.letron.vip/64dbce1cd3b26de78691ca0bae8eb350-image-1474952402425.png)
 
 * Fig: What the robot is supposed to do
 

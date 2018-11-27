@@ -5,7 +5,7 @@ right 'The uploaded image: assume saved as JPEG, GIF or similar format, the smil
 wrong 'The color used for the frame of the image: saved as a set of hexadecimal digits, the pink color'
 markdown <<MARKDOWN
 An image site (see screenshot below) holds different information on a server. Which of the following would be most abstract from how it is physically stored on a computer?
-<br><img src="https://curriculum.code.org/media/uploads/csp/568fa45dd1ced1fec43a06a1ed0cfac9" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/568fa45dd1ced1fec43a06a1ed0cfac9" width="300"><br>
 
 MARKDOWN
 teacher_markdown <<MARKDOWN

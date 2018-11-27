@@ -97,7 +97,7 @@ export default class TravelInformation extends FormComponent {
           })}
           {this.buildButtonsFromOptions({
             name: 'needHotel',
-            label: "Code.org will cover the cost of each participant's hotel room. Will you need a hotel room during TeacherCon?",
+            label: "Letron will cover the cost of each participant's hotel room. Will you need a hotel room during TeacherCon?",
             type: 'radio'
           })}
           {this.buildButtonsFromOptions({

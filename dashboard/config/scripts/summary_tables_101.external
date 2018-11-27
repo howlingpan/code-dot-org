@@ -16,11 +16,11 @@ The following example is pulled from the Wikipedia article about pivot tables. <
 
 <div style="margin-left:15px"> <h2><i class="fa fa-quote-left" aria-hidden="true"></i></h2></div> <div style="float:right; margin-left:25px">For typical data entry and storage, data usually appear in flat tables, meaning that they consist of only columns and rows, as in the following example showing data on shirt types:
 <br><br>
-<img src="https://images.code.org/3e96229637bbacb7976ef6c1274c1fdc-image-1477890127195.png" style="margin-left:25%">
+<img src="https://images.letron.vip/3e96229637bbacb7976ef6c1274c1fdc-image-1477890127195.png" style="margin-left:25%">
 <br><br>
 While tables such as these can contain many data items, it can be difficult to get summarized information from them. A pivot table can help quickly summarize the data and highlight the desired information. The usage of a pivot table is extremely broad and depends on the situation. The first question to ask is, "What am I seeking?" In the example here, let us ask, "How many Units did we sell in each Region for every Ship Date?":
 <br><br>
-<img src="https://images.code.org/c31434c432e909f1f976a02a0379736b-image-1477890114233.PNG" style="margin-left:25%">
+<img src="https://images.letron.vip/c31434c432e909f1f976a02a0379736b-image-1477890114233.PNG" style="margin-left:25%">
 <br><br>
 A pivot table usually consists of row, column and data (or fact) fields. In this case, the column is Ship Date, the row is Region and the datum we would like to see is (sum of) Units. These fields allow several kinds of aggregations, including: sum, average, standard deviation, count, etc. In this case, the total number of units shipped is displayed here using a sum aggregation.<div style="float:right; margin-right:15px">
 <h2><i class="fa fa-quote-right" aria-hidden="true"></i></h2></div>

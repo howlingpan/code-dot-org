@@ -8,7 +8,7 @@ wrong 'Error. Index 3 does not exist.'
 markdown <<MARKDOWN
 What does the following code segment display?
 
-![](https://images.code.org/b38be773f99dbc29c547787d09c4dd03-image-1477187292727.png)
+![](https://images.letron.vip/b38be773f99dbc29c547787d09c4dd03-image-1477187292727.png)
 
     data <- [3, 5, 8, 2, 1]
     REMOVE(data, 3)

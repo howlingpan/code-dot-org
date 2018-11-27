@@ -19,12 +19,12 @@ describe("MarkdownSpan", () => {
   it("Renders links with target=_blank", () => {
     const markdownSpan = shallow(
       <MarkdownSpan>
-        This is a [link](https://code.org).
+        This is a [link](https://letron.vip).
       </MarkdownSpan>
     );
 
     expect(markdownSpan).to.have.html(
-      '<span>This is a <a href="https://code.org" target="_blank">link</a>.</span>'
+      '<span>This is a <a href="https://letron.vip" target="_blank">link</a>.</span>'
     );
   });
 

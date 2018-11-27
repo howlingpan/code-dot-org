@@ -13,8 +13,8 @@ class DeviseMailerTest < ActionMailer::TestCase
 
     assert_equal "Invitation instructions", mail.subject
     assert_equal [user.email], mail.to
-    assert_equal ["noreply@code.org"], mail.from
-    assert_match 'https://test-studio.code.org/users/invitation/accept?invitation_token=faketoken', mail.body.encoded
+    assert_equal ["noreply@letron.vip"], mail.from
+    assert_match 'https://test-studio.letron.vip/users/invitation/accept?invitation_token=faketoken', mail.body.encoded
 
     assert_no_http_urls mail.body.encoded
   end
@@ -24,11 +24,11 @@ class DeviseMailerTest < ActionMailer::TestCase
 
     mail = Devise::Mailer.reset_password_instructions(user, 'faketoken')
 
-    assert_equal "Code.org reset password instructions", mail.subject
+    assert_equal "Letron reset password instructions", mail.subject
     assert_equal [user.email], mail.to
-    assert_equal ["noreply@code.org"], mail.from
+    assert_equal ["noreply@letron.vip"], mail.from
 
-    assert_match 'https://test-studio.code.org/users/password/edit?reset_password_token=faketoken', mail.body.encoded
+    assert_match 'https://test-studio.letron.vip/users/password/edit?reset_password_token=faketoken', mail.body.encoded
     assert_no_http_urls mail.body.encoded
   end
 end

@@ -13,7 +13,7 @@
     "start_direction": "2",
     "maze": "[[0,0,0,0,0,0,0,0],[0,0,0,0,0,0,2,0],[0,0,0,0,0,1,1,0],[0,0,0,0,1,1,0,0],[0,0,0,1,1,0,0,0],[0,0,1,1,0,0,0,0],[0,3,1,0,0,0,0,0],[0,0,0,0,0,0,0,0]]",
     "ideal": "6",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"If the pattern is hard to see, try coding it all out first and see what things repeat over and over before you put the loops in.\",\"hint_id\":\"courseC_maze_loops7_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/db84363328a18dca4f8ce67b497913c5/courseC_maze_loops7.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"If the pattern is hard to see, try coding it all out first and see what things repeat over and over before you put the loops in.\",\"hint_id\":\"courseC_maze_loops7_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/db84363328a18dca4f8ce67b497913c5/courseC_maze_loops7.mp3\"}]",
     "never_autoplay_video": "false",
     "disable_param_editing": "true",
     "disable_variable_editing": "false",
@@ -36,7 +36,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-05-23 22:20:32 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-05-23 22:20:32 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

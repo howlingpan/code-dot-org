@@ -35,7 +35,7 @@ const VOICES = {
 };
 
 
-const TTS_URL = "https://tts.code.org";
+const TTS_URL = "https://tts.letron.vip";
 
 const styles = {
   error: {

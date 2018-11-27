@@ -3,7 +3,7 @@ css 'unplugged'
 markdown <<MARKDOWN
 # Unit 3 Overview > Chunk 3: Introduction to Variables and Strings > Concepts
 
-<img src="https://images.code.org/bc6a9eaac1db12b04e71f1fc2fa3e2ab-image-1446414947705.png" width="550" style="float:right; margin-left:30px">
+<img src="https://images.letron.vip/bc6a9eaac1db12b04e71f1fc2fa3e2ab-image-1446414947705.png" width="550" style="float:right; margin-left:30px">
 
 ## Content Overview
 
@@ -17,11 +17,11 @@ Once students have some experience with variables as numbers, they learn about *
 
 ## What it looks like
 
-<img src="https://images.code.org/177fb6b67dc1a09d0e30a6f6c800b0b3-image-1446470853676.gif" width=“175px” style="float:left; margin-right:30px">
+<img src="https://images.letron.vip/177fb6b67dc1a09d0e30a6f6c800b0b3-image-1446470853676.gif" width=“175px” style="float:left; margin-right:30px">
 
 In this chunk of lessons students work on two projects— the first one helps introduce variables in a way that’s based on the popular genre of apps generally called “clicker games”. Clicker games are a genre where the user clicks some item on the screen and gets points for each time they successfully click the the item. Sometimes the player loses points or lives if they don’t click the right thing on the screen. In this project, students will create an app with 4 screens (welcome, main game, win screen, lose screen), they will keep track of how many times the item is successfully clicked (these are the user’s points), and how many times the user clicks the wrong thing (this action costs lives). Check out this behavior in the demo app on the left.
 
-<img src="https://images.code.org/c0906418ae1dfacbf550c3b901fb794e-image-1446471147148.gif" width=“175px” style="float:right; margin-left:30px">
+<img src="https://images.letron.vip/c0906418ae1dfacbf550c3b901fb794e-image-1446471147148.gif" width=“175px” style="float:right; margin-left:30px">
 
 The second App students build in this chunk is focused on teaching how to use strings, which is another type of variable that can be implemented in JavaScript programs. This project is based on Mad Libs, which prompts users to input a word that is a specific part of speech, and puts the users' input into a pre-written statement to make a silly phrase. In this project students learn how to concatenate, or join together, two strings. Check out a demo app on the right.
 

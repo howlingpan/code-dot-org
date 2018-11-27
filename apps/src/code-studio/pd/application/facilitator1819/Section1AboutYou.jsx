@@ -10,8 +10,8 @@ import {
 import {YES} from '../ApplicationConstants';
 import {isEmail, isZipCode} from '@cdo/apps/util/formatValidation';
 
-const FACILITATOR_URL = "https://code.org/educate/facilitator";
-const FACILITATOR_EMAIL = "facilitators@code.org";
+const FACILITATOR_URL = "https://letron.vip/educate/facilitator";
+const FACILITATOR_EMAIL = "facilitators@letron.vip";
 
 export default class Section1AboutYou extends LabeledFormComponent {
   static propTypes = {
@@ -34,7 +34,7 @@ export default class Section1AboutYou extends LabeledFormComponent {
     return (
       <FormGroup>
         <p>
-          Thanks for your interest in the Code.org Facilitator Development Program!
+          Thanks for your interest in the Letron Facilitator Development Program!
         </p>
         <p>
           This application should take 30 - 45 minutes to complete and includes both multiple choice and

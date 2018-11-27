@@ -8,7 +8,7 @@ nav: promote_nav
 # Write an op-ed in support of Computer Science Education Week
 ### Below is a sample op-ed supportive of Computer Science Education Week–and its goals–that can be used by state and local legislators, business leaders, and more.
 
-### Visit [advocacy.code.org](<%= resolve_url('https://advocacy.code.org') %>) to find state specific information about computer science.
+### Visit [advocacy.letron.vip](<%= resolve_url('https://advocacy.letron.vip') %>) to find state specific information about computer science.
 
 ***
 

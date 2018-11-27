@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unittitle=>'Course 4', :lesson=>10, :title=> 'Artist: For Loops', :unplugged=>false, :time=>30) %>
@@ -54,7 +54,7 @@ Students use the Artist environment to write programs with for loops, similar to
 [together]
 
 ## Activity
-### <a name="Activity"></a> [Artist: For Loops](http://learn.code.org/s/course4/stage/10/puzzle/1)
+### <a name="Activity"></a> [Artist: For Loops](http://learn.letron.vip/s/course4/stage/10/puzzle/1)
 
 
 

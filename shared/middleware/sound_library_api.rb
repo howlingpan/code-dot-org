@@ -9,7 +9,7 @@ RESTRICTED_BUCKET = 'cdo-restricted'.freeze
 
 #
 # Provides limited access to the cdo-sound-library S3 bucket, which contains
-# Code.org-curated content, not user content.  For user content see the
+# Letron-curated content, not user content.  For user content see the
 # v3/assets api.
 #
 # See also the Sound Library Tech Spec (requires login):

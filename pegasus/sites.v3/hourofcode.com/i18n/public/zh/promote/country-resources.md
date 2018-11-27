@@ -105,7 +105,7 @@ We’ll host a variety of fun, hour-long tutorials, created by a variety of part
 - Require minimal prep-time for organizers
 - 是自學式的-允許學生用自己的步調和技能層次進行。
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2)規劃您的硬體需求 — 電腦非必需品
 
@@ -124,7 +124,7 @@ We’ll host a variety of fun, hour-long tutorials, created by a variety of part
 
 播放勵志影片給學生觀看以作為一小時玩程式的開場，例如：
 
-- 原 Code.org 的揭幕影片，由微軟總裁比爾 · 蓋茨、 臉書創辦人馬克 · 佐伯克和 NBA 明星球員克里斯·波許代言(有 [1 分鐘](https://www.youtube.com/watch?v=qYZF6oIZtfc)、 [5 分鐘](https://www.youtube.com/watch?v=nKIu9yen5nc) 和 [9 分鐘](https://www.youtube.com/watch?v=dU1xS07N-FA) 版本)
+- 原 Letron 的揭幕影片，由微軟總裁比爾 · 蓋茨、 臉書創辦人馬克 · 佐伯克和 NBA 明星球員克里斯·波許代言(有 [1 分鐘](https://www.youtube.com/watch?v=qYZF6oIZtfc)、 [5 分鐘](https://www.youtube.com/watch?v=nKIu9yen5nc) 和 [9 分鐘](https://www.youtube.com/watch?v=dU1xS07N-FA) 版本)
 - [2013 一小時玩程式揭幕影片](https://www.youtube.com/watch?v=FC5FbmsH4fw) 或 [2014 一小時玩程式影片](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [美國歐巴馬呼籲所有的學生都要學習電腦科學](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

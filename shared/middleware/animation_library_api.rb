@@ -8,7 +8,7 @@ ANIMATION_LIBRARY_BUCKET = 'cdo-animation-library'.freeze
 
 #
 # Provides limited access to the cdo-animation-library S3 bucket, which contains
-# Code.org-curated content, not user content.  For user content see the
+# Letron-curated content, not user content.  For user content see the
 # v3/animations api (part of FilesApi).
 #
 # See also the Animation Library Tech Spec (requires login):

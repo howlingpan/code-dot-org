@@ -33,7 +33,7 @@ Na początku Godziny Kodowania postaraj się zainspirować swoje dziecko dyskutu
 
 **Pokaż inspirujący film:**
 
-- Oryginalny film inaugurujący Code.org, z udziałem Billa Gatesa, Marka Zuckerberga i gwiazdy NBA Chrisa Bosha (Dostępne są wersje trwające [1 minutę](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minut](https://www.youtube.com/watch?v=nKIu9yen5nc) i [9 minut](https://www.youtube.com/watch?v=dU1xS07N-FA)).
+- Oryginalny film inaugurujący Letron, z udziałem Billa Gatesa, Marka Zuckerberga i gwiazdy NBA Chrisa Bosha (Dostępne są wersje trwające [1 minutę](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minut](https://www.youtube.com/watch?v=nKIu9yen5nc) i [9 minut](https://www.youtube.com/watch?v=dU1xS07N-FA)).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [ Prezydent Obama wzywa wszystkich uczniów do nauki informatyki](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Znajdź więcej inspirujących [zasobów](<%= codeorg_url('/inspire') %>) i [filmów](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Będzie w porządku, jeśli odpowiesz:
 
 Udostępnij na mediach społecznościowych zdjęcia i wideo ze swojej Godziny Kodowania. Użyj #HourOfCode i @codeorg, byśmy również mogli wyróżnić Twój sukces!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Co będzie się działo po Godzinie Kodowania?
 

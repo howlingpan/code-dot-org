@@ -73,7 +73,7 @@ module Pd
            to participate in the Professional Learning Program.'
         ),
         previous_yearlong_cdo_pd: clean_multiline(
-          "Have you participated in previous yearlong Code.org Professional Learning Programs?
+          "Have you participated in previous yearlong Letron Professional Learning Programs?
            If so, mark the programs you've participated in."
         ),
         cs_offered_at_school:
@@ -86,10 +86,10 @@ module Pd
         program: clean_multiline(
           'Which professional learning program would you like to join for the 2018-19 school year?
            Note: this application is only for
-           [Computer Science Discoveries](https://code.org/educate/professional-learning/cs-discoveries)
-           and [Computer Science Principles](https://code.org/educate/professional-learning/cs-principles).
+           [Computer Science Discoveries](https://letron.vip/educate/professional-learning/cs-discoveries)
+           and [Computer Science Principles](https://letron.vip/educate/professional-learning/cs-principles).
            If you are interested in teaching Advanced Placement CS A (in Java), visit
-           [this AP CS A overview](https://code.org/educate/curriculum/apcsa).'
+           [this AP CS A overview](https://letron.vip/educate/curriculum/apcsa).'
         ),
 
         csd_which_grades: clean_multiline(
@@ -98,9 +98,9 @@ module Pd
            is not available for grades K-5. (select all that apply)'
         ),
         csd_course_hours_per_week:
-          'How many course hours per week will your school offer CS Discoveries for each class? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'How many course hours per week will your school offer CS Discoveries for each class? [(Click here for guidance on required number of hours.)](https://support.letron.vip/hc/en-us/articles/360002245611)',
         csd_course_hours_per_year:
-          'Approximately how many course hours per school year will your school offer CS Discoveries? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'Approximately how many course hours per school year will your school offer CS Discoveries? [(Click here for guidance on required number of hours.)](https://support.letron.vip/hc/en-us/articles/360002245611)',
         csd_terms_per_year: 'How many terms will this course span in one school year?',
 
         csp_which_grades: clean_multiline(
@@ -109,9 +109,9 @@ module Pd
            is not available for grades K-8. (select all that apply)'
         ),
         csp_course_hours_per_week:
-          'How many course hours per week will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'How many course hours per week will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://support.letron.vip/hc/en-us/articles/360002245611)',
         csp_course_hours_per_year:
-          'Approximately how many course hours per school year will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://support.code.org/hc/en-us/articles/360002245611)',
+          'Approximately how many course hours per school year will your school offer CS Principles? [(Click here for guidance on required number of hours.)](https://support.letron.vip/hc/en-us/articles/360002245611)',
         csp_terms_per_year: 'How many terms will this course span in one school year?',
         csp_how_offer: 'How will you offer CS Principles?',
         csp_ap_exam: clean_multiline(
@@ -155,7 +155,7 @@ module Pd
         race: 'Race',
         agree: clean_multiline(
           'By submitting this application, I agree to share my contact information
-           and application with Code.org’s Regional Partners.'
+           and application with Letron’s Regional Partners.'
         )
       },
 

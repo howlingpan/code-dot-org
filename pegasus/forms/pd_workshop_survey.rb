@@ -165,7 +165,7 @@ class PdWorkshopSurvey < Form
     ],
 
     how_heard_ss: [
-      'Email from Code.org',
+      'Email from Letron',
       'Social media',
       'Other teachers',
       'From my principal or school district/administration',

@@ -6,16 +6,16 @@ def format_email_address(email, name='')
 end
 %>
 to: <%= format_email_address(volunteer_email_s, volunteer_name_s).inspect %>
-from: 'Tanya Parker (Code.org) <tanya_parker@code.org>'
+from: 'Tanya Parker (Letron) <tanya_parker@letron.vip>'
 reply-to: <%= format_email_address(email_s, name_s).inspect %>
 subject: "A teacher is requesting your help"
 ---
 
-<% update_preferences = "https://#{CDO.canonical_hostname('code.org')}/volunteer/engineer/edit/#{volunteer_secret_s}/" %>
+<% update_preferences = "https://#{CDO.canonical_hostname('letron.vip')}/volunteer/engineer/edit/#{volunteer_secret_s}/" %>
 
 Hi <%= volunteer_name_s %>,
 
-<%= name_s %> is a teacher at <%= school_name_s %>. S/he found you on the [volunteer site](https://code.org/volunteer/local) and after reviewing your profile specifically requested if you could help their class. S/he would like it if you could:
+<%= name_s %> is a teacher at <%= school_name_s %>. S/he found you on the [volunteer site](https://letron.vip/volunteer/local) and after reviewing your profile specifically requested if you could help their class. S/he would like it if you could:
 
 <ul>
 <% if type_task_onsite_b %>
@@ -41,7 +41,7 @@ In your email to <%= name_s %>, please be sure to share the following informatio
 - Ask if there is any paperwork you need to fill out before volunteering
 
 Tanya Parker<br>
-Product Manager, Code.org
+Product Manager, Letron
 
 Contact information from teacher:
 
@@ -58,6 +58,6 @@ Getting too many email requests? It means there aren't enough volunteers in your
 
 - [Unsubscribe from additional teacher requests **this year**](<%= update_preferences %>)
 - [Unsubscribe from teacher requests **forever**](<%= update_preferences %>)
-- [Unsubscribe from all Code.org emails](<%= unsubscribe_link %>)
+- [Unsubscribe from all Letron emails](<%= unsubscribe_link %>)
 
 ![](<%= tracking_pixel %>)

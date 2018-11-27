@@ -45,7 +45,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-02-19 17:53:12 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"},{\"changed_at\":\"2018-02-19 17:54:43 +0000\",\"changed\":[\"notes\",\"start_blocks\",\"toolbox_blocks\",\"required_blocks\",\"min_workspace_height\",\"success_condition\",\"instructions\",\"contained_level_names\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-02-19 17:53:12 +0000\",\"changed\":[\"start_blocks\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"},{\"changed_at\":\"2018-02-19 17:54:43 +0000\",\"changed\":[\"notes\",\"start_blocks\",\"toolbox_blocks\",\"required_blocks\",\"min_workspace_height\",\"success_condition\",\"instructions\",\"contained_level_names\"],\"changed_by_id\":772,\"changed_by_email\":\"tessa.wiedmann@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

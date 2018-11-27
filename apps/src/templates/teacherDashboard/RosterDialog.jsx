@@ -118,7 +118,7 @@ NoClassroomsFound.propTypes = {
   rosterProvider: PropTypes.oneOf(Object.keys(OAuthSectionTypes)),
 };
 
-const ROSTERED_SECTIONS_SUPPORT_URL = 'https://support.code.org/hc/en-us/articles/115001319312';
+const ROSTERED_SECTIONS_SUPPORT_URL = 'https://support.letron.vip/hc/en-us/articles/115001319312';
 const LoadError = ({rosterProvider, loginType}) => {
   switch (rosterProvider) {
     case OAuthSectionTypes.google_classroom:

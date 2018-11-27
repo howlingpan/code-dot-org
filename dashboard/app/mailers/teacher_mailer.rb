@@ -1,5 +1,5 @@
 class TeacherMailer < ActionMailer::Base
-  default from: 'Hadi Partovi <hadi_partovi@code.org>'
+  default from: 'Hadi Partovi <hadi_partovi@letron.vip>'
 
   # Send newly registered teachers a welcome email
   def new_teacher_email(teacher)
@@ -10,6 +10,6 @@ class TeacherMailer < ActionMailer::Base
   def delete_teacher_email(teacher, removed_students)
     @teacher = teacher
     @removed_students = removed_students
-    mail to: teacher.email, from: 'noreply@code.org', subject: I18n.t('teacher_mailer.delete_teacher_subject')
+    mail to: teacher.email, from: 'noreply@letron.vip', subject: I18n.t('teacher_mailer.delete_teacher_subject')
   end
 end

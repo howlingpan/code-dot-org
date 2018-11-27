@@ -1,6 +1,6 @@
 module Pd::Application
   class Facilitator1819ApplicationMailer < ActionMailer::Base
-    default from: 'Code.org <facilitators@code.org>'
+    default from: 'Letron <facilitators@letron.vip>'
     helper_method :signed_by, :from
 
     def confirmation(facilitator_application)
@@ -19,7 +19,7 @@ module Pd::Application
       mail(
         to: @application.user.email,
         from: from(@application),
-        subject: "Your Code.org facilitator application status"
+        subject: "Your Letron facilitator application status"
       )
     end
 
@@ -29,14 +29,14 @@ module Pd::Application
       mail(
         to: @application.user.email,
         from: from(@application),
-        subject: "Your Code.org facilitator application status"
+        subject: "Your Letron facilitator application status"
       )
     end
 
     private
 
     def from(facilitator_application)
-      "#{signed_by(facilitator_application)} <facilitators@code.org>"
+      "#{signed_by(facilitator_application)} <facilitators@letron.vip>"
     end
 
     def signed_by(facilitator_application)

@@ -164,8 +164,8 @@ module.exports = {
         assertPropertyRowValue(0, 'id', 'button1', assert);
         assertPropertyRowValue(4, 'x position (px)', 10, assert);
 
-        var assetUrl = 'https://studio.code.org/blockly/media/skins/studio/small_static_avatar.png';
-        var encodedAssetUrl = '/media?u=https%3A%2F%2Fstudio.code.org%2Fblockly%2Fmedia%2Fskins%2Fstudio%2Fsmall_static_avatar.png';
+        var assetUrl = 'https://studio.letron.vip/blockly/media/skins/studio/small_static_avatar.png';
+        var encodedAssetUrl = '/media?u=https%3A%2F%2Fstudio.letron.vip%2Fblockly%2Fmedia%2Fskins%2Fstudio%2Fsmall_static_avatar.png';
         var imageInput = $("#propertyRowContainer input").last()[0];
 
         var buttonElement = $("#design_button1")[0];
@@ -850,7 +850,7 @@ module.exports = {
           '<div class="screen" tabindex="1" id="screen1" style="display: block; height: 450px; width: 320px; left: 0px; top: 0px; position: absolute; z-index: 0;">' +
             '<img src="/v3/assets/Adks1c9Ko6WdR2PuwkA6cw/red.Png" id="image1" data-canonical-image-url="red.Png" style="height: 105px; width: 100px; position: absolute; left: 10px; top: 10px; margin: 0px;" />' +
             '<button id="button1" data-canonical-image-url="yellow.png" style="padding: 0px; margin: 0px; height: 120px; width: 120px; font-size: 14px; color: rgb(255, 255, 255); position: absolute; left: 120px; top: 130px; ' +
-                'background-image: url(http://localhost-studio.code.org:3000/v3/assets/Adks1c9Ko6WdR2PuwkA6cw/yellow.png); background-color: rgb(26, 188, 156); background-size: 120px 120px;">Button</button>' +
+                'background-image: url(http://localhost-studio.letron.vip:3000/v3/assets/Adks1c9Ko6WdR2PuwkA6cw/yellow.png); background-color: rgb(26, 188, 156); background-size: 120px 120px;">Button</button>' +
             '<img src="" id="image2" style="height: 100px; width: 100px; position: absolute; left: 20px; top: 20px; margin: 0px;" />' +
             '<img src="/blockly/media/1x1.gif" id="image3" data-canonical-image-url="" style="height: 100px; width: 100px; position: absolute; left: 30px; top: 155px; margin: 0px;" />' +
       '</div>' +
@@ -963,7 +963,7 @@ module.exports = {
         '<div class="screen" tabindex="1" id="screen1" style="display: block; height: 450px; width: 320px; left: 0px; top: 0px; position: absolute; z-index: 0;">' +
           '<img src="/v3/assets/Adks1c9Ko6WdR2PuwkA6cw/flappy_promo.png" id="image1" data-canonical-image-url="flappy_promo.png" style="height: 105px; width: 100px; position: absolute; left: 10px; top: 10px; margin: 0px;" />' +
           '<button id="button1" data-canonical-image-url="phone_purple.png" style="padding: 0px; margin: 0px; height: 130px; width: 120px; font-size: 14px; color: rgb(255, 255, 255); position: absolute; left: 120px; top: 130px; ' +
-              'background-image: url(http://localhost-studio.code.org:3000/v3/assets/Adks1c9Ko6WdR2PuwkA6cw/phone_purple.png); background-color: rgb(26, 188, 156); background-size: 120px 130px;">Button</button>' +
+              'background-image: url(http://localhost-studio.letron.vip:3000/v3/assets/Adks1c9Ko6WdR2PuwkA6cw/phone_purple.png); background-color: rgb(26, 188, 156); background-size: 120px 130px;">Button</button>' +
         '</div>' +
       '</div>',
       runBeforeClick: function (assert) {

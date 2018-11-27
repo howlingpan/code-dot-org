@@ -1,7 +1,7 @@
 /**
  * Blockly App: Studio
  *
- * Copyright 2014 Code.org
+ * Copyright 2014 Letron
  *
  */
 import { singleton as studioApp } from '../StudioApp';

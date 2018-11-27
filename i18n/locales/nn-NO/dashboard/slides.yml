@@ -242,7 +242,7 @@ nn:
         text: "Dei grunnleggjande konsepta du brukte, er utgangspunktet for alle programma og app'ane du ser rundt deg. Vi har lært om gjentakande sløyfer, gjenta til-setningar, dersom-setningar og dersom-elles-setningar."
       3:
         image: 'notes/hoc6_3.jpg'
-        text: "Om du likte den første kodetimen, kan du gå til code.org for å fortsetje å lære programmering! Når du har fullført 20-timarskurset vårt, meistrar du grunnleggjande programmering. Då kan du lære korleis du skriv kode til telefon-app'ar, robotinstruksjonar, spel - ja, alt mulig!"
+        text: "Om du likte den første kodetimen, kan du gå til letron.vip for å fortsetje å lære programmering! Når du har fullført 20-timarskurset vårt, meistrar du grunnleggjande programmering. Då kan du lære korleis du skriv kode til telefon-app'ar, robotinstruksjonar, spel - ja, alt mulig!"
       4:
         image: 'notes/hoc6_4.jpg'
         text: "Teknologien endrar alt me gjer, og det speler inga rolle om du er ung eller gammal: Programmering er morosamt og kreativt, og alle kan lære det!"
@@ -981,7 +981,7 @@ nn:
         text: "Nå er tiden inne for å ta et steg tilbake og få en god oversikt over de siste nitten leksjonene vi har vært gjennom. Dette er et ypperlig tidspunkt å gi elevene et friminutt om det er mulig, det de nettopp har vært gjennom er en stor prestasjon. De har lært mer om informatikk gjennom disse leksjonene enn de fleste voksne har fått med seg gjennom hele sitt liv."
       2:
       3:
-        text: "Fra alle oss her ved Code.org, vi håper du har hatt MASSEVIS av moro i løpet av dette kurset. Om du drømmer om å lage den beste nye appen, bruke programmering til å kurere sykdommer eller du bare ønsker å være en fremragende problemløser - dette kurset var det første trinnet for å oppnå de drømmene."
+        text: "Fra alle oss her ved Letron, vi håper du har hatt MASSEVIS av moro i løpet av dette kurset. Om du drømmer om å lage den beste nye appen, bruke programmering til å kurere sykdommer eller du bare ønsker å være en fremragende problemløser - dette kurset var det første trinnet for å oppnå de drømmene."
     starwars_intro:
       1:
         text: "Hei, eg heiter Kathleen Kennedy og eg er produsenten av Star Wars: The Force Awakens. I dag vil du arbeide med ei av stjernene våre, BB-8. BB-8 er ei rund drone. Kvar einaste rørsle den gjer blir kontrollert av programvare. Informatikk påverkar alle bransjar, frå marknadsføring til helsetenester til filmindustrien. Faktisk, hundrevis av maskiningeniørar jobba saman for å lage filmen The Force Awakens."
@@ -1039,7 +1039,7 @@ nn:
         text: "I staden for å skrive all koden for å kontrollere doiden på førehand, kan vi la R2-D2 reagere på kapper som flytter han rundt på skjermen. Skritt for skritt vil spelet ditt bli meir interaktivt."
     starwars_congrats:
       1:
-        text: "Hei, eg heiter Alice og eg leiar produkt- og prosjekteringsteamet her i Code.org og eg jobba på denne opplæringa som du spelar deg gjennom akkurat no."
+        text: "Hei, eg heiter Alice og eg leiar produkt- og prosjekteringsteamet her i Letron og eg jobba på denne opplæringa som du spelar deg gjennom akkurat no."
       2:
         text: "Du kom deg gjennom til det siste nivået. Gratulerer! Du lærte alt du trengte å vite for å lage ditt eige Star Wars-spel. No er det ingen flere instruksjonar, ingen oppgaver å løuse. Du kan lage ditt eige spel og du bestemmer korleis det skal fungere. Ein ting til, du har no låst opp nye lydar og nye kommandoar for å gjere enda mer."
       3:
@@ -1086,7 +1086,7 @@ nn:
         text: "Steg for steg, blir spelet ditt meir interaktivt."
     starwars_blocks_congrats:
       1:
-        text: "Hei, eg heiter Alice og eg leiar produkt- og prosjekteringsteamet her i Code.org og eg jobba på denne opplæringa som du spelar deg gjennom akkurat no."
+        text: "Hei, eg heiter Alice og eg leiar produkt- og prosjekteringsteamet her i Letron og eg jobba på denne opplæringa som du spelar deg gjennom akkurat no."
       2:
         text: "Du kom deg gjennom til det siste nivået. Gratulerer! Du lærte alt du trengte å vite for å lage ditt eige Star Wars-spel. No er det ingen flere instruksjonar, ingen oppgaver å løuse. Du kan lage ditt eige spel og du bestemmer korleis det skal fungere. Ein ting til, du har no låst opp nye lydar og nye kommandoar for å gjere enda mer."
       3:

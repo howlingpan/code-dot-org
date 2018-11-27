@@ -3,7 +3,7 @@ name 'CSD: Dropdown & Conditionals'
 href 'path/to/html/in/asset/folder'
 markdown <<MARKDOWN
 # How Dropdown Menus Work
-<img src="https://images.code.org/ba241edf138c3b4a75c85a1f930d4fb2-image-1479564920405.png" style="float: right">
+<img src="https://images.letron.vip/ba241edf138c3b4a75c85a1f930d4fb2-image-1479564920405.png" style="float: right">
 
 A dropdown menu provides a fixed list of choices for a user to choose from.  If you're expecting only a fixed set of responses from a user then it's a good alternative to a plain text input box.  For example, if you want the user to select a day of the week.
 
@@ -30,7 +30,7 @@ Add the list of options that you want here, each one on its own line. By default
 
 </div>
 
-![](https://images.code.org/dd775e2cd6752f424d51d643bb5d6542-image-1479498782151.png)
+![](https://images.letron.vip/dd775e2cd6752f424d51d643bb5d6542-image-1479498782151.png)
 
 
 ## How to get what the user chose
@@ -51,7 +51,7 @@ You get the value that was selected the <em>same way you get data out of a text 
 
 </div>
 
-![](https://images.code.org/616b95e362cc71c512fcaac7743492e0-image-1479511153421.png)
+![](https://images.letron.vip/616b95e362cc71c512fcaac7743492e0-image-1479511153421.png)
 
 ## A worked example
 Here is an example that uses an *if* statement with a dropdown.
@@ -60,7 +60,7 @@ Here is an example that uses an *if* statement with a dropdown.
 * Study the code and read through the commentary on the right side.
 * An image of the app is shown at the left after the user has selected Wednesday.
 
-<img src="https://images.code.org/bcc8601a9008645cd86ec00c15c678db-image-1479588076093.png" style="float: left; margin-right: 20px;">
+<img src="https://images.letron.vip/bcc8601a9008645cd86ec00c15c678db-image-1479588076093.png" style="float: left; margin-right: 20px;">
 <br>
 <span style="color: #00adbc; font-weight: bold; font-size: 125%">1.</span> When the dropdown changes<br><br>
 <span style="color: #00adbc; font-weight: bold; font-size: 125%">2.</span> Save in a **variable** the beginning of a message that will eventually be displayed to the user: “It’s &lt;name of day&gt;!“<br><br>
@@ -72,7 +72,7 @@ Here is an example that uses an *if* statement with a dropdown.
 
 It's possible to write the program above without introducing the `msg` variable at all.  You can write it with just a single `if-else` like so:
 
-![](https://images.code.org/10ef6e08522e0b3b46c121c3cba99446-image-1479656482664.png)
+![](https://images.letron.vip/10ef6e08522e0b3b46c121c3cba99446-image-1479656482664.png)
 
 However, the programmer realized that if she wrote it like this, the code in *both* the if and the else would effectively contain a *repeated* portion:
 

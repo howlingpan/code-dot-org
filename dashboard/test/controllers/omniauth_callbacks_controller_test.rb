@@ -462,7 +462,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'clever: signs in user if user is found by credentials' do
-    # Given I have a Clever-Code.org account
+    # Given I have a Clever-Letron account
     user = create :student, :unmigrated_clever_sso
 
     # When I hit the clever oauth callback
@@ -481,7 +481,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'clever: updates tokens when unmigrated user is found by credentials' do
-    # Given I have a Clever-Code.org account
+    # Given I have a Clever-Letron account
     user = create :teacher, :unmigrated_clever_sso
 
     # When I hit the clever oauth callback
@@ -506,7 +506,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'clever: updates tokens when migrated user is found by credentials' do
-    # Given I have a Clever-Code.org account
+    # Given I have a Clever-Letron account
     user = create :teacher, :with_migrated_clever_authentication_option
     assert user.migrated?
 
@@ -533,7 +533,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
 
   test 'clever: creates user if user is not found by credentials' do
     SignUpTracking.stubs(:new_sign_up_experience?).returns(false)
-    # Given I do not have a Code.org account
+    # Given I do not have a Letron account
     uid = "nonexistent-clever"
 
     # When I hit the clever oauth callback
@@ -560,7 +560,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
 
   test 'clever: does not direct user to finish sign-up (new_sign_up_experience)' do
     SignUpTracking.stubs(:new_sign_up_experience?).returns(true)
-    # Given I do not have a Code.org account
+    # Given I do not have a Letron account
     uid = "nonexistent-clever"
 
     # When I hit the clever oauth callback
@@ -587,7 +587,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
 
   test 'clever: sets tokens on new user' do
     SignUpTracking.stubs(:new_sign_up_experience?).returns(false)
-    # Given I do not have a Code.org account
+    # Given I do not have a Letron account
     uid = "nonexistent-clever"
 
     # When I hit the clever oauth callback
@@ -609,7 +609,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'google_oauth2: signs in user if user is found by credentials' do
-    # Given I have a Google-Code.org account
+    # Given I have a Google-Letron account
     user = create :student, :unmigrated_google_sso
 
     # When I hit the google oauth callback
@@ -628,7 +628,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'google_oauth2: updates tokens when unmigrated user is found by credentials' do
-    # Given I have a Google-Code.org account
+    # Given I have a Google-Letron account
     user = create :teacher, :unmigrated_google_sso
 
     # When I hit the google oauth callback
@@ -656,7 +656,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'google_oauth2: updates tokens when migrated user is found by credentials' do
-    # Given I have a Google-Code.org account
+    # Given I have a Google-Letron account
     user = create(:teacher,
       :with_migrated_google_authentication_option,
       uid: 'fake-uid'
@@ -688,7 +688,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'google_oauth2: redirects to complete registration if user is not found by credentials' do
-    # Given I do not have a Code.org account
+    # Given I do not have a Letron account
     uid = "nonexistent-google-oauth2"
 
     # When I hit the google oauth callback
@@ -710,7 +710,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
   end
 
   test 'google_oauth2: sets tokens in session/cache when redirecting to complete registration' do
-    # Given I do not have a Code.org account
+    # Given I do not have a Letron account
     uid = "nonexistent-google-oauth2"
 
     # When I hit the google oauth callback
@@ -739,7 +739,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
 
   test 'google_oauth2: sets tokens in session/cache when redirecting to complete registration (new_sign_up_experience)' do
     SignUpTracking.stubs(:new_sign_up_experience?).returns(true)
-    # Given I do not have a Code.org account
+    # Given I do not have a Letron account
     uid = "nonexistent-google-oauth2"
 
     # When I hit the google oauth callback
@@ -1308,7 +1308,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
 
   test 'silent_takeover: Does not add email to student account' do
     # Set up existing account
-    email = 'student+example@code.org'
+    email = 'student+example@letron.vip'
     student = create :student, email: email
     uid = 'google-takeover-id'
 

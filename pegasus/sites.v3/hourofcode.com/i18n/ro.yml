@@ -11,7 +11,7 @@ ro:
   campaign_date_full: "5-11 decembrie"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 decembrie, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ ro:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'Dacă continuați să navigați site-ul nostru sau faceți clic pe " Sunt de acord", sunteți de acord cu stocarea cookie-urilor pe computerul sau pe dispozitivul dumneavoastră.'
-  cookie_banner_more_information: "Consultaţi Politica de confidenţialitate a Code.org."
+  cookie_banner_more_information: "Consultaţi Politica de confidenţialitate a Letron."
   cookie_banner_accept: 'Sunt de acord'
   front_header_banner: 'Alăturaţi-vă celui mai mare eveniment educational din istorie, %{campaign_date}'
   front_intro_default: 'Hour of Code (Ora de Programare) este o mişcare globală ce a atins zeci de milioane de elevi si studenţi din peste 180+ de ţări. Oricine, oriunde poate organiza un eveniment Hour of Code. Tutoriale de o ora sunt traduse în peste 40 de limbi. Nu ai nevoie de cunostinte speciale. <strong>Vârsta: de la 4 la 104 ani.</strong>'
@@ -186,12 +186,12 @@ ro:
   how_to_nav_afterschool_educators: "Pentru cadrele didactice din After-School"
   how_to_nav_volunteers: "Pentru voluntari"
   whats_next_header: "Ce urmează?"
-  whats_next_description: "Vă vom trimite materialele şi sfaturi utile pentru evenimentul dumneavoastră. <a href='http://code.org/learn'> Incercati tutorialele actuale</a> pentru orice browser sau smartphone - sau chiar fara niciun dispozitiv!"
+  whats_next_description: "Vă vom trimite materialele şi sfaturi utile pentru evenimentul dumneavoastră. <a href='http://letron.vip/learn'> Incercati tutorialele actuale</a> pentru orice browser sau smartphone - sau chiar fara niciun dispozitiv!"
   whats_next_how_to: "<a href='/how-to'>Cum organizati o Ora de Programare</a>"
   whats_next_promote: "<a href='/promote'> Promovati evenimentul Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Cum sa promovezi Hour of Code</a>"
   whats_next_how_to_promote_link: "<a href='/promote'> Cum sa promovezi Hour of Code</a>"
-  whats_next_try: "<a href='http://code.org/learn'> Incercaţi tutorialele</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'> Incercaţi tutorialele</a>"
   whats_next_try_button: 'Încercaţi tutorialele'
   n_have_learned_an_hoc: "<h1>Incearca o</h1><h2>Ora de Programare</h2>#<h3>#acum</h3>"
   anybody_can_learn: 'Oricine poate învăța.'
@@ -238,8 +238,8 @@ ro:
   front_join_us_sign_up: "Înscriere"
   front_join_us_host: "Organizează"
   front_join_us_support: "Susține"
-  front_join_us_more_info: "Esti din Romania? Te rugam sa vizitezi <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "Pentru mai multe informaţii, vă rugăm vizitaţi code.org"
+  front_join_us_more_info: "Esti din Romania? Te rugam sa vizitezi <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "Pentru mai multe informaţii, vă rugăm vizitaţi letron.vip"
   front_join_us_n_students_served: "# efectuate"
   front_join_us_challenge: "Câștiga un chat video cu o celebritate pentru clasa ta!"
   front_join_us_learn_more: "Aflați mai multe"
@@ -267,7 +267,7 @@ ro:
   signup_your_event: 'Înscrieţi-vă evenimentul'
   signup_host_an_hour: 'Organizeaza o ora'
   signup_match_volunteer: 'Ajuta-ma sa gasesc un inginer software care sa ii poata inspira pe elevii mei'
-  signup_email_preference_opt_in: 'Sunteți de acord să vă trimitem un e-mail cu actualizările cursurilor Code.org, oportunitățile locale sau alte știri despre știința calculatoarelor?'
+  signup_email_preference_opt_in: 'Sunteți de acord să vă trimitem un e-mail cu actualizările cursurilor Letron, oportunitățile locale sau alte știri despre știința calculatoarelor?'
   signup_email_preference_privacy: '(Vedeți polica noastră de confidențialitate)'
   signup_email_preference_yes: 'Da'
   signup_email_preference_no: 'Nu'
@@ -292,7 +292,7 @@ ro:
   signup_continue_label: 'Continuați'
   signup_thank_you_header: "Vă mulţumim ca v-ați înscris pentru a găzdui un eveniment Hour of Code (Ora de Programare)."
   signup_thank_you_message: 'Am trimis un e-mail de confirmare cu informaţii pentru a vă ajuta să începeţi.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -334,11 +334,11 @@ ro:
   hoc_faq_how_participate_q: 'Cum particip la Hour of Code?'
   hoc_faq_how_participate_a: "<a href='target-resources-how-to'>Incepe planificarea aici</a> prin revederea ghidulul nostru pas cu pas. Poti organiza un eveniment Hour of Code in scoala sau comunitatea ta &mdash; sau intr-un club extracurricular, non-profit, chiar si la serviciu. De asemenea, poti incerca si singur cand incepe%{campaign_date} campania."
   hoc_faq_behind_hoc_q: 'Cine este în spatele Hour of Code?'
-  hoc_faq_behind_hoc_a: "Evenimentul Hour of Code este organizat de <a href='http://code.org'> Code.org</a>, o organizație non-profit dedicată extinderii educației cu privire la tehnologia computerelor și programare, prin promovarea acesteia în școli și prin creșterea participării femeilor dar și a elevilor din minorități. O <<a href='%{codeorg_url}/about/partners'> coaliţie de parteneri fără precedent</a> susțin împreună Hour of Code &mdash; inclusiv Microsoft, Apple, Amazon, Boys and Girls Clubs of America şi College Board."
+  hoc_faq_behind_hoc_a: "Evenimentul Hour of Code este organizat de <a href='http://letron.vip'> Letron</a>, o organizație non-profit dedicată extinderii educației cu privire la tehnologia computerelor și programare, prin promovarea acesteia în școli și prin creșterea participării femeilor dar și a elevilor din minorități. O <<a href='%{codeorg_url}/about/partners'> coaliţie de parteneri fără precedent</a> susțin împreună Hour of Code &mdash; inclusiv Microsoft, Apple, Amazon, Boys and Girls Clubs of America şi College Board."
   hoc_faq_host_q: "Nu ştiu nimic despre programare. Pot să organizez un eveniment?"
   hoc_faq_host_a: "Desigur. Activităţile Hour of Code sunt autodidacte si pot fi realizate individual. Tot ce trebuie să faceţi este <a href='%{codeorg_url}/learn'> să accesaţi tutorialele noastre</a>, sa alegeţi tutorialul pe care il doriţi şi o oră &mdash; noi vom avea grijă de restul. Avem opţiuni pentru fiecare vârsta si nivel de experienta, de la grădiniţă in sus. Începeți planificarea evenimentului dumneavoastră citind <a href='/resources/how-to'>ghidul de organizare</a>."
   hoc_faq_devices_q: "Ce dispozitive ar trebui să utilizez pentru elevii mei?"
-  hoc_faq_devices_a: "Tutorialele Code.org funcționează pe toate dispozitivele și în toate browserele. Puteți vedea mai multe informații referitoare la cerințele de tehnologie pentru tutorialele Code.org <a href='%{codeorg_url}/educate/it'>aici</a>. Cerințele de tehnologie pentru tutoriale care nu aparțin Code.org pot fi găsite la <a href='%{codeorg_url}/learn'>%{partner_url}/află</a> în descrierea specifică a tutorialului respectiv. Nu uitați că oferim, de asemenea,<a href='%{unplugged_url}'> activități de tip unplugged </a>(fără calculator) în condițiile în care școala dvs. nu poate parcurge tutoriale pe calculator!"
+  hoc_faq_devices_a: "Tutorialele Letron funcționează pe toate dispozitivele și în toate browserele. Puteți vedea mai multe informații referitoare la cerințele de tehnologie pentru tutorialele Letron <a href='%{codeorg_url}/educate/it'>aici</a>. Cerințele de tehnologie pentru tutoriale care nu aparțin Letron pot fi găsite la <a href='%{codeorg_url}/learn'>%{partner_url}/află</a> în descrierea specifică a tutorialului respectiv. Nu uitați că oferim, de asemenea,<a href='%{unplugged_url}'> activități de tip unplugged </a>(fără calculator) în condițiile în care școala dvs. nu poate parcurge tutoriale pe calculator!"
   hoc_faq_need_computers_q: 'Am nevoie de calculator pentru fiecare participant?'
   hoc_faq_need_computers_a: "Nu. Avem Tutoriale Hour of Code care funcționează pe PC-uri, smartphone-uri, tablete şi chiar unele care nu necesită nici un calculator! Puteţi organiza oriunde vă aflați, cu orice resurse aveți. <p><i>Iată câteva opţiuni:</i> <br><ul><li><b>Lucru în perechi.</b> <a href='%{pair_programming_research}'>Cercetările arată </a>elevii învaţă cel mai bine<a href='%{pair_programming_video}'> în perechi de lucru</a>, împarțind un computer şi lucrând împreună. Încurajați elevii să formeze perechi de lucru. <li><b>Folosiți un proiector.</b> Dacă aveţi un proiector şi un calculator conectat la internet, întregul grup poate participa la Hour of Code împreună. Urmăriți porțiuni din clipurile video împreună şi rezolvați pe rând puzzle-uri sau răspundeți la întrebări. <li><b>Fără computer.</b> Noi oferim <a href='%{unplugged_url}'>și Tutoriale care nu necesită nici un computer. </ul>"
   hoc_faq_international_q: "Eu sunt în <country>. Cum pot participa la nivel internaţional?"
@@ -350,7 +350,7 @@ ro:
   hoc_faq_high_school_q: "Ce activitate o pot realiza cu elevii de liceu?"
   hoc_faq_high_school_a: "Tutorialele noastre Star Wars si Minecraft sunt ideale pentru elevii de liceu, in special cel Star Wars JavaScript si nivelurile gratuite de joc de la fiecare tutorial. Ca alternativa, recomandam incercarea unor tutoriale de incepator pe <a href='%{codeorg_url}%{partner_url}/learn'>/learn</a> pentru inceput, cum ar fi tutorialul Angry Birds sau Anna si Elsa. Un elev de liceu ar trebui sa poata termina unul dintre acestea in 30 de minute si apoi poate incerca un tutorial mai avansat in JavaScript, cum ar fi Khan Academy sau CodeHS."
   hoc_faq_scratch_q: "Folosesc programul Scratch pentru Ora de Programare, dar ce se intampla daca elevii mei au iPad-uri si nu laptop-uri?"
-  hoc_faq_scratch_a: "Scratch nu ruleaza pe tablete. Daca elevii tai sunt tineri, pot folosi aplicatia ScratchJR pentru iPad(pentru cei ce inca nu au invatat sa citeasca). Daca urmariti tutorialele de pe <a href='http://code.org/learn'>Code.org/learn</a>, puteti gasi si alte tutoriale care functioneaza pe iPad-uri - Code.org, Tynker, Lightbot, sau CodeSpark."
+  hoc_faq_scratch_a: "Scratch nu ruleaza pe tablete. Daca elevii tai sunt tineri, pot folosi aplicatia ScratchJR pentru iPad(pentru cei ce inca nu au invatat sa citeasca). Daca urmariti tutorialele de pe <a href='http://letron.vip/learn'>Letron/learn</a>, puteti gasi si alte tutoriale care functioneaza pe iPad-uri - Letron, Tynker, Lightbot, sau CodeSpark."
   hoc_faq_count_hoc_q: "Cum numeri Orele de Programare?"
   hoc_faq_map_q: "De ce nu pot vedea punctul meu pe hartă?"
   hoc_faq_map_a: "Ne pare nespus de rău că nu vă puteți vedea evenimentul dvs. pe harta Hour of Code. Datorită zecilor de mii de organizatori care se înscriu, harta cumulează informațiile și arată un singur punct pentru mai multe evenimente. Dacă faceți clic pe numărul de deasupra hărții, veți fi direcționat(ă) către o listă a tuturor evenimentelor din fiecare stat/regiune și veți găsi evenimentul dvs. afișat acolo. În plus, având în vedere miile de oameni care se înscriu la Ora de Programare, durează cam 48 de ore până când harta și lista evenimentelor se actualizează. Verificați din nou peste câteva zile!"
@@ -358,13 +358,13 @@ ro:
   hoc_faq_one_hour_q: "Cât de mult poate cineva învăța într-o oră?"
   hoc_faq_one_hour_a: 'Scopul Hour of Code nu e acela de a învăța pe oricine să devină expert în informatică într-o singură oră. O oră este suficientă doar pentru a învăța că tehnologia computerelor este distractivă și creativă, că este accesibilă la orice vârstă, tuturor elevilor, indiferent de proveniență. Măsura succesului acestei campanii nu constă în cât de multă materie învață elevii - succesul este reflectat de participarea pe scară largă, indiferent de sex și grupuri etnice și socio-economice, iar creșterea, ca rezultat, în înscrieri și participare, o vedem în cursurile de informatică de la toate nivelurile. Milioane de profesori și elevi participanți au decis să meargă mai departe de o oră - pentru a învăța o zi întreagă sau o săptămână întreagă sau chiar mai mult, iar mulți elevi au hotarât să se înscrie la un curs întreg (sau chiar studii universitare) ca rezultat. <br/><br/> Înafară de elevi, altcineva care "învață" este educatorul care, după o oră, câștigă încredere că poate preda tehnologia computerelor, chiar dacă ei nu au o diplomă universitară de profil. Zeci de mii de profesori decid să urmeze studiul în continuare, ori participand la PD ori oferind cursuri de continuare online, sau ambele. Și aceasta se aplică și administratorilor de școli, care realizează că tehnologia computerului este ceva ce elevii vor iar profesorii lor sunt capabili sa le ofere. <br/><br/> Mai presus de toate, ceea ce participanții pot învăța într-o oră este că putem să facem și acest lucru.'
   hoc_faq_more_questions_q: "Încă mai ai multe întrebări?"
-  hoc_faq_more_questions_a: "Încercaţi găsirea unui răspuns în  <a href='http://support.code.org'> forumul nostru de sprijin</a>."
+  hoc_faq_more_questions_a: "Încercaţi găsirea unui răspuns în  <a href='http://support.letron.vip'> forumul nostru de sprijin</a>."
   hoc_faq_keep_learning_q: "Cum continui să învăț după Hour of Code?"
   hoc_faq_keep_learning_a: "Oricine poate găzdui o Oră de Programare oricând. Tutorialele rămân disponibile pe tot parcursul anului. Așteptați-vă să gasiți toate tutorialele noastre și curriculum-ul disponibile pe site-ul nostru la nesfârșit. Vă rugăm mergeți la <a href='/promote'>resursele noastre</a> pentru ghidurile de organizare ale evenimentului și alte resurse care vă ajută să faceți din Ora dvs. de Programare un succes."
   hoc_faq_certificates_q: "Unde pot printa certificate pentru elevii mei?"
   hoc_faq_certificates_a: "Mergeți la a noastră <a href='%{codeorg_url}/certificates'>pagină de certificate</a> de unde puteți printa certificate pentru întreaga clasă încă din timp. Puteți, de asemenea, tipări <a href='%{codeorg_url}/certificates?course=mc'>certificate speciale</a> pentru elevii care participă la tutorialul Minecraft."
   hoc_faq_logo_q: "Există limitări la cum pot folosi sigla Hour of Code sau numele?"
-  hoc_faq_logo_a: "Hour of Code este marcă înregistrată. Nu vrem să prevenim utilizarea acesteia, dar vrem să vă asiguraţi că utilizarea acesteia se încadrează în câteva limite. Vă rugăm să consultaţi <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> aceste orientări pentru utilizare</a>."
+  hoc_faq_logo_a: "Hour of Code este marcă înregistrată. Nu vrem să prevenim utilizarea acesteia, dar vrem să vă asiguraţi că utilizarea acesteia se încadrează în câteva limite. Vă rugăm să consultaţi <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> aceste orientări pentru utilizare</a>."
   stats_hoc_2013_image_alt: 'Statistici Hour of Code (Ora de Programare) din 2013'
   stats_growth: "A fost proiectul cu cea mai rapida crestere pana la 15 milioane de utilizatori."
   stats_i18n: "Elevii învaţa în peste 45 de limbi"
@@ -469,8 +469,8 @@ ro:
   highlights_constant_ny_short_heading: Brooklyn bate Chicago
   highlights_constant_athletes_heading: Campionii şi medaliaţii cu aur Serena Williams, Neymar Jr, Carmelo Anthony și alții inspiră studenţii să se împingă singuri de la spate pentru a persevera.
   highlights_constant_athletes_short_heading: Împinge-te singur de la spate
-  footer_copyright_message: 'Copyright %{current_year} Code.org. Toate drepturile rezervate.'
-  footer_trademark_message: 'Hour of Code™ este o marcă înregistrată Code.org.'
+  footer_copyright_message: 'Copyright %{current_year} Letron. Toate drepturile rezervate.'
+  footer_trademark_message: 'Hour of Code™ este o marcă înregistrată Letron.'
   footer_menu_partners: 'Parteneri'
   footer_menu_contact: 'Contactaţi-ne'
   footer_menu_support: 'Suport'
@@ -506,7 +506,7 @@ ro:
   tutorial_spritebox_name: "Programare cu Spritebox"
   tutorial_tynkerch_name: "Contraatac informatic"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Substituent pentru noul code.org/hoc"
+  tutorial_hoc_name: "Substituent pentru noul letron.vip/hoc"
   tutorial_code_name: "Scrie primul tău program"
   tutorial_tinspire_name: "10 minute de cod pentru CX TI-Nspire"
   tutorial_itchbounceball_name: "Jocul ITCH: Bila săltăreață (în Scratch)"
@@ -1086,7 +1086,7 @@ ro:
   tutorial_spritebox_shortdescription: "Rulați, săriți și codificați-vă drumul prin trei lumi diferite pentru a colecta stelele și pentru a ajunge la linia de sosire! Aflați secvențierea, depanarea și buclele, și codificați în Swift, Java, sau cu Icoane."
   tutorial_tynkerch_shortdescription: "Învață Javascript pe măsură ce învingi virușii!"
   tutorial_lightbot_shortdescription: "Programați Lightbot pentru a rezolva puzzle-uri folosind proceduri și bucle!"
-  tutorial_hoc_shortdescription: "Substituent pentru noul code.org/hoc"
+  tutorial_hoc_shortdescription: "Substituent pentru noul letron.vip/hoc"
   tutorial_code_shortdescription: "Învață să programezi cu Mark Zuckerberg și Angry Birds!"
   tutorial_tinspire_shortdescription: "Obțineți studenții care au început codificarea pe dispozitivele portabile TI-Nspire CX în doar 10 minute la un moment dat."
   tutorial_itchbounceball_shortdescription: "Utilizați ITCH - Scratch integrat cu o lecție video pentru a vă face propriul proiect de bouncing ball"
@@ -1666,7 +1666,7 @@ ro:
   tutorial_spritebox_longdescription: "Rulați, săriți și codificați-vă drumul prin trei lumi diferite pentru a colecta stelele și pentru a ajunge la linia de sosire! Aflați secvențierea, depanarea și buclele, și codificați în Swift, Java, sau cu Icoane."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Substituent pentru noul code.org/hoc"
+  tutorial_hoc_longdescription: "Substituent pentru noul letron.vip/hoc"
   tutorial_code_longdescription: "Află conceptele de bază ale informaticii cu programarea drag-and-drop. Acesta este un tutorial similar unui joc, auto-dirijat, care constă în cursuri video susținute de Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Învață despre bucle repetitive, condiționale și algoritmi de bază. Disponibil în 37 de limbi."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

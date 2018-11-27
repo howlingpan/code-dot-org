@@ -45,7 +45,7 @@ vi:
       2-3 Artist 9_authored_hint:
         2-3_Artist_9_a: Kim cương này thật ra chỉ là một hình vuông nằm ở góc 45 độ.
         2-3_Artist_9_b: Đừng quên xoay người hoạ sĩ về bên trái 45 độ trước khi bạn
-          bắt đầu vẽ hình vuông! ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          bắt đầu vẽ hình vuông! ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Hãy nhớ rằng, bạn muốn bảng điều khiển *rộng hơn*
           10 pixels...vậy nên hãy chắc chắn **thêm** 10 vào con số mà bạn thay đổi.
@@ -206,7 +206,7 @@ vi:
           coi bông hoa đỏ giống hệt bông hoa tím xem!
         2-3_Bee_Conditionals_14_b: Nếu bông hoa đỏ có màu tím, bạn có thể tìm ra cách
           dùng thêm một vòng lặp để giảm số khối trong mã không?
-        2-3_Bee_Conditionals_14_c: "Thử chia việc này thành hai việc riêng biệt: \n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
+        2-3_Bee_Conditionals_14_c: "Thử chia việc này thành hai việc riêng biệt: \n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
           Thu hoạch mật hoa 3 lần\n - Đi thẳng 5 lần\n - Kiểm tra xem có mật hoa không,
           nếu có: thu hoạch nó\n - Rẽ trái\n \n2) Làm mật ong\n - Đi thẳng 1 lần\n
           - Làm mật ong 2 lần"
@@ -238,7 +238,7 @@ vi:
       2-3 Bee Functions 8_authored_hint:
         2-3_Bee_Functions_8_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của bạn
           từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi thử
-          lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của bạn
           từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi thử
@@ -246,7 +246,7 @@ vi:
         2-3_Bee_Functions_8_b: |-
           Nhớ xây dựng đoạn mã của bạn bên trong khối hàm màu xanh lá cây.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Bạn cần có bốn khối bên trong vòng lặp của bạn.
       2-3 Bee Loops 3_authored_hint:
@@ -283,15 +283,15 @@ vi:
         solution: |-
           **Lời giải**
           ![Hình ảnh của Lời Giải]
-          (https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          (https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       Farmer for Authored Hint testing_authored_hint:
         first_hint: Đây là gợi ý đầu tiên. Có *một số * ** cơ bản ** 'đánh dấu'
-        second_hint: Đây là gợi ý thứ hai. Nó là một hình ảnh. ! [] (https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+        second_hint: Đây là gợi ý thứ hai. Nó là một hình ảnh. ! [] (https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: Đây là gợi ý thứ ba và cuối cùng. Nó không có bất cứ điều gì đặc
           biệt.
       Farmer for TTS testing_authored_hint:
         first_hint: Đây là gợi ý đầu tiên. Có *một số * ** cơ bản ** 'đánh dấu'
-        second_hint: Đây là gợi ý thứ hai. Nó là một hình ảnh. ! [] (https://images.code.org/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
+        second_hint: Đây là gợi ý thứ hai. Nó là một hình ảnh. ! [] (https://images.letron.vip/cab43107265a683a6216e18faab2353f-image-1452027548372.png)
         last_hint: Đây là gợi ý thứ ba và cuối cùng. Nó không có bất cứ điều gì đặc
           biệt.
       Function intro Ryan_authored_hint:
@@ -305,7 +305,7 @@ vi:
         Function_intro_Ryan_a: Bạn có thể sử dụng một chức năng nhiều lần trong chương
           trình của bạn!  Hãy thử dùng nó hai lần để giải quyết câu đố này.
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Xem các ** ngọn đèn biển **! [] (https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)?
+        voyage_aquatic_10a: "Xem các ** ngọn đèn biển **! [] (https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)?
           Làm thế nào bạn có thể sử dụng một điều kiện với chúng để vượt qua một Tòa
           nhà đại dương?\n\n"
       HOC 2018 Level_7a_authored_hint:
@@ -321,7 +321,7 @@ vi:
         solution: |-
           **Lời giải**
           ![Hình ảnh của Lời Giải]
-          (https://images.code.org/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
+          (https://images.letron.vip/d85a18bd31a09f87b41a818fc8d6c1cc-image-1469641375258.png)
       MC Agent Freeplay_authored_hint:
         MC_HOC_2017_13_Cole_a: Hãy thử để Đặc vụ xây dựng vài đường ray cho xe chở
           quặng để bạn có thể khám phá thế giới!
@@ -389,7 +389,7 @@ vi:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Qua hai tấm áp lực này thì sẽ mở được đường cho người chơi.
 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Sử dụng các khối lệnh ''rẽ phải'' để thay đổi
           hướng của Đặc vụ '
@@ -498,7 +498,7 @@ vi:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Qua hai tấm áp lực này thì sẽ mở được đường cho người chơi.
 
-          ![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+          ![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Nhấn "Chạy"!
@@ -782,15 +782,15 @@ vi:
       courseE_bee_functions6_authored_hint:
         courseE_bee_functions6_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
-          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6_2018_authored_hint:
         courseE_bee_functions6_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
-          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions6test_authored_hint:
         courseE_bee_functions6_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
-          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
@@ -798,7 +798,7 @@ vi:
         courseE_bee_functions7_b: |-
           Nhớ xây dựng đoạn mã của bạn bên trong khối hàm màu xanh lá cây.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
@@ -806,7 +806,7 @@ vi:
         courseE_bee_functions7_b: |-
           Nhớ xây dựng đoạn mã của bạn bên trong khối hàm màu xanh lá cây.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng
           hàm của bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều
@@ -836,7 +836,7 @@ vi:
       courseF_bee_functions6_2018_authored_hint:
         courseF_bee_functions6_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
-          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          thử lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của
           bạn từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi
@@ -949,7 +949,7 @@ vi:
       grade4_bee_functions7_authored_hint:
         2-3_Bee_Functions_8_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của bạn
           từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi thử
-          lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
+          lại.  Sẽ có lúc bạn hoàn thành nó!\n\n![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)"
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: "Nếu câu đố có vẻ khó khăn, thử xây dựng hàm của bạn
           từng chút một. \n\nThêm vài khối, rồi thử chúng. Thêm nhiều hơn, rồi thử
@@ -957,7 +957,7 @@ vi:
         2-3_Bee_Functions_8_b: |-
           Nhớ xây dựng đoạn mã của bạn bên trong khối hàm màu xanh lá cây.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Nếu bạn sử dụng khối lệnh để tôi `di chuyển về phía trước
           100 pixel`, tôi sẽ tự động vẽ một đường thẳng.

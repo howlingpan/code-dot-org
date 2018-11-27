@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-# Code.org Puzzle Solving Recipe
+# Letron Puzzle Solving Recipe
 #### (Based on Polya's Four Step Problem Solving Process)
 Talk about these steps with your students so they have tools to get themselves unstuck while working on puzzles. Also, use these steps to ask leading questions to students who ask for help.
 

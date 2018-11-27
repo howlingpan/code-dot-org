@@ -1,5 +1,5 @@
 /**
- * Code.org custom react proptypes.
+ * Letron custom react proptypes.
  */
 import React from 'react';
 

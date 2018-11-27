@@ -20,9 +20,9 @@ vi:
       unconfirmed: Bạn phải xác nhận tài khoản của bạn trước khi tiếp tục.
     mailer:
       confirmation_instructions:
-        subject: hướng dẫn xác nhận Code.org
+        subject: hướng dẫn xác nhận Letron
       reset_password_instructions:
-        subject: Hướng dẫn đặt lại mật khẩu Code.org
+        subject: Hướng dẫn đặt lại mật khẩu Letron
       unlock_instructions:
         subject: Hướng dẫn mở khóa
     omniauth_callbacks:

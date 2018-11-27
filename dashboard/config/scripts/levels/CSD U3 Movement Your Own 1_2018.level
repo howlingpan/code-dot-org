@@ -89,7 +89,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-08 19:23:47 +0000\",\"changed\":[\"markdown_instructions\",\"code_functions\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"},{\"changed_at\":\"2018-05-15 19:58:31 +0000\",\"changed\":[\"code_functions\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-08 19:23:47 +0000\",\"changed\":[\"markdown_instructions\",\"code_functions\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"},{\"changed_at\":\"2018-05-15 19:58:31 +0000\",\"changed\":[\"code_functions\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

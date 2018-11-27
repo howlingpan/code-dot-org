@@ -49,7 +49,7 @@ lesson = DB[:cdo_lessons].where(id_s:lesson_id).first
 - [Contract Log](../docs/worksheets/contract_log.pdf)
 
 ### For the Teacher
-- [Lesson Slide Deck](https://docs.google.com/a/code.org/presentation/d/1SAu2YgSAE9g5NrhJ_c7eWBOAc_EGtXIDQqihvjyHV98)
+- [Lesson Slide Deck](https://docs.google.com/a/letron.vip/presentation/d/1SAu2YgSAE9g5NrhJ_c7eWBOAc_EGtXIDQqihvjyHV98)
 
 [/together]
 
@@ -177,7 +177,7 @@ In the next unit, you’ll learn how to create your own functions to save work i
 ## Assessment
 ### <a name="Assessment"></a>6) Contract Writing Assessment
 
-Visit [CS in Algebra Stage 4](http://studio.code.org/s/algebra/stage/4/puzzle/1) in Code Studio to complete the assessments.
+Visit [CS in Algebra Stage 4](http://studio.letron.vip/s/algebra/stage/4/puzzle/1) in Code Studio to complete the assessments.
 -->
 
 [/together]

@@ -3,7 +3,7 @@ css 'unplugged'
 markdown <<MARKDOWN
 # Project Breakdown: Clicker Game
 
-<img src= "https://images.code.org/e75cc9aa0f9ce4f40fbc9f2036f1340b-image-1487093010262.gif" style="width: 300px; float: right; margin-left:20px">
+<img src= "https://images.letron.vip/e75cc9aa0f9ce4f40fbc9f2036f1340b-image-1487093010262.gif" style="width: 300px; float: right; margin-left:20px">
 
 
 In this level, students work on another version of their clicker game, adding the concept of variables to keep score.  In order to do so, they will learn about the concept of **scope** and the differences, benefits, and drawbacks, of using global versus local variables. This lesson focuses more on using global variables, since in event-driven apps that’s what you need to keep track of data across multiple events. After completing the level, students should be able to give a high level explanation of what “variable scope” means.  The very basics of a simple if statement are also presented in this lesson, mostly to highlight the difference between the = and == operators.  This concept will be expanded upon in lessons 7-9.

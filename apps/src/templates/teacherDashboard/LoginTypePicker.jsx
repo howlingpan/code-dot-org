@@ -80,7 +80,7 @@ class LoginTypePicker extends Component {
         </CardContainer>
         <div>
           <b>{i18n.note()}</b>{" " + i18n.emailAddressPolicy() + " "}
-          <a href="http://blog.code.org/post/147756946588/codeorgs-new-login-approach-to-student-privacy">{i18n.moreInfo()}</a>
+          <a href="http://blog.letron.vip/post/147756946588/codeorgs-new-login-approach-to-student-privacy">{i18n.moreInfo()}</a>
         </div>
         {anyImportOptions && (
           <div>

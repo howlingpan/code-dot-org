@@ -30,7 +30,7 @@
     "disable_examples": "false",
     "examples_required": "false",
     "never_autoplay_video": "false",
-    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"The largest shape has 19 sides. The smallest has just two.\",\"hint_id\":\"Course_4_Artist_For_Loops_Challenge_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/21f3729be5bb0f364a2450f53f84f4f3/Course 4 Artist For Loops Challenge.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"The `for` loop counts up by two each time through.\",\"hint_id\":\"Course_4_Artist_For_Loops_Challenge_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/486df144aaa97abc657add4877948adc/Course 4 Artist For Loops Challenge.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"pointer\",\"hint_markdown\":\"The largest shape has 19 sides. The smallest has just two.\",\"hint_id\":\"Course_4_Artist_For_Loops_Challenge_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/21f3729be5bb0f364a2450f53f84f4f3/Course 4 Artist For Loops Challenge.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"The `for` loop counts up by two each time through.\",\"hint_id\":\"Course_4_Artist_For_Loops_Challenge_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/486df144aaa97abc657add4877948adc/Course 4 Artist For Loops Challenge.mp3\"}]",
     "permitted_errors": "0",
     "discard_background": "false",
     "instructions_important": "true",
@@ -44,7 +44,7 @@
   },
   "published": true,
   "notes": "This is a challenge level and we could go one of two ways. \r\n\r\n1)  Treat it like a regular level, but harder\r\n2) Not offer suggestions, just let them solve it any way they can (remove the ideal block count) and gather data later on whether or not people use the ideal techniques.\r\n\r\nSince we're looking at roughly 5% of users that make it to this point, I'm going with #2.  \r\nIdeal blocks was 15.\r\n\r\n(Note: received complaint from someone who did it longhand that they wish it had told them that they could do it easier, so adding blocks back at 16) - Since we've NEVER looked at that data anyway. \r\n",
-  "audit_log": "[{\"changed_at\":\"2018-02-12 23:09:22 +0000\",\"changed\":[\"notes\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-02-12 23:09:22 +0000\",\"changed\":[\"notes\",\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 5,
     "repeat_loops": 2,

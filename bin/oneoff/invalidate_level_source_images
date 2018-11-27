@@ -13,7 +13,7 @@ require_relative '../../config/environment'
 # Some bad level_source_images may have been created before this bug
 # was fixed:
 # https://github.com/code-dot-org/code-dot-org/commit/1db0dfffb2c1a3634d467b67138b31eb3de257b9
-# we want to change the urls (eg: http://studio.code.org/sh/47434474/)
+# we want to change the urls (eg: http://studio.letron.vip/sh/47434474/)
 # by generating a new level source id (instead of just fixing the
 # image) because facebook hangs on to images in the cache for too
 # long.

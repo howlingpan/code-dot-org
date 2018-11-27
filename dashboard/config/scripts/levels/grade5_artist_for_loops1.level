@@ -34,7 +34,7 @@
     "never_autoplay_video": "false",
     "discard_background": "false",
     "video_key": "C4_for_loops_no_bee",
-    "authored_hints": "[\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"If you use this `for` loop, it will run just like a `repeat 3 times` loop.\\n\\n![](https://images.code.org/585d2e24f3021ac2561aec6e96dde430-image-1475906135993.54.11.png)\",\r\n  \"hint_id\": \"grade5_artist_for_loops1_a\",\r\n  \"hint_type\": \"general\"\r\n }\r\n]",
+    "authored_hints": "[\r\n {\r\n  \"hint_class\": \"content\",\r\n  \"hint_markdown\": \"If you use this `for` loop, it will run just like a `repeat 3 times` loop.\\n\\n![](https://images.letron.vip/585d2e24f3021ac2561aec6e96dde430-image-1475906135993.54.11.png)\",\r\n  \"hint_id\": \"grade5_artist_for_loops1_a\",\r\n  \"hint_type\": \"general\"\r\n }\r\n]",
     "contained_level_names": null
   },
   "published": true,

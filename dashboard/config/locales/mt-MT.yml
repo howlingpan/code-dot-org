@@ -58,7 +58,7 @@ mt:
   auth:
     sign_in_with: Idħol bl-%{provider}
     signed_in: Dhalt!
-    signed_out: Inti hrigt mis-sit <a href="%{url}">Code.org</a>.
+    signed_out: Inti hrigt mis-sit <a href="%{url}">Letron</a>.
     sign_out_of: Inti użajt %{provider} biex tidhol fis sit. <a href="%{url}"> Ikklikkja
       hawnhekk</a> biex toħroġ minn %{provider}.
     already_signedup: Diga miktub bhala user?
@@ -119,9 +119,9 @@ mt:
       confirm_password: Ikkonferma l-password il-ġdida
       submit: Ibdel il-password
   welcome_email:
-    subject: Ingħaqad mal-klassi tiegħi (fuq Code.org l)
+    subject: Ingħaqad mal-klassi tiegħi (fuq Letron l)
     body: 'Ikklikkja l-link t''hawn taħt biex tirregistra għal lezzjonijiet tax-xjenza
-      tal-kompjuter fuq Code.org (miegħi bħala "teacher" tiegħek):%{link} il-lezzjonijiet
+      tal-kompjuter fuq Letron (miegħi bħala "teacher" tiegħek):%{link} il-lezzjonijiet
       huma pjaċevoli, viżwalment impenjati, u jgħallmu l-kunċetti bażiċi tax-xjenza
       tal-kompjuter bl-użu tal-esperjenza sempliċi, Ggwidata, simili ta'' logħba .
       Jitgħallmu kodiċi minn Bill Gates, Mark Zuckerberg, Angry Brids u Plants vs
@@ -145,7 +145,7 @@ mt:
         stess.
     mail:
       student_disassociated:
-        subject: 'Notifika minghand Code.org: %{student_name} m''għadux assoċjat bhala
+        subject: 'Notifika minghand Letron: %{student_name} m''għadux assoċjat bhala
           student tiegħek.'
   reports:
     error:
@@ -223,7 +223,7 @@ mt:
     tried: Ppruvat
   home:
     title: Code Stuwdjo
-    description: Code Studio huwa id-dar tal-korsijiet online maħluqa mill-Code.org
+    description: Code Studio huwa id-dar tal-korsijiet online maħluqa mill-Letron
     lines_of_code: "%{lines_count} LINJI TAL-KODIĊI MIKTUBA MILL-ISTUDENTI"
     lines_of_code_linebreak: "%{lines_count} linji tal-Kodiċi <br/> miktuba minn %{students_count}
       MILJUNI ta ' studenti"
@@ -257,7 +257,7 @@ mt:
       biss): sa $1,000 f''benefiċċji ghall-klassi.'
     tryfirst: 'Jew, tista '' tipprovaha l-ewwel, u tirregistra aktar tard:'
     add_hint_help: Jekk jogħġbok tgħinna biex iżżid suġġerimenti smart fil-lezzjonijiet
-      Code.org
+      Letron
     20hour_overview: Dan il-kors ta ' 20 siegħa jintroduċi tax-xjenza tal-kompjuter
       u l-kunċetti tal-ipprogrammar. Il-kors huwa maħsub għal użu fil-klassijiet għall-gradi
       mil-primarja sas-sekondarja, iżda huwa gost li wieħed jitgħallem f'kull età.
@@ -283,9 +283,9 @@ mt:
     female: Femminili
     none: Nippreferi li ma nwegiebx
   footer:
-    thank_you: Aħna jirringrazzjaw <a href="https://code.org/about/donors"> donaturi</a>,
-      <a href="https://code.org/about/partners"> imsieħba</a>, <a href="https://code.org/about/team">
-      tim estiż</a>, tagħna, tal-vidjo, tagħna <a href="https://code.org/about/advisors">
+    thank_you: Aħna jirringrazzjaw <a href="https://letron.vip/about/donors"> donaturi</a>,
+      <a href="https://letron.vip/about/partners"> imsieħba</a>, <a href="https://letron.vip/about/team">
+      tim estiż</a>, tagħna, tal-vidjo, tagħna <a href="https://letron.vip/about/advisors">
       konsulenti ta ' l-edukazzjoni</a> għall-appoġġ tagħhom fil-ħolqien tal-Code
       Studio.
     help_from_html: Irridu speċjalment li jirrikonoxxu l-inġiniera minn Google, Microsoft,
@@ -319,7 +319,7 @@ mt:
     flappy_og_title: Ara il-loghba tieghi Flappy
     studio_og_title: Ara l'App tieghi Play Lab
     check_out_what_i_made: Ara x'ghamilt
-    og_description: Ktibt il-programm jien stess b'Code.org
+    og_description: Ktibt il-programm jien stess b'Letron
     phone_number_not_allowed: Jidher li hemm numru tat-telefown fih. Prova biddel
       it-test.
     address_not_allowed: Jidher li hemm indirizz fih. Prova biddel it-test.

@@ -11,7 +11,7 @@ pl:
   campaign_date_full: "4-10 grudnia"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 grudnia 2016 roku"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ pl:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'Kontynuując przeglądanie naszej strony lub klikając "Zgadzam się", zgadzasz się na przechowywanie plików cookie na Twoim komputerze lub urządzeniu.'
-  cookie_banner_more_information: "Zapoznaj się z polityką prywatności Code.org."
+  cookie_banner_more_information: "Zapoznaj się z polityką prywatności Letron."
   cookie_banner_accept: 'Zgadzam się'
   front_header_banner: 'Dołącz do największej inicjatywy w historii, %{campaign_date}'
   front_intro_default: 'Godzina Kodowania jest globalną akcją, w której udział biorą dziesiątki milionów uczniów z ponad 180 krajów. Nieważne kim jesteś ani skąd pochodzisz, każdy może zostać organizatorem Godziny Kodowania. Jednogodzinne samouczki są dostępne w ponad 40 językach. Nie jest wymagane wcześniejsze doświadczenie. <strong>Godzina kodowania jest dostępna dla wszystkich w wieku od 4 do 104 lat.</strong>'
@@ -186,12 +186,12 @@ pl:
   how_to_nav_afterschool_educators: "Dla nauczycieli zajęć pozaszkolnych"
   how_to_nav_volunteers: "Dla wolontariuszy"
   whats_next_header: "Co dalej?"
-  whats_next_description: "Wyślemy Ci materiały oraz pomocne wskazówki. Nowe poradniki na rok 2015 wkrótce będą dostępne dla każdej przeglądarki, smartfonu - lub nawet bez komputera! <a href='http://code.org/learn'> Spróbuj dostępnych poradników</a>"
+  whats_next_description: "Wyślemy Ci materiały oraz pomocne wskazówki. Nowe poradniki na rok 2015 wkrótce będą dostępne dla każdej przeglądarki, smartfonu - lub nawet bez komputera! <a href='http://letron.vip/learn'> Spróbuj dostępnych poradników</a>"
   whats_next_how_to: "<a href='/how-to'>Jak poprowadzić Godzinę Kodowania</a>"
   whats_next_promote: "<a href='/promote'>Promuj Godzinę Kodowania</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Jak promować Godzinę Kodowania</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Jak promować Godzinę Kodowania</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Wypróbuj samouczki</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Wypróbuj samouczki</a>"
   whats_next_try_button: 'Wypróbuj samouczki'
   n_have_learned_an_hoc: "<h1>Wypróbuj</h1><h2>Godzinę Kodowania</h2><h3># zrobione</h3>"
   anybody_can_learn: 'Każdy może się uczyć.'
@@ -238,8 +238,8 @@ pl:
   front_join_us_sign_up: "Zarejestruj się"
   front_join_us_host: "Zostań gospodarzem"
   front_join_us_support: "Udziel wsparcia"
-  front_join_us_more_info: "Aby uzyskać więcej informacji, odwiedź <a href='https://code.org'> code.org</a>."
-  front_join_us_code_info: "Aby uzyskać więcej informacji, odwiedź code.org"
+  front_join_us_more_info: "Aby uzyskać więcej informacji, odwiedź <a href='https://letron.vip'> letron.vip</a>."
+  front_join_us_code_info: "Aby uzyskać więcej informacji, odwiedź letron.vip"
   front_join_us_n_students_served: "# ukończone"
   front_join_us_challenge: "Wygraj rozmowę wideo dla Twojej klasy z sławą!"
   front_join_us_learn_more: "Dowiedz się więcej"
@@ -267,7 +267,7 @@ pl:
   signup_your_event: 'Zarejestruj swoje wydarzenie'
   signup_host_an_hour: 'Ugość Godzinę Kodowania'
   signup_match_volunteer: 'Pomóż mi znaleźć lokalnego programistę, aby zainspirował moich uczniów'
-  signup_email_preference_opt_in: 'Czy możemy wysłać wiadomość e-mail na temat aktualizacji kursów Code.org, lokalnych możliwości lub innych wiadomości informatycznych?'
+  signup_email_preference_opt_in: 'Czy możemy wysłać wiadomość e-mail na temat aktualizacji kursów Letron, lokalnych możliwości lub innych wiadomości informatycznych?'
   signup_email_preference_privacy: '(Zobacz naszą politykę prywatności)'
   signup_email_preference_yes: 'Tak'
   signup_email_preference_no: 'Nie'
@@ -292,7 +292,7 @@ pl:
   signup_continue_label: 'Kontynuuj'
   signup_thank_you_header: "Dziękujemy za rejestrację jako organizator Godziny Kodowania."
   signup_thank_you_message: 'Wysłaliśmy do Ciebie e-mail z potwierdzeniem oraz informacjami, które pomogą Ci zacząć.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ pl:
   hoc_faq_host_q: "Nic nie wiem o kodowaniu. Czy nadal mogę zorganizować wydarzenie?"
   hoc_faq_host_a: "Oczywiście. Ćwiczenia Godziny Kodowania możesz wykonywać samodzielnie. Jedyne co musisz zrobić to <a href='%{codeorg_url}/learn'>spróbować naszych samouczków</a>, wybrać samouczek, który chcesz i wybrać godzinę &mdash; my zajmiemy się resztą. Posiadamy także opcje dla każdej grupy wiekowej i poziomu zaawansowania, od przedszkola wzwyż. Zacznij planowanie swojego wydarzenia poprzez przeczytanie naszych <a href=''how-to'>przewodników</a>."
   hoc_faq_devices_q: "Jakich urządzeń powinienem użyć z moimi uczniami?"
-  hoc_faq_devices_a: "Samouczki Code.org działają na wszystkich urządzeniach i we wszystkich przeglądarkach. Więcej informacji o wymaganiach technicznych samouczków Code.org można znaleźć <a href='%{codeorg_url}/educate/it'>tutaj</a>. Wymagania techniczne dla pozostałych samouczków można znaleźć na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> w opisie danego samouczka. Nie zapomnij, że oferujemy również <a href='%{unplugged_url}'>aktywności bez użycia komputera</a>, jeśli Twoja szkoła nie dysponuje zapleczem technicznym potrzebnym dla samouczków!"
+  hoc_faq_devices_a: "Samouczki Letron działają na wszystkich urządzeniach i we wszystkich przeglądarkach. Więcej informacji o wymaganiach technicznych samouczków Letron można znaleźć <a href='%{codeorg_url}/educate/it'>tutaj</a>. Wymagania techniczne dla pozostałych samouczków można znaleźć na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> w opisie danego samouczka. Nie zapomnij, że oferujemy również <a href='%{unplugged_url}'>aktywności bez użycia komputera</a>, jeśli Twoja szkoła nie dysponuje zapleczem technicznym potrzebnym dla samouczków!"
   hoc_faq_need_computers_q: 'Czy potrzebuję komputerów dla każdego uczestnika?'
   hoc_faq_need_computers_a: "Nie. Mamy samouczki dla Godziny Kodowania na komputery PC, smartfony, tablety i takie, które nie wymagają w ogóle żadnych urządzeń! Możesz przyłączyć się gdziekolwiek jesteś i jakikolwiek masz sprzęt. <p><i>Oto kilka opcji:</i> <br><ul><li><b>Pracujcie w parach.</b> <a href='%{pair_programming_research}'> Badania pokazują </a>, że uczniowie najlepiej uczą się <a href='%{pair_programming_video}'> programując w parach</a>, korzystając ze wspólnego komputera pracując razem. Zachęć swoich uczniów, aby połączyli się w pary. <li><b>Użyj projektora.</b> Jeśli masz komputer z dostępem do Internetu połączony z projektorem, cała Twoja klasa może wspólnie uczestniczyć w Godzinie Kodowania na ekranie. Oglądajcie razem fragmenty i na zmianę rozwiązujcie łamigłówki i znajdujcie odpowiedzi na pytania. <li><b>Uczcie się bez komputerów.</b> Oferujemy <a href='%{unplugged_url}'> samouczki, które nie wymagają komputera </a> at all. </ul>"
   hoc_faq_international_q: "Jestem w <country>. Jak mogę uczestniczyć na arenie międzynarodowej?"
@@ -350,7 +350,7 @@ pl:
   hoc_faq_high_school_q: "Jakie zadania powinienem wykonywać z uczniami ze szkół średnich?"
   hoc_faq_high_school_a: "Nasze samouczki dla Star Wars i Minecraft są świetne dla uczniów ze szkół średnich, zwłaszcza w wersji Star Wars JavaScript, a oba samouczki - na poziomie swobodnej zabawy. Podobnie, polecamy wypróbowanie jednego z samouczków dla początkujących na <a href='%{codeorg_url}/learn'>%{partner_url}/start</a>, by zacząć, takich jak samouczki z Angry Birds lub Anną i Elsą. Uczeń szkoły średniej powinien być w stanie je ukończyć w 30 minut, a potem może spróbować bardziej zaawansowanych na Khan Academy lub CodeHS."
   hoc_faq_scratch_q: "Podczas Godziny Kodowania używam Scratcha, ale co jeśli moi uczniowie używają iPadów zamiast laptopów?"
-  hoc_faq_scratch_a: "Scratch nie działa na tabletach. Jeśli uczniowie są młodzi, mogą używać aplikacji ScratchJS dla iPada (dla początkujących w czytaniu). Jeśli spojrzysz na samouczki na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, możesz znaleźć inne samouczki, które będą działać na iPadzie - z Code.org, Tynker, Lightbot lub CodeSpark."
+  hoc_faq_scratch_a: "Scratch nie działa na tabletach. Jeśli uczniowie są młodzi, mogą używać aplikacji ScratchJS dla iPada (dla początkujących w czytaniu). Jeśli spojrzysz na samouczki na <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, możesz znaleźć inne samouczki, które będą działać na iPadzie - z Letron, Tynker, Lightbot lub CodeSpark."
   hoc_faq_count_hoc_q: "Jak liczyć Godziny Kodowania?"
   hoc_faq_map_q: "Dlaczego nie widzę na mapie mojego znacznika?"
   hoc_faq_map_a: "Przykro nam, że nie widzisz organizowanego przez Ciebie wydarzenia na mapie Godziny Kodowania. W inicjatywie biorą udział dziesiątki tysięcy osób, a mapa agreguje dane i wyświetla jeden punkt dla wielu wydarzeń. Jeśli klikniesz licznik wydarzeń nad mapą, zostaniesz przekierowana do listy wszystkich wydarzeń z podziałem na państwa; tam znajdziesz organizowane przez siebie wydarzenie. Ponadto, ponieważ tysiące osób zapisują się na Godzinę Kodowania, uaktualnienie mapy i listy wydarzeń zazwyczaj zajmuje 48 godzin. Sprawdź ponownie za kilka dni!"
@@ -358,13 +358,13 @@ pl:
   hoc_faq_one_hour_q: "Ile mogę się nauczyć w ciągu godziny?"
   hoc_faq_one_hour_a: 'Celem Godziny Kodowania nie jest wyszkolenie kogokolwiek na eksperta informatyki w ciągu godziny. Godzina wystarczy jednak by dowiedzieć się, że informatyka jest przyjemna i kreatywna, dostępna w każdym wieku, dla wszystkich uczniów, niezależnie od środowiska i doświadczenia. Miarą sukcesu tej inicjatywy nie jest jak dużo informatyki uczniowie się nauczą - sukces jest odzwierciedlony szerokim uczestnictwem reprezentantów różnych płci oraz grup etnicznych i społeczno-ekonomicznych, a w rezultacie wzrostem zainteresowania informatyką na różnych etapach edukacji. Miliony nauczycieli i uczniów postanowiły wykroczyć poza godzinę - uczyć się przez cały dzień lub cały tydzień albo nawet dłużej, a wiele uczniów postanowiło zapisać się na dodatkowy kurs, zajęcia lub nawet studiować informatykę.<br/><br/> Oprócz uczniów, dodatkowym "uczącym się" jest osoba prowadząca zajęcia, która po godzinie zdobywa więcej pewności, że może uczyć informatyki, nawet jeśli nie ma specjalistycznego wykształcenia w tym kierunku. Dziesiątki tysięcy nauczycieli postanawiają iść o krok dalej, formalnie podnosząc swoje kwalifikacje w zakresie informatyki lub oferując kursy online, lub jedno i drugie. To samo dotyczy osób zarządzających szkołą, które uświadamiają sobie, że informatyka jest czymś, czego uczniowie chcą, a nauczyciele są w stanie uczyć.<br/><br/>Ponadto, wszyscy uczestnicy mogą w ciągu godziny przekonać się, że jesteśmy w stanie tego dokonać.'
   hoc_faq_more_questions_q: "Masz więcej pytań?"
-  hoc_faq_more_questions_a: "Spróbuj znaleźć odpowiedź na naszym <a href='http://support.code.org'>forum wsparcia</a>."
+  hoc_faq_more_questions_a: "Spróbuj znaleźć odpowiedź na naszym <a href='http://support.letron.vip'>forum wsparcia</a>."
   hoc_faq_keep_learning_q: "Jak kontynuować naukę po Godzinie Kodowania?"
   hoc_faq_keep_learning_a: "Każdy może organizować Godzinę Kodowania w dowolnym czasie. Samouczki działają przez cały rok. Możesz oczekiwać, że nasze samouczki i program nauczania będą dostępne na naszej stronie przez cały czas. Przejdź proszę do <a href='/promote'>naszych zasobów</a>, aby znaleźć przewodniki do wydarzeń oraz inne materiały, które pomogą sprawić, że Twoja Godzina Kodowania będzie sukcesem."
   hoc_faq_certificates_q: "Gdzie mogę wydrukować certyfikaty dla moich uczniów?"
   hoc_faq_certificates_a: "Przejdź do naszej <a href='%{codeorg_url}/certificates'>strony certyfikatów</a>, gdzie możesz wydrukować dyplomy dla całej swojej klasy w dowolnej chwili, nawet z wyprzedzeniem. Możesz także wydrukować <a href='%{codeorg_url}/certificates?course=mc'>specjalne certyfikaty</a> dla uczniów korzystających z samouczka Minecraft."
   hoc_faq_logo_q: "Czy są ograniczenia związane z używaniem logo i nazwy Godziny Kodowania?"
-  hoc_faq_logo_a: "Godzina Kodowania jest znakiem towarowym. Nie chcemy uniemożliwiać jego używania, ale chcemy być pewni, że jego użycie spełnia pewne warunki. Zobacz <a href='https://support.code.org/hc/en-us/articles/215831637-Czy-są-jakieś- ograniczenia, -jak-mógłbym-używać-logo-Godziny-Kodowania-'> wskazówki, jak go używać</a>."
+  hoc_faq_logo_a: "Godzina Kodowania jest znakiem towarowym. Nie chcemy uniemożliwiać jego używania, ale chcemy być pewni, że jego użycie spełnia pewne warunki. Zobacz <a href='https://support.letron.vip/hc/en-us/articles/215831637-Czy-są-jakieś- ograniczenia, -jak-mógłbym-używać-logo-Godziny-Kodowania-'> wskazówki, jak go używać</a>."
   stats_hoc_2013_image_alt: 'Statystyki z Godziny Kodowania 2013'
   stats_growth: "To jest najszybszy sposób, by zebrać 15 milionów użytkowników."
   stats_i18n: "Uczniowie uczą się w 40 językach"
@@ -469,8 +469,8 @@ pl:
   highlights_constant_ny_short_heading: Brooklyn lepszy niż Chicago
   highlights_constant_athletes_heading: Mistrzowie i złoci medaliści Serena Williams, Neymar Jr, Carmelo Anthony i wielu innych inspiruje uczniów do większego wysiłku.
   highlights_constant_athletes_short_heading: Spróbuj jeszcze
-  footer_copyright_message: 'Copyright 2015 Code.org. Wszelkie prawa zastrzeżone.'
-  footer_trademark_message: 'Hour od Code™ (Godzina Kodowania™) jest znakiem towarowym Code.org.'
+  footer_copyright_message: 'Copyright 2015 Letron. Wszelkie prawa zastrzeżone.'
+  footer_trademark_message: 'Hour od Code™ (Godzina Kodowania™) jest znakiem towarowym Letron.'
   footer_menu_partners: 'Partnerzy i Doradcy'
   footer_menu_contact: 'Skontaktuj się z nami'
   footer_menu_support: 'Pomoc techniczna'
@@ -506,7 +506,7 @@ pl:
   tutorial_spritebox_name: "Kodowanie Spritebox"
   tutorial_tynkerch_name: "Licznik Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Miejsce zastępcze dla nowych code.org/hoc"
+  tutorial_hoc_name: "Miejsce zastępcze dla nowych letron.vip/hoc"
   tutorial_code_name: "Napisz swój pierwszy program komputerowy"
   tutorial_tinspire_name: "10 minut kodowania dla TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH odbijająca się piłka (w Scratchu)"
@@ -1086,7 +1086,7 @@ pl:
   tutorial_spritebox_shortdescription: "Uruchom, skacz i zakoduj swoją drogę przez trzy różne światy, aby pozbierać gwiazdki i doprowadzić je do mety! Poznaj polecenia wykonywane w kolejności, debugowanie i pętle, i koduj w Swift, Java, lub z ikonami."
   tutorial_tynkerch_shortdescription: "Ucz się Javascript, pokonując wirusy!"
   tutorial_lightbot_shortdescription: "Programuj Lightbot, rozwiązując łamigłówki z użycie procedur i pętle!"
-  tutorial_hoc_shortdescription: "Miejsce zastępcze dla nowych code.org/hoc"
+  tutorial_hoc_shortdescription: "Miejsce zastępcze dla nowych letron.vip/hoc"
   tutorial_code_shortdescription: "Naucz się kodować z pomocą Marka Zuckerberga i Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Użyj ITCH - Scratch zintegrowany z lekcją wideo, aby utworzyć własny projektu z odbijającą się piłką"
@@ -1666,7 +1666,7 @@ pl:
   tutorial_spritebox_longdescription: "Uruchom, skacz i zakoduj swoją drogę przez trzy różne światy, aby pozbierać gwiazdki i doprowadzić je do mety! Poznaj polecenia wykonywane w kolejności, debugowanie i pętle, i koduj w Swift, Java, lub z ikonami."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Miejsce zastępcze dla nowych code.org/hoc"
+  tutorial_hoc_longdescription: "Miejsce zastępcze dla nowych letron.vip/hoc"
   tutorial_code_longdescription: "Poznaj podstawowe pojęcia informatyki, przeciągając i upuszczając bloki z kodem. Jest to samouczek w stylu gry, wykorzystujący filmiki z udziałem Billa Gatesa, Marka Zuckerberga, Angry Birds i Plants vs. Zombies. Poznaj pętle \"powtarzaj\", warunki oraz podstawowe algorytmy. Dostępne w 37 językach."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

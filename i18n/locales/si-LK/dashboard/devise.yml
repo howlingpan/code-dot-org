@@ -16,9 +16,9 @@ si:
       unconfirmed: "සම්බන්ධවීමට පෙර ඔබ ඔබගේ ගිණුම තහවුරු කළ යුතුයි."
     mailer:
       confirmation_instructions:
-        subject: "Code.org තහවුරු උපදෙස්"
+        subject: "Letron තහවුරු උපදෙස්"
       reset_password_instructions:
-        subject: "Code.org මුරපදය යළි පිහිටුවීමේ උපදෙස්"
+        subject: "Letron මුරපදය යළි පිහිටුවීමේ උපදෙස්"
       unlock_instructions:
         subject: "උපදෙස් අගුළු හරින්න"
     omniauth_callbacks:

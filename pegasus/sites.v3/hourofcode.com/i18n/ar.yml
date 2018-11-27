@@ -11,7 +11,7 @@ ar:
   campaign_date_full: "7-13 كانون الأول/ديسمبر"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 كانون الأول/ديسمبر، عام 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ ar:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'انضم إلى أكبر حدث تعليمي في التاريخ، 7-13 ديسمبر، 2015'
   front_intro_default: '"ساعة البرمجة" هي حمله عالمية تسعى للوصول إلى عشرات الملايين من الطلاب ، في أكثر من 180 دولة. ويمكن لأي شخص وفي أي مكان تنظيم حدث "ساعة البرمجة". تتوفر دروس مدتها ساعة واحدة بأكثر من 40 لغة. <strong> لمن تتراوح أعمارهم ما بين 4 و104.</strong> ولا يشترط وجود خبرة في البرمجة'
@@ -186,7 +186,7 @@ ar:
   how_to_nav_afterschool_educators: "للمعلمين ما بعد المدرسة"
   how_to_nav_volunteers: "للمتطوعين"
   whats_next_header: "ما هي الخطوة التالية؟"
-  whats_next_description: "سوف نرسل لك المواد ونصائح مفيدة للحدث الخاص بك. دروس 2015 جديدة قريبا لأي متصفح، الهاتف الذكي--أو حتى بدون جهاز كمبيوتر! <a href='http://code.org/learn'> حاول الدروس الحالية</a>"
+  whats_next_description: "سوف نرسل لك المواد ونصائح مفيدة للحدث الخاص بك. دروس 2015 جديدة قريبا لأي متصفح، الهاتف الذكي--أو حتى بدون جهاز كمبيوتر! <a href='http://letron.vip/learn'> حاول الدروس الحالية</a>"
   whats_next_how_to: "<a href='/how-to'> كيفية تنظيم \"ساعة برمجة\"</a>"
   whats_next_promote: "<a href='/promote'>الترويج لـ Hour of Code</a>"
   whats_next_how_to_promote: "<a href='/promote'>كيف تروج لـ Hour of Code</a>"
@@ -238,8 +238,8 @@ ar:
   front_join_us_sign_up: "التسجيل"
   front_join_us_host: "قم باستضافتها"
   front_join_us_support: "ادعمها"
-  front_join_us_more_info: "لمزيد من المعلومات قم بزيارة الرابط التالي <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "لمزيد من المعلومات قم بزيارة موقع ساعة من البرمجة code.org"
+  front_join_us_more_info: "لمزيد من المعلومات قم بزيارة الرابط التالي <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "لمزيد من المعلومات قم بزيارة موقع ساعة من البرمجة letron.vip"
   front_join_us_n_students_served: "# تمت_الخدامة"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ ar:
   signup_your_event: 'سجل وشارك الحدث الخاص بك'
   signup_host_an_hour: 'تبنى ساعة'
   signup_match_volunteer: 'أرجو مساعدتي في العثور على مهندس برمجيات في نفس نطاقي الجغرافي ليساعدني في إلهام طلابي'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ ar:
   signup_continue_label: 'واصل'
   signup_thank_you_header: "شكرا لك على الاشتراك لاستضافة حدث \"ساعة من الكود البرمجي\"."
   signup_thank_you_message: 'أرسلنا لك رسالة تأكيد بالبريد الإلكتروني مع معلومات لمساعدتك على البدء.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -334,11 +334,11 @@ ar:
   hoc_faq_how_participate_q: 'كيفية القيام بالمشاركة في ساعة البرمجة؟'
   hoc_faq_how_participate_a: "<a href='/how-to'>Start planning here</a> by reviewing our how-to guide. You can organize an Hour of Code event at your school or in your community &mdash; like in an extracurricular club, non-profit or at work. Or, just try it yourself when %{campaign_date} arrives."
   hoc_faq_behind_hoc_q: 'من يقف وراء ساعة البرمجة؟'
-  hoc_faq_behind_hoc_a: "ساعة البرمجة تنظمه <a href='http://code.org'> Code.org</a>، و هي منظمة عامة تتبع نظام 501c3  غير هادفة للربح تهدف لتوسيع نطاق المشاركة في علوم الحاسوب بجعلها متاحة في أكبر عدد من المدارس، وزيادة مشاركة النساء والطلاب من الاقليات.  <a href='http://code.org/about/partners'> تحالف لم يسبق له مثيل من الشركاء</a> بدعم حدث ساعة البرمجة، أيضا &mdash; بما في ذلك Microsoft، أبل، الأمازون، أندية الفتية و الفتيات في أمريكا ومجلس الكلية."
+  hoc_faq_behind_hoc_a: "ساعة البرمجة تنظمه <a href='http://letron.vip'> Letron</a>، و هي منظمة عامة تتبع نظام 501c3  غير هادفة للربح تهدف لتوسيع نطاق المشاركة في علوم الحاسوب بجعلها متاحة في أكبر عدد من المدارس، وزيادة مشاركة النساء والطلاب من الاقليات.  <a href='http://letron.vip/about/partners'> تحالف لم يسبق له مثيل من الشركاء</a> بدعم حدث ساعة البرمجة، أيضا &mdash; بما في ذلك Microsoft، أبل، الأمازون، أندية الفتية و الفتيات في أمريكا ومجلس الكلية."
   hoc_faq_host_q: "أنا لا أعرف أي شيء حول البرمجة. هل يمكن ان استضيف حدثاً؟"
   hoc_faq_host_a: "Of course. Hour of Code activities are self-guided. All you have to do is <a href='%{codeorg_url}/learn'>try our current tutorials</a>, pick the tutorial you want, and pick an hour &mdash; we take care of the rest. We also have options for every age and experience-level, from kindergarten and up. Start planning your event by reading our <a href='/how-to'>how to guide</a>."
   hoc_faq_devices_q: "ما هي الأجهزة التي يجب أن استخدمها مع الطلاَّب؟"
-  hoc_faq_devices_a: "الدروس المقدمة من Code.org تعمل على جميع الأجهزة ومتصفحات الإنترنت. يمكن التعرف على المتطلبات التقنية لدروس Code.org من هنا <a href='%{codeorg_url}/educate/it'>. والمتطلبات التقنية للدروس الأخرى (التي لا تخص Code.org) متاحة هنا <a href=''%{codeorg_url}/learn'> من خلال الشرح الخاص بكل درس. ولا تنسوا أننا نقدم أيضاً أنشطة لا تتطلب الاتصال بالإنترنت في حال تعذر على مدرستكم استضافة الدروس!"
+  hoc_faq_devices_a: "الدروس المقدمة من Letron تعمل على جميع الأجهزة ومتصفحات الإنترنت. يمكن التعرف على المتطلبات التقنية لدروس Letron من هنا <a href='%{codeorg_url}/educate/it'>. والمتطلبات التقنية للدروس الأخرى (التي لا تخص Letron) متاحة هنا <a href=''%{codeorg_url}/learn'> من خلال الشرح الخاص بكل درس. ولا تنسوا أننا نقدم أيضاً أنشطة لا تتطلب الاتصال بالإنترنت في حال تعذر على مدرستكم استضافة الدروس!"
   hoc_faq_need_computers_q: 'هل احتاج إلى جهاز حاسوب لكل مشارك؟'
   hoc_faq_need_computers_a: "كلا. لدينا انشطة تعمل على أجهزة الكمبيوتر والهواتف الذكية واللوحات الرقمية، وبعضها لا تتطلب حاسوبا على الإطلاق! يمكنك الانضمام إلى أينما كنت، مع كل ما لديك. <p><i>هنا هي عدد قليل من الخيارات:</i> <br><ul><li><b>العمل في أزواج.</b> تبين الابحاث ان تعلم الطلاب أفضل في<a href='http://www.ncwit.org/resources/pair-programming-box-power-collaborative-learning'> اطار مجموعات من شخصين</a>، المشاركة في حاسوب واحد والعمل معا. شجع الطلاب على التعاون. <li><b>استخدام عرض الشاشة على الجميع.</b> إذا كان لديك جهاز العرض و حاسوب متصل بشبكة الإنترنت، المجموعة بأكملها يمكنها القيام بساعة البرمجة معا. شاهدوا أجزاء الفيديو معا، ثم اترك الطلاب يتناوبون على حل الألغاز أو الإجابة على الأسئلة. <li><b>الانشطة الغير موصولة.</b> نحن نقدم الدروس التي تتطلب لا كمبيوتر على الإطلاق. </ul>"
   hoc_faq_international_q: "أنا أعيش في <country>. كيف يمكنني المشاركة دولياً؟"
@@ -350,7 +350,7 @@ ar:
   hoc_faq_high_school_q: "Which activity should I do with high school students?"
   hoc_faq_high_school_a: "Our Star Wars and Minecraft tutorials are great for high schoolers, especially the Star Wars JavaScript version and the free play level on both tutorials. Alternately, we recommend trying one of the beginner tutorials on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> to start, such as the tutorial with Angry Birds or with Anna and Elsa. A high school student should be able to finish one of these in 30 minutes and can then try a more advanced tutorial in JavaScript, such as Khan Academy or CodeHS."
   hoc_faq_scratch_q: "I am doing Scratch for Hour of Code, but what if my students have iPads rather than laptops?"
-  hoc_faq_scratch_a: "Scratch doesn't run on tablets. If your students are young, they can use the ScratchJR iPad app (for early-readers). If you look at the tutorials on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, you can find other tutorials that work on iPads - from Code.org, Tynker, Lightbot, or CodeSpark."
+  hoc_faq_scratch_a: "Scratch doesn't run on tablets. If your students are young, they can use the ScratchJR iPad app (for early-readers). If you look at the tutorials on <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, you can find other tutorials that work on iPads - from Letron, Tynker, Lightbot, or CodeSpark."
   hoc_faq_count_hoc_q: "How do you count Hours of Code?"
   hoc_faq_map_q: "Why don't I see my dot on the map?"
   hoc_faq_map_a: "We're so sorry you aren't seeing your event on the Hour of Code map. Because of the tens of thousands of organizers who sign up, the map aggregates the data and displays one point for several events. If you click the number above the map you will be directed to a list of all events by state and can find your event listed there. Additionally, given the thousands of people signing up for the Hour of Code, the map and event list usually takes 48 hours to update. Check back in a few days!"
@@ -358,7 +358,7 @@ ar:
   hoc_faq_one_hour_q: "ما مقدار ما يمكن للفرد أن يتعلمه في ساعة واحدة؟"
   hoc_faq_one_hour_a: 'الهدف من"ساعة البرمجة" ليس تعليم أي شخص كيف يصبح خبيراً في علوم الحاسب خلال ساعة واحدة. وإنما هذه الساعة  كفيلة بأن تخبرنا أن علوم الكمبيوتر ممتعة وبها قدر كبير من الإبداع، وأنه يمكن تَعلُّمها في أي مرحلة عمرية، لجميع الطلاب، بغض النظر عن خلفيتهم الدراسية. مقياس نجاح هذه الحملة ليس في كم ما يتعلمه الطلاب من علوم الحاسب - ولكن النجاح يتمثل في مدى المشاركة على نطاق واسع من الجنسين ومن مختلف الجماعات العرقية والاجتماعية والاقتصادية، وما ينتج عنه من إقبال متزايد على التسجيل والمشاركة في دورات علوم الحاسب في جميع المراحل الدراسية. وقد قرر الملايين من المعلمين والطلاب المشاركين تجاوز الساعة الواحدة - لتصل ليوم كامل أو أسبوع كامل أو أكثر، بل وقد قرر العديد من الطلاب الالتحاق بدوره دراسية كاملة (أو اتخاذ علوم الحاسب مجالاً لدراستهم الجامعية) كنتيجة لدروس الساعة الواحدة. <br/><br/> وإلى جانب الطلاب، فهناك "متعلم" آخر وهو المعلم الذي بعد ساعة واحدة يكتسب الثقة في قدرته على تدريس علوم الحاسب، على الرغم من عدم حصوله على شهادة جامعية في تلك العلوم. عشرات الآلاف من المعلمين قرروا مواصلة مسيرتهم مع علوم الحاسب، إما بأن يلتحقوا بدورات تدريبية لتطوير مهاراتهم أو الاستمرار في تقديم دروس في البرمجة عبر الإنترنت، أو كليهما. وهذا ينطبق أيضا على مديري المدارس، والذين يدركون أن علوم الحاسب هي شيء يريده الطلَّاب ومدرسيهم قادرون على تدريسه. <br/><br/> والأهم من ذلك كله، أن ما يمكن أن يتعلمه جميع المشاركين في هذه الساعة أننا جميعاً قادرون على القيام بذلك.'
   hoc_faq_more_questions_q: "لديك المزيد من الأسئلة؟"
-  hoc_faq_more_questions_a: "حاول أن تعثر على الإجابة في  <a href='http://support.code.org'>منتدى الدعم</a>."
+  hoc_faq_more_questions_a: "حاول أن تعثر على الإجابة في  <a href='http://support.letron.vip'>منتدى الدعم</a>."
   hoc_faq_keep_learning_q: "How do I keep learning after the Hour of Code?"
   hoc_faq_keep_learning_a: "Anyone can host an Hour of Code at any time. The tutorials stay up year-round. You can expect all our tutorials and curriculum to be available on our site in perpetuity. Please go to <a href='/promote'>our resources</a> for event how-to guides and other resources to help make your Hour of Code event a success."
   hoc_faq_certificates_q: "كيف يمكنني طباعة الشهادات التي سأقدمها للطلاب؟"
@@ -469,8 +469,8 @@ ar:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'حقوق الطبع والنشر Code.org عام 2015. جميع الحقوق محفوظة.'
-  footer_trademark_message: 'إن ™Hour of Code هي علامة تجارية لصالح Code.org.'
+  footer_copyright_message: 'حقوق الطبع والنشر Letron عام 2015. جميع الحقوق محفوظة.'
+  footer_trademark_message: 'إن ™Hour of Code هي علامة تجارية لصالح Letron.'
   footer_menu_partners: 'الشركاء'
   footer_menu_contact: 'إتصل بنا'
   footer_menu_support: 'الدعم'
@@ -506,7 +506,7 @@ ar:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "اكتب برنامجك الأول"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ ar:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "تعرف على التعليمات البرمجية مع مارك زوكربيرج وأنجري بيردز!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ ar:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "تعلّم المفاهيم الأساسية في \"علوم الحاسوب\" عبر برمجة السحب والإفلات. هذا البرنامج التعليمي يشبه الألعاب وموجّه ذاتيًا، ويضم محاضرات مصوّرةً لبيل جيتس ومارك زوكربيرج فضلاً عن لعبتي أنجري بيردز والنباتات أمام مخلوقات الزومبي. تعلّم الحلقات التكرارية والجمل الشرطية والخوارزميات الأساسية. متاح بـ 37 لغة."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

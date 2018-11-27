@@ -433,7 +433,7 @@ es:
       Artist - Nested Loops 9: Dibujar los dientes en la boca del cocodrilo!
       Artist - Nested Loops Assessment 1: Utiliza un circuito anidado para completar el diseño.
       Artist Autorun Test: Usa el bloque "repetir" para dibujar estos 3 cuadrados.
-      Artist Inspiration: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución."
+      Artist Inspiration: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución."
       Auto Open Function Editor: '¡Puedes llamar una función dentro de otra función! Utilizando tu función "shape" como base, crea 3 formas de casa cada una de 20 píxeles mas larga que la anterior, empezando con 50 píxeles de longitud. Usar un circuito de contar puede ser útil.'
       Bee Recommended Blocks test: '¡ Las flores moradas pueden tener un tipo de néctar de 1 ó 0, pero tu no sabes cuál !. Ten cuidado de no recolectar el néctar de una flor morada sin  néctar. Revisa si el valor del néctar es igual a 1 usando el bloque “if”. '
       Bergeron Robot Maze1: "¿Me puedes ayudar a atrapar al cerdo malo? Apila un\npar de bloques \"avanzar\" juntos y presiona \"Ejecutar\". "
@@ -520,7 +520,7 @@ es:
         \r
         Necesitas una pista? Presiona aquí.
       Course 4 Artist For Loops inspire: |-
-        Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución.
+        Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución.
       Course 4 Artist Functions 1: '¿Puedes dibujar en cuadrado que tiene 100 píxeles de longitud, utilizando un circuito?'
       Course 4 Artist Functions 10: '¿Cúal bloque necesitas agregar para conseguir que el triángulo se ubique en la cima del cuadrado?'
       Course 4 Artist Functions 11: Mira este código que dibuja un cubo - ¿Puedes moverlo en una función llamada "Draw a cube"?
@@ -543,7 +543,7 @@ es:
       Course 4 Artist Functions 9: Te hemos dado la mayor parte del código para crear una función. Sin embargo parece que falta algo. ¿Puedes completar esta función de bloques?
       Course 4 Artist Functions Inspiration: Click aquí para ver las sugerencias nuevamente.
       Course 4 Artist Functions challenge: Click aquí para ver las sugerencias nuevamente.
-      Course 4 Artist Functions inspire: 'Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución.'
+      Course 4 Artist Functions inspire: 'Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución.'
       Course 4 Artist Inspire: |-
         ¿Quieres un segundo vistazo al diseño de inspiración o los consejos?  Haga clic aquí! \r \r si lo prefieres, ¡crea un diseño propio!
       Course 4 Artist Params 1: Editemos una función que dibuje un cuadrado de 50 píxeles cada lado
@@ -785,7 +785,7 @@ es:
       Infinity_touch_faster: '¡Toca aún más copos de nieve!'
       Infinity_touch_four: Mueve a Anna hacia arriba, abajo a la izquierda y a la derecha para tocar cada uno de los cuatro copos de nieve.
       Infinity_touch_score: Has que Anna anote un punto cuando ella toque un copo de nieve.  Después has clic en "Ejecutar" y conducela para tocar una vez cada copo de nieve.
-      Inspirational Artwork: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución."
+      Inspirational Artwork: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución."
       K-1 Artist 1 Assessment 1: "¡Dibuja una linea corta hacia arriba y una larga\na la derecha!"
       K-1 Artist Loops 1: Dibuja esa linea moviendote al este 4 veces
       K-1 Artist Loops 2: '¿Podrías dibujar la misma linea usando un enlace?'
@@ -1000,7 +1000,7 @@ es:
       NEW Course 4 Artist Functions 7: '¿Le estás agarrando el tiro a cómo usar los bloques de función? Modifiquemos este cuadrado para que mida 200 píxeles. Sugerencia: haz click en "editar" para cambiar el tamaño del editor de la función "dibujar un cuadrado". Recuerda hacer click en "guardar y cerrar" para salir del editor de la función. '
       NEW Course 4 Artist Functions 8: Te hemos dado la mayoría del código para crear una función. Sin embargo parece que falta algo. ¿Puedes editar la definición de la función para dibujar el triángulo?
       NEW Course 4 Artist Functions 9: '¿Qué bloque necesitas añadir para conseguir que el triángulo se ponga encima del cuadrado?'
-      NEW Course 4 Artist Functions inspire: 'Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución.'
+      NEW Course 4 Artist Functions inspire: 'Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución.'
       NEW Course 4 Artist Params 1: Vamos a definir esta función para dibujar un cuadrado con lados de 50 píxeles. Haz click en "editar" para empezar.
       NEW Course 4 Artist Params 10: 'Crea un bloque de función "dibujar un hexágono" con un parámetro de longitud. Pista: este hexágono tiene 100 píxeles de tamaño. '
       NEW Course 4 Artist Params 11: '¿Puedes averiguar cómo dibujar esta forma? Edita la función para usar el parámetro "lados".'
@@ -1016,7 +1016,7 @@ es:
       NEW Course 4 Artist Params 7: '¿Puedes completar este dibujo? Sugerencia: cada triángulo es 25 píxeles mas grande que el último.  El primer triángulo es de 25 píxeles de tamaño.'
       NEW Course 4 Artist Params 8: '¿Puedes dibujar cada uno de estos triángulos con esa nueva función? El primero es de 25 píxeles de largo, el segundo es de 50 y el tercero es de 75. Sugerencia: comienza haciendo clic en "Editar" en tu bloque de función.'
       NEW Course 4 Artist Params 9: 'Haz clic en "Editar" para completar la definición de la función "dibujar un cuadrado" y agrega un parámetro. Debe tomar un parámetro de longitud, al igual que el triángulo. Esta vez, dibuja 3 cuadrados: de 25, 50 y 75 píxeles de largo, separados por 100 píxeles.'
-      NEW Course 4 Artist Params inspire: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución."
+      NEW Course 4 Artist Params inspire: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución."
       NEW Course 4 Artist Vars 1.5: '¿Echa un vistazo al código, puedes ver cómo los bloques "establecer longitud" y "longitud" trabajan juntos? Haz clic en "Ejecutar" para verlo en acción. '
       NEW Course 4 Artist Vars 12: Modifica este algoritmo para que utilice la variable "lados" en lugar de un número fijo para dibujar un pentágono. Reemplaza el número 5 con la variable "lados" y usa el bloque "establecer lados".
       NEW Course 4 Artist Vars 2.5: '¿Echa un vistazo al código, puedes ver cómo los bloques "establecer longitud" y "longitud" trabajan juntos? Haz clic en "Ejecutar" para verlo en acción. '
@@ -1575,8 +1575,8 @@ es:
       grade5_artist_for_loops9: |-
         Vamos a poner todo junto!  Usando tu conocimiento de "ciclos for" y del "contador", crear este dibujo donde cada forma tiene dos partes más que el anterior.  Asegúrate de que cada lado sea 10 veces mas largo que el número de lados del polígono. \r \r muy poco del código se ha proporcionado para ti.
       grade5_artist_for_loopsfreeplay11: |-
-        Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución.
-      grade5_artist_functionparameters10: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.code.org/c/106387604 para la solución."
+        Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \r \r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución.
+      grade5_artist_functionparameters10: "Inspiración de juego libre: Ahora has aprendido todo lo que necesitas saber para hacer un patrón como este! Si te inspira esta imagen, tratar de hacer algo similar. De lo contrario, crea algo por tu cuenta. \\r \\r quieres saber cómo se hizo nuestro patron de inspiración? Visita https://studio.letron.vip/c/106387604 para la solución."
       grade5_artist_functionparameters11: 'Juego Libre: Aquí están las funciones que has escrito y algunas más para que juegues con ellas. ¡Dibuja algo impresionante!'
       grade5_artist_functionparameters7: Esta imagen es similar a la última. ¿Se puede utilizar un "ciclo for" con tu función para hacer este diseño?
       grade5_artist_functionparameters8: "Vamos a editar esta función \"dibujar una forma\".\nYa tiene un parámetro de \"longitud\". Ahora, vamos a editar la función para añadir también un parámetro \"lados\". Recuerda que el ángulo para girar una forma determinada es 360 dividido por la cantidad de lados que tiene. Sugerencia: las longitudes para cada forma son: el triángulo es 100 píxeles, el hexágono es 25 píxeles y el cuadrado es de 50 píxeles."

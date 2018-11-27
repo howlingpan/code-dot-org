@@ -41,6 +41,6 @@ Feature: Manage Assets
 
   Scenario: From WebLab, the manage assets dialog does not contain the option to record audio.
     Given I am a student
-    And I am on "http://studio.code.org/projects/weblab/new"
+    And I am on "http://studio.letron.vip/projects/weblab/new"
     Then I click selector "#ui-test-add-image" once I see it
     Then I wait until element "#record-asset" is not visible

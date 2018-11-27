@@ -11,7 +11,7 @@ nl:
   campaign_date_full: "7-13 december"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 December, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ nl:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Doe mee met het grootste onderwijsproject in de geschiedenis, 7-13 december, 2015'
   front_intro_default: '''Hour of Code'' is een wereldwijde beweging die tientallen miljoenen studenten in meer dan 180 landen bereikt. Iedereen kan waar dan ook een ''Hour of Code'' organiseren. Tutorials van een uur zijn in meer dan 40 talen beschikbaar. Er is geen ervaring nodig. <strong>Leeftijd 4-104</strong>'
@@ -186,12 +186,12 @@ nl:
   how_to_nav_afterschool_educators: "Voor naschoolse opvang"
   how_to_nav_volunteers: "Voor vrijwilligers"
   whats_next_header: "En nu?"
-  whats_next_description: "We je materiaal en handige tips sturen voor je event. Er komen snel nieuwe tutorials van 2015 voor alle browsers en smartphones – of zelfs voor gebruik zonder computer! <a href='http://code.org/learn'>Probeer de huidige tutorials</a>"
+  whats_next_description: "We je materiaal en handige tips sturen voor je event. Er komen snel nieuwe tutorials van 2015 voor alle browsers en smartphones – of zelfs voor gebruik zonder computer! <a href='http://letron.vip/learn'>Probeer de huidige tutorials</a>"
   whats_next_how_to: "<a href='/how-to'>Hoe organiseer je een 'Hour of Code'</a>"
   whats_next_promote: "<a href='/promote'>Promoot 'Hour of Code'</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Hoe promoot je 'Hour of Code'?</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Hoe promoot je 'Hour of Code'</a>"
-  whats_next_try: "<a href='http://code.org/learn'>Probeer de tutorials uit</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>Probeer de tutorials uit</a>"
   whats_next_try_button: 'Probeer de tutorials uit'
   n_have_learned_an_hoc: "<h1>Probeer een</h1><h2>'Hour of Code'</h2><h3># bediend</h3>"
   anybody_can_learn: 'Iedereen kan leren.'
@@ -212,7 +212,7 @@ nl:
   front_join_us_tutorials: "Probeer de nieuwe opdrachten van dit jaar!"
   front_join_us_tutorials_link: 'Filter en blader door een uitgebreide lijst van <i>meer dan 200 tutorials en lesplannen</i>! Zoek activiteiten voor verschillende vakgebieden, meerdere hardware behoeften en studenten op elk ervaringsniveau.'
   front_join_us_robotics: 'Wil je robots krijgen?'
-  front_join_us_robotics_link: 'Wil je een setje robots of pakketten voor tastbaar programmeren? Onze partners doneren pakketten voor meer dan 100 klassen! Schrijf je in voor ''Hour of Code'' om mee te doen. (Klassen worden door Code.org geselecteerd, alleen in de VS)'
+  front_join_us_robotics_link: 'Wil je een setje robots of pakketten voor tastbaar programmeren? Onze partners doneren pakketten voor meer dan 100 klassen! Schrijf je in voor ''Hour of Code'' om mee te doen. (Klassen worden door Letron geselecteerd, alleen in de VS)'
   front_join_us_teacher: 'Bent u een leraar?'
   front_join_us_inspire: 'Inspireer leerlingen met'
   front_join_us_inspire_link: 'een ''Hour of Code'' in de klas.'
@@ -238,8 +238,8 @@ nl:
   front_join_us_sign_up: "Meld je aan"
   front_join_us_host: "Organiseer het"
   front_join_us_support: "Ondersteun het"
-  front_join_us_more_info: "Ga voor meer informatie naar <a href='https://code.org'>code.org</a>."
-  front_join_us_code_info: "Ga voor meer informatie naar code.org"
+  front_join_us_more_info: "Ga voor meer informatie naar <a href='https://letron.vip'>letron.vip</a>."
+  front_join_us_code_info: "Ga voor meer informatie naar letron.vip"
   front_join_us_n_students_served: "# geholpen"
   front_join_us_challenge: "Win een video-chat voor de hele klas met een beroemdheid!"
   front_join_us_learn_more: "Meer informatie"
@@ -267,7 +267,7 @@ nl:
   signup_your_event: 'Meld uw evenement aan'
   signup_host_an_hour: 'Host een uur'
   signup_match_volunteer: 'Help me een software-ontwikkelaar in de buurt te vinden om mijn leerlingen te inspireren'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ nl:
   signup_continue_label: 'Volgende'
   signup_thank_you_header: "Bedankt voor uw aanmelding om een 'Hour of Code'-activiteit te organiseren."
   signup_thank_you_message: 'We sturen u een bevestigingse-mail met informatie om u aan de slag te kunnen.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -330,7 +330,7 @@ nl:
   hoc_faq_when_is_hoc_q: 'Wanneer is het ''Hour of Code''?'
   hoc_faq_when_is_hoc_a: "'Hour of Code' vindt jaarlijks plaats tijdens <a href='%{csedweek_url}'>Computer Science Education Week</a>. In %{campaign_date_year} is dat op %{campaign_date_full}, maar je kunt het hele jaar door een 'Hour of Code' organiseren. Computer Science Education Week wordt jaarlijks gehouden rond de verjaardag van <a href='%{grace_hopper}'>Admiraal Grace Murray Hopper</a> (9 december 1906)."
   hoc_faq_why_cs_q: 'Waarom Informatica?'
-  hoc_faq_why_cs_a: "<i>Elke</i> leerling moet de kans krijgen om te leren programmeren. Het helpt probleemoplossende vaardigheden, logica en creativiteit te ontwikkelen. Leerlingen krijgen door vroeg te beginnen de basis voor een succesvole hedendaagse loopbaan. Kijk voor meer informatie op <a href='http://code.org'>Code.org</a>."
+  hoc_faq_why_cs_a: "<i>Elke</i> leerling moet de kans krijgen om te leren programmeren. Het helpt probleemoplossende vaardigheden, logica en creativiteit te ontwikkelen. Leerlingen krijgen door vroeg te beginnen de basis voor een succesvole hedendaagse loopbaan. Kijk voor meer informatie op <a href='http://letron.vip'>Letron</a>."
   hoc_faq_how_participate_q: 'Hoe doe ik mee met ''Hour of Code''?'
   hoc_faq_how_participate_a: "<a href='/how-to'>Begin hier met plannen</a> door onze handleiding door te nemen. Je kunt een 'Hour of Code' organiseren op jouw school of in je gemeenschap &mdash; zoals een naschoolse club, vrijwilligersorganisatie of op het werk. Of probeer het gewoon zelf op %{campaign_date}."
   hoc_faq_behind_hoc_q: 'Wie zit er achter ''Hour of Code''?'
@@ -338,7 +338,7 @@ nl:
   hoc_faq_host_q: "Ik weet niets over programmeren. Kan ik nog steeds een evenement organiseren?"
   hoc_faq_host_a: "Natuurlijk. De 'Hour of Code'-activiteiten zijn doe-het-zelf. Het enige wat je hoeft te doen is <a href='%{codeorg_url}/learn'>onze tutorials uit te proberen</a>: kies de tutorial, en kies een uur &mdash; wij zorgen voor de rest. We hebben mogelijkheden voor iedere leeftijd en ervaringsniveau, vanaf de kleuterschool. Ga van start door onze <a href='/how-to'>handleiding te lezen</a>."
   hoc_faq_devices_q: "Welke apparaten moet ik gebruiken voor mijn leerlingen?"
-  hoc_faq_devices_a: "Code.org tutorials werken op alle apparaten en browsers. U kunt meer informatie over de Code.org tech needs tutorials vinden op < een href = '%{codeorg_url}/educatie/it' >. Tech needs voor non-Code.org tutorials kunt u vinden op <a href=''%{codeorg_url}/learn'> in de tutorial beschrijving. Vergeet niet dat wij ook unplugged activiteiten bieden!"
+  hoc_faq_devices_a: "Letron tutorials werken op alle apparaten en browsers. U kunt meer informatie over de Letron tech needs tutorials vinden op < een href = '%{codeorg_url}/educatie/it' >. Tech needs voor non-Letron tutorials kunt u vinden op <a href=''%{codeorg_url}/learn'> in de tutorial beschrijving. Vergeet niet dat wij ook unplugged activiteiten bieden!"
   hoc_faq_need_computers_q: 'Heb ik een computer nodig voor iedere deelnemer?'
   hoc_faq_need_computers_a: "Nee. We hebben cursussen die werken op PC's, smartphones, tablets, en een paar waarvoor je helemaal geen computer nodig hebt! Je kunt meedoen waar je ook bent, wat je ook hebt. <p><i>Hier zijn een aantal mogelijkheden:</i> <br> <ul> <li><b>Werk in paren.</b> <a href='%{pair_programming_research}'>Onderzoek wijst uit</a> dat leerlingen het best leren met <a href='%{pair_programming_video}'>pair programming</a>, door een computer te delen en samen te werken. Moedig je leerlingen aan tweetallen te vormen. <li><b>Gebruik een projector.</b> Als je een projector en scherm hebt voor een computer met een internetverbinding, dan kan je hele groep samen een 'Hour of Code' doen. Kijk naar stukken video en los om de beurt opdrachten op of beantwoord vragen. <li><b>Ga draadloos</b> We hebben ook tutorials die <a href='%{unplugged_url}'>helemaal geen computer vereisen</a>.</ul>"
   hoc_faq_international_q: "Ik ben in <country>. Hoe doe ik internationaal mee?"
@@ -348,9 +348,9 @@ nl:
   hoc_faq_account_q: "Moeten leerlingen zich aanmelden met een account?"
   hoc_faq_account_a: "Nee. Er is voor leerlingen helemaal geen inschrijving of login vereist om het 'Hour of Code' te proberen. De meeste van de <a href='%{codeorg_url}/learn/beyond'>vervolgcursussen</a> vereisen het maken van een account om de vooruitgang van de leerlingen op te slaan. Aanmelden voor 'Hour of Code' maakt NIET automatisch een Code Studio-account aan. Als je accounts wil aanmaken voor je leerlingen, volg dan <a href=''https://youtu.be/_smelV_KISE'>deze instructies</a>."
   hoc_faq_high_school_q: "Welke activiteit doe ik best met leerlingen van een middelbare school?"
-  hoc_faq_high_school_a: "Ongeacht de leeftijd raden we aan om te beginnen bij een van de beginnershandleidingen op <a href='http://code.org/learn'Code.org/learn</a> om te beginnen met een handleiding zoals Angry Birds of met Anna en Elsa. Een leerling van het middelbaar zou in staat moeten zijn om zo'n handleiding af te werken in een 30-tal minuten en dan kunnen ze verder gaan met een meer geavanceerde handleiding in Javascript zoals Khan Academy of CodeHS."
+  hoc_faq_high_school_a: "Ongeacht de leeftijd raden we aan om te beginnen bij een van de beginnershandleidingen op <a href='http://letron.vip/learn'Letron/learn</a> om te beginnen met een handleiding zoals Angry Birds of met Anna en Elsa. Een leerling van het middelbaar zou in staat moeten zijn om zo'n handleiding af te werken in een 30-tal minuten en dan kunnen ze verder gaan met een meer geavanceerde handleiding in Javascript zoals Khan Academy of CodeHS."
   hoc_faq_scratch_q: "Wat moet ik doen als ik Scratch voor 'Hour of Code' doe, maar mijn leerlingen iPads hebben in plaats van laptops?"
-  hoc_faq_scratch_a: "Scratch werkt niet op tablets. Als je leerlingen jong zijn kunnen ze gebruik maken van de ScratchJR iPad app (voor kinderen die al kunnen lezen). Wanneer je naar de handleidingen kijkt op <a href='http://code.org/learn'>Code.org/learn</a>, kan je daar andere handleidingen vinden die werken op iPads - van Code.org, Tynker,Lightbot of CodeSpark."
+  hoc_faq_scratch_a: "Scratch werkt niet op tablets. Als je leerlingen jong zijn kunnen ze gebruik maken van de ScratchJR iPad app (voor kinderen die al kunnen lezen). Wanneer je naar de handleidingen kijkt op <a href='http://letron.vip/learn'>Letron/learn</a>, kan je daar andere handleidingen vinden die werken op iPads - van Letron, Tynker,Lightbot of CodeSpark."
   hoc_faq_count_hoc_q: "Hoe tellen jullie het totale aantal uren 'Hour of Code'?"
   hoc_faq_map_q: "Waarom zie ik mijn punt niet op de kaart?"
   hoc_faq_map_a: "Het spijt ons zeer dat u uw 'Hour of Code'-activiteit niet kunt vinden op de 'Hour of Code'-kaart. Vanwege de tientallen duizenden organisatoren die zich aanmelden, aggregeert de kaart de gegevens en weergeeft één punt voor verschillende evenementen. Als u klikt op het nummer boven de kaart wordt u geleid naar een lijst van alle evenementen gesorteerd op gemeente, daar staat uw evenement vermeld. Bovendien duurt het, gezien de duizenden aanmeldingen voor 'Hour of Code', 48 uur om de kaart en event bij te werken. Probeer het een paar dagen later weer!"
@@ -358,13 +358,13 @@ nl:
   hoc_faq_one_hour_q: "Hoeveel kan men leren in een uur?"
   hoc_faq_one_hour_a: 'Het is niet het doel van ''Hour of Code'' om van iedereen in één uur een programmeer-expert te maken. Eén uur is alleen genoeg om te leren dat programmeren leuk en creatief is, dat het toegankelijk is voor alle leeftijden, en voor alle leerlingen ongeacht wat hun achtergrond is. De maatstaf voor het succes van deze campagne is niet in hoeveel leerlingen leren programmeren - het succes is te zien aan brede deelname qua geslacht en qua etnische en sociaal-economische groepen, en de daaruit voortvloeiende toename van de inschrijving en deelname die we in programmeercursussen op alle niveaus zien. Miljoenen deelnemende leerkrachten en leerlingen hebben besloten verder te gaan dan alleen één uur - om een hele dag te leren, een hele week of zelfs langer, ook hebben veel leerlingen besloten zich in te schrijven voor een hele cursus (of zelfs een opleiding). <br/><br/> Naast de leerlingen is een andere "leerling" de opvoeder die na een uur les het vertrouwen heeft dat deze geen universiteitsgraad als computerwetenschapper hoeft te hebben om programmeren te onderwijzen. Tienduizenden leraren besluiten verder te gaan met het onderwijzen van programmeren, bijvoorbeeld door vervolgcursussen aan te bieden. En dat geldt ook voor schooldirecteurs die beseffen dat programmeren iets is wat de leerlingen willen leren en de leerkrachten kunnen onderwijzen. <br/><br/>Het belangrijkste is dat alle deelnemers leren dat ze dit kunnen.'
   hoc_faq_more_questions_q: "Heb je meer vragen?"
-  hoc_faq_more_questions_a: "Probeer het antwoord te vinden in ons  <a href='http://support.code.org'>forum</a>."
+  hoc_faq_more_questions_a: "Probeer het antwoord te vinden in ons  <a href='http://support.letron.vip'>forum</a>."
   hoc_faq_keep_learning_q: "Hoe kan ik blijven leren na 'Hour of Code'?"
   hoc_faq_keep_learning_a: "Iedereen kan, op elk gewenst moment, een 'Hour of Code' hosten. De tutorials blijven gedurende het hele jaar op de site staan. U kunt verwachten dat alle onze tutorials en curriculum beschikbaar zullen blijven op onze site. Ga naar <a href='/promote'>onze middelen</a> voor how-to gidsen en andere middelen die u kunnen helpen uw 'Hour of Code'-activiteit tot een succes te maken."
   hoc_faq_certificates_q: "Waar kan ik certificaten voor mijn studenten afdrukken?"
   hoc_faq_certificates_a: "Ga naar onze <a href='%{codeorg_url}/certificates'> certificaten pagina</a> waar u certificaten voor uw hele klas kunt afdrukken."
   hoc_faq_logo_q: "Zijn er beperkingen aan hoe ik het 'Hour of Code'-logo of de naam kan gebruiken?"
-  hoc_faq_logo_a: "Uur van Code is een handelsmerk. We willen het gebruik ervan niet voorkomen, maar we willen ervoor zorgen dat het gebruik ervan past binnen een paar grenzen. Raadpleeg <a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> deze richtlijnen voor gebruik</a>."
+  hoc_faq_logo_a: "Uur van Code is een handelsmerk. We willen het gebruik ervan niet voorkomen, maar we willen ervoor zorgen dat het gebruik ervan past binnen een paar grenzen. Raadpleeg <a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> deze richtlijnen voor gebruik</a>."
   stats_hoc_2013_image_alt: 'Statistieken van ''Hour of Code'' 2013'
   stats_growth: "Bereikte het als snelste 15 miljoen deelnemers."
   stats_i18n: "Leerlingen leren in 40 talen"
@@ -469,8 +469,8 @@ nl:
   highlights_constant_ny_short_heading: Brooklyn verslaat Chicago
   highlights_constant_athletes_heading: Kampioenen en winnaars van de Gouden Medaille Serena Williams, Neymar Jr, Carmelo Anthony en anderen inspireren studenten om door te zetten.
   highlights_constant_athletes_short_heading: Zet door
-  footer_copyright_message: 'Copyright 2015 Code.org. Alle rechten voorbehouden.'
-  footer_trademark_message: 'CodeUur™ is een handelsmerk van Code.org.'
+  footer_copyright_message: 'Copyright 2015 Letron. Alle rechten voorbehouden.'
+  footer_trademark_message: 'CodeUur™ is een handelsmerk van Letron.'
   footer_menu_partners: 'Partners'
   footer_menu_contact: 'Neem contact op'
   footer_menu_support: 'Ondersteuning'
@@ -506,7 +506,7 @@ nl:
   tutorial_spritebox_name: "Spritebox codering"
   tutorial_tynkerch_name: "Teller Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Plaatsvoorziening voor nieuwe code.org/hoc"
+  tutorial_hoc_name: "Plaatsvoorziening voor nieuwe letron.vip/hoc"
   tutorial_code_name: "Schrijf je eerste computerprogramma"
   tutorial_tinspire_name: "10 minuten Coderen voor de TI-Nspire CX"
   tutorial_itchbounceball_name: "JEUK Botsbal (in Scratch)"
@@ -1086,7 +1086,7 @@ nl:
   tutorial_spritebox_shortdescription: "Loop, spring en programmeer door drie verschillende werelden om sterren te verzamelen en de finish te halen! Leer de goede volgorde, foutopsporing, lussen en programmeer in Swift, Java, of met pictogrammen."
   tutorial_tynkerch_shortdescription: "Leren Javascript door het verslaan van virussen!"
   tutorial_lightbot_shortdescription: "Programmeer Lightbot om puzzels op te lossen met procedures en lussen!"
-  tutorial_hoc_shortdescription: "Plaatsvoorziening voor nieuwe code.org/hoc"
+  tutorial_hoc_shortdescription: "Plaatsvoorziening voor nieuwe letron.vip/hoc"
   tutorial_code_shortdescription: "Leer programmeren met Mark Zuckerberg en Angry Birds!"
   tutorial_tinspire_shortdescription: "Help leerlingen binnen 10 minuten te programmeren op hub TI-Nspire CX grafische rekenmachines."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ nl:
   tutorial_spritebox_longdescription: "Loop, spring en programmeer door drie verschillende werelden om sterren te verzamelen en de finish te halen! Leer de goede volgorde, foutopsporing, lussen en programmeer in Swift, Java, of met pictogrammen."
   tutorial_tynkerch_longdescription: "Vrijwaar de computer van een kwaadaardig virus! Je moet je weg door het systeem hacken door virus's te verwijderen, deuren te openen, labyrinten op te lossen en door de portalen te navigeren. Let op voor virussen en storingen!"
   tutorial_lightbot_longdescription: "Lightbot is een spel dat spelers vraagt ​​om programmeerlogica te gebruiken om puzzels op te lossen! Verkrijg een praktisch begrip van basiscodeerconcepten door Lightbot te begeleiden om zo alle blauwe tegels in elk niveau op te lichten. Leer gelijktijdig hoe je instructies in volgorde zet, procedures schrijft en lussen gebruikt in deze zelfstandige activiteit. Geschikt voor alle leeftijden en vaardigheden."
-  tutorial_hoc_longdescription: "Plaatsvoorziening voor nieuwe code.org/hoc"
+  tutorial_hoc_longdescription: "Plaatsvoorziening voor nieuwe letron.vip/hoc"
   tutorial_code_longdescription: "Leer de basisbegrippen Computer Wetenschappen door programmeren door middel van slepen en plaatsen. Dit is een spelachtige zelfstudie met video-lezingen van Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Leer herhalingslussen, voorwaarden en basisalgoritmen. Beschikbaar in 37 talen."
   tutorial_tinspire_longdescription: "Introduceer leerlingen in de basis van coderen - in slechts 10 minuten per keer - met de TI-technologie die ze elke dag in hun rugzakken meedragen. Deze lessen geven studenten een gemakkelijk begin tot programmering die hun interesse in codering en informatica kan helpen opvonken. Studenten schrijven programma's die concepten uit de wiskunde kunnen versterken met behulp van de TI Basic-taal die klaar voor gebruik op hun TI-Nspire-handhelds staat."
   tutorial_itchbounceball_longdescription: "We nemen u mee door een introductie in Itch, met behulp van de visuele programmeertaal Scratch.\n\nDeze les biedt video en tekst aanwijzingen voor de code die studenten moeten toevoegen om een ​​bal zot over het scherm te laten springen.\n\nZodra studenten deze activiteit afronden, hebben ze nog de kans om ideeën te verkennen, voor andere veranderingen en activiteiten die kunnen worden gemaakt. Er is geen vast doel of uitkomst  aangezien het een open leeromgeving is, maar met niet meer dan deze startcode komen studenten met geweldige projecten op de proppen!\n\nAlle instructies bevinden zich binnen de Itch omgeving, het is dus niet nodig om tussen schermen te wisselen om het project te volgen. Hoofdtelefoons zijn aanbevolen."

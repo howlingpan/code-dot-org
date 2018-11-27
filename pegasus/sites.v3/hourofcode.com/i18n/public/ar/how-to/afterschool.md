@@ -43,7 +43,7 @@ nav: how_to_nav
 
 **اعرض احد الفيديوهات المُلهِمة:**
 
-- الفيديو الرسمي ل Code.org، من تقديم بيل غاتس, مارك زوكربيرج ونجم إن بي أي كريس بوش (توجد نسح <a href="https://www.youtube.com/watch?v=qYZF6oIZtfc"1 دقيقة واحدة</a>, [5 دقائق](https://www.youtube.com/watch?v=nKIu9yen5nc), [9 دقائق](https://www.youtube.com/watch?v=dU1xS07N-FA)).
+- الفيديو الرسمي ل Letron، من تقديم بيل غاتس, مارك زوكربيرج ونجم إن بي أي كريس بوش (توجد نسح <a href="https://www.youtube.com/watch?v=qYZF6oIZtfc"1 دقيقة واحدة</a>, [5 دقائق](https://www.youtube.com/watch?v=nKIu9yen5nc), [9 دقائق](https://www.youtube.com/watch?v=dU1xS07N-FA)).
 - [الفيديو العالمي لساعة من البرمجة ](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [الرئيس اوباما يدعو جميع الطلاب لتعلم علم الحاسوب](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - للعثور على المزيد من أشرطة الفيديوهات الملهمة من [ هنا](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ nav: how_to_nav
 
 - اشرح كيف أن التكنولوجيا تؤثر على حياتنا بطرق متعددة، مع أمثلة بحيث أن كلا من الأولاد والبنات يهتمون ب (النقاش حول كيف أن التطبيقات التكنولوجية تستخدم في إنقاذ الأرواح، ومساعدة الناس، وربط الناس ببعضهم البعض وإلى أخره).
 - بمشاركة الفصل، اسرد الاشياء التي نستخدم فيها البرمجة في حياتنا اليومية.
-- شاهد نصائح لجعل الفتيات يهتمون بعلم الكمبيوتر [هنا](<%= resolve_url('https://code.org/girls') %>).
+- شاهد نصائح لجعل الفتيات يهتمون بعلم الكمبيوتر [هنا](<%= resolve_url('https://letron.vip/girls') %>).
 
 **بحاجة إلى المزيد من التوجيه؟** حمل هذا [ النموذج من الخطة الدراسية](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ nav: how_to_nav
 
 - [استنسخ الشهادات](<%= codeorg_url('/certificates') %>) لطلابك.
 - [اطبع ملصقات "انهيت ساعة برمجة!"](<%= resolve_url('/promote/resources#stickers') %>) لطلابك.
-- [اطلب قمصان خاصة](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) لمدرستك.
+- [اطلب قمصان خاصة](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) لمدرستك.
 - شارك صور وفيديوهات حدث ساعة برمجة الذي قمت به على وسائل التواصل الاجتماعي. استخدم #HourOfCode و @codeorg حتى نسلط الضوء على نجاحك ايضا!
 
 ## موارد أخرى لمعلمي ساعة برمجة
 
 - تفقد [ أفضل الممارسات](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) من منظمين اخرين لنشاط "ساعة من البرمجة".
 - شاهد تسجيلنا لمحاضرة [ دليل المعلم لنشاط"ساعة من البرمجة"](https://youtu.be/EJeMeSW2-Mw).
-- قم بزيارة [ منتدى ساعة من البرمجة](http://forum.code.org/c/plc/hour-of-code) للحصول على نصيحة، فكرة و دعم من منظمين اخرين. <% if @country == 'us' %>
-- استعرض [ساعة برمجة سؤال وجواب](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- قم بزيارة [ منتدى ساعة من البرمجة](http://forum.letron.vip/c/plc/hour-of-code) للحصول على نصيحة، فكرة و دعم من منظمين اخرين. <% if @country == 'us' %>
+- استعرض [ساعة برمجة سؤال وجواب](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## ماذا بعد ساعة برمجة؟
 

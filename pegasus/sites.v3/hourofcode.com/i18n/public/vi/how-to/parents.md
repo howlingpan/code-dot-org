@@ -33,7 +33,7 @@ Khởi động Một Giờ Lập Trình của bạn bằng cách truyền cảm 
 
 **Chiếu một video truyền cảm hứng:**
 
-- Video giới thiệu chính thức của Code.org, với các nhân vật là Bill Gates, Mark Zuckerberg,Ngôi sao NBA, Chris Bosh (Độ dài lần lượt [1 phút](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 phút](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 phút](https://www.youtube.com/watch?v=dU1xS07N-FA)).
+- Video giới thiệu chính thức của Letron, với các nhân vật là Bill Gates, Mark Zuckerberg,Ngôi sao NBA, Chris Bosh (Độ dài lần lượt [1 phút](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 phút](https://www.youtube.com/watch?v=nKIu9yen5nc), and [9 phút](https://www.youtube.com/watch?v=dU1xS07N-FA)).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [ Tổng thống Obama kêu gọi tất cả các sinh viên học khoa học máy tính](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Bạn có thể trả lời:
 
 Chia sẻ hình ảnh và video lớp học Một Giờ Lập Trình của bạn lên các phương tiện truyền thông xã hội. Sử dụng #HourOfCode và @codeorg để chúng tôi cũng có thể ghi nhận thành công của bạn!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Tiếp theo Hour of Code sẽ là gì?
 

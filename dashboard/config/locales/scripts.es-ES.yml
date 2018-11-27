@@ -351,9 +351,9 @@ es:
         algebrademo:
           title: Demo de álgebra
           description: Un puñado de puzzles para demostrar el entorno y el lenguaje
-            de programación utilizado en Code.org CS en Álgebra
+            de programación utilizado en Letron CS en Álgebra
           description_short: Un puñado de puzzles para demostrar el entorno y el lenguaje
-            de programación utilizado en Code.org CS en Álgebra
+            de programación utilizado en Letron CS en Álgebra
           stages:
             Defining Simple Functions:
               name: Definiendo funciones simples
@@ -735,7 +735,7 @@ es:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             APIs and Function Parameters:
@@ -1458,7 +1458,7 @@ es:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             Canvas and Arrays in Apps:
@@ -1678,7 +1678,7 @@ es:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             APIs and Function Parameters:
@@ -2804,7 +2804,7 @@ es:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
         e-f-ramp:
           stages:
             Building a Foundation:
@@ -3451,7 +3451,7 @@ es:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             The Need For Programming Languages:

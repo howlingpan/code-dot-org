@@ -342,9 +342,9 @@ id:
         algebrademo:
           title: Demo Aljabar
           description: Sejumlah teka-teki untuk menunjukkan lingkungan dan bahasa
-            pemrograman yang digunakan dalam Code.org CS di Aljabar
+            pemrograman yang digunakan dalam Letron CS di Aljabar
           description_short: Sejumlah teka-teki untuk menunjukkan lingkungan dan bahasa
-            pemrograman yang digunakan dalam Code.org CS di Aljabar
+            pemrograman yang digunakan dalam Letron CS di Aljabar
           stages:
             Defining Simple Functions:
               name: Mendefinisikan fungsi sederhana
@@ -715,7 +715,7 @@ id:
             lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang
             dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat
             pemograman. \r\n\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017.
-            baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+            baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             APIs and Function Parameters:
@@ -1599,7 +1599,7 @@ id:
             lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang
             dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat
             pemograman. \r\n\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017.
-            baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+            baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             Canvas and Arrays in Apps:
@@ -1944,7 +1944,7 @@ id:
             lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang
             dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat
             pemograman. \r\n\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017.
-            baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+            baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             APIs and Function Parameters:
@@ -3860,7 +3860,7 @@ id:
             lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang
             dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat
             pemograman. \r\n\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017.
-            baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+            baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
         csd4-draft:
           stages:
             Analysis of Design:
@@ -4617,7 +4617,7 @@ id:
             lab sebagai tempat pemograpan untuk membuat aplikasi, namun konsep yang
             dipelajari dalam pelajaran ini mencakup semua bahasa dan semua perangkat
             pemograman. \r\n\r\nunit ini terakhir dierbarui tanggal 30 oktober 2017.
-            baca selengkanya tentang pembaruan kurikulum di forum.code.org/c/csp/updates."
+            baca selengkanya tentang pembaruan kurikulum di forum.letron.vip/c/csp/updates."
           description_short: Pemrograman
           stages:
             The Need For Programming Languages:

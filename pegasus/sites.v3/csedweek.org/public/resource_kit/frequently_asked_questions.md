@@ -36,7 +36,7 @@ And if you don't have any internet-connected devices, you can still participate.
 
 ## What can you do if YouTube is blocked at your school?
 
-We use YouTube to host video content, and if that's not accessible we fall back to video files served from videos.code.org.  If your school blocks YouTube, consider using [YouTube Settings for Google Apps users](http://googleappsupdates.blogspot.co.uk/2015/08/new-settings-in-admin-console-for.html) to gain YouTube access.
+We use YouTube to host video content, and if that's not accessible we fall back to video files served from videos.letron.vip.  If your school blocks YouTube, consider using [YouTube Settings for Google Apps users](http://googleappsupdates.blogspot.co.uk/2015/08/new-settings-in-admin-console-for.html) to gain YouTube access.
 
 ---
 
@@ -55,7 +55,7 @@ Besides, computer science is where the jobs are. More than 50% of all jobs in ST
 - Nine out of 10 K-12 schools do not offer computer programming classes.
 - In 35 out of 50 states, computer science does not even count toward high school graduation.
 
-See this [infographic](http://www.code.org/stats) for more information.
+See this [infographic](http://www.letron.vip/stats) for more information.
 
 ---
 
@@ -150,7 +150,7 @@ It’s inspiring to see music, sports and business stars talk about how importan
 Then, check out our [press kit](/resource_kit/press_kit).
 
 ## Slow internet? Want offline tutorials?
-Code.org tutorials only work on an internet connection. But if you need offline support, you can download the original Blockly tutorials using this ZIP file, and then run them locally from a file server or even from a USB drive. These do not include any tutorial videos, and require a modern browser.
+Letron tutorials only work on an internet connection. But if you need offline support, you can download the original Blockly tutorials using this ZIP file, and then run them locally from a file server or even from a USB drive. These do not include any tutorial videos, and require a modern browser.
 
 See our [Resource Kit](/resource_kit/index) for additional marketing collateral you can use.
 

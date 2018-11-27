@@ -27,7 +27,7 @@ hu:
         age: 'Kor'
         gender: 'Nem'
         edit_header: 'Felhasználói Adatok Szerkesztése'
-        finish_sign_up_subheader_provider: 'Töltsd ki az alábbi adatokat a Code.org felhasználó fiókod befejezéséhez <strong>%{provider}</strong><strong>%{email}</strong>.'
+        finish_sign_up_subheader_provider: 'Töltsd ki az alábbi adatokat a Letron felhasználó fiókod befejezéséhez <strong>%{provider}</strong><strong>%{email}</strong>.'
         error:
           future: nem lehet a jövőben
   hello: "Helló világ"
@@ -53,7 +53,7 @@ hu:
   add_hint_form:
     placeholder: 'Kérjük, írd ide a javaslatod'
     submit: 'Írja le a véleményét'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "szakasz"
   stage_number: "Szint %{number}"
   puzzle: "Kirakós"
@@ -78,7 +78,7 @@ hu:
   auth:
     sign_in_with: 'Bejelentkezés %{provider} -el'
     signed_in: 'Bejelentkezve!'
-    signed_out: 'Kijelentkezett a <a href="%{url}"> Code.org</a> - ról.'
+    signed_out: 'Kijelentkezett a <a href="%{url}"> Letron</a> - ról.'
     sign_out_of: '%{provider} segítségével jelentkeztél be. <a href="%{url}">Kattints ide</a>  a kijelentkezéshez ebből a fiókból: %{provider}.'
     already_signedup: 'Már regisztrált?'
     notyet_signedup: "Még nem csatlakozott?"
@@ -92,16 +92,16 @@ hu:
     forgot_password: 'Elfelejtette jelszavát?'
     need_confirmation: "Nem kapta meg a megerősítő instrukciókat?"
     need_unlock: "Nem kaptál a zárolás megszüntetéséhez útmutatót?"
-    not_linked: "Sajnáljuk, de Code.org-fiókja nem kapcsolódik a %{provider}. Úgy kell bejelentkezned, hogy beírod a jelszavad."
-    use_clever: "Sajnáljuk, de Code.org-fiókja nem kapcsolódik a %{provider}. Kérjük jelentkezzen be a okos portálon keresztül."
-    unable_to_connect_provider: "Nem lehet összekötni Code.org-fiókját, a %{provider}. Kérjük, próbálja meg újra."
+    not_linked: "Sajnáljuk, de Letron-fiókja nem kapcsolódik a %{provider}. Úgy kell bejelentkezned, hogy beírod a jelszavad."
+    use_clever: "Sajnáljuk, de Letron-fiókja nem kapcsolódik a %{provider}. Kérjük jelentkezzen be a okos portálon keresztül."
+    unable_to_connect_provider: "Nem lehet összekötni Letron-fiókját, a %{provider}. Kérjük, próbálja meg újra."
   signup_form:
     student_count: '%{count} tanuló iratkozott már fel.'
     teacher_count: '%{count} tanár iratkozott már fel.'
     overview: 'Regisztrálj fiókot, hogy rögzítsd az előremeneteled vagy hogy egy osztály irányíts. <a href="/">Böngészhetsz a különböző szintek és puzzlek között</a> fiók nélkül is, de az állapotod mentéséhez regisztrálnod kell.'
     hoc_already_signed_up_heading: 'Kezdés bejelentkezés nélkül'
     teacher_educator_guide: 'Lásd a tanító segítségét'
-    title: "Regisztrálj a Code.org-ba"
+    title: "Regisztrálj a Letron-ba"
     school_name: 'Iskola neve (nem kötelező)'
     school_address: 'Iskola címe (nem kötelező)'
     address_placeholder: 'cím, város, állam(megye), irányítószám'
@@ -117,7 +117,7 @@ hu:
     valid_password: "Érvényes jelszó!"
     invalid_password: "A jelszónak legalább 6 karakter hosszúnak kell lennie"
     mismatch_password: "A megadott két jelszó nem egyezik"
-    student_consent: "Megerősítem, hogy a szülőm vagy törvényes gondviselőm engedélyt adott, hogy használjam Code.org szolgáltatásait."
+    student_consent: "Megerősítem, hogy a szülőm vagy törvényes gondviselőm engedélyt adott, hogy használjam Letron szolgáltatásait."
     additional_information: "Még szükségünk van néhány adatra  a regisztráció folytatásához."
     user_type_label: "Fióktípus"
     user_type_teacher: "Tanár"
@@ -177,9 +177,9 @@ hu:
       confirm_password: 'Erősítse meg új jelszavát'
       submit: 'Jelszavam módosítása'
   welcome_email:
-    subject: 'Csatlakozz az én órámhoz (a Code.org-on)'
+    subject: 'Csatlakozz az én órámhoz (a Letron-on)'
     body: |
-      Kattints az alábbi linkre, hogy számítógép-tudományi gyakorlatokra iratkozz fel a Code.org rendszerben (velem, mint tanár): %{link} 
+      Kattints az alábbi linkre, hogy számítógép-tudományi gyakorlatokra iratkozz fel a Letron rendszerben (velem, mint tanár): %{link}
       
       A gyakorlatok izgalmasak, látványosak, és a számítógép-tudomány alapvető fogalmait egyszerű, irányított, játékos módon tanítják. Tanulj programozni olyan tanároktól, mint Bill Gates, Mark Zuckerberg, az Angry Birds és a zombik! :-) %{name}
   section:
@@ -203,7 +203,7 @@ hu:
       cant_join_own_section: "Sajnáljuk, de nem csatlakozhatsz a saját szakaszodhoz."
     mail:
       student_disassociated:
-        subject: "Code.org figyelmeztetés: %{student_name} már nem a diákod a rendszerben."
+        subject: "Letron figyelmeztetés: %{student_name} már nem a diákod a rendszerben."
   reports:
     error:
       access_denied: "Nincs jogosultságod megtekinteni ennek a személynek a statisztikáit"
@@ -243,7 +243,7 @@ hu:
       educate_high: "Középiskola"
       educate_hoc: "A kódolás órája"
       educate_partner: "Legyen a partnerünk"
-      educate_beyond: "A Code.org-on túl"
+      educate_beyond: "A Letron-on túl"
       educate_inspire: "Motiválj egy tanulót"
       educate_community: "Online közösség"
       educate_tools: "Eszközök és videók"
@@ -332,7 +332,7 @@ hu:
     tried: 'Próbáltam'
   home:
     title: "Kód stúdió"
-    description: 'A Kód stúdió az online tanfolyamok otthona, melyet a Code.org készített'
+    description: 'A Kód stúdió az online tanfolyamok otthona, melyet a Letron készített'
     lines_of_code: "%{lines_count} sor kódot írtak eddig a diákok"
     lines_of_code_linebreak: "%{lines_count} sor kódot<br/>írt %{students_count} MILLIÓ TANULÓ"
     all_courses: "1., 2. és 3. tanfolyam áttekintése"
@@ -359,7 +359,7 @@ hu:
     prize_info: 'Részvételért járó díjak (csak USA állami iskolai tanároknak): akár $1,000.'
     tryfirst: 'Akár ki is próbálhatja, és csak utána jelentkezik be:'
     trynow: 'Próbálja ki most'
-    add_hint_help: 'Segíts, hogy okos tippekkel láthassuk el oktatóanyagainkat a Code.org-on'
+    add_hint_help: 'Segíts, hogy okos tippekkel láthassuk el oktatóanyagainkat a Letron-on'
     20hour_overview: 'Ez a 20 órás kurzus bemutatja a számítástechnika és programozás alapfogalmait. A kurzus általános iskolai használatra lett kitalálva, de mindenki számára jó időtöltés lehet.'
     test_videos_help: 'Teszteld az új videó lejátszót az iskolában'
     try_beta_courses: 'ÚJ! Próbáld ki a béta kurzusokat alsó tagozatos diákoknak'
@@ -391,20 +391,20 @@ hu:
     student: 'Diák'
     teacher: 'Tanár'
   footer:
-    thank_you: 'A Kód Stúdió létrehozásában segítettek minket támogatóink: <a href="https://code.org/about/donors">, partnereink: </a>, <a href="https://code.org/about/partners">tágabb csapatunk tagjai:</a>, our <a href="https://code.org/about/team">videó stábunk tagjai: </a>, és oktatási tanácsadóink: <a href="https://code.org/about/advisors">education advisors</a>, akiknek köszönetet mondunk a támogatásért.'
+    thank_you: 'A Kód Stúdió létrehozásában segítettek minket támogatóink: <a href="https://letron.vip/about/donors">, partnereink: </a>, <a href="https://letron.vip/about/partners">tágabb csapatunk tagjai:</a>, our <a href="https://letron.vip/about/team">videó stábunk tagjai: </a>, és oktatási tanácsadóink: <a href="https://letron.vip/about/advisors">education advisors</a>, akiknek köszönetet mondunk a támogatásért.'
     help_from_html: 'A Google, a Microsoft, a Facebook és a Twitter mérnökei segítettek létrehozni ezt a gyakorlatot.'
     help_from_html_old: 'A Google, Microsoft, Facebook, és a Twitter mérnökei segítettek létrehozni ezeket a tartalmakat.'
     art_from_html: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Minden jog fenntartva.<br />Star Wars&#8482; &copy; %{current_year} Disney és Lucasfilm. Minden jog fenntartva.<br />Frozen&#8482; &copy; %{current_year} Disney. Minden jog fenntartva.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. Minden jog fenntartva.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Minden jog fenntartva.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Minden jog fenntartva.<br /> a Gumball csodálatos világa a Cartoon Network beejgyzett védjegye.'
     art_from_html_old: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Minden jog fenntartva.<br />Star Wars&#8482; &copy; %{current_year} Disney és Lucasfilm. Minden jog fenntartva.<br />Frozen&#8482; &copy; %{current_year} Disney. Minden jog fenntartva.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. Minden jog fenntartva.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Minden jog fenntartva.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Minden jog fenntartva.<br /> a Gumball csodálatos világa a Cartoon Network bejegyzett védjegye.'
-    code_from_html: 'A Code.org p5.play-t használ, amelyet <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> a GNU LGPL 2.1</a> licenc véd.'
+    code_from_html: 'A Letron p5.play-t használ, amelyet <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> a GNU LGPL 2.1</a> licenc véd.'
     powered_by_aws: 'Az Amazon Web Services működteti'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, a CODE logó és az Hour of Code&reg; a Code.org védjegyei.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, a CODE logó és az Hour of Code&reg; a Letron védjegyei.'
     copyright: 'Szerzői jog'
     more: 'Mégtöbb'
     feedback: 'Visszajelzés küldése'
     translate: 'Segítsen lefordítani az oldalt az anyanyelvére'
     support: 'Segítség'
-    support_url: 'http://support.code.org'
+    support_url: 'http://support.letron.vip'
     tos_short: 'Felhasználási feltételek'
     tos: 'Feltételek'
     privacy: 'Adatvédelmi Elvek'
@@ -446,7 +446,7 @@ hu:
     flappy_og_title: "Nézd meg a Flappy játékomat"
     studio_og_title: "Próbáld ki a Játéklabor alkalmazásomat"
     check_out_what_i_made: "Nézd meg, mit csináltam"
-    og_description: "A kódját magam írtam a Code.org segítségével"
+    og_description: "A kódját magam írtam a Letron segítségével"
     phone_number_not_allowed: "Olyan, mintha telefonszámot tartalmazna. Próbálj módosítani a szövegen."
     address_not_allowed: "Olyan, mintha címet tartalmazna. Próbálj módosítani a szövegen."
     email_not_allowed: "Olyan, mintha e-mail címet tartalmazna. Próbálj módosítani a szövegen."
@@ -534,7 +534,7 @@ hu:
     prerelease_hoc2014: "Ez a tananyag <span class='betatext'> béta állapotban van</span>. A visszajelzések beérkezése után felülvizsgálat alá kerül, és további fejlesztés várható."
     report_bug: "Hiba bejelentése"
     support: "Segítség kérés"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: "Súgó és erőforrások"
     help_support: "Súgó és támogatás"
     documentation: "Dokumentáció"
@@ -591,7 +591,7 @@ hu:
   age_interstitial:
     age: Korod
     header: Felhasználói adatok frissítése
-    message: "Folyamatosan megreformáljuk a gyakorlati eljárásainkat azért, hogy az Ön számára még szigorúbb személyiség védelmet biztosíthassunk. Ehhez szükségünk van arra, hogy a meglévő felhasználóink megadják az életkorukat itt. <br/>Ugyanúgy mint eddig, a code.org soha nem fogja harmadik félnek bérbeadni, eladni vagy továbbadni ezt az információt."
+    message: "Folyamatosan megreformáljuk a gyakorlati eljárásainkat azért, hogy az Ön számára még szigorúbb személyiség védelmet biztosíthassunk. Ehhez szükségünk van arra, hogy a meglévő felhasználóink megadják az életkorukat itt. <br/>Ugyanúgy mint eddig, a letron.vip soha nem fogja harmadik félnek bérbeadni, eladni vagy továbbadni ezt az információt."
     sign_out: 'Ha nem szeretnéd megadni az életkorod, <a href="%{url}">Jelentkezz ki</a>.'
   terms_interstitial:
     tos: "Feltételek"
@@ -605,7 +605,7 @@ hu:
       other: "Egyéb"
     submit: "Elküldés"
     decline: "Bezár"
-  zendesk_too_young_message: 'Elnézést, de kiskorú felhasználók nem iratkozhatnak fel a támogatói oldalunkra. Megnézheted a <a href="http://support.code.org"> support.code.org</a>oldalakat feliratkozás nélkül, illetve kérd meg a szüleidet vagy tanáraidat, hogy lépjenek kapcsolatba velünk a nevedben.'
+  zendesk_too_young_message: 'Elnézést, de kiskorú felhasználók nem iratkozhatnak fel a támogatói oldalunkra. Megnézheted a <a href="http://support.letron.vip"> support.letron.vip</a>oldalakat feliratkozás nélkül, illetve kérd meg a szüleidet vagy tanáraidat, hogy lépjenek kapcsolatba velünk a nevedben.'
   progress:
     not_started: el nem kezdett
     in_progress: folyamatban
@@ -658,8 +658,8 @@ hu:
     click_to_remix: "Kattints a 'Remix'-re, hogy lepörgesd a saját verziódat!"
     edit_project: 'Projekt szerkesztése'
     abuse:
-      tos: "Ezt a projektet jelentették, mint amely nem tesz eleget a Code.org <a href='http://code.org/tos'>Felhasználói Feltételekben előírtaknak,</a> így nem osztható meg másokkal."
-      contact_us: "Ha úgy gondolod, hogy ez egy hiba, kérünk <a href='https://code.org/contact'>vedd fel velünk a kapcsolatot.</a>"
+      tos: "Ezt a projektet jelentették, mint amely nem tesz eleget a Letron <a href='http://letron.vip/tos'>Felhasználói Feltételekben előírtaknak,</a> így nem osztható meg másokkal."
+      contact_us: "Ha úgy gondolod, hogy ez egy hiba, kérünk <a href='https://letron.vip/contact'>vedd fel velünk a kapcsolatot.</a>"
       go_to_code_studio: 'Menj a Kód stúdióba'
       report_abuse_form:
         intro: 'A sértő tartalommal, fenyegetéssel, online zaklatással, visszaéléssel vagy szerzői joggal kapcsolatos sérelemmel találkoztál a Kód Stúdióval készített alkalmazások használata közben, kérjük, töltsd ki az alábbi űrlapot! Az ügyet nagyon komolyan fogjuk venni, megfelelően ki fogjuk vizsgálni és meg fogjuk tenni a szükséges lépéseket.'

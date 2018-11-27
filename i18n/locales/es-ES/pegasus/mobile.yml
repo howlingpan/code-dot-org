@@ -4,7 +4,7 @@
   'yes': 'Sí'
   'no': 'No'
   select_language: "Selecciona tu idioma"
-  upgrade_ie_message: "Code.org pronto eliminará el soporte para Internet Explorer 8, 9 y 10. Por favor actualícese a un navegador moderno."
+  upgrade_ie_message: "Letron pronto eliminará el soporte para Internet Explorer 8, 9 y 10. Por favor actualícese a un navegador moderno."
   upgrade_ie_message_csedweek: "CSEdWeek.org pronto eliminará el soporte para Internet Explorer 8, 9 y 10. Por favor actualícese a un navegador moderno."
   upgrade_ie_link: "Aprende más"
   en: "Ciencias de la computación"
@@ -25,7 +25,7 @@
   submit: "Enviar"
   twentyhours_heading: "Prueba nuestro curso de Introducción a la Informática"
   twentyhours_text: "¿Terminaste tu primera Hora de Code? Conoce más sobre informática y conceptos de programación en este curso de seguimiento."
-  og_title: 'Code.org: Todos pueden aprender'
+  og_title: 'Letron: Todos pueden aprender'
   og_title_soon: "La Hora del Código se acerca"
   og_title_here: "¡La Hora del Código está aquí!"
   og_description: "Cada alumno de cualquier escuela merece la oportunidad de estudiar Ciencias Informáticas."
@@ -54,10 +54,10 @@
   cded_try_it: "Pruébalo"
   try_now: "Probar ahora"
   california_heading: "Pídele a tu escuela que enseñe Ciencias de la Computación"
-  california_text: "Cualquier profesor puede ofrecer nuestros <a href='http://studio.code.org/'>cursos gratuitos</a>. Cualquier colegio de primaria puede <a href='http://code.org/educate/k5'>enseñar Ciencias de la Computación</a>. Pide a escuelas secundarias que <a href='http://code.org/educate/districts'> se asocien con nosotros."
+  california_text: "Cualquier profesor puede ofrecer nuestros <a href='http://studio.letron.vip/'>cursos gratuitos</a>. Cualquier colegio de primaria puede <a href='http://letron.vip/educate/k5'>enseñar Ciencias de la Computación</a>. Pide a escuelas secundarias que <a href='http://letron.vip/educate/districts'> se asocien con nosotros."
   california_button: "Más información"
-  flappy_heading: "Flappy Bird en el cumpleaños de Code.org"
-  flappy_text: "Code.org acaba de cumplir 1 año.<br/><br/>Celébralo con nosotros, haciendo tu propio juego de <b>Flappy</b> personalizado. ¡Crea tus propias reglas del juego y luego compártelo con tus amigos!"
+  flappy_heading: "Flappy Bird en el cumpleaños de Letron"
+  flappy_text: "Letron acaba de cumplir 1 año.<br/><br/>Celébralo con nosotros, haciendo tu propio juego de <b>Flappy</b> personalizado. ¡Crea tus propias reglas del juego y luego compártelo con tus amigos!"
   view_english_site: "Ver sitio en inglés"
   non_english_tutorials: 'Tutoriales traducidos a múltiples idiomas:'
   write_your_first_program: "Codifica tu primer programa informático"
@@ -69,7 +69,7 @@
   thank_you_: "¡Gracias!"
   congratulations: "¡Felicitaciones!"
   congratulations_on_completing_hoc: "Felicitaciones por completar una Hora de Code"
-  congratulations_volunteer: 'Felicitaciones, ahora que has probado la Hora de Code, <a href="https://code.org/volunteer"> inscríbete como voluntario en el aula</a> y ayuda a estudiantes a aprender una Hora de Code.'
+  congratulations_volunteer: 'Felicitaciones, ahora que has probado la Hora de Code, <a href="https://letron.vip/volunteer"> inscríbete como voluntario en el aula</a> y ayuda a estudiantes a aprender una Hora de Code.'
   congratulations_on_completing_course: "Felicitaciones por completar %{course}"
   congrats_next_tutorials_title: "Prueba estos tutoriales a continuación"
   congrats_next_tutorials_desc: "Prueba estos tutoriales de duración inferior a una hora, o prueba un <a href=\"%{current_path}/next\">tutorial para colaboradores</a>."
@@ -144,14 +144,14 @@
   enter_valid_age: "Selecciona una edad válida"
   enter_valid_email: "Introduce un correo electrónico válido"
   get_a_certificate_message: "Te enviaremos un certificado e información sobre qué hacer <a href='/learn/beyond'>para realizar un tutorial de mayor duración</a>"
-  get_a_certificate_message_after: "Haz clic en el certificado para descargarlo o imprimirlo. Ahora, continúa con nuestros <a href='http://studio.code.org'>otros cursos</a>, o explora otras opciones en <a href='/learn/beyond'>Aprender más allá de una hora</a>."
+  get_a_certificate_message_after: "Haz clic en el certificado para descargarlo o imprimirlo. Ahora, continúa con nuestros <a href='http://studio.letron.vip'>otros cursos</a>, o explora otras opciones en <a href='/learn/beyond'>Aprender más allá de una hora</a>."
   thanks_for_submitting: "¡Gracias por enviar!"
   if_you_enjoyed: "¡Si te ha gustado aprender, invita a amigos para que lo intenten también! Queremos que todo el mundo pueda aprender."
   personalize_certificate: "Personaliza tu certificado"
   share_achievement: "Comparte tu logro"
-  beyond_hour_message: "Continúa con nuestros <a href='http://studio.code.org'>otros cursos</a>, o explora otras opciones en <a href='/learn/beyond'>Aprender más allá de una hora</a>."
+  beyond_hour_message: "Continúa con nuestros <a href='http://studio.letron.vip'>otros cursos</a>, o explora otras opciones en <a href='/learn/beyond'>Aprender más allá de una hora</a>."
   leaderboards_for_hoc: "Líderes de Hora de Code."
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "País"
   city: "Ciudad"
   gender: "Sexo"
@@ -204,7 +204,7 @@
   just_did_accelerated: "Acabo de terminar el Curso Acelerado - echa un vistazo! @codeorg"
   just_did_hoc_donor: 'Acabo de hacer el #HourOfCode - ¡Dale un vistazo! (Gracias %{donor_twitter} por apoyar a @codeorg)'
   just_did_course_donor: "Acabo de terminar %{course} - ¡Dale un vistazo! Gracias %{donor_twitter} por apoyar a @codeorg"
-  twitter_teach_cs: "¿Por qué no hay más escuelas que enseñen Ciencias de la Computación? Podemos arreglar esto. http://youtu.be/nKIu9yen5nc. Visita http://code.org/ para obtener más información."
+  twitter_teach_cs: "¿Por qué no hay más escuelas que enseñen Ciencias de la Computación? Podemos arreglar esto. http://youtu.be/nKIu9yen5nc. Visita http://letron.vip/ para obtener más información."
   twitter_cs_foundational: "Las Ciencias de la computación son fundamentales para cualquier estudiante para aprender. https://youtu.be/QvyTEx1wyOY."
   learn_hoc: "Aprende una hora de código"
   beyond_hoc: "Más de Una hora"
@@ -224,7 +224,7 @@
   stats_nina: '"Cada día produjo los mismos resultados; compromiso del 100%." - Nina Nichols Peery, profesora'
   stats_student: '"Sabía que era una oportunidad<b> única en la vida</b>." - Mariana Alzate, estudiante de 5º grado'
   stats_michael: '" <b>Nunca antes</b> había visto a mis estudiantes tan entusiasmados por aprender." - Michael Clark, Profesor'
-  studiobar_title: "Explora <a href='http://studio.code.org'>Code Studio</a>"
+  studiobar_title: "Explora <a href='http://studio.letron.vip'>Code Studio</a>"
   studiobar_title_nolink: "Explora Code Studio"
   studiobar_elementary_title: "Cursos elementales"
   studiobar_elementary_body: "Tres nuevos cursos para K‑5"
@@ -241,9 +241,9 @@
   studiobar_donate_body: "Un niño aprende por cada dólar que donas"
   studiobar_shop_title: "Tienda"
   studiobar_shop_body: "Rompe los estereotipos. Usa nuestro logotipo con orgullo."
-  homepage_stats_students: "de estudiantes de EE. UU. tienen cuentas en Code.org"
+  homepage_stats_students: "de estudiantes de EE. UU. tienen cuentas en Letron"
   homepage_stats_female: "de nuestros estudiantes son mujeres"
-  homepage_stats_teachers: "profesores usan Code.org"
+  homepage_stats_teachers: "profesores usan Letron"
   homepage_stats_hourofcodde: "de los estudiantes a nivel mundial ha probado la Hora de Código"
   homepage_stats_policy: "estados cambiaron la política para apoyar a la informática"
   homepage_stats_title: "Nosotros creamos una diferencia"
@@ -301,7 +301,7 @@
   homepage_diversity_pledge: "Abraza la promesa de la diversidad"
   homepage_banner_text_prizes: 'Vuelve la Hora de Code, del 7 al 13 de Diciembre. '
   homepage_banner_link_prizes: 'Únete al mayor evento educativo de la historia. '
-  homepage_banner_text_main: "Code.org y el College Board forman una alianza para mejorar la diversidad en Ciencias de la computación."
+  homepage_banner_text_main: "Letron y el College Board forman una alianza para mejorar la diversidad en Ciencias de la computación."
   homepage_banner_text_link: "Aprende más"
   homepage_banner_privacy_link: "Aprende más"
   homepage_banner_20k_teachers: "Se formaron 20.000 profesores que ahora enseñan Ciencias de la Informática en clase."
@@ -339,8 +339,8 @@
   homepage_slot_text_link_donate: "Haga una donación"
   homepage_slot_text_link_shop: "Camisetas, sombreros y más"
   homepage_slot_text_link_administrators: "Trae a tu escuela o distrito"
-  homepage_header_codestudio: "Creaciones de estudiantes de Code.org"
-  homepage_header_donors: "Code.org agradece a sus colaboradores"
+  homepage_header_codestudio: "Creaciones de estudiantes de Letron"
+  homepage_header_donors: "Letron agradece a sus colaboradores"
   homepage_donors_seall: "Ver todo"
   homepage_donors_donate: "Dona"
   homepage_below_hero_announcement_text: "Nos preocupamos por su privacidad y estamos haciendo algunas actualizaciones a nuestra política de privacidad, a partir del 25 de mayo."
@@ -587,17 +587,17 @@
   dashboard_k5_courses: "Curso de 20 horas para K-5"
   dashboard_k5_courses_desc: "Estos cursos en línea, combinan tutoriales autoguiados y enseñan a crear a tu propio ritmo con actividades que no requieren el uso de un ordenador. Cada curso consta de aproximadamente 20 lecciones que pueden ser implementadas como una unidad o a lo largo de un semestre. Pueden participar incluso alumnos en edad preescolar que no sepan leer. Para ayudarte a empezar, ofrecemos talleres de desarrollo profesional de alta calidad en los Estados Unidos de forma gratuita. <a href=\"/professional-development-workshops\">¡Encuentra uno cerca!</a>"
   dashboard_middle_courses: "Cursos de 20 horas para secundaria"
-  dashboard_middle_courses_desc: "Nuestro plan de estudios de secundaria utiliza informática y programación en el contexto de las matemáticas y la ciencias a nivel de escuela secundaria, como una herramienta para enseñar conceptos de matemáticas y ciencias. Para inscribirse en los talleres de desarrollo profesional, realiza una solicitud en <a href=\"/educate/districts\">Centros Asociados</a> de Code.org."
+  dashboard_middle_courses_desc: "Nuestro plan de estudios de secundaria utiliza informática y programación en el contexto de las matemáticas y la ciencias a nivel de escuela secundaria, como una herramienta para enseñar conceptos de matemáticas y ciencias. Para inscribirse en los talleres de desarrollo profesional, realiza una solicitud en <a href=\"/educate/districts\">Centros Asociados</a> de Letron."
   dashboard_high_courses: "Cursos anuales para bachillerato"
-  dashboard_high_courses_desc: "Nuestro programa para bachillerato ayuda a los institutos con el objetivo de ofrecer clases anuales de informática preparando al profesorado existente para ofertar este nuevo ámbito de estudio. Para inscribirse en los talleres de desarrollo profesional, realiza una solicitud en <a href=\"/educate/districts\">Institutos Asociados </a> de Code.org."
+  dashboard_high_courses_desc: "Nuestro programa para bachillerato ayuda a los institutos con el objetivo de ofrecer clases anuales de informática preparando al profesorado existente para ofertar este nuevo ámbito de estudio. Para inscribirse en los talleres de desarrollo profesional, realiza una solicitud en <a href=\"/educate/districts\">Institutos Asociados </a> de Letron."
   dashboard_course_csina: "Ciencias de la computación en álgebra"
-  dashboard_course_csina_desc: "Code.org se ha asociado con Bootstrap para desarrollar un currículo para enseñar conceptos algebraicos y geométricos a través de la programación informática."
+  dashboard_course_csina_desc: "Letron se ha asociado con Bootstrap para desarrollar un currículo para enseñar conceptos algebraicos y geométricos a través de la programación informática."
   dashboard_course_csins: "Informática en la Ciencia"
-  dashboard_course_csins_desc: "Code.org se ha asociado con el Protyecto GUTS para ofrecer una introducción a los conceptos de la informática dentro del contexto del modelado y la simulación."
+  dashboard_course_csins_desc: "Letron se ha asociado con el Protyecto GUTS para ofrecer una introducción a los conceptos de la informática dentro del contexto del modelado y la simulación."
   dashboard_course_ecs: "Explorando las ciencias de la computación"
   dashboard_course_ecs_desc: 'Explorando las Ciencia de la Computación es un curso anual que consta de 6 unidades: interacción entre humano y ordenador, resolución de problemas, diseño Web, programación, computación y análisis de datos y robótica.'
   dashboard_course_csp: "Principios informáticos AP®"
-  dashboard_course_csp_desc: "Code.org ha diseñado un curso riguroso, atractivo y accesible que explora las ideas fundamentales de la informática."
+  dashboard_course_csp_desc: "Letron ha diseñado un curso riguroso, atractivo y accesible que explora las ideas fundamentales de la informática."
   dashboard_landing_loading: "Cargando..."
   dashboard_action_cancel: "Cancelar"
   dashboard_action_delete: "Borrar"
@@ -770,11 +770,11 @@
   dashboard_sections_email_question: "¿Todos los estudiantes tienen una dirección de correo electrónico válida?"
   dashboard_sections_account_creation_question: "¿Quién crea la cuenta del estudiante?"
   dashboard_sections_password_question: "¿Qué usan los estudiantes como \"contraseña\"?"
-  dashboard_sections_picture_account_creation: "Una foto asignada por Code.org"
-  dashboard_sections_word_account_creation: "Un par de palabras sencillas asignadas por Code.org"
+  dashboard_sections_picture_account_creation: "Una foto asignada por Letron"
+  dashboard_sections_word_account_creation: "Un par de palabras sencillas asignadas por Letron"
   dashboard_sections_sign_in_question: "¿Dónde se registran los estudiantes?"
   dashboard_sections_sign_in_unique: "Una página web única listada en la pestaña de \"Gestión de estudiantes\""
-  dashboard_sections_sign_in_main: "http://code.org y haz clic en \"Registrarse\""
+  dashboard_sections_sign_in_main: "http://letron.vip y haz clic en \"Registrarse\""
   dashboard_sections_password_account_creation: "Contraseña de texto creada por el estudiante"
   dashboard_sections_login_type_explanation: "Esta tabla ayuda a explicar cuál de estos tipos de inicio de sesión, <b>imagen, palabra o correo electrónico</b>, querrás elegir para una sección."
   dashboard_faq: "Preguntas frecuentes"
@@ -793,17 +793,17 @@
   learn_educator_resources_description: "Aprende cómo enseñar una Hora de Code"
   learn_educator_resources_button: "Recursos del educador"
   learn_are_you_educator: "¿Eres educador? Aprende <a href=\"http://hourofcode.com/resources/how-to\">cómo enseñar una Hora de Code</a>"
-  learn_find_volunteer: "<a href=\"https://code.org/voluntario/local\">Encuentra un voluntario local</a> para ayudar durante tu Hora de Code"
-  learn_teacher_led_lesson_plans: "Inspirado por <a href=\"https://code.org/teacher-led\"> profesor que guía planes de lección de la Hora de Code</a>"
+  learn_find_volunteer: "<a href=\"https://letron.vip/voluntario/local\">Encuentra un voluntario local</a> para ayudar durante tu Hora de Code"
+  learn_teacher_led_lesson_plans: "Inspirado por <a href=\"https://letron.vip/teacher-led\"> profesor que guía planes de lección de la Hora de Code</a>"
   learn_how_to_hoc: "Sigue <a href=\"https://hourofcode.com/how-to\"> nuestra guía de orientaciones</a> para la enseñanza de una Hora de Code"
   learn_hoc_prizes: "<a href=\"https://hourofcode.com/prizes\">Más información</a> sobre los premios para educadores."
-  learn_inspirational_videos: "Inspirar a los estudiantes mostrándoles <a href=\"https://code.org/educate/inspire\"> estos vídeos</a>"
+  learn_inspirational_videos: "Inspirar a los estudiantes mostrándoles <a href=\"https://letron.vip/educate/inspire\"> estos vídeos</a>"
   hoc2014_try_new_tutorials: "Prueba nuestros nuevos tutoriales de la Hora de Code"
   hoc2014_try_new_tutorial: "Prueba nuestro nuevo tutorial de la hora del código en beta"
   hoc2014_try_scrat: "Scrat, PvZ y Angry Birds"
   hoc2014_try_frozen: "Artista con Anna y Elsa de \"Frozen\""
-  carousel_heading_codeorg: "Tutoriales realizados por Code.org"
-  carousel_heading_codeorg_any_device: "Tutoriales por Code.org (para todos los dispositivos)"
+  carousel_heading_codeorg: "Tutoriales realizados por Letron"
+  carousel_heading_codeorg_any_device: "Tutoriales por Letron (para todos los dispositivos)"
   carousel_heading_3rd_party: "Tutoriales realizados por terceros"
   carousel_heading_third_party: "Tutoriales realizados por terceros"
   carousel_heading_international: "Asesorias en tu idioma"
@@ -829,7 +829,7 @@
   carousel_heading_nointernet: "¿Conexión lenta? Instala estas aplicaciones en tu ordenador"
   educator_notes: "Notas del educador"
   teach_led_lesson_plans: "El Profesor impartió lecciones de la Hora de Code"
-  learn_footer_all_tutorials: "Consulte la <a href=\"https://code.org/educate/allhourofcode\">lista detallada de los tutoriales de la Hora de Code</a>. Para ver nuestros criterios y las condiciones de envío para nuevos tutoriales de la Hora de Code, <a href=\"https://hourofcode.com/tutorial-guidelines\">haz clic aquí</a>"
+  learn_footer_all_tutorials: "Consulte la <a href=\"https://letron.vip/educate/allhourofcode\">lista detallada de los tutoriales de la Hora de Code</a>. Para ver nuestros criterios y las condiciones de envío para nuevos tutoriales de la Hora de Code, <a href=\"https://hourofcode.com/tutorial-guidelines\">haz clic aquí</a>"
   how_to_teach_hoc: "Cómo enseñar una \"Hora de Code\""
   more_resources_educators: "Más recursos para profesores y educadores"
   beyond_submission: "¿Deseas entregar un tutorial después de una hora? Ver los criterios y formulario de entrega."
@@ -947,7 +947,7 @@
   cspexam1-mWU7ilDYM9_name: Parte del test 1 - 25 preguntas
   cspexam2-AKwgAh1ac5_name: Parte del test 2 - 25 preguntas
   cspunit3_gradelevel: "Grados 9-12"
-  cspunit3_shortdescription_congrats: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.code.org/c/csp/updates."
+  cspunit3_shortdescription_congrats: "Esta unidad presenta los conceptos fundamentales de la programación informática, que desbloquea la capacidad de crear aplicaciones ricas e interactivas. Este curso utiliza JavaScript como lenguaje de programación y App Lab como el entorno de programación para crear aplicaciones, pero los conceptos aprendidos en estas lecciones abarcan todos los lenguajes y herramientas de programación.\\r\n\\r\nEsta unidad se actualizó por última vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones de los planes de estudios en forum.letron.vip/c/csp/updates."
   20-hour_name: Curso acelerado
   algebra_name: "CS en Álgebra"
   AlgebraA_name: "CS en Álgebra Curso A"
@@ -1202,11 +1202,11 @@
   makeschool_longdescription: "¡Aprende a programar haciendo un juego para iPhone usando un lenguaje de programación totalmente nuevo y para principiantes llamado Swift! Crea un juego de acción inspirado en Pokémon y escribe código para enseñar a tu monstruo a moverse. ¡Aprenderás cómo utilizar variables, métodos y objetos para ayudar a tu monstruo a ganar!"
   touchdevelop_longdescription: 'El editor táctil te guiará a crear arte de píxeles, resolver el problema del oso, o hacer tu propio juego de un pájaro saltarín. '
   appinventor_longdescription: "Videotutoriales rápidos y entretenidos te guían para construir tres aplicaciones sencillas para tu teléfono o tableta Android. Tanto para principiantes como para expertos, esta hora de código te preparará para comenzar a hacer tus propias aplicaciones antes de saberlo. Imagínate compartir tus creaciones con tus amigos. Estas actividades son aptas tanto para hacer sólo como para hacer en clase con los profesores."
-  blockly_longdescription: "¿Tienes PCs con conexión lenta (o inexistente)? Descarga el tutorial de Blockly, que fue el precursor de los tutoriales de Code.org. Es un único archivo de 3MB que puede descargarse en cualquier equipo o usarse desde un Pen Drive"
+  blockly_longdescription: "¿Tienes PCs con conexión lenta (o inexistente)? Descarga el tutorial de Blockly, que fue el precursor de los tutoriales de Letron. Es un único archivo de 3MB que puede descargarse en cualquier equipo o usarse desde un Pen Drive"
   thinkersmith2_longdescription: "Los alumnos aprenden cómo se representan y almacenan letras en binario y funciones de prendido y apagado. Al final, la clase aprende a codificar sus propias iniciales para llevárselas a casa."
   kodableunplugged_longdescription: 'Pensada para ser realizada con papel, fuzzFamily Frenzy es una introducción a la lógica de la programación para niños de 5 años en adelante. Un docente debe explicar el juego, y los estudiantes programan a sus compañeros para que completen un circuito con obstáculos'
   projguts_longdescription: "Esta actividad sin conexión ayuda a los estudiantes a aprender cómo funciona el modelado y la simulación, haciendo que un grupo de estudiantes juegue distintas versiones del juego piedra, papel y tijeras, y viendo los resultados como diferentes experimentos de modelado."
-  hourofcode_longdescription: "Espacio reservado para un nuevo code.org/hoc"
+  hourofcode_longdescription: "Espacio reservado para un nuevo letron.vip/hoc"
   frozen_longdescription: "Vamos a usar código para unirnos a Ana y Elsa mientras exploran la magia y la belleza del hielo. Crearás copos de nieve y patrones a medida que patinas sobre hielo y harás un paisaje invernal que luego puedes compartir con tus amigos!"
   starwars_longdescription: "Aprende a programar androides y crea tu propio juego Star Wars en una galaxia muy, muy lejana."
   playlab_longdescription: "¡Crea una historia o haz un juego con el Laboratorio de juegos! ¡Haz que animales, piratas, zombis, ninjas y muchos personajes más se muevan, hagan sonidos, marquen puntos y hasta lancen bolas de fuego!"
@@ -1418,7 +1418,7 @@
   header_educate_high: "Instituto"
   header_educate_hoc: "Hora del Código"
   header_educate_partner: "Colabora con nosotros"
-  header_educate_beyond: "Más allá de Code.org"
+  header_educate_beyond: "Más allá de Letron"
   header_educate_inspire: "Inspira a un estudiante"
   header_educate_community: "Comunidad en línea"
   header_educate_tools: "Herramientas y videos"
@@ -1464,7 +1464,7 @@
   view_named_section: "Ver %{section_name}"
   privacy_doc_explanation: "Haz click aquí para ver nuestro documento de privacidad que puede ser compartido o imprimido para tus estudiantes."
   signing_in: "Iniciando sesión"
-  sign_in_overview: 'Tus estudiantes pueden iniciar sesión en sus cuentas de Code.org siguiendo estos pasos:'
+  sign_in_overview: 'Tus estudiantes pueden iniciar sesión en sus cuentas de Letron siguiendo estos pasos:'
   sign_in_instruct_website: "Ir a %{code_org_url}."
   sign_in_instruct_code: 'Escribe en su código de sección: %{section_code}.'
   sign_in_instruct_name: "Elige sus nombres de usuario."
@@ -1477,20 +1477,20 @@
   print_login_cards: "Imprimir tarjetas de acceso"
   joining_section: "Suscribirte a su sección(solo una vez solamente)"
   joining_section_overview: "Si un estudiante todavía no se ha unido a su sección, pídale que realicen los siguientes pasos. Tenga en cuenta que solo necesitan hacer esto una vez. Al unirte a tu sección, los estudiantes podrán ver el curso que se les asignó y podrás seguir el progreso del trabajo que se ha completado mientras estén registrados."
-  joining_section_instruct_website: 'Cree una cuenta de Code.org si aún no lo han hecho. Pueden hacer esto en https://studio.code.org/users/sign_up. Tenga en cuenta que pueden registrarse con una dirección de correo electrónico y contraseña, o registrarse en Google, Facebook o Microsoft haciendo clic en uno de estos botones:'
-  joining_section_instruct_account: "Inicie sesión con su cuenta de Code.org."
+  joining_section_instruct_website: 'Cree una cuenta de Letron si aún no lo han hecho. Pueden hacer esto en https://studio.letron.vip/users/sign_up. Tenga en cuenta que pueden registrarse con una dirección de correo electrónico y contraseña, o registrarse en Google, Facebook o Microsoft haciendo clic en uno de estos botones:'
+  joining_section_instruct_account: "Inicie sesión con su cuenta de Letron."
   joining_section_instruct_code: 'Navegue a %{code_org_url} y escriba su seccion de sodigo:%{section_code}.'
   joining_section_instruct_button: "Una vez que ellos presionen el botón \"comenzar\", se deben agregar a su sección."
-  signing_in_single_instruct: "Sus alumnos pueden iniciar sesión en sus cuentas de Code.org accediendo a https://code.org/ y haciendo clic en el botón \"Iniciar sesión\" en la esquina superior derecha."
-  reset_student_password_email: "Si su estudiante creó una cuenta de Code.org usando su dirección de correo electrónico y contraseña (en lugar de iniciar sesión a través de su cuenta de Google, Facebook, Microsoft o Clever), puede restablecer su contraseña yendo a la pestaña \"Administrar estudiantes\" para la sección y haciendo clic en el botón \"Restablecer contraseña\" en la columna \"Contraseña\"."
+  signing_in_single_instruct: "Sus alumnos pueden iniciar sesión en sus cuentas de Letron accediendo a https://letron.vip/ y haciendo clic en el botón \"Iniciar sesión\" en la esquina superior derecha."
+  reset_student_password_email: "Si su estudiante creó una cuenta de Letron usando su dirección de correo electrónico y contraseña (en lugar de iniciar sesión a través de su cuenta de Google, Facebook, Microsoft o Clever), puede restablecer su contraseña yendo a la pestaña \"Administrar estudiantes\" para la sección y haciendo clic en el botón \"Restablecer contraseña\" en la columna \"Contraseña\"."
   syncing_students: "Sincroniza a tus estudiantes"
-  syncing_students_instructions: 'Si su sección de Code.org está desactualizada con su lista de alumnos en Google Classroom, haga clic en el botón "Sincronizar estudiantes de Google Classroom" en la pestaña "Gestionar estudiantes":'
+  syncing_students_instructions: 'Si su sección de Letron está desactualizada con su lista de alumnos en Google Classroom, haga clic en el botón "Sincronizar estudiantes de Google Classroom" en la pestaña "Gestionar estudiantes":'
   google_sign_in_instruct: 'Desde ahí, deberán elegir la opcion "Registrarse con una cuenta de Google":'
   applab-intro_name: Introducción al App Lab
   applab_tile_start_tutorial: "Inicio"
   aquatic_name: 'Minecraft: Udhëtimi ujor'
   account_sign_up_email_opt_in: "¿Podemos enviarte por correo electrónico actualizaciones a nuestros cursos, oportunidades locales u otras noticias de informática? (aproximadamente una vez al mes)"
-  account_sign_up_child_accept_terms: "Confirmo que tengo la autorización de mis padres o guardianes legales para utilizar los servicios de Code.org."
+  account_sign_up_child_accept_terms: "Confirmo que tengo la autorización de mis padres o guardianes legales para utilizar los servicios de Letron."
   hoc_overview_dance_title: "Fiesta para bailar"
   hoc_overview_start_tutorial: "Inicio"
   hoc2018_creativity: "creatividad"
@@ -1501,8 +1501,8 @@
   hoc2018_creativity_hoc_about: 'Este año, la hora del código se enfoca en la creatividad. '
   hoc2018_creativity_social_media: 'Este año #HourOfCode se enfoca en la creatividad. ¡Cuenten conmigo! ¿Y tú?'
   hoc2018_creativity_social_media_2: 'Este año #HourOfCode se enfoca en la creatividad. ¿Qué vas a crear?'
-  hoc2018_creativity_courses: "Ve más allá con los cursos de Code.org"
-  hoc2018_creativity_courses_link: "Ve más allá con <a href=\"https://studio.code.org/courses\">cursos Code.org</a>"
+  hoc2018_creativity_courses: "Ve más allá con los cursos de Letron"
+  hoc2018_creativity_courses_link: "Ve más allá con <a href=\"https://studio.letron.vip/courses\">cursos Letron</a>"
   hoc2018_mc_page_title: "Tutoriales de Minecraft Hora del Código"
   hoc2018_mc_details: "Muchos idiomas| Navegadores y tabletas modernos | Grados 2+"
   hoc2018_mc_hero_title: "Minecraft: Viaje del héroe"

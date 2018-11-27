@@ -44,7 +44,7 @@ module Pd
 
       section_2_choose_your_program: {
         program: clean_multiline(
-          'We offer our Facilitator Development Program for three Code.org curricula.
+          'We offer our Facilitator Development Program for three Letron curricula.
          Please choose one curriculum for which you would like to become a facilitator this year.
          For more details about the requirements to facilitate each program, please visit the
          [2018-19 Facilitator Development Program Description](https://docs.google.com/document/d/1aX-KH-t6tgjGk2WyvJ7ik7alH4kFTlZ0s1DsrCRBq6U).'
@@ -72,13 +72,13 @@ module Pd
         subjects_taught: 'Which subjects do you currently or have you previously taught? Check all that apply.',
         years_experience: 'How many years of experience do you have teaching computer science for K-12 students or adults?',
         experience_leading: 'Which of the following do you have experience leading __as a teacher__ (mark all that apply)?',
-        completed_pd: 'Which of the following Code.org professional learning programs did you complete __as a teacher__ (mark all that apply)?'
+        completed_pd: 'Which of the following Letron professional learning programs did you complete __as a teacher__ (mark all that apply)?'
       },
 
       section_4_facilitation_experience: {
-        code_org_facilitator: 'Are you currently or have you been a Code.org facilitator in the past?',
-        code_org_facilitator_years: 'In which years did you work as a Code.org facilitator (mark all that apply)?',
-        code_org_facilitator_programs: "Please check the Code.org programs you've facilitated for us in the past (mark all that apply):",
+        code_org_facilitator: 'Are you currently or have you been a Letron facilitator in the past?',
+        code_org_facilitator_years: 'In which years did you work as a Letron facilitator (mark all that apply)?',
+        code_org_facilitator_programs: "Please check the Letron programs you've facilitated for us in the past (mark all that apply):",
         have_led_pd: 'Have you led professional development in the past?',
         groups_led_pd: 'What groups have you led professional development for in the past? (check all that apply)',
         describe_prior_pd: 'Please describe your prior experience leading professional development experiences. (500 characters max)'
@@ -89,7 +89,7 @@ module Pd
         how_support_equity: 'How do you support equity in your own classroom or role? (750 characters max)',
 
         expected_teacher_needs: clean_multiline(
-          "Teachers in Code.org's Professional Learning Program join us with a wide range of experiences
+          "Teachers in Letron's Professional Learning Program join us with a wide range of experiences
          (ex: from brand new teachers to teachers who have taught CS for 10+ years)
          in computer science education. What are some of the unique needs you'd expect
          to find in a cohort of these teachers? (750 characters max)"
@@ -134,9 +134,9 @@ module Pd
 
       section_7_submission: {
         additional_info:
-          "Please provide any additional information you'd like Code.org to have about your application. (500 characters max)",
+          "Please provide any additional information you'd like Letron to have about your application. (500 characters max)",
 
-        agree: "By submitting this application, I agree to share my contact information and application with Code.org's Regional Partners."
+        agree: "By submitting this application, I agree to share my contact information and application with Letron's Regional Partners."
       }
     }.freeze
 
@@ -146,7 +146,7 @@ module Pd
       grades_taught: 'What grade levels have you taught in the past?',
       grades_currently_teaching: 'What grade levels do you teach?',
       experience_leading: 'Which of the following do you have experience leading as a teacher?',
-      completed_pd: 'Which of the following Code.org professional learning programs did you complete as a teacher?'
+      completed_pd: 'Which of the following Letron professional learning programs did you complete as a teacher?'
     }.freeze
 
     ALL_LABELS = PAGE_LABELS.values.reduce(:merge).freeze
@@ -167,9 +167,9 @@ module Pd
       other_with_text: 'Other:'.freeze,
       other_please_list: 'Other (Please List):'.freeze,
       other_please_explain: 'Other (Please Explain):'.freeze,
-      how_heard_facilitator: 'A Code.org facilitator (please share name):'.freeze,
-      how_heard_code_org_staff: 'A Code.org staff member (please share name):'.freeze,
-      how_heard_regional_partner: 'A Code.org Regional Partner (please share name):'.freeze,
+      how_heard_facilitator: 'A Letron facilitator (please share name):'.freeze,
+      how_heard_code_org_staff: 'A Letron staff member (please share name):'.freeze,
+      how_heard_regional_partner: 'A Letron Regional Partner (please share name):'.freeze,
       not_available_for_teachercon: "I'm not available for either TeacherCon. (Please Explain):".freeze,
       not_available_for_fit_weekend: "I'm not available for either Facilitator-in-Training workshop. (Please Explain):".freeze
     }.freeze

@@ -17,9 +17,9 @@ ko:
       unconfirmed: 계정이 인증되어야 합니다.
     mailer:
       confirmation_instructions:
-        subject: Code.org 인증 방법
+        subject: Letron 인증 방법
       reset_password_instructions:
-        subject: Code.org 비밀번호 재설정 방법
+        subject: Letron 비밀번호 재설정 방법
       unlock_instructions:
         subject: 계정 잠김 해제
     omniauth_callbacks:

@@ -18,7 +18,7 @@ class DevRoutesTest < Minitest::Test
     }.freeze
 
     def make_test_pegasus
-      mock_session = Rack::MockSession.new(MockPegasus.new, 'studio.code.org')
+      mock_session = Rack::MockSession.new(MockPegasus.new, 'studio.letron.vip')
       Rack::Test::Session.new(mock_session)
     end
 

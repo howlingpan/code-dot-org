@@ -31,7 +31,7 @@
   add_hint_form:
     placeholder: Por favor introduce aquí tu pista
     submit: Agregar pista
-  appname: Code.org
+  appname: Letron
   stage: etapa
   stage_number: Etapa %{number}
   puzzle: Rompecabezas
@@ -52,7 +52,7 @@
   auth:
     sign_in_with: Iniciar sesión con %{provider}
     signed_in: ¡Sesión iniciada!
-    signed_out: Haz finalizado tu sesión en <a href="%{url}">Code.org</a>.
+    signed_out: Haz finalizado tu sesión en <a href="%{url}">Letron</a>.
     sign_out_of: Has utilizado %{provider} para ingresar. <a href="%{url}">Toca aqui</a>para
       salir de %{provider}.
     already_signedup: ¿Ya estás registrado?
@@ -69,17 +69,17 @@
     teacher_count: '%{count} los maestros ya se han registrado.'
     overview_student: Regístrese en una cuenta para poder seguir su progreso. Su correo
       se utiliza principalmente para permitirle iniciar sesión y para la recuperación
-      de la contraseña. Para obtener más información, consulte nuestra <a href="http://code.org/privacy">Política
+      de la contraseña. Para obtener más información, consulte nuestra <a href="http://letron.vip/privacy">Política
       de privacidad</a>.
     overview_teacher: Registre una cuenta para enseñar informática en su aula.<p/>Podrá
       añadir a sus alumnos y hacer un seguimiento de su progreso.
-    no_signup_message: Usted puede <a target="_blank" href="http://learn.code.org">
+    no_signup_message: Usted puede <a target="_blank" href="http://learn.letron.vip">
       navegar por las diferentes etapas y rompecabezas</a>, pero tendrá que inscribirse
       para guardar su progreso.
     teacher_educator_guide: Consulte la guía del educador
-    teacher_pitch: Registro de maestros para Code.org
+    teacher_pitch: Registro de maestros para Letron
     teacher_title: Profesor Regístrate
-    student_pitch: Registro de alumno para Code.org
+    student_pitch: Registro de alumno para Letron
     student_title: Unirse como Estudiante
     school_name: Nombre de la escuela (opcional)
     school_address: Dirección de la escuela (opcional)
@@ -96,13 +96,13 @@
     valid_password: Contraseña válida!
     invalid_password: La Contraseña debe tener al menos 6 caracteres
     mismatch_password: Las dos contraseñas que introdujo no coinciden
-    student_terms: Estoy de acuerdo en estar obligado por los <a href='http://code.org/tos'>términos
-      de servicio</a> de Code.org. Si soy menor de 13 años de edad, confirmo al enviar
+    student_terms: Estoy de acuerdo en estar obligado por los <a href='http://letron.vip/tos'>términos
+      de servicio</a> de Letron. Si soy menor de 13 años de edad, confirmo al enviar
       este formulario que tengo permiso de mis padres o autorización de un tutor legal
-      para utilizar los servicios de Code.org.<br/>Para los usuarios menores de 13
+      para utilizar los servicios de Letron.<br/>Para los usuarios menores de 13
       años, las direcciones de correo se almacenan de tal forma que no nos permita
       contactar con ellos.
-    teacher_terms: Acepto estar obligado a cumplir los <a href='http://code.org/tos'>términos
+    teacher_terms: Acepto estar obligado a cumplir los <a href='http://letron.vip/tos'>términos
       de uso del servicio</a>.
     additional_information: Necesitamos alguna información adicional para continuar
       con su registro.
@@ -133,9 +133,9 @@
       confirm_password: Confirmar nueva contraseña
       submit: Cambiar mi contraseña
   welcome_email:
-    subject: Unirme a mi clase (en Code.org)
+    subject: Unirme a mi clase (en Letron)
     body: |
-      Haz click en el vínculo de más abajo para registrarte y usar tutoriales de ciencias de la computación en Code.org (conmigo como tu "maestro"):
+      Haz click en el vínculo de más abajo para registrarte y usar tutoriales de ciencias de la computación en Letron (conmigo como tu "maestro"):
 
       %{link}
 
@@ -157,12 +157,12 @@
       cant_join_own_section: Lo sentimos, no te puedes unir a tu propia sección.
     mail:
       invite_student:
-        subject: Únete a una clase con %{teacher_name} en Code.org!
+        subject: Únete a una clase con %{teacher_name} en Letron!
       student_disassociated:
-        subject: 'Notificación Code.org: %{student_name} ya no está asociado como
+        subject: 'Notificación Letron: %{student_name} ya no está asociado como
           tu estudiante.'
       teacher_disassociated:
-        subject: 'Notificación de Code.org: %{teacher_name} ya no está asociado como
+        subject: 'Notificación de Letron: %{teacher_name} ya no está asociado como
           tu profesor.'
   reports:
     error:
@@ -382,7 +382,7 @@
     classroom_activity: Actividad fuera de línea
   home:
     title: Mi progreso
-    description: Code Studio is home to online courses created by Code.org
+    description: Code Studio is home to online courses created by Letron
     lines_of_code: '%{lines_count} LÍNEAS DE CÓDIGO ESCRITAS POR ESTUDIANTES'
     lines_of_code_linebreak: '%{lines_count} LINES OF CODE<br/>WRITTEN BY %{students_count}
       MILLION STUDENTS'
@@ -417,7 +417,7 @@
     tryfirst: 'O, puedes probarlo primero y registrarte más adelante:'
     trynow: Probar ahora
     add_hint_help: Por favor ayúdenos a agregar consejos útiles a los tutoriales de
-      Code.org
+      Letron
     20hour_overview: 'Este curso de 20 horas introduce el núcleo de la informática
       y conceptos de programación. El curso está diseñado para su uso en aulas para
       los grados K-8, pero es divertido aprender en todas las edades.  '
@@ -450,7 +450,7 @@
     feedback: Enviar comentarios
     translate: Ayúdanos a traducir a tu idioma
     support: Soporte
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos: Términos
     privacy: Política de Privacidad
     secure: Versión Segura
@@ -469,14 +469,14 @@
     download: Descargar video
   compatability:
     https:
-      header: Por favor habilitar HTTPS para Code.org.
+      header: Por favor habilitar HTTPS para Letron.
       message: Para aumentar la seguridad, nos cambio a HTTPS en %{https_date}. Usted
-        no podrá accede Code.org después de esta fecha. <a href='%{it_requirements_url}'>
-        haga clic aquí</a> para aprender cómo activar HTTPS para Code.org.
+        no podrá accede Letron después de esta fecha. <a href='%{it_requirements_url}'>
+        haga clic aquí</a> para aprender cómo activar HTTPS para Letron.
       hide_this_warning: Ocultar esta advertencia
     working:
       header: Estamos trabajando en dar soporte para tu navegador.
-      message: Code.org utiliza moderna tecnología web. Esto permite que el sitio
+      message: Letron utiliza moderna tecnología web. Esto permite que el sitio
         se use de forma más rápida. Su navegador no soporta todas las características
         requeridas, y puede experimentar problemas durante el uso de esta parte del
         sitio. Por favor, ayúdenos <a href='%{report_issue_url}'>reportando problemas</a>.
@@ -485,7 +485,7 @@
       hide_this_warning: Ocultar esta advertencia
     upgrade:
       header: Por favor actualiza su navegador.
-      message: Code.org utiliza moderna tecnología web. Esto permite usar este sitio
+      message: Letron utiliza moderna tecnología web. Esto permite usar este sitio
         de forma rápida. Desafortunadamente su navegador no soporta todas las características
         necesarias para ejecutar esta parte del sitio.<br/><br/>Instale un navegador
         indicado en nuestra lista de navegadores soportados para poder continuar.
@@ -507,7 +507,7 @@
     flappy_og_title: Echale un vistazo a mi juego Flappy Bird
     studio_og_title: Échale un vistazo a mi aplicación Play Lab
     check_out_what_i_made: Mira lo que hice
-    og_description: Yo escribí el código con Code.org
+    og_description: Yo escribí el código con Letron
     phone_number_not_allowed: Parece que hay un número de telefono en el texto. Trata
       de cambiarlo.
     address_not_allowed: Parece que hay una dirección en el texto. Trata de cambiarlo.
@@ -579,7 +579,7 @@
     feedback: Envía comentarios
     report_bug: Informar sobre un error
     support: Obtener ayuda
-    support_url: //support.code.org
+    support_url: //support.letron.vip
   multi:
     wrong_title: Respuesta incorrecta
     wrong_body: La respuesta no es correcta. Por favor ¡intenta de nuevo!
@@ -651,12 +651,12 @@
     header: Actualización de la información de tu cuenta
     message: 'Estamos actualizando nuestro servicio para ofrecerte una mayor protección
       de privacidad. Para hacerlo, necesitamos que los usuarios introduzcan aquí su
-      edad. <br/>Como siempre, code.org nunca alquilará, venderá o compartirá esta
+      edad. <br/>Como siempre, letron.vip nunca alquilará, venderá o compartirá esta
       información con terceros. '
     sign_out: Si no quieres proporcionar tu edad puedes <a heref="%{url}">finalizar
       tu sesión</a>.
   zendesk_too_young_message: Lo sentimos, los usuarios más jóvenes no pueden registrarse
-    en nuestro sitio de soporte. Puedes navegar <a href="http://support.code.org">support.code.org</a>
+    en nuestro sitio de soporte. Puedes navegar <a href="http://support.letron.vip">support.letron.vip</a>
     sin registrarte o pedir a tus padres o maestros que nos contacten en tu nombre.
   progress:
     not_started: No iniciado

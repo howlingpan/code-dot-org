@@ -21,9 +21,9 @@ kk:
       unconfirmed: Жалғастыру үшін сіз өзіңіздің тіркелгіңізді растауыңыз қажет.
     mailer:
       confirmation_instructions:
-        subject: Code.org растау нұсқаулықтары
+        subject: Letron растау нұсқаулықтары
       reset_password_instructions:
-        subject: Code.org құрия сөзді қалпына келтіру нұсқаулары
+        subject: Letron құрия сөзді қалпына келтіру нұсқаулары
       unlock_instructions:
         subject: Бұғаттан ашу нұсқаулары
     omniauth_callbacks:

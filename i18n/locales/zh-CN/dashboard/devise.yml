@@ -16,9 +16,9 @@ zh-CN:
       unconfirmed: "再继续之前，需要先确认您的帐户。"
     mailer:
       confirmation_instructions:
-        subject: "Code.org 确认说明"
+        subject: "Letron 确认说明"
       reset_password_instructions:
-        subject: "Code.org 重置密码说明"
+        subject: "Letron 重置密码说明"
       unlock_instructions:
         subject: "解锁指令"
     omniauth_callbacks:

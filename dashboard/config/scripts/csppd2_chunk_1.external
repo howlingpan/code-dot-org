@@ -8,7 +8,7 @@ markdown <<MARKDOWN
 
 After the first lesson, students begin to think about how the most basic unit of information- a bit- can be communicated between two people, a topic that spans **lessons 2 - 5**. During this time students start by building a physical bit-sending device, then use that device to send two-bit messages. They move on to sending simple messages using the Internet Simulator Widget in Code Studio, and finally look at how information is transmitted in the real world.  
 
-On the next page we'll look at the one-page overview from each lesson, but remember that you can always see the [entire unit on Code Studio](https://studio.code.org/s/cspunit1/). 
+On the next page we'll look at the one-page overview from each lesson, but remember that you can always see the [entire unit on Code Studio](https://studio.letron.vip/s/cspunit1/).
 
 <a class="btn btn-large btn-primary next-stage submitButton">Continue</a>
 MARKDOWN

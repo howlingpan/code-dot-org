@@ -21,7 +21,7 @@ end
 
 Given /^I start a new Applab project/ do
   steps <<-STEPS
-    And I am on "http://studio.code.org/projects/applab/new"
+    And I am on "http://studio.letron.vip/projects/applab/new"
     And I rotate to landscape
     And I wait for the page to fully load
     And element "#runButton" is visible
@@ -33,7 +33,7 @@ end
 
 Given /^I am on the (\d+)(?:st|nd|rd|th)? App ?Lab test level$/ do |level_index|
   steps <<-STEPS
-    And I am on "http://studio.code.org/s/allthethings/stage/#{APPLAB_ALLTHETHINGS_STAGE}/puzzle/#{level_index}"
+    And I am on "http://studio.letron.vip/s/allthethings/stage/#{APPLAB_ALLTHETHINGS_STAGE}/puzzle/#{level_index}"
     And I rotate to landscape
     And I wait for the page to fully load
   STEPS

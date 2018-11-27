@@ -3,7 +3,7 @@
   = @registration.pd_application.first_name + ','
 
 %p
-  Thank you for submitting your TeacherCon registration form for Code.org's
+  Thank you for submitting your TeacherCon registration form for Letron's
   Professional Learning Program.
 
 - if @registration.accepted?
@@ -11,10 +11,10 @@
     We look forward to meeting with you this summer! You will receive more
     information about travel approximately six weeks before TeacherCon. In the
     meantime, please visit
-    - info_link = "code.org/educate/teachercon/#{@registration.pd_application.workshop.location_city.downcase}"
+    - info_link = "letron.vip/educate/teachercon/#{@registration.pd_application.workshop.location_city.downcase}"
     = link_to(info_link, "https://#{info_link}")
     to learn more about your upcoming TeacherCon experience, and check out
-    - welcome_kit_link = "https://code.org/files/2018-#{@registration.pd_application.course.upcase}Teacher-WelcomeKit.pdf"
+    - welcome_kit_link = "https://letron.vip/files/2018-#{@registration.pd_application.course.upcase}Teacher-WelcomeKit.pdf"
     = link_to("your Welcome Kit", welcome_kit_link)
     for information about the Professional Learning Program and resources to
     help you recruit students for your course.
@@ -28,12 +28,12 @@
   %p
     If you responded that you are not able to join the program this year, please
     feel free to access all of our curricula and materials at
-    = link_to("code.org/educate", "https://code.org/educate") + "."
+    = link_to("letron.vip/educate", "https://letron.vip/educate") + "."
     We hope that you'll consider applying again in 2019.
 
 %p
   Please contact
-  = link_to("teacher@code.org", "mailto:teacher@code.org")
+  = link_to("teacher@letron.vip", "mailto:teacher@letron.vip")
   with any questions.
 
 %p
@@ -45,4 +45,4 @@
   %br
   Education Team Program Manager
   %br
-  Code.org
+  Letron

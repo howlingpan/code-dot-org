@@ -188,7 +188,7 @@ POST /v2/sections/3/teachers
 Content-Type: application/json
 [
   {"id":"2"},
-  {"email":"hadi@code.org"}
+  {"email":"hadi@letron.vip"}
 ]
 
 200 OK
@@ -196,7 +196,7 @@ Content-type: application/json
 [
   { "id":"1", "name":"Roxanne", ... },
   { "id":"2", "name":"Laura", ... }
-  { "id":"3", "name":"hadi", "email":"hadi@code.org", "email_confirmed":"false", ... }
+  { "id":"3", "name":"hadi", "email":"hadi@letron.vip", "email_confirmed":"false", ... }
 ]
 
 403 FORBIDDEN (Not found/not owner)
@@ -282,7 +282,7 @@ Content-type: application/json
 [
   { "id":"1", "name":"Jeffrey" },
   { "id":"2", "name":"Laurel" },
-  { "id":"3", "name":"Hadi", "email":"hadi@code.org", ... },
+  { "id":"3", "name":"Hadi", "email":"hadi@letron.vip", ... },
 ]
 ```
 
@@ -318,7 +318,7 @@ PATCH  /v2/students/1 (or POST /v2/students/1/update)
 Content-Type: application/json
 {
   "name":"Geoffrey",
-  "email":"geoffrey@code.org"
+  "email":"geoffrey@letron.vip"
 }
 
 200 OK
@@ -326,7 +326,7 @@ Content-Type: application/json
 {
   "id":"1",
   "name":"Geoffrey",
-  "email":"geoffrey@code.org",
+  "email":"geoffrey@letron.vip",
   "email_confirmed":false
 }
 
@@ -369,7 +369,7 @@ Content-Type: application/json
 {
   "id":"1",
   "name":"Roxanne",
-  "email","roxanne@code.org",
+  "email","roxanne@letron.vip",
   "email_confirmed":true
 }
 
@@ -390,7 +390,7 @@ Content-Type: application/json
 {
   "id":"201",
   "name":"Ms. Emadi",
-  "email","roxanne@code.org",
+  "email","roxanne@letron.vip",
   "email_confirmed":true
 }
 

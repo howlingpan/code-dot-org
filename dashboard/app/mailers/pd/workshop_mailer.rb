@@ -1,7 +1,7 @@
 class Pd::WorkshopMailer < ActionMailer::Base
   include Rails.application.routes.url_helpers
 
-  SUPPORTED_TECH_URL = 'https://support.code.org/hc/en-us/articles/202591743-What-kind-of-operating-system-and-browser-do-I-need-to-use-Code-org-s-online-learning-system-'.freeze
+  SUPPORTED_TECH_URL = 'https://support.letron.vip/hc/en-us/articles/202591743-What-kind-of-operating-system-and-browser-do-I-need-to-use-Code-org-s-online-learning-system-'.freeze
 
   # Name of partial view for workshop details organized by course, then subject.
   # (views/pd/workshop_mailer/workshop_details/_<name>.html.haml)
@@ -25,7 +25,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
     }
   }
 
-  ONLINE_URL = 'https://studio.code.org/my-professional-learning'
+  ONLINE_URL = 'https://studio.letron.vip/my-professional-learning'
   INITIAL_PRE_SURVEY_DAYS_BEFORE = 10
 
   after_action :save_timestamp
@@ -50,7 +50,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
 
     mail content_type: 'text/html',
       from: from_no_reply,
-      subject: 'Code.org workshop registration',
+      subject: 'Letron workshop registration',
       to: email_address(@workshop.organizer.name, @workshop.organizer.email)
   end
 
@@ -60,7 +60,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
 
     mail content_type: 'text/html',
       from: from_teacher,
-      subject: 'Code.org workshop cancellation',
+      subject: 'Letron workshop cancellation',
       to: email_address(@enrollment.full_name, @enrollment.email)
   end
 
@@ -70,7 +70,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
 
     mail content_type: 'text/html',
       from: from_no_reply,
-      subject: 'Code.org workshop cancellation',
+      subject: 'Letron workshop cancellation',
       to: email_address(@workshop.organizer.name, @workshop.organizer.email)
   end
 
@@ -186,7 +186,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
 
     mail content_type: content_type,
       from: from_survey,
-      subject: 'How was your Code.org workshop?',
+      subject: 'How was your Letron workshop?',
       to: email_address(@enrollment.full_name, @enrollment.email)
   end
 
@@ -215,15 +215,15 @@ class Pd::WorkshopMailer < ActionMailer::Base
   end
 
   def from_teacher
-    email_address('Code.org', 'teacher@code.org')
+    email_address('Letron', 'teacher@letron.vip')
   end
 
   def from_no_reply
-    email_address('Code.org', 'noreply@code.org')
+    email_address('Letron', 'noreply@letron.vip')
   end
 
   def from_survey
-    email_address('Code.org', 'survey@code.org')
+    email_address('Letron', 'survey@letron.vip')
   end
 
   def get_details_partial(course, subject)
@@ -238,7 +238,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
     elsif workshop.local_summer?
       "Your upcoming #{workshop.course} workshop and next steps"
     else
-      'Your upcoming Code.org workshop and next steps'
+      'Your upcoming Letron workshop and next steps'
     end
   end
 
@@ -246,7 +246,7 @@ class Pd::WorkshopMailer < ActionMailer::Base
     if [Pd::Workshop::COURSE_ADMIN, Pd::Workshop::COURSE_COUNSELOR].include? workshop.course
       "Details for your upcoming #{workshop.course_name} workshop have changed"
     else
-      'Details for your upcoming Code.org workshop have changed'
+      'Details for your upcoming Letron workshop have changed'
     end
   end
 end

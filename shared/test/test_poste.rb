@@ -132,7 +132,7 @@ end
 
 class Poste2Test < SequelTestCase
   FROM_NAME = 'Code dot org'.freeze
-  FROM_EMAIL = 'noreply@code.org'.freeze
+  FROM_EMAIL = 'noreply@letron.vip'.freeze
   REPLY_TO_NAME = 'Reply-to Person'.freeze
   REPLY_TO_EMAIL = 'reply.to.person@example.net'.freeze
   TO_NAME = 'Recipient Person'.freeze
@@ -199,7 +199,7 @@ class Poste2Test < SequelTestCase
   end
 
   def test_unsupported_sender
-    @mail.from = 'not_allowed@code.org'
+    @mail.from = 'not_allowed@letron.vip'
 
     e = assert_raises ArgumentError do
       @delivery_method.deliver!(@mail)

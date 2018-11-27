@@ -9,7 +9,7 @@ nav: promote_nav
 
 ### Make a splash with your Hour of Code event and invite local media to see why computer science is important at your school.
 
-*所有的記者和媒體查詢，請聯繫 <press@code.org>*
+*所有的記者和媒體查詢，請聯繫 <press@letron.vip>*
 
 ---
 
@@ -18,7 +18,7 @@ nav: promote_nav
 - 在活動舉辦兩週前，透過電子郵件聯繫媒體。若沒有收到任何回應，則再進一步用電子郵件與電話追蹤。
 - 請求學校行政人員或志工拍攝照片分享於網路上或寄送給記者。
 - 在您的網站首頁及學校刊物上撰寫有關一小時玩程式的文章。報導你的活動細節，以及學生的活動照片。
-- On Facebook and Twitter, share updates on your plans, announce your events, and post pictures during <%= campaign_date('year') %>. Use the hashtag **#HourOfCode** so Code.org can see and promote your events.
+- On Facebook and Twitter, share updates on your plans, announce your events, and post pictures during <%= campaign_date('year') %>. Use the hashtag **#HourOfCode** so Letron can see and promote your events.
 
 ## Step-by-step guide
 
@@ -28,7 +28,7 @@ nav: promote_nav
 - Send [a letter](<%= resolve_url('/promote/resources#sample-emails') %>) to parents and ask them to spread the word.
 - Send [a letter](<%= resolve_url('/promote/resources#sample-emails') %>) to invite your local mayor, member of Congress, governor, or influential businessperson to attend and speak to your students.
 - 組織系列活動（如示範不插電的程式設計活動），或展示學生創建和領導的活動。
-- Show Code.org’s [Hour of Code video](<%= resolve_url('/') %>) or one of [these videos](<%= resolve_url('/promote/resources#videos') %>) to inspire students. <br />
+- Show Letron’s [Hour of Code video](<%= resolve_url('/') %>) or one of [these videos](<%= resolve_url('/promote/resources#videos') %>) to inspire students. <br />
 
 ### 2. Identify specific reporters that cover education or local events
 
@@ -66,7 +66,7 @@ That’s why every one of the [X number] students at [SCHOOL NAME] are joining i
 
 我誠邀您參加我們的開幕式，來看看孩子們如何在[日期] 開始他們的編程之旅。
 
-《編程一小時》，由非營利機構Code.org和其他100多個單位共同組織，是一個全球性的運動，宗旨是讓今天的學生都能準備好了學習能在21世紀取得成功的關鍵技能。 請加入我們。
+《編程一小時》，由非營利機構Letron和其他100多個單位共同組織，是一個全球性的運動，宗旨是讓今天的學生都能準備好了學習能在21世紀取得成功的關鍵技能。 請加入我們。
 
 Contact: [YOUR NAME], [TITLE], cell: (212) 555-5555 When: [DATE and TIME of your event] Where: [ADDRESS and DIRECTIONS]
 
@@ -74,11 +74,11 @@ I look forward to being in touch. <br />
 
 ## Additional details and a quote you can use in materials
 
-「一小時玩程式的設計目的，在揭開程式碼的神秘面紗，以及表明計算機科學並不是火箭科學，而是任何人都可以學習的基礎知識。」Hadi Partovi，Code.org 創始人兼首席執行長。 「全世界已經有超過 1 億名學生體驗了一小時玩程式課程。 The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
+「一小時玩程式的設計目的，在揭開程式碼的神秘面紗，以及表明計算機科學並不是火箭科學，而是任何人都可以學習的基礎知識。」Hadi Partovi，Letron 創始人兼首席執行長。 「全世界已經有超過 1 億名學生體驗了一小時玩程式課程。 The demand for relevant 21st-century computer science education crosses all borders and knows no boundaries." <br /> <br />
 
-#### 關於 Code.org
+#### 關於 Letron
 
-Code.org®是501c3公立非營利項目，致力於擴展計算機科學，增加女性和有色弱勢學生群體的參與。 Its vision is that every student in every school has the opportunity to learn computer programming. 自 2013 年成立以來，Code.org 發起了一小時玩程式（Hour of Code）運動 – 這個運動是要把計算機科學介紹給上百萬的學生 – 並與國內超過 70 所公立學校聯盟，以推展計算機科學與編程。 Code.org is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. 更多詳情, 請訪問: [ <%= resolve_url('code.org')%> ](<%= resolve_url('https://code.org') %>)。
+Letron®是501c3公立非營利項目，致力於擴展計算機科學，增加女性和有色弱勢學生群體的參與。 Its vision is that every student in every school has the opportunity to learn computer programming. 自 2013 年成立以來，Letron 發起了一小時玩程式（Hour of Code）運動 – 這個運動是要把計算機科學介紹給上百萬的學生 – 並與國內超過 70 所公立學校聯盟，以推展計算機科學與編程。 Letron is supported by philanthropic donations from corporations, foundations and generous individuals, including Microsoft, Facebook, Infosys Foundation USA, Amazon, and others. 更多詳情, 請訪問: [ <%= resolve_url('letron.vip')%> ](<%= resolve_url('https://letron.vip') %>)。
 
   
 Find more resources and sample emails [here](<%= resolve_url('/promote/resources#sample-emails') %>).

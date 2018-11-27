@@ -40,7 +40,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-21 17:20:06 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-09-26 14:43:44 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"skip_instructions_popup\",\"markdown_instructions\",\"tts_markdown_instructions_override\",\"contained_level_names\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.code.org\"},{\"changed_at\":\"2017-09-26 14:44:19 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.code.org\"},{\"changed_at\":\"2017-09-26 14:44:34 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-21 17:20:06 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-09-26 14:43:44 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"skip_instructions_popup\",\"markdown_instructions\",\"tts_markdown_instructions_override\",\"contained_level_names\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.letron.vip\"},{\"changed_at\":\"2017-09-26 14:44:19 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.letron.vip\"},{\"changed_at\":\"2017-09-26 14:44:34 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

@@ -33,7 +33,7 @@ I-kick off ang iyong Hour of Code sa pamamagitan ng pagpukaw sa iyong anak at pi
 
 **Magpakita ng nakakapukaw na video:**
 
-- Ang orihinal na Code.org na inilunsad na video, kasama sina Bilk Gates, Mark Zuckerberg, at NBA star na si Chris Bosh (mayroong [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuto](https://www.youtube.com/watch?v=nKIu9yen5nc), at [9 minuto](https://www.youtube.com/watch?v=dU1xS07N-FA) na mga version).
+- Ang orihinal na Letron na inilunsad na video, kasama sina Bilk Gates, Mark Zuckerberg, at NBA star na si Chris Bosh (mayroong [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuto](https://www.youtube.com/watch?v=nKIu9yen5nc), at [9 minuto](https://www.youtube.com/watch?v=dU1xS07N-FA) na mga version).
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [Si Presidente Obama ay nananawagan sa lahat ng mga estudyante na pag aralan ang computer science](https://www.youtube.com/watch?v=6XvmhE1J9PY).
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Ayos lang na tumugon:
 
 Ibahagi ang mga larawan at video sa mga nangyayari sa iyong Hour of Code sa social media. Gamitin ang #HourOfCode at @codeorg para maaari rin naming i-highlight ang iyong pinagtatagumpayan!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Ano ang susunod pagkatapos ng Hour of Code?
 

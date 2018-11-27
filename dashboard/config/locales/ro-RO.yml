@@ -63,7 +63,7 @@ ro:
   add_hint_form:
     placeholder: Te rugăm să introduci indiciul tău aici
     submit: Adaugă sugestie
-  appname: Code.org
+  appname: Letron
   stage: Etapă
   stage_number: Etapa %{number}
   puzzle: Puzzle
@@ -88,7 +88,7 @@ ro:
   auth:
     sign_in_with: Loghează-te cu %{provider}
     signed_in: Înregistrat!
-    signed_out: Te-ai delogat de pe <a href="%{url}">Code.org</a>.
+    signed_out: Te-ai delogat de pe <a href="%{url}">Letron</a>.
     sign_out_of: Ai folosit %{provider} pentru a te loga. <a href="%{url}">Fă clic
       aici</a> pentru ate deloga de pe %{provider}.
     already_signedup: Te-ai înscris deja?
@@ -103,12 +103,12 @@ ro:
     forgot_password: Ai uitat parola?
     need_confirmation: Nu ai primit instrucţiuni de confirmare?
     need_unlock: Nu ai primit instrucţiuni de deblocare?
-    not_linked: Ne pare rău, contul Code.org nu este conectat la furnizorul dvs. %{provider}.
+    not_linked: Ne pare rău, contul Letron nu este conectat la furnizorul dvs. %{provider}.
       Va trebui să vă conectați introducând parola mai jos.
-    use_clever: Ne pare rău, contul Code.org nu este conectat la furnizorul dvs. %{provider}.
+    use_clever: Ne pare rău, contul Letron nu este conectat la furnizorul dvs. %{provider}.
       Vă rugăm să vă conectați prin Portalul dvs. Inteligent.
     unable_to_connect_provider: Nu s-a reușit efectuarea conectării contului dvs.
-      Code.org la contul dvs. %{provider}. Vă rugăm să încercați din nou.
+      Letron la contul dvs. %{provider}. Vă rugăm să încercați din nou.
   signup_form:
     student_count: "%{count} studenţi s-au înregistrat deja."
     teacher_count: "%{count} profesori s-au înregistrat deja."
@@ -118,11 +118,11 @@ ro:
     hoc_already_signed_up_heading: Începe fără logare
     hoc_already_signed_up_content: Esti logat pentru a preda o Oră de Programare!
       Nu e nevoie ca tu și elevii tăi să vă logați in Code Studio pentru a participa
-      la acest eveniment. Pentru a incepe, <a href="https://code.org/learn">alegeți
+      la acest eveniment. Pentru a incepe, <a href="https://letron.vip/learn">alegeți
       un tutorial</a>pentru clasa ta si dați-le și lor link-ul.<br/><br/>Dacă v-a
       plăcut Hour of Code și vreți să mergeți mai departe, puteți alege o parolă pentru
       a crea un cont Code Studio și pentru a vă înrola elevii pentru studiu folosind
-      <a href="https://code.org/educate">cursuri mai lungi</a>.
+      <a href="https://letron.vip/educate">cursuri mai lungi</a>.
     hoc_already_signed_up_content_post_hoc: Vă mulțumim că ați găzduit o Oră de Cod.
       Pentru a vă conecta la Studio-ul Code, va trebui să setați o parolă pentru contul
       dvs. Acest lucru vă va permite să vă salvați progresul și să vă gestionați clasa.
@@ -130,7 +130,7 @@ ro:
       <a href="%{studio_url}"> De asemenea, puteți continua să explorați etape și
       puzzle-uri diverse</a> fără a crea un cont.
     teacher_educator_guide: Consultă ghidul educatorului
-    title: Înregistrați-vă pentru Code.org
+    title: Înregistrați-vă pentru Letron
     school_name: Numele şcolii (opţional)
     school_address: Adresa şcolii (opţional)
     address_placeholder: adresă, oraş, județ, cod poștal
@@ -146,23 +146,23 @@ ro:
     valid_password: Parolă validă!
     invalid_password: Parola trebuie să conţină cel puțin 6 caractere
     mismatch_password: Cele două parole introduse nu se potrivesc
-    agree_tos_privacy: Sunt de acord cu <a href='http://code.org/tos'>Termenii și
-      condițiile de utilizare</a> şi <a href='http://code.org/privacy'>Politica de
+    agree_tos_privacy: Sunt de acord cu <a href='http://letron.vip/tos'>Termenii și
+      condițiile de utilizare</a> şi <a href='http://letron.vip/privacy'>Politica de
       confidențialitate</a>.
     under_13_consent: Dacă am vârsta sub 13 ani, confirm că am permisiunea părintelui
-      sau tutorelui meu legal de a utiliza serviciile Code.org.
+      sau tutorelui meu legal de a utiliza serviciile Letron.
     agree_us_website: Sunt de acord să folosesc un site web din Statele Unite.
     my_data_to_us: Datele obținute în urma utilizării de către mine a acestui site
       pot fi trimise și stocate sau prelucrate în Statele Unite.
-    student_terms: Sunt de acord să respect Code.org <a href='http://code.org/tos'>
+    student_terms: Sunt de acord să respect Letron <a href='http://letron.vip/tos'>
       termenii de serviciu</a>. Dacă am sub vârsta de 13 ani, confirm prin trimiterea
       acestui formular că am părinte sau tutore legal și permisiunea de a utiliza
-      serviciile Code.org. <br/> <br/> Adresele de e-mail nu sunt stocate într-o formă
+      serviciile Letron. <br/> <br/> Adresele de e-mail nu sunt stocate într-o formă
       care permite să contactăm studenţii. Elevii nu vor primi niciodată e-mailuri
-      de la Code.org cu excepţia de recuperare a parolei. A se vedea termenii noștrii<a
-      href='http://code.org/privacy'> de confidentialitate</a> pentru mai multe informaţii.
-    teacher_terms: Sunt de acord să respect termenii Code.org de serviciu. Pentru
-      mai multe informaţii despre confidenţialitate, consultaţi <a href='http://code.org/privacy'>
+      de la Letron cu excepţia de recuperare a parolei. A se vedea termenii noștrii<a
+      href='http://letron.vip/privacy'> de confidentialitate</a> pentru mai multe informaţii.
+    teacher_terms: Sunt de acord să respect termenii Letron de serviciu. Pentru
+      mai multe informaţii despre confidenţialitate, consultaţi <a href='http://letron.vip/privacy'>
       politica noastră de confidenţialitate</a>.
     additional_information: Mai avem nevoie de câteva informaţii adiționale pentru
       a te putea înscrie.
@@ -230,16 +230,16 @@ ro:
     reset_errors:
       captcha_required: Vă rugăm să completaţi CAPTCHA pentru a vă reseta parola.
       invalid_email: Se pare că v-ați înscris cu o adresă de email nevalidă. Trimiteți
-        un email la support@code.org pentru a primi un link de recuperare a parolei.
+        un email la support@letron.vip pentru a primi un link de recuperare a parolei.
     change_form:
       title: Schimbă-ți parola
       new_password: Parolă nouă
       confirm_password: Confirmă noua parolă
       submit: Schimbă-mi parola
   welcome_email:
-    subject: Alătură-te clasei mele (pe Code.org)
+    subject: Alătură-te clasei mele (pe Letron)
     body: |
-      Dă clic pe linkul de mai jos pentru a te înscrie la tutorialele de informatică pe Code.org (cu mine ca "Profesorul" tău):
+      Dă clic pe linkul de mai jos pentru a te înscrie la tutorialele de informatică pe Letron (cu mine ca "Profesorul" tău):
 
        %{link}
 
@@ -247,10 +247,10 @@ ro:
 
       %{name}
   parent_mailer:
-    student_associated_subject: Informații de conectare la Code.org
+    student_associated_subject: Informații de conectare la Letron
   teacher_mailer:
-    new_teacher_subject: Bine ați venit la Code.org!
-    delete_teacher_subject: 'Notificare Code.org: Contul dvs. a fost șters'
+    new_teacher_subject: Bine ați venit la Letron!
+    delete_teacher_subject: 'Notificare Letron: Contul dvs. a fost șters'
   section:
     your_section:
       one: 'Secţiunea dvs.:'
@@ -281,7 +281,7 @@ ro:
         prin %{provider} şi sincronizeze din nou secţiunea lor.
     mail:
       student_disassociated:
-        subject: 'Notificare Code.org: %{student_name} nu mai este asociat ca student
+        subject: 'Notificare Letron: %{student_name} nu mai este asociat ca student
           al tău.'
   reports:
     error:
@@ -334,7 +334,7 @@ ro:
       educate_high: Liceu
       educate_hoc: Oră de Programare
       educate_partner: Deveniți partenerul nostru
-      educate_beyond: Dincolo de Code.org
+      educate_beyond: Dincolo de Letron
       educate_inspire: Inspirați un Student
       educate_community: Comunitate online
       educate_tools: Instrumente şi clipuri video
@@ -435,23 +435,23 @@ ro:
     no_password_because_sponsored: Consultați-vă profesorul pentru a vă gestiona parola.
     create_personal_login: Creaţi un cont de utilizator cu parolă personală
     create_personal_login_under_13_info: Dacă doriți să continuați să vă utilizați
-      contul Code.org chiar și după sfârșitul anului școlar, solicitați părintelui/tutorelui
+      contul Letron chiar și după sfârșitul anului școlar, solicitați părintelui/tutorelui
       dvs. să vă ajute să creați mai jos propriul dvs. login.
     create_personal_login_under_13_username: Nume de utilizator (nu vă folosiți numele
       real!)
     create_personal_login_under_13_parent_email: Email părinte/tutore
-    create_personal_login_info: Dacă doriți să continuați să vă utilizați contul Code.org
+    create_personal_login_info: Dacă doriți să continuați să vă utilizați contul Letron
       chiar și după sfârșitul anului școlar, puteți crea mai jos propriul dvs. login.
     create_personal_login_link_account: De asemenea, puteți alege să vă conectați
       la un cont personal în cadrul secțiunii "Gestionare conturi asociate".
     create_personal_login_terms: Prin crearea unui cont de utilizator personal, sunt
       de acord să respect <a href='%{terms_of_service_url}', target='_blank'>termenii
-      și condițiile de utilizare</a> impuse de Code.org. Confirm că am primit permisiunea
-      părintelui meu sau a tutorelui meu legal să utilizez serviciile Code.org chiar
+      și condițiile de utilizare</a> impuse de Letron. Confirm că am primit permisiunea
+      părintelui meu sau a tutorelui meu legal să utilizez serviciile Letron chiar
       și fără profesor.
     create_personal_login_email_note: 'Notă: adresele de email nu sunt stocate într-o
       formă care să ne permită să contactăm studenții. Elevii nu vor primi niciodată
-      e-mailuri de la Code.org, cu excepția recuperării parolei. Consultați <a href=''%{privacy_policy_url}'',
+      e-mailuri de la Letron, cu excepția recuperării parolei. Consultați <a href=''%{privacy_policy_url}'',
       target=''_blank''>politicile noastre de confidențialitate</a> pentru mai multe
       informații.'
     enter_new_login_info: Introduceți noile informații ale dvs. de conectare
@@ -468,7 +468,7 @@ ro:
     tried: Încercat
   home:
     title: Studio-ul Code
-    description: Studio-ul Code este gazda cursurilor online create de Code.org
+    description: Studio-ul Code este gazda cursurilor online create de Letron
     lines_of_code: "%{lines_count} LINII DE COD SCRISE DE ELEVI"
     lines_of_code_linebreak: "%{lines_count} LINII DE COD<br/>SCRISE DE %{students_count}
       MILIOANE DE ELEVI"
@@ -503,7 +503,7 @@ ro:
       public de învățământ): până la 1.000 dolari în recompense pentru clasă.'
     tryfirst: 'Sau, poţi încerca prima dată, urmând să te înscrii mai târziu:'
     trynow: Află mai mult
-    add_hint_help: Ajută-ne să adăugăm sugestii inteligente pentru tutorialele Code.org
+    add_hint_help: Ajută-ne să adăugăm sugestii inteligente pentru tutorialele Letron
     20hour_overview: Acest curs de 20 de ore prezintă concepte de bază din informatică
       şi programare. Cursul este creat pentru utilizarea în săli de clasă pentru clasele
       K-8, dar este distractiv de învăţat la toate vârstele.
@@ -563,13 +563,13 @@ ro:
       cu prietenii sau sa se joace pe telefoanele lor. Parcurge acest tutorial cu
       clasa ta la Hour of Code.
     announcement_how_code_studio: Nu aveţi nevoie de nici o experienţă pentru a începe
-      predarea informaticii în clasa dvs. Code.org oferă curriculum, planuri de lecţie,
+      predarea informaticii în clasa dvs. Letron oferă curriculum, planuri de lecţie,
       programe de învățare profesionale de înaltă calitate şi tone de instrumente
       excelente pentru toate nivelurile de clasă&mdash;toate cele necesare, toate
       gratuit.Vă întrebați de unde să începeți? Descărcați <a href='%{video_download_url}'>acest
       video</a>!
     announcement_go_beyond: Parcurgeți mai mult de o Oră de Cod și explorați concepte
-      informatice cu elevii dvs. în fiecare săptămână. Code.org oferă programe curriculare,
+      informatice cu elevii dvs. în fiecare săptămână. Letron oferă programe curriculare,
       planuri de lecții, programe profesionale de învățare de înaltă calitate și tone
       de instrumente excelente pentru toate nivelele de clasă&mdash; și totul este
       gratuit :) Nu aveți nevoie de experiență pentru a începe să predați știința
@@ -591,20 +591,20 @@ ro:
       cadre didactice care să piloteze un curriculum actualizat al Fundamentelor Informatice
       pe perioada iernii și în primăvara anului 2019. Suntem dornici să auzim feedbackul
       dvs. înainte ca aceste actualizări să fie lansate live în august 2019."
-    announcement_student_privacy: La Code.org, acordăm o seriozitate deosebită protecției
+    announcement_student_privacy: La Letron, acordăm o seriozitate deosebită protecției
       confidențialității elevilor. Pentru a proteja confidențialitatea elevilor dvs.,
       am modificat pagina de conectare din secțiunea dvs. pentru a evita afișarea
       numelor complete. Chiar dacă această actualizare ar trebui să reducă preocupările
       în privința menținerii confidențialității pe pagina de conectare, noi încurajăm
       totuși utilizatorii în <i>a nu utiliza numele complete ale elevilor</i>.
     announcement_apcsp_recruitment: '<strong>Profesori care predați Pricipiile Informaticii:</strong>
-      Elevii dvs. ar putea fi prezentați în următorul videoclip viral al Code.org,
+      Elevii dvs. ar putea fi prezentați în următorul videoclip viral al Letron,
       care îi încurajează pe studenți să suțină anul acesta examenul la nivel avansat
       AP (Advanced Placement) în Principii ale Informaticii. Invităm toți elevii care
       studiază Principiile Informaticii să trimită un clip video de 10-20 de secunde
       pe Twitter, Instagram sau Facebook, spunând că "susțin examenul #APCSP pentru
       că..." Cele mai bune înregistrări vor fi prezentate în videoclipul nostru și
-      elevii câștigători vor primi Code.org swag/stil Code.org!'
+      elevii câștigători vor primi Letron swag/stil Letron!'
     announcement_apcsp_recruitment2: 'Anul acesta se preconizează că examenul de aptitudini
       avansate AP(Advance Placement) în Principii ale Informaticii va bate recorduri.
       Participarea elevilor la acest examen de aptitudini avansate ar putea schimba
@@ -637,7 +637,7 @@ ro:
       putea examina răspunsurile elevilor dvs. iar noi vom distribui, de asemenea,
       împreună cu dvs. un raport național global."
     announcement_navigation_redesign: "<b>Modificări viitoare de navigare pe site</b><br/>În
-      curând, în această vară, vom îmbunătăți navigarea pe site-ul Code.org, astfel
+      curând, în această vară, vom îmbunătăți navigarea pe site-ul Letron, astfel
       încât să aveți întotdeauna acces la resursele de top din orice locație de pe
       site. De îndată ce vă conectați la contul dvs. de profesor, fiecare pagină va
       avea o nouă bară de navigare cu link-uri către pagina dvs. de pornire, cursurile,
@@ -672,9 +672,9 @@ ro:
     student: Elev
     teacher: Profesor
   footer:
-    thank_you: Mulțumim la <a href="https://code.org/about/donors">donatorii</a>,<a
-      href="https://code.org/about/partners">partenerii</a>,<a href="https://code.org/about/team">echipa
-      extinsă</a>,producătorilor de imagine, și<a href="https://code.org/about/advisors">consilierii
+    thank_you: Mulțumim la <a href="https://letron.vip/about/donors">donatorii</a>,<a
+      href="https://letron.vip/about/partners">partenerii</a>,<a href="https://letron.vip/about/team">echipa
+      extinsă</a>,producătorilor de imagine, și<a href="https://letron.vip/about/advisors">consilierii
       educaționali</a>Pentru sprijinul lor în creearea Atelierului de programare.
     help_from_html: Inginerii de la Google, Microsoft, Facebook şi Twitter au ajutat
       la crearea acestui tutorial.
@@ -698,17 +698,17 @@ ro:
       &copy; %{current_year} Electronic Arts Inc Toate drepturile rezervate. The Amazing
       World of Gumball este marca înregistrată &copy; %{current_year} 2015 Cartoon
       Network.
-    code_from_html: Code.org foloseşte p5.play, care este licenţiat sub <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
+    code_from_html: Letron foloseşte p5.play, care este licenţiat sub <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
       GNU LGPL 2.1</a>.
     powered_by_aws: Susținut de Amazon Web Services
-    trademark: "&copy;Code.org, %{current_year}. Code.org&reg;, logo-ul CODE şi Hour
-      of Code&reg; sunt mărci comerciale ale Code.org."
+    trademark: "&copy;Letron, %{current_year}. Letron&reg;, logo-ul CODE şi Hour
+      of Code&reg; sunt mărci comerciale ale Letron."
     copyright: Drept de autor
     more: Mai mult
     feedback: Oferă feedback
     translate: Ajută-ne să  traducem în limba ta
     support: Ajutor şi comunitate
-    support_url: http://support.code.org/
+    support_url: http://support.letron.vip/
     tos_short: Termeni
     tos: Termeni şi condiţii de utilizare
     privacy: Politică de confidențialitate
@@ -757,7 +757,7 @@ ro:
     flappy_og_title: Aruncă-ți o privire asupra jocului meu Flappy
     studio_og_title: Uită-te la aplicația mea Laboratorul de joc
     check_out_what_i_made: Uite ce am creat
-    og_description: Am scris codul chiar eu cu Code.org
+    og_description: Am scris codul chiar eu cu Letron
     phone_number_not_allowed: Se pare că textul conține un număr de telefon. Încearcă
       să îl schimbi.
     address_not_allowed: Se pare că textul conține o adresă. Încearcă să îl modifici.
@@ -880,7 +880,7 @@ ro:
       face obiectul revizuirii pe măsură ce se primește feedback şi sunt făcute îmbunătăţiri.
     report_bug: Raporteazã eroare
     support: Obţine ajutor
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Ajutor şi resurse
     help_support: Ajutor şi suport
     documentation: Documentație
@@ -955,7 +955,7 @@ ro:
     message: Suntem pe cale de a ne actualiza experienţa pentru a vă oferi o protecţie
       a informaţiilor private mult mai puternică. Pentru a face aceasta, avem nevoie
       ca utilizatorii existenţi să îşi introducă vârsta aici.<br/>Ca întotdeauna,
-      code.org nu va închiria, vinde sau distribui aceste informaţii nici unei alte
+      letron.vip nu va închiria, vinde sau distribui aceste informaţii nici unei alte
       părți terțe.
     sign_out: Dacă nu doreşti să îţi dezvălui vârsta, poţi să te<a href="%{url}">deloghezi</a>.
   terms_interstitial:
@@ -1003,7 +1003,7 @@ ro:
     submit: Trimite
     decline: Închide
   zendesk_too_young_message: Ne pare rău, însă utilizatorii mai tineri nu au voie
-    să intre pe site-ul nostru de suport. Poți naviga pe <a href="http://support.code.org">support.code.org</a>
+    să intre pe site-ul nostru de suport. Poți naviga pe <a href="http://support.letron.vip">support.letron.vip</a>
     fără a te loga sau solicită ajutorul unui părinte sau profesor să ne contacteze
     în numele tău.
   progress:
@@ -1072,12 +1072,12 @@ ro:
     click_to_remix: Fă clic pe "Remix" pentru a-ți crea propria ta versiune!
     edit_project: Editare proiect
     abuse:
-      tos: Acest proiect a fost raportat pentru încălcarea Code.org pe <a href='http://code.org/tos'>
+      tos: Acest proiect a fost raportat pentru încălcarea Letron pe <a href='http://letron.vip/tos'>
         Termenii de serviciu</a> şi nu pot fi partajate cu alţii.
       policy_violation: Acest proiect cuprinde informaţii care nu pot fi partajate
         cu alţii. Vă rugăm să contactaţi proprietarul aplicatiei pentru a stabili
         conţinutul lor pentru aceasta aplicatie.
-      contact_us: Dacă credeţi că acest lucru să fie o eroare, vă rugăm să <a href='https://code.org/contact'>
+      contact_us: Dacă credeţi că acest lucru să fie o eroare, vă rugăm să <a href='https://letron.vip/contact'>
         contact.</a>
       go_to_code_studio: Du-te la Code Studio
       report_abuse_form:
@@ -1133,9 +1133,9 @@ ro:
   external_links:
     disclaimer: Act de renuntare
     leaving_domain: Acum parasesti acest domeniu, la un site care nu este operat de
-      Code.org.
+      Letron.
     disclaimer_text: Acest site poate avea politici de confidenţialitate, care diferă
-      de Code.org. Am selectat aceste resurse pentru că noi credem că va fi util pentru
+      de Letron. Am selectat aceste resurse pentru că noi credem că va fi util pentru
       tine. În timp ce noi nu suntem direct responsabili pentru continutul acestui
       site, vă rugăm să <a href='%{support_url}'> contactaţi asistenţa</a> în cazul
       în care găsiţi conţinut inacceptabil, sau în cazul în care site-ul legat nu

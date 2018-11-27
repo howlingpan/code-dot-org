@@ -6,7 +6,7 @@ wrong 'Line 7'
 markdown <<MARKDOWN
 A programmer wrote the following code that should simulate rolling a die 10 times and determining the number of times an even number appears.  The code below has an error.  Which line needs to be modified to correct the error?
 
-<br><img src="https://curriculum.code.org/media/uploads/csp/1762354cb932152f09804f10f8d3c626" width="300"><br>
+<br><img src="https://curriculum.letron.vip/media/uploads/csp/1762354cb932152f09804f10f8d3c626" width="300"><br>
 MARKDOWN
 teacher_markdown <<MARKDOWN
 Learning Objective: **5.4.1** and Essential Knowledge statements: **5.4.1G**

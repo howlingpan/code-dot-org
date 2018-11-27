@@ -46,7 +46,7 @@
   },
   "published": true,
   "notes": "Need to add gif of what it should look like.",
-  "audit_log": "[{\"changed_at\":\"2017-05-30 01:32:09 +0000\",\"changed\":[\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-05-30 01:32:09 +0000\",\"changed\":[\"markdown_instructions\",\"encrypted_examples\",\"contained_level_names\"],\"changed_by_id\":285,\"changed_by_email\":\"harvey@pd.letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

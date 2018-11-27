@@ -61,7 +61,7 @@ vi:
   add_hint_form:
     placeholder: Vui lòng nhập gợi ý của bạn ở đây
     submit: Thêm gợi ý
-  appname: Code.org
+  appname: Letron
   stage: giai đoạn
   stage_number: Giai đoạn %{number}
   puzzle: Câu đố
@@ -86,7 +86,7 @@ vi:
   auth:
     sign_in_with: Đăng nhập bằng %{provider}
     signed_in: Đăng nhập!
-    signed_out: Bạn đã đăng xuất khỏi <a href="%{url}"> Code.org</a>.
+    signed_out: Bạn đã đăng xuất khỏi <a href="%{url}"> Letron</a>.
     sign_out_of: Bạn sử dụng %{provider} để đăng nhập. <a href="%{url}"> Click vào
       đây</a> để đăng xuất khỏi %{provider}.
     already_signedup: Đã đăng ký?
@@ -101,10 +101,10 @@ vi:
     forgot_password: Quên mật khẩu?
     need_confirmation: Không nhận được hướng dẫn xác nhận?
     need_unlock: Chưa nhận hướng dẫn mở khóa?
-    not_linked: Xin lỗi, tài khoản Code.org của bạn không được liên kết với nhà cung
+    not_linked: Xin lỗi, tài khoản Letron của bạn không được liên kết với nhà cung
       cấp %{provider} của bạn. Bạn cần đăng nhập bằng cách gõ mật khẩu của bạn dưới
       đây.
-    use_clever: Xin lỗi, tài khoản Code.org của bạn không được liên kết với nhà cung
+    use_clever: Xin lỗi, tài khoản Letron của bạn không được liên kết với nhà cung
       cấp %{provider} của bạn. Vui lòng đăng nhập thông qua tài khoản Clever để thay
       thế.
   signup_form:
@@ -117,10 +117,10 @@ vi:
     hoc_already_signed_up_heading: Bắt đầu mà không cần đăng nhập
     hoc_already_signed_up_content: Bạn đã đăng ký để dạy Hour of Code! Bạn và học
       sinh của bạn không cần phải đăng nhập vào Code Stdio để tham gia sự kiện này.
-      Để bắt đầu, <a href="https://code.org/learn">chọn bài hướng dẫn</a> cho lớp
+      Để bắt đầu, <a href="https://letron.vip/learn">chọn bài hướng dẫn</a> cho lớp
       học của bạn và chia sẻ link này với học sinh của bạn, <br/><br/>Nếu bạn yêu
       thích Hour of Code và muốn tiếp tục, bạn có thể tạo mật khẩu và tạo một tài
-      khoản Code Studio để ghi danh cho học sinh của bạn tham gia các<a href="https://code.org/educate">khoá
+      khoản Code Studio để ghi danh cho học sinh của bạn tham gia các<a href="https://letron.vip/educate">khoá
       học dài hạn</a>.
     hoc_already_signed_up_content_post_hoc: Cảm ơn bản đã tổ chức Giờ Lập Trình. Để
       đăng nhập vào Code Studio, bạn cần phải thiết lập mật khẩu cho tài khoản của
@@ -129,7 +129,7 @@ vi:
       cũng có thể tiếp tục tham gia vào các nội dung và câu đố</a> mà không cần tạo
       tài khoản.
     teacher_educator_guide: Hãy xem chỉ dẫn
-    title: Ghi danh cho Code.org
+    title: Ghi danh cho Letron
     school_name: Tên trường (tùy chọn)
     school_address: Địa chỉ trường (không bắt buộc)
     address_placeholder: địa chỉ, thành phố, tỉnh, mã bưu điện
@@ -145,22 +145,22 @@ vi:
     valid_password: Mật khẩu hợp lệ!
     invalid_password: Mật khẩu phải có ít nhất 6 ký tự
     mismatch_password: Hai mật khẩu bạn nhập không khớp
-    agree_tos_privacy: Tôi đồng ý với <a href='http://code.org/tos'>Điều khoản Dịch
-      vụ</a> và <a href='http://code.org/privacy'>Chính sách Bảo mật</a>.
+    agree_tos_privacy: Tôi đồng ý với <a href='http://letron.vip/tos'>Điều khoản Dịch
+      vụ</a> và <a href='http://letron.vip/privacy'>Chính sách Bảo mật</a>.
     under_13_consent: Nếu dưới 13 tuổi, tôi xác nhận rằng tôi đã được cha mẹ hoặc
-      người giám hộ hợp pháp cho phép sử dụng các dịch vụ trên Code.org.
+      người giám hộ hợp pháp cho phép sử dụng các dịch vụ trên Letron.
     agree_us_website: Tôi đồng ý với việc sử dụng trang web đặt tại Hoa Kỳ.
     my_data_to_us: Dữ liệu từ việc tôi sử dụng trang web này có thể được gửi đến và
       lưu trữ hoặc xử lý tại Hoa Kỳ.
-    student_terms: Tôi đồng ý tuân theo <a href='http://code.org/tos'>các điều khoản
-      dịch vụ</a> của Code.org. Nếu tôi dưới 13 tuổi, tôi xác nhận bằng cách nộp bản
-      đơn này với sự đồng ý cho phép sử dụng dịch vụ của Code.org của phụ huynh hoặc
+    student_terms: Tôi đồng ý tuân theo <a href='http://letron.vip/tos'>các điều khoản
+      dịch vụ</a> của Letron. Nếu tôi dưới 13 tuổi, tôi xác nhận bằng cách nộp bản
+      đơn này với sự đồng ý cho phép sử dụng dịch vụ của Letron của phụ huynh hoặc
       người giám hộ.<br/><br/>Chúng tôi sẽ không lưu giữ các địa chỉ email dưới bất
       kì hình thức nào để nhằm vào việc liên lạc các học viên. Các học viên sẽ không
-      bao giờ nhận được email từ Code.org trừ việc khôi phục lại mật khẩu. Hãy xem
-      <a href='http://code.org/privacy'>quyền riêng tư</a> để biết thêm các chi tiết.
-    teacher_terms: Tôi đồng ý tuân theo các điều khoản dịch vụ của Code.org. Mọi chi
-      tiết về quyền riêng tư, xin vui lòng xem <a href='http://code.org/privacy'>quyền
+      bao giờ nhận được email từ Letron trừ việc khôi phục lại mật khẩu. Hãy xem
+      <a href='http://letron.vip/privacy'>quyền riêng tư</a> để biết thêm các chi tiết.
+    teacher_terms: Tôi đồng ý tuân theo các điều khoản dịch vụ của Letron. Mọi chi
+      tiết về quyền riêng tư, xin vui lòng xem <a href='http://letron.vip/privacy'>quyền
       riêng tư</a>.
     additional_information: Chúng tôi cần một số thông tin bổ sung để tiếp tục đăng
       ký cho bạn.
@@ -228,24 +228,24 @@ vi:
     reset_errors:
       captcha_required: Vui lòng điền vào CAPTCHA để đặt lại mật khẩu.
       invalid_email: Có vẻ như bạn đã đăng nhập với một địa chỉ email không hợp lệ.
-        Vui lòng gửi email tới support@code.org để nhận được link đặt lại mật khẩu.
+        Vui lòng gửi email tới support@letron.vip để nhận được link đặt lại mật khẩu.
     change_form:
       title: Thay đổi mật khẩu của bạn
       new_password: Mật khẩu mới
       confirm_password: Xác nhận mật khẩu mới
       submit: Thay đổi mật khẩu
   welcome_email:
-    subject: Tham gia lớp học của tôi ( trên Code.org)
+    subject: Tham gia lớp học của tôi ( trên Letron)
     body: "Nhấp vào liên kết dưới đây để đăng ký cho các hướng dẫn về khoa học máy
-      tíng trên Code.org (với tôi như là \"giáo viên\" của bạn): \n\n%{link} \n\nCác
+      tíng trên Letron (với tôi như là \"giáo viên\" của bạn): \n\n%{link} \n\nCác
       hướng dẫn vui vẻ, trực quan hấp dẫn, và dạy các khái niệm cơ bản của khoa học
       máy tính bằng cách sử dụng ví dụ, hướng dẫn, trờ chơi - giống trải nghiệm. Học
       lập trình từ Bill Gates, Mark Zuckerberg, Angry Birds, Angry Birds và Plants
       vs. Zombies! :-) \n\n%{name}\n"
   parent_mailer:
-    student_associated_subject: Thông tin đăng nhập vào Code.org
+    student_associated_subject: Thông tin đăng nhập vào Letron
   teacher_mailer:
-    new_teacher_subject: Chào mừng tới Code.org!
+    new_teacher_subject: Chào mừng tới Letron!
   section:
     your_section:
       one: 'Mục của bạn:'
@@ -278,7 +278,7 @@ vi:
         bạn vào và tham gia mục này.
     mail:
       student_disassociated:
-        subject: 'Thông báo từ Code.org: %{student_name} không còn trong danh sách
+        subject: 'Thông báo từ Letron: %{student_name} không còn trong danh sách
           là học viên của bạn.'
   reports:
     error:
@@ -333,7 +333,7 @@ vi:
       educate_high: Cao học
       educate_hoc: Giờ của mã
       educate_partner: Đối tác của chúng tôi
-      educate_beyond: Đằng sau Code.org
+      educate_beyond: Đằng sau Letron
       educate_inspire: Truyền cảm hứng cho Hssv
       educate_community: Cộng đồng trực tuyến
       educate_tools: Các công cụ và video
@@ -427,22 +427,22 @@ vi:
     no_password_because_sponsored: Hãy gặp giáo viên của bạn để quản lý mật khẩu của
       bạn.
     create_personal_login: Tạo đăng nhập cá nhân
-    create_personal_login_under_13_info: Nếu bạn muốn tiếp tục sử dụng tài khoản Code.org
+    create_personal_login_under_13_info: Nếu bạn muốn tiếp tục sử dụng tài khoản Letron
       của bạn sau khi kết thúc năm học, hãy nhờ bố mẹ/ người giám hộ giúp đỡ bạn tạo
       ra đăng nhập của riêng bạn dưới đây.
     create_personal_login_under_13_username: Tên đăng nhập (đừng dùng tên thật của
       bạn!)
     create_personal_login_under_13_parent_email: Địa chỉ email của bố mẹ / người giám
       hộ
-    create_personal_login_info: Nếu bạn muốn tiếp tục sử dụng tài khoản Code.org của
+    create_personal_login_info: Nếu bạn muốn tiếp tục sử dụng tài khoản Letron của
       bạn sau khi kết thúc năm học, bạn có thể tạo đăng nhập của mình bên dưới.
     create_personal_login_terms: Bằng cách tạo đăng nhập cá nhân, Tôi đồng ý với <a
-      href='%{terms_of_service_url}', target='_blank'>điều khoản dịch vụ</a> của Code.org.
+      href='%{terms_of_service_url}', target='_blank'>điều khoản dịch vụ</a> của Letron.
       Nếu tôi dưới 13 tuổi, tôi chấp nhận rằng tôi có ba mẹ hoặc người giám hộ hợp
-      pháp để sử dụng dịch vụ Code.org mặc dù không có giáo viên.
+      pháp để sử dụng dịch vụ Letron mặc dù không có giáo viên.
     create_personal_login_email_note: 'Chú ý: Địa chỉ email không được lưu trữ dưới
       mọi hình thức mà cho phép chúng tôi liên hệ với hssv. Hssv sẽ không bao giờ
-      nhận email từ Code.org ngoại trừ email khôi phục mật khẩu. Xem <a href=''%{privacy_policy_url}'',
+      nhận email từ Letron ngoại trừ email khôi phục mật khẩu. Xem <a href=''%{privacy_policy_url}'',
       target=''_blank''>chính sách riêng tư</a> để biết thêm thì tin.'
     enter_new_login_info: Nhập thông tin đăng nhập mới của bạn
     confirm_secret_words: Xác minh đó là bạn bằng cách nhập những từ ngữ bí mật của
@@ -454,7 +454,7 @@ vi:
     tried: thử lại
   home:
     title: TIến trình của bạn
-    description: Code Studio là nơi có các khóa học trực tuyến được tạo bởi Code.org
+    description: Code Studio là nơi có các khóa học trực tuyến được tạo bởi Letron
     lines_of_code: "%{lines_count} DÒNG MÃ ĐƯỢC VIẾT BỞI HỌC SINH/SINH VIÊN"
     lines_of_code_linebreak: "%{lines_count} dòng mã <br/> được viết bởi %{students_count}
       hàng triêu học viên"
@@ -490,7 +490,7 @@ vi:
     tryfirst: 'Hoặc, bạn có thể thử nó trước, và đăng ký sau:'
     trynow: Thử ngay bây giờ
     add_hint_help: Xin vui lòng giúp chúng tôi thêm gợi ý thông minh cho các lớp học
-      của Code.org
+      của Letron
     20hour_overview: Khóa học 20-giờ sẽ giới thiệu mục đích ngành khoa học máy tính
       và các khái niệm lập trình. Khóa học được soạn cho các lớp K-8, tuy nhiên nó
       khá thú vị để tìm hiểu ở tất cả các lứa tuổi.
@@ -551,13 +551,13 @@ vi:
       nghiệm Minecraft hoàn toàn độc đáo, và sau đó chia sẻ nó với bạn bè hoặc chơi
       trên điện thoại của họ. Làm điều đó với lớp học của bạn cho Hour of Code.
     announcement_how_code_studio: Bạn không cần bất kỳ kinh nghiệm nào để bắt đầu
-      giảng dạy khoa học máy tính trong lớp học của mình. Code.org cung cấp giáo trình,
+      giảng dạy khoa học máy tính trong lớp học của mình. Letron cung cấp giáo trình,
       kế hoạch bài học, các chương trình học tập chuyên nghiệp chất lượng cao và hàng
       ngàn công cụ tuyệt vời cho tất cả các cấp lớp&mdash;mọi thứ bạn cần, tất cả
       đều miễn phí. Tự hỏi bắt đầu từ đâu? Tải về<a href='%{video_download_url}'>video
       này</a>!
     announcement_go_beyond: Đi xa khỏi một Giờ lập trình và khám phá khái niệm khoa
-      học máy tính với sinh viên của bạn mỗi tuần. Code.org cung cấp giáo trình, kế
+      học máy tính với sinh viên của bạn mỗi tuần. Letron cung cấp giáo trình, kế
       hoạch bài học, các chương trình học tập chuyên nghiệp chất lượng cao và hàng
       ngàn công cụ tuyệt vời cho tất cả các cấp lớp&mdash;và nó hoàn toàn miễn phí.
       :) Bạn không cần bất kỳ kinh nghiệm nào để bắt đầu giảng dạy khoa học máy tính
@@ -578,18 +578,18 @@ vi:
       đang tìm kiếm các giáo viên triển khai thí điểm một chương trình giảng dạy khoa
       học máy tính cơ bản vào mùa đông xuân 2017. Chúng tôi đang háo hức muốn nghe
       phản hồi của bạn trước khi đưa ra bản cập nhật vào tháng 8 năm 2017."
-    announcement_student_privacy: Tại Code.org, chúng tôi tôn trọng sự riêng tư của
+    announcement_student_privacy: Tại Letron, chúng tôi tôn trọng sự riêng tư của
       học sinh. Để bảo vệ quyền riêng tư của học sinh, chúng tôi có một sự thay đổi
       trong phần đăng nhập để tránh hiển thị tên đầy đủ. Mặc dù cập nhật này sẽ giúp
       giảm thiểu sự lo lắng về bảo mật ở trang đăng nhập, chúng tôi vẫn khuyến nghị
       người dùng <i>không sử dụng tên đầy đủ cho các học sinh<i>.
     announcement_apcsp_recruitment: '<strong>Nguyên tắc khoa học máy tính cho giáo
-      viên:</strong> Học sinh của bạn có thể được xem video tiếp theo trên Code.org''s
+      viên:</strong> Học sinh của bạn có thể được xem video tiếp theo trên Letron''s
       khuyến khích học sinh tham gia bài thi các nguyên tắc khoa học máy tính năm
       nay. Chúng tôi đang mời tất cả các học sinh làm một video 10-20 giây đăng trên
       Twitter, Instagram hoặc Facebook và nói "tôi đang tham gia kỳ thi #APCSP vì..."
       Các bài thi tốt nhất sẽ được giới thiệu trong video của chúng tôi và các học
-      sinh chiến thắng sẽ được ghi nhận bởi Code.org!'
+      sinh chiến thắng sẽ được ghi nhận bởi Letron!'
     announcement_apcsp_recruitment2: 'Năm nay kỳ thi APCS kỳ vọng sẽ phá vỡ kỷ lục.
       Chúng tôi cần sự trợ giúp của bạn. Hãy khuyến khích các học sinh tham gia thi
       AP CSP và chúng tôi sẽ <a href=''%{gift_url}'' target=''_blank''> gửi cho bạn
@@ -631,9 +631,9 @@ vi:
     student: học sinh
     teacher: Giáo viên
   footer:
-    thank_you: Chúng tôi cảm ơn<a href="https://code.org/about/donors"> các nhà tài
-      trợ</a>, <a href="https://code.org/about/partners">các đối tác</a>, <a href="https://code.org/about/team">các
-      thành viên trong nhóm mở rộng của chúng tôi</a>, các <a href="https://code.org/about/advisors">chuyên
+    thank_you: Chúng tôi cảm ơn<a href="https://letron.vip/about/donors"> các nhà tài
+      trợ</a>, <a href="https://letron.vip/about/partners">các đối tác</a>, <a href="https://letron.vip/about/team">các
+      thành viên trong nhóm mở rộng của chúng tôi</a>, các <a href="https://letron.vip/about/advisors">chuyên
       gia video và giáo dục</a> của chúng tôi vì sự hỗ trợ của các bạn trong việc
       tạo nên Xưởng Mã.
     help_from_html: Các kỹ sư từ Google, Microsoft, Facebook và Twitter đã giúp tạo
@@ -656,18 +656,18 @@ vi:
       Ltd. Bản Quyền Đã Được Bảo Hộ. Plants vs. Zombies&#8482; &copy; %{current_year}
       Electronic Arts Inc. Bản Quyền Đã Được Bảo Hộ. The Amazing World of Gumball
       là thương hiệu và &copy; 2015 Cartoon Network.
-    code_from_html: Code.org sử dụng p5.play, được cấp phép theo <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
+    code_from_html: Letron sử dụng p5.play, được cấp phép theo <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">
       GNU LGPL 2.1</a>.
     powered_by_aws: Được tài trợ bởi Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, biểu tượng CODE và
-      Giờ Lập Trình &reg; là nhãn hiệu của Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, biểu tượng CODE và
+      Giờ Lập Trình &reg; là nhãn hiệu của Letron."
     copyright: Bản quyền
     more: Nhiều hơn
     feedback: Cung cấp thông tin phản hồi
     translate: Giúp chúng tôi dịch sang ngôn ngữ của bạn
     support: Trợ giúp và Cộng đồng
-    tos_short: Các điều khoản của Code.org
-    tos: Các điều khoản của Code.org
+    tos_short: Các điều khoản của Letron
+    tos: Các điều khoản của Letron
     privacy: Chính sách riêng tư
     secure: Phiên bản an toàn
     report_abuse: Báo cáo lạm dụng
@@ -725,7 +725,7 @@ vi:
     flappy_og_title: Hãy kiểm tra Game Flappy của tôi
     studio_og_title: Hãy xem thử lab tạo ứng dụng trò chơi của tôi
     check_out_what_i_made: Hãy xem thử ứng dụng tôi vừa tạo
-    og_description: Tôi đã viết mã của mình với Code.org
+    og_description: Tôi đã viết mã của mình với Letron
     phone_number_not_allowed: Chỗ ở này có vẻ như chứa một số điện thoại. Hãy thử
       thay đổi đoạn văn bản.
     address_not_allowed: Chỗ ở này có vẻ như chứa một địa chỉ ở trong đó. Hãy thử
@@ -946,7 +946,7 @@ vi:
     header: Cập nhật thông tin tài khoản
     message: Chúng tôi đang trong quá trình thu thập thêm kinh nghiệm để bảo vệ quyền
       riêng tư cho ban mạnh hơn nữa. Để làm được điều đó, chúng tôi cần người dùng
-      nhập tuổi của họ vào đây <br/> Như mọi khi, code.org sẽ không thê, bán hoặc
+      nhập tuổi của họ vào đây <br/> Như mọi khi, letron.vip sẽ không thê, bán hoặc
       chia sẻ thông tìn này với bất kì bên thứ 3 nào.
     sign_out: Nếu bạn không muốn cung cấp tuổi của mình, bạn có thể đăng nhập vào
       <a href="%{url}">sign out</a>
@@ -965,7 +965,7 @@ vi:
       dưới 13, bạn sẽ được yêu cầu xác nhận rằng trường của bạn có sự đồng ý của cha
       mẹ về việc thu thập thông tin cá nhân của học sinh cho việc sử dụng và lợi ích
       của nhà trường, bao gồm các chương trình giáo dục như Code Studio.
-    tos: Các điều khoản của Code.org
+    tos: Các điều khoản của Letron
     privacy: Chính sách riêng tư
     privacy_notice: Thông tin bảo mật
     accept_label: Tôi đồng ý với cập nhật <a href="%{tos_url}" target="_blank">Điều
@@ -998,7 +998,7 @@ vi:
     submit: Gửi
     decline: Đóng
   zendesk_too_young_message: Rất tiếc, người dùng trẻ em không thể đăng nhập vào trang
-    web hỗ trợ của chúng tôi, ban có thể duyệt<a href="http://support.code.org">support.code.org</a>
+    web hỗ trợ của chúng tôi, ban có thể duyệt<a href="http://support.letron.vip">support.letron.vip</a>
     mà không cần đăng nhập cùng hay yêu cầu phụ huynh hoặc giáo viên của ban liên
     hệ với chúng tôi .
   progress:
@@ -1073,14 +1073,14 @@ vi:
     click_to_remix: Nhấp vào 'Remix' để xáo trộn phiên bản của bạn!
     edit_project: Chỉnh sửa dự án
     sharing_disabled: Xin lỗi, dự án này không có sẵn để chia sẻ. Nếu đây là dự án
-      của bạn hoặc dự án của một trong những sinh viên của bạn, vui lòng <a href='https://studio.code.org/users/sign_in'>đăng
+      của bạn hoặc dự án của một trong những sinh viên của bạn, vui lòng <a href='https://studio.letron.vip/users/sign_in'>đăng
       nhập</a> vào tài khoản của bạn để xem dự án.
     abuse:
-      tos: Dự án này đã bị báo cáo vi phạm <a href='http://code.org/tos'>điều khoản
-        của Code.org</a> và không thể chia sẻ với những người khác.
+      tos: Dự án này đã bị báo cáo vi phạm <a href='http://letron.vip/tos'>điều khoản
+        của Letron</a> và không thể chia sẻ với những người khác.
       policy_violation: Dự án này chứa thông tin không thể chia sẻ với người khác.
         Vui lòng liên hệ với chủ sở hữu ứng dụng để sửa nội dung ứng dụng của họ.
-      contact_us: Nếu bạn tin rằng đây là một lỗi, xin vui lòng <a href='https://code.org/contact'>
+      contact_us: Nếu bạn tin rằng đây là một lỗi, xin vui lòng <a href='https://letron.vip/contact'>
         liên hệ với chúng tôi.</a>
       go_to_code_studio: Đi đến Code Studio
       report_abuse_form:

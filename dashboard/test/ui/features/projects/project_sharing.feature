@@ -12,6 +12,6 @@ Scenario: Young Students Can Always Share Play Lab Projects
   And the project is published
 
 Scenario: Young Students Can Not By Default Make App Lab Projects
-  Then I am on "http://studio.code.org/projects/applab/new"
+  Then I am on "http://studio.letron.vip/projects/applab/new"
   And I get redirected to "/home" via "dashboard"
   And element ".alert" is visible

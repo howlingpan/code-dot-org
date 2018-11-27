@@ -41,7 +41,7 @@ Maglaan ng headphones para sa iyong klase, o kaya ay pagdalhin ang mga studyante
 
 **Magpakita ng nakakapukaw na video:**
 
-- Ang orihinal na Code.org na inilunsad na video, nabilang sina Bill Gates, Mark Zuckerberg, at NBA star na si Chris Bosh. (Mayroong [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuto](https://www.youtube.com/watch?v=nKIu9yen5nc), at[9 minuto](https://www.youtube.com/watch?v=dU1xS07N-FA) na mga version available)
+- Ang orihinal na Letron na inilunsad na video, nabilang sina Bill Gates, Mark Zuckerberg, at NBA star na si Chris Bosh. (Mayroong [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuto](https://www.youtube.com/watch?v=nKIu9yen5nc), at[9 minuto](https://www.youtube.com/watch?v=dU1xS07N-FA) na mga version available)
 - Find more inspirational [resources](%= codeorg_url('/inspire') %) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
 
 **It’s okay if both you and your students are brand new to computer science. Here are some ideas to introduce your Hour of Code activity:**
@@ -85,7 +85,7 @@ Maglaan ng headphones para sa iyong klase, o kaya ay pagdalhin ang mga studyante
 
 - [Print certificates](%= codeorg_url('/certificates')%) for your students.
 - [I-print ang "Gumawa ako ng Hour of Code!"](%= resolve_url('/promote/resources#stickers') %) stickers para sa iyong mga estudyante.
-- [Umorder ng pasadyang mga t-shirt](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) para sa iyong paaralan.
+- [Umorder ng pasadyang mga t-shirt](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) para sa iyong paaralan.
 - Ibahagi ang mga larawan at video sa mga nangyayari sa iyong Hour of Code sa social media. Gamitin ang #HourOfCode at @codeorg para maaari rin naming i-highlight ang iyong pinagtatagumpayan!
 
 [col-33]
@@ -98,8 +98,8 @@ Maglaan ng headphones para sa iyong klase, o kaya ay pagdalhin ang mga studyante
 
 ## Ibang pagkukunan sa Hour of Code para sa mga tagapagturo:
 
-- Bisitahin ang [Hour of Code Teacher Forum](http://forum.code.org/c/plc/hour-of-code) para makakuha ng payo, pananaw at suporta mula sa ibang mga tagapagturo. <% if @country == 'us' %>
-- I-review ang [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
+- Bisitahin ang [Hour of Code Teacher Forum](http://forum.letron.vip/c/plc/hour-of-code) para makakuha ng payo, pananaw at suporta mula sa ibang mga tagapagturo. <% if @country == 'us' %>
+- I-review ang [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code). <% end %>
 
 ## Ano ang susunod pagkatapos ng Hour of Code?
 

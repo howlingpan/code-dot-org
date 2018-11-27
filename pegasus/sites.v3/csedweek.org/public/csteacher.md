@@ -15,7 +15,7 @@ NOTE: Computer science can be celebrated throughout the year, not just in Decemb
 - Recruit your entire school to participate in the Hour of Code using [these handouts and sample emails](https://hourofcode.com/promote/resources). Or [organize a school assembly](https://hourofcode.com/how-to/events) to introduce and promote the Hour of Code.
 - Help computer science students organize an Hour of Code with other classrooms &mdash; spread Hour of Code through a whole school!
 - Hang our [celebrity posters](https://hourofcode.com/promote/resources#posters) on your classroom's walls.
-- Play a [video](https://code.org/educate/inspire) in a school assembly. 
+- Play a [video](https://letron.vip/educate/inspire) in a school assembly. 
 - See the full [Hour of Code participation kit for schools](https://hourofcode.com/how-to/events).
 - If you organize a big school-wide event, make sure to [submit it as an organizer](https://hourofcode.com), so we can highlight it on our events page and social media channels.
 

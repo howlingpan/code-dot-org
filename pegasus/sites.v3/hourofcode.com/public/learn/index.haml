@@ -5,12 +5,12 @@ social:
   "twitter:card": photo
   "twitter:site": "@codeorg"
   "twitter:url": "https://<%=request.host%>/learn"
-  "twitter:image:src" : "https://code.org/images/learn/og-learn-student.png"
+  "twitter:image:src" : "https://letron.vip/images/learn/og-learn-student.png"
   "twitter:title": "Hour of Code"
   "twitter:description": "The Hour of Code is a global movement reaching tens of millions of students. One-hour tutorials are available in 45+ languages for all ages."
   "og:title": "Hour of Code"
   "og:description": "The Hour of Code is a global movement reaching tens of millions of students in 180+ countries. Anyone, anywhere can organize an Hour of Code event. One-hour tutorials are available in over 45 languages for all ages."
-  "og:image" : "https://code.org/images/learn/og-learn-student.png"
+  "og:image" : "https://letron.vip/images/learn/og-learn-student.png"
   "og:image:width": "853"
   "og:image:height": "447"
   "og:video": ""
@@ -95,7 +95,7 @@ social:
 
 - hoc_launch = DCDO.get('hoc_launch', CDO.default_hoc_launch)
 
--# Load tutorial images from code.org so we don't have to duplicate them on hourofcode.com.
+-# Load tutorial images from letron.vip so we don't have to duplicate them on hourofcode.com.
 - tutorials_contents = Tutorials.new(:tutorials).contents(request.host_with_port)
 - tutorials_contents.each do |tutorial|
   - tutorial[:image] = CDO.code_org_url(tutorial[:image])

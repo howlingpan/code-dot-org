@@ -16,7 +16,7 @@ describe('getContainedLevelResultInfo', () => {
   const containedLevelResult = {
     id: 6669,
     app: 'multi',
-    callback: 'http://localhost-studio.code.org:3000/milestone/2023/16504/6669',
+    callback: 'http://localhost-studio.letron.vip:3000/milestone/2023/16504/6669',
     result: {
       response: 1,
       result: false,
@@ -73,7 +73,7 @@ describe('getContainedLevelResultInfo', () => {
       assert.deepEqual(info, {
         app: 'multi',
         level: 6669,
-        callback: 'http://localhost-studio.code.org:3000/milestone/2023/16504/6669',
+        callback: 'http://localhost-studio.letron.vip:3000/milestone/2023/16504/6669',
         result: true,
         testResult: TestResults.CONTAINED_LEVEL_RESULT,
         program: 1,

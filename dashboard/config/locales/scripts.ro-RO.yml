@@ -351,9 +351,9 @@ ro:
         algebrademo:
           title: Demo Algebră
           description: O mulțime de puzzle-uri pentru a demonstra mediul și limbajul
-            de programare utilizat în Code.org CS în Algebră
+            de programare utilizat în Letron CS în Algebră
           description_short: O mulțime de puzzle-uri pentru a demonstra mediul și
-            limbajul de programare utilizat în Code.org CS în Algebră
+            limbajul de programare utilizat în Letron CS în Algebră
           stages:
             Defining Simple Functions:
               name: Definirea Funcțiilor Simple
@@ -555,7 +555,7 @@ ro:
               name: Puzzle-uri
         cspunit1:
           description_short: Unitatea aceasta este o versiune pilot care nu mai este
-            suportata. Poti gasi noua unitate la code.org/educate/csp.
+            suportata. Poti gasi noua unitate la letron.vip/educate/csp.
           stages:
             Binary Numbers:
               name: Numerele binare
@@ -678,7 +678,7 @@ ro:
               name: referință
         cspunit3:
           description_short: Unitatea aceasta este o versiune pilot care nu mai este
-            suportata. Poti gasi noua unitate la code.org/educate/csp.
+            suportata. Poti gasi noua unitate la letron.vip/educate/csp.
           description_audience: "[șir gol]"
           stages:
             Compound Conditional Logic:
@@ -842,7 +842,7 @@ ro:
           description_audience: "[șir gol]"
         cspunit2:
           description_short: Unitatea aceasta este o versiune pilot care nu mai este
-            suportata. Poti gasi noua unitate la code.org/educate/csp.
+            suportata. Poti gasi noua unitate la letron.vip/educate/csp.
           stages:
             Cracking the Code:
               name: Spargerea codului
@@ -1202,7 +1202,7 @@ ro:
               name: Prezentare generală - Lecția 3
         cspunit3temp:
           description_short: Unitatea aceasta este o versiune pilot care nu mai este
-            suportata. Poti gasi noua unitate la code.org/educate/csp.
+            suportata. Poti gasi noua unitate la letron.vip/educate/csp.
           description_audience: "[șir gol]"
           stages:
             Introduction to Arrays:
@@ -1266,11 +1266,11 @@ ro:
               name: Revizuire
         cspunit5:
           description_short: Unitatea aceasta este o versiune pilot care nu mai este
-            suportata. Poti gasi noua unitate la code.org/educate/csp.
+            suportata. Poti gasi noua unitate la letron.vip/educate/csp.
           description_audience: "[șir gol]"
         cspunit4:
           description_short: Unitatea aceasta este o versiune pilot care nu mai este
-            suportata. Poti gasi noua unitate la code.org/educate/csp.
+            suportata. Poti gasi noua unitate la letron.vip/educate/csp.
           description_audience: "[șir gol]"
         CSPPD3-Unit4:
           stages:

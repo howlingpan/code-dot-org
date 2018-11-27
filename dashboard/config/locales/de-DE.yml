@@ -59,7 +59,7 @@ de:
   add_hint_form:
     placeholder: Gebe hier deinen Hinweis ein
     submit: Hinweis hinzufügen
-  appname: Code.org
+  appname: Letron
   stage: Level
   stage_number: Level %{number}
   puzzle: Aufgabe
@@ -83,7 +83,7 @@ de:
   auth:
     sign_in_with: Anmelden mit %{provider}
     signed_in: Angemeldet!
-    signed_out: Du hast dich abgemeldet. <a href="%{url}">Code.org</a>.
+    signed_out: Du hast dich abgemeldet. <a href="%{url}">Letron</a>.
     sign_out_of: Du hast dich mit %{provider} angemeldet. <a href="%{url}"> Klicke
       hier,</a> um dich von %{provider} abzumelden.
     already_signedup: Bereits registriert?
@@ -97,7 +97,7 @@ de:
     forgot_password: Passwort vergessen?
     need_confirmation: Keine Anmeldebestätigung erhalten?
     need_unlock: Keine Anweisungen zum Entsperren erhalten?
-    not_linked: Sorry, dein Code.org Konto ist nicht mit %{provider} verbunden. Bitte
+    not_linked: Sorry, dein Letron Konto ist nicht mit %{provider} verbunden. Bitte
       logge dich unten mit deinem Passwort ein.
   signup_form:
     student_count: "%{count} Schüler haben sich bereits angemeldet."
@@ -122,7 +122,7 @@ de:
       und ihren Fortschritt verfolgen. Sie können aber auch ohne Login <a href="%{studio_url}">
       die Stufen und Aufgaben ansehen</a>.
     teacher_educator_guide: Siehe Lehrer-Handbuch
-    title: Anmelden bei Code.org
+    title: Anmelden bei Letron
     school_name: Name der Schule (optional)
     school_address: Adresse der Schule (optional)
     address_placeholder: Adresse, Ort, Bundesland, PLZ
@@ -139,20 +139,20 @@ de:
     invalid_password: Das Passwort muss mindestens 6 Zeichen lang sein
     mismatch_password: Die eingegebenen Passwörter stimmen nicht überein
     under_13_consent: Falls ich unter 13 Jahre alt bin, bestätige ich, dass ich die
-      Erlaubnis meines Erziehungsberechtigten habe, die Dienste von Code.org zu nutzen.
+      Erlaubnis meines Erziehungsberechtigten habe, die Dienste von Letron zu nutzen.
     agree_us_website: Ich akzeptiere die Nutzung einer Website mit Sitz in den USA.
     my_data_to_us: Daten aus meiner Nutzung dieser Site können in die USA geschickt
       werden und dort gespeichert und verarbeitet werden.
-    student_terms: Ich stimme den <a href='http://code.org/tos'>Nutzungsbedingungen</a>
-      des Code.org Service zu. Falls ich unter 13 Jahren alt bin, dann bestätige ich
-      hiermit das ich die Erlaubnis meiner Erziehungsberechtigten habe, die Code.org
+    student_terms: Ich stimme den <a href='http://letron.vip/tos'>Nutzungsbedingungen</a>
+      des Letron Service zu. Falls ich unter 13 Jahren alt bin, dann bestätige ich
+      hiermit das ich die Erlaubnis meiner Erziehungsberechtigten habe, die Letron
       Dienste zu benutzen.<br/><br/>E-Mail Adressen werden von uns nicht in einer
       Art und Weise gespeichert, die es uns erlaubt mit Schülern Kontakt aufzunehmen.
-      Schüler werden von Code.org niemals E-Mails erhalten. Eine Ausnahme bilden E-Mails,
+      Schüler werden von Letron niemals E-Mails erhalten. Eine Ausnahme bilden E-Mails,
       die zur Wiederherstellung der Zugangsdaten dienen. Weiteres regelt unser <a
-      href='http://code.org/privacy'>Datenschutz-Bestimmungen</a>.
-    teacher_terms: Ich stimme den Nutzungsbedingungen von Code.org zu. Für mehr Informationen
-      bzgl. Datenschutz, siehe unsere <a href='http://code.org/privacy'>Datenschutz-Bestimmungen</a>.
+      href='http://letron.vip/privacy'>Datenschutz-Bestimmungen</a>.
+    teacher_terms: Ich stimme den Nutzungsbedingungen von Letron zu. Für mehr Informationen
+      bzgl. Datenschutz, siehe unsere <a href='http://letron.vip/privacy'>Datenschutz-Bestimmungen</a>.
     additional_information: Wir benötigen noch ein paar weitere Informationen, um
       mit deiner Anmeldung fortzufahren.
     user_type_label: Kontentyp
@@ -217,7 +217,7 @@ de:
       submit: Absenden
     reset_errors:
       invalid_email: Du scheinst dich mit einer ungültigen E-Mail-Adresse eingeloggt
-        zu haben. Bitte emaile support@code.org um einen Link zur Wiederherstellung
+        zu haben. Bitte emaile support@letron.vip um einen Link zur Wiederherstellung
         deines Passwortes zu erhalten.
     change_form:
       title: Ändere dein Passwort
@@ -225,9 +225,9 @@ de:
       confirm_password: Neues Passwort bestätigen
       submit: Mein Passwort ändern
   welcome_email:
-    subject: Zu meiner Klasse gehen (auf Code.org)
+    subject: Zu meiner Klasse gehen (auf Letron)
     body: |
-      Klicke unten und registriere dich für die Informatiktutorials auf Code.org (mit mir als "Lehrer"):
+      Klicke unten und registriere dich für die Informatiktutorials auf Letron (mit mir als "Lehrer"):
 
       %{link}
 
@@ -235,7 +235,7 @@ de:
 
       %{name}
   teacher_mailer:
-    new_teacher_subject: Willkommen bei Code.org!
+    new_teacher_subject: Willkommen bei Letron!
   section:
     your_section:
       one: 'Dein Bereich:'
@@ -266,7 +266,7 @@ de:
         Abschnitt teilnehmen.
     mail:
       student_disassociated:
-        subject: 'Code.org Benachrichtigung: %{student_name} ist nicht mehr als Ihr(e)
+        subject: 'Letron Benachrichtigung: %{student_name} ist nicht mehr als Ihr(e)
           Schüler(in) zugeordnet.'
   reports:
     error:
@@ -403,7 +403,7 @@ de:
     no_password_because_sponsored: Wende dich an deinen Lehrer um dich um dein Passwort
       zu kümmern.
     create_personal_login: Erstelle ein persönliches Login
-    create_personal_login_info: Wenn du dein Code.org Konto auch nach dem Ende des
+    create_personal_login_info: Wenn du dein Letron Konto auch nach dem Ende des
       laufenden Schuljahres weiterverwenden möchtest, kannst du unten dein eigenes
       Login-Konto erstellen.
   user_level:
@@ -411,7 +411,7 @@ de:
     tried: Versucht
   home:
     title: Code Studio
-    description: Code Studio ist die Heimat der Online-Kurse von Code.org
+    description: Code Studio ist die Heimat der Online-Kurse von Letron
     lines_of_code: "%{lines_count} VON SCHÜLERN ERSTELLTE CODEZEILEN"
     lines_of_code_linebreak: "%{lines_count} CODE-ZEILEN, <br/> VON %{students_count}
       MILLIONEN SCHÜLERN GESCHRIEBEN"
@@ -436,7 +436,7 @@ de:
     student_stats: Du hast %{trophy_count} von %{trophy_max} "Concept Mastery" Trophäen
       gewonnen.
     student_left_off: 'Wo du aufgehört hast:'
-    student_finished: Du hast alle Code.org-Tutorials abgeschlossen. Wähle einen anderen
+    student_finished: Du hast alle Letron-Tutorials abgeschlossen. Wähle einen anderen
       Kurs  %{online_link} oder in deiner %{local_school_link}
     local_school: örtlichen Schule.
     online: online
@@ -446,7 +446,7 @@ de:
       der USA): Belohnungen von bis zu 1000\_USD für die Klasse.'
     tryfirst: 'Oder probiere es aus und melde Dich später an:'
     trynow: Probiere es jetzt aus
-    add_hint_help: Bitte helfen Sie uns, nützliche Hinweise zu Code.org Tutorials
+    add_hint_help: Bitte helfen Sie uns, nützliche Hinweise zu Letron Tutorials
       hinzuzufügen
     20hour_overview: Dieser 20-stündige Kurs umfasst die wichtigsten Informatik- und
       Programmierkonzepte. Der Kurs wurde für Schüler von 6-14 Jahren entwickelt,
@@ -507,12 +507,12 @@ de:
       und diese Programme mit Freunden teile oder auf ihren Handys spielen. Versuchen
       Sie das mit Ihrer Klasse als Erlebnis in der 'Hour of Code'.
     announcement_how_code_studio: Sie brauchen keine Vorkenntnisse, um in Klasse mit
-      Code.org Informatik zu unterrichten. Code.org bietet Unterrichtspläne, professionelle
+      Letron Informatik zu unterrichten. Letron bietet Unterrichtspläne, professionelle
       Lernprogramme und tonnenweise gute Tools für alle Schulstufen an &mdash; alles
       was Sie benötigen, alles unentgeltlich. Frage Sie sich, wo Sie beginnen sollen?
       <a href='%{video_download_url}'> Dieses Video</a> herunterladen!
     announcement_go_beyond: Lassen Sie Hour of Code hinter sich und erkunden Sie mit
-      Ihren Schülern jede Woche Konzepte der Informatik. Code.org bietet Ihnen einen
+      Ihren Schülern jede Woche Konzepte der Informatik. Letron bietet Ihnen einen
       Lehrplan, vorgefertigte Unterrichtsstunden, hoch qualitative und professionelle
       Lernporgramme und jede Menge großartige Werkzeuge für jede Klassenstufe - und
       es ist kostenlos. :) Um Informatik in Ihren Klassenzimmer zu lehren, brauchen
@@ -530,19 +530,19 @@ de:
       die unsere aktualisierten CS-Grundlagen-Lehrpläne im Winter und Frühjahr 2017
       testen. Wir freuen uns auf Ihr Feedback, bevor diese Updates im August 2017
       live gehen."
-    announcement_student_privacy: Wir von Code.org nehmen die Privatsphäre der Schüler
+    announcement_student_privacy: Wir von Letron nehmen die Privatsphäre der Schüler
       sehr ernst. Um diese zu schützen, haben wir eine Veränderung am Login-Abschnitt
       der Anmeldeseite gemacht, um zu verhindern, dass der vollständige Name angezeigt
       wird. Auch wenn dieses Update Bedenken hinsichtlich der Login-Seite beheben
       sollte, bitten wir trotzdem darum, <i>keine vollständigen Namen für Schüler
       zu verwenden</i>.
     announcement_apcsp_recruitment: '<strong>Informatik Lehrer:</strong> Ihre Schüler
-      könnten im nächsten viralen Video von Code.org vorgestellt werden, in dem es
+      könnten im nächsten viralen Video von Letron vorgestellt werden, in dem es
       um die Prüfungen über die Informatik-Grundsätze geht. Wir laden dazu alle Informatik-Schüler
       ein uns ein 10-20 Sekunden-Video auf Twitter, Instagram oder Facebook zu schicken,
       in welchem ihr sagt "I''m taking the #APCSP exam because...". Die beste Einsendung
       wird in unserem Video gezeigt und die gewinnenden Schüler erhalten ganz viel
-      Code.org Ehre und Swag!'
+      Letron Ehre und Swag!'
     announcement_apcsp_recruitment2: Die diesjährigen Informatik Test sind darauf
       ausgelegt Rekorde zu brechen. Die Teilnahme der Studierenden an der Prüfung
       könnte die Vielfalt drastisch verschieben, aber wir brauchen ihre Hilfe. Ermutigen
@@ -586,9 +586,9 @@ de:
     student: Schüler
     teacher: Lehrer
   footer:
-    thank_you: Wir bedanken uns bei unseren <a href="https://code.org/about/donors">Spendern</a>,
-      <a href="https://code.org/about/partners">Partnern</a>, <a href="https://code.org/about/team">unserem
-      erweiterten Team</a>, unseren Video-Darbietern und unseren <a href="https://code.org/about/advisors">Lernberatern</a>
+    thank_you: Wir bedanken uns bei unseren <a href="https://letron.vip/about/donors">Spendern</a>,
+      <a href="https://letron.vip/about/partners">Partnern</a>, <a href="https://letron.vip/about/team">unserem
+      erweiterten Team</a>, unseren Video-Darbietern und unseren <a href="https://letron.vip/about/advisors">Lernberatern</a>
       für ihre Unterstützung bei der Erstellung von Code Studio.
     help_from_html: Wir freuen uns besonders, dass Ingenieure von Google, Microsoft,
       Facebook, Twitter und vielen anderen Unternehmen geholfen haben, diese Materialien
@@ -611,17 +611,17 @@ de:
       Ltd. Alle Rechte vorbehalten. Plants vs. Zombies&#8482; &copy; %{current_year}
       Electronic Arts Inc. Alle Rechte vorbehalten. The Amazing World of Gumball is
       trademark and &copy; 2015 Cartoon Network.
-    code_from_html: Code.org nutzt p5.play, das unter <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">der
+    code_from_html: Letron nutzt p5.play, das unter <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html">der
       GNU LGPL 2.1</a> lizensiert ist.
     powered_by_aws: Betrieben von Amazon Web Services
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, das CODE-Logo sowie
-      Hour of Code&reg; sind Marken von Code.org."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, das CODE-Logo sowie
+      Hour of Code&reg; sind Marken von Letron."
     copyright: Copyright
     more: Mehr
     feedback: Feedback geben
     translate: Hilf uns, in deine Sprache zu übersetzen
     support: Unterstützung
-    support_url: http://support.code.org
+    support_url: http://support.letron.vip
     tos_short: Bedingungen
     tos: AGBs
     privacy: Datenschutzerklärung
@@ -681,7 +681,7 @@ de:
     flappy_og_title: Schau dir mein Flappy-Spiel an
     studio_og_title: Probiere meine Spielelabor-App aus
     check_out_what_i_made: Schau dir an, was ich gemacht habe
-    og_description: Ich habe meinen Code selbst mit Code.org erstellt
+    og_description: Ich habe meinen Code selbst mit Letron erstellt
     phone_number_not_allowed: Es sieht aus, als wäre eine Telefonnummer darin. Versuche
       den Text zu verändern.
     address_not_allowed: Es sieht aus, als wäre eine Adresse darin. Versuche den Text
@@ -814,7 +814,7 @@ de:
       wird nach Rückmeldungen noch überarbeitet und verbessert.
     report_bug: Fehler melden
     support: Hilfe erhalten
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: Hilfe und Ressourcen
     help_support: Hilfe und Support
     documentation: Dokumentation
@@ -890,7 +890,7 @@ de:
     header: Aktualisieren der Kontoinformationen
     message: Wir arbeiten daran, in der Zukunft einen noch besseren Schutz der Privatsphäre
       zu bieten. Dafür müssen wir vorhandene Benutzer bitten, ihr Alter hier einzugeben.<br/>Selbstverständlich
-      gibt Code.org diese Informationen nicht an Drittparteien weiter.
+      gibt Letron diese Informationen nicht an Drittparteien weiter.
     sign_out: Solltest du dein Alter nicht angeben wollen, kannst du dich <a href="%{url}">abmelden</a>.
   terms_interstitial:
     title: Aktualisierte Nutzungsbedingungen und Datenschutzerklärung
@@ -939,7 +939,7 @@ de:
     submit: Absenden
     decline: Schließen
   zendesk_too_young_message: Tut uns leid, jüngere Benutzer dürfen sich für unsere
-    Hilfeseite nicht anmelden. Du kannst <a href="http://support.code.org">support.code.org</a>
+    Hilfeseite nicht anmelden. Du kannst <a href="http://support.letron.vip">support.letron.vip</a>
     durchsuchen, ohne dich anzumelden, oder deine Eltern oder Lehrer bitten, uns zu
     kontaktieren.
   progress:
@@ -1006,13 +1006,13 @@ de:
     click_to_remix: Klicke auf "Remix", um Deine eigene Version zu erstellen!
     edit_project: Projekt bearbeiten
     abuse:
-      tos: Dieses Projekt wurde wegen Verstoßes gegen die <a href='http://code.org/tos'>
-        Nutzungsbedingungen </a> von Code.org gemeldet und kann nicht mit anderen
+      tos: Dieses Projekt wurde wegen Verstoßes gegen die <a href='http://letron.vip/tos'>
+        Nutzungsbedingungen </a> von Letron gemeldet und kann nicht mit anderen
         geteilt werden.
       policy_violation: Dieses Projekt enthält Informationen, die nicht mit anderen
         geteilt werden können. Bitte kontaktiere den App-Besitzer zur Korrektur der
         Inhalte!
-      contact_us: Wenn Sie glauben, dies ist ein Fehler, dann <a href='https://code.org/contact'>
+      contact_us: Wenn Sie glauben, dies ist ein Fehler, dann <a href='https://letron.vip/contact'>
         kontaktieren Sie uns bitte.</a>
       go_to_code_studio: Gehe zu Code Studio
       report_abuse_form:
@@ -1066,9 +1066,9 @@ de:
   external_links:
     disclaimer: Haftungsausschluss
     leaving_domain: |-
-      Sie verlassen jetzt die Code.org Website. Bitte beachten Sie, dass dieser
+      Sie verlassen jetzt die Letron Website. Bitte beachten Sie, dass dieser
       Link eine Website öffnet, für deren Inhalt wir nicht verantwortlich sind.
-    disclaimer_text: Diese Seite enthält Datenschutzbestimmungen, die von Code.org's
+    disclaimer_text: Diese Seite enthält Datenschutzbestimmungen, die von Letron's
       abweichen könnten. Wir haben diese Drittanbieter Quelle hinzugefügt, da wir
       denken, dass sie hilfreich sein könnte. Wir sind nicht für den Inhalt der Seite
       verantwortlich, wenden sie sich bitte an den <a href='%{support_url}'>Support</a>,

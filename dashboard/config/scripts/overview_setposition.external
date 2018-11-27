@@ -4,7 +4,7 @@ markdown <<MARKDOWN
 
 The `setPosition` command lets you move UI elements to an arbitrary position on the screen.
 
-<img src="https://images.code.org/ee55080bb341528ca7e8ebc79f9f978b-image-1490369263385.27.12 AM.png" style="display: block; margin: auto">
+<img src="https://images.letron.vip/ee55080bb341528ca7e8ebc79f9f978b-image-1490369263385.27.12 AM.png" style="display: block; margin: auto">
 
 You (perhaps obviously) need to plug actual numbers into these parameters of `setPosition` for it to have any effect.  The numbers for setPosition **x and y coordinates of the screen**.
 
@@ -16,8 +16,8 @@ You (perhaps obviously) need to plug actual numbers into these parameters of `se
 * You can **hover over the screen** to see the x,y coordinate of any point.
 
 <div style="width: 100%; text-align: center">
-<img src="https://images.code.org/8b346602d75f2877c64e1793b6a04302-image-1476889124747.png">
+<img src="https://images.letron.vip/8b346602d75f2877c64e1793b6a04302-image-1476889124747.png">
 
-<img src="https://images.code.org/fc7e830fa2ea994b885c76618b484dfa-image-1476889137756.gif">
+<img src="https://images.letron.vip/fc7e830fa2ea994b885c76618b484dfa-image-1476889137756.gif">
 </div>
 MARKDOWN

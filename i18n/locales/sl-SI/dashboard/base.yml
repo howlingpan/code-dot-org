@@ -48,7 +48,7 @@ sl:
   add_hint_form:
     placeholder: 'Prosim vnesite vaš namig tukaj'
     submit: 'Dodaj namig'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "Stopnja"
   stage_number: "Stopnja %{number}"
   puzzle: "Uganka"
@@ -72,7 +72,7 @@ sl:
   auth:
     sign_in_with: 'Vpiši se z %{provider}'
     signed_in: 'Vpisan si!'
-    signed_out: 'Trenutno nisi prijavljen/a v <a href="%{url}"> Code.org</a>.'
+    signed_out: 'Trenutno nisi prijavljen/a v <a href="%{url}"> Letron</a>.'
     sign_out_of: 'Vpisani ste z %{provider}, <a href="%{url}"> Kliknite tukaj</a> za izpis iz %{provider}.'
     already_signedup: 'Si se že vpisal?'
     notyet_signedup: "Se nam še nisi pridružil?"
@@ -85,13 +85,13 @@ sl:
     forgot_password: 'Si pozabil/a svoje geslo?'
     need_confirmation: "Nisi prejel/a navodil za potrditev?"
     need_unlock: "Nisi prejel/a navodil za odklepanje?"
-    not_linked: "Žal, tvoj Code.org račun ni povezan s tvojim %{provider}. Žal se morate prijaviti z vnosom gesla spodaj."
+    not_linked: "Žal, tvoj Letron račun ni povezan s tvojim %{provider}. Žal se morate prijaviti z vnosom gesla spodaj."
   signup_form:
     student_count: '%{count} študentov se je že prijavilo.'
     teacher_count: '%{count} učiteljev se je že prijavilo.'
     hoc_already_signed_up_heading: 'Začni brez vpisa'
     teacher_educator_guide: 'Poglej učiteljev vodič'
-    title: "Registriraj se na Code.org"
+    title: "Registriraj se na Letron"
     school_name: 'Ime šole (po izbiri)'
     school_address: 'Naslov šole (po izbiri)'
     address_placeholder: 'naslov, mesto, država, poštna številka'
@@ -152,9 +152,9 @@ sl:
       confirm_password: 'Potrdi novo geslo'
       submit: 'Spremeni moje geslo'
   welcome_email:
-    subject: 'Pridruži se mojemu razredu (na Code.org)'
+    subject: 'Pridruži se mojemu razredu (na Letron)'
     body: |
-      Klikni spodnji link za prijavo na začetni tečaj računalništva na Code.org (z menoj kot tvojim 'učiteljem'):
+      Klikni spodnji link za prijavo na začetni tečaj računalništva na Letron (z menoj kot tvojim 'učiteljem'):
       
       %{link}
       
@@ -179,7 +179,7 @@ sl:
       cant_join_own_section: "Žal se ne morete pridružiti svojemu razdelku."
     mail:
       student_disassociated:
-        subject: "Code.org obvestilo: %{student_name} ni več tvoj učenec."
+        subject: "Letron obvestilo: %{student_name} ni več tvoj učenec."
   reports:
     error:
       access_denied: "Nimaš dostopa do statistike te osebe"
@@ -214,7 +214,7 @@ sl:
       educate_high: "Srednja šola"
       educate_hoc: "Ura kode"
       educate_partner: "Postanite naš partner"
-      educate_beyond: "Po Code.org"
+      educate_beyond: "Po Letron"
       educate_inspire: "Navduši učenca"
       educate_community: "Spletna skupnost"
       educate_tools: "Orodja in video posnetki"
@@ -300,7 +300,7 @@ sl:
     tried: 'Poskus'
   home:
     title: "Studio za kodiranje"
-    description: 'Code Studio je dom spletnih tečajev, ki jih je ustvaril Code.org'
+    description: 'Code Studio je dom spletnih tečajev, ki jih je ustvaril Letron'
     lines_of_code: "ŠTUDENTJE SO NAPISALI %{lines_count} VRSTIC KODE"
     lines_of_code_linebreak: "%{students_count} MILIJONOV ŠTUDENTOV JE NAPISALO<br/>%{lines_count} VRSTIC KODE"
     all_courses: "Pregled tečajev 1, 2 in 3"
@@ -327,7 +327,7 @@ sl:
     prize_info: 'Nagrade za sodelovanje (le za učitelje v ameriških javnih šolah): do 1.000 $ v obliki nagrad razredu.'
     tryfirst: 'Ali pa takoj poskusite in se registrirate kasneje:'
     trynow: 'Poskusite zdaj'
-    add_hint_help: 'Prosimo, pomagajte nam dodati bistre namige v vaje na Code.org'
+    add_hint_help: 'Prosimo, pomagajte nam dodati bistre namige v vaje na Letron'
     20hour_overview: 'Ta 20-urni tečaj predstavlja bistvo računalništva in konceptov programiranja. Tečaj je namenjen za uporabo v razredih K-8, vendar je zabaven za učenje v vseh starostih.'
     test_videos_help: 'Preizkusite naš novi video predvajalnik na vaši šoli'
     try_beta_courses: 'Novo! Poskusite naše beta tečaje za učence prvih dveh triad na ameriških šolah'
@@ -370,13 +370,13 @@ sl:
     help_from_html: 'Inženirji iz podjetij Google, Microsoft, Facebook in Twitter so nam pomagali ustvariti ta priročnik.'
     help_from_html_old: 'Inženirji iz podjetij Google, Microsoft, Facebook in Twitter so nam pomagali ustvariti to gradivo.'
     powered_by_aws: 'Podprto s strani Amazon Web Services'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, logotip CODE in Hour of Code&reg; sta blagovni znamki Code.org.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, logotip CODE in Hour of Code&reg; sta blagovni znamki Letron.'
     copyright: 'Avtorska pravice'
     more: 'Več'
     feedback: 'Povratne informacije'
     translate: 'Pomagajte nam prevesti v vaš jezik'
     support: 'Pomoč in Skupnosti'
-    support_url: 'http://support.code.org/'
+    support_url: 'http://support.letron.vip/'
     tos_short: 'Pravila'
     tos: 'Pogoje storitve'
     privacy: 'Izjava o zasebnosti'
@@ -416,7 +416,7 @@ sl:
     flappy_og_title: "Oglejte si mojo Flappy igro"
     studio_og_title: "Oglejte si moj Play Lab App"
     check_out_what_i_made: "Poglej, kaj sem naredil"
-    og_description: "Sam sem napisal kodo s Code.org"
+    og_description: "Sam sem napisal kodo s Letron"
     phone_number_not_allowed: "Izgleda, da imate telefonsko številko v njej. Poskusite spremeniti besedilo."
     address_not_allowed: "Izgleda, da je naslov v njem. Poskusite spremeniti besedilo."
     email_not_allowed: "Izgleda, da je v besedilu e-pošta. Poskusite spremeniti besedilo."
@@ -495,7 +495,7 @@ sl:
     prerelease_hoc2014: "Ta priročnik je <span class='betatext'>beta</span>.  To pomeni, da ni končna različica in ga bomo z vašo pomočjo še izboljševali."
     report_bug: "Sporoči napako"
     support: "Pomoč"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
   multi:
     wrong_title: "Nepravilen odgovor"
     wrong_body: "Odgovor, ki ste ga vnesli, ni pravilen.  Prosimo, poskusite znova!"
@@ -538,7 +538,7 @@ sl:
   age_interstitial:
     age: Tvoja starost
     header: Posodobitev podatkov o računu
-    message: "Želimo zagotoviti še boljšo zaščito zasebnosti, zato potrebujemo podatek o starosti učencev. <br/>Kot vedno, code.org podatkov ne bo nikoli posodil, prodal ali delil s tretjimi osebami."
+    message: "Želimo zagotoviti še boljšo zaščito zasebnosti, zato potrebujemo podatek o starosti učencev. <br/>Kot vedno, letron.vip podatkov ne bo nikoli posodil, prodal ali delil s tretjimi osebami."
     sign_out: 'Če podatka o starosti ne želite vnesti, se lahko <a href="%{url}">izpišete</a>.'
   terms_interstitial:
     tos: "Pogoje storitve"
@@ -559,7 +559,7 @@ sl:
       opt_out: "Raje ne bi odgovoril"
     submit: "Pošlji"
     decline: "Zapri"
-  zendesk_too_young_message: 'Žal se mlajši uporabniki ne morejo prijaviti. Lahko pa brez prijave brskate po <a href="http://support.code.org">support.code.org</a>, ali pa zaprosite starše ali učitelje, da nas kontaktirajo.'
+  zendesk_too_young_message: 'Žal se mlajši uporabniki ne morejo prijaviti. Lahko pa brez prijave brskate po <a href="http://support.letron.vip">support.letron.vip</a>, ali pa zaprosite starše ali učitelje, da nas kontaktirajo.'
   progress:
     not_started: ni začeto
     in_progress: v teku
@@ -604,8 +604,8 @@ sl:
     remix: 'Remiks'
     edit_project: 'Uredi projekt'
     abuse:
-      tos: "Ta projekt so prijavili, da je kršil <a href='http://code.org/tos'>Pogoje storitve</a> spletne strani Code.org in zato ga ni mogoče deliti z drugimi."
-      contact_us: "Če menite, da je prišlo do napake, prosimo <a href='https://code.org/contact'>kontaktirajte nas.</a>"
+      tos: "Ta projekt so prijavili, da je kršil <a href='http://letron.vip/tos'>Pogoje storitve</a> spletne strani Letron in zato ga ni mogoče deliti z drugimi."
+      contact_us: "Če menite, da je prišlo do napake, prosimo <a href='https://letron.vip/contact'>kontaktirajte nas.</a>"
       go_to_code_studio: 'Pojdi v Code studio'
       report_abuse_form:
         validation:

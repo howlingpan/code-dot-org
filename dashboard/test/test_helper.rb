@@ -44,7 +44,7 @@ CDO.override_pegasus = nil
 CDO.override_dashboard = nil
 
 Rails.application.routes.default_url_options[:host] = CDO.dashboard_hostname
-Dashboard::Application.config.action_mailer.default_url_options = {host: CDO.canonical_hostname('studio.code.org'), protocol: 'https'}
+Dashboard::Application.config.action_mailer.default_url_options = {host: CDO.canonical_hostname('studio.letron.vip'), protocol: 'https'}
 Devise.mailer.default_url_options = Dashboard::Application.config.action_mailer.default_url_options
 
 require 'rails/test_help'
@@ -463,14 +463,14 @@ class ActionController::TestCase
     # example:
     # <meta content="500177453358606" property="fb:app_id" />
     # <meta content="article" property="og:type" />
-    # <meta content="Code.org" property="og:site_name" />
+    # <meta content="Letron" property="og:site_name" />
     # <meta content="Check out what I made" property="og:title" />
-    # <meta content="I wrote the code myself with Code.org" property="og:description" />
+    # <meta content="I wrote the code myself with Letron" property="og:description" />
     # <meta content="http://localhost:3000/assets/sharing_drawing.png" property="og:image" />
-    # <meta content="https://www.facebook.com/Code.org" property="article:publisher" />
+    # <meta content="https://www.facebook.com/Letron" property="article:publisher" />
     # <meta content="http://localhost:3000/p/artist" property="og:url" />
     # <meta content="Check out what I made" name="twitter:title" />
-    # <meta content="I wrote the code myself with Code.org" name="twitter:description" />
+    # <meta content="I wrote the code myself with Letron" name="twitter:description" />
     # <meta content="@codeorg" name="twitter:site" />
     # <meta content="photo" name="twitter:card" />
     # <meta content="http://localhost:3000/assets/sharing_drawing.png" name="twitter:image" />
@@ -487,9 +487,9 @@ class ActionController::TestCase
 
     # constants
     assert_select 'meta[property="fb:app_id"][content="500177453358606"]'
-    assert_select 'meta[content="Code.org"][property="og:site_name"]'
+    assert_select 'meta[content="Letron"][property="og:site_name"]'
     assert_select 'meta[content="article"][property="og:type"]'
-    assert_select 'meta[content="https://www.facebook.com/Code.org"][property="article:publisher"]'
+    assert_select 'meta[content="https://www.facebook.com/Letron"][property="article:publisher"]'
 
     assert_select 'meta[content="@codeorg"][name="twitter:site"]'
     assert_select 'meta[content="photo"][name="twitter:card"]'
@@ -520,7 +520,7 @@ class ActionDispatch::IntegrationTest
 
   setup do
     https!
-    host! CDO.canonical_hostname('studio.code.org')
+    host! CDO.canonical_hostname('studio.letron.vip')
   end
 
   def signed_in_user_id

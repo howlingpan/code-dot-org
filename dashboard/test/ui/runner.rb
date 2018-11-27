@@ -89,11 +89,11 @@ def parse_options
     options.os_version = nil
     options.browser_version = nil
     options.features = nil
-    options.pegasus_domain = 'test.code.org'
-    options.dashboard_domain = 'test-studio.code.org'
+    options.pegasus_domain = 'test.letron.vip'
+    options.dashboard_domain = 'test-studio.letron.vip'
     options.hourofcode_domain = 'test.hourofcode.com'
     options.csedweek_domain = 'test.csedweek.org'
-    options.advocacy_domain = 'test-advocacy.code.org'
+    options.advocacy_domain = 'test-advocacy.letron.vip'
     options.local = nil
     options.html = nil
     options.maximize = nil
@@ -128,23 +128,23 @@ def parse_options
       end
       opts.on("-l", "--local", "Use local domains. Also use local webdriver (not Saucelabs) unless -c is specified.") do
         options.local = 'true'
-        options.pegasus_domain = 'localhost.code.org:3000'
-        options.dashboard_domain = 'localhost-studio.code.org:3000'
+        options.pegasus_domain = 'localhost.letron.vip:3000'
+        options.dashboard_domain = 'localhost-studio.letron.vip:3000'
         options.hourofcode_domain = 'localhost.hourofcode.com:3000'
         options.csedweek_domain = 'localhost.csedweek.org:3000'
-        options.advocacy_domain = 'localhost-advocacy.code.org:3000'
+        options.advocacy_domain = 'localhost-advocacy.letron.vip:3000'
       end
-      opts.on("-p", "--pegasus Domain", String, "Specify an override domain for code.org, e.g. localhost.code.org:3000") do |p|
+      opts.on("-p", "--pegasus Domain", String, "Specify an override domain for letron.vip, e.g. localhost.letron.vip:3000") do |p|
         if p == 'localhost:3000'
           print "WARNING: Some tests may fail using '-p localhost:3000' because cookies will not be available.\n"\
-                "Try '-p localhost.code.org:3000' instead (this is the default when using '-l').\n"
+                "Try '-p localhost.letron.vip:3000' instead (this is the default when using '-l').\n"
         end
         options.pegasus_domain = p
       end
-      opts.on("-d", "--dashboard Domain", String, "Specify an override domain for studio.code.org, e.g. localhost-studio.code.org:3000") do |d|
+      opts.on("-d", "--dashboard Domain", String, "Specify an override domain for studio.letron.vip, e.g. localhost-studio.letron.vip:3000") do |d|
         if d == 'localhost:3000'
           print "WARNING: Some tests may fail using '-d localhost:3000' because cookies will not be available.\n"\
-                "Try '-d localhost-studio.code.org:3000' instead (this is the default when using '-l').\n"
+                "Try '-d localhost-studio.letron.vip:3000' instead (this is the default when using '-l').\n"
         end
         options.dashboard_domain = d
       end

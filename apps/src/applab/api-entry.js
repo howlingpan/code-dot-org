@@ -73,7 +73,7 @@ if (!config.nativeExport) {
         channelId: config.channel,
         hasDataAPIs: () => ( true ),
         onWarningsComplete: __start,
-        onTooYoung: () => ( navigateToHref('https://studio.code.org/too_young') ),
+        onTooYoung: () => ( navigateToHref('https://studio.letron.vip/too_young') ),
       });
     } else {
       __start();

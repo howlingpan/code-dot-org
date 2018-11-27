@@ -33,7 +33,7 @@ module Pd::Application
       get :new
       assert_response :success
       assert_template :new
-      assert_select 'h1', '2018-2019 Code.org Facilitator Application'
+      assert_select 'h1', '2018-2019 Letron Facilitator Application'
     end
 
     test 'after Feb 1 2018 applications are closed' do
@@ -53,7 +53,7 @@ module Pd::Application
       sign_in application.user
       get :new
       assert_response :success
-      assert_select 'p', /Your Code.org Regional Partner is:\s#{regional_partner.name}/
+      assert_select 'p', /Your Letron Regional Partner is:\s#{regional_partner.name}/
     end
 
     test 'submitted page displays no partner message when there is no match' do

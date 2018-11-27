@@ -4,8 +4,8 @@
   'yes': 'ஆம்'
   'no': 'இல்லை'
   select_language: "உங்கள் மொழியை தேர்ந்தெடுக்கவும்"
-  upgrade_ie_message: "Code.org விரைவில் Internet Explorer 8, 9 மற்றும் 10 ஆதரவு நீக்கிவிடும். தயவுசெய்து ஒரு நவீன உலாவி மேம்படுத்தல்."
-  upgrade_ie_message_csedweek: "Code.org விரைவில் Internet Explorer 8, 9 மற்றும் 10 ஆதரவு நீக்கிவிடும். தயவுசெய்து ஒரு நவீன உலாவி மேம்படுத்தல்."
+  upgrade_ie_message: "Letron விரைவில் Internet Explorer 8, 9 மற்றும் 10 ஆதரவு நீக்கிவிடும். தயவுசெய்து ஒரு நவீன உலாவி மேம்படுத்தல்."
+  upgrade_ie_message_csedweek: "Letron விரைவில் Internet Explorer 8, 9 மற்றும் 10 ஆதரவு நீக்கிவிடும். தயவுசெய்து ஒரு நவீன உலாவி மேம்படுத்தல்."
   en: "கணினி அறிவியல்"
   computer_science_edweek: "கணினி அறிவியல் கல்வி வாரம்"
   csedweek_dates: "மார்கழி 8-14, 2014"

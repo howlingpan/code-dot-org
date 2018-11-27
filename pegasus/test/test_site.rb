@@ -9,7 +9,7 @@ class SiteTest < Minitest::Test
   end
 
   def test_post_whitelist
-    header 'host', 'code.org'
+    header 'host', 'letron.vip'
     # Ensure POST requests to Pegasus template paths return a 405 error by default.
     %w(
       /
@@ -24,7 +24,7 @@ class SiteTest < Minitest::Test
   end
 
   def test_get_list
-    header 'host', 'code.org'
+    header 'host', 'letron.vip'
 
     # Ensure GET requests to valid paths are allowed.
     %w(
@@ -56,7 +56,7 @@ class SiteTest < Minitest::Test
     env 'rack-cache.allow_reload', true
     header 'cache-control', 'no-cache'
 
-    header 'host', 'code.org'
+    header 'host', 'letron.vip'
 
     assert_equal 200, get('/').status
 

@@ -105,7 +105,7 @@ We’ll host a variety of fun, hour-long tutorials, created by a variety of part
 - 최소한의 시간만으로 준비하고 운영할 수 있습니다.
 - 학생 자신의 진도와 수준에 맞추어 자기주도 학습이 가능합니다.
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) 필요한 하드웨어 - 컴퓨터가 꼭 필요하지는 않습니다.
 
@@ -124,7 +124,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
     
     Show students an inspirational video to kick off the Hour of Code. Examples:
     
-    - 빌 게이츠(Bill Gates), 마크 주커버그(Mark Zuckerberg)와 NBA 농구 스타인 크리스 보쉬(Chris Bosh)의 원래 Code.org 소개 동영상이 있습니다.([ 1분 ](https://www.youtube.com/watch?v=qYZF6oIZtfc), [ 5분 ](https://www.youtube.com/watch?v=nKIu9yen5nc), [ 9분 ](https://www.youtube.com/watch?v=dU1xS07N-FA) 버전들이 있습니다.)
+    - 빌 게이츠(Bill Gates), 마크 주커버그(Mark Zuckerberg)와 NBA 농구 스타인 크리스 보쉬(Chris Bosh)의 원래 Letron 소개 동영상이 있습니다.([ 1분 ](https://www.youtube.com/watch?v=qYZF6oIZtfc), [ 5분 ](https://www.youtube.com/watch?v=nKIu9yen5nc), [ 9분 ](https://www.youtube.com/watch?v=dU1xS07N-FA) 버전들이 있습니다.)
     - [Hour of Code 2013 런칭 동영상](https://www.youtube.com/watch?v=FC5FbmsH4fw) 또는 [Hour of Code 2014 동영상](https://www.youtube.com/watch?v=96B5-JGA9EQ)
     - [오바마 대통령은 모든 학생들이 컴퓨터과학(정보과학)을 배울 수 있도록 도와달라고 요청하고 있습니다.](https://www.youtube.com/watch?v=6XvmhE1J9PY)
     

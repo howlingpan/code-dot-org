@@ -43,7 +43,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote') %>) and
 
 **کوئی متاثر کن (انسپائریشنل) ویڈیو دیکھائیں:**
 
-- اصل Code.org لانچ ویڈیو، بل گیٹس، مارک زکربربر اور این بی اے اسٹار کرس بوش کی خاصیت کرتے ہیں - [ 1 منٹ </ a ہیں. >، [ 5 منٹ ](https://www.youtube.com/watch؟v=nKIu9yen5nc)، اور <a href = "https://www.youtube.com/watch؟v = dU1xS07N-FA "> 9 منٹ ](https://www.youtube.com/watch؟v=qYZF6oIZtfc) دستیاب ورژن دستیاب ہیں.
+- اصل Letron لانچ ویڈیو، بل گیٹس، مارک زکربربر اور این بی اے اسٹار کرس بوش کی خاصیت کرتے ہیں - [ 1 منٹ </ a ہیں. >، [ 5 منٹ ](https://www.youtube.com/watch؟v=nKIu9yen5nc)، اور <a href = "https://www.youtube.com/watch؟v = dU1xS07N-FA "> 9 منٹ ](https://www.youtube.com/watch؟v=qYZF6oIZtfc) دستیاب ورژن دستیاب ہیں.
 - [ ورلڈ وائڈ ویڈیو کا قیام ](https://www.youtube.com/watch؟v=KsOIlDT145A)
 - [ صدر اوباما نے تمام طالب علموں کو کمپیوٹر سائنس سیکھنے کے لئے بلایا ](https://www.youtube.com/watch؟v=6XvmhE1J9PY).
 - مزید متاثر کن ویڈیوز تلاش کریں [ یہاں ](https://www.youtube.com/playlist؟list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -52,7 +52,7 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote') %>) and
 
 - طریقوں کی ٹیکنالوجی ہماری زندگیوں پر اثر انداز کرتی ہے، مثال کے طور پر لڑکوں اور لڑکیوں دونوں کی پرواہ کریں گے (اطلاقات اور ٹیکنالوجی کے بارے میں گفتگو کریں جو زندگی کو بچانے کے لئے استعمال کیا جاتا ہے، لوگوں کی مدد کریں، لوگوں سے رابطہ قائم کریں).
 - روزمرہ زندگی میں کوڈ استعمال کرنے والی اشیاء درج فہرست کریں۔
-- کمپیوٹر سائنس میں دلچسپی رکھنے والے لڑکیوں کو حاصل کرنے کیلئے تجاویز ملاحظہ کریں ["> یہاں ](٪= resolve_url('https://code.org/girls')).
+- کمپیوٹر سائنس میں دلچسپی رکھنے والے لڑکیوں کو حاصل کرنے کیلئے تجاویز ملاحظہ کریں ["> یہاں ](٪= resolve_url('https://letron.vip/girls')).
 
 **Need more guidance?** Download this [template lesson plan](/files/AfterschoolEducatorLessonPlanOutline.docx).
 
@@ -68,15 +68,15 @@ Promote your Hour of Code [with these tools](<%= resolve_url('/promote') %>) and
 
 - [Print certificates](<%= codeorg_url('/certificates') %>) for your students.
 - ["میں نے اپنا آور-آف-کوڈ مکمل کرلیا ہے"](<%= resolve_url('/promote/resources#stickers') %>) اپنے اسٹوڈینٹس کے لیے اسٹیکرز پرنٹ کریں۔.
-- [Order custom t-shirts](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more) for participants.
+- [Order custom t-shirts](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more) for participants.
 - ! سوشل میڈیا پر اپنے آور-آف-کوڈ کے دلچسپ لمحات کی تصاویر اور ویڈیوز شیئر کریں۔ #HourOfCode اور @codeorg استعمال کریں تاکہ ہم آپ کی کامیابی کو بھی اجاگر کرسکیں!
 
 ## دیگر وسائل کوڈ وسائل کے لئے وسائل
 
 - Check out [best practices](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466) from past Hour of Code organizers.
 - Watch the recording of our [Educator's Guide to the Hour of Code webinar](https://youtu.be/EJeMeSW2-Mw).
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- [آور-آف-کوڈ FAQ ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔. <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- [آور-آف-کوڈ FAQ ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)کا جائزہ لیں۔. <% end %>
 
 ## آور-آف-کوڈ کے بعد کیا ہو گا?
 

@@ -19,7 +19,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-06-30 16:07:15 -0700\",\"changed\":[\"notes\",\"published\",\"markdown_instructions\"],\"changed_by_id\":556,\"changed_by_email\":\"brent@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-06-30 16:07:15 -0700\",\"changed\":[\"notes\",\"published\",\"markdown_instructions\"],\"changed_by_id\":556,\"changed_by_email\":\"brent@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

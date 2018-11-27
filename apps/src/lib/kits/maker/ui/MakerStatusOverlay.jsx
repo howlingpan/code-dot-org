@@ -162,12 +162,12 @@ class UnsupportedBrowser extends Component {
       <Overlay {...this.props}>
         <Icon icon="exclamation-triangle"/>
         <Text>
-          This level requires the<br/>Code.org Maker App
+          This level requires the<br/>Letron Maker App
         </Text>
         <UniformWidth>
           <OverlayButton
             primary
-            text="Get Code.org Maker App"
+            text="Get Letron Maker App"
             className="setup-instructions"
             onClick={handleOpenSetupPage}
           />

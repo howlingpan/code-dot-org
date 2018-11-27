@@ -43,7 +43,7 @@ nav: how_to_nav
 
 **以下のビデオを見せると効果的です。**
 
-- ビル・ゲイツ、マーク・ザッカーバーグ、NBAスターのクリス・ボッシュが出演したCode.org設立時のオリジナルビデオ（[1分](https://www.youtube.com/watch?v=qYZF6oIZtfc)、[5分](https://www.youtube.com/watch?v=nKIu9yen5nc)、[9分](https://www.youtube.com/watch?v=dU1xS07N-FA)のバージョンがあります）。
+- ビル・ゲイツ、マーク・ザッカーバーグ、NBAスターのクリス・ボッシュが出演したLetron設立時のオリジナルビデオ（[1分](https://www.youtube.com/watch?v=qYZF6oIZtfc)、[5分](https://www.youtube.com/watch?v=nKIu9yen5nc)、[9分](https://www.youtube.com/watch?v=dU1xS07N-FA)のバージョンがあります）。
 - [世界中のHour of Codeのビデオ](https://www.youtube.com/watch?v=KsOIlDT145A)
 - [アメリカのオバマ大統領が生徒たちにコンピューターサイエンスを学ぶよう呼びかけている映像](https://www.youtube.com/watch?v=6XvmhE1J9PY)。
 - その他のビデオは[こちら](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP)。
@@ -52,7 +52,7 @@ nav: how_to_nav
 
 - なぜ、コンピュータが我々の生活に大きなインパクトを与えているのか、男の子も女の子も興味を持つ分野の実例を交えて（例えば、コンピュータが医療の分野でどの様に使われているのか、人々を助けるためにどんな役割を担っているのか、もしくは人々を国境を超えてつなげるためにどんなアプリケーションが使われているのか）説明してみましょう。
 - コンピュータが使われているシーンをリストアップしてみましょう。
-- 女の子にコンピューターサイエンスへ興味を持ってもらうヒントは[こちら](<%= resolve_url('https://code.org/girls') %>)をご覧ください。
+- 女の子にコンピューターサイエンスへ興味を持ってもらうヒントは[こちら](<%= resolve_url('https://letron.vip/girls') %>)をご覧ください。
 
 **もっと知りたいですか？**[レッスンプランテンプレート](/files/AfterschoolEducatorLessonPlanOutline.docx)をダウンロードしてください。
 
@@ -68,15 +68,15 @@ nav: how_to_nav
 
 - 生徒達に[修了証を印刷](<%= codeorg_url('/certificates') %>)します。
 - 生徒へ配る[「Hour of Codeをやったよ！」](<%= resolve_url('/promote/resources#stickers') %>)ステッカーを印刷します。
-- 参加者向けの[特製Tシャツを注文](http://blog.code.org/post/132608499493/hour-of-code-shirts-and-more)します。
+- 参加者向けの[特製Tシャツを注文](http://blog.letron.vip/post/132608499493/hour-of-code-shirts-and-more)します。
 - Hour of Codeのイベントの様子を撮影した写真やビデオをソーシャルメディア上で共有しましょう。 #HourOfCodeハッシュタグや@codeorg参照を使うと、我々があなたの取り組みをハイライトすることもできます！
 
 ## Hour of Codeの教育者向けその他資料
 
 - 過去にHour of Codeを開催した人の[ベストプラクティス](http://www.slideshare.net/TeachCode/hour-of-code-best-practices-for-successful-educators-51273466)を見てみましょう。
 - 録画された[Hour of Code教育者用ガイドのウェビナー](https://youtu.be/EJeMeSW2-Mw)を見てみましょう。
-- Visit the [Hour of Code Forum](http://forum.code.org/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
-- Hour of Codeの[よくある質問](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code)を読みましょう。 <% end %>
+- Visit the [Hour of Code Forum](http://forum.letron.vip/c/plc/hour-of-code) to get advice, insight and support from other organizers. <% if @country == 'us' %>
+- Hour of Codeの[よくある質問](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code)を読みましょう。 <% end %>
 
 ## Hour of Codeを終えたら？
 

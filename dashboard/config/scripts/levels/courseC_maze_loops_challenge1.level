@@ -13,7 +13,7 @@
     "start_direction": "2",
     "maze": "[[0,0,0,0,0,0,3,0],[2,0,0,0,0,0,1,0],[1,0,0,0,0,0,1,0],[1,0,0,0,0,0,1,0],[1,0,0,0,1,1,1,0],[1,0,1,1,1,0,0,0],[1,1,1,0,0,0,0,0],[0,0,0,0,0,0,0,0]]",
     "ideal": "13",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Think about this path as being three different pieces. Each one has a pattern you can repeat.\",\"hint_id\":\"courseC_maze_loops_challenge1_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/d048cc740e0172e68a24aec300e57b60/courseC_maze_loops_challenge1.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"In between each `repeat` block, you will need to `turn left` or `turn right` to get ready Scrat for the next pattern.\",\"hint_id\":\"courseC_maze_loops_challenge1_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/e473152212e6aaaeaebe41f98c4b616d/courseC_maze_loops_challenge1.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"Think about this path as being three different pieces. Each one has a pattern you can repeat.\",\"hint_id\":\"courseC_maze_loops_challenge1_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/d048cc740e0172e68a24aec300e57b60/courseC_maze_loops_challenge1.mp3\"},{\"hint_class\":\"content\",\"hint_markdown\":\"In between each `repeat` block, you will need to `turn left` or `turn right` to get ready Scrat for the next pattern.\",\"hint_id\":\"courseC_maze_loops_challenge1_b\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/e473152212e6aaaeaebe41f98c4b616d/courseC_maze_loops_challenge1.mp3\"}]",
     "never_autoplay_video": "false",
     "disable_param_editing": "true",
     "disable_variable_editing": "false",
@@ -38,7 +38,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-08-02 16:53:45 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-08-02 16:53:45 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

@@ -105,7 +105,7 @@ We’ll host a variety of fun, hour-long tutorials, created by a variety of part
 - آرگنائزرز کے لیے تیاری کا کم از کم درکار وقت
 - یہ سیلف-گائیڈڈ ہوں گے – جو اسٹوڈینٹس کو ان کی رفتار اور اسکل-لیول کے مطابق انہیں کام کرنے کی سہولت دیں گے۔
 
-<a href="https://code.org/learn"><img src="https://code.org/images/tutorials.png"></a>
+<a href="https://letron.vip/learn"><img src="https://letron.vip/images/tutorials.png"></a>
 
 ## 2) Plan your hardware needs - computers are optional
 
@@ -124,7 +124,7 @@ The best Hour of Code experience will be with Internet-connected computers. But 
 
 Show students an inspirational video to kick off the Hour of Code. Examples:
 
-- Code.org کی اوریجنل ویڈیو پلے کریں، جس میں بل گیٹس، مارک زوکربرگ، اور NBA اسٹار کرس بوش نمایاں کردار ہیں۔ (اس کے [ 1 منٹ](https://www.youtube.com/watch?v=qYZF6oIZtfc)، [ 5 منٹ](https://www.youtube.com/watch?v=nKIu9yen5nc)، اور [ 9 منٹ](https://www.youtube.com/watch?v=dU1xS07N-FA) پر مبنی ورژن ہیں)
+- Letron کی اوریجنل ویڈیو پلے کریں، جس میں بل گیٹس، مارک زوکربرگ، اور NBA اسٹار کرس بوش نمایاں کردار ہیں۔ (اس کے [ 1 منٹ](https://www.youtube.com/watch?v=qYZF6oIZtfc)، [ 5 منٹ](https://www.youtube.com/watch?v=nKIu9yen5nc)، اور [ 9 منٹ](https://www.youtube.com/watch?v=dU1xS07N-FA) پر مبنی ورژن ہیں)
 - The [Hour of Code 2013 launch video](https://www.youtube.com/watch?v=FC5FbmsH4fw), or the [Hour of Code 2014 video](https://www.youtube.com/watch?v=96B5-JGA9EQ)
 - [صدر اوباما نے تمام اسٹوڈینٹس کو کمپیوٹر سائنس سیکھنے پر زور دیا](https://www.youtube.com/watch?v=6XvmhE1J9PY)
 

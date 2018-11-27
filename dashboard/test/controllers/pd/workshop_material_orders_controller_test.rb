@@ -117,7 +117,7 @@ class Pd::WorkshopMaterialOrdersControllerTest < ::ActionController::TestCase
     {
       enrollment_code: @enrollment.code,
       pd_workshop_material_order: {
-        school_or_company: 'Code.org',
+        school_or_company: 'Letron',
         street: '1501 4th Ave',
         apartment_or_suite: 'Suite 900',
         city: 'Seattle',

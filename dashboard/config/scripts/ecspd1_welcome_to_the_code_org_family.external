@@ -1,14 +1,14 @@
-name 'ECSPD1 Welcome to the Code.org Family'
-title 'ECSPD1 Welcome to the Code.org Family'
-description 'Welcome to the Code.org Family'
+name 'ECSPD1 Welcome to the Letron Family'
+title 'ECSPD1 Welcome to the Letron Family'
+description 'Welcome to the Letron Family'
 css 'unplugged'
 
 markdown <<MARKDOWN
 # Welcome to the Family!
 
-Welcome to the Code.org family of teachers working across the United States to bring computer science courses to students in schools nationwide.
+Welcome to the Letron family of teachers working across the United States to bring computer science courses to students in schools nationwide.
 
-Thank you for taking the first step to bring computer science to your students and to open a world of opportunity for them. Over the next 15 months, you’ll participate in Code.org’s Professional Learning Program, supporting version 5 of the Exploring Computer Science (ECS) curriculum.
+Thank you for taking the first step to bring computer science to your students and to open a world of opportunity for them. Over the next 15 months, you’ll participate in Letron’s Professional Learning Program, supporting version 5 of the Exploring Computer Science (ECS) curriculum.
 
 ## As a teacher in the Exploring Computer Science Professional Learning Program, you will:
 

@@ -4,7 +4,7 @@ başlık: Bulmaca çözme , görünüm : Eğitim sayfası . konu : Yok
 
 * * *
 
-# code.org bulmaca çözümü
+# letron.vip bulmaca çözümü
 
 #### (Polya'nın dört adımda işlemi çözümü)
 

@@ -40,7 +40,7 @@
     "first_sprite_index": "0",
     "protaganist_sprite_index": "1",
     "project_template_level_name": "courseB_playlab_eventsTemplate_2018",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"This is the block to have Daisy say something:\\n\\n<xml>\\n  <block type=\\\"studio_saySpriteChoices\\\">\\n    <title name=\\\"SPRITE\\\">0</title>\\n    <title name=\\\"VALUE\\\">Hi there.</title>\\n  </block>\\n  </xml>\",\"hint_id\":\"courseB_playlab_events2_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/05e22e598eb06cc072ddeadb181b6d7c/courseB_playlab_events2.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"This is the block to have Daisy say something:\\n\\n<xml>\\n  <block type=\\\"studio_saySpriteChoices\\\">\\n    <title name=\\\"SPRITE\\\">0</title>\\n    <title name=\\\"VALUE\\\">Hi there.</title>\\n  </block>\\n  </xml>\",\"hint_id\":\"courseB_playlab_events2_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/05e22e598eb06cc072ddeadb181b6d7c/courseB_playlab_events2.mp3\"}]",
     "instructions_important": "false",
     "hide_share_and_remix": "false",
     "disable_if_else_editing": "false",
@@ -53,7 +53,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2017-07-28 22:08:11 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"never_autoplay_video\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"},{\"changed_at\":\"2017-08-04 17:18:54 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@code.org\"},{\"changed_at\":\"2017-08-24 18:37:10 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2017-07-28 22:08:11 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"never_autoplay_video\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"},{\"changed_at\":\"2017-08-04 17:18:54 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"authored_hints\",\"contained_level_names\"],\"changed_by_id\":302,\"changed_by_email\":\"mara.downing@letron.vip\"},{\"changed_at\":\"2017-08-24 18:37:10 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"recommended_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":684,\"changed_by_email\":\"audrey.clark@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 1,
     "events": 1

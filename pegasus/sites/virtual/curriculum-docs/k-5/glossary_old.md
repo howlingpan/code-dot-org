@@ -4,7 +4,7 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'Glossary', :disclaimer=>'Code.org CS Fundamentals') %>
+<%= partial('doc_header', :title => 'Glossary', :disclaimer=>'Letron CS Fundamentals') %>
 
 [content]
 
@@ -41,7 +41,7 @@ A way of representing information using only two options.
 _(Course 2: Lesson 14)_
 
 #### Blockly
-The visual programming language used in Code.org's online learning system for K-5 students.
+The visual programming language used in Letron's online learning system for K-5 students.
 _(Course 1: Lesson 3)_
 
 #### bug
@@ -158,11 +158,11 @@ Computers that exist only to provide things to others.
 _(Course 3: Lesson 18)_
 
 #### toolbox
-The tall grey bar in the middle section of Code.org's online learning system where all the commands you can use to write your program are displayed.
+The tall grey bar in the middle section of Letron's online learning system where all the commands you can use to write your program are displayed.
 _(Course 1: Lesson 4)_
 
 #### URL (universal resource locator)
-An easy-to-remember address for calling a web page (like www.code.org).
+An easy-to-remember address for calling a web page (like www.letron.vip).
 _(Course 3: Lesson 18)_
 
 #### username
@@ -178,7 +178,7 @@ A wireless method of sending information using radio waves.
 _(Course 3: Lesson 18)_
 
 #### workspace
-The white area on the right side of Code.org's online learning system where you drag and drop commands to build your program.
+The white area on the right side of Letron's online learning system where you drag and drop commands to build your program.
 _(Course 1: Lesson 4)_
 
 

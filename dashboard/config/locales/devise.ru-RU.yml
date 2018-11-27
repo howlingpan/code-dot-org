@@ -20,9 +20,9 @@ ru:
       unconfirmed: Прежде чем продолжить, необходимо подтвердить свою учетную запись.
     mailer:
       confirmation_instructions:
-        subject: Инструкции Code.org по подтверждению
+        subject: Инструкции Letron по подтверждению
       reset_password_instructions:
-        subject: Инструкции по сбросу пароля Code.org
+        subject: Инструкции по сбросу пароля Letron
       unlock_instructions:
         subject: Инструкция по разблокированию
     omniauth_callbacks:

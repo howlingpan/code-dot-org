@@ -48,7 +48,7 @@ fr:
         2-3_Artist_9_b: |-
           N'oubliez pas de faire pivoter votre artiste de 45° dans le sens anti-horaire avant de commencer à dessiner le carré!
 
-          ![](https://images.code.org/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
+          ![](https://images.letron.vip/47cc2474e533667101a2d73b98da204e-image-1467744539967.gif)
       2-3 Artist Debugging 10_authored_hint:
         2-3_Artist_Debugging_10_a: Souvenez-vous, si vous souhaitez que le panneau
           de contrôle soit 10 pixels *plus large*...alors soyez sûr **d'ajouter**
@@ -127,7 +127,7 @@ fr:
       2-3 Artist Loops New 11_authored_hint:
         2-3_Artist_Loops_New_11_a: |-
           N’oubliez pas que le code du dernier puzzle était : 
-          ![](https://images.code.org/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
+          ![](https://images.letron.vip/15288d042780242ec5edeed5204c6ebb-image-1469640792081.png)
         2-3_Artist_Loops_New_11_b: Votre nouveau tournant devrait aller à la **fin**
           du code dans la boucle.
       2-3 Artist Loops New 12_authored_hint:
@@ -177,7 +177,7 @@ fr:
         2-3_Bee_Conditionals_14_b: Si la fleur rouge était mauve, pourriez-vous trouver
           un moyen d'utiliser une boucle de répétition supplémentaire pour réduire
           le code?
-        2-3_Bee_Conditionals_14_c: "Essaie de couper ceci en deux blocs:  \n\n\n![](https://images.code.org/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
+        2-3_Bee_Conditionals_14_c: "Essaie de couper ceci en deux blocs:  \n\n\n![](https://images.letron.vip/895a52f3febff9edb83979f7861cf67a-image-1469640892331.png)\n\n1)
           Obtenir du nectar 3 fois\n  - Avancer plus 5 fois\n  - Vérifier s'il y a
           du nectar, s'il y en a, l'obtenir\n  - Tourner à gauche\n  \n2) Fabriquer
           du miel \n  - Avancer plus 1 fois\n  - Fabriquer du miel 2 fois"
@@ -218,7 +218,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       2-3 Bee Functions 9_authored_hint:
         2-3_Bee_Functions_8_a: Si le puzzle semble difficile, essayez de construire
           votre fonction peu à peu. Ajoutez quelques blocs, puis essayez-le. Ajoutez-en
@@ -226,7 +226,7 @@ fr:
         2-3_Bee_Functions_8_b: |-
           N’oubliez pas de placer votre code dans le bloc de fonction vert.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       2-3 Bee Loops 2_authored_hint:
         2-3_Bee_Loops_2_a: Vous devriez avoir quatre blocs à l’intérieur de la boucle.
       2-3 Bee Loops 3_authored_hint:
@@ -463,7 +463,7 @@ fr:
           autant de fois que vous le voulez !  Essayez de l'appeler deux fois pour
           résoudre ce casse-tête.
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Vous voyez les **lanternes aquatiques** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png) ?
+        voyage_aquatic_10a: "Vous voyez les **lanternes aquatiques** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png) ?
           Comment les combiner à un bloc conditionnel pour traverser le monument sous-marin ?\n\n"
       HOC 2018 Level_9b_authored_hint:
         voyage_aquatic_9a: Quel manifique récif de corail ! Si le corail bleu est
@@ -616,7 +616,7 @@ fr:
           en utilisant une boucle « répéter » !
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: "Traverser ces deux plaques de détection ouvrira
-          le chemin pour le joueur. \n![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
+          le chemin pour le joueur. \n![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Utilisez le bloc « tourner à droite » pour changer
           l''orientation de l''Agent '
@@ -704,7 +704,7 @@ fr:
           qu'Alex ou Steve puissent se déplacer au-delà des bords de la carte.
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: "Traverser ces deux plaques de détection ouvrira
-          le chemin pour le joueur. \n![](https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
+          le chemin pour le joueur. \n![](https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)"
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: "Appuyez sur « Démarrer » ! \nVous pouvez exécuter votre
           code même si ce n'est pas correct.  Exécutez et recommencez votre code jusqu'à
@@ -1018,7 +1018,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       courseE_bee_functions6_2018_authored_hint:
         courseE_bee_functions6_a: |-
           Si le puzzle semble difficile, essaye de construire ta fonction petit à peit.
@@ -1026,7 +1026,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       courseE_bee_functions6test_authored_hint:
         courseE_bee_functions6_a: |-
           Si le puzzle semble difficile, essaye de construire ta fonction petit à peit.
@@ -1034,7 +1034,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       courseE_bee_functions7_authored_hint:
         courseE_bee_functions7_a: Si le puzzle semble difficile, essayez de construire
           votre fonction peu à peu. Ajoutez quelques blocs, puis essayez-le. Ajoutez-en
@@ -1042,7 +1042,7 @@ fr:
         courseE_bee_functions7_b: |-
           N’oubliez pas de placer votre code dans le bloc de fonction vert.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions7_2018_authored_hint:
         courseE_bee_functions7_a: Si le puzzle semble difficile, essayez de construire
           votre fonction peu à peu. Ajoutez quelques blocs, puis essayez-le. Ajoutez-en
@@ -1050,7 +1050,7 @@ fr:
         courseE_bee_functions7_b: |-
           N’oubliez pas de placer votre code dans le bloc de fonction vert.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       courseE_bee_functions_challenge1_authored_hint:
         courseE_bee_functions_challenge1_a: Si le puzzle semble difficile, essayez
           de construire votre fonction peu à peu. Ajoutez quelques blocs, puis essayez-le.
@@ -1074,7 +1074,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       courseF_bee_functions6_2018_authored_hint:
         courseF_bee_functions6_a: |-
           Si le puzzle semble difficile, essaye de construire ta fonction petit à peit.
@@ -1082,7 +1082,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       courseF_bee_functions8a_authored_hint:
         courseF_bee_functions8a_a: Si le puzzle semble difficile, essayez de construire
           votre fonction peu à peu. Ajoutez quelques blocs, puis essayez-le. Ajoutez-en
@@ -1189,7 +1189,7 @@ fr:
           Ajoutes quelques blocs, puis essaye-les. Ajoutes-en d’autres, puis réessaye. Bientôt, ,
            tu y arriveras !
 
-          ![](https://images.code.org/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
+          ![](https://images.letron.vip/3875224b35889000a0998ca25cfa4ecf-image-1467996493914.gif)
       grade4_bee_functions8_authored_hint:
         2-3_Bee_Functions_8_a: Si le puzzle semble difficile, essayez de construire
           votre fonction peu à peu. Ajoutez quelques blocs, puis essayez-le. Ajoutez-en
@@ -1197,7 +1197,7 @@ fr:
         2-3_Bee_Functions_8_b: |-
           N’oubliez pas de placer votre code dans le bloc de fonction vert.
 
-          ![](https://images.code.org/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
+          ![](https://images.letron.vip/8fe1fae5caf4ede3a9c9bd9f26940cde-image-1467996837459.gif)
       grade4_review_artist1_authored_hint:
         2-3_Artist_1_new_a: Si vous utilisez le bloc pour me faire "avancer de 100
           pixels", je tracerais une ligne automatiquement.

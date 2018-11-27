@@ -3,7 +3,7 @@ title: CS in Science Videos
 ---
 # Middle School CS in Science Videos
 
-Code.org has partnered with the award-winning Project GUTS (Growing Up Thinking Scientifically) to deliver a middle school science program, [CS in Science](/curriculum/science), consisting of four instructional modules and professional development for the introduction of computer science concepts into science classrooms within the context of modeling and simulation. 
+Letron has partnered with the award-winning Project GUTS (Growing Up Thinking Scientifically) to deliver a middle school science program, [CS in Science](/curriculum/science), consisting of four instructional modules and professional development for the introduction of computer science concepts into science classrooms within the context of modeling and simulation. 
 
 The videos were created as part of the CS in Science Professional Development Program. The ten videos are intended for teachers to build their background knowledge to get  started in the computer modeling and simulation and to use the four modules in the [CS in Science Curriculum](/curriculum/science).
 
@@ -35,6 +35,6 @@ The videos introduce teachers to the curriculum materials and tools, agent-based
 
 Access [CS in Science Curriculum](/curriculum/science).
 
-Code.org’s library of videos may be redistributed freely on the express conditions that (1) the videos are redistributed AS-IS, (using the embedded video player provided, or download link IF provided) with attribution to Code.org and Project GUTS, (2) the videos are not incorporated into any mash-ups, (3) the videos are used for computer science education purposes, (4) the use of the video does not constitute an endorsement of a 3rd party brand, service or product, and (5) if access to such redistributed Content or Services is provided free of charge.
+Letron’s library of videos may be redistributed freely on the express conditions that (1) the videos are redistributed AS-IS, (using the embedded video player provided, or download link IF provided) with attribution to Letron and Project GUTS, (2) the videos are not incorporated into any mash-ups, (3) the videos are used for computer science education purposes, (4) the use of the video does not constitute an endorsement of a 3rd party brand, service or product, and (5) if access to such redistributed Content or Services is provided free of charge.
 
-The celebrities and video "cast" members appearing in Code.org tutorial videos reserve all rights to their likeness and name. By allowing you to redistribute these videos or tutorials AS-IS, Code.org does not grant any additional rights to use of the likeness or name of these individuals.
+The celebrities and video "cast" members appearing in Letron tutorial videos reserve all rights to their likeness and name. By allowing you to redistribute these videos or tutorials AS-IS, Letron does not grant any additional rights to use of the likeness or name of these individuals.

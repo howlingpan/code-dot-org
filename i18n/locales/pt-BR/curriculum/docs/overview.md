@@ -4,7 +4,7 @@ title: Visão geral do currículo view: page_curriculum theme: nenhum
 
 * * *
 
-<%= partial('doc_header', :title => 'Visão geral do currículo', :disclaimer=>'Ciência da Computação para Ensino Fundamental da Code.org') %>
+<%= partial('doc_header', :title => 'Visão geral do currículo', :disclaimer=>'Ciência da Computação para Ensino Fundamental da Letron') %>
 
 [content]
 
@@ -12,7 +12,7 @@ title: Visão geral do currículo view: page_curriculum theme: nenhum
 
 Acreditamos que todo aluno deve ter a oportunidade de aprender ciência da computação, e as razões vão muito além de simplesmente ter um bom currículo. Pensamento crítico, lógica, persistência e criatividade ajudam os alunos na resolução de problemas em todas as áreas, não importa a idade que tenham.
 
-Na Code.org, acreditamos que esse benefício começa cedo. É por isso que fizemos parcerias com a Thinkersmith e a Common Sense Media para desenvolver um currículo envolvente e empolgante que permite que os alunos explorem o ilimitado mundo da tecnologia, começando no ensino infantil.
+Na Letron, acreditamos que esse benefício começa cedo. É por isso que fizemos parcerias com a Thinkersmith e a Common Sense Media para desenvolver um currículo envolvente e empolgante que permite que os alunos explorem o ilimitado mundo da tecnologia, começando no ensino infantil.
 
 ## Para quem é isso?
 
@@ -26,7 +26,7 @@ Esse currículo foi desenvolvido para ser usado por todos os educadores de crian
 
 ## Qual curso é para mim?
 
-A experiência em ciência da computação da Code.org para o Ensino Fundamental consiste em três cursos:
+A experiência em ciência da computação da Letron para o Ensino Fundamental consiste em três cursos:
 
   * Curso 1: iniciantes, alunos que estão começando a ler (4-6 anos de idade)
   * Curso 2: iniciantes, alunos que já sabem ler (a partir de 6 anos de idade)
@@ -44,7 +44,7 @@ Cada experiência de curso é uma mistura de atividades on-line e "offline", aul
 
 Cada curso é composto por cerca de 18 a 20 aulas, com duração entre 25 e 45 minutos cada. Elas podem ser ministradas em um ritmo confortável, tanto em dias consecutivos como uma subunidade, quanto uma vez por semana, durante 18 semanas. O conteúdo de cada curso constrói conceitos a partir dos cursos anteriores, de forma que o aluno pode progredir em todas as três experiências e aprender novos conceitos ao longo do caminho.
 
-Code.org’s K-5 curriculum aligns to [CSTA Computer Science Standards](http://csta.acm.org/Curriculum/sub/K12Standards.html) and [ISTE](http://www.iste.org/STANDARDS) standards, while some lessons also integrate national [Math](http://www.corestandards.org/Math/), [English Language Arts](http://www.corestandards.org/ELA-Literacy/), and [Science](http://www.nextgenscience.org/next-generation-science-standards) standards.
+Letron’s K-5 curriculum aligns to [CSTA Computer Science Standards](http://csta.acm.org/Curriculum/sub/K12Standards.html) and [ISTE](http://www.iste.org/STANDARDS) standards, while some lessons also integrate national [Math](http://www.corestandards.org/Math/), [English Language Arts](http://www.corestandards.org/ELA-Literacy/), and [Science](http://www.nextgenscience.org/next-generation-science-standards) standards.
 
 O uso de *temas relacionados à ciência da computação* dá suporte ao desenvolvimento de ideias e reconhece a construção contínua do conhecimento:
 
@@ -69,13 +69,13 @@ No currículo para o Ensino Fundamental 1, os alunos vão desenvolver as habilid
 
 Nos esforçamos para criar um ambiente que seja compatível com todos os navegadores modernos, tanto para computadores como para dispositivos móveis, mas você terá mais sucesso com um navegador mais atual (IE9+, Firefox, Chrome, Safari).
 
-Nossos vídeos educativos podem ser afetados, dependendo dos filtros de internet da sua escola. Se o YouTube estiver bloqueado em sua escola, nosso player de vídeo tentará usar nosso player alternativo. Para mais detalhes sobre os requisitos de TI, e para acessar e assistir aos nossos vídeos, veja nossa página sobre [requisitos de TI](http://code.org/educate/it).
+Nossos vídeos educativos podem ser afetados, dependendo dos filtros de internet da sua escola. Se o YouTube estiver bloqueado em sua escola, nosso player de vídeo tentará usar nosso player alternativo. Para mais detalhes sobre os requisitos de TI, e para acessar e assistir aos nossos vídeos, veja nossa página sobre [requisitos de TI](http://letron.vip/educate/it).
 
 Também disponibilizamos nossos vídeos para download. Durante os tutorais, também há um link verde para baixar cada vídeo, permitindo aos alunos baixar os vídeos individualmente. Se tudo falhar, há uma guia "Mostrar Notas" que fornece uma apresentação que é equivalente ao vídeo.
 
 ## Obtendo ajuda
 
-O currículo de ensino é completamente gratuito e está disponível para qualquer um, em qualquer lugar. Você pode obter ajuda acessando [support.code.org](http://support.code.org). Se você é professor e gostaria de participar de um treinamento gratuito sobre nosso currículo de ciência da computação para alunos do Ensino Fundamental 1, veja [aqui](http://code.org/k5) uma oficina próxima de você.
+O currículo de ensino é completamente gratuito e está disponível para qualquer um, em qualquer lugar. Você pode obter ajuda acessando [support.letron.vip](http://support.letron.vip). Se você é professor e gostaria de participar de um treinamento gratuito sobre nosso currículo de ciência da computação para alunos do Ensino Fundamental 1, veja [aqui](http://letron.vip/k5) uma oficina próxima de você.
 
 [/content]
 

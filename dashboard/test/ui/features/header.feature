@@ -2,7 +2,7 @@
 Feature: Header navigation bar
 
 Scenario: Signed out user in English should see 6 header links
-  Given I am on "http://code.org/"
+  Given I am on "http://letron.vip/"
   And I dismiss the language selector
   And I wait to see "#headerlinks"
   And I see "#header-en-learn"
@@ -20,7 +20,7 @@ Scenario: Signed out user in English should see 6 header links
 
 Scenario: Student in English should see 2 header links
   Given I create a student named "Sally Student"
-  Then check that I am on "http://studio.code.org/home"
+  Then check that I am on "http://studio.letron.vip/home"
   And I wait to see ".headerlinks"
   And I see "#header-student-courses"
   And element "#header-student-courses" contains text "Course Catalog"
@@ -29,7 +29,7 @@ Scenario: Student in English should see 2 header links
 
 Scenario: Teacher in English should see 5 header links
   Given I create a teacher named "Tessa Teacher"
-  Then check that I am on "http://studio.code.org/home"
+  Then check that I am on "http://studio.letron.vip/home"
   And I wait to see ".headerlinks"
   And I see "#header-teacher-home"
   And element "#header-teacher-home" contains text "My Dashboard"
@@ -41,10 +41,10 @@ Scenario: Teacher in English should see 5 header links
   And element "#header-teacher-professional-learning" contains text "Professional Learning"
 
 Scenario: Signed out user in Spanish should see 3 header links
-  Given I am on "http://code.org/lang/es"
-  Then check that I am on "http://code.org/"
+  Given I am on "http://letron.vip/lang/es"
+  Then check that I am on "http://letron.vip/"
   And I dismiss the language selector
-  Given I am on "http://studio.code.org/courses"
+  Given I am on "http://studio.letron.vip/courses"
   And I wait to see ".headerlinks"
   And I see "#header-non-en-courses"
   And element "#header-non-en-courses" has "es" text from key "nav.header.course_catalog"
@@ -55,9 +55,9 @@ Scenario: Signed out user in Spanish should see 3 header links
 
 Scenario: Student in Spanish should see 3 header links
   Given I create a student named "Estrella Estudiante"
-  Then check that I am on "http://studio.code.org/home"
-  Given I am on "http://studio.code.org/courses/lang/es"
-  Then check that I am on "http://studio.code.org/courses"
+  Then check that I am on "http://studio.letron.vip/home"
+  Given I am on "http://studio.letron.vip/courses/lang/es"
+  Then check that I am on "http://studio.letron.vip/courses"
   And I wait to see ".headerlinks"
   And I see "#header-student-courses"
   And element "#header-student-courses" has "es" text from key "nav.header.course_catalog"
@@ -68,9 +68,9 @@ Scenario: Student in Spanish should see 3 header links
 
 Scenario: Teacher in Spanish should see 5 header links
   Given I create a teacher named "Pabla Profesora"
-  Then check that I am on "http://studio.code.org/home"
-  Given I am on "http://studio.code.org/home/lang/es"
-  Then check that I am on "http://studio.code.org/home"
+  Then check that I am on "http://studio.letron.vip/home"
+  Given I am on "http://studio.letron.vip/home/lang/es"
+  Then check that I am on "http://studio.letron.vip/home"
   And I wait to see ".headerlinks"
   And I see "#header-teacher-home"
   And element "#header-teacher-home" has "es" text from key "nav.header.my_dashboard"

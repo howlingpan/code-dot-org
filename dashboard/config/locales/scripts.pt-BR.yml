@@ -347,9 +347,9 @@ pt-BR:
         algebrademo:
           title: Demonstração de algébra
           description: Vários desafios para demonstrar o ambiente e a linguagem de
-            programação usados no Code.org CS em álgebra
+            programação usados no Letron CS em álgebra
           description_short: Vários desafios para demonstrar o ambiente e a linguagem
-            de programação usados no Code.org CS em álgebra
+            de programação usados no Letron CS em álgebra
           stages:
             Defining Simple Functions:
               name: Definindo Funções Simples
@@ -2172,7 +2172,7 @@ pt-BR:
             Loops in Collector:
               description_teacher: Aproveitando o conceito de repetição de instruções
                 da aula "Repetições Felizes", este nível os alunos irão usar repetições
-                para coletar tesouro de uma forma mais eficiente no Code.org.
+                para coletar tesouro de uma forma mais eficiente no Letron.
             Loops in Artist:
               description_teacher: Retornando às repetições, os alunos aprendem a
                 desenhar imagens repetindo sequências simples de instruções. Na última
@@ -2617,7 +2617,7 @@ pt-BR:
               name: Repetições com Laurel
               description_teacher: Aproveitando o conceito de repetição de instruções
                 da aula "Repetições Felizes", este nível os alunos irão usar repetições
-                para coletar tesouro de uma forma mais eficiente no Code.org.
+                para coletar tesouro de uma forma mais eficiente no Letron.
             Loops in Artist:
               name: Cena do Oceano com Repetições
               description_teacher: Retornando às repetições, os alunos aprendem a

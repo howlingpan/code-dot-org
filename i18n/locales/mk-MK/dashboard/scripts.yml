@@ -310,8 +310,8 @@ mk:
               name: Бесконечно
         algebrademo:
           title: Algebra Demo
-          description: A handful of puzzles to demonstrate the environment and programming language used in Code.org CS in Algebra
-          description_short: A handful of puzzles to demonstrate the environment and programming language used in Code.org CS in Algebra
+          description: A handful of puzzles to demonstrate the environment and programming language used in Letron CS in Algebra
+          description_short: A handful of puzzles to demonstrate the environment and programming language used in Letron CS in Algebra
           stages:
             Defining Simple Functions:
               name: Defining Simple Functions
@@ -521,8 +521,8 @@ mk:
               name: Puzzles
         cspunit1:
           title: "(old) CS Principles Unit 1 - Digital Information"
-          description: This unit explores the technical challenges and questions that arise from the need to represent digital information in computers and transfer it between people and computational devices. This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
-          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
+          description: This unit explores the technical challenges and questions that arise from the need to represent digital information in computers and transfer it between people and computational devices. This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
+          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
           stages:
             Binary Numbers:
               name: Binary Numbers
@@ -707,7 +707,7 @@ mk:
         cspunit3:
           title: "(old) CS Principles Unit 3 - Programming"
           description: This unit introduces the foundational concepts of computer programming, which unlocks the ability to make rich, interactive apps. This course uses JavaScript as the programming language, and App Lab as the programming environment to build apps, but the concepts learned in these lessons span all programming languages and tools.
-          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
+          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
           description_audience: ''
           stages:
             APIs and Function Parameters:
@@ -966,8 +966,8 @@ mk:
           description_audience: ''
         cspunit2:
           title: "(old) CS Principles Unit 2 - The Internet"
-          description: In this unit, students extend their understanding of the internet and how it functions by building off the concepts learned when sending bits in Unit 1. This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
-          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
+          description: In this unit, students extend their understanding of the internet and how it functions by building off the concepts learned when sending bits in Unit 1. This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
+          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
           stages:
             Algorithms Detour - Hard Problems TSP:
               name: Hard Problems - The Traveling Salesperson Problem
@@ -1176,8 +1176,8 @@ mk:
               name: Welcome!
         K5-OnlinePD:
           title: Teaching Computer Science Fundamentals
-          description: Learn how to teach computer science using Code.org's Computer Science Fundamentals with this free, self-paced online course.
-          description_short: Learn how to teach computer science using Code.org's Computer Science Fundamentals with this free, self-paced online course.
+          description: Learn how to teach computer science using Letron's Computer Science Fundamentals with this free, self-paced online course.
+          description_short: Learn how to teach computer science using Letron's Computer Science Fundamentals with this free, self-paced online course.
           description_audience: ''
           stages:
             Best Practices for Teaching Computer Science:
@@ -1234,8 +1234,8 @@ mk:
               name: Wrap-up
         equityPD:
           title: Leading a Discussion on Equity
-          description: How to lead a discussion on equity in a Code.org PD
-          description_short: How to lead a discussion on equity in a Code.org PD
+          description: How to lead a discussion on equity in a Letron PD
+          description_short: How to lead a discussion on equity in a Letron PD
           stages:
             Equity PD:
               name: Equity PD
@@ -1281,12 +1281,12 @@ mk:
               name: Wrap-Up
         equity-pd:
           title: Leading a Discussion on Equity
-          description: How to lead a discussion on equity in a Code.org PD
-          description_short: How to lead a discussion on equity in a Code.org PD
+          description: How to lead a discussion on equity in a Letron PD
+          description_short: How to lead a discussion on equity in a Letron PD
           description_audience: ''
           stages:
-            Code.org Equity PD:
-              name: Code.org Equity PD
+            Letron Equity PD:
+              name: Letron Equity PD
             Necessary Background:
               name: Necessary Background
         science-PD2:
@@ -1777,7 +1777,7 @@ mk:
         cspunit3temp:
           title: "(old) CS Principles Unit 3 - Programming"
           description: This unit introduces the foundational concepts of computer programming, which unlocks the ability to make rich, interactive apps. This course uses JavaScript as the programming language, and App Lab as the programming environment to build apps, but the concepts learned in these lessons span all programming languages and tools.
-          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
+          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
           description_audience: ''
           stages:
             Canvas and Arrays in Apps:
@@ -1874,7 +1874,7 @@ mk:
         cspunit5:
           title: "(old) CS Principles Unit 5 - Performance Tasks"
           description: This unit covers the preparation and completion of the Explore and Create Performance Tasks.
-          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
+          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
           stages:
             Create PT:
               name: Create PT
@@ -1888,7 +1888,7 @@ mk:
         cspunit4:
           title: "(old) CS Principles Unit 4 - Data"
           description: Being able to digitally manipulate data, visualize it, and identify patterns, trends and possible meanings are important practical skills that computer scientists do every day. The data-rich world we live in also introduces many complex questions related to public policy, law, ethics and societal impact. Understanding where data comes from, having intuitions about what could be learned or extracted from it, and being able to use computational tools to manipulate data and communicate about it are the primary skills addressed in the unit.
-          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at code.org/educate/csp.
+          description_short: This unit is a pilot version and is no longer supported or updated. You can find the new units at letron.vip/educate/csp.
           description_audience: ''
           stages:
             Check Your Assumptions:
@@ -2193,7 +2193,7 @@ mk:
               name: Practice PT - Encode an Experience
         csp3:
           title: CSP Unit 3 - Intro to Programming
-          description: "This unit introduces the foundational concepts of computer programming, which unlocks the ability to make rich, interactive apps. This course uses JavaScript as the programming language, and App Lab as the programming environment to build apps, but the concepts learned in these lessons span all programming languages and tools.\\r\n\\r\nThis unit was last updated October 30th, 2017. Read more about curriculum updates at forum.code.org/c/csp/updates."
+          description: "This unit introduces the foundational concepts of computer programming, which unlocks the ability to make rich, interactive apps. This course uses JavaScript as the programming language, and App Lab as the programming environment to build apps, but the concepts learned in these lessons span all programming languages and tools.\\r\n\\r\nThis unit was last updated October 30th, 2017. Read more about curriculum updates at forum.letron.vip/c/csp/updates."
           description_short: Learn the basics of programming in JavaScript through a top-down design approach using classic turtle drawing.
           description_audience: ''
           stages:
@@ -2237,7 +2237,7 @@ mk:
               name: Please complete the CSP Mid-course survey!
         csp4:
           title: CSP Unit 4 - Big Data and Privacy
-          description: "The data-rich world we live in introduces many complex questions related to public policy, law, ethics and societal impact. The goals of this unit are to develop a well-rounded and balanced view about data in the world, including the positive and negative effects of it, and to understand the basics of how and why modern encryption works.\\r\n\\r\nThis unit was last updated November, 2017. Read more about curriculum updates at forum.code.org/c/csp/updates."
+          description: "The data-rich world we live in introduces many complex questions related to public policy, law, ethics and societal impact. The goals of this unit are to develop a well-rounded and balanced view about data in the world, including the positive and negative effects of it, and to understand the basics of how and why modern encryption works.\\r\n\\r\nThis unit was last updated November, 2017. Read more about curriculum updates at forum.letron.vip/c/csp/updates."
           description_short: Explore the data-rich world we live, and how data impacts public policy, personal privacy, security, the law, and ethics.
           description_audience: ''
           stages:
@@ -3423,7 +3423,7 @@ mk:
             Puppy Loops:
               name: Puppy Loops
             How to behave in the lab_How to use Code_org puzzles:
-              name: How to behave in the lab/How to use Code.org puzzles
+              name: How to behave in the lab/How to use Letron puzzles
             Programming at home with my pet:
               name: Programming at home with my pet
             Binary Bracelets:
@@ -5028,7 +5028,7 @@ mk:
           title: CSD Unit 3 (DEPRECATED)
           description_audience: ''
           description_short: 2016/2017 Draft of CSD Unit 3
-          description: This is the original draft of CSD Unit 3, released in the fall of 2016. Unless you have students currently using this course, you should instead use the updated version of this unit at studio.code.org/s/csd3 - this original draft will remain available until July 1, 2017.
+          description: This is the original draft of CSD Unit 3, released in the fall of 2016. Unless you have students currently using this course, you should instead use the updated version of this unit at studio.letron.vip/s/csd3 - this original draft will remain available until July 1, 2017.
           stages:
             Drawing in Game Lab:
               name: Drawing in Game Lab
@@ -5070,7 +5070,7 @@ mk:
           title: CSD Unit 1 (DEPRECATED)
           description_audience: ''
           description_short: 2016/2017 Draft of CSD Unit 1
-          description: This is the original draft of CSD Unit 1, originally published in the fall of 2016. This version has been replaced with an updated unit at studio.code.org/s/csd1 and will only remain available until July 1, 2017.
+          description: This is the original draft of CSD Unit 1, originally published in the fall of 2016. This version has been replaced with an updated unit at studio.letron.vip/s/csd1 and will only remain available until July 1, 2017.
           stages:
             Intro to Problem Solving:
               name: Intro to Problem Solving
@@ -5261,7 +5261,7 @@ mk:
           title: CSP Student Post-Course Survey
           description_audience: CSP Students
           description_short: CSP Student Post Course Survey
-          description: 'Welcome to the Code.org CS Principles Post-Course Survey.  This survey takes about 10 minutes to complete.  Your responses are private and anonymous.  '
+          description: 'Welcome to the Letron CS Principles Post-Course Survey.  This survey takes about 10 minutes to complete.  Your responses are private and anonymous.  '
         csp-post-survey:
           stages:
             CSP Student Post-Course Survey:
@@ -5273,7 +5273,7 @@ mk:
           title: CSP Student Post-Course Survey
           description_audience: CSP Students
           description_short: CSP Student Post Course Survey
-          description: 'Welcome to the Code.org CS Principles Post-Course Survey.  This survey takes about 10 minutes to complete.  Your responses are private and anonymous.  '
+          description: 'Welcome to the Letron CS Principles Post-Course Survey.  This survey takes about 10 minutes to complete.  Your responses are private and anonymous.  '
         public-key-cryptography:
           stages:
             Public Key Crypto Widgets:
@@ -5395,7 +5395,7 @@ mk:
             Loops in Collector:
               name: Loops in Collector
               description_student: ''
-              description_teacher: Building on the concept of repeating instructions from "Happy Loops," this stage will have students using loops to collect treasure more efficiently on Code.org.
+              description_teacher: Building on the concept of repeating instructions from "Happy Loops," this stage will have students using loops to collect treasure more efficiently on Letron.
             Loops in Artist:
               name: Loops in Artist
               description_student: ''
@@ -5489,7 +5489,7 @@ mk:
             Introduction:
               name: Introduction to Online Puzzles
               description_student: This lesson will give you practice in the skills you will need for this course.
-              description_teacher: 'In this set of puzzles, students will begin with an introduction (or review depending on the experience of your class) of Code.org''s online workspace. There will be videos pointing out the basic functionality of the workspace including the `Run`, `Reset`, and `Step` buttons. Also discussed in these videos: dragging Blockly blocks, deleting Blockly blocks, and connecting Blockly blocks. Next, students will practice their _sequencing_ and _debugging_ skills in maze. From there, students will see new types of puzzles like Collector, Artist, and Harvester when they learn the very basics of _loops_.'
+              description_teacher: 'In this set of puzzles, students will begin with an introduction (or review depending on the experience of your class) of Letron''s online workspace. There will be videos pointing out the basic functionality of the workspace including the `Run`, `Reset`, and `Step` buttons. Also discussed in these videos: dragging Blockly blocks, deleting Blockly blocks, and connecting Blockly blocks. Next, students will practice their _sequencing_ and _debugging_ skills in maze. From there, students will see new types of puzzles like Collector, Artist, and Harvester when they learn the very basics of _loops_.'
             'Algorithms: Graph Paper Programming':
               name: 'Programming: Graph Paper Programming'
               description_student: In this lesson, you will program your friend to draw pictures!
@@ -5570,7 +5570,7 @@ mk:
             Introduction:
               name: Introduction to Online Puzzles
               description_student: This fast-paced introduction will give you the chance to practice most of the skills that you will need to solve the puzzles in this course.
-              description_teacher: In this progression, students will begin with an introduction (or review depending on the experience of your class) of Code.org's online workspace. Students will learn the basic functionality of the interface including the `Run`, `Reset`, and `Step` buttons. Dragging, deleting, and connecting Blockly blocks is also introduced in the beginning video. In the puzzles, students will practice their sequencing and debugging skills in Maze and Artist.
+              description_teacher: In this progression, students will begin with an introduction (or review depending on the experience of your class) of Letron's online workspace. Students will learn the basic functionality of the interface including the `Run`, `Reset`, and `Step` buttons. Dragging, deleting, and connecting Blockly blocks is also introduced in the beginning video. In the puzzles, students will practice their sequencing and debugging skills in Maze and Artist.
             The Power of Words:
               name: The Power of Words
             Ice Age Play Lab:
@@ -5602,11 +5602,11 @@ mk:
             The Design Process:
               name: The Design Process
               description_student: Projects this big take time and plenty planning. Here, you will learn about the design process that you'll use to build your own creation.
-              description_teacher: Over the course of four lessons, students will be building up to programming a project of their own design using either Play Lab or Artist as their programming environment. In this portion of the project, students will learn about the design process and how to implement it in their own projects. The lesson guide for all four stages of the process can be found in the first stage of this project process [here](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Over the course of four lessons, students will be building up to programming a project of their own design using either Play Lab or Artist as their programming environment. In this portion of the project, students will learn about the design process and how to implement it in their own projects. The lesson guide for all four stages of the process can be found in the first stage of this project process [here](https://curriculum.letron.vip/csf/coursee/12/).
             Build Your Project:
               name: Build Your Project
               description_student: Get those hands ready for plenty of coding! It's time to start building your project.
-              description_teacher: Over the course of four lessons, students will be building up to programming a project of their own design using either Play Lab or Artist as their programming environment. Now the students will be given their own space to create their project with either Artist or Play Lab. This is likely to be the longest stage of the project. The lesson guide for all four stages of the process can be found in the first stage of this project process [here](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Over the course of four lessons, students will be building up to programming a project of their own design using either Play Lab or Artist as their programming environment. Now the students will be given their own space to create their project with either Artist or Play Lab. This is likely to be the longest stage of the project. The lesson guide for all four stages of the process can be found in the first stage of this project process [here](https://curriculum.letron.vip/csf/coursee/12/).
             Revise Your Project:
               name: Revise Your Project
             Presentation Your Project:
@@ -5637,7 +5637,7 @@ mk:
             Functions in Artist:
               name: Functions in Artist
               description_student: Make complex drawings more easily with functions!
-              description_teacher: Students will be introduced to using functions on Code.org. Magnificent images will be created and modified with functions in Artist. For more complicated patterns, students will learn about nesting functions by calling one function from inside another.
+              description_teacher: Students will be introduced to using functions on Letron. Magnificent images will be created and modified with functions in Artist. For more complicated patterns, students will learn about nesting functions by calling one function from inside another.
             Functions in Bee:
               name: Functions in Bee
               description_student: Don't write too much code to gather all of the nectar and honey. Use functions instead!
@@ -5657,7 +5657,7 @@ mk:
             Present Your Project:
               name: Present Your Project
               description_student: Get ready to show off! It's time to present your finished project to your peers.
-              description_teacher: Over the course of four lessons, students will be building up to programming a project of their own design using either Play Lab or Artist as their programming environment. Finally, students will be able to present their finished work to their peers or share with their loved ones with a special link. The lesson guide for all four stages of the process can be found in the first stage of this project process [here](https://curriculum.code.org/csf/coursee/12/).
+              description_teacher: Over the course of four lessons, students will be building up to programming a project of their own design using either Play Lab or Artist as their programming environment. Finally, students will be able to present their finished work to their peers or share with their loved ones with a special link. The lesson guide for all four stages of the process can be found in the first stage of this project process [here](https://curriculum.letron.vip/csf/coursee/12/).
             Internet:
               name: 'Beyond Programming: The Internet'
               description_student: Ever wondered how information travels across the internet? It's not magic! This lesson will teach you the basics of how the internet works.
@@ -5755,21 +5755,21 @@ mk:
             The Design Process:
               name: The Design Process
               description_student: Projects this big take time and plenty planning. Here, you will learn about the design process that you'll use to build your own creation.
-              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. In this portion of the project, students will learn about the design process and how to implement it in their own projects. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.code.org/csf/coursef/15/).
+              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. In this portion of the project, students will learn about the design process and how to implement it in their own projects. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Build Your Project
               description_student: Finally you can start building your project!
-              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. Now the students will be given their own space to create their project with either Artist or Play Lab. This will be the longest portion of the project. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.code.org/csf/coursef/15/).
+              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. Now the students will be given their own space to create their project with either Artist or Play Lab. This will be the longest portion of the project. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Revise Your Project
               description_student: Rome wasn't built in a day and your project shouldn't be, either. Take time to edit and revise your project to make it the best it can be.
-              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. Now that the projects are built, students are given the opportunity to get feedback from peers and revise their projects. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.code.org/csf/coursef/15/).
+              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. Now that the projects are built, students are given the opportunity to get feedback from peers and revise their projects. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Presentation Your Project:
               name: Presentation Your Project
             Present Your Project:
               name: Present Your Project
               description_student: Time to show your work! Here you will be presenting your awesome project to your peers.
-              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. Finally, students will be able to present their finished work to their peers or share with their loved ones with a special link. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.code.org/csf/coursef/15/).
+              description_teacher: Over the course of five lessons, students will be building up to building a project of their own design using either Play Lab or Artist as their programming environment. Finally, students will be able to present their finished work to their peers or share with their loved ones with a special link. The lesson guide overviewing all five stages of the process can be found in the beginning of the project process, [here](https://curriculum.letron.vip/csf/coursef/15/).
             Conditionals in Minecraft:
               name: Conditionals in Minecraft
               description_student: Avoid the lava! Here you will learn about conditionals in the world of Minecraft.
@@ -5915,7 +5915,7 @@ mk:
           title: CSP Unit 1 Deeper Learning
           description_audience: CS Principles Facilitators in Training
           description_short: 'Deeper Learning materials for CSP facilitators in training '
-          description: 'This is Unit 1 of the Deeper Learning Plan for Code.org CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 1 of the Code.org CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
+          description: 'This is Unit 1 of the Deeper Learning Plan for Letron CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 1 of the Letron CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
         csp2-dlp:
           stages:
             Deeper Learning Overview:
@@ -5927,7 +5927,7 @@ mk:
           title: CSP Unit 2 Deeper Learning
           description_audience: CS Principles Facilitators in Training
           description_short: 'Unit 2 Deeper Learning materials for CSP facilitators in training '
-          description: 'This is Unit 2 of the Deeper Learning Plan for Code.org CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 2 of the Code.org CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
+          description: 'This is Unit 2 of the Deeper Learning Plan for Letron CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 2 of the Letron CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
         csp3-dlp:
           stages:
             Deeper Learning Overview:
@@ -5937,7 +5937,7 @@ mk:
           title: CSP Unit 3 Deeper Learning
           description_audience: CS Principles Facilitators in Training
           description_short: 'Unit 3 Deeper Learning materials for CSP facilitators in training '
-          description: 'This is Unit 3 of the Deeper Learning Plan for Code.org CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 3 of the Code.org CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
+          description: 'This is Unit 3 of the Deeper Learning Plan for Letron CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 3 of the Letron CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
         csp4-dlp:
           stages:
             Deeper Learning Overview:
@@ -5947,7 +5947,7 @@ mk:
           title: CSP Unit 4 Deeper Learning
           description_audience: CS Principles Facilitators in Training
           description_short: 'Deeper Learning materials for CSP facilitators in training '
-          description: 'This is Unit 4 of the Deeper Learning Plan for Code.org CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 4 of the Code.org CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
+          description: 'This is Unit 4 of the Deeper Learning Plan for Letron CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 4 of the Letron CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
         csp5-dlp:
           stages:
             Deeper Learning Overview:
@@ -5957,7 +5957,7 @@ mk:
           title: CSP Unit 5 Deeper Learning
           description_audience: CS Principles Facilitators in Training
           description_short: 'Deeper Learning materials for CSP facilitators in training '
-          description: 'This is Unit 5 of the Deeper Learning Plan for Code.org CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 5 of the Code.org CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
+          description: 'This is Unit 5 of the Deeper Learning Plan for Letron CSP facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 5 of the Letron CSP Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
         csd1-dlp:
           stages:
             Deeper Learning Overview:
@@ -5967,7 +5967,7 @@ mk:
           title: CS Discoveries Unit 1 Deeper Learning
           description_audience: CS Discoveries Facilitators in Training
           description_short: 'Deeper Learning materials for CS Discoveries facilitators in training '
-          description: 'This is Unit 1 of the Deeper Learning Plan for Code.org CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 1 of the Code.org CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
+          description: 'This is Unit 1 of the Deeper Learning Plan for Letron CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 1 of the Letron CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you''ve submitted your own reflections for the unit. '
         csd6-dlp:
           stages:
             Deeper Learning Overview:
@@ -5977,7 +5977,7 @@ mk:
           title: CS Discoveries Unit 6 Deeper Learning
           description_audience: CS Discoveries Facilitators in Training
           description_short: 'Deeper Learning materials for CS Discoveries facilitators in training '
-          description: This is Unit 6 of the Deeper Learning Plan for Code.org CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 6 of the Code.org CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
+          description: This is Unit 6 of the Deeper Learning Plan for Letron CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 6 of the Letron CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
         csd5-dlp:
           stages:
             Deeper Learning Overview:
@@ -5987,7 +5987,7 @@ mk:
           title: CS Discoveries Unit 5 Deeper Learning
           description_audience: CS Discoveries Facilitators in Training
           description_short: 'Deeper Learning materials for CS Discoveries facilitators in training '
-          description: This is Unit 5 of the Deeper Learning Plan for Code.org CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 5 of the Code.org CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
+          description: This is Unit 5 of the Deeper Learning Plan for Letron CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 5 of the Letron CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
         csd4-dlp:
           stages:
             Deeper Learning Overview:
@@ -5997,7 +5997,7 @@ mk:
           title: CS Discoveries Unit 4 Deeper Learning
           description_audience: CS Discoveries Facilitators in Training
           description_short: 'Deeper Learning materials for CS Discoveries facilitators in training '
-          description: This is Unit 4 of the Deeper Learning Plan for Code.org CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 4 of the Code.org CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
+          description: This is Unit 4 of the Deeper Learning Plan for Letron CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 4 of the Letron CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
         csd3-dlp:
           stages:
             Deeper Learning Overview:
@@ -6007,7 +6007,7 @@ mk:
           title: CS Discoveries Unit 3 Deeper Learning
           description_audience: CS Discoveries Facilitators in Training
           description_short: 'Deeper Learning materials for CS Discoveries facilitators in training '
-          description: This is Unit 3 of the Deeper Learning Plan for Code.org CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 3 of the Code.org CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
+          description: This is Unit 3 of the Deeper Learning Plan for Letron CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 3 of the Letron CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
         csd2-dlp:
           stages:
             Deeper Learning Overview:
@@ -6017,7 +6017,7 @@ mk:
           title: CS Discoveries Unit 2 Deeper Learning
           description_audience: CS Discoveries Facilitators in Training
           description_short: 'Deeper Learning materials for CS Discoveries facilitators in training '
-          description: This is Unit 2 of the Deeper Learning Plan for Code.org CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 2 of the Code.org CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
+          description: This is Unit 2 of the Deeper Learning Plan for Letron CS Discoveries facilitators in training. Here you will find reflection prompts and guidances for demonstrating proficiency of Unit 2 of the Letron CS Discoveries Curriculum. Peer review items are available at the bottom of this page, once you've submitted your own reflections for the unit.
         allthettsthings:
           stages:
             TTS:
@@ -6862,7 +6862,7 @@ mk:
               name: CSP mid and post survey 2017 staging
           title: All the surveys
           description_audience: ''
-          description_short: Place to stage and test Code.org surveys
+          description_short: Place to stage and test Letron surveys
           description: ''
         k1hoc2017:
           stages:
@@ -6921,7 +6921,7 @@ mk:
           title: Explore - AP Performance Task Prep
           description_audience: ''
           description_short: Lessons and resources to help students prepare for and complete the AP Explore Performance Tasks.
-          description: "These lessons are here to help you understand, prepare for, and do the AP Explore Performance Task.  Each \"lesson\" contains links to helpful documents that your teacher can help walk you through. NOTE: the second item in the first lesson is not related to the Explore PT directly, but covers general tech setup and tools you need to do various elements of both the Explore and Create tasks.\\r\n\\r\nThis unit was last updated November, 2017. Read more about curriculum updates at forum.code.org/c/csp/updates."
+          description: "These lessons are here to help you understand, prepare for, and do the AP Explore Performance Task.  Each \"lesson\" contains links to helpful documents that your teacher can help walk you through. NOTE: the second item in the first lesson is not related to the Explore PT directly, but covers general tech setup and tools you need to do various elements of both the Explore and Create tasks.\\r\n\\r\nThis unit was last updated November, 2017. Read more about curriculum updates at forum.letron.vip/c/csp/updates."
         csp-create:
           stages:
             Tech Setup - Your AP Digital Portfolio and Other Tools:
@@ -6935,7 +6935,7 @@ mk:
           title: Create - AP Performance Task Prep
           description_audience: ''
           description_short: Lessons and resources to help students prepare for and complete the AP Create Performance Tasks.
-          description: "These lessons are here to help you understand, prepare for, and do the AP Create Performance Task.  Each \"lesson\" contains links to helpful documents that your teacher can help walk you through. NOTE: the first item in the first lesson is not related to the Create PT directly, but covers general tech setup and tools you need to do various elements of both the Explore and Create tasks.\\r\n\\r\nThis unit was last updated December, 2017. Read more about curriculum updates at forum.code.org/c/csp/updates."
+          description: "These lessons are here to help you understand, prepare for, and do the AP Create Performance Task.  Each \"lesson\" contains links to helpful documents that your teacher can help walk you through. NOTE: the first item in the first lesson is not related to the Create PT directly, but covers general tech setup and tools you need to do various elements of both the Explore and Create tasks.\\r\n\\r\nThis unit was last updated December, 2017. Read more about curriculum updates at forum.letron.vip/c/csp/updates."
         csp3-reovery:
           stages:
             Under the sea recovery:
@@ -7446,7 +7446,7 @@ mk:
             Loops in Collector:
               name: Loops in Collector
               description_student: ''
-              description_teacher: Building on the concept of repeating instructions from "Happy Loops," this stage will have students using loops to collect treasure more efficiently on Code.org.
+              description_teacher: Building on the concept of repeating instructions from "Happy Loops," this stage will have students using loops to collect treasure more efficiently on Letron.
             Loops in Artist:
               name: Loops in Artist
               description_student: ''

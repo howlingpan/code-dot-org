@@ -2,7 +2,7 @@
 Feature: App Lab Clipping
 
   Scenario: Load an app to edit and see the blocks unclipped in design mode
-    Given I am on "http://studio.code.org/projects/applab"
+    Given I am on "http://studio.letron.vip/projects/applab"
     And I wait for the page to fully load
     Then I reload the page
     And I switch to design mode

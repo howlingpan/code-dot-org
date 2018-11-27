@@ -94,7 +94,7 @@ class Pd::TeacherApplicationEmailParams
           transform: ->(_, workshop_id) do
             [
               :workshop_registration_url_s,
-              "https://studio.code.org/pd/workshops/#{workshop_id}/enroll"
+              "https://studio.letron.vip/pd/workshops/#{workshop_id}/enroll"
             ]
           end
         }

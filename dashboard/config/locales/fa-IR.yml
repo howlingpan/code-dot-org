@@ -53,7 +53,7 @@ fa:
   add_hint_form:
     placeholder: لطفا پیشنهادتان را اینجا وارد کنید
     submit: افزودن پیشنهاد
-  appname: Code.org
+  appname: Letron
   stage: مرحله
   stage_number: مرحله  %{number}
   puzzle: پازل
@@ -77,7 +77,7 @@ fa:
   auth:
     sign_in_with: ورود از طریق %{provider}
     signed_in: وارد شدید!
-    signed_out: شما از <a href="%{url}"> Code.org</a> خارج شده اید.
+    signed_out: شما از <a href="%{url}"> Letron</a> خارج شده اید.
     sign_out_of: شما استفاده کردید  %{provider} برای ورود  <a href="%{url}">     اینجا
       را کلیک کنید </a> برای خروج %{provider}.
     already_signedup: قبلا ثبت نام کرده‌اید؟
@@ -95,7 +95,7 @@ fa:
     teacher_count: "%{count} معلم تا حالا ثبت نام کرده اند."
     hoc_already_signed_up_heading: بدون وارد شدن به سیستم شروع به کار کنید
     teacher_educator_guide: به راهنمای معلم مراجعه کنید
-    title: در code.org ثبت نام کنید
+    title: در letron.vip ثبت نام کنید
     school_name: نام مدرسه (اختیاری)
     school_address: نشانی مدرسه (اختیاری)
     address_placeholder: نشانی، شهر، استان، کدپستی
@@ -158,9 +158,9 @@ fa:
       confirm_password: تکرار کلمه عبور جدید
       submit: تغییر کلمه عبور من
   welcome_email:
-    subject: عضویت در کلاس من (در Code.org)
+    subject: عضویت در کلاس من (در Letron)
     body: |
-      روی لینک زیر برای ثبت نام آموزش علوم کامپیوتر در Code.org کلیک کنید ( با من به عنوان " معلم " ):
+      روی لینک زیر برای ثبت نام آموزش علوم کامپیوتر در Letron کلیک کنید ( با من به عنوان " معلم " ):
 
       آموزشها جالب و مصور هستند و مفاهیم اساسی کامپیوتر را به سادگی تجربه یک بازی به شما یاد میدهند کد نویسی را از بیل گیتس ، مارک زاکربرگ ، angry birds و plants vs. zombies یاد بگیرید.
   section:
@@ -186,7 +186,7 @@ fa:
       cant_join_own_section: با عرض پوزش  ، شما نمی توانید ملحق شوید به بخش خود.
     mail:
       student_disassociated:
-        subject: 'اعلان Code.org: %{student_name} دیگر به عنوان دانش‌آموز شما شناخته
+        subject: 'اعلان Letron: %{student_name} دیگر به عنوان دانش‌آموز شما شناخته
           نمی‌شود.'
   reports:
     error:
@@ -284,7 +284,7 @@ fa:
     tried: سعی شد
   home:
     title: کد استودیو
-    description: کارگاه کد محلی برای دوره های آنلاین است که توسط Code.org ایجاد شده
+    description: کارگاه کد محلی برای دوره های آنلاین است که توسط Letron ایجاد شده
       است
     lines_of_code: "%{lines_count} خط کد توسط دانش آموزان نوشته شده است"
     lines_of_code_linebreak: "%{lines_count} خط کد<br/>نوشته شده توسط %{students_count}
@@ -320,7 +320,7 @@ fa:
       جوایز کلاسی.'
     tryfirst: 'یا شما می توانیدآن را اول امتحان کنید و بعد ثبت نام کنید:'
     trynow: هم اکنون شروع کنید
-    add_hint_help: لطفا به ما کمک کنید تا نکات هوشمندانه‌ای به آموزش‌های Code.org
+    add_hint_help: لطفا به ما کمک کنید تا نکات هوشمندانه‌ای به آموزش‌های Letron
       اضافه کنیم
     20hour_overview: این دوره 20 ساعته به معرفی مفاهیم اساسی علوم کامپیوتر و برنامه
       نویسی می پردازد. این دوره برای استفاده در کلاس های درس K-8 (دوره ابتدایی تا
@@ -365,23 +365,23 @@ fa:
     student: دانش آموز
     teacher: دبیر
   footer:
-    thank_you: ما از <a href="https://code.org/about/donors"> اهدا کنندگانمان</a>،<a
-      href="https://code.org/about/partners"> همکارانمان</a>، <a href="https://code.org/about/team">
-      تیم گسترده مان</a>، گروه فیلم برداری مان، و <a href="https://code.org/about/advisors">
+    thank_you: ما از <a href="https://letron.vip/about/donors"> اهدا کنندگانمان</a>،<a
+      href="https://letron.vip/about/partners"> همکارانمان</a>، <a href="https://letron.vip/about/team">
+      تیم گسترده مان</a>، گروه فیلم برداری مان، و <a href="https://letron.vip/about/advisors">
       مشاوران آموزشیمان</a> برای همکاریشان در ایجاد استودیو ی کد سپاسگزاریم.
     help_from_html: مهندسین از گوگل , مایکروسافت ، فیس بوک و توییتر در ایجاد این آموزش
       کمک کردند
     help_from_html_old: مهندسینی از گوگل، مایکروسافت، فیسبوک، و توییتر به تولید این
       محتوا کمک کردند.
     powered_by_aws: قدرت گرفته شده توسط وب سرویس های آمازون
-    trademark: "&copy; Code.org, %{current_year}. Code.org&reg;, لوگوی کد نویسی و
-      ساعت کد نویسی &reg; علائم تجاری Code.org هستند."
+    trademark: "&copy; Letron, %{current_year}. Letron&reg;, لوگوی کد نویسی و
+      ساعت کد نویسی &reg; علائم تجاری Letron هستند."
     copyright: حق کپی برداری و نشر
     more: بیشتر
     feedback: ارائه پیشنهادات و انتقادات
     translate: کمک به ما در ترجمه به زبان شما
     support: پشتیبانی
-    support_url: http://support.code.org/
+    support_url: http://support.letron.vip/
     tos_short: شرایط
     tos: شرایط
     privacy: قوانین حفظ حریم خصوصی
@@ -423,7 +423,7 @@ fa:
     flappy_og_title: بازی Flappy من را ببین
     studio_og_title: برنامه ساخته شده در بخش آزمایشی من را امتحان کن
     check_out_what_i_made: 'آنچه من ساخته ام را امتحان کن '
-    og_description: من خودم با Code.org کد را نوشتم
+    og_description: من خودم با Letron کد را نوشتم
     phone_number_not_allowed: به نظر میرسد یک شماره تلفن در آن وجود دارد. سعی کنید
       متن را تغییر دهید.
     address_not_allowed: به نظر میرسد یک آدرس در آن وجود دارد. سعی کنید متن را تغییر
@@ -523,7 +523,7 @@ fa:
       اساس بازخورد دریافت شده مورد بهینه سازی قرار گرفته.
     report_bug: گزارش اشکال
     support: کمک گرفتن
-    support_url: support.code.org
+    support_url: support.letron.vip
     help_resources: کمک و منابع
   multi:
     wrong_title: پاسخ اشتباه
@@ -582,7 +582,7 @@ fa:
     header: بروز رسانی اطلاعات حساب کاربری
     message: ما در حال انجام بروزرسانی  حمایت از حریم خصوصی قویتری هستیم . برای انجام
       این کار، ما نیاز داریم کاربران موجود سن خود را این قسمت وارد کنند. <br/>مثل
-      همیشه هرگز code.org این اطلاعات را ، اجاره،  فروخته  یا با هیچ شخص ثالثی به
+      همیشه هرگز letron.vip این اطلاعات را ، اجاره،  فروخته  یا با هیچ شخص ثالثی به
       اشتراک نمی گذارد .
     sign_out: اگر شما نمی خواهید سن خود را اعلام کنید میتوانید <a href="%{url}"> خارج
       شوید</a>.
@@ -598,7 +598,7 @@ fa:
     submit: ارسال کنید
     decline: ببند
   zendesk_too_young_message: با عرض پوزش ، کاربران کم سن ممکن است نتوانند به بخش پشتیبانی
-    سایت ما وارد شوند . شما می توانید بخش <a href="http://support.code.org"> support.code.org</a>
+    سایت ما وارد شوند . شما می توانید بخش <a href="http://support.letron.vip"> support.letron.vip</a>
     را بدون ورود به سیستم و درخواست از والدین یا معلم برای تماس با ما مشاهده کنید
     .
   progress:
@@ -651,9 +651,9 @@ fa:
     click_to_remix: روی 'Remix' کلیک کنید تا نسخه ی خودتان را ایجاد کنید!
     edit_project: ویرایش پروژه
     abuse:
-      tos: این پروژه بعنوان نقض کننده ی <a href='http://code.org/tos'>شرایط استفاده
-        از سرویس </a> code.org گزارش شده و نمیتوان آنرا با دیگران به اشتراک گذاشت.
-      contact_us: اگه باور دارید این یه اشتباهه لطفا، <a href='https://code.org/contact'>با
+      tos: این پروژه بعنوان نقض کننده ی <a href='http://letron.vip/tos'>شرایط استفاده
+        از سرویس </a> letron.vip گزارش شده و نمیتوان آنرا با دیگران به اشتراک گذاشت.
+      contact_us: اگه باور دارید این یه اشتباهه لطفا، <a href='https://letron.vip/contact'>با
         ما تماس بگیرید.</a>
       go_to_code_studio: رفتن به استودیو کد
       report_abuse_form:

@@ -9,7 +9,7 @@ import Button, {ButtonColor, ButtonSize} from '../../../../templates/Button';
 import ToggleGroup from '../../../../templates/ToggleGroup';
 import FontAwesome from "../../../../templates/FontAwesome";
 
-const DOWNLOAD_PREFIX = 'https://downloads.code.org/maker/';
+const DOWNLOAD_PREFIX = 'https://downloads.letron.vip/maker/';
 const WINDOWS = 'windows';
 const MAC = 'mac';
 const LINUX = 'linux';
@@ -124,13 +124,13 @@ class WindowsDownloads extends React.Component {
     const {installer, error} = this.state;
     return (
       <div>
-        <h2>Code.org Maker App for Windows</h2>
+        <h2>Letron Maker App for Windows</h2>
         {!installer && !error &&
           <FetchingLatestVersionMessage/>
         }
         {installer && !error &&
           <Button
-            text={`Download Code.org Maker App for Windows (${installer.version})`}
+            text={`Download Letron Maker App for Windows (${installer.version})`}
             icon="download"
             color={ButtonColor.orange}
             size={ButtonSize.large}
@@ -144,9 +144,9 @@ class WindowsDownloads extends React.Component {
         <div>
           <h4>Instructions:</h4>
           <ol>
-            <li>Download and install the Code.org Maker App using the download button above.</li>
+            <li>Download and install the Letron Maker App using the download button above.</li>
             <li>(Windows 7) Install the <a href="https://learn.adafruit.com/adafruit-feather-32u4-basic-proto/using-with-arduino-ide#install-drivers-windows-only">Adafruit Windows drivers</a>.</li>
-            <li>Open up the Code.org Maker App and sign in to Code.org.</li>
+            <li>Open up the Letron Maker App and sign in to Letron.</li>
             <li>Plug in your board to start using it with App Lab!</li>
           </ol>
         </div>
@@ -168,13 +168,13 @@ class MacDownloads extends React.Component {
     const {installer, error} = this.state;
     return (
       <div>
-        <h2>Code.org Maker App for Mac</h2>
+        <h2>Letron Maker App for Mac</h2>
         {!installer && !error &&
           <FetchingLatestVersionMessage/>
         }
         {installer && !error &&
           <Button
-            text={`Download Code.org Maker App for Mac (${installer.version})`}
+            text={`Download Letron Maker App for Mac (${installer.version})`}
             icon="download"
             color={ButtonColor.orange}
             size={ButtonSize.large}
@@ -188,10 +188,10 @@ class MacDownloads extends React.Component {
         <div>
           <h4>Instructions:</h4>
           <ol>
-            <li>Download and install the Code.org Maker App using the download
+            <li>Download and install the Letron Maker App using the download
               button above.
             </li>
-            <li>Open up the Code.org Maker App and sign in to Code.org.</li>
+            <li>Open up the Letron Maker App and sign in to Letron.</li>
             <li>Plug in your board to start using it with App Lab!</li>
           </ol>
         </div>
@@ -221,13 +221,13 @@ class LinuxDownloads extends React.Component {
     const debFile = this.debFile();
     return (
       <div>
-        <h2>Code.org Maker App for Linux</h2>
+        <h2>Letron Maker App for Linux</h2>
         {!installer && !error &&
           <FetchingLatestVersionMessage/>
         }
         {installer && !error &&
           <Button
-            text={`Download Code.org Maker App for Linux (${installer.version})`}
+            text={`Download Letron Maker App for Linux (${installer.version})`}
             icon="download"
             color={ButtonColor.orange}
             size={ButtonSize.large}
@@ -241,10 +241,10 @@ class LinuxDownloads extends React.Component {
         <div>
           <h4>Instructions:</h4>
           <ol>
-            <li>Download and install the Code.org Maker App using the download
+            <li>Download and install the Letron Maker App using the download
               button above.
             </li>
-            <li>Open up the Code.org Maker App and sign in to Code.org.</li>
+            <li>Open up the Letron Maker App and sign in to Letron.</li>
             <li>Plug in your board to start using it with App Lab!</li>
           </ol>
           <h4>Alternative Installers</h4>
@@ -297,7 +297,7 @@ const FetchingLatestVersionError = () => (
     <div>
       Please make sure you are connected to the internet, and
       {' '}
-      <a href="https://downloads.code.org/index.html">https://downloads.code.org/</a>
+      <a href="https://downloads.letron.vip/index.html">https://downloads.letron.vip/</a>
       {' '}
       is reachable from your network.
     </div>
@@ -313,11 +313,11 @@ class ChromebookInstructions extends React.Component {
       <div>
         <h2>Maker Toolkit for Chromebook</h2>
         <p>
-          Maker Toolkit on Chromebook does not use the Code.org Maker App.
+          Maker Toolkit on Chromebook does not use the Letron Maker App.
           Instead, it depends on the
           {' '}
           <a href={CHROME_APP_WEBSTORE_URL}>
-            Code.org Serial Connector
+            Letron Serial Connector
           </a>
           {' '}
           Chrome App.

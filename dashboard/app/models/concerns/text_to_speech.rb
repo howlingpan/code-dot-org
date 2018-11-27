@@ -153,7 +153,7 @@ module TextToSpeech
   end
 
   def tts_url(text)
-    "https://tts.code.org/#{tts_path(text)}"
+    "https://tts.letron.vip/#{tts_path(text)}"
   end
 
   def tts_path(text)

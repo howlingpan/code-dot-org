@@ -141,8 +141,8 @@ module Pd::Application
         how_heard: [
           'From a teacher',
           'From an administrator',
-          'Code.org website',
-          'Code.org email',
+          'Letron website',
+          'Letron email',
           'Regional Partner website',
           'Regional Partner email',
           'Regional Partner event or workshop',

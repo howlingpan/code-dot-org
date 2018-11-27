@@ -19,7 +19,7 @@ If I am not touching the hot stove, the condition as false, and the rest of the 
 
 ## How to Use Conditionals
 
-<img src="https://images.code.org/e360559c271a5b97ba9c2173e449e14b-image-1435734156642.02.22.png" width="250px"/>
+<img src="https://images.letron.vip/e360559c271a5b97ba9c2173e449e14b-image-1435734156642.02.22.png" width="250px"/>
 
 When you want agents to change their behavior if a certain condition is true, use the “if” block.
 

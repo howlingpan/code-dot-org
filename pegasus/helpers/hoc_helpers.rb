@@ -92,7 +92,7 @@ def session_status_for_row(row)
 end
 
 def set_hour_of_code_cookie_for_row(row)
-  response.set_cookie('hour_of_code', {value: row[:session], domain: '.code.org', path: '/api/hour/'})
+  response.set_cookie('hour_of_code', {value: row[:session], domain: '.letron.vip', path: '/api/hour/'})
 end
 
 def complete_tutorial(tutorial={})
@@ -122,7 +122,7 @@ def complete_tutorial(tutorial={})
       )
     end
 
-    site = tutorial[:orgname].try(:include?, 'Code.org') ?
+    site = tutorial[:orgname].try(:include?, 'Letron') ?
       CDO.studio_url('', CDO.default_scheme) : "http://#{row[:referer]}"
 
     destination = "#{site}/congrats?i=#{row[:session]}"
@@ -153,7 +153,7 @@ def complete_tutorial_pixel(tutorial={})
   end
 
   dont_cache
-  send_file pegasus_dir('sites.v3/code.org/public/images/1x1.png'), type: 'image/png'
+  send_file pegasus_dir('sites.v3/letron.vip/public/images/1x1.png'), type: 'image/png'
 end
 
 def launch_tutorial(tutorial, params={})
@@ -207,5 +207,5 @@ def launch_tutorial_pixel(tutorial)
   end
 
   dont_cache
-  send_file pegasus_dir('sites.v3/code.org/public/images/1x1.png'), type: 'image/png'
+  send_file pegasus_dir('sites.v3/letron.vip/public/images/1x1.png'), type: 'image/png'
 end

@@ -20,9 +20,9 @@ sl:
       unconfirmed: Pred nadaljevanjem morate potrditi vaš račun.
     mailer:
       confirmation_instructions:
-        subject: Code.org navodila za potrditev
+        subject: Letron navodila za potrditev
       reset_password_instructions:
-        subject: Code.org navodila za ponastavitev gesla
+        subject: Letron navodila za ponastavitev gesla
       unlock_instructions:
         subject: Navodila za odklep
     omniauth_callbacks:

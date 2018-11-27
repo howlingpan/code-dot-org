@@ -4,16 +4,16 @@ view: page_curriculum
 theme: none
 ---
 
-<%= partial('doc_header', :title => 'CS in Algebra', :disclaimer=>'Code.org Curriculum Overview') %>
+<%= partial('doc_header', :title => 'CS in Algebra', :disclaimer=>'Letron Curriculum Overview') %>
 
 [content]
 ## The Algebra Inside Your Video Game: Computer Science in Math
 
-Many students love video games, but how many really understand what it takes to make one? In Code.org's Computer Science in Algebra, we pull back the veil on Computer Science and reveal to students the underlying fundamental math that makes everything tick.
+Many students love video games, but how many really understand what it takes to make one? In Letron's Computer Science in Algebra, we pull back the veil on Computer Science and reveal to students the underlying fundamental math that makes everything tick.
 <img src="coordinate_plane.png" style="float:right; padding: 0 0 10px 10px; max-width: 250px;"/>
 Using an easy to learn block based language, students will learn to create images, animations, and interactive video games that are driven by algebraic functions. Through the process of developing their video games, students will discover how computer programmers use the coordinate plane, algebraic functions, and logic to create the games that they love.
 
-Code.org partnered with Bootstrap to develop an exciting and engaging curriculum that allows students to discover that is built on proven pedagogy and practices.
+Letron partnered with Bootstrap to develop an exciting and engaging curriculum that allows students to discover that is built on proven pedagogy and practices.
 
 ## Functional Programming _is_ Math!
 
@@ -31,9 +31,9 @@ A rocket blasts off, traveling at 7 meters per second. Write a function called r
 
 ## It's more than just Coding
 
-Algebra goes beyond just _solving for x_, and Code.org CS in Algebra goes beyond this _writing code_. Through learning to program, students will also practive problem decomposition, clear communication through documentation, testing their own functions against example cases and input/output tables, and much more. Many of the practices employed by CS in Algebra directly correlate to key concepts in the Common Core math standards: data types teach domain and range, test cases introduce students to input/output tables, and our block based programming language allows students to write functions with manipulatives.
+Algebra goes beyond just _solving for x_, and Letron CS in Algebra goes beyond this _writing code_. Through learning to program, students will also practive problem decomposition, clear communication through documentation, testing their own functions against example cases and input/output tables, and much more. Many of the practices employed by CS in Algebra directly correlate to key concepts in the Common Core math standards: data types teach domain and range, test cases introduce students to input/output tables, and our block based programming language allows students to write functions with manipulatives.
 
-Code.org’s CS in Algebra curriculum aligns to the [Common Core Math Standards and Practices](http://www.corestandards.org/Math/), as well as the [CSTA Computer Science Standards](http://csta.acm.org/Curriculum/sub/K12Standards.html) and [ISTE](http://www.iste.org/STANDARDS) standards.
+Letron’s CS in Algebra curriculum aligns to the [Common Core Math Standards and Practices](http://www.corestandards.org/Math/), as well as the [CSTA Computer Science Standards](http://csta.acm.org/Curriculum/sub/K12Standards.html) and [ISTE](http://www.iste.org/STANDARDS) standards.
 
 Across the entire CS in Algebra curriculum, students will develop the skills of a computer scientist through the development of *Computational Thinking Practices*, including Creativity, Collaboration, Communication, Persistence, and Problem Solving
 

@@ -257,7 +257,7 @@ export default class SmallFooter extends React.Component {
         <span>
           <a
             className="privacy-link"
-            href="https://code.org/privacy"
+            href="https://letron.vip/privacy"
             target="_blank"
             style={styles.privacy}
             onClick={this.clickBasePrivacyPolicy}

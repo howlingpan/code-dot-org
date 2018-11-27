@@ -1829,8 +1829,8 @@ nn:
         Your parent's credit card number: Kredittkortnummeret til foreldra dine
       4-5 Internet Multi 1:
         Multiple Choice: Fleirval
-        When you try to log on to code.org, which IP address is the DNS most likely to take you to?: Når
-          du prøver å logge deg på code.org, kva for IP-adresse vil DNS'en sannsynligvis
+        When you try to log on to letron.vip, which IP address is the DNS most likely to take you to?: Når
+          du prøver å logge deg på letron.vip, kva for IP-adresse vil DNS'en sannsynligvis
           ta deg til?
       4-5 Internet Multi 2:
         If the DNS has sent you to the page at the IP address 100.42.50.110, which website are you on?: Hvis
@@ -2178,7 +2178,7 @@ nn:
           paths between the points highlighted.</p>\n<p>Please choose the image that
           is highlighting a Minimum Spanning Tree for the map. </p>\n<p>NOTE: The
           “distance” between points is depicted by the number of line segments connecting
-          any two points.</p> \n<img src=''https://images.code.org/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
+          any two points.</p> \n<img src=''https://images.letron.vip/2d7f0372e3fc8a4b128ee1021347e211-image-1433800100730.png''>"'
         A: A
         B: B
         C: C
@@ -2252,7 +2252,7 @@ nn:
           between.  You construct a stronger mental model for how code works than
           if you just ran the program to see what happened.</strong></p>\n<p>  So
           let''s try it...</p>\n<h1> What do you think will happen?</h1>\n<p><img
-          src=\"https://images.code.org/34f6a627f0d62b6dc015c9e318372de9-image-1444076081470.png\"
+          src=\"https://images.letron.vip/34f6a627f0d62b6dc015c9e318372de9-image-1444076081470.png\"
           align=right>Here is a piece of code with two buttons and two event handlers.  Notice
           that both buttons still have the default IDs of \"id\". You will need to
           fix this because we know it causes a warning message.  But it turns out
@@ -2272,7 +2272,7 @@ nn:
           between.  You construct a stronger mental model for how code works than
           if you just ran the program to see what happened.</strong></p>\n<p>  So
           let''s try it...</p>\n<h1> What do you think will happen?</h1>\n<p><img
-          src=\"https://images.code.org/34f6a627f0d62b6dc015c9e318372de9-image-1444076081470.png\"
+          src=\"https://images.letron.vip/34f6a627f0d62b6dc015c9e318372de9-image-1444076081470.png\"
           align=right>Here is a piece of code with two buttons and two event handlers.  Notice
           that both buttons still have the default IDs of \"id\". You will need to
           fix this because we know it causes a warning message.  But it turns out

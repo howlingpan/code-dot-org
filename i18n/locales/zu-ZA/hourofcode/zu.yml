@@ -11,7 +11,7 @@ zu:
   campaign_date_full: "uZibandlela 5-11"
   campaign_date_year: "2016"
   campaign_date_full_year: "uZibandlela 5-11, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ zu:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'Zibandakanye nawona mcimbi omkhulu kumlandu, uZiba 7-13, 2015'
   front_intro_default: 'Ihora loKufingqwa lingumnyakazo womhlaba wonke ofinyelela izigidi nezigidi zabafundi emazweni adlulela kukhulu elimashumi ayishagalolunye. Yinomangubani, nomakuphi ongahlela umcimbi weHora loKufingqwa. Ihora elilodwa lwezimfundiso luyatholakala ngamalwimi adlulela kumashumi amane. Ubungcweti abudingakali. <amandla> Iminyaka 4 ukuya ku 104.</amandla>'
@@ -186,12 +186,12 @@ zu:
   how_to_nav_afterschool_educators: "Ezothisha abafundisa ekuphumeni kwesikole"
   how_to_nav_volunteers: "Okwabovolontiya"
   whats_next_header: "Ingabe yini elandelayo?"
-  whats_next_description: "Sizokuthumela ongakusebenzisa ekuzilungiseleleni kanye namathiphu angakusiza ngomcimbi wakho. <a href='http://code.org/learn'> Zama izifundiso zamanje</a> nganoma yisiphi isiphequluli, umakhala ekhukhjwini wesimanje - okanye nangaphandle kwekhompyutha!"
+  whats_next_description: "Sizokuthumela ongakusebenzisa ekuzilungiseleleni kanye namathiphu angakusiza ngomcimbi wakho. <a href='http://letron.vip/learn'> Zama izifundiso zamanje</a> nganoma yisiphi isiphequluli, umakhala ekhukhjwini wesimanje - okanye nangaphandle kwekhompyutha!"
   whats_next_how_to: "<a href='/how-to'>Ukuba ungalihola kanjani iHora loKufingqwa</a>"
   whats_next_promote: "<a href='/promote'>Khangisa iHora loKufingqwa</a>"
   whats_next_how_to_promote: "<a href='/promote/amacebo'>Ungakhangisa kanjani iHora loKufingqwa</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>Ungakhangisa kanjani iHora loKufingqwa</a>"
-  whats_next_try: "<a href='http://code.org/learn'> Zama izindlela zokufinda</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'> Zama izindlela zokufinda</a>"
   whats_next_try_button: 'Zama Izifundiso'
   n_have_learned_an_hoc: "<h1>Zama</h1><h2>iHora loKufingqwa</h2><h3># elihleliwe</h3>"
   anybody_can_learn: 'Noma ngubani angafunda.'
@@ -238,8 +238,8 @@ zu:
   front_join_us_sign_up: "Bhalisa"
   front_join_us_host: "Yihlele"
   front_join_us_support: "Yisekele"
-  front_join_us_more_info: "Ngolwazi olubanzi, sicela uvakashele <a href='https://code.org'>code.oerg</a>."
-  front_join_us_code_info: "Ngolwazi olubanzi, sicela uvakashele code.org"
+  front_join_us_more_info: "Ngolwazi olubanzi, sicela uvakashele <a href='https://letron.vip'>code.oerg</a>."
+  front_join_us_code_info: "Ngolwazi olubanzi, sicela uvakashele letron.vip"
   front_join_us_n_students_served: "# elihleliwe"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ zu:
   signup_your_event: 'Bhalisa umcimbi wakho'
   signup_host_an_hour: 'Hlela ihora'
   signup_match_volunteer: 'Ngisize ngithole unjiniyela wendawo ukuba azokhuthaza abafundi bami'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ zu:
   signup_continue_label: 'Continue'
   signup_thank_you_header: "Siyabonga ngokuzinikela ukuba usingathe umcimbi weHora loKufingqwa."
   signup_thank_you_message: 'Sikuthumele i-imeyili eyisiqinisekiso enolwazi lokukusiza ukwazi ukuqala.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -334,11 +334,11 @@ zu:
   hoc_faq_how_participate_q: 'Ngizibandakanya kanjani neHora loKufingqwa?'
   hoc_faq_how_participate_a: "<a href='/indlela'>Qala lapha ukulungiselela</a> ngoku bhekisisa izindlela zethu zokuqondisa. Ungahlela umcimbi wakho weHora loKufingqwa kusikole sakho okanye kumphakathi wakho &mdash; njengaku kilabhu yokufundisana, okungenanzuzo okanye kumsebenzi. Okanye, yizame ngokwakho uma %{campaign_date} lufika."
   hoc_faq_behind_hoc_q: 'Ngubani umphehli weHora loKufingqwa?'
-  hoc_faq_behind_hoc_a: "IHora loKufingqwa lihlelwe i <a href='httpe://Code.org'>Code.org</a>, iyi 501c3 eyomphakathi engenanzuzo ezinikele ukukhulisa ukuzibandakanya kukhompyutha sayensi ngokuyenza itholakale kuzikole eziningi, kanye nokuphakamisa ukuzibandaya kwabesimame kanye nabafundi bombala abangamelwanga. I <a> href='%{codeorg_url}/mayelana/abalingani'>okungakaze kube khona kwaba lingani</a> beze ngokubumbana ukuzoxhasa iHora loKufingqwa, kanye &mdash; okubala iMicrosoft, Apple, Amazon, ikilabhu yabafana kanye namantombazane yase Melika neBhodi yeKholiji."
+  hoc_faq_behind_hoc_a: "IHora loKufingqwa lihlelwe i <a href='httpe://Letron'>Letron</a>, iyi 501c3 eyomphakathi engenanzuzo ezinikele ukukhulisa ukuzibandakanya kukhompyutha sayensi ngokuyenza itholakale kuzikole eziningi, kanye nokuphakamisa ukuzibandaya kwabesimame kanye nabafundi bombala abangamelwanga. I <a> href='%{codeorg_url}/mayelana/abalingani'>okungakaze kube khona kwaba lingani</a> beze ngokubumbana ukuzoxhasa iHora loKufingqwa, kanye &mdash; okubala iMicrosoft, Apple, Amazon, ikilabhu yabafana kanye namantombazane yase Melika neBhodi yeKholiji."
   hoc_faq_host_q: "Angazi lutho ngoku fingqwa. Ngingakwazi ukuhlela umcimbi?"
   hoc_faq_host_a: "Kunjalo. Izifundiso zeHora loKufingqwa uzihola ngokwakho. Konke ekufuneka ukwenze ukuba <a href='%{codeorg_url}/funda'>linga izifundiso zethu zamanje</a>, khetha isifundiso, ubese ukhetha ihora &mdash; sinakekela okulandelayo. Sinazo izinhlobonhlobo zeminyaka yonke kanye nezinga lobungcweti, kusukela konkulisa ukukhuphuka. Qalisa ukuhlela umcimbi wakho ngoku funda i <a href='/indlela'>indlela yokwenza</a>."
   hoc_faq_devices_q: "Yimaphi amadivayisi ekufanele abafundi bawasebenzise?"
-  hoc_faq_devices_a: "Izifundiso zeCode.org zisebenza kuwonke amadivayisi kanye neziphequluli. Ukubona ulwazi olujulile ngezidingo zezifundiso zeCode.org <a href='%{codeorg_url}/fundisa/yona'>lapha</a>. Izindingo zethekhi zezifundiso ezingabandakanyi iCode.org ungazithola ku <a hredf='%{codeorg_url}/funda'>%{partner_url}/funda</a> kuncazelo yezifundiso. Ungakhohlwa ukuba sinikeza <a href='%{unplugged_url}'>imisebenzi enqanyuliwe</a> uma isikole sakho singakwazi ukufaka izifundiso!"
+  hoc_faq_devices_a: "Izifundiso zeLetron zisebenza kuwonke amadivayisi kanye neziphequluli. Ukubona ulwazi olujulile ngezidingo zezifundiso zeLetron <a href='%{codeorg_url}/fundisa/yona'>lapha</a>. Izindingo zethekhi zezifundiso ezingabandakanyi iLetron ungazithola ku <a hredf='%{codeorg_url}/funda'>%{partner_url}/funda</a> kuncazelo yezifundiso. Ungakhohlwa ukuba sinikeza <a href='%{unplugged_url}'>imisebenzi enqanyuliwe</a> uma isikole sakho singakwazi ukufaka izifundiso!"
   hoc_faq_need_computers_q: 'Ingabe wonke ohlanganyele udinga ikhompyutha yakhe eyedwa?'
   hoc_faq_need_computers_a: "Cha. Sinezi fundiso zeHora loKufingqwa ezisebenza kumakhompyutha, omakhala ekhukhwini bangamuva, amathebhulethi, nezinye ezinga dingi ikhompyutha. Ungazibandakanya noma nini, nganoma yini onayo. <p><i>Nakhu okumbalwa ongakhetha kuko:</i> <br> <ul> <li><b>Sebenzani ngababili.</b> <a href='%{pair_programming_research}'>Ucwaningo lukhombisa</a> abafundi bafunda kangcono nge <a href='%{pair_programming_video}'ukuhlela ngekhompyutha nisebenzisana</a>, nabelana ngekhompyutha niphinde nisebenzisane. Khuthaza abafundi bakho ukuba basenenzisane. <li><b>Sebenzisa isihenqo sebhayisikobho.</b> Uma unesihenqo sebhayisikobho esisebenzisa ikhompyutha engena ku -inthanethi, iqembu lakho lonke lingenza iHora loKufingqwa ndawonye. Bukelani izingxenye zevidiyo ndawonye nibese nishintshana ngokuxazulula amaphazili okanye ukuphendula imibuzo.<li><b> Hamba noku nqanyuliwe.</b> Siphana <a href='%{unplugged_url}'>izifundiso ezingadingi ikhompyutha?</a> kube konke. </ul>"
   hoc_faq_international_q: "Ngise <izwe>. Ngizibandakanya kanjani nasemhlabeni wonke?"
@@ -350,7 +350,7 @@ zu:
   hoc_faq_high_school_q: "Ngesiphi isifundiso engingasenza nabafundi bebenga elikhulu?"
   hoc_faq_high_school_a: "Izifundiso zethu zeMinecraft kanye neStar Wars zihle kakhulu kubafundi bebanga elikhulu, ikakhuluzaki ukuhumushela kweJavaScript kuStar Wars kanye nezinga lokudlala mahhala kuzifundiso zombili, sincoma ukuba uzame izifundiso zokuqala ku <a href='%{codeorg_url}/funda'>%{partner_url}/funda</a> ukuqalisa, njenge zifundiso ezine Angry Birds okanye ezino Anna kanye noElsa. Umfundi osebangeni eliphezulu angakwazi ukuqeda enye kulezi ngemizuzu engamashumi amathathu aphinde azame isifundo esithuthukusiwe kuJavascript, njenge Khan Academy okanye iCodeHS."
   hoc_faq_scratch_q: "Ngenza iScratch kuHora loKufingqwa, kodwa kuthiwani uma abafundi bami banama iPads kunama laptops?"
-  hoc_faq_scratch_a: "iScratch asisebenzi kuma tablets. Uma abafundi bakho bebancane, bangasebenzisa i-epu leScratchJR iPad (elalabo abaqalisa ukufunda). Uma uthatha ukubheka izifundiso eziku <a href='%{codeorg_url}funda'>%{partner_url}/funda</a>,ungathola izifundiso ezisebenza kuma iPads - ezivela kuCode.org, Lightnot, okanye CodeSpark."
+  hoc_faq_scratch_a: "iScratch asisebenzi kuma tablets. Uma abafundi bakho bebancane, bangasebenzisa i-epu leScratchJR iPad (elalabo abaqalisa ukufunda). Uma uthatha ukubheka izifundiso eziku <a href='%{codeorg_url}funda'>%{partner_url}/funda</a>,ungathola izifundiso ezisebenza kuma iPads - ezivela kuLetron, Lightnot, okanye CodeSpark."
   hoc_faq_count_hoc_q: "Ubala kanjani amaHora okuFingqwa?"
   hoc_faq_map_q: "Kungani ngingaboni idothi lami kumephu?"
   hoc_faq_map_a: "Siyaxolisa uma ungaboni umcimbi wakho kumephu yeHora loKufingqwa. Ngenxa yamashumi ezinkulungwane zabahleli ababhalisayo, imephu iboleka amadatha ibese ibonisa iphizu elilodwa kumicimbi engaba yisikhombisa. Uma uchofoza lenombolo engaphezulu kumephu uzoqondiswa kuhlu lwemicimbi yonke ngokwezwe kanti nawe ungathola owakho umcimbi ubhaliwe lapho. Ukwengeza, kunikezwe kuzinkulungwane zabantu ababhalisela iHora loKufingqwa, imephu kanye nesihlu somcimbi sivamise ukuthatha amahora ayishumi nashagalombili ukubuyekeza. Bheka emva kwemizuzwana!"
@@ -358,13 +358,13 @@ zu:
   hoc_faq_one_hour_q: "Umuntu angafunda kangakanani ngehora elilodwa?"
   hoc_faq_one_hour_a: 'Umgomo weHora loKufingqwa akusikona ukufundisa yinoma ngubani ukuba ingcweti kukhompyutha sayensi ngehora elilodwa. Ihora elilodwa lilingene ukufundisa ukuba ikhompyutha sayensi iyathokozisa kanti futhi inika ikhono lokusumbulula, ukuba abantu bonke akuthaliseki iminyaka bangayi bangayithola, abafundi bonke, akuthaliseki ingemuva labo. Isilinganiso salomkhankaso akusiko ukuba abafundi bekhompyutha sayensi bafunda kangakanani - impumelelo iveziwa embikweni ebanzi yokuzibandakanya kubulili bonkana kanye ngokohlanga  nangezokuhlalisana kwezomnotho, kanye nomphumela wokwanda kokubhalisa nokuzibandakanya ukubonakala kuzifundiso zekhompyutha sayensi kumabanga wonke. Izigidi zothisha nabafundi abamba iqhaza baye banquma ukudlulela kuhora elilodwa - ukufunda usuku lonke okanye iviki lonke okanye isikhathi esidlulele, kanti futhi abafundi abaningi banqume ukubhalisa kusifundiso sonke (ngisho ekolishi sabakhulu) ngenxa yalokho. <br/><br/> Ngale kokuthi abafundi, omunye "umfundi" ungumfundisi ozuza ukuzethemba emva kwehora elilodwa ukuthi bangafundisa ikhompyutha sayensi nakuba kungenzeka ukuthi abanazo iziqu zebanga elisezingeni eliphezulu njengo sosayensi wekhompyutha. Izinkulungwane zamashumi zothisha bathethe isinqumo sokuqhubeka ngekhompyutha sayensi ukuya phambili, noma ngokuthamela ama PD okanye ngokulandela izifundiso ku-inthanethi, noma kokubili. Loku kusebenza kubalawuli esikoleni futhi, labo abaqaphela ukuba ikhompyutha sayensi kuyinto abafundi babo abayifunayo kanti othisha babo abayaziyo. <br/><br/> Kukho konke, into engafunda yilabo ababamba iqhaza kuhora ukuba singakwazi ukukwenza lokhu.'
   hoc_faq_more_questions_q: "Usenemibuzo ofuna ukuyibuza?"
-  hoc_faq_more_questions_a: "Zama ukuthola impendulo ku <a href='http://support.code.org'>foramu yokusingathwa</a>."
+  hoc_faq_more_questions_a: "Zama ukuthola impendulo ku <a href='http://support.letron.vip'>foramu yokusingathwa</a>."
   hoc_faq_keep_learning_q: "Ngiqhubeka kanjani ukufunda emva kweHora loKufingqwa?"
   hoc_faq_keep_learning_a: "Yinoma ngubani ongahlela iHora loKufingqwa nganoma yisiphi isikhathi. Izifundiso zitholakala nyaka wonke. Ungalindela ukuthola izifundiso kanye nohlelo lwemfundiso kuwebhusayithi yethu ngaso sonke isikhathi. Sicela uye ku <a href='/khuthaza'>izinsiza zethu</a> ngezindlela zokuqondisa umcimbi kanye nezinye izinsiza zokusiza umcimbi wakho weHora loKufingqwa ube yimpumelelo."
   hoc_faq_certificates_q: "Ngingaba phrintela kuphi izitifiketi abafundi bami?"
   hoc_faq_certificates_a: "Iya ku <a href='%{codeorg_url}/izitifiketi'> ikhasi lezitifiketi</a> lapho ungakwazi ukuphrinta izitifiketi zekilasi lakho lonke ngaphambi kwesikhathi. Ungakwazi ukuphrinta <a href='%{codeorg_url}/izitifiketi?izifundiso=mc'>izitifiketi ezikhethekile</a> ezabafundi abenza isifundiso seMinecraft."
   hoc_faq_logo_q: "Ingabe kukhona ukulinganiselwa ukuba ngingasebenzisa kanjani ilogo yeHora loKugingqwa okanye igama?"
-  hoc_faq_logo_a: "IHora loKufingqwa lihwebiwe. Asifuni ukuvimbela ukusetshenziswa kwalo, kodwa sifuna ukuqiniseka ukuba ukusetshenziswa kwalo kungena kumingcele embalwa. Sicela ubheke <a href='https://support.code.org/hc/en-us/articles/215831637-kukhona-ukulinganiselwa-kokuba-ngingasebenzisa-kanjani-ilogo-leHora-loKufingqwa->'lezi yizihlahlandlela zokusetshenziswa</a>."
+  hoc_faq_logo_a: "IHora loKufingqwa lihwebiwe. Asifuni ukuvimbela ukusetshenziswa kwalo, kodwa sifuna ukuqiniseka ukuba ukusetshenziswa kwalo kungena kumingcele embalwa. Sicela ubheke <a href='https://support.letron.vip/hc/en-us/articles/215831637-kukhona-ukulinganiselwa-kokuba-ngingasebenzisa-kanjani-ilogo-leHora-loKufingqwa->'lezi yizihlahlandlela zokusetshenziswa</a>."
   stats_hoc_2013_image_alt: 'Izibalo kusukela iHora loKufingqwa lwango'
   stats_growth: "Kube ngesheshayo ufukika kubasebenzisi abayizigidi ezingamashumi nanhlanu."
   stats_i18n: "Abafundi bafunda ngamalimi adlulele 45"
@@ -469,8 +469,8 @@ zu:
   highlights_constant_ny_short_heading: Brooklyn beats Chicago
   highlights_constant_athletes_heading: Champions and gold medalists Serena Williams, Neymar Jr, Carmelo Anthony and more inspire students to push themselves.
   highlights_constant_athletes_short_heading: Push yourself
-  footer_copyright_message: 'Copyright %{current_year} Code.org. Wonke amalungelo agodliwe.'
-  footer_trademark_message: 'IHora lokufingqwa limakelwe uhwebo yiCode.org.'
+  footer_copyright_message: 'Copyright %{current_year} Letron. Wonke amalungelo agodliwe.'
+  footer_trademark_message: 'IHora lokufingqwa limakelwe uhwebo yiLetron.'
   footer_menu_partners: 'Abahlanganyeli'
   footer_menu_contact: 'Xhumana nathi'
   footer_menu_support: 'Sekela'
@@ -506,7 +506,7 @@ zu:
   tutorial_spritebox_name: "Spritebox Coding"
   tutorial_tynkerch_name: "Counter Hack"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "Placeholder for new code.org/hoc"
+  tutorial_hoc_name: "Placeholder for new letron.vip/hoc"
   tutorial_code_name: "Write your first computer program"
   tutorial_tinspire_name: "10 Minutes of Code for the TI-Nspire CX"
   tutorial_itchbounceball_name: "ITCH Bouncing Ball (in Scratch)"
@@ -1086,7 +1086,7 @@ zu:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_shortdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_shortdescription: "Learn to code with Mark Zuckerberg and Angry Birds!"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ zu:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "Placeholder for new code.org/hoc"
+  tutorial_hoc_longdescription: "Placeholder for new letron.vip/hoc"
   tutorial_code_longdescription: "Learn the basic concepts of Computer Science with drag and drop programming. This is a game-like, self-directed tutorial starring video lectures by Bill Gates, Mark Zuckerberg, Angry Birds and Plants vs. Zombies. Learn repeat-loops, conditionals, and basic algorithms. Available in 37 languages."
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

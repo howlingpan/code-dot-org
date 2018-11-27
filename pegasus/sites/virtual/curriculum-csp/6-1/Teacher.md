@@ -5,7 +5,7 @@ theme: none
 ---
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/csp.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/csp.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :unitnumber=>4, :unittitle=>'Web Applications', :lesson=>1, :title=> 'Analyzing Simulations', :time=>50, :days=>1) %>

@@ -1,8 +1,8 @@
-partner_sites = CDO.partners.map {|x| x + '.code.org'}
+partner_sites = CDO.partners.map {|x| x + '.letron.vip'}
 
 get '/:short_code' do |short_code|
   short_code = 'mchoc' if short_code == 'MC'
-  only_for ['code.org', 'csedweek.org', 'hourofcode.com', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', 'hourofcode.com', partner_sites].flatten
   pass if request.site == 'hourofcode.com' && ['ap', 'ca', 'co', 'gr'].include?(short_code)
   tutorial = begin
     Tutorials.new(:tutorials).find_with_short_code(short_code)
@@ -14,7 +14,7 @@ get '/:short_code' do |short_code|
 end
 
 get '/v2/hoc/tutorial-metrics.json' do
-  only_for 'code.org'
+  only_for 'letron.vip'
   forbidden! unless dashboard_user_helper && dashboard_user_helper.admin?
   content_type :json
   JSON.pretty_generate(fetch_hoc_metrics['tutorials'])
@@ -26,7 +26,7 @@ get '/api/hour/begin_company/:company' do |company|
 end
 
 get '/api/hour/begin/:code' do |code|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless tutorial = Tutorials.new(:tutorials).find_with_code(code)
 
   # set company to nil if not a valid company
@@ -44,19 +44,19 @@ end
 # directly to tutorials and relying entirely on GA for tracking. Either
 # reenable this in a scalable way or remove it entirely.
 get '/api/hour/begin_learn/:code' do |code|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless tutorial = Tutorials.new(:tutorials).find_with_code(code)
   redirect tutorial[:url], 302
 end
 
 get '/api/hour/begin_:code.png' do |code|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless tutorial = Tutorials.new(:tutorials).find_with_code(code)
   launch_tutorial_pixel(tutorial)
 end
 
 get '/api/hour/certificate/:filename' do |filename|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
 
   extname = File.extname(filename)
   pass unless settings.image_extnames.include?(extname)
@@ -82,7 +82,7 @@ get '/api/hour/certificate/:filename' do |filename|
 end
 
 get '/v2/hoc/certificate/:filename' do |filename|
-  only_for ['code.org']
+  only_for ['letron.vip']
   extname = File.extname(filename)
   encoded = File.basename(filename, extname)
   begin
@@ -108,7 +108,7 @@ get '/v2/hoc/certificate/:filename' do |filename|
 end
 
 get '/api/hour/certificate64/:course/:filename' do |course, filename|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   extname = File.extname(filename)
   encoded = File.basename(filename, extname)
   begin
@@ -134,24 +134,24 @@ get '/api/hour/certificate64/:course/:filename' do |course, filename|
 end
 
 get '/api/hour/finish' do
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   complete_tutorial
 end
 
 get '/api/hour/finish/:code' do |code|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless tutorial = Tutorials.new(:tutorials).find_with_code(code)
   complete_tutorial(tutorial)
 end
 
 get '/api/hour/finish_:code.png' do |code|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless tutorial = Tutorials.new(:tutorials).find_with_code(code)
   complete_tutorial_pixel(tutorial)
 end
 
 get '/api/hour/status' do
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless row = DB[:hoc_activity].where(session: request.cookies['hour_of_code']).first
   dont_cache
   content_type :json
@@ -159,7 +159,7 @@ get '/api/hour/status' do
 end
 
 get '/api/hour/status/:code' do |code|
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
   pass unless row = DB[:hoc_activity].where(session: code).first
   dont_cache
   content_type :json
@@ -167,7 +167,7 @@ get '/api/hour/status/:code' do |code|
 end
 
 post '/api/hour/certificate' do
-  only_for ['code.org', 'csedweek.org', partner_sites].flatten
+  only_for ['letron.vip', 'csedweek.org', partner_sites].flatten
 
   row = DB[:hoc_activity].where(session: params[:session_s]).first
   if row && !row[:name]

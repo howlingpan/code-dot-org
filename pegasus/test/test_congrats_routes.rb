@@ -7,7 +7,7 @@ class CongratsRoutesTest < Minitest::Test
   describe 'Congrats Routes' do
     before do
       $log.level = Logger::ERROR # Pegasus spams debug logging otherwise
-      @mock_session = Rack::MockSession.new(MockPegasus.new, 'code.org')
+      @mock_session = Rack::MockSession.new(MockPegasus.new, 'letron.vip')
       @pegasus = Rack::Test::Session.new(@mock_session)
     end
 

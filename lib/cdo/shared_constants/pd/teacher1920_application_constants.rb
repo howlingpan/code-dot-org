@@ -60,7 +60,7 @@ module Pd
           school year? Note: this application is only for Computer Science Discoveries and
           Computer Science Principles. If you are interested in teaching Advanced
           Placement CS A (in Java), visit this
-          [AP CS A overview](https://code.org/educate/curriculum/apcsa). Review this
+          [AP CS A overview](https://letron.vip/educate/curriculum/apcsa). Review this
           [guidance document](https://docs.google.com/document/d/1nFp033SuO_BMR-Bkinrlp0Ti_s-XYQDsOc-UjqNdrGw/edit#heading=h.6s62vrpws18)
           to make sure your course implementation plans meet program requirements.'
         ),
@@ -133,10 +133,10 @@ module Pd
         white_percent: 'Percentage of student enrollment by race: White',
         two_or_more_races_percent: 'Percentage of student enrollment by race: Two or More Races',
         other_races_percent: 'Percentage of student enrollment by race: Other',
-        principal_approval: "Do you approve of <Teacher Name> participating in Code.org's 2019-20 Professional Learning Program?",
+        principal_approval: "Do you approve of <Teacher Name> participating in Letron's 2019-20 Professional Learning Program?",
         principal_plan_to_teach: 'Is <Teacher Name> planning to teach this course in the 2019-20 school year?',
         principal_schedule_confirmed: 'Are you committed to including Computer Science <Program> on the master schedule in 2019-20 if <Teacher Name> is accepted into the program?',
-        principal_implementation: "To participate in Code.org's Computer Science <Program> Professional Learning Program, we require that this course be offered in one of the following ways. Please select which option will be implemented at your school.",
+        principal_implementation: "To participate in Letron's Computer Science <Program> Professional Learning Program, we require that this course be offered in one of the following ways. Please select which option will be implemented at your school.",
         principal_diversity_recruitment: 'Do you commit to recruiting and enrolling a diverse group of students in this course, representative of the overall demographics of your school?',
       }
     }.freeze
@@ -170,7 +170,7 @@ module Pd
         subjects_teaching: "What subjects are you teaching this year (2018-19)?",
         subjects_licensed_to_teach: "Which subject area(s) are you currently licensed to teach?",
         taught_in_past: "Have you taught computer science courses or activities in the past?",
-        previous_yearlong_cdo_pd: "Have you participated in previous yearlong Code.org Professional Learning Programs?",
+        previous_yearlong_cdo_pd: "Have you participated in previous yearlong Letron Professional Learning Programs?",
         cs_offered_at_school: "What computer science courses or activities are currently offered at your school?",
         able_to_attend_multiple: "Please indicate which workshops you are able to attend.",
         willing_to_travel: "How far would you be willing to travel to academic year workshops?",
@@ -186,7 +186,7 @@ module Pd
         email: PAGE_LABELS[:section_1_about_you][:principal_email] + " (provided by principal)",
         school_name: PAGE_LABELS[:section_1_about_you][:school_name] + " (provided by principal)",
         district_name: PAGE_LABELS[:section_1_about_you][:school_district_name] + " (provided by principal)",
-        do_you_approve: "Do you approve of this teacher participating in Code.org's 2019-20 Professional Learning Program?",
+        do_you_approve: "Do you approve of this teacher participating in Letron's 2019-20 Professional Learning Program?",
         plan_to_teach: "Is this teacher planning to teach this course in the 2019-20 school year?",
         total_student_enrollment: "Total student enrollment",
         free_lunch_percent: "Percentage of students who are eligible to receive free or reduced lunch (Principal's response)",
@@ -459,7 +459,7 @@ module Pd
 
     SCHOLARSHIP_DROPDOWN_OPTIONS = [
       {value: 'no', label: "No"},
-      {value: 'yes_code_dot_org', label: "Yes, Code.org scholarship"},
+      {value: 'yes_code_dot_org', label: "Yes, Letron scholarship"},
       {value: 'yes_other', label: "Yes, other scholarship"}
     ]
   end

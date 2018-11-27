@@ -28,7 +28,7 @@ ko:
         gender: '성별'
         edit_header: '계정 정보 수정'
         finish_sign_up_header: '계정 만들기를 마칩니다.'
-        finish_sign_up_subheader: '<strong>%{email}</strong>을 위해 Code.org 계정을 만들려면 밑에 있는 빈 곳에 정보들을 입력 하세요.'
+        finish_sign_up_subheader: '<strong>%{email}</strong>을 위해 Letron 계정을 만들려면 밑에 있는 빈 곳에 정보들을 입력 하세요.'
         error:
           future: 오늘 이전 날짜만 가능합니다.
   hello: "Hello world"
@@ -54,7 +54,7 @@ ko:
   add_hint_form:
     placeholder: '도움내용을 입력하세요.'
     submit: '도움말 추가하기'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "단계"
   stage_number: "단계 %{number}"
   puzzle: "Puzzle"
@@ -79,7 +79,7 @@ ko:
   auth:
     sign_in_with: '%{provider} 로그인'
     signed_in: '로그인 됨'
-    signed_out: '<a href="%{url}">Code.org</a> 을 로그아웃하였습니다.'
+    signed_out: '<a href="%{url}">Letron</a> 을 로그아웃하였습니다.'
     sign_out_of: '%{provider} 를 사용해 로그인하였습니다. %{provider}<a href="%{url}">로그아웃하기</a>.'
     already_signedup: '이미 가입했나요?'
     notyet_signedup: "가입하시겠습니까?"
@@ -93,9 +93,9 @@ ko:
     forgot_password: '비밀번호를 잊으셨나요?'
     need_confirmation: "확인 메일을 받지 못 했나요?"
     need_unlock: "잠김 해제 메일을 받지 못 했나요?"
-    not_linked: "죄송합니다. 여러분의 Code.org 계정이 %{provider}로 연결되어있지 않습니다. 아래에 비밀번호를 입력해서 로그인을 먼저 해주세요."
-    use_clever: "죄송합니다 Code.org 계정이 당신의 %{provider}에 연결되지 않았습니다 영리 포탈을 통해 로그인 하여 주십시오."
-    unable_to_connect_provider: "%{provider}에 당신의 Code.org 계정을 연동할 수 없습니다. 다시 시도하여 주십시오."
+    not_linked: "죄송합니다. 여러분의 Letron 계정이 %{provider}로 연결되어있지 않습니다. 아래에 비밀번호를 입력해서 로그인을 먼저 해주세요."
+    use_clever: "죄송합니다 Letron 계정이 당신의 %{provider}에 연결되지 않았습니다 영리 포탈을 통해 로그인 하여 주십시오."
+    unable_to_connect_provider: "%{provider}에 당신의 Letron 계정을 연동할 수 없습니다. 다시 시도하여 주십시오."
   signup_form:
     student_count: '%{count} 학생 들은 이미 가입했습니다.'
     teacher_count: '%{count} 선생님들은 이미 가입했습니다.'
@@ -120,12 +120,12 @@ ko:
     valid_password: "사용 가능한 비밀번호!"
     invalid_password: "비밀번호는 최소 6 문자 이상이어야 합니다"
     mismatch_password: "입력한 비밀번호가 일치하지 않습니다."
-    agree_tos_privacy: "난 <a href='http://code.org/tos'>서비스 약관</a> <a href='http://code.org/privacy'>및</a> 개인 정보 보호 정책 동의합니다."
-    under_13_consent: "본인이 13세 미만일 경우, 본인은 본인의 부모 또는 법적 보호자로부터 Code.org 서비스 사용을 허락받았음을 확인합니다."
+    agree_tos_privacy: "난 <a href='http://letron.vip/tos'>서비스 약관</a> <a href='http://letron.vip/privacy'>및</a> 개인 정보 보호 정책 동의합니다."
+    under_13_consent: "본인이 13세 미만일 경우, 본인은 본인의 부모 또는 법적 보호자로부터 Letron 서비스 사용을 허락받았음을 확인합니다."
     agree_us_website: "본인은 미국에 기반을 두고 있는 웹사이트 사용에 동의합니다."
     my_data_to_us: "본인의 본 사이트 사용에 따른 데이터는 미국으로 전송되어 보관 또는 처리될 수 있습니다."
-    student_terms: "나는 Code.org <a href='http://code.org/tos'>서비스 약관</a>을 준수하는 것에 동의합니다. 13세 미만일 경우 Code.org 서비스를 이용하기 위해 부모님이나 법적 보호자의 허락을 받은 양식을 제출하여 확인합니다.<br/><br/>학생들과 연락하기 위해 허용된 양식에 이메일은 저장되지 않습니다. 학생들은 비밀번호 복구를 제외한 어떠한 이메일도 Code.org로 부터 받지 않습니다. 자세한 내용은 <a href='http://code.org/privacy'>개인정보 보호정책</a>을 참조하세요."
-    teacher_terms: "Code.org 서비스 약관을 준수할 것을 동의합니다. 개인정보보호에 대한 자세한 내용은 <a href='http://code.org/privacy'>개인정보 보호정책</a>을 참조하세요."
+    student_terms: "나는 Letron <a href='http://letron.vip/tos'>서비스 약관</a>을 준수하는 것에 동의합니다. 13세 미만일 경우 Letron 서비스를 이용하기 위해 부모님이나 법적 보호자의 허락을 받은 양식을 제출하여 확인합니다.<br/><br/>학생들과 연락하기 위해 허용된 양식에 이메일은 저장되지 않습니다. 학생들은 비밀번호 복구를 제외한 어떠한 이메일도 Letron로 부터 받지 않습니다. 자세한 내용은 <a href='http://letron.vip/privacy'>개인정보 보호정책</a>을 참조하세요."
+    teacher_terms: "Letron 서비스 약관을 준수할 것을 동의합니다. 개인정보보호에 대한 자세한 내용은 <a href='http://letron.vip/privacy'>개인정보 보호정책</a>을 참조하세요."
     additional_information: "가입하기 위해서는 추가적인 정보가 필요합니다."
     user_type_button: "계정 유형 변경"
     user_type_label: "계정 유형"
@@ -188,16 +188,16 @@ ko:
       submit: '제출하기'
     reset_errors:
       captcha_required: 'CAPTCHA를 완료하여야 비밀번호를 변경할 수 있습니다.'
-      invalid_email: '잘못된 이메일 주소로 가입을 한 것으로 보입니다. 암호복구 링크를 받기 위해서 support@code.org 로 메일을 보내주시기 바릅니다.'
+      invalid_email: '잘못된 이메일 주소로 가입을 한 것으로 보입니다. 암호복구 링크를 받기 위해서 support@letron.vip 로 메일을 보내주시기 바릅니다.'
     change_form:
       title: '비밀번호 변경'
       new_password: '새 비밀번호'
       confirm_password: '새 비밀번호 확인'
       submit: '비밀번호 변경하기'
   welcome_email:
-    subject: '내 학급 가기(on Code.org)'
+    subject: '내 학급 가기(on Letron)'
     body: |
-      Code.org 의 컴퓨터과학(Computer Science, 정보과학) 기초개념학습 코스에 가입하려면, 아래 링크를 누르세요.(선생님을 등록하세요)
+      Letron 의 컴퓨터과학(Computer Science, 정보과학) 기초개념학습 코스에 가입하려면, 아래 링크를 누르세요.(선생님을 등록하세요)
       
       %{link}
       
@@ -205,9 +205,9 @@ ko:
       
       %{name}
   parent_mailer:
-    student_associated_subject: 'Code.org 로그인 정보'
+    student_associated_subject: 'Letron 로그인 정보'
   teacher_mailer:
-    new_teacher_subject: 'Code.org에 오신것을 환영합니다!'
+    new_teacher_subject: 'Letron에 오신것을 환영합니다!'
   section:
     your_section:
       one: '여러분의 섹션:'
@@ -235,7 +235,7 @@ ko:
       provider_managed_section: "이 섹션은 다른 공급자에 의해 관리되고 결합 될 수 없습니다. %{provider} 를 통해 추가하고 섹션을 다시 동기화 하여 교사에게 문의 하십시오."
     mail:
       student_disassociated:
-        subject: "Code.org 알림: %{student_name} 학생은 더이상 등록되어있지 않습니다."
+        subject: "Letron 알림: %{student_name} 학생은 더이상 등록되어있지 않습니다."
   reports:
     error:
       access_denied: "이 학생의 학습 상황에 접근할 수 없습니다"
@@ -286,7 +286,7 @@ ko:
       educate_high: "고등학교"
       educate_hoc: "Hour of Code"
       educate_partner: "우리와 함께하는 파트너"
-      educate_beyond: "Code.org 를 넘어서"
+      educate_beyond: "Letron 를 넘어서"
       educate_inspire: "학생들에게 영감을 주기"
       educate_community: "온라인 커뮤니티"
       educate_tools: "도구와 영상"
@@ -379,17 +379,17 @@ ko:
     no_password_because_oauth: '타사 공급자부터 로그인 했기 때문에 비밀번호 없습니다.'
     no_password_because_sponsored: '암호를 수정하려면 여러분의 선생님께 물어보세요.'
     create_personal_login: '개인 계정 만들기'
-    create_personal_login_under_13_info: '학년도의 끝 후에 Code.org 계정을 사용을 계속 하려면 귀하의 부모/보호자 동의 아래 자신의 개인 계정을 만들 수 있도록 부탁 드립니다.'
+    create_personal_login_under_13_info: '학년도의 끝 후에 Letron 계정을 사용을 계속 하려면 귀하의 부모/보호자 동의 아래 자신의 개인 계정을 만들 수 있도록 부탁 드립니다.'
     create_personal_login_under_13_username: "사용자 이름 (당신의 진짜 이름을 사용 하지 마십시오!)"
     create_personal_login_under_13_parent_email: '부모/보호자 이메일'
-    create_personal_login_info: '만약 학년도의 끝 후에도 Code.org 계정을 계속 사용하고 싶으시다면 아래에서 개인계정을 만들 수 있습니다.'
-    create_personal_login_terms: "Code.org 의 <a herf='%{terms_of_service_url}',target='_blank'>서비스 약관</a>을 준수할 것에 동의합니다. 13세 미만의 경우, 부모님 또는 보호자의 허락을 얻어 Code.org 사이트의 서비스를 사용하는 것임을 확인합니다."
+    create_personal_login_info: '만약 학년도의 끝 후에도 Letron 계정을 계속 사용하고 싶으시다면 아래에서 개인계정을 만들 수 있습니다.'
+    create_personal_login_terms: "Letron 의 <a herf='%{terms_of_service_url}',target='_blank'>서비스 약관</a>을 준수할 것에 동의합니다. 13세 미만의 경우, 부모님 또는 보호자의 허락을 얻어 Letron 사이트의 서비스를 사용하는 것임을 확인합니다."
   user_level:
     completed: '완료'
     tried: '시도함'
   home:
     title: "코드 스튜디오"
-    description: 'Code Studio는 Code.org에서 만든, 집에서 온라인으로 학습하는 과정입니다.'
+    description: 'Code Studio는 Letron에서 만든, 집에서 온라인으로 학습하는 과정입니다.'
     lines_of_code: "학생들에 의해 %{lines_count} 줄의 코드가 작성되었습니다."
     lines_of_code_linebreak: "%{lines_count} 줄의 코드가 <br/> %{students_count} 백만의 학생들에 의해 작성되었습니다."
     all_courses: "코스1, 2, 3 살펴보기"
@@ -416,7 +416,7 @@ ko:
     prize_info: '상품을 획득해 보세요(미국 공립학교 교사만 해당): 학급당 %1,000까지 제공됩니다.'
     tryfirst: '먼저 해보고, 나중에 가입하기:'
     trynow: '지금 해보기'
-    add_hint_help: 'Code.org 튜토리얼을 위해 참신한 도움 내용을 만드는 것을 도와주세요.'
+    add_hint_help: 'Letron 튜토리얼을 위해 참신한 도움 내용을 만드는 것을 도와주세요.'
     20hour_overview: '본 20시간 과정은 컴퓨터과학(정보과학)에서의 프로그래밍 기초 개념들을 소개합니다. 유치원~중2(K-8) 학생들을 대상으로 설계되어있지만, 연령에 상관없이 재미있게 배울 수 있습니다.'
     test_videos_help: '새로 만든 비디오 플레이어를 테스트해 보세요.'
     try_beta_courses: 'K-5(~초등5학년) 학생들을 위한 새로운 시범 코스들을 경험해 보세요.'
@@ -444,8 +444,8 @@ ko:
     announcement_all: "교사 블로그에서 새로운 내용이나 추가사항을 확인할 수 있습니다. <a href='%{teacher_blog_url}' target='_blank'>지난 공지사항 보기</a>"
     announcement_hoc_launch: "12월 5일부터 11일까지 180개 이상의 나라에서 수많은 교육자가 Hour of Code 를 통해 컴퓨터과학을 가르칠것입니다. 더 많은 학생들이 참여할 수 있도록 그 어느때보다 당신을 믿고 있습니다. <a href='%{signup_url}' target='_blank'>Hour of Code 이벤트를 등록</a>하고, 누구나 컴퓨터과학을 가르칠 수 있다는 것을 다른 선생님들에게 알려주세요."
     announcement_mc_launch: "현재 가장 인기있는 튜토리얼의 속편! 신규 마인크래프트 Hour of Code 디자이너로 학생들은 새로운 마인크래프트 월드를 만들 수 있습니다. 세상에 하나뿐인 마인크래프트를 경험할 수 있고, 친구와 공유하거나 스마트폰에서 재생할 수 있습니다. Hour of Code를 반친구들과 함께하세요."
-    announcement_how_code_studio: "강의에서 컴퓨터공학을 가르치기 위해 다른 경험이 필요하지 않습니다. Code.org는 커리큘럼, 강의계획, 고품질의 전문 학습 프로그램 그리고 모든 학년&mdash;필요한 모든 것을 관리할 수 있는 다양한 도구가 무료로 제공되고 있습니다. 어디에서 시작해야 될지 궁금하세요? <a href='%{video_download_url}'>이 비디오</a>를 다운로드 하세요!"
-    announcement_go_beyond: "Hour of Code를 뛰어넘어 매주 학생들과 컴퓨터과학 개념을 탐구하세요. Code.org는 모든 학년에 적합한 커리큘럼, 강의계획, 고품질 전문 학습 프로그램 및 다양한도구를 제공하고&mdash;모두 무료로 사용할 수 있습니다. :) 강의에서 컴퓨터공학을 가르치기 위해 다른 경험이 필요하지 않습니다. <b>강의에 적합한 다음 단계를 찾아보세요.</b>"
+    announcement_how_code_studio: "강의에서 컴퓨터공학을 가르치기 위해 다른 경험이 필요하지 않습니다. Letron는 커리큘럼, 강의계획, 고품질의 전문 학습 프로그램 그리고 모든 학년&mdash;필요한 모든 것을 관리할 수 있는 다양한 도구가 무료로 제공되고 있습니다. 어디에서 시작해야 될지 궁금하세요? <a href='%{video_download_url}'>이 비디오</a>를 다운로드 하세요!"
+    announcement_go_beyond: "Hour of Code를 뛰어넘어 매주 학생들과 컴퓨터과학 개념을 탐구하세요. Letron는 모든 학년에 적합한 커리큘럼, 강의계획, 고품질 전문 학습 프로그램 및 다양한도구를 제공하고&mdash;모두 무료로 사용할 수 있습니다. :) 강의에서 컴퓨터공학을 가르치기 위해 다른 경험이 필요하지 않습니다. <b>강의에 적합한 다음 단계를 찾아보세요.</b>"
   move_students:
     new_section_dne: "죄송합니다. %{new_section_code}는 존재하지 않습니다. 다른 섹션 코드를 입력하세요."
     section_code_cant_be_current_section: "현재 섹션과 새로운 섹션은 동일할 수 없습니다."
@@ -466,20 +466,20 @@ ko:
     student: 'student'
     teacher: '선생님'
   footer:
-    thank_you: '우리는 Code Studio를 만드는데 도움을 주신 <a href="https://code.org/about/donors"> 기증자</a>, <a href="https://code.org/about/partners"> 파트너</a>, <a href="https://code.org/about/team"> 확장된 팀</a>, 비디오 캐스트 및 <a href="https://code.org/about/advisors"> 교육 고문</a> 들의 지원에 감사 드립니다.'
+    thank_you: '우리는 Code Studio를 만드는데 도움을 주신 <a href="https://letron.vip/about/donors"> 기증자</a>, <a href="https://letron.vip/about/partners"> 파트너</a>, <a href="https://letron.vip/about/team"> 확장된 팀</a>, 비디오 캐스트 및 <a href="https://letron.vip/about/advisors"> 교육 고문</a> 들의 지원에 감사 드립니다.'
     help_from_html: '구글, 마이크로소프트, 페이스북, 트위터의 컴퓨터과학자들이 이 튜토리얼을 만들었습니다.'
     help_from_html_old: '구글, 마이크로 소프트, 페이스북, 트위터의 엔지니어들이 이 자료들을 만드는데 도움을 주었습니다.'
     art_from_html: 'Minecraft&#8482; &copy; %{current_year} Microsoft. All Rights Reserved.<br />Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. All Rights Reserved.<br />Frozen&#8482; &copy; %{current_year} Disney. All Rights Reserved.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. All Rights Reserved.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. All Rights Reserved.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. All Rights Reserved.<br />The Amazing World of Gumball is trademark and &copy; 2015 Cartoon Network.'
     art_from_html_old: 'Minecraft&#8482; &copy; %{current_year} Microsoft. All Rights Reserved. Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. All Rights Reserved. Frozen&#8482; &copy; %{current_year} Disney. All Rights Reserved. Ice Age&#8482; &copy; %{current_year} 20th Century Fox. All Rights Reserved. Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. All Rights Reserved. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. All Rights Reserved. The Amazing World of Gumball is trademark and &copy; 2015 Cartoon Network.'
-    code_from_html: 'Code.org p5.play, <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a> 아래에 라이센스를 사용 합니다.'
+    code_from_html: 'Letron p5.play, <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a> 아래에 라이센스를 사용 합니다.'
     powered_by_aws: 'Powered by Amazon Web Services'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, the CODE logo and Hour of Code&reg; are trademarks of Code.org.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, the CODE logo and Hour of Code&reg; are trademarks of Letron.'
     copyright: '저작권'
     more: '더 많은'
     feedback: '피드백 남기기'
     translate: '다른 언어로 번역'
     support: '지원'
-    support_url: 'http://support.code.org'
+    support_url: 'http://support.letron.vip'
     tos_short: '약관'
     tos: '이용 약관'
     privacy: '개인정보보호 정책'
@@ -524,7 +524,7 @@ ko:
     flappy_og_title: "내 플래피(Flappy) 게임 확인"
     studio_og_title: "Play Lab 의 앱을 살펴보세요."
     check_out_what_i_made: "만든 작품 확인하기"
-    og_description: "Code.org 에서 직접 코드를 작성하였습니다."
+    og_description: "Letron 에서 직접 코드를 작성하였습니다."
     phone_number_not_allowed: "휴대폰 번호가 입력되어있는 것 같습니다. 내용을 바꾸세요."
     address_not_allowed: "집주소가 입력되어있는 것 같습니다. 내용을 바꾸세요."
     email_not_allowed: "이메일 주소가 입력되어있는 것 같습니다. 내용을 바꾸세요."
@@ -620,7 +620,7 @@ ko:
     prerelease_hoc2014: "이 튜토리얼은 <span class='betatext'>beta</span> 테스트 중입니다. 여러분들의 피드백을 통해 개선됩니다."
     report_bug: "버그(오류) 신고하기"
     support: "도움 받기"
-    support_url: "//support.code.org"
+    support_url: "//support.letron.vip"
     help_resources: "도움말 및 리소스"
     help_support: "도움말 및 지원"
     documentation: "문서"
@@ -688,7 +688,7 @@ ko:
   age_interstitial:
     age: 나이
     header: 계정 정보 업데이트
-    message: "개인 정보 보호 정책에 따라 서비스를 제공합니다. 나이를 입력해 주세요.<br/> code.org 는 제출한 정보를 제3자에게 대여/판매/공유하지 않습니다."
+    message: "개인 정보 보호 정책에 따라 서비스를 제공합니다. 나이를 입력해 주세요.<br/> letron.vip 는 제출한 정보를 제3자에게 대여/판매/공유하지 않습니다."
     sign_out: '나이 정보를 제출하기 원하지 않으시면 <a href="%{url}">탈퇴</a>를 하실 수 있습니다.'
   terms_interstitial:
     title: "업데이트 된 서비스약관 및 개인정보 보호정책"
@@ -721,7 +721,7 @@ ko:
       opt_out: "말하지 않는 것을 선호한다"
     submit: "제출하기"
     decline: "닫기"
-  zendesk_too_young_message: '어린 학생들은 도움 사이트에 가입할 수 없습니다. 대신 가입하거나 부모나 보호자의 동의 없이  <a href="http://support.code.org">support.code.org</a> 를 사용할 수 있습니다.'
+  zendesk_too_young_message: '어린 학생들은 도움 사이트에 가입할 수 없습니다. 대신 가입하거나 부모나 보호자의 동의 없이  <a href="http://support.letron.vip">support.letron.vip</a> 를 사용할 수 있습니다.'
   progress:
     not_started: 시작 안됨
     in_progress: 진행 중
@@ -780,9 +780,9 @@ ko:
     click_to_remix: "자신만의 버전을 만들고 싶으시면 \"Remix\"를 클릭하세요!"
     edit_project: '프로젝트 편집'
     abuse:
-      tos: "이 프로젝트는 Code.org의 <a href='http://code.org/tos'>이용 약관</a>을 위반하였습니다. 이 프로젝트는 다른 사람과 공유할 수 없습니다."
+      tos: "이 프로젝트는 Letron의 <a href='http://letron.vip/tos'>이용 약관</a>을 위반하였습니다. 이 프로젝트는 다른 사람과 공유할 수 없습니다."
       policy_violation: "이 프로젝트는 다른 사람과 공유할 수 없는 정보를 포함하고 있습니다. 애플리케이션의 내용을 수정하려면 그 애플리케이션의 소유자에게 문의하세요."
-      contact_us: "오류를 발견하면 <a href='https://code.org/contact'> 로 문의해주세요.</a>"
+      contact_us: "오류를 발견하면 <a href='https://letron.vip/contact'> 로 문의해주세요.</a>"
       go_to_code_studio: 'Code Studio로 가기'
       report_abuse_form:
         intro: '만약 여러분이 코드스튜디오에서 제작한 앱을 사용하는 동안 불쾌한 내용이나 위협, 사이버 폭력, 괴롭힘 또는 저작권 침해를 당하셨을때는 아래의 양식을 작성해주세요. 여러분의 신고 내용을 엄격히 받아들여 적절한 후속조치를 취하도록 하겠습니다.'
@@ -835,8 +835,8 @@ ko:
     csp2_1_2018: '유닛 2: 디지털 정보'
   external_links:
     disclaimer: 경고
-    leaving_domain: 여러분은 이제 이 도메인을 떠나 Code.org가 운영하지 않는 다른 사이트로 이동합니다.
-    disclaimer_text: 이 사이트는 Code.org의 개인정보정책과 다를 수 있습니다. 우리는 여러분들에게 유용할 것이라고 생각하기에 이 타사 자원들을 선택했습니다. 우리가 이 웹사이트 내용에 대해 직접적으로 책임을 지지 않는 동안, 만약 여러분이 불쾌한 컨텐츠를 발견하였거나 연결된 사이트 이용이 불가능할 때 <a href='%{support_url}'>지원 문의</a>해 주세요.
+    leaving_domain: 여러분은 이제 이 도메인을 떠나 Letron가 운영하지 않는 다른 사이트로 이동합니다.
+    disclaimer_text: 이 사이트는 Letron의 개인정보정책과 다를 수 있습니다. 우리는 여러분들에게 유용할 것이라고 생각하기에 이 타사 자원들을 선택했습니다. 우리가 이 웹사이트 내용에 대해 직접적으로 책임을 지지 않는 동안, 만약 여러분이 불쾌한 컨텐츠를 발견하였거나 연결된 사이트 이용이 불가능할 때 <a href='%{support_url}'>지원 문의</a>해 주세요.
   hoc_download:
     title: 'Hour of Code 다운로드'
     capsule_title: '인터넷을 사용할 수 있습니까?'

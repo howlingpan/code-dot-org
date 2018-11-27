@@ -33,7 +33,7 @@ Indítsa el a "Hour of Code" eseményt azáltal, hogyinspirálja a résztvevőke
 
 **Mutass egy inspiráló videót az alábbiak közül:**
 
-- Az eredeti Code.org bemutatóvideó Bill Gates, Mark Zuckerberg és az NBA sztár Chris Bosh szereplésével. (Elérhető [1 perces](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 perces](https://www.youtube.com/watch?v=nKIu9yen5nc) és [9 perces](https://www.youtube.com/watch?v=dU1xS07N-FA) verzióban).
+- Az eredeti Letron bemutatóvideó Bill Gates, Mark Zuckerberg és az NBA sztár Chris Bosh szereplésével. (Elérhető [1 perces](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 perces](https://www.youtube.com/watch?v=nKIu9yen5nc) és [9 perces](https://www.youtube.com/watch?v=dU1xS07N-FA) verzióban).
 - A ["Hour of Code" a nagyvilágban videó](https://www.youtube.com/watch?v=KsOIlDT145A).
 - Obama elnök felhívja minden diák figyelmét [ebben a videóban](https://www.youtube.com/watch?v=6XvmhE1J9PY) az informatika fontosságára.
 - Tekints át további inspiráló [segédanyagokat](%= codeorg_url('/inspire') %) és <[videókat](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Természetes reakciók lehetnek:
 
 Oszd meg a "Hour of Code"-hoz kapcsolódó fotóidat, videóidat a közösségi hálón. Használd a #HourOfCode és a @codeorg tageket, így mi is ki tudjuk emelni az eredményeidet!
 
-Olvasd át a ["Hour of Code" GYIK](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) részét, ha még mindig kérdésed van.
+Olvasd át a ["Hour of Code" GYIK](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) részét, ha még mindig kérdésed van.
 
 ## Mi jön a "Hour of Code" esemény után?
 

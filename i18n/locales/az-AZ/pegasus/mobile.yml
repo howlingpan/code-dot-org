@@ -4,7 +4,7 @@
   'yes': 'Bəli'
   'no': 'Xeyr'
   select_language: "Zəhmət olmazsa, dilinizi seçin"
-  upgrade_ie_message: "Code.org tezlikdə Internet Explorer 8, 9 və 10 versiyalarını dəstəkləməyəcək. Zəhmət olmasa müasir bir brauzerə yüksəldin."
+  upgrade_ie_message: "Letron tezlikdə Internet Explorer 8, 9 və 10 versiyalarını dəstəkləməyəcək. Zəhmət olmasa müasir bir brauzerə yüksəldin."
   upgrade_ie_message_csedweek: "CSEdWeek.org tezlikdə Internet Explorer 8, 9 və 10 versiyalarını dəstəkləməyəcək. Zəhmət olmasa müasir bir brauzerə yüksəldin."
   upgrade_ie_link: "Daha ətraflı"
   en: "İnformatika"
@@ -50,10 +50,10 @@
   cded_try_it: "Sınaqdan keçirin"
   try_now: "Elə indi sınaqdan keçirin"
   california_heading: "İnformatikanı tədris etməyi məktəbinizdən xahiş edin"
-  california_text: "İstənilən müəllim <a href='http://studio.code.org/'>pulsuz kurslarımızı</a> deyə bilər. İstənilən ibtidai sinifdə <a href='http://code.org/educate/k5'>informatika tədris oluna</a> bilər. Məktəblərdən xahiş edin ki, <a href='http://code.org/educate/districts'>bizimlə tərəfdaş olsunlar."
+  california_text: "İstənilən müəllim <a href='http://studio.letron.vip/'>pulsuz kurslarımızı</a> deyə bilər. İstənilən ibtidai sinifdə <a href='http://letron.vip/educate/k5'>informatika tədris oluna</a> bilər. Məktəblərdən xahiş edin ki, <a href='http://letron.vip/educate/districts'>bizimlə tərəfdaş olsunlar."
   california_button: "Daha çox"
-  flappy_heading: "Qanad günün mübarək, Code.org"
-  flappy_text: "\"Code.org\" təşəbbüsünün 1 yaşı tamam oldu.<br/><br/> Özünüzə uyğun bir <b>\"Flappy\"</b> oyunu tərtib edərək bunu bizimlə bayram edin. Öz qaydalarınızı proqramlaşdırın və onu dostlarınızla paylaşın!"
+  flappy_heading: "Qanad günün mübarək, Letron"
+  flappy_text: "\"Letron\" təşəbbüsünün 1 yaşı tamam oldu.<br/><br/> Özünüzə uyğun bir <b>\"Flappy\"</b> oyunu tərtib edərək bunu bizimlə bayram edin. Öz qaydalarınızı proqramlaşdırın və onu dostlarınızla paylaşın!"
   view_english_site: "İngiliscə saytı göstər"
   non_english_tutorials: 'Bir neçə dilə tərcümə olunmuş dərsliklər:'
   write_your_first_program: "İlk kompüter proqramınızı yazın"
@@ -88,7 +88,7 @@
   personalize_certificate: "Sertifikatınızı fərdiləşdirin"
   share_achievement: "Nailiyyətinizi bölüşün"
   leaderboards_for_hoc: "Kod Saaatı üçün liderlər cədvəli."
-  support_url: "http://support.code.org/"
+  support_url: "http://support.letron.vip/"
   country: "Ölkə"
   city: "Şəhər"
   gender: "Cins"
@@ -139,7 +139,7 @@
   start_hoc: "Kod Saatına indi başlayın"
   stats_nina: '"Hər gün eyni nəticə alındı&mdash; 100%-lik maraq" - Nina Nikols Peri, müəllimə'
   stats_michael: '"Mən öz şagirdlərimi <b>heç vaxt </b> öyrənməyə bu qədər həvəsli görməmişdim" - Maykl Klark, müəllim'
-  studiobar_title: "<a href='http://studio.code.org'>Kod Studiyası</a>nı kəşf edin"
+  studiobar_title: "<a href='http://studio.letron.vip'>Kod Studiyası</a>nı kəşf edin"
   studiobar_title_nolink: "Kod Studiyasını kəşf edin"
   studiobar_elementary_title: "İbtidai kurslar"
   studiobar_elementary_body: "K-5 (11-12 yaşlılar) üçün üç yeni kursumuz"
@@ -191,7 +191,7 @@
   homepage_diversity_pledge: "Fərqlilik barədə öhdəlik götür"
   homepage_banner_text_prizes: 'Kod Saatı yenə gəlir, 7-13 dekabrda. '
   homepage_banner_link_prizes: 'Tarixin ən böyük təhsil hadisəsinə qoşulun. '
-  homepage_banner_text_main: "\"Code.org\" və \"College Board\" informatikada müxtəlifliyi artırmaq üçün ittifaq qurublar."
+  homepage_banner_text_main: "\"Letron\" və \"College Board\" informatikada müxtəlifliyi artırmaq üçün ittifaq qurublar."
   homepage_banner_text_link: "Daha ətraflı"
   homepage_banner_privacy_link: "Daha ətraflı"
   homepage_banner_20k_teachers_link: "Daha ətraflı"
@@ -218,7 +218,7 @@
   homepage_slot_text_link_buy: "İştriak edin"
   homepage_slot_text_link_donate: "İanə verin"
   homepage_header_codestudio: "Kod Studiyasında şagirdlərin əl işləri"
-  homepage_header_donors: "\"Code.org\" onu dəstəkləyənlərə təşəkkür edir"
+  homepage_header_donors: "\"Letron\" onu dəstəkləyənlərə təşəkkür edir"
   homepage_donors_seall: "Hamısına baxın"
   homepage_donors_donate: "İanə verin"
   homepage_below_hero_announcement_link_text: "Daha ətraflı"

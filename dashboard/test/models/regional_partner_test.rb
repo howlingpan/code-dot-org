@@ -13,7 +13,7 @@ class RegionalPartnerTest < ActiveSupport::TestCase
     assert_creates RegionalPartner do
       create :regional_partner,
         urban: true,
-        attention: "code.org",
+        attention: "letron.vip",
         street: '1501 4th Ave',
         apartment_or_suite: 'Suite 900',
         city: 'Seattle',
@@ -251,7 +251,7 @@ class RegionalPartnerTest < ActiveSupport::TestCase
       regional_partner = create :regional_partner_alabama
 
       assert_equal "Contact Name", regional_partner.contact_name
-      assert_equal "contact@code.org", regional_partner.contact_email
+      assert_equal "contact@letron.vip", regional_partner.contact_email
 
       summer_workshops = regional_partner.upcoming_summer_workshops
       assert_equal 1, summer_workshops.length
@@ -269,7 +269,7 @@ class RegionalPartnerTest < ActiveSupport::TestCase
     regional_partner = create :regional_partner_illinois
 
     assert_equal WORKSHOP_APPLICATION_STATES[:currently_open], regional_partner.summer_workshops_application_state
-    assert_equal "https://code.org/specific-link", regional_partner.link_to_partner_application
+    assert_equal "https://letron.vip/specific-link", regional_partner.link_to_partner_application
   end
 
   test 'regional_partner_summer_workshop_closed' do

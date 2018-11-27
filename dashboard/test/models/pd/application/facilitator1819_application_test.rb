@@ -86,7 +86,7 @@ module Pd::Application
     end
 
     test 'answer_with_additional_text with custom field' do
-      OPTION = 'A Code.org Regional Partner (please share name):'
+      OPTION = 'A Letron Regional Partner (please share name):'
       application_hash = build :pd_facilitator1819_application_hash
       application_hash[:how_heard] = [OPTION]
       application_hash[:how_heard_regional_partner] = 'Hogwarts Coding Wizards'

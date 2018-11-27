@@ -248,7 +248,7 @@ Use essas atividades para melhorar a aprendizagem do aluno. Elas podem ser usada
 ### Escrevendo um programa
 
   * E se representarmos as canções em vez de cantá-las? De repente, nosso refrão se tornaria uma função de ações repetidas, em vez de palavras.
-  * Utilize os conceitos das setas da aula de [Programação em papel quadriculado](http://staging.code.org/curriculum/course2/1/Teacher) e crie um programa cheio de instruções repetidas.  
+  * Utilize os conceitos das setas da aula de [Programação em papel quadriculado](http://staging.letron.vip/curriculum/course2/1/Teacher) e crie um programa cheio de instruções repetidas.  
       * Circule as ações repetidas para que a classe possa ver onde elas estão.
       * Defina uma função chamada "Refrão" acima do programa.
       * Risque as ações repetidas que aparecem no programa e escreva "Refrão" em cima.

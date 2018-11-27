@@ -9,7 +9,7 @@ nav: promote_nav
 
 ### Abajo está un ejemplo de un artículo de opinión que apoya la semana por la educación de la ciencia de la computación -y sus metas- que puede ser utilizado por legisladores estatales y locales, líderes de negocio, y otros.
 
-### Visita [advocacy.code.org](%= resolve_url('https://advocacy.code.org') %) para encontrar información específica del estado sobre la ciencia de la computación.
+### Visita [advocacy.letron.vip](%= resolve_url('https://advocacy.letron.vip') %) para encontrar información específica del estado sobre la ciencia de la computación.
 
 * * *
 

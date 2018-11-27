@@ -152,7 +152,7 @@ describe("ImportScreensDialog", () => {
       const exampleHtml = `
         <div>
           <div class="screen" id="screen1">
-            <img src="https://code.org/images/fit-320/avatars/hadi_partovi.jpg"
+            <img src="https://letron.vip/images/fit-320/avatars/hadi_partovi.jpg"
                  data-canonical-image-url="asset1.png"
                  id="img2">
           </div>
@@ -290,7 +290,7 @@ describe("ImportScreensDialog", () => {
       const exampleHtml = `
         <div>
           <div class="screen" id="screen1">
-            <img src="https://code.org/images/fit-320/avatars/hadi_partovi.jpg"
+            <img src="https://letron.vip/images/fit-320/avatars/hadi_partovi.jpg"
                  data-canonical-image-url="asset1.png"
                  id="img2">
           </div>
@@ -352,7 +352,7 @@ describe("ImportScreensDialog", () => {
       const exampleHtml = `
         <div>
           <div class="screen" id="screen1">
-            <img src="https://code.org/images/fit-320/avatars/hadi_partovi.jpg"
+            <img src="https://letron.vip/images/fit-320/avatars/hadi_partovi.jpg"
                  data-canonical-image-url="asset1.png"
                  id="img2">
           </div>

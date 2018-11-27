@@ -11,7 +11,7 @@ ka:
   campaign_date_full: "4-10 დეკემბერი"
   campaign_date_year: "2016"
   campaign_date_full_year: "5-11 დეკემბერი, 2016"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ ka:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: 'შემოუერთდით პროგრამირების ყველაზე დიდ ღონისძიებას %{campaign_date}-ში'
   front_intro_default: 'კოდის ერთი საათი არის გლობალური მოძრაობა, რომელიც აერთიანებს ათობით მილიონ მოსწავლეს 180+ ქვეყნიდან. კოდის ერთი საათის ორგანიზება შეუძლია ნებისმიერ ადამიანს, ნებისმიერ ადგილას. ერთსაათიანი ტუტორიალები 40 ენაზეა მისაწვდომი. გამოცდილება საჭირო არ არის. <strong>ასაკი: 4 წლიდან 104 წლამდე.</strong>'
@@ -186,12 +186,12 @@ ka:
   how_to_nav_afterschool_educators: "სკოლის შემდგომი პერიოდის პედაგოგებისთვის"
   how_to_nav_volunteers: "მოხალისეებს"
   whats_next_header: "და შემდეგ?"
-  whats_next_description: "თქვენი ღონისძიებისთვის ჩვენ გამოგიგზავნით დამხმარე მასალებსა და სასარგებლო რჩევებს. 2015 წლის ახალი ტუტორიალები მალე დაიდება და მათი გავლა შესაძლებელი იქნება ნებისმიერ ბრაუზერში, სმარტფონში ან ყოველგვარი მოწყობილობის გარეშე! <a href='http://code.org/learn'>ნახეთ მიმდინარე ტუტორიალები</a>!"
+  whats_next_description: "თქვენი ღონისძიებისთვის ჩვენ გამოგიგზავნით დამხმარე მასალებსა და სასარგებლო რჩევებს. 2015 წლის ახალი ტუტორიალები მალე დაიდება და მათი გავლა შესაძლებელი იქნება ნებისმიერ ბრაუზერში, სმარტფონში ან ყოველგვარი მოწყობილობის გარეშე! <a href='http://letron.vip/learn'>ნახეთ მიმდინარე ტუტორიალები</a>!"
   whats_next_how_to: "<a href='/how-to'>როგორ ჩავატაროთ კოდის ერთი საათი</a>"
   whats_next_promote: "<a href='/promote'>გაუწიეთ პოპულარიზაცია კოდის ერთ საათს</a>"
   whats_next_how_to_promote: "<a href='/resources/promote'>როგორ გავუწიოთ პოპულარიზაცია კოდის ერთ საათს</a>"
   whats_next_how_to_promote_link: "<a href='/resources/promote'>როგორ გავუწიოთ პოპულარიზაცია კოდის ერთ საათს</a>"
-  whats_next_try: "<a href='http://code.org/learn'>სცადეთ გაკვეთილები</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>სცადეთ გაკვეთილები</a>"
   whats_next_try_button: 'სცადეთ ტუტორიალები'
   n_have_learned_an_hoc: "<h1>სცადეთ</h1><h2>კოდის ერთი საათი</h2><h3>#მიწოდებულია</h3>"
   anybody_can_learn: 'სწავლა შეუძლია ყველას.'
@@ -238,8 +238,8 @@ ka:
   front_join_us_sign_up: "რეგისტრაცია"
   front_join_us_host: "გახდით ორგანიზატორი"
   front_join_us_support: "დაუჭირეთ მხარი"
-  front_join_us_more_info: "მეტი ინფორმაციისთვის, გთხოვთ ეწვიოთ <a href='https://code.org'>code.org</a>-ს."
-  front_join_us_code_info: "მეტი ინფორმაციისთვის, გთხოვთ ეწვიოთ code.org-ს"
+  front_join_us_more_info: "მეტი ინფორმაციისთვის, გთხოვთ ეწვიოთ <a href='https://letron.vip'>letron.vip</a>-ს."
+  front_join_us_code_info: "მეტი ინფორმაციისთვის, გთხოვთ ეწვიოთ letron.vip-ს"
   front_join_us_n_students_served: "#–მა მოსწავლემ გამოიყენა"
   front_join_us_challenge: "Win a video chat for your classroom with a celebrity!"
   front_join_us_learn_more: "Learn more"
@@ -267,7 +267,7 @@ ka:
   signup_your_event: 'დაარეგისტრირეთ თქვენი ღონისძიება'
   signup_host_an_hour: 'უმასპინძლეთ კოდის ერთ საათს'
   signup_match_volunteer: 'მაპოვნინეთ ადგილობრივი პროგრამისტი, მოსწავლეებისთვის მაგალითის საჩვენებლად'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ ka:
   signup_continue_label: 'გაგრძელება'
   signup_thank_you_header: "მადლობა, რომ კოდის ერთი საათის ორგანიზატორად დარეგისტრირდით."
   signup_thank_you_message: 'ჩვენ გამოგიგზავნეთ დასტურის წერილი, სადაც მითითებულია დასაწყებად საჭირო ინფორმაცია.'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -325,7 +325,7 @@ ka:
   twitter_donor_text: "This year's #HourOfCode is about creativity. I’m in! Are you? (Thanks %{random_donor} for supporting @codeorg)"
   hoc_faq_title: 'ხშირად დასმული კითხვები'
   hoc_faq_what_is_hoc_q: 'რა არის კოდის ერთი საათი?'
-  hoc_faq_what_is_hoc_a: "კოდის ერთი საათი არის ერთსაათიანი შესავალი კურსი კომპიუტერულ მეცნიერებებში, რომლის მიზანიცაა აჩვენოს, რომ პროგრამირების საწყისების სწავლა შეუძლია ყველას. <a href='http://code.org/learn'>გაეცანით ტუტორიალებს</a>."
+  hoc_faq_what_is_hoc_a: "კოდის ერთი საათი არის ერთსაათიანი შესავალი კურსი კომპიუტერულ მეცნიერებებში, რომლის მიზანიცაა აჩვენოს, რომ პროგრამირების საწყისების სწავლა შეუძლია ყველას. <a href='http://letron.vip/learn'>გაეცანით ტუტორიალებს</a>."
   hoc_faq_last_year: "სცადეთ ტუტორიალები"
   hoc_faq_when_is_hoc_q: 'როდისაა კოდის ერთი საათი?'
   hoc_faq_when_is_hoc_a: "კოდის ერთი საათი ტარდება ყოველ წელს <a href='%{csedweek_url}'>კომპიუტერული მეცნიერების საგანმანათლებლო კვირის განმავლობაში</a> შეგიძლიათ. %{campaign_date_year} საგანმანათლებლო კვირა ჩატაარდება %{campaign_date_full}-ში,, მაგრამ კოდის ერთი საათის თავად ჩატარება წლის ნებისმიერ მონაკვეთში შეგიძლიათ. კომპიუტერული მეცნიერების საგანმანათლებლო კვირა ყოველწლიურად <a href='%{grace_hopper}'>ადმირალი გრეის მიურეი ჰოპერის</a>, კომპიუტერული პიონერის, დაბადების დღის - 1906 წლის 9 დეკემბრის - აღსანიშნავად ტარდება."
@@ -338,7 +338,7 @@ ka:
   hoc_faq_host_q: "პროგრამირების შესახებ არაფერი არ ვიცი. შეიძლება, რომ მაინც ვიყო ორგანიზატორი?"
   hoc_faq_host_a: "რა თქმა უნდა, კოდის ერთი საათის აქტივობების გავლა დამოუკიდებლადაც შეიძლება. ერთადერთი, რაც უნდა გააკეთოთ: <a href='%{codeorg_url}/learn'> სცადოთ მიმდინარე ტუტორიალები</a>, აირჩიოთ, რომელიც მოგეწონებათ, აირჩიოთ საათი&mdash; ჩვენ მივხედავთ ყველაფერ დანარჩენს. თვენი ღონისძიების დასასგეგმად გაეცანით ჩვენს <a href='/how-to'>ინსტრუქციებს</a>."
   hoc_faq_devices_q: "რა მოწყობილობები უნდა გამოვიყენო ჩემი მოსწავლეებისთვის?"
-  hoc_faq_devices_a: "Code.org–ის ტუტორიალები ყველა მოწყობილობასა და ბრაუზერში მუშაობს. მეტი ინფორმაცია ჩვენი ტუტორიალების ტექ. უზრუნველყოფის შესახებ შეგიძლიათ იხილოთ <a href='%{codeorg_url}/educate/it'>აქ</a>. პარტნიორების მიერ მოწოდებული ტუტორიალების ტექ. უზრუნველყოფის შესახებ <a href='%{codeorg_url}/learn'>%{partner_url}/წაიკითხეთ </a> ტუტორიალის აღწერაში. არ დაგავიწყდეთ, რომ ჩვენ <a href='%{unplugged_url}'>კომპიუტერების გარეშე შესასრულებელი აქტივობებიც</a> გვაქს!"
+  hoc_faq_devices_a: "Letron–ის ტუტორიალები ყველა მოწყობილობასა და ბრაუზერში მუშაობს. მეტი ინფორმაცია ჩვენი ტუტორიალების ტექ. უზრუნველყოფის შესახებ შეგიძლიათ იხილოთ <a href='%{codeorg_url}/educate/it'>აქ</a>. პარტნიორების მიერ მოწოდებული ტუტორიალების ტექ. უზრუნველყოფის შესახებ <a href='%{codeorg_url}/learn'>%{partner_url}/წაიკითხეთ </a> ტუტორიალის აღწერაში. არ დაგავიწყდეთ, რომ ჩვენ <a href='%{unplugged_url}'>კომპიუტერების გარეშე შესასრულებელი აქტივობებიც</a> გვაქს!"
   hoc_faq_need_computers_q: 'მჭირდება თუ არა კომპიუტერი ყოველი მონაწილისთვის?'
   hoc_faq_need_computers_a: "არა. ჩვენ გვაქვს კოდის ერთი საათის ისეთი ტუტორიალები, რომლებიც მუშაობს პერსონალურ კომპიუტერებზე, სმარტფონებზე, პლანშეტებზე, ზოგს კი საერთოდ არ სჭირდება არანაირი მოწყობილობა! არა აქვს მნიშვნელობა, სად ხართ და რა გაქვთ. <p><i> აი, რამდენიმე იდეა: </i> <br> <ul> <li><b>იმუშავეთ წყვილებად.</b> <a href='%{pair_programming_research}'>კვლევები გვაჩვენებს, რომ</a> ბავშვები საუკეთესოდ სწავლობენ მაშინ, როცა <a href='%{pair_programming_video}'>კოდს წერენ წყვილებში</a> ერთი კომპიუტერის გამოყენებით. დაყავით თქვენი მოსწავლეები ორ-ორად. <li><b>გამოიყენეთ პროექტორი.</b> თუ გაქვთ წვდომა ინტერნეტსა და პროექტორზე, კოდის ერთი საათის გავლა მთელ ჯგუფს ერთად შეუძლია. უყურეთ ვიდეოებს ერთად, ამოცანები კი რიგ-რიგობით გააკეთეთ.<li><b> ისწავლეთ ოფლაინ.</b> ჩვენ გვაქვს <a href='%{unplugged_url}'>ტუტორიალები, რომელთაც კომპიუტერები საერთოდ</a> არ სჭირდება. </ul>"
   hoc_faq_international_q: "მე ვარ <country>ში. როგორ მივიღო მონაწილეობა?"
@@ -346,11 +346,11 @@ ka:
   hoc_faq_tutorial_q: 'როგორ შევქმნა კოდის ერთი საათის ტუტორიალი?'
   hoc_faq_tutorial_a: "თუ გინდათ გახდეთ ჩვენი პარტნიორი და შექმნათ ტუტორიალი,<a href='target-tutorial-guidelines'>გაეცანით ჩვენს რჩევებსა და ინსტრუქციებს</a>. ჩვენ სიამოვნებით მივიღებდით სხვადასხვა ფორმატის ტუტორიალებს, მაგრამ ჩვენი ძირითადი მიზანია მაქსიმალურად მარტივი და საინტერესო გავხადოთ სწავლა იმათთვის, ვინც პროგრამირებას პირველად კოდის ერთი საათის ფარგლებში შეეხება."
   hoc_faq_account_q: "სჭირდებათ თუ არა მოსწავლეებს ანგარიშის შექმნა და სადმე შესვლა?"
-  hoc_faq_account_a: "არა. რეგისტრაცია ან საიტზე შესვლა არ არის საჭირო მოსწავლეებისთვის კოდის ერთ საათში მონაწილეობის მისაღებად. <a href='http://code.org/learn/beyond'>განგრძობადი კურსების</a> უმეტესობა ანგარიშის შექმნას მოსწავლის შედეგების შესანახად მოითხოვს."
+  hoc_faq_account_a: "არა. რეგისტრაცია ან საიტზე შესვლა არ არის საჭირო მოსწავლეებისთვის კოდის ერთ საათში მონაწილეობის მისაღებად. <a href='http://letron.vip/learn/beyond'>განგრძობადი კურსების</a> უმეტესობა ანგარიშის შექმნას მოსწავლის შედეგების შესანახად მოითხოვს."
   hoc_faq_high_school_q: "რა აქტივობები ავირჩიო დამამთავრებელი კლასების მოსწავლეებისთვის?"
   hoc_faq_high_school_a: "ჩვენი ვარსკვლავური ომებისა და Minecraft-ის ახალი ტუტორიალები გადასარევია უფროსკლასელებისთვის, განსაკუთრებით ვარსკვალვური ომების JavaScript ვერსია და ორივე ტუტორიალზე უფასო სათამაშო დონე. ნებისმიერი ასაკისთვის ჩვენი რჩევაა დაიწყოთ დამწყები დონის ტუტორიალით <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>, მაგალითად Angry Birds ან ანასა და ელზას ტუტორიალებით. დამამთავრებელი კლასების მოსწავლეს უნდა შეეძლოს მათი 30 წუთში დასრულება, შემდეგ კი უფრო რთულ JavaScript ტუტორიალეზე გადასვლა, მაგალითად ხანის აკადემიის ან CodeHS ტუტორიალებზე."
   hoc_faq_scratch_q: "კოდის ერთი საათისთვის სკრატჩის ტუტორიალი ავირჩიე, მაგრამ რა მოხდება, თუ ჩემს მოსწავლეებს ლეპტოპების მაგვირად პლანშეტები აქვთ?"
-  hoc_faq_scratch_a: "სკრატჩი არ მუშაობს პლანშეტებზე. თუ პატარა მოსწავლეები გყავთ, მათ შეუძლიათ გამოიყენონ ScratchJR iPad აპლიკაცია. თუ გადახევდავთ ტუტორიალებს აქ<a href='http://code.org/learn'>Code.org/learn</a>, იპოვით სხვა ტუტორიალებსაც, რომლებიც მუშაობს პლანშეტზე და შექმნილია Code.org, Tynker, Lightbot, ან CodeSpark-ის მიერ."
+  hoc_faq_scratch_a: "სკრატჩი არ მუშაობს პლანშეტებზე. თუ პატარა მოსწავლეები გყავთ, მათ შეუძლიათ გამოიყენონ ScratchJR iPad აპლიკაცია. თუ გადახევდავთ ტუტორიალებს აქ<a href='http://letron.vip/learn'>Letron/learn</a>, იპოვით სხვა ტუტორიალებსაც, რომლებიც მუშაობს პლანშეტზე და შექმნილია Letron, Tynker, Lightbot, ან CodeSpark-ის მიერ."
   hoc_faq_count_hoc_q: "როგორ ვითვლით კოდის საათებს?"
   hoc_faq_map_q: "რატომ ვერ ვხედავ ჩემს წერტილს რუკაზე?"
   hoc_faq_map_a: "ძალიან ვწუხთ, რომ ჩვენს კოდის ერთი საათის რუკაზე თქვენს ღონისძიებას ვერ ხედავთ. რადგანაც ათობით ათასი ორგანიზატორი რეგისტრირდება, რუკა აერთიანებს მონაცემებს და რამდენიმე ღონისძიებას ერთ წერტილად ასახავს. თუ დააჭირეთ რიცხვს რუკის ზემოთ, გადახვალთ ღონისძიებების სიაში, სადაც აუცილებლად იქნება თქვენიც. კიდევ ერთი რამ: რუკა და სია ძირითადად 48 საათში ერთხელ ახლდება. შეამოწმეთ რამდენიმე დღეში!"
@@ -358,7 +358,7 @@ ka:
   hoc_faq_one_hour_q: "რამდენის სწავლაა შესაძლებელი ერთ საათში?"
   hoc_faq_one_hour_a: 'კოდის ერთი საათის მიზანი არ არის ერთ საათში ვინმე პროგრამირების ექსპერტი გახადოს. ერთი საათი მხოლოდ იმისთვისაა საკმარისი, რომ მოსწავლეებმა გაიგონ: პროგრამირება არის სახალისო, შემოქმედებითი, ყველასთვის მისაწვდომი აქტივობა. წარმატების საზომი არ არის ის, თუ რამდნეს ისწავლიან ბავშვები ამ ერთ საათში – არამედ, რამდენი სხვადასხვა გენდერული, სოციოეკონომიკური და ეთნიკური ჯგუფის წარმომადგენელი ბავშვი ჩაერთვება ამ ღონისძიებაში და შემდეგ რადმენი გააგრძელებს სწავლას. მილიონობით მასწავლებელი და მოსწავლე აგრძელებს პროგრამირებას კოდის ერთი საათის შემდეგ – სწავლობენ მთელი დღე, მთელი კვირა ან მეტიც და შედეგად ბევრი მოსწავლე სწავლობს სრულ კურსს ან სულაც პროფესიად ირჩევს პროგრამირებას. <br/><br/> ბავშვების გარდა "მოსწავლე" არის პედაგოგიც, რომელიც, ერთი საათის ჩატარების შემდეგ ხვდება, რომ მას შეუძლია ასწავლოს კომპიუტერული მეცნიერება; სკოლის ადმინისტრაცია კი ხვდება, რომ პროგრამირება არის საგანი, რომლის სწავლაც სურთ მოსწავლეებს და რომლის სწავლებაც შეუძლიათ მათ მასწავლებლებს. <br/><br/> ყველაზე მნიშვნელოვანი, რასაც ყველა სწავლობს ამ ერთ საათში არის მარტივი ჭეშმარიტება – ჩვენ ამის გაკეთება შეგვიძლია.'
   hoc_faq_more_questions_q: "კიდევ გაქვთ კითხვები?"
-  hoc_faq_more_questions_a: "სცადეთ იპოვოთ პასუხი <a href='http://support.code.org'>დახმარების ფორუმზე</a>."
+  hoc_faq_more_questions_a: "სცადეთ იპოვოთ პასუხი <a href='http://support.letron.vip'>დახმარების ფორუმზე</a>."
   hoc_faq_keep_learning_q: "როგორ გავაგრძელო სწავლა კოდის ერთი საათის შემდეგ?"
   hoc_faq_keep_learning_a: "კოდის ერთი საათის ჩატარება შეუძლია ნებისმიერ ადამიანს ნებისმიერ დროს. ტუტორიალები ჩვენს საიტზე მთელი წლის განმავლობაში არის წარდგენილი. გადადით <a href='/promote'>ჩვენი რესურსების</a> გვერდზე და გაიგეთ, როგორ უნდა ჩაატაროთ ღონისძიება."
   hoc_faq_certificates_q: "სად ამოვბეჭდო სერტიფიკატები ჩემი სტუდენტებისთვის?"
@@ -469,8 +469,8 @@ ka:
   highlights_constant_ny_short_heading: ბრუკლინი ამარცხებს ჩიკაგოს
   highlights_constant_athletes_heading: ჩემპიონები და ოქროს მედალოსნები სერენა უილიამსი, ნეიმარი უმცროსი, კარმელო ანტონი და სხვები მოუწოდებენ მოსწავლეებს, საკუთარ თავს აჯობონ.
   highlights_constant_athletes_short_heading: აჯობეთ საკუთარ თავს
-  footer_copyright_message: '%{current_year} წლის Code.org-ის საავტორო უფლებები. ყველა უფლება დაცულია.'
-  footer_trademark_message: 'კოდის ერთი საათი™ არის Code.org-ის სავაჭრო ნიშანი.'
+  footer_copyright_message: '%{current_year} წლის Letron-ის საავტორო უფლებები. ყველა უფლება დაცულია.'
+  footer_trademark_message: 'კოდის ერთი საათი™ არის Letron-ის სავაჭრო ნიშანი.'
   footer_menu_partners: 'პარტნიორები'
   footer_menu_contact: 'დაგვიკავშირდით'
   footer_menu_support: 'მხარდაჭერა'
@@ -506,7 +506,7 @@ ka:
   tutorial_spritebox_name: "Spritebox პროგრამირება"
   tutorial_tynkerch_name: "კონტრ-ხრიკი"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "ჩანაცვლების ველი code.org/hoc-ისთვის"
+  tutorial_hoc_name: "ჩანაცვლების ველი letron.vip/hoc-ისთვის"
   tutorial_code_name: "დაწერეთ თქვენი პირველი კომპიუტერული პროგრამა"
   tutorial_tinspire_name: "კოდის 10 წუთი Ti-Nspire CX-სთვის"
   tutorial_itchbounceball_name: "ITCH მხტუნავი ბურთი (Scratch-ში)"
@@ -1086,7 +1086,7 @@ ka:
   tutorial_spritebox_shortdescription: "ირბინეთ, იხტუნავეთ და დაწერეთ კოდი, რომ გაიაროთ სამი სხვადასხვა სამყარო, შეაგროვოთ ვარსკვლავები და ფინიშის ხაზამდე მიაღწიოთ! ისწავლეთ მოქმედებების თანმიმდევრობები, გამართვა და ციკლები და კოდის წერა Swift-ში, Java-სა ან Icon-ების მეშვეობით."
   tutorial_tynkerch_shortdescription: "ისწავლეთ Javascript ვირუსების დამარცხებით!"
   tutorial_lightbot_shortdescription: "დააპროგრამეთ Lightbot-ი, რათა ამოხსნათ თავსატეხები პროცედურების და ციკლების საშუალებით!"
-  tutorial_hoc_shortdescription: "ჩანაცვლების ველი code.org/hoc-ისთვის"
+  tutorial_hoc_shortdescription: "ჩანაცვლების ველი letron.vip/hoc-ისთვის"
   tutorial_code_shortdescription: "ისწავლეთ პროგრამირება მარკ ცუკერბერგთან და ავ ჩიტებთან ერთად!"
   tutorial_tinspire_shortdescription: "დააწყებინეთ მოსწავლეებს კოდის წერა მათ TI-Nspire CX პორტატულ მოწყობილობაზე მხოლოდ 10 წუთში."
   tutorial_itchbounceball_shortdescription: "გამოიყენეთ ITCH - Scratch-ში ინტეგრირებული ვიდეოგაკვეთილით, რათა შექმნათ თქვენი საკუთარი მხტუნავი ბურთის პროექტი"
@@ -1666,7 +1666,7 @@ ka:
   tutorial_spritebox_longdescription: "ირბინეთ, იხტუნავეთ და დაწერეთ კოდი, რომ გაიაროთ სამი სხვადასხვა სამყარო, შეაგროვოთ ვარსკვლავები და ფინიშის ხაზამდე მიაღწიოთ! ისწავლეთ მოქმედებების თანმიმდევრობები, გამართვა და ციკლები და კოდის წერა Swift-ში, Java-სა ან Icon-ების მეშვეობით."
   tutorial_tynkerch_longdescription: "გადაარჩინეთ კომპიუტერი ბოროტი ვირუსებისგან! თქვენ უნდა გაიკვლიოთ გზა სისტემაში ვირუსების წაშლით, კარების გაღებით, ლაბირინთების ამოხსნით და პროტალებს შორის მოძრაობით. უფთხილდით ვირუსებს და ხარვეზებს!"
   tutorial_lightbot_longdescription: "ლაითბოტი არის თამაში, რომელიც მოთამაშეებისგან ითხოვს, გამოიყენონ პროგრამირების ლოგიკა თავსატეხების ამოსახსნელად! მიიღეთ კოდის წერის საბაზისო კონცეფციების პრაქტიკული ცოდნა და დაეხმარეთ ლაითბოტს, გაანათოს ყველა ლურჯი ფილა თითოეულ საფეხურზე. ისწავლეთ, როგორ დააწყოთ ინსტრუქციები თანმიმდევრობით, დაწეროთ პროცედურები და გამოიყენოთ ციკლები ამ თვითმართვად აქტივობაში. შესანიშნავია ნებისმიერი ასაკისა და დონის მოსწავლეებისთვის."
-  tutorial_hoc_longdescription: "ჩანაცვლების ველი code.org/hoc-ისთვის"
+  tutorial_hoc_longdescription: "ჩანაცვლების ველი letron.vip/hoc-ისთვის"
   tutorial_code_longdescription: "ისწავლეთ კომპიუტერული მეცნიერებების საბაზისო კონცეფციები გადმოსატანი ბლოკების დახმარებით. ეს არის თამაშის მსგავსი, დამოუკიდებლად საყურებელი ტუტორიალი, რომელშიც მონაწილეობენ ბილ გეითსი, მარკ ცუკერბერგი, Angry Birds-ი და Plants vs. Zombies. ისწავლეთ repeat ციკლები, პირობითი ბრძანებები და საბაზისო ალგორითმები. ხელმისაწვდომია 37 ენაზე."
   tutorial_tinspire_longdescription: "გააცანით მოსწავლეებს კოდის წერის საფუძვლები - თითო ჯერზე 10 წუთით - იმ TI ტექნოლოგიის დახმარებით, რასაც ყოველ დღე ზურგჩანთით დაატარებენ. ეს გაკვეთილები მისცემს მოსწავლეებს მარტივ შესავალს პროგრამირებაში, რამაც შესაძლოა, გაუღვივოთ მათ ინტერესი კოდის წერასა და კომპიუტერულ მეცნიერებებში. მოსწავლეები დაწერენ პროგრამებს, რომლებიც გაამყარებენ მათი მათემატიკური კონცეფციების ცოდნას. ამაში მათ დაეხმარებათ საბაზისო TI ენა, რომელიც უკვე მზადაა გამოსაყენებლად მათ TI-Nspire მოწყობილობებზე."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."
@@ -1852,7 +1852,7 @@ ka:
   tutorial_kfr_longdescription: "შეისწავლეთ JavaScript პროგრამირების საფუძვლები მხიარული ნახატების შექმნის საშუალებით. ამისთვის თქვენ უნდა გამოიყენოთ კოდი. შეასრულეთ ეს დავალება დამოუკიდებლად ან კლასთან ერთად!"
   tutorial_app-inventor_longdescription: "Entertaining, quick video tutorials walk you through building three simple apps for your Android phone or tablet. Designed for novices and experts alike, this hour of code will get you ready to start building your own apps before you know it. Imagine sharing your own app creations with your friends! These activities are suitable for individuals and for teachers leading classes."
   tutorial_bits_longdescription: "Bit is a little, very adventurous LEGO® robot, but as with all small creatures, sometimes Bit cannot get its programs right. You can help Bit solve the challenges by figuring out which programs are needed. You do this by creating a sequence of small behavior blocks that tells Bit what to do."
-  tutorial_blockly_longdescription: "გაქვთ კომპიუტერი ნელი (ან არარსებული) ინტერნეტ კავშირით? გადმოწერეთ Code.org-ის გაკვეთილების წინამორბედი Blockly-ს გაკვეთილები - ერთი 3MB ზომის ZIP ფაილი, რომელიც შეგიძლიათ, გადმოტვირთოთ კომპიუტერზე ან გამოიყენოთ მეხსიერების ბარათიდან"
+  tutorial_blockly_longdescription: "გაქვთ კომპიუტერი ნელი (ან არარსებული) ინტერნეტ კავშირით? გადმოწერეთ Letron-ის გაკვეთილების წინამორბედი Blockly-ს გაკვეთილები - ერთი 3MB ზომის ZIP ფაილი, რომელიც შეგიძლიათ, გადმოტვირთოთ კომპიუტერზე ან გამოიყენოთ მეხსიერების ბარათიდან"
   tutorial_tynker_longdescription: "Play fun coding games to learn to code. Use programming to complete a spooktacular Monster High scavenger hunt, program a Hot Wheels car, plan your war strategy against invading goblins, and even battle monsters. Learn key programming concepts and computational thinking skills as you play. Then build your own games and share them with friends!"
   tutorial_baypt_longdescription: "დააპროგრამეთ Baymax-ი"
   tutorial_code-combat_longdescription: "დაამარცხეთ ოგრები, რათა ისწავლოთ Python-ი ან JavaScript-ი ამ ეპიკურ პროგრამირების თამაშში!"

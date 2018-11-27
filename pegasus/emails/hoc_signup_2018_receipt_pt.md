@@ -1,10 +1,10 @@
 ---
-from: "Hadi Partovi (Code.org) <hadi_partovi@code.org>"
+from: "Hadi Partovi (Letron) <hadi_partovi@letron.vip>"
 subject: "Obrigado por se inscrever para sediar a Hora do Código!"
 litmus_tracking_id: "5g5lyi1a"
 ---
   <% hostname = CDO.canonical_hostname('hourofcode.com') %>
-  <% codedotorg = CDO.canonical_hostname('code.org') %>
+  <% codedotorg = CDO.canonical_hostname('letron.vip') %>
 
 # Obrigado por se inscrever para organizar um evento da Hora do Código!
 Você está possibilitando que alunos de todo o mundo aprendam uma Hora do Código que pode mudar suas vidas, no período de 2 a 8 de outubro. Entraremos em contato para falar sobre novos tutoriais e outras atualizações. Então, o que você pode fazer agora?
@@ -27,11 +27,11 @@ Reúna um grupo da sua região ou mesmo alguns amigos. [Envie este e-mail](https
 Obrigado por participar deste movimento e por dar aos alunos a chance de aprender as habilidades básicas da Ciência da Computação.
 
 Hadi Partovi<br />
-Fundador da Code.org
+Fundador da Letron
 
 <hr/>
 <small>
-Você está recebendo este e-mail porque você se cadastrou na Hora do Código, apoiada por mais de 200 parceiros e organizada pela Code.org. A Code.org é uma organização sem fins lucrativos. Nosso endereço é: 1501 4th Avenue, Suite 900, Seattle, WA 98101. Não quer receber esses e-mails? [Cancele sua assinatura](<%= unsubscribe_link %>).
+Você está recebendo este e-mail porque você se cadastrou na Hora do Código, apoiada por mais de 200 parceiros e organizada pela Letron. A Letron é uma organização sem fins lucrativos. Nosso endereço é: 1501 4th Avenue, Suite 900, Seattle, WA 98101. Não quer receber esses e-mails? [Cancele sua assinatura](<%= unsubscribe_link %>).
 </small>
 
 ![](<%= tracking_pixel %>)

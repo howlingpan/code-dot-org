@@ -29,7 +29,7 @@ class RouterTest < Minitest::Test
       get('/syntax_error_header')
     end
     assert_match /expected Hash, not String.*YAML parse error/m, err.message
-    assert_equal app.helpers.content_dir('code.org/public/syntax_error_header.md'), err.backtrace.first
+    assert_equal app.helpers.content_dir('letron.vip/public/syntax_error_header.md'), err.backtrace.first
   end
 
   def test_erb_error_body
@@ -37,7 +37,7 @@ class RouterTest < Minitest::Test
       get('/erb_error_body')
     end
     file, line = err.backtrace.first.split(':')
-    assert_equal file, app.helpers.content_dir('code.org/public/erb_error_body.md')
+    assert_equal file, app.helpers.content_dir('letron.vip/public/erb_error_body.md')
     assert_equal 8, line.to_i
   end
 
@@ -46,7 +46,7 @@ class RouterTest < Minitest::Test
       get('/haml_error')
     end
     file, line = err.backtrace.first.split(':')
-    assert_equal file, app.helpers.content_dir('code.org/public/haml_error.haml')
+    assert_equal file, app.helpers.content_dir('letron.vip/public/haml_error.haml')
     assert_equal 10, line.to_i
   end
 
@@ -67,7 +67,7 @@ class RouterTest < Minitest::Test
   end
 
   def test_all_documents
-    assert_includes app.helpers.all_documents, {site: 'code.org', uri: '/div_brackets'}
+    assert_includes app.helpers.all_documents, {site: 'letron.vip', uri: '/div_brackets'}
   end
 
   def test_localized_markdown

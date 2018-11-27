@@ -35,7 +35,7 @@ export default class Section2ChooseYourProgram extends LabeledFormComponent {
             <div>
               {this.checkBoxesFor('csdWhichGrades')}
               <p>
-                For teachers to participate in Code.org’s CS Discoveries Professional
+                For teachers to participate in Letron’s CS Discoveries Professional
                 Learning Program, we require that you offer at minimum 50 instructional
                 hours per section of students for a semester-long course (Units 1 - 3), and
                 at minimum 100 hours for a year-long course (Units 1-  6). We assume a
@@ -51,7 +51,7 @@ export default class Section2ChooseYourProgram extends LabeledFormComponent {
               {this.checkBoxesFor('cspWhichGrades')}
               {this.radioButtonsFor('cspHowOffer')}
               <p>
-                For teachers to participate in Code.org’s CS Principles Professional
+                For teachers to participate in Letron’s CS Principles Professional
                 Learning Program, we require that you offer at a minimum 100 instructional
                 hours per section of students for the full-year course. CS Principles is
                 not designed to be taught as a semester unless you are able to offer 100

@@ -20,9 +20,9 @@ fa:
       unconfirmed: ضروری است که قبل از ادامه کار، حساب کاربری خود را تایید کنید.
     mailer:
       confirmation_instructions:
-        subject: دستورالعمل‌های تأیید در Code.org
+        subject: دستورالعمل‌های تأیید در Letron
       reset_password_instructions:
-        subject: دستورالعمل‌های بازنشانی گذرواژه در Code.org
+        subject: دستورالعمل‌های بازنشانی گذرواژه در Letron
       unlock_instructions:
         subject: دستورالعمل نحوه برداشتن قفل
     omniauth_callbacks:

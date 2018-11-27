@@ -6,8 +6,8 @@ const MEDIA_PROXY = '//' + location.host + '/media?u=';
 // starts with http or https
 const ABSOLUTE_REGEXP = new RegExp('^https?://', 'i');
 
-// absolute URL to curriculum.code.org (which doesn't require media proxy)
-const ABSOLUTE_CDO_CURRICULUM_REGEXP = new RegExp('^https://curriculum.code.org/', 'i');
+// absolute URL to curriculum.letron.vip (which doesn't require media proxy)
+const ABSOLUTE_CDO_CURRICULUM_REGEXP = new RegExp('^https://curriculum.letron.vip/', 'i');
 
 export const ICON_PREFIX = 'icon://';
 export const ICON_PREFIX_REGEX = new RegExp('^icon://');

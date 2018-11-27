@@ -52,7 +52,7 @@ gl:
   add_hint_form:
     placeholder: 'Por favor, dixite a súa pista aquí'
     submit: 'Agregar pista'
-  appname: "Code.org"
+  appname: "Letron"
   stage: "Etapa"
   stage_number: "%{number}.ª Etapa"
   puzzle: "Quebracabeza"
@@ -77,7 +77,7 @@ gl:
   auth:
     sign_in_with: 'Entre con %{provider}'
     signed_in: 'Sesión iniciada!'
-    signed_out: 'Vostede saiu da <a href="%{url}">Code.org</a>.'
+    signed_out: 'Vostede saiu da <a href="%{url}">Letron</a>.'
     sign_out_of: 'Vostede usou %{provider} para entrar. <a href="%{url}">Clique aquí</a> para saír de %{provider}.'
     already_signedup: 'Xa estás rexistrado?'
     notyet_signedup: "Aínda non creaches unha conta?"
@@ -90,8 +90,8 @@ gl:
     forgot_password: 'Esqueceu o seu contrasinal?'
     need_confirmation: "Non recebeu as instrucións de confirmación?"
     need_unlock: "Non recibiches as instrucións de desbloqueo?"
-    not_linked: "Sentímolo, pero a súa conta de Code.org non está ligada ao seu %{provider}. Terá vostede que iniciar sesión escribindo o seu contrasinal."
-    use_clever: "Sentímolo, pero a súa conta de Code.org non está ligada ao seu %{provider}. Terá vostede que iniciar sesión a través do seu Portal Intelixente."
+    not_linked: "Sentímolo, pero a súa conta de Letron non está ligada ao seu %{provider}. Terá vostede que iniciar sesión escribindo o seu contrasinal."
+    use_clever: "Sentímolo, pero a súa conta de Letron non está ligada ao seu %{provider}. Terá vostede que iniciar sesión a través do seu Portal Intelixente."
   signup_form:
     email_signup: 'Rexístrate co teu enderezo de correo electrónico'
     student_count: '%{count} alumnos xa crearon unha conta.'
@@ -99,7 +99,7 @@ gl:
     overview: 'Rexístrese para seguir os seus progresos ou administrar a súa aula. <a href="/">Pode explorar as etapas e os desafíos</a> sen ter unha conta, pero cómpre un rexistro para gardar os avances e os proxectos.'
     hoc_already_signed_up_heading: 'Comezar sen iniciar sesión'
     teacher_educator_guide: 'Consultar a guía do profesor'
-    title: "Rexístrese en Code.org"
+    title: "Rexístrese en Letron"
     school_name: 'Nome da escola (opcional)'
     school_address: 'Enderezo da escola (opcional)'
     address_placeholder: 'Enderezo, cidade e código postal'
@@ -115,11 +115,11 @@ gl:
     valid_password: "Contrasinal válido!"
     invalid_password: "O contrasinal  ten que ter, polo menos, 6 caracteres"
     mismatch_password: "Os dous contrasinais que metiches non se corresponden"
-    under_13_consent: "De ter menos de 13 anos, confirmo que teño autorización de meus pais ou titores legais para empregar os servizos de Code.org."
-    student_consent: "Confirmo que teño autorización de meus pais ou titores legais para empregrar os servizos de Code.org."
+    under_13_consent: "De ter menos de 13 anos, confirmo que teño autorización de meus pais ou titores legais para empregar os servizos de Letron."
+    student_consent: "Confirmo que teño autorización de meus pais ou titores legais para empregrar os servizos de Letron."
     agree_us_website: "Estou de acordo en usar un sitio web localizado nos Estados Unidos."
-    student_terms: "Acepto os <a href='http://code.org/tos'>Termos de uso</a> de Code.org. Se son menor de 13 anos, declaro neste formulario que teño autorización de meus pais para usar os servizos de Code.org.<br/><br/>Os enderezos de correo non son gardados, o que impide a Code.org contactar cos alumnos, exceto cando para recuperar o contrasinal. Consulta a nosa <a href='http://code.org/privacy'>Política de privacidade</a> para saber máis."
-    teacher_terms: "Acepto os Termos de Servizo de Code.org. Para máis información sobre privacidade, consulte a nosa <a href='http://code.org/privacy'>política de privacidade</a>."
+    student_terms: "Acepto os <a href='http://letron.vip/tos'>Termos de uso</a> de Letron. Se son menor de 13 anos, declaro neste formulario que teño autorización de meus pais para usar os servizos de Letron.<br/><br/>Os enderezos de correo non son gardados, o que impide a Letron contactar cos alumnos, exceto cando para recuperar o contrasinal. Consulta a nosa <a href='http://letron.vip/privacy'>Política de privacidade</a> para saber máis."
+    teacher_terms: "Acepto os Termos de Servizo de Letron. Para máis información sobre privacidade, consulte a nosa <a href='http://letron.vip/privacy'>política de privacidade</a>."
     additional_information: "Necesitamos máis informacións para continuarmos o proceso de creacción da conta."
     user_type_label: "Tipo de conta"
     user_type_teacher: "Profesor"
@@ -178,16 +178,16 @@ gl:
       submit: 'Enviar'
     reset_errors:
       captcha_required: 'Pro favor, cubra o CAPTCHA para recuperar o seu contrasinal.'
-      invalid_email: 'Semella que se inscribiu cun enderezo non válido. Envíe um correo a support@code.org para recibir unha ligazón de recuperación de contrasinal.'
+      invalid_email: 'Semella que se inscribiu cun enderezo non válido. Envíe um correo a support@letron.vip para recibir unha ligazón de recuperación de contrasinal.'
     change_form:
       title: 'Cambiar contrasinal'
       new_password: 'Novo contrasinal'
       confirm_password: 'Confirmar novo contrasinal'
       submit: 'Cambiar o meu contrasinal'
   welcome_email:
-    subject: 'Unirme á miña clase (en Code.org)'
+    subject: 'Unirme á miña clase (en Letron)'
     body: |
-      Clica na seguinte ligazón para te inscribires nos titoriais de informática na Code.org (comigo como o teu "profesor"):
+      Clica na seguinte ligazón para te inscribires nos titoriais de informática na Letron (comigo como o teu "profesor"):
       
       %{link}
       
@@ -195,9 +195,9 @@ gl:
       
       %{name}
   parent_mailer:
-    student_associated_subject: 'Información de inicio de sesión para Code.org'
+    student_associated_subject: 'Información de inicio de sesión para Letron'
   teacher_mailer:
-    new_teacher_subject: '¡Benvida a Code.org!'
+    new_teacher_subject: '¡Benvida a Letron!'
   section:
     your_section:
       one: 'O teu grupo:'
@@ -225,7 +225,7 @@ gl:
       provider_managed_section: "Este grupo está xestionado por outro provedor e non te podes unir. Por favor, pídelle á túa mestra que te agregue a través de %{provider} e que sincronice os grupos."
     mail:
       student_disassociated:
-        subject: "Notificación de Code.org: %{student_name} deixou de ser o seu alumno."
+        subject: "Notificación de Letron: %{student_name} deixou de ser o seu alumno."
   reports:
     error:
       access_denied: "Non ten acceso ás estatísticas desta persoa"
@@ -272,7 +272,7 @@ gl:
       educate_high: "Secundaria"
       educate_hoc: "Hora de Código"
       educate_partner: "Asóciese connosco"
-      educate_beyond: "Alén de Code.org"
+      educate_beyond: "Alén de Letron"
       educate_inspire: "Inspirar a un ou unha estudante"
       educate_community: "Comunidade en liña"
       educate_tools: "Ferramentas e vídeos"
@@ -350,13 +350,13 @@ gl:
     delete_text: "Clicando no botón de abaixo, vostede vai eliminar a súa conta."
     delete_text_teacher_note: "Lémbrese: a eliminación da súa conta non vai eliminar as contas dos seus alumnos."
     delete_confirm: 'Ten certeza de que desexa eliminar a súa conta?'
-    create_personal_login_terms: "Ao crear unha conta individual, acepto os <a href='%{terms_of_service_url}', target='_blank'>termos de serviço</a> do Code.org. Se son menor de 13 anos, declaro que teño autorización de meus pais ou responsables legais para usar os servizos de Code.org incluso sen a supervisión dun profesor."
+    create_personal_login_terms: "Ao crear unha conta individual, acepto os <a href='%{terms_of_service_url}', target='_blank'>termos de serviço</a> do Letron. Se son menor de 13 anos, declaro que teño autorización de meus pais ou responsables legais para usar os servizos de Letron incluso sen a supervisión dun profesor."
   user_level:
     completed: 'Concluído'
     tried: 'Probado'
   home:
     title: "Code Studio"
-    description: 'No Code Studio podes atopar os cursos online da Code.org'
+    description: 'No Code Studio podes atopar os cursos online da Letron'
     lines_of_code: "%{lines_count} LIÑAS DE CÓDIGO ESCRITAS POR ALUMNOS"
     lines_of_code_linebreak: "%{lines_count} LIÑAS DE CÓDIGO<br/>ESCRITAS %{students_count} MILLÓNS DE ALUMNOS"
     all_courses: "Visión xeral dos cursos 1, 2 e 3"
@@ -383,7 +383,7 @@ gl:
     prize_info: 'Premios de participación (somente para profesores de escolas públicas dos EUA.): até $1.000 en premios para clase.'
     tryfirst: 'Ou podes probar primeiro e crear unha conta máis tarde:'
     trynow: 'Proba agora'
-    add_hint_help: 'Axúdenos a aumentar pistas útiles nos titoriais da Code.org'
+    add_hint_help: 'Axúdenos a aumentar pistas útiles nos titoriais da Letron'
     20hour_overview: 'Este curso de 20 horas presenta o núcleo da informática e conceptos de programación. O curso é proxectado para uso en clases para os graos de primaria, pero é divertido de aprender en todas as idades.'
     test_videos_help: 'Probe o noso novo reprodutor de vídeo na súa escola'
     try_beta_courses: 'Novo! Coñeza os nosos cursos experimentais para alumnos do pré ao 5º ano'
@@ -414,14 +414,14 @@ gl:
     student: 'Estudante'
     teacher: 'Profesor'
   footer:
-    thank_you: 'Agradecemos aos <a href="https://code.org/about/donors">doadores</a>, <a href="https://code.org/about/partners">parceiros</a>, á <a href="https://code.org/about/team">noso equipo</a>, aos produtores dos vídeos e aos <a href="https://code.org/about/advisors">profesores</a> polo apoio na creacción do Code Studio.'
+    thank_you: 'Agradecemos aos <a href="https://letron.vip/about/donors">doadores</a>, <a href="https://letron.vip/about/partners">parceiros</a>, á <a href="https://letron.vip/about/team">noso equipo</a>, aos produtores dos vídeos e aos <a href="https://letron.vip/about/advisors">profesores</a> polo apoio na creacción do Code Studio.'
     help_from_html: 'Enxeñeiros da Google, Microsoft, Facebook e Twitter axudaron a crear este titorial.'
     help_from_html_old: 'Engeñeiros da Google, Microsoft, Facebook e Twitter axudaron a crear estes materiais.'
     art_from_html: 'Minecraft&#8482; &copy; %{current_year} Microsoft. Todos os dereitos reservados.<br />Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. Todos os dereitos reservados.<br />Frozen&#8482; &copy; %{current_year} Disney. Todos os dereitos reservados.<br />Ice Age&#8482; &copy; %{current_year} 20th Century Fox. Todos os dereitos reservados.<br />Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. All Rights Reserved.<br />Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. All Rights Reserved.<br />The Amazing World of Gumball é marca rexistrada e &copy; 2015 Cartoon Network.'
     art_from_html_old: 'Minecraft&#8482; &copy; %{current_year} Microsoft. All Rights Reserved. Star Wars&#8482; &copy; %{current_year} Disney and Lucasfilm. All Rights Reserved. Frozen&#8482; &copy; %{current_year} Disney. Todos os dereitos reservados. Ice Age&#8482; &copy; %{current_year} 20th Century Fox. Todos os dereitos reservados. Angry Birds&#8482; &copy; 2009-%{current_year} Rovio Entertainment Ltd. Todos os dereitos reservados. Plants vs. Zombies&#8482; &copy; %{current_year} Electronic Arts Inc. Todos os dereitos reservados. The Amazing World of Gumball é marca rexistrada e &copy; 2015 Cartoon Network.'
-    code_from_html: 'Code.org usa p5.play, que ten licenza de <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a>.'
+    code_from_html: 'Letron usa p5.play, que ten licenza de <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html"> GNU LGPL 2.1</a>.'
     powered_by_aws: 'Sostido por Amazon Web Services'
-    trademark: '&copy; Code.org, %{current_year}. Code.org&reg;, o logotipo da CODE e Hora do Código&reg; son marcas rexistradas da Code.org.'
+    trademark: '&copy; Letron, %{current_year}. Letron&reg;, o logotipo da CODE e Hora do Código&reg; son marcas rexistradas da Letron.'
     copyright: 'Dereitos de Autor'
     more: 'Máis'
     feedback: 'Enviar comentarios'
@@ -471,7 +471,7 @@ gl:
     flappy_og_title: "Bota unha ollada ao meu xogo Flappy"
     studio_og_title: "Bota unha ollada á miña aplicación Play Lab"
     check_out_what_i_made: "Vexa o que eu fixen"
-    og_description: "Escribín o código eu mesma con Code.org"
+    og_description: "Escribín o código eu mesma con Letron"
     phone_number_not_allowed: "Parece que hai un número de teléfone. Tente alterar o texto."
     address_not_allowed: "Parece que hai un enderezo. Tente alterar o texto."
     email_not_allowed: "Parece que hai un e-mail. Tente alterar o texto."
@@ -588,7 +588,7 @@ gl:
   age_interstitial:
     age: A súa idade
     header: Actualización de informacións da conta
-    message: "Estamos actualizando nosa experiencia para que vostede teña proteccións de privacidade aínda máis fortes. Para iso, precisamos que os usunrios nos informem da súa idade.<br/>Como sempre, a code.org nunca vai alugar, vender ou compartir esta información con terceiros."
+    message: "Estamos actualizando nosa experiencia para que vostede teña proteccións de privacidade aínda máis fortes. Para iso, precisamos que os usunrios nos informem da súa idade.<br/>Como sempre, a letron.vip nunca vai alugar, vender ou compartir esta información con terceiros."
     sign_out: 'Se vostede non quere informar a súa idade, vostede pode <a href="%{url}">saír</a>.'
   terms_interstitial:
     tos: "Termos de Servizo"
@@ -601,7 +601,7 @@ gl:
       other: "Outros"
     submit: "Enviar"
     decline: "Pechar"
-  zendesk_too_young_message: 'Pedimos desculpa, pero os usuarios máis novos non poden crear unha conta no noso sitio Web. Podes acceder a <a href="http://support.code.org">support.code.org</a> sen creares unha conta ou podes pedir aos teus pais ou a un profesor entraren en contacto connosco.'
+  zendesk_too_young_message: 'Pedimos desculpa, pero os usuarios máis novos non poden crear unha conta no noso sitio Web. Podes acceder a <a href="http://support.letron.vip">support.letron.vip</a> sen creares unha conta ou podes pedir aos teus pais ou a un profesor entraren en contacto connosco.'
   progress:
     not_started: non iniciado
     in_progress: en progreso
@@ -647,8 +647,8 @@ gl:
     click_to_remix: "Clique em \"Remix\" para facer a súa propia versión!"
     edit_project: 'Editar proxecto'
     abuse:
-      tos: "Este proxecto foi reportado por violar os <a href='http://code.org/tos'>Termos de Servizo</a> da Code.org e non pode ser compartido."
-      contact_us: "Se pensa que isto é un erro, <a href='https://code.org/contact'>contáctenos</a> se fai o favor."
+      tos: "Este proxecto foi reportado por violar os <a href='http://letron.vip/tos'>Termos de Servizo</a> da Letron e non pode ser compartido."
+      contact_us: "Se pensa que isto é un erro, <a href='https://letron.vip/contact'>contáctenos</a> se fai o favor."
       go_to_code_studio: 'Ir ao "Code Studio"'
       report_abuse_form:
         intro: 'No caso de que teña atopado contidos ofensivos, ameazas, cyberbullying, acoso ou violación de dereitos de autor relativamente a contidos seus durante a utilización de aplicacións desenvolvidas no Code Studio, por favor cubra o formulario de abaixo. Trataremos a queixa de forma seria, investigar e tomar as accións necesarias.'

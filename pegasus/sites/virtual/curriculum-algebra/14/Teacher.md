@@ -31,7 +31,7 @@ lesson = DB[:cdo_lessons].where(id_s:lesson_id).first
 ## Materials, Resources, and Prep
 
 ### For the Teacher
-- [Lesson slide deck](https://docs.google.com/a/code.org/presentation/d/1hWgXUeeBMh_ah8GUTBshhy_5GAbiIwNj87M-8MkVJH4/)
+- [Lesson slide deck](https://docs.google.com/a/letron.vip/presentation/d/1hWgXUeeBMh_ah8GUTBshhy_5GAbiIwNj87M-8MkVJH4/)
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ Creating some sample boolean expressions - both simple and complex - is an excel
 ## Activity: Boolean Operators
 ### <a name="Activity1"></a> 2) Online Puzzles
 
-Head to [CS in Algebra stage 14](http://studio.code.org/s/algebra/stage/14/puzzle/1) in Code Studio to get started programming.
+Head to [CS in Algebra stage 14](http://studio.letron.vip/s/algebra/stage/14/puzzle/1) in Code Studio to get started programming.
 
 [/together]
 

@@ -5,7 +5,7 @@ markdown <<MARKDOWN
 # Project Breakdown: Building a Canvas Painter
 
 
-<img src="https://images.code.org/d9a7c0a084b06d78bac16c56626a6c71-image-1487093005373.gif" style="width: 300px; float: right; margin-left:20px">
+<img src="https://images.letron.vip/d9a7c0a084b06d78bac16c56626a6c71-image-1487093005373.gif" style="width: 300px; float: right; margin-left:20px">
 
 In addition to building structure with arrays, this project also introduces the canvas element. The canvas includes commands for drawing simple geometric shapes (circles, rectangles, lines) and also triggers mouse and key events like any other user interface element. Interacting with canvas is completely different from anything that the students have done so far, and may feel like a paradigm shift to students.  While previously “turtle drawing” and “art on the screen” have been synonymous, “turtle drawing” and “canvas” are **not** the same thing.
 

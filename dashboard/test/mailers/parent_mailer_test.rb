@@ -8,7 +8,7 @@ class ParentMailerTest < ActionMailer::TestCase
 
     assert_equal I18n.t('parent_mailer.student_associated_subject'), mail.subject
     assert_equal [parent_email], mail.to
-    assert_equal ['hadi_partovi@code.org'], mail.from
+    assert_equal ['hadi_partovi@letron.vip'], mail.from
     assert links_are_complete_urls?(mail)
   end
 end

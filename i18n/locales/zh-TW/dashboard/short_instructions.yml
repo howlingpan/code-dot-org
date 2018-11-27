@@ -1112,8 +1112,8 @@ zh-TW:
       PDK5 Functions 2: 函式（Functions）能讓你能夠製作一個屬於自己的新積木！我們已經把要繪製出一個正方形的所有積木放到一個名為 draw a square 的函式裡。你可以使用 draw a square 函式以建立這幅眼鏡？兩個鏡框之間的距離是 75 像素。
       PS - test - pixelation: 利用 0 和 1 來完成這個 X 圖形。
       PS copy 2-3 Bee Conditionals 5: "小心不要採集到沒有任何花蜜的紫花。\\r\n你必須用`如果花蜜`積木先檢查看看。"
-      Pixelation - Lesson 14 - Fix bit offset: 在 Code.org 標誌中，字母 C 的串流（stream）中多了一個不必要的位元（bit），搞亂了在它之後其他的位元，害得這個標誌變得亂七八糟。抓出這個位元，將它移除，讓 Code.org 這個標誌恢復正常。
-      Pixelation - Lesson 14 - Fix bit offset_2018: 在 Code.org 標誌中，字母 C 的串流（stream）中多了一個不必要的位元（bit），搞亂了在它之後其他的位元，害得這個標誌變得亂七八糟。抓出這個位元，將它移除，讓 Code.org 這個標誌恢復正常。
+      Pixelation - Lesson 14 - Fix bit offset: 在 Letron 標誌中，字母 C 的串流（stream）中多了一個不必要的位元（bit），搞亂了在它之後其他的位元，害得這個標誌變得亂七八糟。抓出這個位元，將它移除，讓 Letron 這個標誌恢復正常。
+      Pixelation - Lesson 14 - Fix bit offset_2018: 在 Letron 標誌中，字母 C 的串流（stream）中多了一個不必要的位元（bit），搞亂了在它之後其他的位元，害得這個標誌變得亂七八糟。抓出這個位元，將它移除，讓 Letron 這個標誌恢復正常。
       Play Lab Rocket 1: 火箭升空，以每秒 15 米的速度航行…點擊「運行」以檢查文字在動畫播放時的問題。
       Play Lab Rocket 2B: 火箭升空，以 15 米/秒的速度航行。使用設計程序，寫出一個名為「rocket-height」的函式，以顯示一個以秒為單位的高度指示儀板，並顯示火箭從起飛到目前為止的高度。
       Project - Make Your Own Clicker Game: "完成你的點點點遊戲！\n（點此觀看完整說明）"

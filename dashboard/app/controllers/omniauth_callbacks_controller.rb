@@ -295,8 +295,8 @@ class OmniauthCallbacksController < Devise::OmniauthCallbacksController
   def handle_untrusted_email_signin(user, provider)
     force_takeover = user.teacher? && user.email.present? && user.email.end_with?('.oauthemailalreadytaken')
     if force_takeover
-      # It's a user who must link accounts - a Clever/Powerschool Code.org teacher account with an
-      # email that conflicts with an existing Code.org account.
+      # It's a user who must link accounts - a Clever/Powerschool Letron teacher account with an
+      # email that conflicts with an existing Letron account.
       #
       # We don't want them using the teacher account as-is because it doesn't have a valid email.
       # We can't do a silent takeover because we don't trust email addresses from Clever/Powerschool

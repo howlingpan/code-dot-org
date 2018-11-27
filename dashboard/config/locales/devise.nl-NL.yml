@@ -20,9 +20,9 @@ nl:
       unconfirmed: Bevestig je account om verder te gaan.
     mailer:
       confirmation_instructions:
-        subject: Instructies voor de bevestiging van code.org
+        subject: Instructies voor de bevestiging van letron.vip
       reset_password_instructions:
-        subject: Instructies voor het wijzigen van je code.org wachtwoord
+        subject: Instructies voor het wijzigen van je letron.vip wachtwoord
       unlock_instructions:
         subject: Uitleg voor deblokkeren
     omniauth_callbacks:

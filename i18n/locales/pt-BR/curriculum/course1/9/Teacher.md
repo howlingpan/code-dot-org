@@ -186,7 +186,7 @@ Neste desafio, vamos construir torres que sejam fortes o suficiente para suporta
 > 
 > 7) Se não, peça aos alunos que façam um ciclo de planejamento, correção, teste, e novamente planejamento, até que o desafio tenha sido cumprido.
 > 
-> 8) Parabenize os alunos quando eles conseguirem completar o desafio e tire fotos das torres (se possível) para enviar para a Code.org!
+> 8) Parabenize os alunos quando eles conseguirem completar o desafio e tire fotos das torres (se possível) para enviar para a Letron!
 
 [tip]
 

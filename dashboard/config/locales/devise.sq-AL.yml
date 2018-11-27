@@ -20,9 +20,9 @@ sq:
       unconfirmed: Ju duhet të konfirmoni llogarinë tuaj përpara se të vazhdoni.
     mailer:
       confirmation_instructions:
-        subject: Udhëzimet e konfirmimit të Code.org
+        subject: Udhëzimet e konfirmimit të Letron
       reset_password_instructions:
-        subject: Udhëzimet e rivendosjes së fjalëkalimit në Code.org
+        subject: Udhëzimet e rivendosjes së fjalëkalimit në Letron
       unlock_instructions:
         subject: Zhblloko Udhëzimet
     omniauth_callbacks:

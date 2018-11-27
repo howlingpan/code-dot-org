@@ -8,7 +8,7 @@ nn:
       2-3 Artist 3.4: Hoppeblokka flyttar artisten utan å teikne. Teikn den stipla lina med hjelp av både hoppe- og teikneblokker. Kvar line er 50 pixlar lang.
       2-3 Artist 3new: "Den raude hatten er 100 pikslar høg. Fullfør teikninga ved å teikne ein svart hatt som er 70 pikslar kortare. \\r\n\\r\n*(Ps: Vidda på kvar hatt er 50 pikslar.)*"
       2-3 Artist 4: Hjelp meg å gjere huset til denne katten ferdig.
-      2-3 Artist 6: "Dette huset treng eit tak! Teikn triangelet. \\r\n\\r\nHint: Alle dei tre sidene har same lengde.\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      2-3 Artist 6: "Dette huset treng eit tak! Teikn triangelet. \\r\n\\r\nHint: Alle dei tre sidene har same lengde.\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       2-3 Artist 7: "Teikn ferdig dei siste vindauga på skulen slik at alle i klasserommet kan sjå ut. \\r \n\\r\nSidene på kvar vindaugsrute er 25 pikslar lang. "
       2-3 Artist 8: "La oss byggje ein låve!\\r\n\\r\nLag rom til kvart dyr ved å dele opp låven i 2 like store kvadrat. \\r\n\\r\nHint:\nRektangelet er 200 pikslar breitt og 100 piksler høgt.\\r\n\\r\nDet er mange måtar å løyse denne oppgåva på."
       2-3 Artist 9 NEW: Gjer ferdig denne dragen
@@ -254,9 +254,9 @@ nn:
       4-5 While Loops 4: "Wow! Sjå på det! \n\nEg veit ikkje kor mange spadetak med jord det tar å fylle det.\nKan du skrive eit program som nyttar fyll-blokka ti å fylle holet til det er heilt jamnt?  "
       Alien Defender: "**Prosjektidé**: Lag eit forsvarsspel i Spel-lab!"
       Alien Defender_2018: "**Prosjektidé**: Lag eit forsvarsspel i Spel-lab!"
-      AppLab Intro 1 - Add Sound: "# Kom i gang - legg til lyd\\r\n\\r\nApp\nlabben kan spele lyd óg. Du må bruke spelLyd()-blokka til å gjere det.\\r\n\\r\n1. Dra ei 'spelLyd()'-blokk til din 'påHending'. Dette vil gjere at lyden blir spelt når du klikkar på knappen. Klikk deretter på \"Vel...\" fra menyen.\\r\n\\r\n\\t![](https://images.code.org/9c84293859317f7ae46391a28c5a51e7-image-1504291688560.47.41\nAM.png)\\r\n\\r\n2. Gå til \"Lydbiblioteket\" og finn lyden du ønsker. Det finst ein drøss!\\r\n\\r\n\\t![](https://images.code.org/5393762b4f31fa4f09040ca8b09ca91c-image-1504291692587.47.52\nAM.png)\\r\n\\r\n3. Køyr appen for å sjekk korleis lydane dine fungerer."
+      AppLab Intro 1 - Add Sound: "# Kom i gang - legg til lyd\\r\n\\r\nApp\nlabben kan spele lyd óg. Du må bruke spelLyd()-blokka til å gjere det.\\r\n\\r\n1. Dra ei 'spelLyd()'-blokk til din 'påHending'. Dette vil gjere at lyden blir spelt når du klikkar på knappen. Klikk deretter på \"Vel...\" fra menyen.\\r\n\\r\n\\t![](https://images.letron.vip/9c84293859317f7ae46391a28c5a51e7-image-1504291688560.47.41\nAM.png)\\r\n\\r\n2. Gå til \"Lydbiblioteket\" og finn lyden du ønsker. Det finst ein drøss!\\r\n\\r\n\\t![](https://images.letron.vip/5393762b4f31fa4f09040ca8b09ca91c-image-1504291692587.47.52\nAM.png)\\r\n\\r\n3. Køyr appen for å sjekk korleis lydane dine fungerer."
       AppLab Intro 2 - add sound: |-
-        <img src="https://images.code.org/3c1d6506a6a3c350380b921e08588a2b-image-1505429594117.52.37
+        <img src="https://images.letron.vip/3c1d6506a6a3c350380b921e08588a2b-image-1505429594117.52.37
         PM.png" style="float:right;height:100px">\r
         \r
         Du kan legge til lyd i appen også! Legg dei utafor ei 'påHending()' for å spele fra starten av eventyret (bra for bakgrunnsmusikk) eller innanfor ei 'påHending()' for å spele når knappen blir klikka på (bra for "Vinning"/"Tapar"-lydar).\r
@@ -774,7 +774,7 @@ nn:
       grade4_frozen_square_loop1: Hei, eg heiter Anna av Arendelle! La oss lage eit kvadrat ved hjelp av "Gjenta"-blokka som brukar færre blokkar. Kor mange gongar (???) treng "Gjenta"-blokka til gå gjennom blokkene inni for å lage eit kvadrat?
       grade4_frozen_square_loop2: La oss lage tre kvadrat med spissen mot kvarandre. Hugs å snu 120 grader før kvart nye kvadrat.
       grade4_frozen_square_loop3: Får du til å lage et snøfnugg ved å bruke "repeter"-blokka til å lage 10 kvadrat og "Snu"-blokka for å snu deg 36 grader mellom kvart kvadrat?
-      grade4_review_artist2: "Dette huset treng eit tak! Teikn triangelet. \\r\n\\r\nHint: Alle dei tre sidene har same lengde.\\r\n\\r\n<img src=\"https://images.code.org/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
+      grade4_review_artist2: "Dette huset treng eit tak! Teikn triangelet. \\r\n\\r\nHint: Alle dei tre sidene har same lengde.\\r\n\\r\n<img src=\"https://images.letron.vip/8b10073fd1a7fe53b4da33ec2229894b-image-1468018903891.gif\"\nwidth=\"300\"/>"
       grade4_review_artist3: Hoppeblokka flyttar artisten utan å teikne. Teikn den stipla lina med hjelp av både hoppe- og teikneblokker. Kvar line er 50 pixlar lang.
       grade4_review_bee1: Nå kan du bruke den nye gjenta-blokken for å samle inn nektar og lage honning.
       grade4_review_bee3: |-

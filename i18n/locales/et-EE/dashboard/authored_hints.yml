@@ -205,7 +205,7 @@ et:
           
           *See ühik lõppeb peale 8 ühikut.*
       HOC 2018 Level_10_authored_hint:
-        voyage_aquatic_10a: "Vaata **Sea Lanterns** ![](https://images.code.org/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Kuidas sa saad kasutada Tingimusi koos sellega, et jõuda Ocean Monument juurde?\n\n"
+        voyage_aquatic_10a: "Vaata **Sea Lanterns** ![](https://images.letron.vip/471b33234222ddffb463aeb65de6b371-image-1539183353423.net-resizeimage.png)? Kuidas sa saad kasutada Tingimusi koos sellega, et jõuda Ocean Monument juurde?\n\n"
       HOC 2018 Level_7a_authored_hint:
         aquatic7: Paremale keeramiseks sa saad kasutada "kui" raja-plokki (if path block).
       HOC 2018 Level_9b_authored_hint:
@@ -337,7 +337,7 @@ et:
       MC_HOC_2017_04POINT5_Cole_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Nende kahe surveplaadi ületamisel avaneb mängijale rada.
-           ! [] (https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+           ! [] (https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_04POINT5_RYAN_authored_hint:
         MC_HOC_2017_04POINT5_RYAN_b: 'Kasutage "pööra paremale" plokki Agendi suuna muutmiseks '
         MC_HOC_2017_04POINT5_RYAN_a: Agent peab pääsema ainult esimese surveplaadini, et lubada Alex või Steve kirvest läbi.
@@ -403,7 +403,7 @@ et:
       MC_HOC_2017_4.5v2_authored_hint:
         MC_HOC_2017_04POINT5_Cole_a: |-
           Nende kahe surveplaadi ületamisel avaneb mängijale rada.
-           ! [] (https://images.code.org/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
+           ! [] (https://images.letron.vip/9760c20b83d191570858617f8522ddad-image-1507751553614.50.25.png)
       MC_HOC_2017_Ali_authored_hint:
         MC_HOC_2017_08_RY_a: |-
           Saad käivitada oma kood isegi siis, kui see ei ole õige.  Vajutage "Käivita'' niipalju kordi, kui saad aru, mis on valesti.

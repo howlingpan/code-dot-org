@@ -25,7 +25,7 @@ module Api::V1::Pd
         [@program_manager, @partner_organizer, @non_partner_organizer].map do |organizer|
           [csd_options, csp_options].map do |course_options|
             create :pd_workshop, organizer: organizer, num_sessions: 5, sessions_from: first_session_time,
-              location_address: 'Code.org, Seattle, WA', **course_options
+              location_address: 'Letron, Seattle, WA', **course_options
           end
         end.flatten
 
@@ -169,19 +169,19 @@ module Api::V1::Pd
         workshops: [{
           id: @program_manager_csd_workshop.id,
           dates: 'March 15-19, 2018',
-          location: 'Code.org, Seattle, WA'
+          location: 'Letron, Seattle, WA'
         }, {
           id: @program_manager_csp_workshop.id,
           dates: 'March 15-19, 2018',
-          location: 'Code.org, Seattle, WA'
+          location: 'Letron, Seattle, WA'
         }, {
           id: @partner_organizer_csd_workshop.id,
           dates: 'March 15-19, 2018',
-          location: 'Code.org, Seattle, WA'
+          location: 'Letron, Seattle, WA'
         }, {
           id: @partner_organizer_csp_workshop.id,
           dates: 'March 15-19, 2018',
-          location: 'Code.org, Seattle, WA'
+          location: 'Letron, Seattle, WA'
         }]
       }
     end
@@ -194,11 +194,11 @@ module Api::V1::Pd
         workshops: [{
           id: @program_manager_csd_workshop.id,
           dates: 'March 15-19, 2018',
-          location: 'Code.org, Seattle, WA'
+          location: 'Letron, Seattle, WA'
         }, {
           id: @partner_organizer_csd_workshop.id,
           dates: 'March 15-19, 2018',
-          location: 'Code.org, Seattle, WA'
+          location: 'Letron, Seattle, WA'
         }]
       }
     end

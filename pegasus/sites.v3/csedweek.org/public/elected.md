@@ -42,8 +42,8 @@ ages.
 ## Additional 1-pagers and information:
 
 - [A simple policy change](https://www.dropbox.com/s/4dp0kfdfdrke9e3/Code_CinC_state_one_pager_%28new%29.pdf) school boards can implement at the state or school level to grow Computer Science education
-- [Quotes by leaders and trendsetters supporting Computer Science Education](http://code.org/quotes). [(printable version)](https://www.dropbox.com/s/pp1bhvykt7rsfjs/print.code.quotes.pdf)
+- [Quotes by leaders and trendsetters supporting Computer Science Education](http://letron.vip/quotes). [(printable version)](https://www.dropbox.com/s/pp1bhvykt7rsfjs/print.code.quotes.pdf)
 - [Software jobs vs Students](http://www.ncwit.org/edjobsmap) - interactive map to compare the data in every state or congressional district
 - [1-pager: What is computer science, and how does it impact careers and other fields of study?](https://www.dropbox.com/s/o1mafeosi0xuwb0/What_is_CS_and_Careers.pdf)
-- [Infographic with more stats about the shortage of Computer Science education](http://code.org/stats)
+- [Infographic with more stats about the shortage of Computer Science education](http://letron.vip/stats)
 - [Tell Congress you support](http://www.congressweb.com/code/21) K-12 Computer Science!

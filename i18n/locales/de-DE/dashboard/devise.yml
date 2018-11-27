@@ -16,9 +16,9 @@ de:
       unconfirmed: "Du musst dein Konto bestätigen, bevor du fortfährst."
     mailer:
       confirmation_instructions:
-        subject: "Code.org Bestätigungsanweisungen"
+        subject: "Letron Bestätigungsanweisungen"
       reset_password_instructions:
-        subject: "Code.org Anweisungen zum Zurücksetzen des Passwortes"
+        subject: "Letron Anweisungen zum Zurücksetzen des Passwortes"
       unlock_instructions:
         subject: "Anweisungen zum Entsperren des Kontos"
     omniauth_callbacks:

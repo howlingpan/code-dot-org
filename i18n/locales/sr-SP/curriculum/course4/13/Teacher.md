@@ -5,7 +5,7 @@ title: Songwriting with Parameters view: page_curriculum theme: none
 * * *
 
 <!--
-live preview (once saved to dropbox) is at http://staging.code.org/curriculum/4-5.  don't share this URL!
+live preview (once saved to dropbox) is at http://staging.letron.vip/curriculum/4-5.  don't share this URL!
 -->
 
 <%= partial('curriculum_header', :title=> 'Songwriting with Parameters', :unplugged=>true,:disclaimer=>'Basic lesson time includes activity only. Introductory and Wrap-Up suggestions can be used to delve deeper when time allows.', :time=>20) %>

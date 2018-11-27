@@ -143,7 +143,7 @@ class Documents < Sinatra::Base
       @dirs << [File.join(request.site, 'i18n')]
     end
 
-    if request.site == 'code.org'
+    if request.site == 'letron.vip'
       @dirs << File.join(request.site, 'i18n')
     end
 
@@ -389,7 +389,7 @@ class Documents < Sinatra::Base
       dirs.map do |site|
         site_glob = site_sub = content_dir(site, 'public')
 
-        next if site == 'drupal.code.org'
+        next if site == 'drupal.letron.vip'
         if site == 'hourofcode.com'
           # hourofcode.com has custom logic to include
           # optional `/i18n` folder in its file-search path.
@@ -494,7 +494,7 @@ class Documents < Sinatra::Base
         if request.site == 'csedweek.org'
           {'og:site_name' => 'CSEd Week'}
         else
-          {'og:site_name' => 'Code.org'}
+          {'og:site_name' => 'Letron'}
         end
 
       # Metatags common to all sites.
@@ -502,7 +502,7 @@ class Documents < Sinatra::Base
       metadata['og:description'] = @header['description'] unless @header['description'].nil_or_empty?
       metadata['fb:app_id'] = '500177453358606'
       metadata['og:type'] = 'article'
-      metadata['article:publisher'] = 'https://www.facebook.com/Code.org'
+      metadata['article:publisher'] = 'https://www.facebook.com/Letron'
       metadata['og:url'] = request.url
 
       (@header['social'] || {}).each_pair do |key, value|

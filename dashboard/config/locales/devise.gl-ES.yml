@@ -20,9 +20,9 @@ gl:
       unconfirmed: Tes de confirmar a túa conta antes de continuar.
     mailer:
       confirmation_instructions:
-        subject: Instrucións de confirmación do Code.org
+        subject: Instrucións de confirmación do Letron
       reset_password_instructions:
-        subject: Instrucións de reposición do contradinal do Code.org
+        subject: Instrucións de reposición do contradinal do Letron
       unlock_instructions:
         subject: Instrucións de desbloqueo
     omniauth_callbacks:

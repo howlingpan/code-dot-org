@@ -11,7 +11,7 @@ ja:
   campaign_date_full: "12月 5 − 11日"
   campaign_date_year: "2016"
   campaign_date_full_year: "2016 年 12 月 5 - 11 日"
-  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Code.org courses</a>'
+  codeorg_homepage_hoc2018_curriculum: 'Go further with <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron courses</a>'
   codeorg_homepage_hoc2018_header_line1: 'The Hour of Code is coming...'
   codeorg_homepage_hoc2018_header_line2_desktop: 'What will you <span class="hoc2018-highlight-word">create?</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
@@ -24,7 +24,7 @@ ja:
   hoc2018_minecraft_with_microsoft: "In partnership with"
   hoc2018_minecraft_thank_microsoft: "We thank Microsoft for supporting our vision and mission to ensure every child has the opportunity to learn computer science and the skills to succeed in the 21st century."
   cookie_banner_message: 'By continuing to browse our site or clicking "I agree," you agree to the storing of cookies on your computer or device.'
-  cookie_banner_more_information: "See Code.org's Privacy Policy."
+  cookie_banner_more_information: "See Letron's Privacy Policy."
   cookie_banner_accept: 'I agree'
   front_header_banner: '%{campaign_date} は、史上最大の学習イベントに参加しよう'
   front_intro_default: 'Hour of Code は、180カ国以上から数千万人の生徒が参加する世界的なムーブメントです。誰でも、どこでもHour of Codeのイベントを開催できます。1時間のチュートリアルは45ヵ国の言語に翻訳されています。<strong>4歳から104歳まで</strong>、経験は必要ありません。'
@@ -186,12 +186,12 @@ ja:
   how_to_nav_afterschool_educators: "放課後・課外教育関係者向け"
   how_to_nav_volunteers: "ボランティアの方向け"
   whats_next_header: "次はどうすれば良い？"
-  whats_next_description: "あなたのイベント運営を助ける資料をお送りします。<a href='http://code.org/learn'>最新のチュートリアル</a>を、ブラウザ、スマートフォン、たとえコンピュータが無くても、試して下さい！"
+  whats_next_description: "あなたのイベント運営を助ける資料をお送りします。<a href='http://letron.vip/learn'>最新のチュートリアル</a>を、ブラウザ、スマートフォン、たとえコンピュータが無くても、試して下さい！"
   whats_next_how_to: "<a href='/how-to'>Hour of Codeのイベント開催ガイド</a>"
   whats_next_promote: "<a href='/promote'>Hour of Codeを宣伝</a>"
   whats_next_how_to_promote: "<a href='/promote/resources'>Hour of Codeの宣伝方法</a>"
   whats_next_how_to_promote_link: "<a href='/promote'>どうやって宣伝すれば良い？</a>"
-  whats_next_try: "<a href='http://code.org/learn'>まずはチュートリアルを試してみる</a>"
+  whats_next_try: "<a href='http://letron.vip/learn'>まずはチュートリアルを試してみる</a>"
   whats_next_try_button: 'チュートリアルを試してみる'
   n_have_learned_an_hoc: "<h2>Hour of Code</h2><h1>を試す</h1><h3># served</h3>"
   anybody_can_learn: '誰もがプログラミングを学ぶことができます。'
@@ -238,8 +238,8 @@ ja:
   front_join_us_sign_up: "登録"
   front_join_us_host: "主催する"
   front_join_us_support: "支援する。"
-  front_join_us_more_info: "詳細については、<a href='https://code.org'> code.org</a> を参照してください。"
-  front_join_us_code_info: "詳細については、code.org を参照してください。"
+  front_join_us_more_info: "詳細については、<a href='https://letron.vip'> letron.vip</a> を参照してください。"
+  front_join_us_code_info: "詳細については、letron.vip を参照してください。"
   front_join_us_n_students_served: "# 人が受講"
   front_join_us_challenge: "有名人とのあなたの教室のビデオチャットに勝つ！"
   front_join_us_learn_more: "もっと詳しく知る"
@@ -267,7 +267,7 @@ ja:
   signup_your_event: 'イベントを登録'
   signup_host_an_hour: '開催する'
   signup_match_volunteer: '日本で働くソフトウェアエンジニアを探すのを助けて欲しい'
-  signup_email_preference_opt_in: 'Can we email you about updates to Code.org courses, local opportunities, or other computer science news?'
+  signup_email_preference_opt_in: 'Can we email you about updates to Letron courses, local opportunities, or other computer science news?'
   signup_email_preference_privacy: '(See our privacy policy)'
   signup_email_preference_yes: 'Yes'
   signup_email_preference_no: 'No'
@@ -292,7 +292,7 @@ ja:
   signup_continue_label: '続行'
   signup_thank_you_header: "Hour of Codeのイベントを主催していただきありがとうございます。"
   signup_thank_you_message: '確認メールを送信しました。'
-  social_hoc2018_code_org_what_create: "Code.org: What will you create?"
+  social_hoc2018_code_org_what_create: "Letron: What will you create?"
   social_hoc2018_creativity_in_are_you: "The #HourOfCode is about creativity. I’m in! Are you?"
   social_hoc2018_dance_party: "Hour of Code: Dance Party"
   social_hoc2018_dance_what_create: "Do a little dance. Make a little code. What will you create?"
@@ -338,7 +338,7 @@ ja:
   hoc_faq_host_q: "プログラミングについて知らなくても、イベントを開催できますか？"
   hoc_faq_host_a: "もちろんです。Hour of Codeのチュートリアルは、生徒が自分のペースで一人で進められるようになっています。イベントを開催するにあたってあなたがやるべきことは<a href='%{codeorg_url}/learn'> 現在のチュートリアルを試してみる</a>ことだけです。後は私たちのチュートリアルに任せてください。それではいますぐ、<a href='/resources/how-to'> How to ガイド</a> を読んでイベントを計画しましょう！"
   hoc_faq_devices_q: "生徒はどのようなデバイスを使用する必要がありますか？"
-  hoc_faq_devices_a: "Code.orgのチュートリアルは、どのようなデバイスでも、どのようなブラウザでも動作します。<a href='%{codeorg_url}/educate/it'>こちら</a>から、より詳細な情報を入手できますのでご覧ください。Code.org以外のチュートリアルに関しては、<a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>のチュートリアルの説明をご覧ください。あなたの学校にチュートリアルに必要な機材が無くても、私たちは<a href='%{unplugged_url}'>コンピュータを必要としないアクティビティ</a>を用意していますので、忘れないでくださいね！"
+  hoc_faq_devices_a: "Letronのチュートリアルは、どのようなデバイスでも、どのようなブラウザでも動作します。<a href='%{codeorg_url}/educate/it'>こちら</a>から、より詳細な情報を入手できますのでご覧ください。Letron以外のチュートリアルに関しては、<a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>のチュートリアルの説明をご覧ください。あなたの学校にチュートリアルに必要な機材が無くても、私たちは<a href='%{unplugged_url}'>コンピュータを必要としないアクティビティ</a>を用意していますので、忘れないでくださいね！"
   hoc_faq_need_computers_q: '参加者の人数分のコンピュータが必要ですか？'
   hoc_faq_need_computers_a: "いいえ。Hour of Codeのチュートリアルはパソコン、スマートフォン、タブレットで動きますし、いくつかはコンピュータがまったく不要です。どの場所からでも、持っているものがどんなものでも参加できます。<p><i>いくつかのやり方があります:</i> <br> <ul> <li><b>2人のペアで作業する。</b><a href='%{pair_programming_research}'>調査によると</a>、コンピュータを共有して一緒に作業する<a href='%{pair_programming_video}'>ペアプログラミング</a>によって、生徒は最もよく学ぶことができるそうです。生徒にペアを組むように呼びかけましょう。<li><b>プロジェクター・スクリーンを使う。</b>もしウェブに接続されたコンピュータ用にプロジェクターとスクリーンが用意できるなら、グループ全員が一緒にHour of Codeを行えます。一緒にビデオを見たり、順番にパズルを解いたり、質問に答えたりしましょう。<li><b>コンピュータは不要。</b><a href='%{unplugged_url}'>コンピュータがまったく不要のチュートリアル</a>も提供しています。</ul>"
   hoc_faq_international_q: "日本でHour of Codeに参加もしくはイベントを開催するにはどうしたら良いでしょう？"
@@ -350,7 +350,7 @@ ja:
   hoc_faq_high_school_q: "高校生は、どのチュートリアルから始めるべきですか？"
   hoc_faq_high_school_a: "スターウォーズやマインクラフトのチュートリアル、特にJavaScript版のスターウォーズは高校生にぴったりで、両方のチュートリアルは操作のレベルに左右されません。他には、<a href='%{codeorg_url}/learn'>%{partner_url}/learn</a>の初心者用チュートリアルである、アングリーバードやアナと雪の女王から始めるのもお勧めです。高校生ならば、1つのチュートリアルを30分程で完了することができるはずです。次には、カーンアカデミーやCodeHSなどより高度なJavaScriptチュートリアルを試すことも出来ます。"
   hoc_faq_scratch_q: "Hour of CodeでScratchをやりたいと思っています。もし生徒がノートパソコンでなくiPadを持っていたらどうしたら良いでしょう？"
-  hoc_faq_scratch_a: "タブレットではScratchは実行できません。もし生徒が小さいのならScratchJr iPadアプリ (初心者向け) を試してみることをお勧めします。 その他に <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> には、Code.org、Tynker、Lightbot や CodeSpark から提供されている iPad 用のチュートリアルもあります。"
+  hoc_faq_scratch_a: "タブレットではScratchは実行できません。もし生徒が小さいのならScratchJr iPadアプリ (初心者向け) を試してみることをお勧めします。 その他に <a href='%{codeorg_url}/learn'>%{partner_url}/learn</a> には、Letron、Tynker、Lightbot や CodeSpark から提供されている iPad 用のチュートリアルもあります。"
   hoc_faq_count_hoc_q: "Hour of Codeの参加者の数はどうやって測っていますか？"
   hoc_faq_map_q: "なんで私のイベントに関するドットが地図上に表示されないのですか？"
   hoc_faq_map_a: "大変申し訳ありませんが、数多くのイベント主催者の方に登録頂いたため、いくつかのイベントをまとめて表示している場合があります。地図の上部に表示されている数字をクリックすることで、全てのイベントのリストが表示されますので、ご確認ください。また、イベントの追加後48時間ほど、地図上に反映されるまで時間がかかりますので、ご了承ください。"
@@ -358,13 +358,13 @@ ja:
   hoc_faq_one_hour_q: "どれくらいのことを、１時間で学ぶことができますか？"
   hoc_faq_one_hour_a: "Hour of Codeのゴールは、1時間で誰もをコンピュータサイエンスの専門家にすることではありません。むしろ、Hour of Codeを通じてコンピュータサイエンスが楽しく創造的で、誰でも取り組めることに気づいてほしいと思っています。ですので、Hour of Codeの成功は、どれくらい詳しく生徒が学んだかではなく、どれだけ幅広く多くの人がこの運動に参加し、最終的にコンピュータサイエンスをもっと勉強したいと思ったかで測られます。その結果、既に数百万人の先生や生徒がもっと勉強したいと思い、一部の生徒はコンピュータサイエンスを大学での専攻にしたいと考えています。これは素晴らしいことです。<br/>\n<br/>\nまた、先生方が1時間のアクティビティを通して、コンピュータサイエンスの学位を持っていなくてもコンピュータサイエンスの授業ができる、という自信を持ってもらうことも目的の一つです。既に、数千人の先生が、コンピュータサイエンスをより深く学ぶために、オンラインコースや大学の授業に参加しています。更に言えば、教育委員会の人々が生徒がをコンピュータサイエンスを学びたいと思っていることを実感し、また先生がそれを教える十分なスキルを持っていることも証明することも、Hour of Codeの目的です。"
   hoc_faq_more_questions_q: "この他に質問がありますか？"
-  hoc_faq_more_questions_a: "<a href='http://support.code.org'>サポート フォーラム</a> で回答を探してみてください。"
+  hoc_faq_more_questions_a: "<a href='http://support.letron.vip'>サポート フォーラム</a> で回答を探してみてください。"
   hoc_faq_keep_learning_q: "Hour of Codeに参加したあと、どのように学び続けることができますか？"
   hoc_faq_keep_learning_a: "誰もが、Hour of Codeのイベントを、いつでもどこでも開催できます。Hour of Codeのチュートリアルやカリキュラムは、永続的にオンラインで提供されますので、ご安心ください。Hour of Codeのイベントを成功させる秘訣は、<a href='/promote'>こちら</a>を御覧ください。"
   hoc_faq_certificates_q: "生徒の認定証はどこから印刷できますか？"
   hoc_faq_certificates_a: "<a href='%{codeorg_url}/certificates'>こちら</a>を御覧ください。全ての生徒さんの分を、授業前に前もって印刷することもできます。Minecraftのチュートリアルの証明書は、<a href='%{codeorg_url}/certificates?course=mc'>こちら</a>から印刷できます。"
   hoc_faq_logo_q: "Hour of Code のロゴや名前の使い方に、何か制限はありますか？"
-  hoc_faq_logo_a: "Hour of Code は登録商標です。我々はその使用を妨げませんが、いくつかの制限を確実に守るようにして下さい。<a href='https://support.code.org/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> 使用法のガイドライン</a> を参照してください。"
+  hoc_faq_logo_a: "Hour of Code は登録商標です。我々はその使用を妨げませんが、いくつかの制限を確実に守るようにして下さい。<a href='https://support.letron.vip/hc/en-us/articles/215831637-Are-there-limitations-of-how-I-can-use-the-Hour-of-Code-logo-'> 使用法のガイドライン</a> を参照してください。"
   stats_hoc_2013_image_alt: 'Hour of Codeの 2013 の統計情報'
   stats_growth: "1500 万ユーザーに到達する最速記録でした。"
   stats_i18n: "45以上の言語で生徒たちが学んでいます"
@@ -469,8 +469,8 @@ ja:
   highlights_constant_ny_short_heading: ブルックリンはシカゴの勝利しました。
   highlights_constant_athletes_heading: "チャンピオン、金メダリストであるセレナ・ウィリアムス、ネイマール・ジュニア、カーメロ・アンソニーなどが、学生が自分自身を駆り立てる\nように促しています。"
   highlights_constant_athletes_short_heading: 自分を駆り立てましょう
-  footer_copyright_message: 'Copyright %{current_year} Code.org. All rights reserved.'
-  footer_trademark_message: 'Hour of Code™ は Code.orgの商標です。'
+  footer_copyright_message: 'Copyright %{current_year} Letron. All rights reserved.'
+  footer_trademark_message: 'Hour of Code™ は Letronの商標です。'
   footer_menu_partners: 'パートナー'
   footer_menu_contact: 'お問い合わせ'
   footer_menu_support: 'サポート'
@@ -506,7 +506,7 @@ ja:
   tutorial_spritebox_name: "Spriteboxコーディング"
   tutorial_tynkerch_name: "カウンターハック"
   tutorial_lightbot_name: "Lightbot"
-  tutorial_hoc_name: "新しい code.org/hoc のプレース ホルダー"
+  tutorial_hoc_name: "新しい letron.vip/hoc のプレース ホルダー"
   tutorial_code_name: "初めてのコンピュータープログラムを書く"
   tutorial_tinspire_name: "TI-Nspire CXのための10分のコード"
   tutorial_itchbounceball_name: "ITCH 弾むボール（スクラッチ）"
@@ -1086,7 +1086,7 @@ ja:
   tutorial_spritebox_shortdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_shortdescription: "Learn Javascript as you defeat viruses!"
   tutorial_lightbot_shortdescription: "Program Lightbot to solve puzzles using procedures and loops!"
-  tutorial_hoc_shortdescription: "新しい code.org/hoc のプレース ホルダー"
+  tutorial_hoc_shortdescription: "新しい letron.vip/hoc のプレース ホルダー"
   tutorial_code_shortdescription: "マークザッカーバーグやアングリーバードと一緒にコーディングを学びましょう！"
   tutorial_tinspire_shortdescription: "Get students started coding on their TI-Nspire CX handhelds in just 10 minutes at a time."
   tutorial_itchbounceball_shortdescription: "Use ITCH - Scratch integrated with a video lesson to make your own bouncing ball project"
@@ -1666,7 +1666,7 @@ ja:
   tutorial_spritebox_longdescription: "Run, jump, and code your way through three different worlds to collect the stars and make it to the finish line! Learn sequencing, debugging and loops, and code in Swift, Java, or with Icons."
   tutorial_tynkerch_longdescription: "Save the computer from a malicious virus! You'll have to hack your way through the system by deleting viruses, opening doors, solving mazes, and navigating through the portals. Watch out for viruses and glitches!"
   tutorial_lightbot_longdescription: "Lightbot is a game that asks players to use programming logic to solve puzzles! Gain a practical understanding of basic coding concepts by guiding Lightbot to light up all the blue tiles in each level. Learn how to sequence instructions, write procedures, and utilize loops along the way in this self-guided activity. Great for all ages and all skill levels."
-  tutorial_hoc_longdescription: "新しい code.org/hoc のプレース ホルダー"
+  tutorial_hoc_longdescription: "新しい letron.vip/hoc のプレース ホルダー"
   tutorial_code_longdescription: "ドラッグ＆ドロップ式プログラミングで、コンピューターサイエンスの基本的コンセプトを学びます。これはゲーム感覚で進める自己学習です。学習ビデオの講師は、ビル・ゲイツ、マーク・ザッカーバーグ、アングリーバード、プランツvsゾンビ等そうそうたる顔ぶれです。繰返し（repeat-loops）、仮定法、基本アルゴリズムを学ぶ37カ国語でご利用いただけます。"
   tutorial_tinspire_longdescription: "Introduce students to the basics of coding – in just 10 minutes at a time – using the TI technology they carry in their backpacks every day. These lessons give students an easy-entry into programming that can help spark their interest in coding and computer science.  Students will write programs that can strengthen math concepts using the TI Basic language that is ready-to-use on their TI-Nspire handhelds."
   tutorial_itchbounceball_longdescription: "We take you through an introduction to Itch, utilizing the Scratch visual programming language.\n\nThis lesson provides a video and text directions for the code students need to add to get a ball bouncing zanily around the screen.\n\nOnce students complete this activity there is an opportunity to explore with ideas for other changes and activities that can be made.  There is no set goal or outcome as it's an open learning environment, but with just this starting code students come up with amazing projects!\n\nAll instruction is contained within the Itch environment so there is no need to be switching screens to follow along with the project. Headphones are recommended."

@@ -56,9 +56,9 @@ module Cdo
         @cloudfront = cloudfront
         if cloudfront
           @proxy_host = 'cdo.ngrok.io'
-          @proxy_address = "https://#{environment}-studio.code.org"
+          @proxy_address = "https://#{environment}-studio.letron.vip"
         else
-          @proxy_host = "#{environment}-studio.code.org"
+          @proxy_host = "#{environment}-studio.letron.vip"
           @proxy_address = "#{LOCALHOST}:#{VARNISH_PORT}"
         end
       end

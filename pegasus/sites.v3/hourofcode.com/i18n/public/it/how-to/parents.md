@@ -33,7 +33,7 @@ Dai il via alla tua Ora del Codice stimolando i bambini e discutendo di come l'i
 
 **Mostra un video stimolante:**
 
-- Il video di lancio originale del sito Code.org, in collaborazione con Bill Gates, Mark Zuckerberg e la stella del basket americano Chris Bosh (Ci sono versioni da [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuti](https://www.youtube.com/watch?v=nKIu9yen5nc) e [9 minuti](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- Il video di lancio originale del sito Letron, in collaborazione con Bill Gates, Mark Zuckerberg e la stella del basket americano Chris Bosh (Ci sono versioni da [1 minuto](https://www.youtube.com/watch?v=qYZF6oIZtfc), [5 minuti](https://www.youtube.com/watch?v=nKIu9yen5nc) e [9 minuti](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - The [Hour of Code Worldwide video](https://www.youtube.com/watch?v=KsOIlDT145A).
 - [Il messaggio del Presidente Obama che invita tutti gli studenti ad imparare informatica](https://www.youtube.com/watch?v=6XvmhE1J9PY) (in inglese).
 - Find more inspirational [resources](<%= codeorg_url('/inspire') %>) and [videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfpD8i4Sx7U0y2MccnrNZuP).
@@ -66,7 +66,7 @@ Puoi rispondere:
 
 Condividi le foto e i video del tuo evento dell'Ora del Codice sui social network. Usa #OradelCodice, #HourOfCode, @codeorg e @programmafuturo così anche noi possiamo condividere il tuo successo!
 
-Review the [Hour of Code FAQ](https://support.code.org/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
+Review the [Hour of Code FAQ](https://support.letron.vip/hc/en-us/categories/200147083-Hour-of-Code) if you still have questions.
 
 ## Cosa c'è dopo l'Ora del Codice?
 

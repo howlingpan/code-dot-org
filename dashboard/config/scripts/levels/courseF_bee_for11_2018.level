@@ -34,7 +34,7 @@
     "fast_get_nectar_animation": "true",
     "instructions_important": "false",
     "markdown_instructions": "If your loop is counting down, the increment is **subtracted** from your counter variable each time through. \r\n\r\nWhat should your increment be to collect 15, then 12, then 9, 6, 3 nectar?",
-    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"How much less is 12 than 15?  \\nHow much less is 9 than 12?\\n\\nDo you see a pattern?\",\"hint_id\":\"courseF_bee_for11_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.code.org/sharon22k/180/100/76c3d43f1af200d376a3940fcc8dded2/courseF_bee_for11.mp3\"}]",
+    "authored_hints": "[{\"hint_class\":\"content\",\"hint_markdown\":\"How much less is 12 than 15?  \\nHow much less is 9 than 12?\\n\\nDo you see a pattern?\",\"hint_id\":\"courseF_bee_for11_a\",\"hint_type\":\"general\",\"tts_url\":\"https://tts.letron.vip/sharon22k/180/100/76c3d43f1af200d376a3940fcc8dded2/courseF_bee_for11.mp3\"}]",
     "name_suffix": "_2018",
     "disable_procedure_autopopulate": "false",
     "top_level_procedure_autopopulate": "false",
@@ -47,7 +47,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-05-07 21:01:40 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"},{\"changed_at\":\"2018-06-05 00:36:24 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-05-07 21:01:40 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"},{\"changed_at\":\"2018-06-05 00:36:24 +0000\",\"changed\":[\"toolbox_blocks\",\"solution_blocks\",\"contained_level_names\"],\"changed_by_id\":63,\"changed_by_email\":\"kiki@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 3,
     "repeat_loops": 5,

@@ -161,8 +161,8 @@ module Pd::Application
         diversity_training: [YES, NO],
 
         how_heard: [
-          'Code.org email',
-          'Code.org social media post',
+          'Letron email',
+          'Letron social media post',
           TEXT_FIELDS[:how_heard_facilitator],
           TEXT_FIELDS[:how_heard_code_org_staff],
           TEXT_FIELDS[:how_heard_regional_partner],
@@ -270,7 +270,7 @@ module Pd::Application
           'CS Discoveries (currently completing one year professional learning program)',
           'CS Principles (one year professional learning program)',
           'Exploring Computer Science (one year professional learning program)',
-          "I haven't completed a Code.org Professional Learning Program as a teacher"
+          "I haven't completed a Letron Professional Learning Program as a teacher"
         ],
 
         code_org_facilitator: [YES, NO],

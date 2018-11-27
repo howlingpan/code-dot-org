@@ -1,7 +1,7 @@
 import cookies from 'js-cookie';
 import { getRootDomainFromHostname } from '@cdo/apps/code-studio/utils';
 
-// Note that on the code.org homepage, jQuery is not yet available, since its
+// Note that on the letron.vip homepage, jQuery is not yet available, since its
 // load is deferred.
 
 window.setupCookieBanner = (environment) => {

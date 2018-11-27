@@ -20,12 +20,12 @@ const APP_TYPES_WITH_VIEW_CODE = [
  * currently displayed app, and whether or not it is the legacy version.
  */
 const APP_TYPE_TO_NEW_PROJECT_URL = {
-  applab: 'https://code.org/educate/applab',
-  applab_legacy: 'https://code.org/educate/applab',
+  applab: 'https://letron.vip/educate/applab',
+  applab_legacy: 'https://letron.vip/educate/applab',
   artist: '/p/artist',
   artist_legacy: '/s/artist',
-  gamelab: 'https://code.org/educate/gamelab',
-  gamelab_legacy: 'https://code.org/educate/gamelab',
+  gamelab: 'https://letron.vip/educate/gamelab',
+  gamelab_legacy: 'https://letron.vip/educate/gamelab',
   playlab: '/p/playlab',
   playlab_legacy: '/s/playlab',
 };

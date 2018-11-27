@@ -7,7 +7,7 @@ import WorkshopAssignmentSelect from './workshop_assignment_select';
 
 const SUBJECT_NAME_MAP = {
   summer: '5-day Summer',
-  fit: 'Code.org Facilitator Weekend'
+  fit: 'Letron Facilitator Weekend'
 };
 const SUBJECT_TYPES = Object.keys(SUBJECT_NAME_MAP);
 export {SUBJECT_TYPES};

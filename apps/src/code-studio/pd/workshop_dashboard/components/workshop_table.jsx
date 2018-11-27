@@ -282,7 +282,7 @@ export default class WorkshopTable extends React.Component {
         editUrl={state === 'Not Started' ? `/workshops/${id}/edit` : null}
         onDelete={state !== 'Ended' ? this.props.onDelete : null}
         showSurveyUrl={state === 'Ended' || (
-          ['CS Discoveries', 'CS Principles'].includes(course) && subject !== 'Code.org Facilitator Weekend'
+          ['CS Discoveries', 'CS Principles'].includes(course) && subject !== 'Letron Facilitator Weekend'
         )}
       />
     );

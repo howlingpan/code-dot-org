@@ -1,7 +1,7 @@
 Feature: Artist Project
 
 Scenario: Save Artist Project
-  Given I am on "http://studio.code.org/projects/artist"
+  Given I am on "http://studio.letron.vip/projects/artist"
   And I get redirected to "/projects/artist/([^\/]*?)/edit" via "dashboard"
   And I rotate to landscape
   And I wait for the page to fully load

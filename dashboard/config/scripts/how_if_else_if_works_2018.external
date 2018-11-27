@@ -6,7 +6,7 @@ href 'path/to/html/in/asset/folder'
 markdown <<MARKDOWN
 # How if-else-if Works
 
-<img src="https://images.code.org/106e53acf8cd901e0a754e408658ec9f-image-1479743802624.png" style="float: right">
+<img src="https://images.letron.vip/106e53acf8cd901e0a754e408658ec9f-image-1479743802624.png" style="float: right">
 
 Not all conditions you want to check have only two possible outcomes. However a computer can only check *one true/false condition at a time*.
 
@@ -24,7 +24,7 @@ Here is an example that is similar to the one presented in the video.  We've add
 <span style="color: #00adbc; font-weight: bold; font-size: 120%">1.</span>
 Ask the user to enter their age and save it in a variable.<br>
 
-<img src="https://images.code.org/a288ac11e535da5b2ddab62d2f8fcb5d-image-1479741790389.png"  style="float: right">
+<img src="https://images.letron.vip/a288ac11e535da5b2ddab62d2f8fcb5d-image-1479741790389.png"  style="float: right">
 
 <span style="color: #00adbc; font-weight: bold; font-size: 120%">2.</span>
 *First* check to see if the age is 17 or over. If it is they can see an R-rated movie.<br>
@@ -58,7 +58,7 @@ When writing *if-else-if* there are two common mistakes and thus two things to p
 
 The **common mistake** is to accidentally have a condition early in the sequence that makes the other statements *impossible* to reach. For example, if you changed the order of the conditions in our movie ratings example:
 
-<img src="https://images.code.org/2952af1f6bd8af82ea85a0b2e4558e89-image-1479741538437.png" style="float: right">
+<img src="https://images.letron.vip/2952af1f6bd8af82ea85a0b2e4558e89-image-1479741538437.png" style="float: right">
 
 <span style="color: #00adbc; font-weight: bold; font-size: 120%">1.</span>
 This condition is true for any age over 4, so this *console.log* will execute right away, and the rest of the statements will be ignored.  <br>
@@ -72,7 +72,7 @@ The **misconception** that leads to this mistake is to think that the *if-else-i
 
 Just like an *if* statement without an else is skipped over if the condition is false, an *if-else-if* without a final else clause is *skipped over entirely if none of the conditions is true*. 
 
-<img src="https://images.code.org/7af905634f9ed0d4ea371f909c8b426d-image-1479742511200.png" style="float: right">
+<img src="https://images.letron.vip/7af905634f9ed0d4ea371f909c8b426d-image-1479742511200.png" style="float: right">
 
 Here is a generic example - forgetting what the code inside the *if* statements is supposed to do, just consider the *if-else-if* structure here.
 
@@ -91,7 +91,7 @@ It’s worth noting that *if-else-if* doesn’t provide you with any new capabil
 
 Here is our movie ratings example with nested if-else statements - it functions *exactly the same* as if they were *else-if* statements as we described above.
 
-<img src="https://images.code.org/abf73f4e9b7ed0e769b16dbc6b951a0b-image-1479739671254.png" style="display: block; margin: auto;">
+<img src="https://images.letron.vip/abf73f4e9b7ed0e769b16dbc6b951a0b-image-1479739671254.png" style="display: block; margin: auto;">
 
 <div style="clear: both; column-count: 3; column-gap: 20px; column-rule: 0.5px solid #00adbc; -moz-column-count: 3; width: 100%">
 

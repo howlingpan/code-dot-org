@@ -9,51 +9,51 @@ class ApplicationHelperTest < ActionView::TestCase
   end
 
   test "canonical_hostname in test" do
-    assert_equal 'test-studio.code.org', CDO.canonical_hostname('studio.code.org')
-    assert_equal 'test.code.org', CDO.canonical_hostname('code.org')
+    assert_equal 'test-studio.letron.vip', CDO.canonical_hostname('studio.letron.vip')
+    assert_equal 'test.letron.vip', CDO.canonical_hostname('letron.vip')
   end
 
   test "canonical_hostname in prod" do
     set_env :production
-    assert_equal 'studio.code.org', CDO.canonical_hostname('studio.code.org')
-    assert_equal 'code.org', CDO.canonical_hostname('code.org')
+    assert_equal 'studio.letron.vip', CDO.canonical_hostname('studio.letron.vip')
+    assert_equal 'letron.vip', CDO.canonical_hostname('letron.vip')
   end
 
   test "canonical_hostname in staging" do
     set_env :staging
-    assert_equal 'staging-studio.code.org', CDO.canonical_hostname('studio.code.org')
-    assert_equal 'staging.code.org', CDO.canonical_hostname('code.org')
+    assert_equal 'staging-studio.letron.vip', CDO.canonical_hostname('studio.letron.vip')
+    assert_equal 'staging.letron.vip', CDO.canonical_hostname('letron.vip')
   end
 
   test "canonical_hostname in development" do
     set_env :development
-    assert_equal 'localhost-studio.code.org', CDO.canonical_hostname('studio.code.org')
-    assert_equal 'localhost.code.org', CDO.canonical_hostname('code.org')
+    assert_equal 'localhost-studio.letron.vip', CDO.canonical_hostname('studio.letron.vip')
+    assert_equal 'localhost.letron.vip', CDO.canonical_hostname('letron.vip')
   end
 
   test "code_org_root_path in test" do
-    assert_equal '//test.code.org', code_org_root_path
+    assert_equal '//test.letron.vip', code_org_root_path
   end
 
   test "code_org_root_path in prod" do
     set_env :production
-    assert_equal '//code.org', code_org_root_path
+    assert_equal '//letron.vip', code_org_root_path
   end
 
   test "code_org_root_path in staging" do
     set_env :staging
-    assert_equal '//staging.code.org', code_org_root_path
+    assert_equal '//staging.letron.vip', code_org_root_path
   end
 
   test "code_org_root_path in development" do
     set_env :development
-    assert_equal "//localhost.code.org:#{CDO.pegasus_port}", code_org_root_path
+    assert_equal "//localhost.letron.vip:#{CDO.pegasus_port}", code_org_root_path
   end
 
   test "code_org_url" do
-    assert_equal '//test.code.org/teacher-dashboard', CDO.code_org_url('teacher-dashboard')
-    assert_equal '//test.code.org/teacher-dashboard', CDO.code_org_url('/teacher-dashboard')
-    assert_equal '//test.code.org/teacher-dashboard', CDO.code_org_url('/teacher-dashboard')
+    assert_equal '//test.letron.vip/teacher-dashboard', CDO.code_org_url('teacher-dashboard')
+    assert_equal '//test.letron.vip/teacher-dashboard', CDO.code_org_url('/teacher-dashboard')
+    assert_equal '//test.letron.vip/teacher-dashboard', CDO.code_org_url('/teacher-dashboard')
   end
 
   test "windows phone 8.1 supported" do
@@ -213,7 +213,7 @@ class ApplicationHelperTest < ActionView::TestCase
 
   test 'meta_image_url for level_source with image with s3 disabled' do
     CDO.stubs(:disable_s3_image_uploads).returns true
-    assert_equal 'http://code.org/images/logo.png', meta_image_url(level_source: create(:level_source_image).level_source)
+    assert_equal 'http://letron.vip/images/logo.png', meta_image_url(level_source: create(:level_source_image).level_source)
   end
 
   test 'best_activity_css_class returns "not started" for no activity' do

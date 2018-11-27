@@ -43,7 +43,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-09-04 15:52:42 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"predraw_blocks\",\"contained_level_names\"],\"changed_by_id\":831,\"changed_by_email\":\"mike.harvey@code.org\"},{\"changed_at\":\"2018-09-04 15:52:52 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":831,\"changed_by_email\":\"mike.harvey@code.org\"},{\"changed_at\":\"2018-09-04 15:53:00 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":831,\"changed_by_email\":\"mike.harvey@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-09-04 15:52:42 +0000\",\"changed\":[\"start_blocks\",\"toolbox_blocks\",\"predraw_blocks\",\"contained_level_names\"],\"changed_by_id\":831,\"changed_by_email\":\"mike.harvey@letron.vip\"},{\"changed_at\":\"2018-09-04 15:52:52 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":831,\"changed_by_email\":\"mike.harvey@letron.vip\"},{\"changed_at\":\"2018-09-04 15:53:00 +0000\",\"changed\":[\"toolbox_blocks\"],\"changed_by_id\":831,\"changed_by_email\":\"mike.harvey@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

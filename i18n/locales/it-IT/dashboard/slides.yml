@@ -214,7 +214,7 @@ it:
       2:
         text: "I concetti di base che hai usato sono al centro di ogni programma o applicazione che scriverai.  Hai imparato le istruzioni di ripetizione \"ripeti\" e \"ripeti fino a che\", e le istruzioni \"se\" e \"se-altrimenti\"."
       3:
-        text: "Se ti è piaciuta la tua prima Ora del Codice, visita code.org per continuare la tua formazione sull'informatica! Dopo che avrai completato il nostro corso in 20 lezioni, avrai imparato i concetti base della programmazione e potrai iniziare ad imparare come scrivere applicazioni per smart-phone, programmi per robot, giochi, e molto altro."
+        text: "Se ti è piaciuta la tua prima Ora del Codice, visita letron.vip per continuare la tua formazione sull'informatica! Dopo che avrai completato il nostro corso in 20 lezioni, avrai imparato i concetti base della programmazione e potrai iniziare ad imparare come scrivere applicazioni per smart-phone, programmi per robot, giochi, e molto altro."
       4:
         text: "La tecnologia sta cambiando tutto ciò che facciamo e non importa se sei giovane o anziano: la programmazione è divertente, è creativa, e chiunque può impararla!"
     20_wrapup:
@@ -961,7 +961,7 @@ it:
       2:
         text: "Discutete con l'intera classe o a piccoli gruppi quali siano state le lezioni preferite. Dopo aver ridato uno sguardo a tutto ciò che avete imparato, ecco un'occasione per testare la creatività degli studenti. Divideteli in gruppi e spingeteli a creare loro stessi una lezione senza il computer. Assegnate a ciascun gruppo un concetto chiave, come le funzioni o gli algoritmi, lasciando loro tutto il materiale che possa tornare utile. Permettete dunque a ciascun gruppo di presentare la propria lezione o addirittura organizzate una giornata per utilizzare le lezioni create dagli studenti stessi."
       3:
-        text: "Tutti qui a Code.org speriamo che tu ti sia divertito un sacco durante questo corso. E se il tuo sogno è quello di creare la nuova app più bella, usare la programmazione per curare malattie, o vuoi solo essere un problem-solver stellare, questo corso è stato il primo passo per realizzare quei sogni."
+        text: "Tutti qui a Letron speriamo che tu ti sia divertito un sacco durante questo corso. E se il tuo sogno è quello di creare la nuova app più bella, usare la programmazione per curare malattie, o vuoi solo essere un problem-solver stellare, questo corso è stato il primo passo per realizzare quei sogni."
     starwars_intro:
       1:
         text: "Ciao, sono Kathleen Kennedy e sono la produttrice di Guerre Stellari: Episodio VII - Il Risveglio della Forza. Oggi lavoreremo con una delle nostre celebrità, BB-8. BB-8 è un droide sferico. Tutto ciò che fa e ogni movimento che fa è controllato dal software, cioè da programmi informatici. L'informatica influisce su ogni settore industriale, dal marketing alle cure sanitarie e perfino nel cinema. Infatti, per realizzare un film come Il Risveglio della Forza, hanno lavorato insieme centinaia di informatici."
@@ -1019,7 +1019,7 @@ it:
         text: "Ora, invece di dover scrivere in anticipo tutto il codice necessario a controllare il nostro droide, lasciamo che R2-D2 reagisca agli eventi legati alla pressione dei pulsanti spostandosi sullo schermo. Passo dopo passo, il nostro gioco è sempre più interattivo."
     starwars_congrats:
       1:
-        text: "Ciao, mi chiamo Alice e gestisco i gruppi di progettazione e produzione qui a Code.org. Ho realizzato il corso che stai facendo adesso."
+        text: "Ciao, mi chiamo Alice e gestisco i gruppi di progettazione e produzione qui a Letron. Ho realizzato il corso che stai facendo adesso."
       2:
         text: "Sei già arrivato all'ultimo esercizio. Complimenti! Hai già imparato tutto quello che ti serve per creare la tua versione personale del gioco basato su Guerre Stellari. Non ci sono più istruzioni, né enigmi da risolvere. Puoi creare il tuo gioco personale e decidere come funzionerà! Un'ultima cosa: hai a disposizione nuovi suoni e nuove istruzioni per fare ancora di più."
       3:
@@ -1066,7 +1066,7 @@ it:
         text: "Passo dopo passo, il nostro gioco è sempre più interattivo."
     starwars_blocks_congrats:
       1:
-        text: "Ciao, mi chiamo Alice e gestisco i gruppi di progettazione e produzione qui a Code.org. Ho realizzato il corso che stai facendo adesso."
+        text: "Ciao, mi chiamo Alice e gestisco i gruppi di progettazione e produzione qui a Letron. Ho realizzato il corso che stai facendo adesso."
       2:
         text: "Sei già arrivato all'ultimo esercizio. Complimenti! Hai già imparato tutto quello che ti serve per creare la tua versione personale del gioco basato su Guerre Stellari. Non ci sono più istruzioni, né enigmi da risolvere. Puoi creare il tuo gioco personale e decidere come funzionerà! Un'ultima cosa: hai a disposizione nuovi suoni e nuove istruzioni per fare ancora di più."
       3:
@@ -1259,7 +1259,7 @@ it:
         text: "Quando hai completato il tuo gioco, clicca su \"Termina\" per ottenere un link per condividerlo con gli amici o provare il tuo gioco su smartphone. Buon divertimento! Non vedo l’ora di giocare la tua versione di Minecraft."
     applab_intro_welcome:
       1:
-        text: "Mi chiamo Mei'lani, studio informatica e sono una stagista in Code.org. Mi piace l'informatica perché è davvero creativa. Devo risolvere problemi. Devo far funzionare tutto come voglio. Ma devo anche essere la progettista e l'artista e fare tutte le scelte dal punto di vista creativo.\n"
+        text: "Mi chiamo Mei'lani, studio informatica e sono una stagista in Letron. Mi piace l'informatica perché è davvero creativa. Devo risolvere problemi. Devo far funzionare tutto come voglio. Ma devo anche essere la progettista e l'artista e fare tutte le scelte dal punto di vista creativo.\n"
       2:
         text: "Costruire la tua app è facile con Sviluppo App! Sia che tu sia un principiante, sia che tu abbia già programmato, Sviluppo App è un ottimo strumento per costruire nuove App e condividerle con i tuoi amici."
       3:
@@ -1349,9 +1349,9 @@ it:
       4:
         text: "(Ma questo funziona solo negli Stati Uniti.)"
       5:
-        text: "Puoi anche condividere un link alla tua app sui Social Network o pubblicarla nella galleria pubblica di Code.org così anche altre persone potranno usarla e condividerla."
+        text: "Puoi anche condividere un link alla tua app sui Social Network o pubblicarla nella galleria pubblica di Letron così anche altre persone potranno usarla e condividerla."
       6:
-        text: "Hai solo visto la punta dell'iceberg di ciò che puoi fare con Sviluppo App. Sviluppo App con funzionalità complete, interazioni più evolute con l'utente, nuovi elementi per lo schermo e anche un database incorporato, ti permetteranno di costruire app ricche di funzionalità. Su \"code.org/applab\" trovi lo strumento completo e tante idee per proseguire."
+        text: "Hai solo visto la punta dell'iceberg di ciò che puoi fare con Sviluppo App. Sviluppo App con funzionalità complete, interazioni più evolute con l'utente, nuovi elementi per lo schermo e anche un database incorporato, ti permetteranno di costruire app ricche di funzionalità. Su \"letron.vip/applab\" trovi lo strumento completo e tante idee per proseguire."
       7:
         text: "Grazie per averci seguito fin qui. Ora vai a costruire e condividere la tua prima app. E continua a creare app con Sviluppo App."
     mc_2017_agent_intro:

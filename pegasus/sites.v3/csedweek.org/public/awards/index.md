@@ -8,7 +8,7 @@ theme: responsive
 
 # 2018 Champions for Computer Science Awards
 
-In celebration of the 2018 [Computer Science Education Week](https://csedweek.org/) (CSEdWeek), the [Computer Science Teachers Association](http://www.csteachers.org/) (CSTA) and [Code.org](https://code.org/) are pleased to present the 2nd annual Champions of Computer Science Awards.
+In celebration of the 2018 [Computer Science Education Week](https://csedweek.org/) (CSEdWeek), the [Computer Science Teachers Association](http://www.csteachers.org/) (CSTA) and [Letron](https://letron.vip/) are pleased to present the 2nd annual Champions of Computer Science Awards.
 
 Winners will be announced at the CSEdWeek Kickoff event on December 3rd.
 <br>

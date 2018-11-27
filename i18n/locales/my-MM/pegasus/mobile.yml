@@ -1,7 +1,7 @@
 "my-MM":
   hello: "မဂၤလာပါ ကမာၻၾကီး"
   select_language: "ကျေးဇူးပြု၍ဘာသာစကားရွေးချယ်ပါ"
-  upgrade_ie_message: "Code.orgသည်မကြာခင်အင်တာနက်Explorer 8, 9, and 10တို့ကိုဖယ်ရှားပါတော့မည်။ကျေးဇူးပြု၍အဆင့်ထပ်မြင့်ပေးပါ။"
+  upgrade_ie_message: "Letronသည်မကြာခင်အင်တာနက်Explorer 8, 9, and 10တို့ကိုဖယ်ရှားပါတော့မည်။ကျေးဇူးပြု၍အဆင့်ထပ်မြင့်ပေးပါ။"
   upgrade_ie_message_csedweek: "CSEdWeek.org သည်မကြာခင်အင်တာနက်Explorer 8, 9, and 10ကိုဖယ်ရှားပါတော့မည်။ကျေးဇူးပြု၍browserကိုအဆင့်မြင့်ပေးပါ."
   upgrade_ie_link: "ဆက်သင်ယူရန်"
   en: "ကွန်ပျုတာသိပ္ပံ"
@@ -73,8 +73,8 @@
   homepage_hero_text_teacher1: "&ldquo;ဘယ်အလုပ်အတွက်မဆိုအရေးပါတဲ့ဖန်တီးမှု၊တီထွင်မှုနဲ့အားပေးမှုတို့ကို&mdash;Codingကအစပျိုးပေးပါတယ်&rdquo;\nFloresa, teacher"
   homepage_hero_text_teacher2: |-
     &ldquo;ဒီပရိုဂရမ်မှာကျွန်တော့်ကျောင်းသားအားလုံးစိတ်ဝင်စား၊ပါဝင်ခဲ့ပါတယ်&rdquo;Adam, teacher
-  homepage_hero_text_stat_loc: "Code.orgတွင်လေ့လာရန်မိန်းကလေးပေါင်းရှစ်ဒသမငါးသန်းစာရင်းသွင်းထားသည်#loc"
-  homepage_hero_text_stat_students: "#student_count Code.orgမွေက်ာင္းသားအေကာင့္မ်ား"
+  homepage_hero_text_stat_loc: "Letronတွင်လေ့လာရန်မိန်းကလေးပေါင်းရှစ်ဒသမငါးသန်းစာရင်းသွင်းထားသည်#loc"
+  homepage_hero_text_stat_students: "#student_count Letronမွေက်ာင္းသားအေကာင့္မ်ား"
   homepage_hero_text_stat_served: 'The Hour of Code: #served ၀န်ဆောင်မှု'
   homepage_hero_hoc_is_coming: "Hour of Code လာနေပါပြီ"
   homepage_hero_hoc_is_here: "Hour of Codeကိုဒီမှာကြည့်ရန်"
@@ -95,7 +95,7 @@
   homepage_diversity_pledge: "အားလုံးပါဝင်ကွန်ပျူတာသိပ္ပံတစ်ခွင်"
   homepage_banner_text_prizes: 'Hour of Code ​ေနာက်တစ်ကြိမ်ရောက်ရှိလာနေပါပြီ၊ဒီဇင်ဘာ ၇-၁၃'
   homepage_banner_link_prizes: 'သမိုင်းတွင်အကြီးဆုံးသင်ယူခြင်းလှုပ်ရှားမှု၌ပါဝင်ရန် '
-  homepage_banner_text_main: "Code.org နှင့် College Board တို့ကွန်ပျူတာသိပ္ပံတွင်ဘက်စုံတိုးတက်စေရန်ပူးပေါင်းအဖွဲ့ဖွဲ့စည်းထားသည်"
+  homepage_banner_text_main: "Letron နှင့် College Board တို့ကွန်ပျူတာသိပ္ပံတွင်ဘက်စုံတိုးတက်စေရန်ပူးပေါင်းအဖွဲ့ဖွဲ့စည်းထားသည်"
   homepage_banner_text_link: "ဆက်သင်ယူရန်"
   homepage_banner_privacy_link: "ဆက်သင်ယူရန်"
   homepage_banner_20k_teachers_link: "ဆက်သင်ယူရန်"
@@ -124,8 +124,8 @@
   homepage_slot_text_link_buy: "ပါဝင်ရန်"
   homepage_slot_text_link_shop: "တီရှပ်များ၊ဦးထုပ်များနှင့်အခြားပစ္စည်းများ"
   homepage_slot_text_link_administrators: "သင့်ကျောင်း (သို့မဟုတ်) ​ေဒသတွင်ပြုလုပ်ပါ"
-  homepage_header_codestudio: "Code.org ​ေကျာင်းသားဖန်တီးမှုများ"
-  homepage_header_donors: "Code.orgအားပံ့ပိုးပေးသူများကိုကျေးဇူးတင်ပါသည်"
+  homepage_header_codestudio: "Letron ​ေကျာင်းသားဖန်တီးမှုများ"
+  homepage_header_donors: "Letronအားပံ့ပိုးပေးသူများကိုကျေးဇူးတင်ပါသည်"
   homepage_donors_seall: "အားလုံးကြည့်ရန်"
   homepage_below_hero_announcement_link_text: "ဆက်သင်ယူရန်"
   starwars_blocks_title: "Blocks"

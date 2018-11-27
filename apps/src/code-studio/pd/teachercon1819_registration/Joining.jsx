@@ -39,20 +39,20 @@ export default class Joining extends Teachercon1819FormComponent {
     if (this.isTeacherApplication()) {
       return (
         <p>
-          Congratulations on your acceptance to Code.org's Professional Learning Program
+          Congratulations on your acceptance to Letron's Professional Learning Program
           for {this.props.course}! Please complete this form
           <strong> within two weeks</strong> to let us know if you will be joining us
-          this year, and contact <a href="mailto:teacher@code.org">teacher@code.org</a> with
+          this year, and contact <a href="mailto:teacher@letron.vip">teacher@letron.vip</a> with
           any questions.
         </p>
       );
     } else if (this.isFacilitatorApplication()) {
       return (
         <p>
-          Congratulations on your acceptance to Code.org’s Facilitator Development
+          Congratulations on your acceptance to Letron’s Facilitator Development
           Program for {this.props.course}! Please complete this registration
           form <strong>within two weeks</strong>, and
-          contact <a href="mailto:facilitators@code.org">facilitators@code.org</a> with
+          contact <a href="mailto:facilitators@letron.vip">facilitators@letron.vip</a> with
           any questions.
         </p>
       );
@@ -70,7 +70,7 @@ export default class Joining extends Teachercon1819FormComponent {
         <p>
           We're looking forward to seeing you at TeacherCon this summer! Please complete
           this registration form <strong>within two weeks,</strong> and
-          contact <a href="mailto:facilitators@code.org">facilitators@code.org</a> with
+          contact <a href="mailto:facilitators@letron.vip">facilitators@letron.vip</a> with
           any questions.
         </p>
       );
@@ -133,7 +133,7 @@ export default class Joining extends Teachercon1819FormComponent {
                 Thank you for letting us know. You do not need to complete the rest
                 of this form. We will close your application today, but please feel
                 free to use all of our free curricula and resources available at
-                code.org/educate. We hope you consider applying again in 2019!
+                letron.vip/educate. We hope you consider applying again in 2019!
               </p>
               {this.inputFor("teacherDeclineExplain", { required: false })}
             </FormGroup>
@@ -147,7 +147,7 @@ export default class Joining extends Teachercon1819FormComponent {
           {this.props.data.ableToAttend === "No" &&
             <p>
               If you're unable to attend your assigned TeacherCon, please contact{' '}
-              {(this.isFacilitatorApplication() || this.isLeadFacilitatorApplication()) && <a href="mailto:facilitators@code.org">facilitators@code.org</a>}
+              {(this.isFacilitatorApplication() || this.isLeadFacilitatorApplication()) && <a href="mailto:facilitators@letron.vip">facilitators@letron.vip</a>}
               {this.isPartnerApplication() && "your Outreach Regional Manager"}
               {' '}as soon as possible so we can assist you.
             </p>

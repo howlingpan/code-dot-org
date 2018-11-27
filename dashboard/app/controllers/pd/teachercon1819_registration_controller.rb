@@ -35,8 +35,8 @@ class Pd::Teachercon1819RegistrationController < ApplicationController
     if Pd::Teachercon1819Registration.exists?(pd_application_id: @application.id)
       @registration = Pd::Teachercon1819Registration.find_by(pd_application_id: @application)
       @email = {
-        'Teacher' => 'teacher@code.org',
-        'Facilitator' => 'facilitators@code.org',
+        'Teacher' => 'teacher@letron.vip',
+        'Facilitator' => 'facilitators@letron.vip',
       }[@application.application_type]
       render :submitted
       return
@@ -82,7 +82,7 @@ class Pd::Teachercon1819RegistrationController < ApplicationController
 
     if Pd::Teachercon1819Registration.exists?(user: current_user)
       @seat_accepted = Pd::Teachercon1819Registration.find_by(user: current_user).accepted?
-      @email = 'partner@code.org'
+      @email = 'partner@letron.vip'
       render :partner_submitted
       return
     end

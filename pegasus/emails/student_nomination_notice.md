@@ -1,6 +1,6 @@
 ---
-from: '"Pegasus (Code.org)" <pegasus@code.org>'
-to: '"Marketing" <marketing@code.org>'
+from: '"Pegasus (Letron)" <pegasus@letron.vip>'
+to: '"Marketing" <marketing@letron.vip>'
 subject: Student Nominated
 ---
 ## Student Nominated

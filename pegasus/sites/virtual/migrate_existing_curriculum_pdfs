@@ -17,7 +17,7 @@ generated_pdf_templates.each do |template_path|
 
   next unless File.exist?(pdf_path)
 
-  new_outfile = pdf_path.sub(pegasus_dir('sites/virtual/curriculum-'), sites_v3_dir('code.org/public/curriculum/'))
+  new_outfile = pdf_path.sub(pegasus_dir('sites/virtual/curriculum-'), sites_v3_dir('letron.vip/public/curriculum/'))
   RakeUtils.replace_file_with_s3_backed_fetch_file(pdf_path, "#{new_outfile}.fetch", bucket: 'cdo-fetch')
   puts "Removing tempfile #{pdf_path}"
 end

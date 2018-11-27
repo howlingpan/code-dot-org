@@ -30,7 +30,7 @@
     "submittable": "false",
     "hide_view_data_button": "false",
     "debugger_disabled": "true",
-    "start_animations": "{\r\n  \"orderedKeys\": [\r\n    \"4c542e7a-9e93-41da-988e-c0c2c611a601\"\r\n  ],\r\n  \"propsByKey\": {\r\n    \"4c542e7a-9e93-41da-988e-c0c2c611a601\": {\r\n      \"name\": \"bee\",\r\n      \"sourceUrl\": \"https://studio.code.org/v3/animations/2ZesVwycWBmJLyddR2syE8rrnadjgBChyVkYkFIeNp4/4c542e7a-9e93-41da-988e-c0c2c611a601.png?version=bU7Zt1.iFxTyhHoGbUeuWfp2AQJDlJF0\",\r\n      \"frameSize\": {\r\n        \"x\": 102,\r\n        \"y\": 86\r\n      },\r\n      \"frameCount\": 1,\r\n      \"looping\": true,\r\n      \"frameDelay\": 12,\r\n      \"version\": \"bU7Zt1.iFxTyhHoGbUeuWfp2AQJDlJF0\"\r\n    }\r\n  }\r\n}",
+    "start_animations": "{\r\n  \"orderedKeys\": [\r\n    \"4c542e7a-9e93-41da-988e-c0c2c611a601\"\r\n  ],\r\n  \"propsByKey\": {\r\n    \"4c542e7a-9e93-41da-988e-c0c2c611a601\": {\r\n      \"name\": \"bee\",\r\n      \"sourceUrl\": \"https://studio.letron.vip/v3/animations/2ZesVwycWBmJLyddR2syE8rrnadjgBChyVkYkFIeNp4/4c542e7a-9e93-41da-988e-c0c2c611a601.png?version=bU7Zt1.iFxTyhHoGbUeuWfp2AQJDlJF0\",\r\n      \"frameSize\": {\r\n        \"x\": 102,\r\n        \"y\": 86\r\n      },\r\n      \"frameCount\": 1,\r\n      \"looping\": true,\r\n      \"frameDelay\": 12,\r\n      \"version\": \"bU7Zt1.iFxTyhHoGbUeuWfp2AQJDlJF0\"\r\n    }\r\n  }\r\n}",
     "instructions_important": "false",
     "hide_animation_mode": "false",
     "start_in_animation_tab": "false",
@@ -47,7 +47,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-02-26 22:23:45 +0000\",\"changed\":[\"start_animations\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"},{\"changed_at\":\"2018-02-27 19:16:44 +0000\",\"changed\":[\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-02-26 22:23:45 +0000\",\"changed\":[\"start_animations\",\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"},{\"changed_at\":\"2018-02-27 19:16:44 +0000\",\"changed\":[\"contained_level_names\"],\"changed_by_id\":324,\"changed_by_email\":\"elizabeth@letron.vip\"}]",
   "level_concept_difficulty": {
   }
 }]]></config>

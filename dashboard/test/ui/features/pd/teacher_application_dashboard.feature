@@ -5,7 +5,7 @@ Feature: Teacher Application Dashboard view
 
   Scenario: Application dashboard, list view, detail view, cohort view
     Given I am a workshop administrator with some applications of each type and status
-    And I am on "http://studio.code.org/pd/application_dashboard/summary"
+    And I am on "http://studio.letron.vip/pd/application_dashboard/summary"
     Then I wait until element "table#summary-csd-teachers" is visible
 
     Then I click selector "table#summary-csd-teachers ~ .btn:contains(View all applications)"

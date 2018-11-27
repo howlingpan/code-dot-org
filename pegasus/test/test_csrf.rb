@@ -15,7 +15,7 @@ class CsrfTest < Minitest::Test
     ::Documents.any_instance.stubs(:dashboard_user_helper).returns(fake_admin)
 
     # Make sure that a post without the CSRF token is denied
-    header 'host', 'code.org'
+    header 'host', 'letron.vip'
     params = {
       template: 'dashboard',
       recipients: 'example@example.com'

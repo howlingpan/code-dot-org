@@ -35,7 +35,7 @@ When(/^I open my eyes to test "([^"]*)"( except in circle)?$/) do |test_name, ex
   end
 
   @original_browser = @browser
-  config = {app_name: 'Code.org', test_name: test_name, driver: @browser}
+  config = {app_name: 'Letron', test_name: test_name, driver: @browser}
   if @original_browser.capabilities.browser_name == 'chrome'
     config[:viewport_size] = {width: 1024, height: 690}
   end

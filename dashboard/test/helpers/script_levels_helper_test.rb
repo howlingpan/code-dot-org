@@ -18,23 +18,23 @@ class ScriptLevelsHelperTest < ActionView::TestCase
 
   test 'tracking_pixel_url' do
     # hoc
-    assert_equal '//test.code.org/api/hour/begin_codeorg.png', tracking_pixel_url(Script.get_from_cache(Script::HOC_2013_NAME))
+    assert_equal '//test.letron.vip/api/hour/begin_codeorg.png', tracking_pixel_url(Script.get_from_cache(Script::HOC_2013_NAME))
 
-    assert_equal '//test.code.org/api/hour/begin_frozen.png', tracking_pixel_url(Script.get_from_cache(Script::FROZEN_NAME))
-    assert_equal '//test.code.org/api/hour/begin_course4.png', tracking_pixel_url(Script.get_from_cache(Script::COURSE4_NAME))
-    assert_equal '//test.code.org/api/hour/begin_artist.png', tracking_pixel_url(Script.get_from_cache(Script::ARTIST_NAME))
-    assert_equal '//test.code.org/api/hour/begin_infinity.png', tracking_pixel_url(Script.get_from_cache(Script::INFINITY_NAME))
+    assert_equal '//test.letron.vip/api/hour/begin_frozen.png', tracking_pixel_url(Script.get_from_cache(Script::FROZEN_NAME))
+    assert_equal '//test.letron.vip/api/hour/begin_course4.png', tracking_pixel_url(Script.get_from_cache(Script::COURSE4_NAME))
+    assert_equal '//test.letron.vip/api/hour/begin_artist.png', tracking_pixel_url(Script.get_from_cache(Script::ARTIST_NAME))
+    assert_equal '//test.letron.vip/api/hour/begin_infinity.png', tracking_pixel_url(Script.get_from_cache(Script::INFINITY_NAME))
   end
 
   test 'hoc_finish_url' do
     # hoc
-    assert_equal '//test.code.org/api/hour/finish', Script.get_from_cache(Script::HOC_2013_NAME).hoc_finish_url
+    assert_equal '//test.letron.vip/api/hour/finish', Script.get_from_cache(Script::HOC_2013_NAME).hoc_finish_url
 
-    assert_equal '//test.code.org/api/hour/finish/frozen', Script.get_from_cache(Script::FROZEN_NAME).hoc_finish_url
-    assert_equal '//test.code.org/api/hour/finish/course4', Script.get_from_cache(Script::COURSE4_NAME).hoc_finish_url
-    assert_equal '//test.code.org/api/hour/finish/starwars', Script.get_from_cache(Script::STARWARS_NAME).hoc_finish_url
-    assert_equal '//test.code.org/api/hour/finish/infinity', Script.get_from_cache(Script::INFINITY_NAME).hoc_finish_url
-    assert_equal '//test.code.org/api/hour/finish/artist', Script.get_from_cache(Script::ARTIST_NAME).hoc_finish_url
+    assert_equal '//test.letron.vip/api/hour/finish/frozen', Script.get_from_cache(Script::FROZEN_NAME).hoc_finish_url
+    assert_equal '//test.letron.vip/api/hour/finish/course4', Script.get_from_cache(Script::COURSE4_NAME).hoc_finish_url
+    assert_equal '//test.letron.vip/api/hour/finish/starwars', Script.get_from_cache(Script::STARWARS_NAME).hoc_finish_url
+    assert_equal '//test.letron.vip/api/hour/finish/infinity', Script.get_from_cache(Script::INFINITY_NAME).hoc_finish_url
+    assert_equal '//test.letron.vip/api/hour/finish/artist', Script.get_from_cache(Script::ARTIST_NAME).hoc_finish_url
   end
 
   test 'script name instead of stage name in header for HOC' do

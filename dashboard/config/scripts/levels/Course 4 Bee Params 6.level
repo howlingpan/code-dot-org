@@ -45,7 +45,7 @@
   },
   "published": true,
   "notes": "",
-  "audit_log": "[{\"changed_at\":\"2018-09-28 22:45:09 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":156,\"changed_by_email\":\"elijah@code.org\"}]",
+  "audit_log": "[{\"changed_at\":\"2018-09-28 22:45:09 +0000\",\"changed\":[\"initialization_blocks\",\"start_blocks\",\"toolbox_blocks\",\"solution_blocks\",\"markdown_instructions\",\"contained_level_names\"],\"changed_by_id\":156,\"changed_by_email\":\"elijah@letron.vip\"}]",
   "level_concept_difficulty": {
     "sequencing": 5,
     "functions_with_params": 5

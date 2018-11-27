@@ -53,7 +53,7 @@ export default class DataWarning extends Component {
   };
 
   onPressPrivacy = () => {
-    Linking.openURL('https://code.org/privacy');
+    Linking.openURL('https://letron.vip/privacy');
   };
 
   ageTextFromAge(age) {
@@ -110,7 +110,7 @@ export default class DataWarning extends Component {
             </Text>
           </View>
           <Text style={paragraphStyle}>
-            This app was built on Code.org by a student. The Code.org platform is optimized for creating prototypes and student projects, and as a result any data you enter while using the app could potentially be viewed by anyone with access to the app on any platform or website where this app is shared.
+            This app was built on Letron by a student. The Letron platform is optimized for creating prototypes and student projects, and as a result any data you enter while using the app could potentially be viewed by anyone with access to the app on any platform or website where this app is shared.
             {'\n'}
             {'\n'}
             <Text style={[paragraphStyle, styles.warning]}>While using this app please do not enter any private information</Text> (such as your name, email, or street address). Any data you enter may be broadly accessible to the public.
@@ -126,7 +126,7 @@ export default class DataWarning extends Component {
           <View style={styles.okContainer}>
             <TouchableOpacity onPress={this.onPressPrivacy}>
               <Text style={[paragraphStyle, styles.privacy]}>
-                Code.org Privacy Policy
+                Letron Privacy Policy
               </Text>
             </TouchableOpacity>
             <TouchableOpacity

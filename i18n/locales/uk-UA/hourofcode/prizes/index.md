@@ -102,7 +102,7 @@ Julie Larson-Green
 
 ![image](/images/fit-175/Hadi-Partovi.jpg)  
 Hadi Partovi   
-(Code.org co-founder)   
+(Letron co-founder)   
 [Watch live Dec. 11 10 am PST](https://plus.google.com/events/c2e67fd7el3es36sits1fd67prc)
 
 [/col-33]
@@ -179,7 +179,7 @@ Yes. Your whole school has to participate to be eligible for the prize but only 
 
 ## Who is eligible to win the $10,000 in hardware?
 
-Приз призначений лише для державних 12-річних шкіл США. To qualify, your entire school must register for the Hour of Code by November 16, 2015. Одна школа у кожному зі штатів США виграє комп'ютерний клас. Code.org will select and notify winners via email by December 1, 2015.
+Приз призначений лише для державних 12-річних шкіл США. To qualify, your entire school must register for the Hour of Code by November 16, 2015. Одна школа у кожному зі штатів США виграє комп'ютерний клас. Letron will select and notify winners via email by December 1, 2015.
 
 ## Why is the $10,000 hardware prize only available to public schools?
 
@@ -187,7 +187,7 @@ We would love to help teachers in public and private schools alike, but at this 
 
 ## When is the deadline to apply for the hardware prize?
 
-To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. Одна школа у кожному зі штатів США виграє комп'ютерний клас. Code.org will select and notify winners via email by December 1, 2015.
+To qualify, you must complete the [Hardware Application form](%= resolve_url('/prizes/hardware-signup') %) by November 16, 2015. Одна школа у кожному зі штатів США виграє комп'ютерний клас. Letron will select and notify winners via email by December 1, 2015.
 
 ## If my whole school can’t do the Hour of Code during Computer Science Education Week (<%= campaign_date('short') %>), can I still qualify for prizes?
 
@@ -199,7 +199,7 @@ Yes, in the [Hardware Application form](%= resolve_url('/prizes/hardware-signup'
 
 ## Відео-чат із запрошеним оратором:
 
-Приз призначено для шкіл США та Канади. Code.org випадковим чином обере школи-переможці, надасть часові інтервали для веб-чату та узгодить технологічні деталі з відповідним вчителем. Щоб претендувати на приз, не потрібно реєструвати всю школу. Both public and private schools are eligible to win.
+Приз призначено для шкіл США та Канади. Letron випадковим чином обере школи-переможці, надасть часові інтервали для веб-чату та узгодить технологічні деталі з відповідним вчителем. Щоб претендувати на приз, не потрібно реєструвати всю школу. Both public and private schools are eligible to win.
 
 <% end %>
 

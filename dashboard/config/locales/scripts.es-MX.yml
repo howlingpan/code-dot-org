@@ -351,9 +351,9 @@ es-MX:
         algebrademo:
           title: Demo de álgebra
           description: Un puñado de puzzles para demostrar el entorno y el lenguaje
-            de programación utilizado en Code.org CS en Álgebra
+            de programación utilizado en Letron CS en Álgebra
           description_short: Un puñado de puzzles para demostrar el entorno y el lenguaje
-            de programación utilizado en Code.org CS en Álgebra
+            de programación utilizado en Letron CS en Álgebra
           stages:
             Defining Simple Functions:
               name: Definición de Funciones Simples
@@ -737,7 +737,7 @@ es-MX:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             APIs and Function Parameters:
@@ -1467,7 +1467,7 @@ es-MX:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             Canvas and Arrays in Apps:
@@ -1687,7 +1687,7 @@ es-MX:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             APIs and Function Parameters:
@@ -2895,7 +2895,7 @@ es-MX:
             Loops in Collector:
               description_teacher: Trabajando sobre el concepto de repetir instrucciones
                 de "Ciclos felices", en este nivel los estudiantes usaran ciclos para
-                recoger tesoro mas eficientemente en Code.org.
+                recoger tesoro mas eficientemente en Letron.
             Loops in Artist:
               description_teacher: Regresando a los ciclos, los estudiantes aprenden
                 a dibujar imagenes ciclando secuencias simples de instrucciones. En
@@ -3015,7 +3015,7 @@ es-MX:
                 los acertijos en este curso.
               description_teacher: En esta progresión, los alumnos se iniciará con
                 una introducción (o repaso dependiendo de la experiencia de la clase)
-                del espacio de trabajo online de Code.org. Los estudiantes aprenden
+                del espacio de trabajo online de Letron. Los estudiantes aprenden
                 la funcionalidad básica de la interfaz, incluyendo los botones "Ejecutar",
                 "Volver a empezar" y "Paso". Arrastrar, eliminar y conectar bloques
                 Blockly se presentan también en el video del principio. En los acertijos,
@@ -3063,7 +3063,7 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes aprenderan sobre el proceso de diseño y como implementarlo
                 en sus propios proyectos. La guia de lecciones que cubre las 5 etapas
-                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Construye tu proyecto
               description_student: Prepara esas manos para mucha programación. Es
@@ -3073,7 +3073,7 @@ es-MX:
                 como su ambiente de programación. Ahora los estudiantes podrán crear
                 su propio proyecto con Artist o Play Lab. Esta será la sección más
                 larga del proyecto. La guia de lecciones que cubre las 5 etapas del
-                proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Mejora tu proyecto
             'Algorithms: Dice Race':
@@ -3125,7 +3125,7 @@ es-MX:
             Functions in Artist:
               name: Funciones de artista
               description_student: "¡Haz dibujos complejos más fácilmente con funciones!"
-              description_teacher: Los estudiantes conoceran las funciones en Code.org.
+              description_teacher: Los estudiantes conoceran las funciones en Letron.
                 Magníficas imágenes serán creadas y modificadas con funciones de Artist.
                 Para patrones más complicados, los estudiantes aprenderán sobre anidar
                 funciones llamando a una función desde dentro de otra.
@@ -3167,7 +3167,7 @@ es-MX:
                 estudiantes presentarán sus proyectos terminados a sus compañeros
                 o los compartián con sus seres queridos con un vinculo especial. La
                 guia de lecciones que cubre las 5 etapas del proceso puede encontrarse
-                al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Internet:
               description_student: "¿Alguna vez te preguntaste cómo viaja la información
                 a través de internet? ¡No es magia! Esta lección te enseñará los conceptos
@@ -3353,14 +3353,14 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes aprenderan sobre el proceso de diseño y como implementarlo
                 en sus propios proyectos. La guia de lecciones que cubre las 5 etapas
-                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Construye tu proyecto
               description_student: "¡Finalmente puedes empezar a construir tu proyecto!"
               description_teacher: Durante cinco lecciones, los estudiantes construirán
                 un proyecto diseñado por ellos mismos usando ya sea Play Lab o Artist
                 como su ambiente de programación. La guia de lecciones que cubre las
-                5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Mejora tu proyecto
               description_student: Roma no se construyó en un dia y tu proyecto no
@@ -3371,7 +3371,7 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes tendrán la oportunidad de obtener retroalimentación de
                 compañeros y mejorar sus proyectos. La guia de lecciones que cubre
-                las 5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                las 5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Presenta tu proyecto
               description_student: "¡Hora de mostrar tu trabajo! Aquí presentarás
@@ -3382,7 +3382,7 @@ es-MX:
                 estudiantes presentarán sus proyectos terminados a sus compañeros
                 lo los compartián con sus seres queridos con un vinculo especial.
                 La guia de lecciones que cubre las 5 etapas del proceso puede encontrarse
-                al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Conditionals in Minecraft:
               name: Condicionales en Minecraft
               description_student: "¡Evita la lava! Aquí aprenderás sobre condicionales
@@ -3557,7 +3557,7 @@ es-MX:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
         e-f-ramp:
           stages:
             'Programming: My Robotic Friends':
@@ -4209,7 +4209,7 @@ es-MX:
             Loops in Collector:
               description_teacher: Trabajando sobre el concepto de repetir instrucciones
                 de "Ciclos felices", en este nivel los estudiantes usaran ciclos para
-                recoger tesoro mas eficientemente en Code.org.
+                recoger tesoro mas eficientemente en Letron.
             Loops in Artist:
               description_teacher: Regresando a los ciclos, los estudiantes aprenden
                 a dibujar imagenes ciclando secuencias simples de instrucciones. En
@@ -4505,7 +4505,7 @@ es-MX:
                 los acertijos en este curso.
               description_teacher: En esta progresión, los alumnos se iniciará con
                 una introducción (o repaso dependiendo de la experiencia de la clase)
-                del espacio de trabajo online de Code.org. Los estudiantes aprenden
+                del espacio de trabajo online de Letron. Los estudiantes aprenden
                 la funcionalidad básica de la interfaz, incluyendo los botones "Ejecutar",
                 "Volver a empezar" y "Paso". Arrastrar, eliminar y conectar bloques
                 Blockly se presentan también en el video del principio. En los acertijos,
@@ -4553,7 +4553,7 @@ es-MX:
             Functions in Artist:
               name: Funciones de artista
               description_student: "¡Haz dibujos complejos más fácilmente con funciones!"
-              description_teacher: Los estudiantes conoceran las funciones en Code.org.
+              description_teacher: Los estudiantes conoceran las funciones en Letron.
                 Magníficas imágenes serán creadas y modificadas con funciones de Artist.
                 Para patrones más complicados, los estudiantes aprenderán sobre anidar
                 funciones llamando a una función desde dentro de otra.
@@ -4603,7 +4603,7 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes aprenderan sobre el proceso de diseño y como implementarlo
                 en sus propios proyectos. La guia de lecciones que cubre las 5 etapas
-                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Construye tu proyecto
               description_student: Prepara esas manos para mucha programación. Es
@@ -4613,7 +4613,7 @@ es-MX:
                 como su ambiente de programación. Ahora los estudiantes podrán crear
                 su propio proyecto con Artist o Play Lab. Esta será la sección más
                 larga del proyecto. La guia de lecciones que cubre las 5 etapas del
-                proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Presenta tu proyecto
               description_student: "¡Prepárate para lucir! Es el momento de presentar
@@ -4624,7 +4624,7 @@ es-MX:
                 estudiantes presentarán sus proyectos terminados a sus compañeros
                 o los compartián con sus seres queridos con un vinculo especial. La
                 guia de lecciones que cubre las 5 etapas del proceso puede encontrarse
-                al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Internet:
               name: Internet
               description_student: "¿Alguna vez te preguntaste cómo viaja la información
@@ -4824,14 +4824,14 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes aprenderan sobre el proceso de diseño y como implementarlo
                 en sus propios proyectos. La guia de lecciones que cubre las 5 etapas
-                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Construye tu proyecto
               description_student: "¡Finalmente puedes empezar a construir tu proyecto!"
               description_teacher: Durante cinco lecciones, los estudiantes construirán
                 un proyecto diseñado por ellos mismos usando ya sea Play Lab o Artist
                 como su ambiente de programación. La guia de lecciones que cubre las
-                5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Mejora tu proyecto
               description_student: Roma no se construyó en un dia y tu proyecto no
@@ -4842,7 +4842,7 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes tendrán la oportunidad de obtener retroalimentación de
                 compañeros y mejorar sus proyectos. La guia de lecciones que cubre
-                las 5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                las 5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Presenta tu proyecto
               description_student: "¡Hora de mostrar tu trabajo! Aquí presentarás
@@ -4853,7 +4853,7 @@ es-MX:
                 estudiantes presentarán sus proyectos terminados a sus compañeros
                 lo los compartián con sus seres queridos con un vinculo especial.
                 La guia de lecciones que cubre las 5 etapas del proceso puede encontrarse
-                al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Conditionals with Cards:
               name: Condicionales con tarjetas
         csp1-2018:
@@ -5002,7 +5002,7 @@ es-MX:
             los conceptos aprendidos en estas lecciones abarcan todos los lenguajes
             y herramientas de programación.\r\n\r\nEsta unidad se actualizó por última
             vez el 30 de octubre de 2017. Obtenga más información sobre las actualizaciones
-            de los planes de estudios en forum.code.org/c/csp/updates."
+            de los planes de estudios en forum.letron.vip/c/csp/updates."
           description_short: Programación
           stages:
             The Need For Programming Languages:
@@ -5221,14 +5221,14 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes aprenderan sobre el proceso de diseño y como implementarlo
                 en sus propios proyectos. La guia de lecciones que cubre las 5 etapas
-                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Build Your Project:
               name: Construye tu proyecto
               description_student: "¡Finalmente puedes empezar a construir tu proyecto!"
               description_teacher: Durante cinco lecciones, los estudiantes construirán
                 un proyecto diseñado por ellos mismos usando ya sea Play Lab o Artist
                 como su ambiente de programación. La guia de lecciones que cubre las
-                5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Revise Your Project:
               name: Mejora tu proyecto
               description_student: Roma no se construyó en un dia y tu proyecto no
@@ -5239,7 +5239,7 @@ es-MX:
                 como su ambiente de programación. En esta parte del proyecto, los
                 estudiantes tendrán la oportunidad de obtener retroalimentación de
                 compañeros y mejorar sus proyectos. La guia de lecciones que cubre
-                las 5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                las 5 etapas del proceso puede encontrarse al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
             Present Your Project:
               name: Presenta tu proyecto
               description_student: "¡Hora de mostrar tu trabajo! Aquí presentarás
@@ -5250,7 +5250,7 @@ es-MX:
                 estudiantes presentarán sus proyectos terminados a sus compañeros
                 lo los compartián con sus seres queridos con un vinculo especial.
                 La guia de lecciones que cubre las 5 etapas del proceso puede encontrarse
-                al inicio del proceso [here](https://curriculum.code.org/csf/coursef/15/).
+                al inicio del proceso [here](https://curriculum.letron.vip/csf/coursef/15/).
         dance-low:
           stages:
             Dance Party:
