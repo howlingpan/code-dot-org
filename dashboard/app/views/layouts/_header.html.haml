@@ -76,7 +76,7 @@
               - if current_user
                 = link_to(image_tag('logo.png'), '/home', {id: "logo_home_link"})
               - else
-                = link_to(image_tag('logo.png'), CDO.code_org_url, {id: "logo_home_link"})
+                = link_to(image_tag('logo.png'), CDO.studio_url, {id: "logo_home_link"})
             .project_info
           .header_middle
             - if should_show_progress
@@ -99,10 +99,10 @@
                 %i.fa.fa-pencil
               %a.header_status_bar.level_free_play.applab_free_play{title: t('nav.header.free_play.applab'), href: applab_project_projects_path, style: 'display: none;'}
                 %i.fa.fa-mobile
-            - if !@hide_sign_in_option && signin_button_enabled
-              %span#sign_in_or_user
-                = render file: Rails.root.join('..', 'shared', 'haml', 'user_header.haml'), locals: user_header_options
-            = render file: Rails.root.join('..', 'shared', 'haml', 'hamburger.haml'), locals: hamburger_options
+            -# - if !@hide_sign_in_option && signin_button_enabled
+            -#   %span#sign_in_or_user
+            -#     = render file: Rails.root.join('..', 'shared', 'haml', 'user_header.haml'), locals: user_header_options
+            -# = render file: Rails.root.join('..', 'shared', 'haml', 'hamburger.haml'), locals: hamburger_options
 
 - if request.path == "/home"
   #header-banner{class: "header-banner-short", style: 'background-image: url("/shared/images/banners/teacher-homepage-hero.jpg")'}

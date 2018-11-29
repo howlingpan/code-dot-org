@@ -111,8 +111,8 @@ class CourseBlocksCsfLegacy extends Component {
       <ContentContainer
         heading={i18n.csf()}
         description={i18n.csfDescription()}
-        link={'/home/#recent-courses'}
-        linkText={i18n.viewMyRecentCourses()}
+        // link={'/home/#recent-courses'}
+        // linkText={i18n.viewMyRecentCourses()}
       >
         <div className="row">
           <ProtectedStatefulDiv ref="course1"/>
