@@ -1,13 +1,13 @@
 import $ from 'jquery';
-import React, {Component, PropTypes} from 'react';
+import React, { Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 import HeaderBanner from '../HeaderBanner';
 import { CourseBlocksAll } from './CourseBlocks';
 import CoursesTeacherEnglish from './CoursesTeacherEnglish';
 import CoursesStudentEnglish from './CoursesStudentEnglish';
 import ProtectedStatefulDiv from '../ProtectedStatefulDiv';
-import {SpecialAnnouncementActionBlock} from './TwoColumnActionBlock';
-// import Button from '@cdo/apps/templates/Button';
+import { SpecialAnnouncementActionBlock } from './TwoColumnActionBlock';
+import Button from '@cdo/apps/templates/Button';
 import i18n from "@cdo/locale";
 import styleConstants from '@cdo/apps/styleConstants';
 
@@ -50,7 +50,7 @@ class Courses extends Component {
     } = this.props;
     const headingText = isTeacher ? i18n.coursesHeadingTeacher() : i18n.coursesHeadingStudent();
     const subHeadingText = i18n.coursesHeadingSubText(
-      {linesCount: this.props.linesCount, studentsCount: this.props.studentsCount}
+      { linesCount: this.props.linesCount, studentsCount: this.props.studentsCount }
     );
     const headingDescription = isSignedOut ? i18n.coursesHeadingDescription() : null;
     const showSpecialTeacherAnnouncement = false;
@@ -64,11 +64,11 @@ class Courses extends Component {
           short={!isSignedOut}
         >
           {isSignedOut && (
-              {/*<Button
-              href= "/users/sign_up"
+            <Button
+              href="/users/sign_up"
               color={Button.ButtonColor.gray}
               text={i18n.createAccount()}
-            />*/}
+            />
           )}
         </HeaderBanner>
 
@@ -80,7 +80,7 @@ class Courses extends Component {
         {(isEnglish && isTeacher) && (
           <div>
             {showSpecialTeacherAnnouncement && (
-              <SpecialAnnouncementActionBlock/>
+              <SpecialAnnouncementActionBlock />
             )}
             <CoursesTeacherEnglish
               isSignedOut={isSignedOut}
@@ -93,7 +93,7 @@ class Courses extends Component {
 
         {/* English, student.  (Also the default to be shown when signed out.) */}
         {(isEnglish && !isTeacher) && (
-          <CoursesStudentEnglish hocLaunch={hocLaunch}/>
+          <CoursesStudentEnglish hocLaunch={hocLaunch} />
         )}
 
         {/* Non-English */}
