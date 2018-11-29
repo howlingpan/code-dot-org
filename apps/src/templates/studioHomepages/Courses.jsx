@@ -52,7 +52,7 @@ class Courses extends Component {
     const subHeadingText = i18n.coursesHeadingSubText(
       {linesCount: this.props.linesCount, studentsCount: this.props.studentsCount}
     );
-    const headingDescription = isSignedOut ? i18n.coursesHeadingDescription() : null;
+    const headingDescription = null;//isSignedOut ? i18n.coursesHeadingDescription() : null;
     const showSpecialTeacherAnnouncement = false;
 
     return (
@@ -61,7 +61,7 @@ class Courses extends Component {
           headingText={headingText}
           subHeadingText={subHeadingText}
           description={headingDescription}
-          short={!isSignedOut}
+          short={!!isSignedOut}
         >
           {isSignedOut && (
             <Button
