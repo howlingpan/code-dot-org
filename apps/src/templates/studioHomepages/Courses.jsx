@@ -7,7 +7,7 @@ import CoursesTeacherEnglish from './CoursesTeacherEnglish';
 import CoursesStudentEnglish from './CoursesStudentEnglish';
 import ProtectedStatefulDiv from '../ProtectedStatefulDiv';
 import {SpecialAnnouncementActionBlock} from './TwoColumnActionBlock';
-import Button from '@cdo/apps/templates/Button';
+// import Button from '@cdo/apps/templates/Button';
 import i18n from "@cdo/locale";
 import styleConstants from '@cdo/apps/styleConstants';
 
@@ -52,7 +52,7 @@ class Courses extends Component {
     const subHeadingText = i18n.coursesHeadingSubText(
       {linesCount: this.props.linesCount, studentsCount: this.props.studentsCount}
     );
-    const headingDescription = null;//isSignedOut ? i18n.coursesHeadingDescription() : null;
+    const headingDescription = isSignedOut ? i18n.coursesHeadingDescription() : null;
     const showSpecialTeacherAnnouncement = false;
 
     return (
@@ -61,14 +61,14 @@ class Courses extends Component {
           headingText={headingText}
           subHeadingText={subHeadingText}
           description={headingDescription}
-          short={!!isSignedOut}
+          short={!isSignedOut}
         >
           {isSignedOut && (
-            <Button
+              {/*<Button
               href= "/users/sign_up"
               color={Button.ButtonColor.gray}
               text={i18n.createAccount()}
-            />
+            />*/}
           )}
         </HeaderBanner>
 
