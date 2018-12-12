@@ -6,7 +6,7 @@
 [
   '.bashrc',
   '.inputrc',
-  '.profile',
+  '.profile'
 ].each do |file|
   template "/home/#{node[:current_user]}/#{file}" do
     source "#{file[1..-1]}.erb"

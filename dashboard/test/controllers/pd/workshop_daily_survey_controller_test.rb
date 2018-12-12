@@ -627,7 +627,7 @@ module Pd
           day: day,
           facilitatorId: @facilitators[facilitator_index].id,
           facilitatorIndex: facilitator_index,
-          formId: FAKE_FACILITATOR_FORM_ID,
+          formId: FAKE_FACILITATOR_FORM_ID
         }
       }
     end

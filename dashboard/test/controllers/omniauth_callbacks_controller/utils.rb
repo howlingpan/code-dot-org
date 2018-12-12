@@ -73,7 +73,7 @@ module OmniauthCallbacksControllerTests
               country: 'US'
             },
             terms_of_service_version: 1,
-            email_preference_opt_in: nil,
+            email_preference_opt_in: nil
           }.merge(override_params)
         }
       else
@@ -88,7 +88,7 @@ module OmniauthCallbacksControllerTests
               country: 'US'
             },
             terms_of_service_version: 1,
-            email_preference_opt_in: 'yes',
+            email_preference_opt_in: 'yes'
           }.merge(override_params)
         }
       end

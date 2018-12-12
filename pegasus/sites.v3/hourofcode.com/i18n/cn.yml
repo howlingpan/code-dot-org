@@ -12,7 +12,7 @@ cn:
   campaign_date_year: "2017"
   campaign_date_full_year: "2017年12月4日至12月10日"
   codeorg_homepage_hoc2018_curriculum: '继续更深入的使用 <a href="%{studio_url}/courses" class="hoc2018-curriculum-link">Letron 课程</a>'
-  codeorg_homepage_hoc2018_header_line1: '编程一小时活动即将开始'
+  codeorg_homepage_hoc2018_header_line1: '寒假编程活动即将开始'
   codeorg_homepage_hoc2018_header_line2_desktop: '<span class="hoc2018-highlight-word">你将创建什么？</span>'
   codeorg_homepage_hoc2018_header_line2_mobile: 'What will you create?'
   codeorg_homepage_hoc2018_header_line3: 'Give flight to imagination and birth to innovation. Start with an Hour of Code and your own brand of creativity, whatever it may be.'
@@ -300,7 +300,7 @@ cn:
   social_hoc2018_every_student_try_what_create: "Every student deserves the opportunity to express their creativity with computer science. Try your hand at the new tutorials. What will you create?"
   social_hoc2018_hoc_coming_create: "The Hour of Code is coming. What will you create?"
   social_hoc2018_hoc_here: "The Hour of Code is here!"
-  social_hoc2018_join: "编程一小时活动即将开始"
+  social_hoc2018_join: "寒假编程活动即将开始"
   social_hoc2018_mc: "Minecraft is back for the Hour of Code, and you’re the hero! Write code to journey through Minecraft biomes."
   social_hoc2018_mc_creativity: "Use your creativity and problem solving skills to explore and build underwater worlds with code."
   social_hoc2018_what_create: "What will you create?"
@@ -317,9 +317,9 @@ cn:
   map_legend_hoc_events: '编程一小时活动'
   map_legend_cs_tech_jam: '特别活动'
   map_warning: "编程一小时地图只显示最先注册的 200,000 个活动。您可以在 <a href='%{events_url}'> 活动页面</a>上查看所有已注册的活动和有效地址。"
-  meta_tag_og_title: '编程一小时活动即将开始'
+  meta_tag_og_title: '寒假编程活动即将开始'
   meta_tag_og_description: '编程一小时活动是一个全球性的活动，在全球180多个国家，有使用30多种语言的数千万学生参与了这个活动。4岁以上即可参与。'
-  meta_tag_twitter_title: '编程一小时活动即将开始'
+  meta_tag_twitter_title: '寒假编程活动即将开始'
   meta_tag_twitter_description: '编程一小时活动是一个全球性的活动，在全球180多个国家，有使用30多种语言的数千万学生参与了这个活动。4岁以上即可参与。'
   twitter_default_text: "我正在参加今年的 #HourOfCode，你呢？@codeorg"
   twitter_donor_text: "今年的 #HourOfCode 是关于创造力的。我已加入! 你呢？(感谢 %{random_donor} 支持 @codeorg)"

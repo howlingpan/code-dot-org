@@ -20,7 +20,7 @@ DATE_FIELDS = [
   :tc3_arrive,
   :tc3_depart,
   :fit3_arrive,
-  :fit3_depart,
+  :fit3_depart
 ].freeze
 
 CSV.table(FILENAME).each do |line|

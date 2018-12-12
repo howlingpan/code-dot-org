@@ -405,7 +405,7 @@ class SectionTest < ActiveSupport::TestCase
       grade: nil,
       providerManaged: false,
       hidden: false,
-      students: [],
+      students: []
     }
     assert_equal expected, section.summarize
   end
@@ -437,7 +437,7 @@ class SectionTest < ActiveSupport::TestCase
       grade: nil,
       providerManaged: false,
       hidden: false,
-      students: [],
+      students: []
     }
     assert_equal expected, section.summarize
   end
@@ -472,7 +472,7 @@ class SectionTest < ActiveSupport::TestCase
       grade: nil,
       providerManaged: false,
       hidden: false,
-      students: [],
+      students: []
     }
     assert_equal expected, section.summarize
   end
@@ -502,7 +502,7 @@ class SectionTest < ActiveSupport::TestCase
       grade: nil,
       providerManaged: false,
       hidden: false,
-      students: [],
+      students: []
     }
     assert_equal expected, section.summarize
   end

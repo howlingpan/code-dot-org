@@ -222,7 +222,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
       uid: '12345',
       provider: 'powerschool',
       info: {
-        name: nil,
+        name: nil
       },
       extra: {
         response: {
@@ -231,7 +231,7 @@ class OmniauthCallbacksControllerTest < ActionController::TestCase
               '["http://openid.net/srv/ax/1.0", "value.ext0"]': 'student',
               '["http://openid.net/srv/ax/1.0", "value.ext1"]': 'splat.cat@example.com',
               '["http://openid.net/srv/ax/1.0", "value.ext2"]': 'splat',
-              '["http://openid.net/srv/ax/1.0", "value.ext3"]': 'cat',
+              '["http://openid.net/srv/ax/1.0", "value.ext3"]': 'cat'
             }
           }
         }

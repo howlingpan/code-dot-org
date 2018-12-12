@@ -43,12 +43,12 @@ class AuthenticationOption < ApplicationRecord
     THE_SCHOOL_PROJECT = 'the_school_project',
     TWITTER = 'twitter',
     WINDOWS_LIVE = 'windowslive',
-    MICROSOFT = 'microsoft_v2_auth',
+    MICROSOFT = 'microsoft_v2_auth'
   ]
 
   CREDENTIAL_TYPES = [
     EMAIL = 'email',
-    OAUTH_CREDENTIAL_TYPES,
+    OAUTH_CREDENTIAL_TYPES
   ].flatten
 
   SILENT_TAKEOVER_CREDENTIAL_TYPES = [

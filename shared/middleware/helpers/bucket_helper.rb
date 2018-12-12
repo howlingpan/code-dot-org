@@ -260,7 +260,7 @@ class BucketHelper
         # tabs.
         firstSaveTimestamp: timestamp,
 
-        versions: versions,
+        versions: versions
       }.to_json
     )
 
@@ -481,7 +481,7 @@ class BucketHelper
         newVersionId: new_version_id,
         bucket: @bucket,
         key: key,
-        filename: filename,
+        filename: filename
       }.to_json
     )
   end

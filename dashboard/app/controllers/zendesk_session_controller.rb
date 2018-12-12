@@ -33,7 +33,7 @@ class ZendeskSessionController < ApplicationController
         iat: iat, # Seconds since epoch, determine when this token is stale
         jti: jti, # Unique token id, helps prevent replay attacks
         name: user.name,
-        email: user.email,
+        email: user.email
       },
       SECRET
     )

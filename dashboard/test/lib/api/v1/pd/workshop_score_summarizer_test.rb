@@ -186,7 +186,7 @@ module Api::V1::Pd
           how_comfortable_asking_questions_s: 5.0,
           how_often_taught_new_things_s: 5.0,
           things_facilitator_did_well_s: {'Curly' => ['Curly did everything great', 'Curly was awesome']},
-          things_facilitator_could_improve_s: {'Curly' => ['Curly was perfect', 'Curly shouldnt change a thing']},
+          things_facilitator_could_improve_s: {'Curly' => ['Curly was perfect', 'Curly shouldnt change a thing']}
         }
       )
 
@@ -199,7 +199,7 @@ module Api::V1::Pd
           how_comfortable_asking_questions_s: 4.0,
           how_often_taught_new_things_s: 4.0,
           things_facilitator_did_well_s: {'Larry' => ['Larry did pretty good']},
-          things_facilitator_could_improve_s: {'Larry' => ['Larry doesnt need to improve']},
+          things_facilitator_could_improve_s: {'Larry' => ['Larry doesnt need to improve']}
         }
       )
 
@@ -212,7 +212,7 @@ module Api::V1::Pd
           how_comfortable_asking_questions_s: 1.0,
           how_often_taught_new_things_s: 1.0,
           things_facilitator_did_well_s: {'Larry' => ['Larry did not do great', 'Larry did not do great']},
-          things_facilitator_could_improve_s: {'Larry' => ['Larry was awful', 'Larry was awful']},
+          things_facilitator_could_improve_s: {'Larry' => ['Larry was awful', 'Larry was awful']}
         }
       )
 
@@ -402,7 +402,7 @@ module Api::V1::Pd
           all_my_workshops_for_course: 'All workshops for this course scores',
           all_workshops_for_course: {},
           facilitator_1_name => "Scores for #{facilitator_1_name}",
-          facilitator_2_name => "Scores for #{facilitator_2_name}",
+          facilitator_2_name => "Scores for #{facilitator_2_name}"
         }, summary_report
       )
     end
@@ -441,7 +441,7 @@ module Api::V1::Pd
         how_interesting_s: {'Curly' => 0, 'Larry' => 0, 'Moe' => 0},
         how_often_given_feedback_s: {'Curly' => 0, 'Larry' => 0, 'Moe' => 0},
         how_comfortable_asking_questions_s: {'Curly' => 0, 'Larry' => 0, 'Moe' => 0},
-        how_often_taught_new_things_s: {'Curly' => 0, 'Larry' => 0, 'Moe' => 0},
+        how_often_taught_new_things_s: {'Curly' => 0, 'Larry' => 0, 'Moe' => 0}
       }, expected_free_response_summary, {
         things_facilitator_did_well_s: {'Curly' => [], 'Larry' => [], 'Moe' => []},
         things_facilitator_could_improve_s: {'Curly' => [], 'Larry' => [], 'Moe' => []}
@@ -452,7 +452,7 @@ module Api::V1::Pd
         how_interesting_s: {'Curly' => 0},
         how_often_given_feedback_s: {'Curly' => 0},
         how_comfortable_asking_questions_s: {'Curly' => 0},
-        how_often_taught_new_things_s: {'Curly' => 0},
+        how_often_taught_new_things_s: {'Curly' => 0}
       }, expected_free_response_summary, {
         things_facilitator_did_well_s: {'Curly' => []},
         things_facilitator_could_improve_s: {'Curly' => []}
@@ -472,7 +472,7 @@ module Api::V1::Pd
         {
           'Curly' => 2,
           'Larry' => 2,
-          'Moe' => 2,
+          'Moe' => 2
         }, responses_per_facilitator
       )
       assert_equal(
@@ -503,7 +503,7 @@ module Api::V1::Pd
           how_interesting_s: {'Curly' => 6, 'Larry' => 6, 'Moe' => 6},
           how_often_given_feedback_s: {'Curly' => 6, 'Larry' => 6, 'Moe' => 6},
           how_comfortable_asking_questions_s: {'Curly' => 6, 'Larry' => 6, 'Moe' => 6},
-          how_often_taught_new_things_s: {'Curly' => 6, 'Larry' => 6, 'Moe' => 6},
+          how_often_taught_new_things_s: {'Curly' => 6, 'Larry' => 6, 'Moe' => 6}
         }, facilitator_specific_response_sums
       )
 

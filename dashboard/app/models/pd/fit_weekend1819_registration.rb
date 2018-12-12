@@ -42,7 +42,7 @@ class Pd::FitWeekend1819Registration < ActiveRecord::Base
         'Kosher',
         'Halal',
         'Gluten Free',
-        'Food Allergy',
+        'Food Allergy'
       ],
       liveFarAway: YES_OR_NO,
       addressState: get_all_states_with_dc.to_h.values,
@@ -51,12 +51,12 @@ class Pd::FitWeekend1819Registration < ActiveRecord::Base
         'I will carpool with another FiT Weekend attendee (Please note who)',
         'Flying',
         'Amtrak or regional train service',
-        'Public transit (e.g., city bus or light rail)',
+        'Public transit (e.g., city bus or light rail)'
       ],
       needHotel: YES_OR_NO,
       needAda: YES_OR_NO,
       photoRelease: [YES],
-      liabilityWaiver: [YES],
+      liabilityWaiver: [YES]
     }.freeze
   end
 
@@ -77,7 +77,7 @@ class Pd::FitWeekend1819Registration < ActiveRecord::Base
       :need_hotel,
       :photo_release,
       :liability_waiver,
-      :agree_share_contact,
+      :agree_share_contact
     ].freeze
   end
 

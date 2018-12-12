@@ -214,7 +214,7 @@ module Pd
                   text: 'this should also be ignored',
                   type: 'control_matrix',
                   answer: ''
-                },
+                }
               }
             },
             {

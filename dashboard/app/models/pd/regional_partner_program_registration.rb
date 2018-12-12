@@ -31,7 +31,7 @@ class Pd::RegionalPartnerProgramRegistration < ActiveRecord::Base
       :need_hotel,
       :need_ada,
       :photo_release,
-      :liability_waiver,
+      :liability_waiver
     ].freeze
   end
 

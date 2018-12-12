@@ -66,11 +66,11 @@ def main
         dimensions: [
           {
             name: 'Environment',
-            value: 'adhoc',
+            value: 'adhoc'
           },
           {
             name: 'Host',
-            value: "#{stack.name}.cdn-letron.vip",
+            value: "#{stack.name}.cdn-letron.vip"
           }
         ],
         start_time: Time.now - ACTIVITY_PERIOD_DAYS.days,

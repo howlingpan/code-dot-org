@@ -60,9 +60,9 @@ class Pd::MimeoRestClient
         {
           Name: @document_name,
           StoreItemReference: {
-            Id: @document_id,
+            Id: @document_id
           },
-          Quantity: 1,
+          Quantity: 1
         }
       ],
       Recipients: [

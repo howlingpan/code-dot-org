@@ -89,7 +89,7 @@ STATE_ABBR_HASH = {
   WA: 'Washington',
   WV: 'West Virginia',
   WI: 'Wisconsin',
-  WY: 'Wyoming',
+  WY: 'Wyoming'
 }.freeze
 
 STATE_ABBR_WITH_DC_HASH = STATE_ABBR_HASH.merge({DC: 'Washington DC'})

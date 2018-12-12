@@ -51,7 +51,7 @@ class Plc::EnrollmentEvaluationsControllerTest < ActionController::TestCase
       [@module_content_1, nil],
       [nil, @module_practice_1],
       [@module_content_1, @module_content_2],
-      [@module_practice_1, @module_practice_2],
+      [@module_practice_1, @module_practice_2]
     ].each do |content_module, practice_module|
       params = {script_id: @course_unit.script.name, content_module: content_module, practice_module: practice_module}
       post :confirm_assignments, params: params.compact

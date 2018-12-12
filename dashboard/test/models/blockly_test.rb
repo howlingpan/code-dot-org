@@ -154,7 +154,7 @@ XML
             "options" => {
               "COLOR" => {
                 "red": "rood",
-                "blue": "blauw",
+                "blue": "blauw"
               }
             }
           }
@@ -220,7 +220,7 @@ XML
             "options" => {
               "COLOR" => {
                 "red": "rood",
-                "blue": "blauw",
+                "blue": "blauw"
               }
             }
           }
@@ -266,7 +266,7 @@ XML
             "options" => {
               "COLOR" => {
                 "red": "red",
-                "blue": "blue",
+                "blue": "blue"
               }
             }
           }
@@ -296,7 +296,7 @@ XML
             "options" => {
               "COLOR" => {
                 "red": "rood",
-                "blue": "blauw",
+                "blue": "blauw"
               }
             }
           }
@@ -357,7 +357,7 @@ XML
             "options" => {
               "COSTUME" => {
                 "hat": "",
-                "shirt": "",
+                "shirt": ""
               }
             }
           }
@@ -422,7 +422,7 @@ XML
         'authored_hints' => {
           "#{level_name}_authored_hint" => {
             "first": "first test markdown",
-            "second": "second test markdown",
+            "second": "second test markdown"
           }
         }
       }
@@ -437,7 +437,7 @@ XML
       authored_hints: JSON.generate(
         [
           {"hint_markdown": "first english markdown", "hint_id": "first"},
-          {"hint_markdown": "second english markdown", "hint_id": "second"},
+          {"hint_markdown": "second english markdown", "hint_id": "second"}
         ]
       )
     )
@@ -463,7 +463,7 @@ XML
       authored_hints: JSON.generate(
         [
           {"hint_markdown": "first english markdown", "hint_id": "first"},
-          {"hint_markdown": "second english markdown", "hint_id": ""},
+          {"hint_markdown": "second english markdown", "hint_id": ""}
         ]
       )
     )

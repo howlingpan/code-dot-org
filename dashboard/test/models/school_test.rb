@@ -17,7 +17,7 @@ class SchoolTest < ActiveSupport::TestCase
         city: 'ALBERTVILLE',
         state: 'AL',
         zip: '35950',
-        school_type: 'public',
+        school_type: 'public'
       }
     )
   end

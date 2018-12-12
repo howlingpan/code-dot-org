@@ -133,7 +133,7 @@ def discount_code_reporting
       app.full_discount,
       app.circuit_playground_discount_code.try(:code),
       app.updated_at,
-      app.school_id,
+      app.school_id
     ].join(',')
   end
   puts rows

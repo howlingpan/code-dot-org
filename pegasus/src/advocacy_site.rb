@@ -89,7 +89,7 @@ class AdvocacySite
             {
               text_actual: "More policy resources",
               url: "/policy-resources"
-            },
+            }
 
           ]
       },

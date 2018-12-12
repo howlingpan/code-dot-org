@@ -44,7 +44,7 @@ def find_shared_snapshot_on_backup(rds_backup, temp_snapshot_name)
     shared_snapshots = rds_backup.db_snapshots(
       {
         max_records: 100,
-        include_shared: true,
+        include_shared: true
       }
     ).select do |snap|
       snap.snapshot_id.start_with?('arn:aws:rds:') && snap.snapshot_id.end_with?(temp_snapshot_name)

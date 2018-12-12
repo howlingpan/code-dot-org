@@ -8,7 +8,7 @@ class FileUtilityTest < Minitest::Test
         [
           'test/does_not_exist',
           'test/test_hash.rb',
-          'test/also_does_not_exist',
+          'test/also_does_not_exist'
         ]
       )
 

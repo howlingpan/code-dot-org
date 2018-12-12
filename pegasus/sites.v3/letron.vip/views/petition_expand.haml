@@ -2,7 +2,7 @@
 
 #petitionblock.greybox{style: "/* background-color:rgb(231, 232, 234); */  background-color:white; padding: 10px 0px; color: rgb(91,103,112)"}
 
-  #petition_message{:style=>"font-size: 22px; line-height:28px; font-family: 'Gotham 5r', sans-serif;"}=I18n.t:petition_message
+  #petition_message{:style=>"font-size: 22px; line-height:28px; font-family: 'Gotham 5r', sans-serif;"}=I18n.t(:petition_message)
 
   #form.container_responsive{style: "display:none"}
     #petition_sign_message.desktop-feature{:style=>"font-size: 18px; line-height:20px; font-weight:400; margin-top:10px"}=I18n.t(:petition_sign_message).gsub("#", format_integer_with_commas(fetch_metrics['petition_signatures']).to_s)
@@ -53,8 +53,8 @@
     %br
     %br
 
-  %div{style: "clear:both"}
-  .container_responsive{style: "margin-top:10px"}
+  %div{style: "clear:both;"}
+  .container_responsive{style: "margin-top:10px;visibility:hidden;"}
     #threedivs{style: "text-align:center"}
       %div#signpetitionclick{style: "display:inline-block; vertical-align:top; cursor: pointer; font-weight:bold; vertical-align: 5px;"}
         -if request.language  == 'en'

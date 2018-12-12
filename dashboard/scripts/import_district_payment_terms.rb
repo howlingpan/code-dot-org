@@ -12,7 +12,7 @@ COURSE_TRANSLATION = {
   'ECS' => Pd::Workshop::COURSE_ECS,
   'CSinA' => Pd::Workshop::COURSE_CS_IN_A,
   'CSinS' => Pd::Workshop::COURSE_CS_IN_S,
-  'CSD' => Pd::Workshop::COURSE_CSD,
+  'CSD' => Pd::Workshop::COURSE_CSD
 }.freeze
 
 terms_csv = ARGV[0]

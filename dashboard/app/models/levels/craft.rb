@@ -213,7 +213,7 @@ class Craft < Blockly
     coralPlantRedDeep: true,
     coralPlantYellow: true,
     coralPlantYellowDeep: true,
-    chest: true,
+    chest: true
   }.freeze
 
   ALL_MINIBLOCKS = {
@@ -302,7 +302,7 @@ class Craft < Blockly
     zombieBrains: true,
     zombieGroan: true,
     zombieHurt: true,
-    zombieHurt2: true,
+    zombieHurt2: true
   }.freeze
 
   KNOWN_TILE_TYPES = {
@@ -350,7 +350,7 @@ class Craft < Blockly
     leavesOak: '/blockly/media/skins/craft/images/Block_0014_leaves_oak.png',
     tallGrass: '/blockly/media/skins/craft/images/TallGrass.png',
     sheep: '/blockly/media/skins/craft/images/Sheep.png',
-    treeOak: '/blockly/media/skins/craft/images/Leaves_Oak_Decay.png',
+    treeOak: '/blockly/media/skins/craft/images/Leaves_Oak_Decay.png'
   }.freeze
 
   SAMPLE_TIMEOUT_VERIFICATION_FUNCTIONS = {
@@ -367,7 +367,7 @@ class Craft < Blockly
 'function(verificationAPI) {
   // if we have reached the timeout without fail, they succeeded.
   return true;
-},',
+},'
 
   }.freeze
 
@@ -386,7 +386,7 @@ class Craft < Blockly
 'function(verificationAPI) {
   // Fail instantly when they turn once.
   return verificationAPI.getTurnRandomCount() >= 1;
-},',
+},'
   }.freeze
 
   SAMPLE_VERIFICATION_FUNCTIONS = {

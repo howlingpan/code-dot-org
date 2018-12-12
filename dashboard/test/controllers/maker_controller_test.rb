@@ -335,17 +335,17 @@ class MakerControllerTest < ActionController::TestCase
         "user_school" => {
           "id" => nil,
           "name" => nil,
-          "high_needs" => nil,
+          "high_needs" => nil
         },
         "application_school" => {
           "id" => nil,
           "name" => nil,
-          "high_needs" => nil,
+          "high_needs" => nil
         },
         "unit_6_intention" => nil,
         "full_discount" => true,
         "admin_set_status" => true,
-        "discount_code" => nil,
+        "discount_code" => nil
       }
     }
     assert_equal expected, JSON.parse(@response.body)
@@ -371,17 +371,17 @@ class MakerControllerTest < ActionController::TestCase
         "user_school" => {
           "id" => nil,
           "name" => nil,
-          "high_needs" => nil,
+          "high_needs" => nil
         },
         "application_school" => {
           "id" => nil,
           "name" => nil,
-          "high_needs" => nil,
+          "high_needs" => nil
         },
         "unit_6_intention" => "yes1718",
         "full_discount" => true,
         "admin_set_status" => true,
-        "discount_code" => nil,
+        "discount_code" => nil
       }
     }
     assert_equal expected, JSON.parse(@response.body)

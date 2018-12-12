@@ -16,8 +16,8 @@ default['cdo-apps'] = {
 
   'i18n' => {
     'languages' => {
-      'en' => 'English',
-    },
+      'en' => 'English'
+    }
   },
   'nginx_enabled' => true,
   'app_server' => 'puma',

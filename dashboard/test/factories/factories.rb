@@ -680,7 +680,7 @@ FactoryGirl.define do
     config do
       {
         func: "block#{index}",
-        args: [{name: 'ARG'}],
+        args: [{name: 'ARG'}]
       }.to_json
     end
     helper_code {"function block#{index}() {}"}

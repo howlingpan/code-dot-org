@@ -85,7 +85,7 @@ def create_release(version, body)
     {
       'name' => version,
       'body' => body,
-      'target_commitish' => 'production',
+      'target_commitish' => 'production'
     }
   )
 end

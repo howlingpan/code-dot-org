@@ -177,7 +177,7 @@ class Blockly < Level
     Behavior: 'Behaviors',
     Location: 'Locations',
     PROCEDURE: 'Functions',
-    VARIABLE: 'Variables',
+    VARIABLE: 'Variables'
   }
   def self.convert_toolbox_to_category(xml_string)
     xml = Nokogiri::XML(xml_string, &:noblanks)
@@ -260,7 +260,7 @@ class Blockly < Level
           baseUrl: Blockly.base_url,
           app: game.try(:app),
           droplet: uses_droplet?,
-          pretty: Rails.configuration.pretty_apps ? '' : '.min',
+          pretty: Rails.configuration.pretty_apps ? '' : '.min'
         }
       )
     end
@@ -337,7 +337,7 @@ class Blockly < Level
         maze: 'map',
         ani_gif_url: 'aniGifURL',
         success_condition: 'fn_successCondition',
-        failure_condition: 'fn_failureCondition',
+        failure_condition: 'fn_failureCondition'
       }
       properties.keys.each do |dashboard|
         blockly = overrides[dashboard.to_sym] || dashboard.camelize(:lower)

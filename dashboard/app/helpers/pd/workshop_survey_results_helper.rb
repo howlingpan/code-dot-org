@@ -165,7 +165,7 @@ module Pd::WorkshopSurveyResultsHelper
 
   def generate_workshop_daily_session_summary(workshop)
     summary = {
-      this_workshop: {},
+      this_workshop: {}
     }
 
     questions = get_questions_for_forms(workshop)

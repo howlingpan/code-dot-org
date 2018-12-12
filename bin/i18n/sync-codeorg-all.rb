@@ -87,14 +87,14 @@ def create_in_up_pr
 
   git_add_and_commit(
     [
-      "i18n/locales/source/pegasus",
+      "i18n/locales/source/pegasus"
     ],
     "pegasus i18n sync"
   )
 
   git_add_and_commit(
     [
-      "i18n/locales/source/blockly-mooc",
+      "i18n/locales/source/blockly-mooc"
     ],
     "apps i18n sync"
   )
@@ -116,7 +116,7 @@ def create_down_out_pr
   git_add_and_commit(
     [
       "pegasus/cache",
-      "i18n/locales/*/pegasus",
+      "i18n/locales/*/pegasus"
     ],
     "pegasus i18n updates"
   )
@@ -129,7 +129,7 @@ def create_down_out_pr
     git_add_and_commit(
       [
         "dashboard/config/locales/*#{locale}.yml",
-        "i18n/locales/#{locale}/dashboard",
+        "i18n/locales/#{locale}/dashboard"
       ],
       "dashboard i18n updates - #{prop[:crowdin_name_s]}"
     )
@@ -138,7 +138,7 @@ def create_down_out_pr
   git_add_and_commit(
     [
       "apps/i18n/*/*.json",
-      "i18n/locales/*/blockly-mooc",
+      "i18n/locales/*/blockly-mooc"
     ],
     "apps i18n updates"
   )
@@ -146,7 +146,7 @@ def create_down_out_pr
   git_add_and_commit(
     [
       "apps/lib/blockly/*.js",
-      "i18n/locales/*/blockly-core",
+      "i18n/locales/*/blockly-core"
     ],
     "blockly i18n updates"
   )

@@ -22,7 +22,7 @@ class Pd::TeacherconSurvey < ActiveRecord::Base
   DISAGREES = [
     'Strongly Disagree',
     'Disagree',
-    'Slightly Disagree',
+    'Slightly Disagree'
   ].freeze
 
   AGREES = [
@@ -38,7 +38,7 @@ class Pd::TeacherconSurvey < ActiveRecord::Base
     "Leaning toward A",
     "Can't decide",
     "Leaning toward B",
-    "Strongly aligned with B",
+    "Strongly aligned with B"
   ].freeze
 
   def self.public_fields
@@ -94,7 +94,7 @@ class Pd::TeacherconSurvey < ActiveRecord::Base
 
       :instruction_focus,
       :teacher_responsibility,
-      :teacher_time,
+      :teacher_time
     ].freeze
   end
 
@@ -195,18 +195,18 @@ class Pd::TeacherconSurvey < ActiveRecord::Base
         'A little bit happy',
         'Somewhat happy',
         'Quite happy',
-        'Extremely happy',
+        'Extremely happy'
       ],
 
       give_permission_to_quote: [
         "Yes, I give Letron permission to quote me and use my name.",
         "Yes, I give Letron permission to quote me,  but I want to be anonymous. (Your name will not be used.)",
-        "No, I do not give Letron my permission.",
+        "No, I do not give Letron my permission."
       ],
 
       instruction_focus: STATEMENT_ALIGNMENT,
       teacher_responsibility: STATEMENT_ALIGNMENT,
-      teacher_time: STATEMENT_ALIGNMENT,
+      teacher_time: STATEMENT_ALIGNMENT
 
     }.freeze
   end

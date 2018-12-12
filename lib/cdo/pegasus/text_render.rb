@@ -213,7 +213,7 @@ module TextRender
       '.html' => ErbEngine,
       '.md' => MarkdownEngine,
       '.txt' => MarkdownEngine,
-      '.yml' => YamlEngine,
+      '.yml' => YamlEngine
     }[File.extname(path).downcase]
     f(engine, path, locals)
   end

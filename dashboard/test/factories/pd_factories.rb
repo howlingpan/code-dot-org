@@ -390,7 +390,7 @@ FactoryGirl.define do
         "givePermissionToQuote": "Yes, I give Letron permission to quote me and use my name.",
         "instructionFocus": "Strongly aligned with A",
         "teacherResponsibility": "Strongly aligned with A",
-        "teacherTime": "Strongly aligned with A",
+        "teacherTime": "Strongly aligned with A"
       }.stringify_keys
     end
   end
@@ -528,7 +528,7 @@ FactoryGirl.define do
         "degreeField": "Education",
         "yearsTaughtStem": "1",
         "yearsTaughtCs": "2",
-        "haveRequiredLicenses": "Yes",
+        "haveRequiredLicenses": "Yes"
       }.stringify_keys
     end
   end
@@ -629,7 +629,7 @@ FactoryGirl.define do
             school_district_other: false,
             school_district: 'District',
             school_state: 'OH',
-            school_zipcode: '45242',
+            school_zipcode: '45242'
           }
         )
       end

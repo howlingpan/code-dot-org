@@ -201,7 +201,7 @@ namespace :test do
           'apps/**/*',
           'dashboard/config/libraries/*.interpreted.js',
           'shared/**/*.js',
-          'shared/**/*.css',
+          'shared/**/*.css'
         ]
       ) do
         TestRunUtils.run_apps_tests

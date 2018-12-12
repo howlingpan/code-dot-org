@@ -163,7 +163,7 @@ class ExperimentTest < ActiveSupport::TestCase
       create(:single_user_experiment),
       create(:single_user_experiment, end_at: now + 1.day),
       create(:single_user_experiment, start_at: now - 1.day),
-      create(:single_user_experiment, start_at: now - 1.day, end_at: now + 1.day),
+      create(:single_user_experiment, start_at: now - 1.day, end_at: now + 1.day)
     ]
     create(:single_user_experiment, end_at: now - 1.day)
     create(:single_user_experiment, start_at: now + 1.day)

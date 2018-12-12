@@ -63,7 +63,7 @@ def redact(source, dest, *plugins)
     [
       'bin/i18n/node_modules/.bin/redact',
       '-c bin/i18n/plugins/nonCommonmarkLinebreak.js',
-      '-p ' + plugins,
+      '-p ' + plugins
     ].join(" "),
     stdin_data: JSON.generate(data)
   )
@@ -95,7 +95,7 @@ def restore(source, redacted, dest, *plugins)
       '-c bin/i18n/plugins/nonCommonmarkLinebreak.js',
       '-p ' + plugins,
       "-s #{source_json.path}",
-      "-r #{redacted_json.path}",
+      "-r #{redacted_json.path}"
     ].join(" ")
   )
   redacted_key = redacted_data.keys.first

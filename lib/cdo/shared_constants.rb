@@ -17,7 +17,7 @@ module SharedConstants
       puzzle: "puzzle",
       unplugged: "unplugged",
       level: "level",
-      stage_extras: "stage_extras",
+      stage_extras: "stage_extras"
     }
   ).freeze
 
@@ -35,7 +35,7 @@ module SharedConstants
       review_accepted: "review_accepted",
       review_rejected: "review_rejected",
       dots_disabled: "dots_disabled",
-      free_play_complete: "free_play_complete",
+      free_play_complete: "free_play_complete"
     }
   ).freeze
 
@@ -46,7 +46,7 @@ module SharedConstants
       picture: 'picture',
       email: 'email',
       google_classroom: 'google_classroom',
-      clever: 'clever',
+      clever: 'clever'
     }
   )
 
@@ -54,7 +54,7 @@ module SharedConstants
   ARTIST_AUTORUN_OPTIONS = OpenStruct.new(
     {
       limited_auto_run: 'LIMITED_AUTO_RUN',
-      full_auto_run: 'FULL_AUTO_RUN',
+      full_auto_run: 'FULL_AUTO_RUN'
     }
   ).freeze
 
@@ -63,7 +63,7 @@ module SharedConstants
     {
       draw_loop: 'DRAW_LOOP',
       draw_sprites: 'DRAW_SPRITES',
-      custom: 'CUSTOM',
+      custom: 'CUSTOM'
     }
   ).freeze
 
@@ -72,7 +72,7 @@ module SharedConstants
     {
       all: 'all',
       successful_runs_and_final_level_only: 'successful_runs_and_final_level_only',
-      final_level_only: 'final_level_only',
+      final_level_only: 'final_level_only'
     }
   )
 

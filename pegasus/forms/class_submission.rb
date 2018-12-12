@@ -102,7 +102,7 @@ class ClassSubmission < Form
       'Scratch',
       'Scheme',
       'StarLogo Nova',
-      'WeScheme',
+      'WeScheme'
     ]
   end
 

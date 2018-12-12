@@ -513,7 +513,7 @@ class NetSimApi < Sinatra::Base
         {
           metric_name: event_type,
           dimensions: [
-            {name: "Environment", value: CDO.rack_env},
+            {name: "Environment", value: CDO.rack_env}
           ],
           value: value
         }

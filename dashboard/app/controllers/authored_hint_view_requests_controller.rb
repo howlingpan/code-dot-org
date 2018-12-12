@@ -26,7 +26,7 @@ class AuthoredHintViewRequestsController < ApplicationController
       :finalTime,
       :finalAttempt,
       :finalTestResult,
-      :finalLevelSourceId,
+      :finalLevelSourceId
     ]
 
     hints = params.permit(hints: fields).require(:hints)

@@ -256,13 +256,13 @@ class Section < ActiveRecord::Base
       course_id: course_id,
       script: {
         id: script_id,
-        name: script.try(:name),
+        name: script.try(:name)
       },
       studentCount: students.size,
       grade: grade,
       providerManaged: provider_managed?,
       hidden: hidden,
-      students: students.map(&:summarize),
+      students: students.map(&:summarize)
     }
   end
 

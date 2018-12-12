@@ -70,7 +70,7 @@ class Api::V1::PeerReviewSubmissionsControllerTest < ActionController::TestCase
         level_name: @level_3.name,
         escalated_review_id: @level_3_reviews.second.id,
         review_ids: [[@level_3_reviews.first.id, nil], [@level_3_reviews.second.id, 'escalated']]
-      },
+      }
     ].map(&:stringify_keys)
     assert_equal expected_response, response.map {|r| r.except('submission_date', 'escalation_date')}
   end
@@ -81,7 +81,7 @@ class Api::V1::PeerReviewSubmissionsControllerTest < ActionController::TestCase
     response = JSON.parse(@response.body)
     assert_equal [
       [[@level_1_reviews.first.id, nil], [@level_1_reviews.second.id, 'escalated']],
-      [[@level_3_reviews.first.id, nil], [@level_3_reviews.second.id, 'escalated']],
+      [[@level_3_reviews.first.id, nil], [@level_3_reviews.second.id, 'escalated']]
     ], response.map {|submission| submission['review_ids']}
   end
 
@@ -106,7 +106,7 @@ class Api::V1::PeerReviewSubmissionsControllerTest < ActionController::TestCase
     assert_equal [
       [[@level_1_reviews.first.id, nil], [@level_1_reviews.second.id, 'escalated']],
       [[@level_2_reviews.first.id, nil], [@level_2_reviews.second.id, 'accepted']],
-      [[@level_3_reviews.first.id, nil], [@level_3_reviews.second.id, 'escalated']],
+      [[@level_3_reviews.first.id, nil], [@level_3_reviews.second.id, 'escalated']]
     ], response.map {|submission| submission['review_ids']}
   end
 

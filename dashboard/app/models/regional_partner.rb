@@ -183,7 +183,7 @@ class RegionalPartner < ActiveRecord::Base
     CSV.read(filename, CSV_IMPORT_OPTIONS).each do |row|
       params = {
         name: row['name'],
-        group: row['group'],
+        group: row['group']
       }
       RegionalPartner.where(params).first_or_create!
     end

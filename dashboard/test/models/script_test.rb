@@ -476,7 +476,7 @@ class ScriptTest < ActiveSupport::TestCase
       disablePostMilestone: false,
       isHocScript: false,
       student_detail_progress_view: false,
-      age_13_required: false,
+      age_13_required: false
     }
     assert_equal expected, script.summarize_header
   end
@@ -1050,7 +1050,7 @@ class ScriptTest < ActiveSupport::TestCase
     script = Script.add_script(
       {
         name: 'curriculumTestScript',
-        properties: Script.build_property_hash(script_data),
+        properties: Script.build_property_hash(script_data)
       },
       script_data[:stages],
     )

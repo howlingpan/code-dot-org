@@ -39,7 +39,7 @@ node['cdo-users'].each_pair do |user_name, user_data|
     '.bash_logout',
     '.bashrc',
     '.inputrc',
-    '.profile',
+    '.profile'
   ].each do |dotfile|
     template File.join(home_directory, dotfile) do
       action :create_if_missing
@@ -76,7 +76,7 @@ node['cdo-users'].each_pair do |user_name, user_data|
   {
     'authorized_keys' => user_data['ssh-key'],
     'server_access_key' => node['cdo-servers']['ssh-private-key'],
-    'server_access_key.pub' => node['cdo-servers']['ssh-key'],
+    'server_access_key.pub' => node['cdo-servers']['ssh-key']
   }.each_pair do |file, text|
     template File.join(ssh_directory, file) do
       source 'text_file.erb'

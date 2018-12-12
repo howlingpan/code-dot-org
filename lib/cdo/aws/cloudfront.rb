@@ -97,10 +97,10 @@ module AWS
             invalidation_batch: {
               paths: {
                 quantity: 1,
-                items: ['/*'],
+                items: ['/*']
               },
-              caller_reference: SecureRandom.hex,
-            },
+              caller_reference: SecureRandom.hex
+            }
           }
         ).invalidation.id
         [app, id, invalidation]
@@ -137,7 +137,7 @@ module AWS
         CustomErrorResponses: ERROR_CODES.map do |error|
           {
             ErrorCachingMinTTL: 0,
-            ErrorCode: error,
+            ErrorCode: error
           }
         end,
         DefaultCacheBehavior: cache_behavior(config[:default]),
@@ -156,7 +156,7 @@ module AWS
               OriginSSLProtocols: %w(TLSv1.2 TLSv1.1)
             },
             DomainName: origin,
-            OriginPath: '',
+            OriginPath: ''
           },
           {
             Id: 'cdo-assets',
@@ -164,7 +164,7 @@ module AWS
             OriginPath: "/#{CDO.assets_bucket_prefix}",
             S3OriginConfig: {
               OriginAccessIdentity: ''
-            },
+            }
           },
           {
             Id: 'cdo-restricted',
@@ -172,8 +172,8 @@ module AWS
             OriginPath: '',
             S3OriginConfig: {
               OriginAccessIdentity: 'origin-access-identity/cloudfront/E17G1PR1YAN7F4'
-            },
-          },
+            }
+          }
         ],
         PriceClass: 'PriceClass_All',
         Restrictions: {

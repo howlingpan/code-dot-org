@@ -72,7 +72,7 @@ namespace :seed do
     'playlab',
     'starwars',
     'starwarsblocks',
-    'step',
+    'step'
   ].map {|script| "config/scripts/#{script}.script"}.freeze
   SEEDED = 'config/scripts/.seeded'.freeze
 
@@ -109,7 +109,7 @@ namespace :seed do
     :dsls,
     :blocks,
     :shared_blockly_functions,
-    :libraries,
+    :libraries
   ].freeze
 
   task scripts: SCRIPTS_DEPENDENCIES do
@@ -282,10 +282,10 @@ namespace :seed do
             'dashboard/app/dsl/**/*',
             'dashboard/config/**/*',
             'dashboard/db/**/*',
-            'dashboard/lib/tasks/**/*',
+            'dashboard/lib/tasks/**/*'
           ],
           ignore_patterns: [
-            'dashboard/db/ui_test_data.*',
+            'dashboard/db/ui_test_data.*'
           ],
         )
         if files_changed.empty?

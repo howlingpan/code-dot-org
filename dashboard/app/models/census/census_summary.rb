@@ -26,7 +26,7 @@ class Census::CensusSummary < ApplicationRecord
     MAYBE: "M",
     HISTORICAL_YES: "HY",
     HISTORICAL_NO: "HN",
-    HISTORICAL_MAYBE: "HM",
+    HISTORICAL_MAYBE: "HM"
   }.freeze
   enum teaches_cs: TEACHES
 
@@ -75,7 +75,7 @@ class Census::CensusSummary < ApplicationRecord
   HISTORICAL_RESULTS_MAP = {
     "YES" => "HISTORICAL_YES",
     "NO" => "HISTORICAL_NO",
-    "MAYBE" => "HISTORICAL_MAYBE",
+    "MAYBE" => "HISTORICAL_MAYBE"
   }
 
   def self.map_historical_teaches_cs(historical_value)
@@ -89,12 +89,12 @@ class Census::CensusSummary < ApplicationRecord
     counts = {
       teacher_or_admin: {
         yes: 0,
-        no: 0,
+        no: 0
       },
       not_teacher_or_admin: {
         yes: 0,
-        no: 0,
-      },
+        no: 0
+      }
     }
     submissions.select {|s| s.school_year == school_year}.each do |submission|
       teaches =
@@ -111,7 +111,7 @@ class Census::CensusSummary < ApplicationRecord
         {
           id: submission.id,
           teaches: teaches,
-          teacher_or_admin: teacher_or_admin,
+          teacher_or_admin: teacher_or_admin
         }
       )
 
@@ -128,11 +128,11 @@ class Census::CensusSummary < ApplicationRecord
 
     consistency = {
       teacher_or_admin: nil,
-      not_teacher_or_admin: nil,
+      not_teacher_or_admin: nil
     }
     has_inconsistent_surveys = {
       teacher_or_admin: false,
-      not_teacher_or_admin: false,
+      not_teacher_or_admin: false
     }
 
     [:teacher_or_admin, :not_teacher_or_admin].each do |role|
@@ -150,7 +150,7 @@ class Census::CensusSummary < ApplicationRecord
     return {
       consistency: consistency,
       has_inconsistent_surveys: has_inconsistent_surveys,
-      counts: counts,
+      counts: counts
     }
   end
 
@@ -201,12 +201,12 @@ class Census::CensusSummary < ApplicationRecord
 
   def self.summarize_override_data(overrides, school_year, audit)
     audit[:overrides] = {
-      records: [],
+      records: []
     }
 
     overrides_summary = {
       should_override: false,
-      override_value: nil,
+      override_value: nil
     }
 
     overrides.order(:created_at).select {|o| o.school_year == school_year}.each do |o|
@@ -232,7 +232,7 @@ class Census::CensusSummary < ApplicationRecord
       {
         label: detail_label,
         value: value,
-        used: used,
+        used: used
       }
     )
 
@@ -337,7 +337,7 @@ class Census::CensusSummary < ApplicationRecord
       census_submissions: [],
       ap_cs_offerings: [],
       ib_cs_offerings: [],
-      state_cs_offerings: [],
+      state_cs_offerings: []
     }
   end
 
@@ -424,7 +424,7 @@ class Census::CensusSummary < ApplicationRecord
       latest_survey_year,
       latest_ap_data_year,
       latest_ib_data_year,
-      latest_state_data_year,
+      latest_state_data_year
     ].max
     school_years = (2016..latest_year)
 
@@ -443,7 +443,7 @@ class Census::CensusSummary < ApplicationRecord
             school_years: school_years,
             years_with_ap_data: years_with_ap_data,
             years_with_ib_data: years_with_ib_data,
-            state_years_with_data: state_years_with_data,
+            state_years_with_data: state_years_with_data
           }
         ).each do |summary|
           if block_given?

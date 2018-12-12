@@ -81,7 +81,7 @@ def process_image(path, ext_names, language=nil, site=nil)
   return nil unless path # No match at any resolution.
   output = {
     last_modified: File.mtime(path),
-    content_type: image_format.to_sym,
+    content_type: image_format.to_sym
   }
 
   if (retina_out || !retina_in) && !manipulated && File.extname(path) == extname

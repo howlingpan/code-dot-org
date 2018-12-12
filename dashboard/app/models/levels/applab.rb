@@ -75,7 +75,7 @@ class Applab < Blockly
         game: Game.applab,
         level_num: 'custom',
         properties: {
-          code_functions: JSON.parse(palette),
+          code_functions: JSON.parse(palette)
         }
       )
     )

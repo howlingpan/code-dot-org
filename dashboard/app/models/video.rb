@@ -147,7 +147,7 @@ class Video < ActiveRecord::Base
       download: download,
       thumbnail: thumbnail_path,
       enable_fallback: true,
-      autoplay: autoplay,
+      autoplay: autoplay
     }
   end
 end

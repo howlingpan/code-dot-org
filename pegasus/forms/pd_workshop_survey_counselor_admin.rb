@@ -103,7 +103,7 @@ class PdWorkshopSurveyCounselorAdmin < Form
 
   ATTENDEE_TYPE = {
     ADMINISTRATOR: 'Administrator',
-    COUNSELOR: 'Counselor',
+    COUNSELOR: 'Counselor'
   }.freeze
 
   OPTIONS = {
@@ -125,13 +125,13 @@ class PdWorkshopSurveyCounselorAdmin < Form
       '3',
       '4',
       '5',
-      '6 - extremely interested',
+      '6 - extremely interested'
     ],
 
     pacing_s: [
       'too fast: there were too many activities packing in to the time we had together',
       'just right',
-      'too slow: there was more time than necessary for the activities we completed',
+      'too slow: there was more time than necessary for the activities we completed'
     ],
 
     attendee_type_s: [
@@ -142,6 +142,6 @@ class PdWorkshopSurveyCounselorAdmin < Form
     interested_in_offering_ss: [
       'Computer Science Discoveries',
       'Computer Science Principles'
-    ],
+    ]
   }.freeze
 end

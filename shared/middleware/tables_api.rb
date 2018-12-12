@@ -10,7 +10,7 @@ class TablesApi < Sinatra::Base
     [
       'core.rb',
       'table.rb',
-      'firebase_helper.rb',
+      'firebase_helper.rb'
     ].each do |file|
       load(CDO.dir('shared', 'middleware', 'helpers', file))
     end

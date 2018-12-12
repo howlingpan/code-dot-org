@@ -802,7 +802,7 @@ class UserTest < ActiveSupport::TestCase
     script_levels = [
       create(:script_level, script: script, levels: [create(:maze)]),
       create(:script_level, script: script, levels: [create(:maze)]),
-      create(:script_level, script: script, levels: [create(:unplugged)]),
+      create(:script_level, script: script, levels: [create(:unplugged)])
     ]
     create :user_script, user: user, script: script
 
@@ -828,7 +828,7 @@ class UserTest < ActiveSupport::TestCase
       create(:script_level, script: script, levels: [create(:maze)]),
       create(:script_level, script: script, levels: [create(:unplugged)]),
       create(:script_level, script: script, levels: [create(:unplugged)]),
-      create(:script_level, script: script, levels: [create(:maze)]),
+      create(:script_level, script: script, levels: [create(:maze)])
     ]
     create :user_script, user: user, script: script
 
@@ -1990,7 +1990,7 @@ class UserTest < ActiveSupport::TestCase
       email: 'my@email.com',
       password: 'mypassword',
       password_confirmation: 'mypassword',
-      secret_words: 'secret words',
+      secret_words: 'secret words'
     }.merge(args)
   end
 
@@ -2087,7 +2087,7 @@ class UserTest < ActiveSupport::TestCase
       email_preference_opt_in: 'no',
       email_preference_request_ip: '127.0.0.1',
       email_preference_source: EmailPreference::ACCOUNT_TYPE_CHANGE,
-      email_preference_form_kind: '0',
+      email_preference_form_kind: '0'
     }.merge(args)
   end
 
@@ -3095,7 +3095,7 @@ class UserTest < ActiveSupport::TestCase
             'name' => {
               'csd' => {
                 'title' => 'Computer Science Discoveries',
-                'description_short' => 'CSD short description',
+                'description_short' => 'CSD short description'
               }
             }
           },
@@ -3237,7 +3237,7 @@ class UserTest < ActiveSupport::TestCase
       credentials: {
         token: 'fake oauth token',
         expires_at: Time.now.to_i + 3600,
-        refresh_token: 'fake refresh token',
+        refresh_token: 'fake refresh token'
       },
       info: {
         name: {first: 'Some', last: 'User'},
@@ -3266,7 +3266,7 @@ class UserTest < ActiveSupport::TestCase
       credentials: {
         token: 'fake oauth token',
         expires_at: Time.now.to_i + 3600,
-        refresh_token: 'fake refresh token',
+        refresh_token: 'fake refresh token'
       },
       info: {},
     )
@@ -3290,7 +3290,7 @@ class UserTest < ActiveSupport::TestCase
       credentials: {
         token: 'fake oauth token',
         expires_at: Time.now.to_i + 3600,
-        refresh_token: 'fake refresh token',
+        refresh_token: 'fake refresh token'
       },
       info: {},
     )

@@ -23,7 +23,7 @@ module UsersHelper
       source_user: source_user,
       destination_user: destination_user,
       type: takeover_type,
-      provider: provider,
+      provider: provider
     }
 
     if source_user.has_activity?
@@ -104,7 +104,7 @@ module UsersHelper
       data_string: provider, # OAuth provider
       data_json: {
         user_type: destination_user.user_type,
-        error: error,
+        error: error
       }.to_json
     )
   end
@@ -137,7 +137,7 @@ module UsersHelper
       cleverLinkFlag: session[ACCT_TAKEOVER_PROVIDER],
       userIDToMerge: session[ACCT_TAKEOVER_UID],
       mergeAuthToken: session[ACCT_TAKEOVER_OAUTH_TOKEN],
-      forceConnect: session[ACCT_TAKEOVER_FORCE_TAKEOVER],
+      forceConnect: session[ACCT_TAKEOVER_FORCE_TAKEOVER]
     }.to_json
   end
 
@@ -283,7 +283,7 @@ module UsersHelper
           submitted: submitted ? true : nil,
           readonly_answers: readonly_answers ? true : nil,
           paired: (paired_user_levels.include? ul.try(:id)) ? true : nil,
-          locked: locked ? true : nil,
+          locked: locked ? true : nil
         }.compact
 
         # Just in case this level has multiple pages, in which case we add an additional

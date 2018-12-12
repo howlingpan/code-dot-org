@@ -43,7 +43,7 @@ module Pd
         principal_email: "Principal's email address",
         principal_confirm_email: "Confirm principal's email address",
         principal_phone_number: "Principal's phone number",
-        current_role: 'What is your current role at your school?',
+        current_role: 'What is your current role at your school?'
       },
 
       section_2_your_school: {
@@ -79,7 +79,7 @@ module Pd
         cs_offered_at_school:
           'What computer science courses or activities are currently offered at your school? (select all that apply)',
         cs_opportunities_at_school:
-          'What computer science opportunities currently exist at your school? (select all that apply)',
+          'What computer science opportunities currently exist at your school? (select all that apply)'
       },
 
       section_3_choose_your_program: {
@@ -120,7 +120,7 @@ module Pd
            students are still eligible to take the AP CS Principles exam.'
         ),
 
-        plan_to_teach: 'Do you plan to personally teach this course in the 2018-19 school year?',
+        plan_to_teach: 'Do you plan to personally teach this course in the 2018-19 school year?'
       },
 
       section_4_summer_workshop: {

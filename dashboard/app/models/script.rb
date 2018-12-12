@@ -591,7 +591,7 @@ class Script < ActiveRecord::Base
       Script::CSD2_2018_NAME,
       Script::CSD3_2018_NAME,
       Script::CSD4_2018_NAME,
-      Script::CSD6_2018_NAME,
+      Script::CSD6_2018_NAME
     ].include?(name)
   end
 
@@ -602,7 +602,7 @@ class Script < ActiveRecord::Base
       Script::CSP17_POSTAP_NAME,
       Script::CSP3_2018_NAME,
       Script::CSP5_2018_NAME,
-      Script::CSP_POSTAP_2018_NAME,
+      Script::CSP_POSTAP_2018_NAME
     ].include?(name)
   end
 
@@ -644,7 +644,7 @@ class Script < ActiveRecord::Base
       Script::CSP17_UNIT3_NAME,
       Script::CSP_UNIT1_NAME,
       Script::CSP_UNIT2_NAME,
-      Script::CSP_UNIT3_NAME,
+      Script::CSP_UNIT3_NAME
     ].include?(name)
   end
 
@@ -1114,7 +1114,7 @@ class Script < ActiveRecord::Base
       show_script_version_warning: !user_script&.version_warning_dismissed && !has_older_course_progress && has_older_script_progress,
       versions: summarize_versions,
       supported_locales: supported_locales,
-      section_hidden_unit_info: section_hidden_unit_info(user),
+      section_hidden_unit_info: section_hidden_unit_info(user)
     }
 
     summary[:stages] = stages.map(&:summarize) if include_stages

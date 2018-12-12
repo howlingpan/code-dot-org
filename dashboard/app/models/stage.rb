@@ -186,7 +186,7 @@ class Stage < ActiveRecord::Base
           named_level: script_level.named_level?,
           bonus_level: !!script_level.bonus,
           progression: script_level.progression,
-          path: script_level.path,
+          path: script_level.path
         }
 
         level_json.merge!(level.summary_for_lesson_plans)

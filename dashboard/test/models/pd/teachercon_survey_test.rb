@@ -7,7 +7,7 @@ class Pd::TeacherconSurveyTest < ActiveSupport::TestCase
 
     refute survey.valid?
     assert_equal [
-      "Form data is required",
+      "Form data is required"
     ], survey.errors.full_messages
 
     survey.form_data = {}.to_json
@@ -52,7 +52,7 @@ class Pd::TeacherconSurveyTest < ActiveSupport::TestCase
       "Form data givePermissionToQuote",
       "Form data instructionFocus",
       "Form data teacherResponsibility",
-      "Form data teacherTime",
+      "Form data teacherTime"
     ].sort, survey.errors.full_messages.sort
 
     survey.form_data = build(:pd_teachercon_survey_hash).to_json

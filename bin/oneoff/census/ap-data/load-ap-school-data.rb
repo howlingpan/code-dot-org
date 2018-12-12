@@ -40,7 +40,7 @@ class ApDataLoader
                 streetAddr1: data['streetAddr1'],
                 city: data['city'],
                 state: data['stateCd'],
-                zip: data['zip5'],
+                zip: data['zip5']
               }
             end
           end
@@ -64,7 +64,7 @@ class ApDataLoader
           streetAddr1: street_addr_1,
           city: city,
           state: state,
-          zip: zip,
+          zip: zip
         }
       end
     end

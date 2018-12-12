@@ -35,7 +35,7 @@ module SchoolInfoInterstitialHelper
       SchoolInfo::SCHOOL_TYPE_HOMESCHOOL,
       SchoolInfo::SCHOOL_TYPE_AFTER_SCHOOL,
       SchoolInfo::SCHOOL_TYPE_ORGANIZATION,
-      SchoolInfo::SCHOOL_TYPE_OTHER,
+      SchoolInfo::SCHOOL_TYPE_OTHER
     ].include?(school_info.school_type)
 
     # Given we got past above cases, school name is sufficient

@@ -93,7 +93,7 @@ class ReportAbuseController < ApplicationController
       csrfToken: form_authenticity_token,
       name: (current_user.name unless current_user.nil?),
       email: (current_user.email unless current_user.nil?),
-      age: (current_user.age unless current_user.nil?),
+      age: (current_user.age unless current_user.nil?)
     }
   end
 end

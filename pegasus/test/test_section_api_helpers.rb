@@ -368,7 +368,7 @@ class SectionApiHelperTest < SequelTestCase
           script_name: 'csp-2017',
           category: 'Full Courses',
           position: 0,
-          category_priority: 0,
+          category_priority: 0
         }
         assert_equal expected, csp_course
       end

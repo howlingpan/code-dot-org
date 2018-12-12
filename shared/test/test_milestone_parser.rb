@@ -45,15 +45,15 @@ class TestMilestoneParser < Minitest::Test
     @s3_client.stub_responses(:list_objects,
       {contents: [
         {key: 'hosts/folder_1/dashboard/milestone.log', size: LOG_SIZE, etag: 'x'},
-        {key: 'hosts/folder_1/dashboard/milestone.log.gz', size: 20, etag: 'y'},
+        {key: 'hosts/folder_1/dashboard/milestone.log.gz', size: 20, etag: 'y'}
       ]},
       {contents: [
         {key: 'hosts/folder_2/dashboard/milestone.log', size: LOG_SIZE, etag: 'x'},
-        {key: 'hosts/folder_2/dashboard/milestone.log.gz', size: 20, etag: 'y'},
+        {key: 'hosts/folder_2/dashboard/milestone.log.gz', size: 20, etag: 'y'}
       ]},
       {contents: [
         {key: 'hosts/folder_3/dashboard/milestone.log', size: LOG_SIZE, etag: 'x'},
-        {key: 'hosts/folder_3/dashboard/milestone.log.gz', size: 20, etag: 'y'},
+        {key: 'hosts/folder_3/dashboard/milestone.log.gz', size: 20, etag: 'y'}
       ]},
     )
     @cache = JSON.parse(IO.read(CACHE_FILE))

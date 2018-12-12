@@ -58,11 +58,11 @@ class ProjectsController < ApplicationController
       # We do not currently generate thumbnails for flappy, so specify a
       # placeholder image here. This allows flappy projects to show up in the
       # public gallery, and to be published from the share dialog.
-      default_image_url: '/blockly/media/flappy/placeholder.jpg',
+      default_image_url: '/blockly/media/flappy/placeholder.jpg'
     },
     scratch: {
       name: 'New Scratch Project',
-      levelbuilder_required: true,
+      levelbuilder_required: true
     },
     minecraft_codebuilder: {
       name: 'New Minecraft Code Connection Project'
@@ -85,18 +85,18 @@ class ProjectsController < ApplicationController
     },
     gamelab: {
       name: 'New Game Lab Project',
-      login_required: true,
+      login_required: true
     },
     gamelab_jr: {
       name: 'New Game Lab Jr Project',
-      levelbuilder_required: true,
+      levelbuilder_required: true
     },
     spritelab: {
-      name: 'New Sprite Lab Project',
+      name: 'New Sprite Lab Project'
     },
     dance: {
       name: 'New Dance Lab Project',
-      default_image_url: '',
+      default_image_url: ''
     },
     makerlab: {
       name: 'New Maker Lab Project',
@@ -107,13 +107,13 @@ class ProjectsController < ApplicationController
       login_required: true
     },
     bounce: {
-      name: 'New Bounce Project',
+      name: 'New Bounce Project'
     },
     sports: {
-      name: 'New Sports Project',
+      name: 'New Sports Project'
     },
     basketball: {
-      name: 'New Basketball Project',
+      name: 'New Basketball Project'
     },
     algebra_game: {
       name: 'New Algebra Project'
@@ -180,7 +180,7 @@ class ProjectsController < ApplicationController
         publishedAt: project_details[:published_at],
         thumbnailUrl: project_details_value['thumbnailUrl'],
         featuredAt: project_details[:featured_at],
-        unfeaturedAt: project_details[:unfeatured_at],
+        unfeaturedAt: project_details[:unfeatured_at]
       }
       @featured_project_table_rows << featured_project_row
     end
@@ -349,7 +349,7 @@ class ProjectsController < ApplicationController
         # not currently used, but may prove useful to have in the data later.
         encrypted_channel_id: params[:channel_id],
         # record type again to make it clear what data_string represents.
-        project_type: params[:key],
+        project_type: params[:key]
       }.to_json
     )
     render 'levels/show'

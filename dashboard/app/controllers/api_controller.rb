@@ -28,7 +28,7 @@ class ApiController < ApplicationController
           id: data['id'],
           name: data['name'],
           section: data['course_number'],
-          enrollment_code: data['sis_id'],
+          enrollment_code: data['sis_id']
         }
       end
 
@@ -50,7 +50,7 @@ class ApiController < ApplicationController
 
   GOOGLE_AUTH_SCOPES = [
     Google::Apis::ClassroomV1::AUTH_CLASSROOM_COURSES_READONLY,
-    Google::Apis::ClassroomV1::AUTH_CLASSROOM_ROSTERS_READONLY,
+    Google::Apis::ClassroomV1::AUTH_CLASSROOM_ROSTERS_READONLY
   ].freeze
 
   private def query_google_classroom_service
@@ -234,7 +234,7 @@ class ApiController < ApplicationController
         id: script.id,
         name: data_t_suffix('script.name', script.name, 'title'),
         levels_count: script_levels.length,
-        stages: stages,
+        stages: stages
       }
     }
 
@@ -268,7 +268,7 @@ class ApiController < ApplicationController
       pagination: {
         total_pages: paged_students.total_pages,
         page: page,
-        per: per,
+        per: per
       }
     }
   end
@@ -313,7 +313,7 @@ class ApiController < ApplicationController
     data = {
       student: {
         id: student.id,
-        name: student.name,
+        name: student.name
       },
       script: {
         id: @script.id,

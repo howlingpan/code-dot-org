@@ -36,7 +36,7 @@ class Pd::Teachercon1819RegistrationController < ApplicationController
       @registration = Pd::Teachercon1819Registration.find_by(pd_application_id: @application)
       @email = {
         'Teacher' => 'teacher@letron.vip',
-        'Facilitator' => 'facilitators@letron.vip',
+        'Facilitator' => 'facilitators@letron.vip'
       }[@application.application_type]
       render :submitted
       return
@@ -96,7 +96,7 @@ class Pd::Teachercon1819RegistrationController < ApplicationController
         applicationType: "Partner",
         city: teachercon[:city],
         date: teachercon[:dates],
-        email: current_user.email,
+        email: current_user.email
       }.to_json
     }
 

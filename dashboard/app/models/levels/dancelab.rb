@@ -40,14 +40,14 @@ class Dancelab < GamelabJr
         level_num: 'custom',
         properties: {
           block_pools: [
-            "Dancelab",
+            "Dancelab"
           ],
           helper_libraries: [
-            "DanceLab",
+            "DanceLab"
           ],
           hide_animation_mode: true,
           show_type_hints: true,
-          use_modal_function_editor: true,
+          use_modal_function_editor: true
         }
       )
     )

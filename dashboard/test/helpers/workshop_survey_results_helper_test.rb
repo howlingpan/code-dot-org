@@ -168,7 +168,7 @@ class Pd::WorkshopSurveyResultsHelperTest < ActionView::TestCase
           min_value: 1,
           max_value: 5,
           options: ['1 - Poor', '2', '3', '4', '5 - Excellent']
-        },
+        }
       },
       facilitator: {
         'sampleFacilitatorText' => {
@@ -575,7 +575,7 @@ class Pd::WorkshopSurveyResultsHelperTest < ActionView::TestCase
             'Disagree' => 1
           },
           'sampleMatrix_1' => {
-            'Agree' => 3,
+            'Agree' => 3
           },
           'sampleScale' => {
             2 => 1,
@@ -587,7 +587,7 @@ class Pd::WorkshopSurveyResultsHelperTest < ActionView::TestCase
       'Day 1' => {
         response_count: 0,
         general: {
-          'sampleDailyScale' => {},
+          'sampleDailyScale' => {}
         },
         facilitator: {
           'sampleFacilitatorText' => {

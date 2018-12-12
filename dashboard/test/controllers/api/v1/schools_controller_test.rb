@@ -42,7 +42,7 @@ class Api::V1::SchoolsControllerTest < ActionController::TestCase
     zip: '27105',
     school_type: 'charter',
     latitude: "36.15115",
-    longitude: "-80.21101",
+    longitude: "-80.21101"
   }.deep_stringify_keys.freeze
 
   CHILDRENS_VILLAGE = {

@@ -71,7 +71,7 @@ class HttpCache
       'remember_user_token',
       '__profilin', # Used by rack-mini-profiler
       session_key,
-      storage_id,
+      storage_id
     ].concat(default_cookies)
 
     {
@@ -145,7 +145,7 @@ class HttpCache
             proxy: 'cdo-restricted',
             headers: [],
             cookies: 'none',
-            trusted_signer: true,
+            trusted_signer: true
           },
           {
             path: %w(
@@ -216,7 +216,7 @@ class HttpCache
             ),
             headers: [],
             cookies: 'none'
-          },
+          }
         ],
         # Default Dashboard paths are session-specific, whitelist all session cookies and language header.
         default: {

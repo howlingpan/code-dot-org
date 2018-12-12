@@ -50,19 +50,19 @@ module Pd::ProgramRegistrationForm
     need_ada: [
       'Yes',
       'No'
-    ],
+    ]
   }.freeze
 
   PHOTO_RELEASE_OPTIONS = {
     photo_release: [
       'Yes',
-      'No',
+      'No'
     ]
   }.freeze
 
   LIABILITY_WAIVER_OPTIONS = {
     liability_waiver: [
-      'Yes',
+      'Yes'
     ]
   }.freeze
 

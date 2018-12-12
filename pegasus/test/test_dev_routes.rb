@@ -194,12 +194,12 @@ class DevRoutesTest < Minitest::Test
         action: 'opened',
         pull_request: {
           base: {
-            ref: 'staging',
-          },
-        },
+            ref: 'staging'
+          }
+        }
       }.freeze
       GITHUB_PARAMS = {
-        payload: GITHUB_PAYLOAD.to_json,
+        payload: GITHUB_PAYLOAD.to_json
       }.freeze
       before do
         $log.level = Logger::ERROR
@@ -222,7 +222,7 @@ class DevRoutesTest < Minitest::Test
           pegasus = make_test_pegasus
 
           pegasus.post '/api/dev/check-dts', {
-            payload: GITHUB_PAYLOAD.merge({'action' => 'other action'}).to_json,
+            payload: GITHUB_PAYLOAD.merge({'action' => 'other action'}).to_json
           }, 'X-GitHub-Event' => 'pull_request'
           assert_equal 202, pegasus.last_response.status
         end
@@ -249,10 +249,10 @@ class DevRoutesTest < Minitest::Test
               action: 'opened',
               pull_request: {
                 base: {
-                  ref: 'test',
-                },
-              },
-            }.to_json,
+                  ref: 'test'
+                }
+              }
+            }.to_json
           }
           assert_equal 202, pegasus.last_response.status
         end

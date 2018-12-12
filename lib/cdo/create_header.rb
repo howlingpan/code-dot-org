@@ -15,7 +15,7 @@ class CreateHeader
         title: "artist",
         url: CDO.studio_url('projects/artist/new'),
         image: "logo_artist.png"
-      },
+      }
     ]
 
     minecraft = [
@@ -24,7 +24,7 @@ class CreateHeader
         title: "minecraft",
         url: CDO.studio_url('projects/minecraft_designer/new'),
         image: "logo_minecraft.png"
-      },
+      }
     ]
 
     applab_gamelab = [
@@ -39,7 +39,7 @@ class CreateHeader
         title: "gamelab",
         url: CDO.studio_url('projects/gamelab/new'),
         image: "logo_gamelab_square.png"
-      },
+      }
     ]
 
     dance_party = [

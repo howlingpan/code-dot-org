@@ -6,7 +6,7 @@ module MysqlConsoleHelper
       'mysql',
       "--user=#{db.user}",
       "--host=#{db.host}",
-      "--database=#{db.path[1..-1]}",
+      "--database=#{db.path[1..-1]}"
     ]
     command << "--port=#{db.port}" if db.port
     command << "--execute=\"#{args}\"" unless args.empty?

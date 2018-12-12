@@ -259,7 +259,7 @@ module Pd::Application
           'Project Lead the Way',
           'ScratchEd',
           TEXT_FIELDS[:other_with_text],
-          "I don't have experience teaching any of these courses",
+          "I don't have experience teaching any of these courses"
         ],
 
         completed_pd: [

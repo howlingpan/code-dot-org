@@ -247,7 +247,7 @@ COUNTRY_CODE_TO_COUNTRY_NAME = {
   "YT" => "Mayotte",
   "ZA" => "South Africa",
   "ZM" => "Zambia",
-  "ZW" => "Zimbabwe",
+  "ZW" => "Zimbabwe"
 }.freeze
 
 # ISO 3166 alpha-2 country codes for Member States of the European Union.

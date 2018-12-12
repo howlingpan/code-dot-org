@@ -342,11 +342,11 @@ metrics = (constants.merge(intervals).merge(innodb_stats)).map do |key, value|
       {
         name: "Environment",
         value: rack_env
-      },
+      }
     ],
     timestamp: Time.now,
     value: value.to_f,
-    unit: "Count",
+    unit: "Count"
   }
 end
 

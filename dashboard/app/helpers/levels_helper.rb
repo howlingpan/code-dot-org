@@ -90,7 +90,7 @@ module LevelsHelper
         request.ip,
         user_storage_id,
         {
-          hidden: true,
+          hidden: true
         }
       )
     end
@@ -344,7 +344,7 @@ module LevelsHelper
     app_options = {
       baseUrl: Blockly.base_url,
       skin: {},
-      app: 'scratch',
+      app: 'scratch'
     }
     app_options[:level] = @level.properties.camelize_keys
     app_options[:level][:scratch] = true
@@ -422,7 +422,7 @@ module LevelsHelper
     app_options[:report] = {
       fallback_response: @fallback_response,
       callback: @callback,
-      sublevelCallback: @sublevel_callback,
+      sublevelCallback: @sublevel_callback
     }
 
     if (@game && @game.owns_footer_for_share?) || @legacy_share_style
@@ -555,7 +555,7 @@ module LevelsHelper
     app_options[:report] = {
       fallback_response: @fallback_response,
       callback: @callback,
-      sublevelCallback: @sublevel_callback,
+      sublevelCallback: @sublevel_callback
     }
     dev_with_credentials = rack_env?(:development) && (!!CDO.aws_access_key || !!CDO.aws_role) && !!CDO.cloudfront_key_pair_id
     use_restricted_songs = CDO.cdn_enabled || dev_with_credentials || (rack_env?(:test) && ENV['CI'])
@@ -623,7 +623,7 @@ module LevelsHelper
         baseUrl: Blockly.base_url,
         blocks: '<xml></xml>',
         dialog: {},
-        nonGlobal: true,
+        nonGlobal: true
       }
       app = level.game.app
       blocks = content_tag(:xml, level.blocks_to_embed(level.properties[block_type]).html_safe)
@@ -726,7 +726,7 @@ module LevelsHelper
       SoftButton.new('Left', 'leftButton'),
       SoftButton.new('Right', 'rightButton'),
       SoftButton.new('Down', 'downButton'),
-      SoftButton.new('Up', 'upButton'),
+      SoftButton.new('Up', 'upButton')
     ]
   end
 

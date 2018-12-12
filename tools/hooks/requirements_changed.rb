@@ -10,7 +10,7 @@ REQUIREMENTS = {
   "bower.json" => {cmd: "bower install"},
   "Gemfile" => {cmd: "bundle install"},
   "Berksfile" => {cmd: "berks install"},
-  "schema.rb" => {cmd: "bundle exec rake db:migrate", dir: ".."},
+  "schema.rb" => {cmd: "bundle exec rake db:migrate", dir: ".."}
 }.freeze
 
 def get_modified_files

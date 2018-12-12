@@ -56,7 +56,7 @@ module Pd
         workshopId: workshop.id,
         day: day,
         formId: @form_id,
-        sessionId: session&.id,
+        sessionId: session&.id
       }
 
       return redirect_general(key_params) if response_exists_general?(key_params)
@@ -122,7 +122,7 @@ module Pd
         sessionId: session.id,
         facilitatorId: facilitator.id,
         facilitatorIndex: facilitator_index,
-        formId: @form_id,
+        formId: @form_id
       }
 
       return redirect_facilitator(key_params) if response_exists_facilitator?(key_params)

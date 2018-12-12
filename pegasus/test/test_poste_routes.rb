@@ -208,7 +208,7 @@ class PosteRoutesTest < Minitest::Test
           url: 'my url',
 
           # Obtained by Digest::MD5.hexdigest('my url')
-          hash: 'c4a8698678999acd754ec6063ce3b7f8',
+          hash: 'c4a8698678999acd754ec6063ce3b7f8'
         }
       )
     end

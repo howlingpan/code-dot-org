@@ -38,7 +38,7 @@ class TeacherProfile < ActiveRecord::Base
     YEAR_2013_2014 = '2013-2014'.freeze,
     YEAR_2014_2015 = '2014-2015'.freeze,
     YEAR_2015_2016 = '2015-2016'.freeze,
-    YEAR_2016_2017 = '2016-2017'.freeze,
+    YEAR_2016_2017 = '2016-2017'.freeze
   ].freeze
   NO_PD = 'no_pd'.freeze
   validates_inclusion_of :pd_year, in: YEARS + [NO_PD], allow_nil: true

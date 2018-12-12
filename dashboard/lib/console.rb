@@ -5,7 +5,7 @@ colors = {
   development: :green,
   production: :red,
   levelbuilder: :cyan,
-  staging: :cyan,
+  staging: :cyan
 }
 color = colors[env.to_sym] || :white
 
@@ -15,7 +15,7 @@ IRB.conf[:PROMPT][:RAILS_APP] = {
   PROMPT_N: nil,
   PROMPT_S: nil,
   PROMPT_C: nil,
-  RETURN: "=> %s\n",
+  RETURN: "=> %s\n"
 }
 
 IRB.conf[:PROMPT_MODE] = :RAILS_APP

@@ -45,12 +45,12 @@ class UserPermission < ActiveRecord::Base
     # Initially has the same abilities as workshop organizer.
     PROGRAM_MANAGER = 'program_manager'.freeze,
     # Grants access to review reported inaccuracies in census data
-    CENSUS_REVIEWER = 'census_reviewer'.freeze,
+    CENSUS_REVIEWER = 'census_reviewer'.freeze
   ].freeze
 
   # Do not log the granting/removal of these permissions to slack
   SILENCED_PERMISSIONS = [
-    AUTHORIZED_TEACHER,
+    AUTHORIZED_TEACHER
   ].freeze
 
   validates_inclusion_of :permission, in: VALID_PERMISSIONS

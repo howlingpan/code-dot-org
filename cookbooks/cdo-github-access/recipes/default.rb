@@ -27,7 +27,7 @@ end
 [
   'config',
   'id_rsa',
-  'id_rsa.pub',
+  'id_rsa.pub'
 ].each do |file|
   template "/home/#{node[:current_user]}/.ssh/#{file}" do
     source 'file.erb'

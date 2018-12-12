@@ -105,7 +105,7 @@ class CsvToSqlTable
       '_bi' => {type: 'bigint'},
       '_s' => {type: 'varchar(255)'},
       '_ss' => {type: 'varchar(255)'},
-      '_t' => {type: 'text'},
+      '_t' => {type: 'text'}
     }[type_info] || {type: 'varchar(255)'}
 
     type = type.merge(unique: true) if type_flag == '!'

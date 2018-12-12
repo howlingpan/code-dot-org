@@ -5,7 +5,7 @@ class Pd::FitWeekend1819RegistrationTest < ActiveSupport::TestCase
     registration = build(:pd_fit_weekend1819_registration, form_data: nil)
     refute registration.valid?
     assert_equal [
-      "Form data is required",
+      "Form data is required"
     ], registration.errors.full_messages
 
     registration.form_data = {}.to_json
@@ -26,7 +26,7 @@ class Pd::FitWeekend1819RegistrationTest < ActiveSupport::TestCase
       "Form data needHotel",
       "Form data photoRelease",
       "Form data liabilityWaiver",
-      "Form data agreeShareContact",
+      "Form data agreeShareContact"
     ], registration.errors.full_messages
 
     registration.form_data = build(:pd_fit_weekend1819_registration_hash).to_json

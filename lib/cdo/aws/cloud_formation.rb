@@ -189,7 +189,7 @@ module AWS
               key: 'environment',
               value: rack_env
             }
-          ],
+          ]
         }.merge(string_or_url(template)).tap do |options|
           if %w[IAM lambda].include? stack_name
             options[:capabilities] = %w[
@@ -285,12 +285,12 @@ module AWS
                       name: pegasus_domain_name,
                       resource_records: [
                         {
-                          value: public_ip_address,
-                        },
+                          value: public_ip_address
+                        }
                       ],
                       ttl: DNS_TTL,
-                      type: "A",
-                    },
+                      type: "A"
+                    }
                   },
                   {
                     action: "UPSERT",
@@ -298,15 +298,15 @@ module AWS
                       name: dashboard_domain_name,
                       resource_records: [
                         {
-                          value: public_ip_address,
-                        },
+                          value: public_ip_address
+                        }
                       ],
                       ttl: DNS_TTL,
-                      type: "A",
+                      type: "A"
                     }
                   }
                 ],
-                comment: "Web server for adhoc environment #{pegasus_domain_name}",
+                comment: "Web server for adhoc environment #{pegasus_domain_name}"
               },
               hosted_zone_id: hosted_zone_id
             }

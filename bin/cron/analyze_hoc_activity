@@ -106,7 +106,7 @@ def main
     total_hoc_count: total_hoc_count,
     total_codedotorg_count: total_codedotorg,
     hoc_country_totals: hoc_country_totals,
-    hoc_company_totals: hoc_company_totals,
+    hoc_company_totals: hoc_company_totals
   }
 
   # In the production environment, begin with a known previous value in case we
@@ -144,7 +144,7 @@ def main
     created_at:               time,
     created_on:               time.to_date,
     petition_signatures:      petition_signatures,
-    lines_of_code:            lines_of_code,
+    lines_of_code:            lines_of_code
   }
 
   total_females = DASHBOARD_REPORTING_DB_READONLY[:users].where(gender: 'f').exclude(last_sign_in_at: nil).count
@@ -155,7 +155,7 @@ def main
     number_served: total_started,
     number_students: DASHBOARD_REPORTING_DB_READONLY[:users].where(user_type: 'student').exclude(last_sign_in_at: nil).count,
     number_teachers: DASHBOARD_REPORTING_DB_READONLY[:users].where(user_type: 'teacher').exclude(last_sign_in_at: nil).count,
-    percent_female: ((100 * total_females) / total_with_gender).to_i,
+    percent_female: ((100 * total_females) / total_with_gender).to_i
   }
 end
 

@@ -39,7 +39,7 @@ class StudioEC < Studio
         level_num: 'custom',
         properties: {
           code_functions: JSON.parse(palette),
-          goal_override: JSON.parse(goal_override),
+          goal_override: JSON.parse(goal_override)
         }
       )
     )

@@ -24,7 +24,7 @@ class HintViewRequestsControllerTest < ActionController::TestCase
       script_id: 1,
       level_id: ActiveRecord::FixtureSet.identify(:level_1),
       feedback_type: 1,
-      feedback_xml: '',
+      feedback_xml: ''
     }
 
     assert_creates(HintViewRequest) do
@@ -46,7 +46,7 @@ class HintViewRequestsControllerTest < ActionController::TestCase
       script_id: 1,
       level_id: ActiveRecord::FixtureSet.identify(:level_1),
       feedback_type: 1,
-      feedback_xml: '',
+      feedback_xml: ''
     }
 
     assert_difference('HintViewRequest.count', 3) do
@@ -68,7 +68,7 @@ class HintViewRequestsControllerTest < ActionController::TestCase
       script_id: 1,
       level_id: 1,
       feedback_type: 1,
-      feedback_xml: '',
+      feedback_xml: ''
     }
 
     assert_does_not_create(HintViewRequest) do
@@ -94,7 +94,7 @@ class HintViewRequestsControllerTest < ActionController::TestCase
       script_id: Script.first.id,
       level_id: Script.first.script_levels.first.level,
       feedback_type: 1,
-      feedback_xml: 'test_hint',
+      feedback_xml: 'test_hint'
     }
 
     driver_final = HintViewRequest.where(user: driver).count

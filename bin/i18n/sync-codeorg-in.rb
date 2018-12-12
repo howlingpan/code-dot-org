@@ -98,7 +98,7 @@ def localize_block_content
     name = File.basename(file, '.*')
     config = JSON.parse(File.read(file))['config']
     blocks[name] = {
-      'text' => config['blockText'],
+      'text' => config['blockText']
     }
 
     next unless config['args']

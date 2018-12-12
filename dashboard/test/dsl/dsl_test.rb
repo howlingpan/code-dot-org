@@ -27,7 +27,7 @@ class DslTest < ActiveSupport::TestCase
     family_name: nil,
     version_year: nil,
     is_stable: nil,
-    supported_locales: [],
+    supported_locales: []
   }
 
   test 'test Script DSL' do
@@ -60,7 +60,7 @@ class DslTest < ActiveSupport::TestCase
               {stage: 'Stage2', levels: [{name: 'Level 5'}]}
             ]
           }
-        ],
+        ]
       }
     )
 
@@ -154,7 +154,7 @@ endvariants
                 properties: {
                   variants: {"Level 4b" => {active: false, experiments: ["experiment3", "experiment4"]}}
                 }
-              },
+              }
             ]
           }
         ]
@@ -176,7 +176,7 @@ endvariants
       properties: {
         'variants': {
           'maze 2': {'active': false, 'experiments': ['testExperiment']},
-          'maze 3': {'active': false, 'experiments': ['testExperiment2', 'testExperiment3']},
+          'maze 3': {'active': false, 'experiments': ['testExperiment2', 'testExperiment3']}
         }
       },
       stage: stage,
@@ -275,7 +275,7 @@ DSL
         answers: [
           {text: 'answer 1', weight: 1, stage: nil},
           {text: 'answer 2', weight: 2, stage: stage1.name},
-          {text: 'answer 3', weight: 1, stage: stage2.name},
+          {text: 'answer 3', weight: 1, stage: stage2.name}
         ]
       }
     }
@@ -299,19 +299,19 @@ DSL
           {
             stage: "Stage1",
             scriptlevels: [
-              {stage: "Stage1", levels: [{name: "Level 1", stage_flex_category: "Content"}]},
+              {stage: "Stage1", levels: [{name: "Level 1", stage_flex_category: "Content"}]}
             ]
           },
           {
             stage: "Stage2",
             scriptlevels: [
-              {stage: "Stage2", levels: [{name: "Level 2", stage_flex_category: "Practice"}]},
+              {stage: "Stage2", levels: [{name: "Level 2", stage_flex_category: "Practice"}]}
             ]
           },
           {
             stage: "Stage3",
             scriptlevels: [
-              {stage: "Stage3", levels: [{name: "Level 3"}]},
+              {stage: "Stage3", levels: [{name: "Level 3"}]}
             ]
           }
         ]
@@ -337,13 +337,13 @@ DSL
           {
             stage: "Stage1",
             scriptlevels: [
-              {stage: "Stage1", levels: [{name: "Level 1", stage_flex_category: "Content", stage_lockable: true}]},
+              {stage: "Stage1", levels: [{name: "Level 1", stage_flex_category: "Content", stage_lockable: true}]}
             ]
           },
           {
             stage: "Stage2",
             scriptlevels: [
-              {stage: "Stage2", levels: [{name: "Level 2"}]},
+              {stage: "Stage2", levels: [{name: "Level 2"}]}
             ]
           }
         ]
@@ -456,7 +456,7 @@ DSL
             scriptlevels: [
               {stage: "Stage1", levels: [{name: "Level 1"}]},
               {stage: "Stage1", levels: [{name: "Level 2"}], properties: {progression: 'Foo'}},
-              {stage: "Stage1", levels: [{name: "Level 3"}], properties: {progression: 'Foo'}},
+              {stage: "Stage1", levels: [{name: "Level 3"}], properties: {progression: 'Foo'}}
             ]
           }
         ]
@@ -544,13 +544,13 @@ DSL
                 stage: "Stage1",
                 levels: [
                   {name: "Level 5"},
-                  {name: "Level 5.1"},
+                  {name: "Level 5.1"}
                 ],
                 properties: {
                   variants: {"Level 5.1" => {active: false}},
-                  challenge: true,
-                },
-              },
+                  challenge: true
+                }
+              }
             ]
           }
         ]
@@ -576,7 +576,7 @@ DSL
             stage_extras_disabled: true,
             scriptlevels: [
               {stage: "Stage1", levels: [{name: "Level 1"}]},
-              {stage: "Stage1", levels: [{name: "Level 2"}]},
+              {stage: "Stage1", levels: [{name: "Level 2"}]}
             ]
           }
         ]
@@ -608,7 +608,7 @@ DSL
             stage: "Stage1",
             scriptlevels: [
               {stage: "Stage1", levels: [{name: "Level 1"}]},
-              {stage: "Stage1", levels: [{name: "Level 2"}]},
+              {stage: "Stage1", levels: [{name: "Level 2"}]}
             ]
           }
         ]

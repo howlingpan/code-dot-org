@@ -284,7 +284,7 @@ class ScriptsControllerTest < ActionController::TestCase
       script: {name: 'test-script-create'},
       script_text: '',
       visible_to_teachers: true,
-      has_lesson_plan: true,
+      has_lesson_plan: true
     }
 
     script = Script.find_by_name('test-script-create')
@@ -307,7 +307,7 @@ class ScriptsControllerTest < ActionController::TestCase
       id: script.id,
       script: {name: script.name},
       script_text: '',
-      has_lesson_plan: true,
+      has_lesson_plan: true
     }
 
     # Reload script, expect change

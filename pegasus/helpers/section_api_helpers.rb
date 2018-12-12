@@ -455,7 +455,7 @@ class DashboardSection
           pairing_allowed: pairing_allowed,
           hidden: false,
           created_at: created_at,
-          updated_at: created_at,
+          updated_at: created_at
         }
       )
     rescue Sequel::UniqueConstraintViolation
@@ -515,7 +515,7 @@ class DashboardSection
         row.merge(
           {
             location: "/v2/users/#{row[:id]}",
-            age: DashboardStudent.birthday_to_age(row[:birthday]),
+            age: DashboardStudent.birthday_to_age(row[:birthday])
           }
         )
       end
@@ -535,7 +535,7 @@ class DashboardSection
   def teachers
     @teachers ||= [{
       id: @row[:teacher_id],
-      location: "/v2/users/#{@row[:teacher_id]}",
+      location: "/v2/users/#{@row[:teacher_id]}"
     }]
   end
 
@@ -568,7 +568,7 @@ class DashboardSection
       code: @row[:code],
       stage_extras: @row[:stage_extras],
       pairing_allowed: @row[:pairing_allowed],
-      hidden: @row[:hidden],
+      hidden: @row[:hidden]
     }
   end
 

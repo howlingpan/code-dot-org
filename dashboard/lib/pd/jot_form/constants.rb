@@ -9,7 +9,7 @@ module Pd
         TYPE_RADIO = 'radio'.freeze,
         TYPE_CHECKBOX = 'checkbox'.freeze,
         TYPE_SCALE = 'scale'.freeze,
-        TYPE_MATRIX = 'matrix'.freeze,
+        TYPE_MATRIX = 'matrix'.freeze
       ].freeze
 
       IGNORED_QUESTION_TYPES = [

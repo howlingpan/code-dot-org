@@ -78,7 +78,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "A little bit",
         "Some",
         "Quite a bit",
-        "A tremendous amount",
+        "A tremendous amount"
       ],
 
       how_motivating: [
@@ -86,7 +86,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Slightly motivating",
         "Somewhat motivating",
         "Quite motivating",
-        "Extremely motivating",
+        "Extremely motivating"
       ],
 
       how_clearly_presented: [
@@ -94,7 +94,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Slightly clearly",
         "Somewhat clearly ",
         "Quite clearly",
-        "Extremely clearly",
+        "Extremely clearly"
       ],
 
       how_interesting: [
@@ -102,7 +102,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Slightly interesting",
         "Somewhat interesting",
         "Quite interesting",
-        "Extremely interesting",
+        "Extremely interesting"
       ],
 
       how_often_given_feedback: [
@@ -110,7 +110,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Once in a while",
         "Sometimes",
         "Often",
-        "All the time",
+        "All the time"
       ],
 
       help_quality: [
@@ -119,7 +119,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Somewhat good",
         "Quite good",
         "Extremely good",
-        "N/A - I didn’t need extra help",
+        "N/A - I didn’t need extra help"
       ],
 
       how_comfortable_asking_questions: [
@@ -127,7 +127,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Slightly comfortable",
         "Somewhat comfortable",
         "Quite comfortable",
-        "Extremely comfortable",
+        "Extremely comfortable"
       ],
 
       how_often_taught_new_things: [
@@ -135,7 +135,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Once in a while",
         "Sometimes",
         "Often",
-        "All the time",
+        "All the time"
       ],
 
       how_much_participated: [
@@ -191,7 +191,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
       give_permission_to_quote: [
         "Yes, I give Letron permission to quote me and use my name.",
         "Yes, I give Letron permission to quote me,  but I want to be anonymous. (Your name will not be used.)",
-        "No, I do not give Letron my permission.",
+        "No, I do not give Letron my permission."
       ],
 
       race: [
@@ -202,7 +202,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Native Hawaiian or other Pacific Islander",
         "American Indian/Alaska Native",
         "Other",
-        "Prefer not to say",
+        "Prefer not to say"
       ],
 
       highest_education: [
@@ -210,7 +210,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "Associate's degree",
         "Some college",
         "Bachelor's degree",
-        "Master's degree or higher",
+        "Master's degree or higher"
       ],
 
       degree_field: [
@@ -222,7 +222,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "English, Language Arts, Drama, or Social Sciences",
         "Mathematics",
         "Science",
-        "Other",
+        "Other"
       ],
 
       years_taught_stem: [
@@ -236,7 +236,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "7",
         "8",
         "9",
-        "10+",
+        "10+"
       ],
 
       years_taught_cs: [
@@ -250,7 +250,7 @@ class Pd::LocalSummerWorkshopSurvey < Pd::WorkshopSurvey
         "7",
         "8",
         "9",
-        "10+",
+        "10+"
       ],
 
       have_required_licenses: [

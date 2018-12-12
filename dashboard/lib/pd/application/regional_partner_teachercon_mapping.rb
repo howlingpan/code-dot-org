@@ -5,7 +5,7 @@ module Pd::Application
     # This is the 2018 mapping. We can update this for next year's applications.
     TEACHERCONS = [
       TC_PHOENIX = {city: 'Phoenix', dates: 'July 22 - 27, 2018'}.freeze,
-      TC_ATLANTA = {city: 'Atlanta', dates: 'June 17 - 22, 2018'}.freeze,
+      TC_ATLANTA = {city: 'Atlanta', dates: 'June 17 - 22, 2018'}.freeze
     ].freeze
 
     # Map regional partner name to TeacherCon

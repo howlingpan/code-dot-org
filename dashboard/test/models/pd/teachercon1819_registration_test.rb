@@ -5,7 +5,7 @@ class Pd::Teachercon1819RegistrationTest < ActiveSupport::TestCase
     registration = build(:pd_teachercon1819_registration, form_data: nil)
     refute registration.valid?
     assert_equal [
-      "Form data is required",
+      "Form data is required"
     ], registration.errors.full_messages
 
     registration.form_data = {}.to_json

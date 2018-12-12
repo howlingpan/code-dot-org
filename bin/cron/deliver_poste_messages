@@ -33,7 +33,7 @@ SMTP_OPTIONS = {
   user_name: CDO.poste_smtp_user,
   password: CDO.poste_smtp_password,
   authentication: 'plain',
-  enable_starttls_auto: true,
+  enable_starttls_auto: true
 }.freeze
 #SMTP_OPTIONS = {
 #  address:'localhost',
@@ -136,7 +136,7 @@ class Deliverer
           recipient: OpenStruct.new(recipient),
           encrypted_id: encrypted_id,
           unsubscribe_link: unsubscribe_url,
-          tracking_pixel: poste_url("/o/#{encrypted_id}"),
+          tracking_pixel: poste_url("/o/#{encrypted_id}")
         }
       )
     )
@@ -239,7 +239,7 @@ class Deliverer
       '.html' => TextRender::ErbEngine,
       '.md' => TextRender::MarkdownEngine,
       '.txt' => TextRender::MarkdownEngine,
-      '.yml' => TextRender::YamlEngine,
+      '.yml' => TextRender::YamlEngine
     }[File.extname(path).downcase]
 
     @templates[name] = Poste::Template.new IO.read(path), engine

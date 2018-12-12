@@ -84,7 +84,7 @@ module OmniauthCallbacksControllerTests
         uid: SecureRandom.uuid,
         provider: AuthenticationOption::POWERSCHOOL,
         info: {
-          name: nil,
+          name: nil
         },
         extra: {
           response: {
@@ -93,7 +93,7 @@ module OmniauthCallbacksControllerTests
                 '["http://openid.net/srv/ax/1.0", "value.ext0"]': user_type,
                 '["http://openid.net/srv/ax/1.0", "value.ext1"]': 'test_email@example.com',
                 '["http://openid.net/srv/ax/1.0", "value.ext2"]': 'firstname',
-                '["http://openid.net/srv/ax/1.0", "value.ext3"]': 'lastname',
+                '["http://openid.net/srv/ax/1.0", "value.ext3"]': 'lastname'
               }
             }
           }

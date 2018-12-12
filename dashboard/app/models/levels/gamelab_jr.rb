@@ -45,15 +45,15 @@ class GamelabJr < Gamelab
         properties: {
           show_debug_watch: true,
           block_pools: [
-            "gamelab",
+            "gamelab"
           ],
           helper_libraries: [
-            "GameLabJr",
+            "GameLabJr"
           ],
           use_default_sprites: true,
           hide_animation_mode: true,
           show_type_hints: true,
-          include_shared_functions: true,
+          include_shared_functions: true
         }
       )
     )

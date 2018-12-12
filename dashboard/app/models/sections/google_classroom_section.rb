@@ -36,7 +36,7 @@ class GoogleClassroomSection < OmniAuthSection
         uid: student.user_id,
         provider: 'google_oauth2',
         info: {
-          name: student.profile.name.full_name,
+          name: student.profile.name.full_name
         },
       )
     end

@@ -100,7 +100,7 @@ module Pd::Application
 
     PROGRAMS = {
       csd: 'Computer Science Discoveries (appropriate for 6th - 10th grade)',
-      csp: 'Computer Science Principles (appropriate for 9th - 12th grade, and can be implemented as an AP or introductory course)',
+      csp: 'Computer Science Principles (appropriate for 9th - 12th grade, and can be implemented as an AP or introductory course)'
     }.freeze
     PROGRAM_OPTIONS = PROGRAMS.values
 
@@ -169,7 +169,7 @@ module Pd::Application
         does_school_require_cs_license: [
           YES,
           NO,
-          "I'm not sure",
+          "I'm not sure"
         ],
 
         have_cs_license: [
@@ -677,7 +677,7 @@ module Pd::Application
             diversity_recruitment: yes_no_response_to_yes_no_score(responses[:diversity_recruitment]),
             free_lunch_percent: responses[:free_lunch_percent].to_f >= 50 ? 5 : 0,
             underrepresented_minority_percent:  responses[:underrepresented_minority_percent].to_f >= 50 ? 5 : 0,
-            wont_replace_existing_course: responses[:wont_replace_existing_course].try(:start_with?, NO) ? 5 : nil,
+            wont_replace_existing_course: responses[:wont_replace_existing_course].try(:start_with?, NO) ? 5 : nil
           }
         )
       elsif responses[:principal_approval] == NO

@@ -425,7 +425,7 @@ class RegistrationsController < Devise::RegistrationsController
       user_id: current_user.id,
       data_json: {
         user_type: current_user.user_type,
-        dependent_user_ids: dependent_users.pluck(:id),
+        dependent_user_ids: dependent_users.pluck(:id)
       }.to_json
     )
 
@@ -438,7 +438,7 @@ class RegistrationsController < Devise::RegistrationsController
         user_id: user[:id],
         data_json: {
           user_type: user[:user_type],
-          deleted_by_id: current_user.id,
+          deleted_by_id: current_user.id
         }.to_json
       )
     end

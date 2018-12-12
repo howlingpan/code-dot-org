@@ -66,7 +66,7 @@ def upload_i18n_stats
     ScriptConstants::COURSE1_NAME,
     ScriptConstants::COURSE2_NAME,
     ScriptConstants::COURSE3_NAME,
-    ScriptConstants::COURSE4_NAME,
+    ScriptConstants::COURSE4_NAME
   ].map do |name|
     Script.find_by(name: name)
   end

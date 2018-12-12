@@ -20,7 +20,7 @@ class MultiLevelTest < ActiveSupport::TestCase
       properties: {'answers': [
         {"text" => "answer 1", "correct" => false},
         {"text" => "answer 2", "correct" => true},
-        {"text" => "answer 2", "correct" => true},
+        {"text" => "answer 2", "correct" => true}
       ]}
     )
     assert_equal(level.correct_answer_indexes_array, [1, 2])

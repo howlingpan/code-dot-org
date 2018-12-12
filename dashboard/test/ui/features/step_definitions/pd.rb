@@ -426,7 +426,7 @@ def create_fake_daily_survey_results(workshop)
         '3': ['None', 'Some basic messing around', 'Formal education', 'I am l33t h4xx0r'][x % 4],
         '4': ['Bill Nye', 'Ada Lovelace', 'Hadi', 'Hour of Code', 'Dunno'][x % 5],
         '5': user.id,
-        '6': workshop.id,
+        '6': workshop.id
       }.to_json
     )
 
@@ -543,7 +543,7 @@ And(/^I create a workshop for course "([^"]*)" ([a-z]+) by "([^"]*)" with (\d+) 
 
       [
         Api::V1::Pd::WorkshopScoreSummarizer::FACILITATOR_EFFECTIVENESS_QUESTIONS,
-        Api::V1::Pd::WorkshopScoreSummarizer::TEACHER_ENGAGEMENT_QUESTIONS,
+        Api::V1::Pd::WorkshopScoreSummarizer::TEACHER_ENGAGEMENT_QUESTIONS
       ].flatten.each do |question|
         responses[question] = PdWorkshopSurvey::OPTIONS[question].last
       end

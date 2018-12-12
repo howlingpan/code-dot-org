@@ -9,7 +9,7 @@ OLD_PREFIXES = [
   'survey_ethnicity',
   'survey2016',
   'ethnicity',
-  'survey',
+  'survey'
 ].freeze
 NEW_PREFIX = 'diversity'.freeze
 FOODSTAMPS = 'foodstamps'.freeze

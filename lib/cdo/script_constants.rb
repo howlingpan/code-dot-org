@@ -23,7 +23,7 @@ module ScriptConstants
       CSP_2017 = 'csp-2017'.freeze,
       CSP_2018 = 'csp-2018'.freeze,
       CSD_2017 = 'csd-2017'.freeze,
-      CSD_2018 = 'csd-2018'.freeze,
+      CSD_2018 = 'csd-2018'.freeze
     ],
     csf: [
       COURSEA_NAME = 'coursea-2017'.freeze,
@@ -33,7 +33,7 @@ module ScriptConstants
       COURSEE_NAME = 'coursee-2017'.freeze,
       COURSEF_NAME = 'coursef-2017'.freeze,
       EXPRESS_NAME = 'express-2017'.freeze,
-      PRE_READER_EXPRESS_NAME = 'pre-express-2017'.freeze,
+      PRE_READER_EXPRESS_NAME = 'pre-express-2017'.freeze
     ],
     csf_2018: [
       COURSEA_2018_NAME = 'coursea-2018'.freeze,
@@ -43,7 +43,7 @@ module ScriptConstants
       COURSEE_2018_NAME = 'coursee-2018'.freeze,
       COURSEF_2018_NAME = 'coursef-2018'.freeze,
       EXPRESS_2018_NAME = 'express-2018'.freeze,
-      PRE_READER_EXPRESS_2018_NAME = 'pre-express-2018'.freeze,
+      PRE_READER_EXPRESS_2018_NAME = 'pre-express-2018'.freeze
     ],
     hoc: [
       # Note that now multiple scripts can be an 'hour of code' script.
@@ -77,12 +77,12 @@ module ScriptConstants
       COURSE1_NAME = 'course1'.freeze,
       COURSE2_NAME = 'course2'.freeze,
       COURSE3_NAME = 'course3'.freeze,
-      COURSE4_NAME = 'course4'.freeze,
+      COURSE4_NAME = 'course4'.freeze
     ],
     math: [
       ALGEBRA_NAME = 'algebra'.freeze,
       ALGEBRA_A_NAME = 'AlgebraA'.freeze,
-      ALGEBRA_B_NAME = 'AlgebraB'.freeze,
+      ALGEBRA_B_NAME = 'AlgebraB'.freeze
     ],
     research_studies: [
       HOC_IMPACT_STUDY_NAME = 'hoc-impact-study'.freeze,
@@ -94,7 +94,7 @@ module ScriptConstants
       COURSEC_DRAFT_NAME = 'coursec-draft'.freeze,
       COURSED_DRAFT_NAME = 'coursed-draft'.freeze,
       COURSEE_DRAFT_NAME = 'coursee-draft'.freeze,
-      COURSEF_DRAFT_NAME = 'coursef-draft'.freeze,
+      COURSEF_DRAFT_NAME = 'coursef-draft'.freeze
     ],
     csd_2018: [
       CSD1_2018_NAME = 'csd1-2018'.freeze,
@@ -102,7 +102,7 @@ module ScriptConstants
       CSD3_2018_NAME = 'csd3-2018'.freeze,
       CSD4_2018_NAME = 'csd4-2018'.freeze,
       CSD5_2018_NAME = 'csd5-2018'.freeze,
-      CSD6_2018_NAME = 'csd6-2018'.freeze,
+      CSD6_2018_NAME = 'csd6-2018'.freeze
     ],
     csd: [
       CSD1_NAME = 'csd1-2017'.freeze,
@@ -110,7 +110,7 @@ module ScriptConstants
       CSD3_NAME = 'csd3-2017'.freeze,
       CSD4_NAME = 'csd4-2017'.freeze,
       CSD5_NAME = 'csd5-2017'.freeze,
-      CSD6_NAME = 'csd6-2017'.freeze,
+      CSD6_NAME = 'csd6-2017'.freeze
     ],
     csp_2018: [
       CSP1_2018_NAME = 'csp1-2018'.freeze,
@@ -120,7 +120,7 @@ module ScriptConstants
       CSP_EXPLORE_2018_NAME = 'csp-explore-2018'.freeze,
       CSP5_2018_NAME = 'csp5-2018'.freeze,
       CSP_CREATE_2018_NAME = 'csp-create-2018'.freeze,
-      CSP_POSTAP_2018_NAME = 'csppostap-2018'.freeze,
+      CSP_POSTAP_2018_NAME = 'csppostap-2018'.freeze
     ],
     csp: [
       CSP_UNIT1_NAME = 'cspunit1'.freeze,
@@ -128,7 +128,7 @@ module ScriptConstants
       CSP_UNIT3_NAME = 'cspunit3'.freeze,
       CSP_UNIT4_NAME = 'cspunit4'.freeze,
       CSP_UNIT5_NAME = 'cspunit5'.freeze,
-      CSP_UNIT6_NAME = 'cspunit6'.freeze,
+      CSP_UNIT6_NAME = 'cspunit6'.freeze
     ],
     csp17: [
       CSP17_UNIT1_NAME = 'csp1-2017'.freeze,
@@ -140,15 +140,15 @@ module ScriptConstants
       CSP17_EXPLORE_NAME = 'csp-explore-2017'.freeze,
       CSP17_CREATE_NAME = 'csp-create-2017'.freeze,
       CSP17_POSTAP_NAME = 'csppostap-2017'.freeze,
-      CSP17_SURVEY_NAME = 'csp-post-survey'.freeze,
+      CSP17_SURVEY_NAME = 'csp-post-survey'.freeze
     ],
     cspexams: [
       CSP_ASSESSMENT_NAME = 'cspassessment'.freeze,
       CSP_EXAM1_NAME = 'cspexam1-mWU7ilDYM9'.freeze,
-      CSP_EXAM2_NAME = 'cspexam2-AKwgAh1ac5'.freeze,
+      CSP_EXAM2_NAME = 'cspexam2-AKwgAh1ac5'.freeze
     ],
     twenty_hour: [
-      TWENTY_HOUR_NAME = '20-hour'.freeze,
+      TWENTY_HOUR_NAME = '20-hour'.freeze
     ],
     flappy: [FLAPPY_NAME],
     minecraft: [
@@ -159,7 +159,7 @@ module ScriptConstants
     ],
     tts: [
       TTS_NAME = 'allthettsthings'.freeze
-    ],
+    ]
   }.freeze
 
   DEFAULT_VERSION_YEAR = '2017'
@@ -225,7 +225,7 @@ module ScriptConstants
       script_name: course_or_script[:name],
       category: first_category,
       position: ScriptConstants.position_in_category(course_or_script[:name], first_category),
-      category_priority: ScriptConstants.category_priority(first_category),
+      category_priority: ScriptConstants.category_priority(first_category)
     }
   end
 

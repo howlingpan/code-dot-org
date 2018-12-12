@@ -182,7 +182,7 @@ class ScriptLevelsController < ApplicationController
     @stage_extras = {
       stage_number: @stage.relative_position,
       next_level_path: @stage.next_level_path_for_stage_extras(current_user),
-      bonus_levels: @script.get_bonus_script_levels(@stage),
+      bonus_levels: @script.get_bonus_script_levels(@stage)
     }.camelize_keys
 
     render 'scripts/stage_extras'

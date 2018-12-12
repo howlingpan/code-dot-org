@@ -34,7 +34,7 @@ class VarnishHelperTest < Minitest::Test
       # Maximum path length
       '/' + ('a' * 260) + '/*',
       '/[]/*',
-      '/()/*',
+      '/()/*'
     ].map do |path|
       assert_raises(ArgumentError, "Path did not raise error: #{path}") {paths_to_regex path}
     end

@@ -36,14 +36,14 @@ class Pd::FacilitatorTeacherconAttendance < ActiveRecord::Base
     unless self["tc#{teachercon}_arrive"].nil?
       dates['teachercon'] = {
         arrive: self["tc#{teachercon}_arrive"].strftime(DATE_FORMAT),
-        depart: self["tc#{teachercon}_depart"].strftime(DATE_FORMAT),
+        depart: self["tc#{teachercon}_depart"].strftime(DATE_FORMAT)
       }
     end
 
     unless self["fit#{teachercon}_arrive"].nil?
       dates['training'] = {
         arrive: self["fit#{teachercon}_arrive"].strftime(DATE_FORMAT),
-        depart: self["fit#{teachercon}_depart"].strftime(DATE_FORMAT),
+        depart: self["fit#{teachercon}_depart"].strftime(DATE_FORMAT)
       }
     end
 

@@ -677,7 +677,7 @@ module Pd::Application
             principal_approval: YES,
             principal_plan_to_teach: YES,
             principal_schedule_confirmed: YES,
-            principal_diversity_recruitment: YES,
+            principal_diversity_recruitment: YES
           },
           bonus_points_scores: {
             replace_existing: 5,
@@ -687,7 +687,7 @@ module Pd::Application
             underrepresented_minority_percent: 5,
             principal_implementation: 2,
             cs_terms: 2
-          },
+          }
         }.deep_stringify_keys,
         JSON.parse(application.response_scores)
       )
@@ -748,7 +748,7 @@ module Pd::Application
             race: 2,
             free_lunch_percent: 5,
             underrepresented_minority_percent: 5
-          },
+          }
         }.deep_stringify_keys,
         JSON.parse(application.response_scores)
       )
@@ -783,7 +783,7 @@ module Pd::Application
             cs_total_course_hours: YES,
             plan_to_teach: YES,
             committed: YES,
-            willing_to_travel: YES,
+            willing_to_travel: YES
 
           },
           meets_scholarship_criteria_scores: {
@@ -795,7 +795,7 @@ module Pd::Application
             replace_existing: 5,
             taught_in_past: 2,
             race: 2
-          },
+          }
         }.deep_stringify_keys,
         JSON.parse(application.response_scores)
       )
@@ -845,7 +845,7 @@ module Pd::Application
             principal_approval: NO,
             principal_plan_to_teach: NO,
             principal_schedule_confirmed: NO,
-            principal_diversity_recruitment: NO,
+            principal_diversity_recruitment: NO
           },
           bonus_points_scores: {
             replace_existing: 0,
@@ -855,7 +855,7 @@ module Pd::Application
             underrepresented_minority_percent: 0,
             cs_terms: 0,
             principal_implementation: 0
-          },
+          }
         }.deep_stringify_keys,
         JSON.parse(application.response_scores)
       )
@@ -915,7 +915,7 @@ module Pd::Application
             race: 0,
             free_lunch_percent: 0,
             underrepresented_minority_percent: 0
-          },
+          }
         }.deep_stringify_keys,
         JSON.parse(application.response_scores)
       )

@@ -2346,7 +2346,7 @@ class DeleteAccountsHelperTest < ActionView::TestCase
         processed_data: {
           name: use_name
         }.to_json,
-        processed_at: DateTime.now,
+        processed_at: DateTime.now
       }
     )
     yield form_id
@@ -2373,7 +2373,7 @@ class DeleteAccountsHelperTest < ActionView::TestCase
           country: 'USA',
           postal_code: '67430',
           latitude: 39.509222,
-          longitude: -98.433800,
+          longitude: -98.433800
         }
       )
       yield form_geo_id

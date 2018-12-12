@@ -21,7 +21,7 @@ class Pd::PreWorkshopSurveyTest < ActiveSupport::TestCase
 
     refute survey.valid?
     assert_equal [
-      'Form data is required',
+      'Form data is required'
     ], survey.errors.full_messages
 
     survey.form_data = {}.to_json

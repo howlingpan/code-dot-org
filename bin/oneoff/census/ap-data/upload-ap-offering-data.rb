@@ -10,7 +10,7 @@ ap_courses = Census::ApCsOffering::COURSES.values
 options = {
   filename: nil,
   course: nil,
-  school_year: nil,
+  school_year: nil
 }
 OptionParser.new do |opts|
   opts.banner = "Usage: #{File.basename(__FILE__)} [options]"

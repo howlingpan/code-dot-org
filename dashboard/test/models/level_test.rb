@@ -60,7 +60,7 @@ class LevelTest < ActiveSupport::TestCase
     json = [[
       {tileType: 1, value: 1},
       {tileType: 1, value: 2},
-      {tileType: 1, value: 3},
+      {tileType: 1, value: 3}
     ]].to_json
 
     assert_nothing_raised do
@@ -538,7 +538,7 @@ EOS
         'callouts' => {
           "#{level_name}_callout" => {
             "first": "first test markdown",
-            "second": "second test markdown",
+            "second": "second test markdown"
           }
         }
       }
@@ -552,7 +552,7 @@ EOS
       callout_json: JSON.generate(
         [
           {"callout_text": "first english markdown", "localization_key": "first"},
-          {"callout_text": "second english markdown", "localization_key": "second"},
+          {"callout_text": "second english markdown", "localization_key": "second"}
         ]
       )
     )
@@ -574,7 +574,7 @@ EOS
       callout_json: JSON.generate(
         [
           {"callout_text": "first english markdown", "localization_key": "first"},
-          {"callout_text": "second english markdown", "localization_key": "second"},
+          {"callout_text": "second english markdown", "localization_key": "second"}
         ]
       )
     )

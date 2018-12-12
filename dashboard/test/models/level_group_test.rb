@@ -366,35 +366,35 @@ level 'level7_copy'"
               {result: "Free response from student 3"}
             ],
             answer_texts: nil,
-            question_index: 0,
+            question_index: 0
           },
           {
             type: "multi",
             question: "question text",
             results: [{}, {}, {}, {}, {}],
             answer_texts: ["answer1", "answer2", "answer3", "answer4"],
-            question_index: 1,
+            question_index: 1
           },
           {
             type: "multi",
             question: "question text",
             results: [{}, {}, {}, {}, {}],
             answer_texts: ["answer1", "answer2", "answer3", "answer4"],
-            question_index: 2,
+            question_index: 2
           },
           {
             type: "multi",
             question: "question text",
             results: [{}, {}, {}, {}, {}],
             answer_texts: ["answer1", "answer2", "answer3", "answer4"],
-            question_index: 3,
+            question_index: 3
           },
           {
             type: "multi",
             question: "question text",
             results: [{}, {}, {}, {}, {}],
             answer_texts: ["answer1", "answer2", "answer3", "answer4"],
-            question_index: 4,
+            question_index: 4
           }
         ]
       }

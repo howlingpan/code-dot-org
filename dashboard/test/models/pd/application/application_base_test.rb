@@ -78,7 +78,7 @@ module Pd::Application
       # Also handles nil values
       application.response_scores = {
         q1: 'Yes',
-        q2: nil,
+        q2: nil
       }.to_json
       assert_nil application.total_score
 
@@ -97,7 +97,7 @@ module Pd::Application
         q2: nil,
         q3: '1',
         q4: 2,
-        q5: '0',
+        q5: '0'
       }.to_json
       assert_equal 3, application.total_score
     end
@@ -136,7 +136,7 @@ module Pd::Application
       assert_equal(
         [
           'An answer',
-          'Other: my explanation',
+          'Other: my explanation'
         ],
         full_answer
       )
@@ -156,7 +156,7 @@ module Pd::Application
       assert_equal(
         [
           'A supplied answer',
-          'A custom answer: my custom explanation',
+          'A custom answer: my custom explanation'
         ],
         full_answer
       )
@@ -187,7 +187,7 @@ module Pd::Application
         regular_string_question: 'regular string answer',
         regular_array_question: ['regular array answer'],
         string_question_with_extra: 'Other: my other string answer',
-        array_question_with_extra: ['Other: my other array answer'],
+        array_question_with_extra: ['Other: my other array answer']
       }
 
       assert_equal expected_full_answers, application.full_answers
@@ -212,14 +212,14 @@ module Pd::Application
       form_data = {
         regular_string_question: 'regular string answer',
         string_question_with_extra: 'Other:',
-        string_question_with_extra_other: 'my other string answer',
+        string_question_with_extra_other: 'my other string answer'
       }
       application.stubs(sanitize_form_data_hash: form_data)
       ApplicationBase.stubs(filtered_labels: form_data)
 
       expected_full_answers = {
         regular_string_question: 'regular string answer',
-        string_question_with_extra: 'Other: my other string answer',
+        string_question_with_extra: 'Other: my other string answer'
       }
 
       assert_nil application.instance_variable_get(:@full_answers)

@@ -34,7 +34,7 @@ class RedisSlaveReadGemTest < Minitest::Test
           "read_replicas" => [
             "redis://netsim-1-001",
             "redis://netsim-1-002",
-            "redis://netsim-1-003",
+            "redis://netsim-1-003"
           ]
         }
       ],
@@ -69,7 +69,7 @@ class RedisSlaveReadGemTest < Minitest::Test
           "read_replicas" => [
             "redis://netsim-1-001",
             "redis://netsim-1-002",
-            "redis://netsim-1-003",
+            "redis://netsim-1-003"
           ]
         }
       ],

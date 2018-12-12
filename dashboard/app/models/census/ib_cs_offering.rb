@@ -22,7 +22,7 @@ class Census::IbCsOffering < ApplicationRecord
   # http://www.ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/
   LEVELS = {
     HL: "HL",
-    SL: "SL",
+    SL: "SL"
   }.freeze
 
   validates_presence_of :level

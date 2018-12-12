@@ -160,7 +160,7 @@ module RegistrationsControllerTests
         user: {
           email: new_email,
           current_password: 'password',
-          email_preference_opt_in: 'yes',
+          email_preference_opt_in: 'yes'
         }
       }
       assert_response :success
@@ -181,7 +181,7 @@ module RegistrationsControllerTests
         user: {
           email: new_email,
           current_password: 'password',
-          email_preference_opt_in: 'no',
+          email_preference_opt_in: 'no'
         }
       }
       assert_response :success

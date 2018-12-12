@@ -173,7 +173,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
 
   test 'logged out cannot create a section' do
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
     assert_response :forbidden
   end
@@ -181,7 +181,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'student cannot create a section' do
     sign_in @student
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
     assert_response :forbidden
   end
@@ -189,7 +189,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'teacher can create a section' do
     sign_in @teacher
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
     assert_response :success
     refute_nil returned_section
@@ -198,7 +198,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'creating a section returns the section summary' do
     sign_in @teacher
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
 
     # See section_test.rb for tests covering the shape of the section summary.
@@ -209,7 +209,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'current user owns the created section' do
     sign_in @teacher
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
 
     assert_equal @teacher.name, returned_json['teacherName']
@@ -220,7 +220,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      user_id: (@teacher.id + 1),
+      user_id: (@teacher.id + 1)
     }
     assert_response :success
     # TODO: Better to fail here?
@@ -233,7 +233,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      name: 'Glulx',
+      name: 'Glulx'
     }
 
     assert_equal 'Glulx', returned_json['name']
@@ -244,7 +244,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      name: '',
+      name: ''
     }
 
     assert_equal 'Untitled Section', returned_json['name']
@@ -255,7 +255,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     test "can set login_type to #{desired_type} during creation" do
       sign_in @teacher
       post :create, params: {
-        login_type: desired_type,
+        login_type: desired_type
       }
 
       assert_equal desired_type, returned_json['login_type']
@@ -267,7 +267,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     [nil, '', 'none', 'golmac'].each do |empty_type|
       post :create, params: {
-        login_type: empty_type,
+        login_type: empty_type
       }
       assert_response :bad_request
     end
@@ -278,7 +278,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
       sign_in @teacher
       post :create, params: {
         login_type: Section::LOGIN_TYPE_EMAIL,
-        grade: desired_grade,
+        grade: desired_grade
       }
       assert_equal desired_grade, returned_section.grade
     end
@@ -288,7 +288,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      grade: nil,
+      grade: nil
     }
     assert_nil returned_section.grade
   end
@@ -297,7 +297,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      grade: '13',
+      grade: '13'
     }
     assert_response :success
     # TODO: Better to fail here?
@@ -308,7 +308,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'creates a six-letter section code' do
     sign_in @teacher
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
     assert_response :success
 
@@ -333,7 +333,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     [true, false].each do |desired_value|
       post :create, params: {
         login_type: Section::LOGIN_TYPE_EMAIL,
-        stage_extras: desired_value,
+        stage_extras: desired_value
       }
 
       assert_equal desired_value, returned_json['stage_extras']
@@ -344,7 +344,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'default stage_extras value is FALSE' do
     sign_in @teacher
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
 
     assert_equal false, returned_json['stage_extras']
@@ -355,7 +355,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      stage_extras: 'KREBF',
+      stage_extras: 'KREBF'
     }
     assert_response :success
     # TODO: Better to fail here?
@@ -369,7 +369,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     [true, false].each do |desired_value|
       post :create, params: {
         login_type: Section::LOGIN_TYPE_EMAIL,
-        pairing_allowed: desired_value,
+        pairing_allowed: desired_value
       }
 
       assert_equal desired_value, returned_json['pairing_allowed']
@@ -380,7 +380,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test 'default pairing_allowed value is TRUE' do
     sign_in @teacher
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
 
     assert_equal true, returned_json['pairing_allowed']
@@ -391,7 +391,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      pairing_allowed: 'KREBF',
+      pairing_allowed: 'KREBF'
     }
     assert_response :success
     # TODO: Better to fail here?
@@ -404,7 +404,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      course_id: @csp_course.id,
+      course_id: @csp_course.id
     }
 
     assert_equal @csp_course.id, returned_json['course_id']
@@ -430,7 +430,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in @teacher
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      script: {id: @script.id},
+      script: {id: @script.id}
     }
 
     assert_equal @script.id, returned_json['script']['id']
@@ -459,7 +459,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
       course_id: @csp_course.id,
-      script: {id: @csp_script.id},
+      script: {id: @csp_script.id}
     }
 
     assert_equal @csp_course.id, returned_json['course_id']
@@ -477,7 +477,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
 
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      script: {id: @script.id},
+      script: {id: @script.id}
     }
     assert_response :success
     assert_includes teacher.scripts, @csp_script
@@ -493,7 +493,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
 
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      script: {id: @script.id},
+      script: {id: @script.id}
     }
     assert_response :success
     assert_equal 1, teacher.scripts.size
@@ -506,7 +506,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
 
     post :create, params: {
       login_type: Section::LOGIN_TYPE_EMAIL,
-      course_id: @csp_course.id,
+      course_id: @csp_course.id
     }
     assert_response :success
     assert_equal 0, @teacher.scripts.size
@@ -517,7 +517,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     assert_equal 0, @teacher.scripts.size
 
     post :create, params: {
-      login_type: Section::LOGIN_TYPE_EMAIL,
+      login_type: Section::LOGIN_TYPE_EMAIL
     }
     assert_response :success
     assert_equal 0, @teacher.scripts.size
@@ -613,7 +613,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
 
     post :update, params: {
       id: section.id,
-      course_id: 1,
+      course_id: 1
     }
     section.reload
     assert_response :success
@@ -628,7 +628,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
 
     post :update, params: {
       id: section.id,
-      script_id: 1,
+      script_id: 1
     }
     section.reload
     assert_response :success
@@ -641,7 +641,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     refute_nil SectionHiddenScript.find_by(script: @csp_script, section: @section)
     post :update, params: {
       id: @section.id,
-      script_id: @csp_script.id,
+      script_id: @csp_script.id
     }
     assert_nil SectionHiddenScript.find_by(script: @csp_script, section: @section)
   end
@@ -651,7 +651,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in other_teacher
     post :update, params: {
       id: @section.id,
-      course_id: @course.id,
+      course_id: @course.id
     }
     assert_response :forbidden
   end
@@ -659,7 +659,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test "update: cannot update section if not logged in " do
     post :update, params: {
       id: @section.id,
-      course_id: @course.id,
+      course_id: @course.id
     }
     assert_response :forbidden
   end
@@ -818,7 +818,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
     sign_in other_teacher
     post :update_sharing_disabled, params: {
       id: @section.id,
-      sharing_disabled: true,
+      sharing_disabled: true
     }
     assert_response :forbidden
   end
@@ -826,7 +826,7 @@ class Api::V1::SectionsControllerTest < ActionController::TestCase
   test "update_sharing_disabled: cannot update section if not logged in " do
     post :update_sharing_disabled, params: {
       id: @section.id,
-      sharing_disabled: true,
+      sharing_disabled: true
     }
     assert_response :forbidden
   end

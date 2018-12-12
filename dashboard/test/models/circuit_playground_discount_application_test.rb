@@ -95,7 +95,7 @@ class CircuitPlaygroundDiscountApplicationTest < ActiveSupport::TestCase
       expiration: nil,
       is_pd_eligible: true,
       is_progress_eligible: false,
-      admin_set_status: false,
+      admin_set_status: false
     }
     assert_equal expected, CircuitPlaygroundDiscountApplication.application_status(teacher)
   end
@@ -114,7 +114,7 @@ class CircuitPlaygroundDiscountApplicationTest < ActiveSupport::TestCase
       expiration: nil,
       is_pd_eligible: true,
       is_progress_eligible: true,
-      admin_set_status: false,
+      admin_set_status: false
     }
     assert_equal expected, CircuitPlaygroundDiscountApplication.application_status(teacher)
   end
@@ -134,7 +134,7 @@ class CircuitPlaygroundDiscountApplicationTest < ActiveSupport::TestCase
       expiration: nil,
       is_pd_eligible: true,
       is_progress_eligible: true,
-      admin_set_status: true,
+      admin_set_status: true
     }
     assert_equal expected, CircuitPlaygroundDiscountApplication.application_status(teacher)
   end
@@ -161,7 +161,7 @@ class CircuitPlaygroundDiscountApplicationTest < ActiveSupport::TestCase
       unit_6_intention: nil,
       full_discount: nil,
       admin_set_status: nil,
-      discount_code: nil,
+      discount_code: nil
     }
     assert_equal expected, CircuitPlaygroundDiscountApplication.admin_application_status(teacher)
   end
@@ -186,7 +186,7 @@ class CircuitPlaygroundDiscountApplicationTest < ActiveSupport::TestCase
     expected_application_school = {
       id: nil,
       name: nil,
-      high_needs: nil,
+      high_needs: nil
     }
     assert_equal expected_application_school, admin_status[:application_school]
   end
@@ -215,7 +215,7 @@ class CircuitPlaygroundDiscountApplicationTest < ActiveSupport::TestCase
     expected_application_school = {
       id: school2.id,
       name: school2.name,
-      high_needs: false,
+      high_needs: false
     }
     assert_equal expected_application_school, admin_status[:application_school]
   end

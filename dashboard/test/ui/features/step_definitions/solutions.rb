@@ -11,7 +11,7 @@ PUZZLE_SOLUTIONS = {
     And I drag block "1" to block "25"
     And I drag block "2" to block "26"
     And I drag block "1" to block "27"
-  },
+  }
 }
 
 def append_noautoplay(url_string)

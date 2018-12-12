@@ -52,7 +52,7 @@ FIELD_MAPPING = {
 }.freeze
 
 NEW_FIELD_DEFAULTS = {
-  "whoFacilitated" => [],
+  "whoFacilitated" => []
 }.freeze
 
 # Custom class for creating Pd::WorkshopSurvey entries from older data that

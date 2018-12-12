@@ -68,7 +68,7 @@ STATES_WITH_DC = [
   'Washington',
   'West Virginia',
   'Wisconsin',
-  'Wyoming',
+  'Wyoming'
 ].freeze
 
 # An array of hashes, with each hash specifying the years to which it applies

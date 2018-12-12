@@ -77,9 +77,9 @@ class Pd::MimeoRestClientTest < ActiveSupport::TestCase
         {
           Name: @settings[:document_name],
           StoreItemReference: {
-            Id: @settings[:document_id],
+            Id: @settings[:document_id]
           },
-          Quantity: 1,
+          Quantity: 1
         }
       ],
       Recipients: [

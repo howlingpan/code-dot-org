@@ -38,7 +38,7 @@ class CleverSection < OmniAuthSection
         provider: 'clever',
         info: {
           name: data['name'],
-          dob: data['dob'],
+          dob: data['dob']
         },
       )
     end

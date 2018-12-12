@@ -266,7 +266,7 @@ class Course < ApplicationRecord
       name: name,
       title: I18n.t("data.course.name.#{name}.title", default: ''),
       description: I18n.t("data.course.name.#{name}.description_short", default: ''),
-      link: Rails.application.routes.url_helpers.course_path(self),
+      link: Rails.application.routes.url_helpers.course_path(self)
     }
   end
 

@@ -172,7 +172,7 @@ class SchoolInfoDeduplicatorTest < ActiveSupport::TestCase
     existing = create :school_info_us_private, validation_type: SchoolInfo::VALIDATION_NONE
     new_attrs = {
       country: existing.country,
-      validation_type: SchoolInfo::VALIDATION_NONE,
+      validation_type: SchoolInfo::VALIDATION_NONE
     }
     duplicate = deduplicator.get_duplicate_school_info(new_attrs)
     refute duplicate, "Did not expect to find a school info matching #{new_attrs}. Found #{duplicate.inspect}"

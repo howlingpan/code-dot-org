@@ -185,7 +185,7 @@ class Game < ActiveRecord::Base
       CRAFT,
       GAMELAB,
       WEBLAB,
-      DANCE,
+      DANCE
     ].include? app
   end
 

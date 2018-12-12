@@ -12,7 +12,7 @@ module Pd
       ACADEMIC_YEAR_3_CATEGORY = 'academic_year_3',
       ACADEMIC_YEAR_4_CATEGORY = 'academic_year_4',
       ACADEMIC_YEAR_1_2_CATEGORY = 'academic_year_1_2',
-      ACADEMIC_YEAR_3_4_CATEGORY = 'academic_year_3_4',
+      ACADEMIC_YEAR_3_4_CATEGORY = 'academic_year_3_4'
     ]
 
     CATEGORY_MAP = {
@@ -31,7 +31,7 @@ module Pd
       SUBJECT_CSD_UNIT_6 => ACADEMIC_YEAR_4_CATEGORY,
       SUBJECT_CSD_UNITS_1_3 => ACADEMIC_YEAR_1_2_CATEGORY,
       SUBJECT_CSD_UNITS_4_6 => ACADEMIC_YEAR_3_4_CATEGORY,
-      SUBJECT_CSD_TEACHER_CON => LOCAL_CATEGORY,
+      SUBJECT_CSD_TEACHER_CON => LOCAL_CATEGORY
     }
   end
 end

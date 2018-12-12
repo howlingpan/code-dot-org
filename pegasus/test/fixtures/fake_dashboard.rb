@@ -103,17 +103,17 @@ module FakeDashboard
     SCRIPT_CSP1 = {
       id: 31,
       name: 'csp1-2017',
-      hidden: 0,
+      hidden: 0
     },
     SCRIPT_CSP2 = {
       id: 32,
       name: 'csp2-2017',
-      hidden: 0,
+      hidden: 0
     },
     SCRIPT_CSP3 = {
       id: 34,
       name: 'csp3-2017',
-      hidden: 0,
+      hidden: 0
     },
     # put the hidden scripts at the end and give them higher ids, to make
     # unit testing slightly easier.
@@ -126,7 +126,7 @@ module FakeDashboard
       id: 53,
       name: 'csp2-alt',
       hidden: 1
-    },
+    }
   ]
 
   COURSE_SCRIPTS = [
@@ -151,7 +151,7 @@ module FakeDashboard
       course_id: COURSE_CSP[:id],
       script_id: SCRIPT_CSP3[:id],
       position: 3
-    },
+    }
   ]
 
   EXPERIMENTS = [
@@ -239,7 +239,7 @@ module FakeDashboard
     def create_table(name, options)
       if (::FakeDashboard::FAKE_DB.keys.map(&:to_s) + [
         ActiveRecord::Base.schema_migrations_table_name,
-        ActiveRecord::Base.internal_metadata_table_name,
+        ActiveRecord::Base.internal_metadata_table_name
       ]).include?(name)
         super(name, options)
       end

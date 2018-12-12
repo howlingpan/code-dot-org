@@ -272,7 +272,7 @@ class Pd::EnrollmentTest < ActiveSupport::TestCase
       enrollment_with_processed_survey = create(:pd_enrollment, completed_survey_id: 1234),
       enrollment_in_unfinished_teachercon = teachercon1.enrollments.first,
       enrollment_in_finished_teachercon = teachercon2.enrollments.first,
-      enrollment_in_finished_teachercon_did_survey = teachercon3.enrollments.first,
+      enrollment_in_finished_teachercon_did_survey = teachercon3.enrollments.first
     ]
 
     with_surveys = [enrollment_with_unprocessed_survey, enrollment_with_processed_survey, enrollment_in_finished_teachercon_did_survey]

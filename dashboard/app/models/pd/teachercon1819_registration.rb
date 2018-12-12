@@ -61,7 +61,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         'Kosher',
         'Halal',
         'Gluten Free',
-        TEXT_FIELDS[:food_allergy],
+        TEXT_FIELDS[:food_allergy]
       ],
       live_far_away: YES_OR_NO,
       address_state: get_all_states_with_dc.to_h.values,
@@ -70,7 +70,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         'I will carpool with another TeacherCon attendee (Please note who):',
         'Flying',
         'Amtrak or regional train service',
-        'Public transit (e.g., city bus or light rail)',
+        'Public transit (e.g., city bus or light rail)'
       ],
       need_hotel: YES_OR_NO,
       need_ada: YES_OR_NO,
@@ -79,21 +79,21 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         TEACHER_SEAT_ACCEPTANCE_OPTIONS[:accept],
         TEACHER_SEAT_ACCEPTANCE_OPTIONS[:waitlist_date],
         TEACHER_SEAT_ACCEPTANCE_OPTIONS[:waitlist_other],
-        TEACHER_SEAT_ACCEPTANCE_OPTIONS[:decline],
+        TEACHER_SEAT_ACCEPTANCE_OPTIONS[:decline]
       ],
       how_offer_csp: [
         "As an AP course",
         "As a non-AP course",
         "Both: I will teach multiple sections, some as AP and some as non-AP",
-        "I'm not sure",
+        "I'm not sure"
       ],
       have_taught_ap: [
         YES, NO,
-        "I'm not sure",
+        "I'm not sure"
       ],
       have_taught_written_project_course: [
         YES, NO,
-        "I'm not sure",
+        "I'm not sure"
       ],
       grading_system: [
         'Numerical and/or letter grades (e.g., 0 - 100% or F- A)',
@@ -105,7 +105,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         "At least 100 course hours",
         "50 to 99 course hours",
         "Less than 50 course hours",
-        "I'm not sure",
+        "I'm not sure"
       ],
       how_many_terms: [
         "1 quarter",
@@ -113,7 +113,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         "1 semester",
         "2 trimesters",
         "Full year",
-        "I'm not sure",
+        "I'm not sure"
       ],
       travel_covered: [
         "Letron is covering my trip",
@@ -137,7 +137,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
       :how_traveling,
       :need_hotel,
       :photo_release,
-      :liability_waiver,
+      :liability_waiver
     ].freeze
   end
 
@@ -174,7 +174,7 @@ class Pd::Teachercon1819Registration < ActiveRecord::Base
         requireds.concat [
           :how_offer_csp,
           :have_taught_ap,
-          :have_taught_written_project_course,
+          :have_taught_written_project_course
         ]
       end
     else

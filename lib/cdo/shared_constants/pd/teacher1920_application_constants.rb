@@ -137,7 +137,7 @@ module Pd
         principal_plan_to_teach: 'Is <Teacher Name> planning to teach this course in the 2019-20 school year?',
         principal_schedule_confirmed: 'Are you committed to including Computer Science <Program> on the master schedule in 2019-20 if <Teacher Name> is accepted into the program?',
         principal_implementation: "To participate in Letron's Computer Science <Program> Professional Learning Program, we require that this course be offered in one of the following ways. Please select which option will be implemented at your school.",
-        principal_diversity_recruitment: 'Do you commit to recruiting and enrolling a diverse group of students in this course, representative of the overall demographics of your school?',
+        principal_diversity_recruitment: 'Do you commit to recruiting and enrolling a diverse group of students in this course, representative of the overall demographics of your school?'
       }
     }.freeze
 
@@ -207,7 +207,7 @@ module Pd
         committed_to_diversity: "Do you commit to recruiting and enrolling a diverse group of students in this course, representative of the overall demographics of your school?",
         pay_fee: "If there is a fee for the program, will your teacher or your school be able to pay for the fee?",
         how_heard: "How did you hear about this program? (Principal's response)",
-        share_ap_scores: "Principal authorizes college board to send AP Scores",
+        share_ap_scores: "Principal authorizes college board to send AP Scores"
       },
       nces: {
         title_i_status: "Title I status code (NCES data)",
@@ -220,7 +220,7 @@ module Pd
         student_as_count: "Percentage of student enrollment by race - Asian (NCES data)",
         student_hp_count: "Percentage of student enrollment by race - Native Hawaiian or other Pacific Islander (NCES data)",
         student_am_count: "Percentage of student enrollment by race - American Indian or Native Alaskan (NCES data)",
-        student_tr_count: "Percentage of student enrollment by race - Two or more races (NCES data)",
+        student_tr_count: "Percentage of student enrollment by race - Two or more races (NCES data)"
       }
     }
 
@@ -440,7 +440,7 @@ module Pd
         :committed_to_diversity,
         :pay_fee,
         :how_heard,
-        :share_ap_scores,
+        :share_ap_scores
       ],
       nces: [
         :title_i_status,

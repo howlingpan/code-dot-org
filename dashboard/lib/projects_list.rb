@@ -122,7 +122,7 @@ module ProjectsList
         :featured_projects__unfeatured_at___unfeatured_at,
         :users__name___name,
         :users__birthday___birthday,
-        :users__properties___properties,
+        :users__properties___properties
       ]
     end
 
@@ -184,7 +184,7 @@ module ProjectsList
         thumbnailUrl: project_value['thumbnailUrl'],
         type: project_type(project_value['level']),
         updatedAt: project_value['updatedAt'],
-        publishedAt: project[:published_at],
+        publishedAt: project[:published_at]
       }.with_indifferent_access
     end
 
@@ -197,7 +197,7 @@ module ProjectsList
         :storage_apps__published_at___published_at,
         :users__name___name,
         :users__birthday___birthday,
-        :users__properties___properties,
+        :users__properties___properties
       ]
     end
 
@@ -234,7 +234,7 @@ module ProjectsList
         {
           # For privacy reasons, include only the first initial of the student's name.
           studentName: UserHelpers.initial(project_and_user[:name]),
-          studentAgeRange: UserHelpers.age_range_from_birthday(project_and_user[:birthday]),
+          studentAgeRange: UserHelpers.age_range_from_birthday(project_and_user[:birthday])
         }
       ).with_indifferent_access
     end

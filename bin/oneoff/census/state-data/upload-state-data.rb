@@ -8,7 +8,7 @@ CDO.log = Logger.new(STDERR)
 options = {
   filename: nil,
   state: nil,
-  school_year: nil,
+  school_year: nil
 }
 OptionParser.new do |opts|
   opts.banner = "Usage: #{File.basename(__FILE__)} [options]"

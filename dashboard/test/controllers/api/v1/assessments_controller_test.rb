@@ -96,7 +96,7 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
       {"level_id" => sub_level4.id, "type" => "Multi", "name" => sub_level4.name,
         "display_name" => nil, "answers" => expected_answers, "question_text" => sub_level4.get_question_text, "question_index" => 3},
       {"level_id" => sub_level5.id, "type" => "Multi", "name" => sub_level5.name,
-        "display_name" => nil, "answers" => expected_answers, "question_text" => sub_level5.get_question_text, "question_index" => 4},
+        "display_name" => nil, "answers" => expected_answers, "question_text" => sub_level5.get_question_text, "question_index" => 4}
     ]
     level_response = JSON.parse(@response.body)[level1.id.to_s]
     assert_equal "translation missing: en-US.data.script.name.#{script.name}.title", level_response["name"]
@@ -189,9 +189,9 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
             "timestamp" => user_level[:updated_at],
             "level_results" => [
               {"student_result" => "This is a free response", "status" => "", "type" => "FreeResponse"},
-              {"type" => "Multi", "student_result" => [0], "status" => "correct",},
-              {"type" => "Multi", "student_result" => [1], "status" => "incorrect",},
-              {"type" => "Multi", "student_result" => [], "status" => "unsubmitted",},
+              {"type" => "Multi", "student_result" => [0], "status" => "correct"},
+              {"type" => "Multi", "student_result" => [1], "status" => "incorrect"},
+              {"type" => "Multi", "student_result" => [], "status" => "unsubmitted"},
               {"type" => "Multi", "status" => "unsubmitted"}
             ]
           }
@@ -379,7 +379,7 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
               {"result" => "Free response from student 4"}
             ],
             "answer_texts" => nil,
-            "question_index" => 0,
+            "question_index" => 0
           },
           {
             "type" => "multi",
@@ -392,7 +392,7 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
               {}
             ],
             "answer_texts" => ["answer1", "answer2", "answer3", "answer4"],
-            "question_index" => 1,
+            "question_index" => 1
           },
           {
             "type" => "multi",
@@ -405,7 +405,7 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
               {"answer_index" => 1}
             ],
             "answer_texts" => ["answer1", "answer2", "answer3", "answer4"],
-            "question_index" => 2,
+            "question_index" => 2
           },
           {
             "type" => "multi",
@@ -418,7 +418,7 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
               {}
             ],
             "answer_texts" => ["answer1", "answer2", "answer3", "answer4"],
-            "question_index" => 3,
+            "question_index" => 3
           },
           {
             "type" => "multi",
@@ -431,7 +431,7 @@ class Api::V1::AssessmentsControllerTest < ActionController::TestCase
               {}
             ],
             "answer_texts" => ["answer1", "answer2", "answer3", "answer4"],
-            "question_index" => 4,
+            "question_index" => 4
           }
         ]
       }

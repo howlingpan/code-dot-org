@@ -90,7 +90,7 @@ module Pd::Payment
         subject: workshop.subject,
         num_registered: workshop.enrollments.count,
         num_qualified_teachers: num_qualified_teachers,
-        days: num_days,
+        days: num_days
       }
 
       # Facilitator names and emails, 1-6

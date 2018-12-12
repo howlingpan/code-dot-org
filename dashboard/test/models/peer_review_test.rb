@@ -386,7 +386,7 @@ class PeerReviewTest < ActiveSupport::TestCase
     base_expected = {
       submitter: @user.name,
       course_name: @plc_course.name,
-      unit_name: @learning_module.name,
+      unit_name: @learning_module.name
     }
 
     expected_level_1_ids = [

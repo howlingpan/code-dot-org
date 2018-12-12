@@ -18,7 +18,7 @@ class UsersHelperTest < ActionView::TestCase
         levels: {},
         # second stage because first is unplugged
         current_stage: script.stages[1].id,
-        completed: false,
+        completed: false
       },
       summarize_user_progress(script, user)
     )
@@ -37,7 +37,7 @@ class UsersHelperTest < ActionView::TestCase
           ul3.level_id => {status: LEVEL_STATUS.passed, result: 20}
         },
         current_stage: script.stages[1].id,
-        completed: false,
+        completed: false
       },
       summarize_user_progress(script, user)
     )
@@ -48,7 +48,7 @@ class UsersHelperTest < ActionView::TestCase
       {
         linesOfCode: 42,
         lockableAuthorized: false,
-        linesOfCodeText: 'Total lines of code: 42',
+        linesOfCodeText: 'Total lines of code: 42'
       },
       summarize_user_progress(script, user, exclude_level_progress)
     )
@@ -276,7 +276,7 @@ class UsersHelperTest < ActionView::TestCase
         pages_completed: [nil, nil]
       },
       "101_0" => {submitted: true},
-      "101_1" => {submitted: true},
+      "101_1" => {submitted: true}
     }
 
     assert_equal(101, level_with_best_progress([101, 102], level_progress))

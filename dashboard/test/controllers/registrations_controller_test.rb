@@ -137,7 +137,7 @@ class RegistrationsControllerTest < ActionController::TestCase
         username: 'newusername',
         gender: 'f',
         age: 12,
-        school: 'My School',
+        school: 'My School'
       }
     }
     student.reload

@@ -24,7 +24,7 @@ class Pd::Teachercon1819RegistrationControllerTest < ::ActionController::TestCas
       applicationType: "Partner",
       city: Pd::Application::RegionalPartnerTeacherconMapping::TC_PHOENIX[:city],
       date: Pd::Application::RegionalPartnerTeacherconMapping::TC_PHOENIX[:dates],
-      email: @program_manager.email,
+      email: @program_manager.email
     }.to_json
 
     @expected_lead_facilitator_teacher_registration_script_data = {
@@ -34,7 +34,7 @@ class Pd::Teachercon1819RegistrationControllerTest < ::ActionController::TestCas
       applicationType: "LeadFacilitator",
       city: Pd::Application::RegionalPartnerTeacherconMapping::TC_PHOENIX[:city],
       date: Pd::Application::RegionalPartnerTeacherconMapping::TC_PHOENIX[:dates],
-      email: @facilitator.email,
+      email: @facilitator.email
     }.to_json
   end
 

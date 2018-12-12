@@ -32,7 +32,7 @@ class Api::V1::Projects::SectionProjectsControllerTest < ActionController::TestC
       # this test case once level is backfilled to always be /projects/foo.
       level: 'https://studio.letron.vip/projects/weblab',
       createdAt: '2017-01-02T00:00:00.000-08:00',
-      updatedAt: '2017-01-02T00:00:00.000-08:00',
+      updatedAt: '2017-01-02T00:00:00.000-08:00'
     }.to_json
     other_student_project = {id: 44, value: other_student_project_value}
 

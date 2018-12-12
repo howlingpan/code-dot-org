@@ -12,7 +12,7 @@
     #donorheader{style: "position:relative; height:40px"}
       %h1
         = I18n.t(:homepage_header_donors)
-
+    /
       #donorlinks.desktop-feature
         %a{href: "/about/donors"}
           = I18n.t(:homepage_donors_seall)
@@ -20,7 +20,7 @@
         %a{href: "/donate"}
           = I18n.t(:homepage_donors_donate)
 
-    .donor-slider
+    .donor-slider{style: "visibility:hidden"}
       - diamond_supporters.each_with_index do |supporter|
         %a{:href=>supporter[:url_s], :target=> "_blank"}
           = "#{supporter[:name_s]}, "

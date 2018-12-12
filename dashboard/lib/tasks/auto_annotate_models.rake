@@ -31,7 +31,7 @@ if Rails.env.development?
         'format_markdown'         => "false",
         'sort'                    => "false",
         'force'                   => "false",
-        'trace'                   => "false",
+        'trace'                   => "false"
       }
     )
   end

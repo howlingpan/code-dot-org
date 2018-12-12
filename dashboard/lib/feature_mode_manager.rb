@@ -34,18 +34,18 @@ class FeatureModeManager
       gatekeeper_hoc_tutorial_settings: {
         postMilestone: true,
         postFailedRunMilestone: true,
-        shareEnabled: true,
+        shareEnabled: true
       },
       gatekeeper_csf_tutorial_settings: {
         postMilestone: true,
         postFailedRunMilestone: true,
-        shareEnabled: true,
+        shareEnabled: true
       },
       dcdo_settings: {
         hoc_activity_sample_weight: 1,
         hoc_learn_activity_sample_weight: 1,
         public_proxy_max_age: 3.minutes.to_i,
-        public_max_age: 6.minutes.to_i,
+        public_max_age: 6.minutes.to_i
       }
     },
     scale: {
@@ -60,18 +60,18 @@ class FeatureModeManager
       gatekeeper_hoc_tutorial_settings: {
         postMilestone: true,
         postFailedRunMilestone: true,
-        shareEnabled: true,
+        shareEnabled: true
       },
       gatekeeper_csf_tutorial_settings: {
         postMilestone: true,
         postFailedRunMilestone: true,
-        shareEnabled: true,
+        shareEnabled: true
       },
       dcdo_settings: {
         hoc_activity_sample_weight: 1,
         hoc_learn_activity_sample_weight: 50,
         public_proxy_max_age: 4.hours.to_i,
-        public_max_age: 8.hours.to_i,
+        public_max_age: 8.hours.to_i
       }
     },
     fallback: {
@@ -86,18 +86,18 @@ class FeatureModeManager
       gatekeeper_hoc_tutorial_settings: {
         postMilestone: true,
         postFailedRunMilestone: false,
-        shareEnabled: true,
+        shareEnabled: true
       },
       gatekeeper_csf_tutorial_settings: {
         postMilestone: true,
         postFailedRunMilestone: true,
-        shareEnabled: true,
+        shareEnabled: true
       },
       dcdo_settings: {
         hoc_activity_sample_weight: 1,
         hoc_learn_activity_sample_weight: 50,
         public_proxy_max_age: 4.hours.to_i,
-        public_max_age: 8.hours.to_i,
+        public_max_age: 8.hours.to_i
       }
     },
     emergency: {
@@ -112,18 +112,18 @@ class FeatureModeManager
       gatekeeper_hoc_tutorial_settings: {
         postMilestone: false,
         postFailedRunMilestone: false,
-        shareEnabled: true,
+        shareEnabled: true
       },
       gatekeeper_csf_tutorial_settings: {
         postMilestone: false,
         postFailedRunMilestone: false,
-        shareEnabled: true,
+        shareEnabled: true
       },
       dcdo_settings: {
         hoc_activity_sample_weight: 10,
         hoc_learn_activity_sample_weight: 0,
         public_proxy_max_age: 24.hours.to_i,
-        public_max_age: 48.hours.to_i,
+        public_max_age: 48.hours.to_i
       }
     }
   }.with_indifferent_access

@@ -288,7 +288,7 @@ Devise.setup do |config|
       if env['omniauth.strategy'].authorize_params['scope'] != 'email profile'
         env['omniauth.strategy'].options[:prompt] = 'consent'
       end
-    end,
+    end
   }
   config.omniauth :windowslive, CDO.dashboard_windowslive_key, CDO.dashboard_windowslive_secret, scope: 'wl.basic wl.emails'
 

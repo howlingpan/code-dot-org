@@ -9,13 +9,13 @@ DEPENDENCIES = [
   deploy_dir('Rakefile'),
   deploy_dir('deployment.rb'),
   deploy_dir('locals.yml'),
-  secrets_dir('config.yml'),
+  secrets_dir('config.yml')
 ].select {|i| File.file?(i)}
 
 ERB_TASKS = [
   'letron.vip/crowdin.yaml',
   'hourofcode.com/crowdin.yaml',
-  'curriculum/crowdin.yaml',
+  'curriculum/crowdin.yaml'
 ].map do |filename|
   i18n_dir(filename).tap do |path|
     file path => [i18n_dir("#{filename}.erb")] + DEPENDENCIES do |t|

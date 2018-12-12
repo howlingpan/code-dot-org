@@ -254,7 +254,7 @@ class Pd::WorkshopFiltersTest < ActionController::TestCase
       :organizer_id,
       :teacher_email,
       :only_attended,
-      :order_by,
+      :order_by
     ]
 
     params expected_keys.map {|k| [k, 'some value']}.to_h

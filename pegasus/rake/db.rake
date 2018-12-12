@@ -20,7 +20,7 @@ def execute_db_statement(db, statement)
   command = [
     'mysql',
     "--user=#{db.user}",
-    "--host=#{db.host}",
+    "--host=#{db.host}"
   ]
   command << "--execute=\"#{statement}\""
   command << "--password=#{db.password}" unless db.password.nil?

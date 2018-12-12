@@ -14,7 +14,7 @@
 
 DEFINITION_BLOCK_TYPES = {
   function: 'procedures_defnoreturn',
-  behavior: 'behavior_definition',
+  behavior: 'behavior_definition'
 }
 
 BLOCK_TYPES_BY_DEFINITION_TYPE = DEFINITION_BLOCK_TYPES.invert
@@ -24,7 +24,7 @@ class SharedBlocklyFunction < ApplicationRecord
 
   enum block_type: {
     function: 0,
-    behavior: 1,
+    behavior: 1
   }
 
   CONFIG_DIRECTORY = 'shared_functions'
@@ -80,7 +80,7 @@ class SharedBlocklyFunction < ApplicationRecord
       name: function_doc.xpath('/block/title[@name="NAME"]/text()').text,
       description: function_doc.xpath('/block/mutation/description').text,
       arguments: arguments_from_xml(function_doc.xpath('/block/mutation/arg')),
-      stack: function_doc.xpath('/block/statement[@name="STACK"]/*'),
+      stack: function_doc.xpath('/block/statement[@name="STACK"]/*')
     }
   end
 end

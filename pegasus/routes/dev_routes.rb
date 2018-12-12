@@ -7,7 +7,7 @@ CHECK_DTS_ACTIONS = [
   'opened',
   'reopened',
   'edited',
-  'synchronize',
+  'synchronize'
 ].freeze
 
 # Used to restart builds on staging/test via Slack slash commands.

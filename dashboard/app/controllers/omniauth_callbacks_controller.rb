@@ -273,7 +273,7 @@ class OmniauthCallbacksController < Devise::OmniauthCallbacksController
       email: args["[\"http://openid.net/srv/ax/1.0\", \"value.ext1\"]"],
       name: {
         first: args["[\"http://openid.net/srv/ax/1.0\", \"value.ext2\"]"],
-        last: args["[\"http://openid.net/srv/ax/1.0\", \"value.ext3\"]"],
+        last: args["[\"http://openid.net/srv/ax/1.0\", \"value.ext3\"]"]
       },
       )
     )

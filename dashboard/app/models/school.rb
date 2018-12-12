@@ -132,7 +132,7 @@ class School < ActiveRecord::Base
             latitude:           nil,
             longitude:          nil,
             school_type:        row['CHARTR'] == '1' ? 'charter' : 'public',
-            school_district_id: row['LEAID'].to_i,
+            school_district_id: row['LEAID'].to_i
           }
         end
       end
@@ -153,7 +153,7 @@ class School < ActiveRecord::Base
             latitude:           nil,
             longitude:          nil,
             school_type:        row['CHARTR'] == '1' ? 'charter' : 'public',
-            school_district_id: row['LEAID'].to_i,
+            school_district_id: row['LEAID'].to_i
           }
         end
       end
@@ -175,7 +175,7 @@ class School < ActiveRecord::Base
             longitude:          row['LONGITUDE14'].to_f,
             school_type:        'private',
             school_district_id: nil,
-            state_school_id:    nil,
+            state_school_id:    nil
           }
         end
       end
@@ -197,7 +197,7 @@ class School < ActiveRecord::Base
             longitude:          nil,
             school_type:        row['CHARTER_TEXT'][0, 1] == 'Y' ? 'charter' : 'public',
             school_district_id: row['LEAID'].to_i,
-            state_school_id:    construct_state_school_id(row['LSTATE'].to_s.upcase, row['ST_LEAID'], row['ST_SCHID']),
+            state_school_id:    construct_state_school_id(row['LSTATE'].to_s.upcase, row['ST_LEAID'], row['ST_SCHID'])
           }
         end
       end
@@ -231,7 +231,7 @@ class School < ActiveRecord::Base
             longitude:          row['longitude16'].to_f,
             school_type:        'private',
             school_district_id: nil,
-            state_school_id:    nil,
+            state_school_id:    nil
           }
         end
       end
@@ -258,7 +258,7 @@ class School < ActiveRecord::Base
             # combines fields that were previously combined in
             # the construct_state_school_id method
             # they look like this: AL-101-0200
-            state_school_id:    row['ST_SCHID'],
+            state_school_id:    row['ST_SCHID']
           }
         end
       end

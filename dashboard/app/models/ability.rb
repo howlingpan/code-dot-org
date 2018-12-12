@@ -236,7 +236,7 @@ class Ability
         Course,
         Script,
         ScriptLevel,
-        Video,
+        Video
       ]
 
       # Only custom levels are editable.

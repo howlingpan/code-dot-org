@@ -57,7 +57,7 @@ def geocoder_config
   {
     cache: Hash.new,
     timeout: 10,
-    units: :km,
+    units: :km
   }.tap do |config|
     config[:cache] = Redis.connect(url: CDO.geocoder_redis_url) if CDO.geocoder_redis_url
     if CDO.google_maps_client_id && CDO.google_maps_secret

@@ -53,7 +53,7 @@ class Pd::WorkshopSurvey < ActiveRecord::Base
       :would_recommend,
       :best_pd_ever,
       :part_of_community,
-      :willing_to_talk,
+      :willing_to_talk
     ].freeze
   end
 
@@ -451,7 +451,7 @@ class Pd::WorkshopSurvey < ActiveRecord::Base
         "Optional: Students choose to take it.",
         "Optional: But, many or most of my students are assigned to the course without choosing to take it.",
         OTHER
-      ],
+      ]
     }.freeze
   end
 end

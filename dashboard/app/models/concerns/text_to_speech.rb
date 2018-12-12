@@ -46,22 +46,22 @@ module TextToSpeech
     'es-ES': {
       VOICE: 'ines22k',
       SPEED: 180,
-      SHAPE: 100,
+      SHAPE: 100
     },
     'es-MX': {
       VOICE: 'rosa22k',
       SPEED: 180,
-      SHAPE: 100,
+      SHAPE: 100
     },
     'it-IT': {
       VOICE: 'vittorio22k',
       SPEED: 180,
-      SHAPE: 100,
+      SHAPE: 100
     },
     'pt-BR': {
       VOICE: 'marcia22k',
       SPEED: 180,
-      SHAPE: 100,
+      SHAPE: 100
     }
   }.freeze
 

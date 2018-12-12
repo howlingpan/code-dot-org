@@ -1672,7 +1672,7 @@ class ScriptLevelsControllerTest < ActionController::TestCase
     get :show, params: {
       script_id: script_level.script,
       stage_position: 1,
-      id: '1',
+      id: '1'
     }
     assert_response :success
     assert_not_nil assigns(:view_options)[:is_challenge_level]
@@ -1683,7 +1683,7 @@ class ScriptLevelsControllerTest < ActionController::TestCase
     get :show, params: {
       script_id: script_level.script,
       stage_position: 1,
-      id: '1',
+      id: '1'
     }
     assert_response :success
     assert_nil assigns(:view_options)[:is_challenge_level]

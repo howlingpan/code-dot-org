@@ -257,7 +257,7 @@ class Api::V1::Pd::WorkshopsController < ::ApplicationController
       :subject,
       :notes,
       :regional_partner_id,
-      sessions_attributes: [:id, :start, :end, :_destroy],
+      sessions_attributes: [:id, :start, :end, :_destroy]
     ]
 
     allowed_params.delete :regional_partner_id unless can_update_regional_partner

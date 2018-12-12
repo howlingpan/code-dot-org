@@ -58,7 +58,7 @@ class Api::V1::UsersController < Api::V1::JsonApiController
       Date.new(year, 3, 15),
       Date.new(year, 5, 15),
       Date.new(year, 11, 15),
-      Date.new(year + 1, 2, 8),
+      Date.new(year + 1, 2, 8)
     ]
     next_date = scheduled_display_dates.select {|d| d > today && d > today + 2.weeks} [0]
 

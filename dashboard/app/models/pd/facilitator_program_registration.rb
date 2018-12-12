@@ -38,7 +38,7 @@ class Pd::FacilitatorProgramRegistration < ActiveRecord::Base
       :age,
       :grades_taught,
       :grades_planning_to_teach,
-      :subjects_taught,
+      :subjects_taught
     ].freeze
   end
 

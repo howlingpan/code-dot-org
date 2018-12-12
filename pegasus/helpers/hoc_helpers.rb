@@ -87,7 +87,7 @@ def session_status_for_row(row)
     pixel_finished: !!row[:pixel_finished_at],
     finished: !!row[:finished_at],
     name: row[:name],
-    certificate_sent: !row[:name].blank?,
+    certificate_sent: !row[:name].blank?
   }
 end
 

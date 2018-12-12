@@ -21,7 +21,7 @@ module Pd
       non_teachercons = [
         'Code Parther : July 1 - July 5, 2017',
         'not teachercon',
-        'another workshop in: Phoenix',
+        'another workshop in: Phoenix'
       ]
 
       non_teachercons.each do |non_teachercon|

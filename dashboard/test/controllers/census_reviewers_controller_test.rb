@@ -11,7 +11,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     post :create,  params: {
       census_submission_id: submission.id,
       override: 'N',
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 302, @response.body.to_s
@@ -23,7 +23,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     post :create,  params: {
       census_submission_id: submission.id,
       override: 'N',
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 403, @response.body.to_s
@@ -35,7 +35,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     post :create,  params: {
       census_submission_id: submission.id,
       override: 'N',
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 201, @response.body.to_s
@@ -63,7 +63,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     submission = create :census_your_school2017v7
     post :create,  params: {
       census_submission_id: submission.id,
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 201, @response.body.to_s
@@ -86,7 +86,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     post :create,  params: {
       census_submission_id: submission.id,
       override: nil,
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 201, @response.body.to_s
@@ -108,7 +108,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     post :create,  params: {
       census_submission_id: 0,
       override: 'N',
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 400, @response.body.to_s
@@ -119,7 +119,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     post :create,  params: {
       census_submission_id: 0,
       override: 'No Way',
-      notes: 'I looked into this.',
+      notes: 'I looked into this.'
     }
 
     assert_response 400, @response.body.to_s
@@ -129,7 +129,7 @@ class CensusReviewersControllerTest < ActionController::TestCase
     sign_in @reviewer
     post :create,  params: {
       census_submission_id: 0,
-      override: 'N',
+      override: 'N'
     }
 
     assert_response 400, @response.body.to_s

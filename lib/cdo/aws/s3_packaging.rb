@@ -113,7 +113,7 @@ class S3Packaging
         {
           name: 'bundle_size',
           metadata: asset['name'],
-          value: asset['size'],
+          value: asset['size']
         }
       end.compact
     )

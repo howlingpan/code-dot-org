@@ -115,7 +115,7 @@ module Pd::Application
           diversity_recruitment: YES,
           free_lunch_percent: '50.1%',
           underrepresented_minority_percent: '50.1%',
-          wont_replace_existing_course: Pd::Application::PrincipalApproval1819Application.options[:replace_course].second,
+          wont_replace_existing_course: Pd::Application::PrincipalApproval1819Application.options[:replace_course].second
         }
       )
 

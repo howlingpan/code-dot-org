@@ -20,7 +20,7 @@ class LevelsControllerTest < ActionController::TestCase
       level_id: @level.id,
       game_id: @level.game.id,
       type: 'toolbox_blocks',
-      program: @program,
+      program: @program
     }
   end
 

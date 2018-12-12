@@ -22,7 +22,7 @@ class Library < ApplicationRecord
   def self.properties_from_file(path, content)
     {
       name: File.basename(path, ".#{EXTENSION}"),
-      content: content,
+      content: content
     }
   end
 

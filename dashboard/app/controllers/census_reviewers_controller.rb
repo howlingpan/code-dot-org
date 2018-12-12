@@ -17,7 +17,7 @@ class CensusReviewersController < ApplicationController
       unless override.valid?
         return render json: {
           error_message: "Unable to create CensusOverride",
-          errors: override.errors,
+          errors: override.errors
         }, status: :bad_request
       end
     end
@@ -31,14 +31,14 @@ class CensusReviewersController < ApplicationController
     unless investigation.valid?
       return render json: {
         error_message: "Unable to create CensusInaccuracyInvestigation",
-        errors: investigation.errors,
+        errors: investigation.errors
       }, status: :bad_request
     end
     investigation.save!
 
     render json: {
       census_inaccuracy_investigation_id: investigation.id,
-      census_override_id: override.try(:id),
+      census_override_id: override.try(:id)
     }, status: :created
   end
 

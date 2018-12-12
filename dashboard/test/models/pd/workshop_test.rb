@@ -496,7 +496,7 @@ class Pd::WorkshopTest < ActiveSupport::TestCase
       @workshop,
       @organizer_workshop,
       build(:pd_workshop),
-      build(:pd_workshop, num_enrollments: 1),
+      build(:pd_workshop, num_enrollments: 1)
     ]
     # save out of order
     workshops.shuffle.each(&:save!)

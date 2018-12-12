@@ -262,7 +262,7 @@ class UserLevelTest < ActiveSupport::TestCase
       {
         students[0].id => 10,
         students[1].id => 9,
-        students[2].id => 8,
+        students[2].id => 8
       },
       passing_level_counts
     )

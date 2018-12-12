@@ -7,7 +7,7 @@ class Pd::FacilitatorTeacherconAttendanceTest < ActiveSupport::TestCase
 
     just_tc1 = create :pd_facilitator_teachercon_attendance, {
       tc1_arrive: TEST_DATE,
-      tc1_depart: TEST_DATE,
+      tc1_depart: TEST_DATE
     }
 
     assert_equal(
@@ -28,7 +28,7 @@ class Pd::FacilitatorTeacherconAttendanceTest < ActiveSupport::TestCase
       tc2_arrive: TEST_DATE,
       tc2_depart: TEST_DATE,
       fit2_arrive: TEST_DATE,
-      fit2_depart: TEST_DATE,
+      fit2_depart: TEST_DATE
     }
 
     assert_nil(tc2_fit2.attendance_dates(1))
@@ -53,7 +53,7 @@ class Pd::FacilitatorTeacherconAttendanceTest < ActiveSupport::TestCase
       tc3_arrive: TEST_DATE,
       tc3_depart: TEST_DATE,
       fit1_arrive: TEST_DATE,
-      fit1_depart: TEST_DATE,
+      fit1_depart: TEST_DATE
     }
 
     assert_equal(
@@ -71,7 +71,7 @@ class Pd::FacilitatorTeacherconAttendanceTest < ActiveSupport::TestCase
         'teachercon' => {
           arrive: TEST_DATE_RESULT,
           depart: TEST_DATE_RESULT
-        },
+        }
       },
       tc3_fit1.attendance_dates(3)
     )

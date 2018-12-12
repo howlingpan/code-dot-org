@@ -196,103 +196,103 @@ class Homepage
             ]
         },
 
-        {
-          id: "educators-en",
-          type: "block",
-          title: "homepage_slot_text_title_educators",
-          text: "homepage_slot_text_blurb_educators",
-          color1: "0, 148, 202",
-          color2: "89, 185, 220",
-          url: "/educate",
-          image: "/images/homepage/ap-feature-2017.jpg",
-          links:
-            [
-              {
-                text: "homepage_slot_text_link_elementary",
-                url: "/educate/curriculum/elementary-school"
-              },
-              {
-                text: "homepage_slot_text_link_middle",
-                url: "/educate/curriculum/middle-school"
-              },
-              {
-                text: "homepage_slot_text_link_high",
-                url: "/educate/curriculum/high-school"
-              }
-            ]
-        },
-
-        {
-          id: "hoc-en",
-          type: "block",
-          title: "homepage_slot_text_title_hoc",
-          text: "homepage_slot_text_blurb_hoc",
-          color1: "0, 173, 188",
-          color2: "89, 202, 211",
-          url: "/hourofcode/overview",
-          image: "/images/mc/2016_homepage_hocblock.jpg",
-          links:
-            [
-              {
-                text: "homepage_slot_text_link_about_hoc",
-                url: "https://hourofcode.com/"
-              },
-              {
-                text: "homepage_slot_text_link_host",
-                url: "https://hourofcode.com/how-to"
-              },
-              {
-                text: "homepage_slot_text_link_hocserved",
-                url: "/leaderboards"
-              }
-            ]
-        },
-
-        {
-          id: "advocate-en",
-          type: "block",
-          title: "homepage_slot_text_link_buy",
-          text: "homepage_slot_text_blurb_advocates",
-          color1: "185, 191, 21",
-          color2: "209, 213, 103",
-          url: "/help",
-          image: "/shared/images/courses/logo_tall_map.jpg",
-          links:
-            [
-              {
-                text: "homepage_slot_text_link_stats",
-                url: "/promote"
-              },
-              {
-                text: "homepage_slot_text_link_administrators",
-                url: "/yourschool"
-              },
-              {
-                text: "homepage_slot_text_link_shop",
-                url: "/shop"
-              }
-            ]
-        }
+        # {
+        #   id: "educators-en",
+        #   type: "block",
+        #   title: "homepage_slot_text_title_educators",
+        #   text: "homepage_slot_text_blurb_educators",
+        #   color1: "0, 148, 202",
+        #   color2: "89, 185, 220",
+        #   url: "/educate",
+        #   image: "/images/homepage/ap-feature-2017.jpg",
+        #   links:
+        #     [
+        #       {
+        #         text: "homepage_slot_text_link_elementary",
+        #         url: "/educate/curriculum/elementary-school"
+        #       },
+        #       {
+        #         text: "homepage_slot_text_link_middle",
+        #         url: "/educate/curriculum/middle-school"
+        #       },
+        #       {
+        #         text: "homepage_slot_text_link_high",
+        #         url: "/educate/curriculum/high-school"
+        #       }
+        #     ]
+        # },
+        #
+        # {
+        #   id: "hoc-en",
+        #   type: "block",
+        #   title: "homepage_slot_text_title_hoc",
+        #   text: "homepage_slot_text_blurb_hoc",
+        #   color1: "0, 173, 188",
+        #   color2: "89, 202, 211",
+        #   url: "/hourofcode/overview",
+        #   image: "/images/mc/2016_homepage_hocblock.jpg",
+        #   links:
+        #     [
+        #       {
+        #         text: "homepage_slot_text_link_about_hoc",
+        #         url: "https://hourofcode.com/"
+        #       },
+        #       {
+        #         text: "homepage_slot_text_link_host",
+        #         url: "https://hourofcode.com/how-to"
+        #       },
+        #       {
+        #         text: "homepage_slot_text_link_hocserved",
+        #         url: "/leaderboards"
+        #       }
+        #     ]
+        # },
+        #
+        # {
+        #   id: "advocate-en",
+        #   type: "block",
+        #   title: "homepage_slot_text_link_buy",
+        #   text: "homepage_slot_text_blurb_advocates",
+        #   color1: "185, 191, 21",
+        #   color2: "209, 213, 103",
+        #   url: "/help",
+        #   image: "/shared/images/courses/logo_tall_map.jpg",
+        #   links:
+        #     [
+        #       {
+        #         text: "homepage_slot_text_link_stats",
+        #         url: "/promote"
+        #       },
+        #       {
+        #         text: "homepage_slot_text_link_administrators",
+        #         url: "/yourschool"
+        #       },
+        #       {
+        #         text: "homepage_slot_text_link_shop",
+        #         url: "/shop"
+        #       }
+        #     ]
+        # }
       ].each {|entry| entry[:image].gsub!("/images/", "/images/fit-400/")}
     else
-      last_block =
-        if DCDO.get('hoc_launch', CDO.default_hoc_launch) == 'dance'
-          {
-            id: 'dance-nonen',
-            title: 'studiobar_dance_title',
-            text: 'studiobar_dance_body',
-            url: '/dance',
-            image: '/shared/images/courses/logo_tall_dance.jpg'
-          }
-        else
-          {
-            id: 'flappy-nonen',
-            title: 'studiobar_flappy_title',
-            text: 'studiobar_flappy_body',
-            url: CDO.studio_url('/s/flappy/reset'),
-            image: '/shared/images/courses/logo_tall_flappy.jpg'
-          }
-        end
+      # last_block =
+      #   if DCDO.get('hoc_launch', CDO.default_hoc_launch) == 'dance'
+      #     {
+      #       id: 'dance-nonen',
+      #       title: 'studiobar_dance_title',
+      #       text: 'studiobar_dance_body',
+      #       url: '/dance',
+      #       image: '/shared/images/courses/logo_tall_dance.jpg'
+      #     }
+      #   else
+      #     {
+      #       id: 'flappy-nonen',
+      #       title: 'studiobar_flappy_title',
+      #       text: 'studiobar_flappy_body',
+      #       url: CDO.studio_url('/s/flappy/reset'),
+      #       image: '/shared/images/courses/logo_tall_flappy.jpg'
+      #     }
+      #   end
 
       [
         {
@@ -305,36 +305,36 @@ class Homepage
           url: CDO.studio_url("/courses"),
           image: "/shared/images/courses/logo_tall_elementary.jpg"
         },
-        {
-          id: "educators-nonen",
-          type: "blockshort",
-          title: "homepage_slot_text_title_educators",
-          text: "homepage_slot_text_blurb_educators",
-          color1: "0, 148, 202",
-          color2: "89, 185, 220",
-          url: CDO.studio_url("/courses?view=teacher"),
-          image: "/images/homepage/ap-feature-2017.jpg"
-        },
-        {
-          id: "hoc-nonen",
-          type: "blockshort",
-          title: "homepage_slot_text_title_hoc",
-          text: "homepage_slot_text_blurb_hoc",
-          color1: "0, 173, 188",
-          color2: "89, 202, 211",
-          url: "/hourofcode/overview",
-          image: "/images/mc/2016_homepage_hocblock.jpg"
-        },
-        {
-          id: last_block[:id],
-          type: "blockshort",
-          title: last_block[:title],
-          text: last_block[:text],
-          color1: "185, 191, 21",
-          color2: "209, 213, 103",
-          url: last_block[:url],
-          image: last_block[:image]
-        }
+        # {
+        #   id: "educators-nonen",
+        #   type: "blockshort",
+        #   title: "homepage_slot_text_title_educators",
+        #   text: "homepage_slot_text_blurb_educators",
+        #   color1: "0, 148, 202",
+        #   color2: "89, 185, 220",
+        #   url: CDO.studio_url("/courses?view=teacher"),
+        #   image: "/images/homepage/ap-feature-2017.jpg"
+        # },
+        # {
+        #   id: "hoc-nonen",
+        #   type: "blockshort",
+        #   title: "homepage_slot_text_title_hoc",
+        #   text: "homepage_slot_text_blurb_hoc",
+        #   color1: "0, 173, 188",
+        #   color2: "89, 202, 211",
+        #   url: "/hourofcode/overview",
+        #   image: "/images/mc/2016_homepage_hocblock.jpg"
+        # },
+        # {
+        #   id: last_block[:id],
+        #   type: "blockshort",
+        #   title: last_block[:title],
+        #   text: last_block[:text],
+        #   color1: "185, 191, 21",
+        #   color2: "209, 213, 103",
+        #   url: last_block[:url],
+        #   image: last_block[:image]
+        # }
       ].each {|entry| entry[:image].gsub!("/images/", "/images/fit-400/")}
     end
   end

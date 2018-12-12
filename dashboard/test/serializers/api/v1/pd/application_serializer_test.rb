@@ -52,7 +52,7 @@ class Api::V1::Pd::ApplicationSerializerTest < ::ActionController::TestCase
       }],
       status_timestamp_change_log: [{
         title: 'accepted_no_cost_registration_email',
-        time: Time.parse('2019-11-06 15:01 -08:00'),
+        time: Time.parse('2019-11-06 15:01 -08:00')
       }, {
         title: 'pending',
         time: Time.parse('2019-10-01 09:00 -07:00'),
@@ -74,11 +74,11 @@ class Api::V1::Pd::ApplicationSerializerTest < ::ActionController::TestCase
       }, {
         title: 'Accepted No Cost Registration',
         time: '2019-11-06 15:00 PST',
-        changing_user: program_manager.name,
+        changing_user: program_manager.name
       }, {
         title: 'Pending',
         time: '2019-10-01 09:00 PDT',
-        changing_user: program_manager.name,
+        changing_user: program_manager.name
       }, {
         title: 'Unreviewed',
         time: '2019-09-01 12:00 PDT'

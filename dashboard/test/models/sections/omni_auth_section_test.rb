@@ -8,7 +8,7 @@ class OmniAuthSectionTest < ActiveSupport::TestCase
         uid: 111,
         provider: 'google_oauth2',
         info: {
-          name: 'Sample User',
+          name: 'Sample User'
         },
       )
     ]
@@ -38,7 +38,7 @@ class OmniAuthSectionTest < ActiveSupport::TestCase
       uid: 333,
       provider: 'google_oauth2',
       info: {
-        name: 'Added Student',
+        name: 'Added Student'
       },
     )
     assert_difference 'User.count', 1 do
@@ -64,7 +64,7 @@ class OmniAuthSectionTest < ActiveSupport::TestCase
         uid: 111,
         provider: 'google_oauth2',
         info: {
-          name: 'Sample User',
+          name: 'Sample User'
         },
       )
     ]

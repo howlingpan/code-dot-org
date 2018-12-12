@@ -392,7 +392,7 @@ class User < ActiveRecord::Base
     ['gender.female', 'f'],
     ['gender.non_binary', 'n'],
     ['gender.not_listed', 'o'],
-    ['gender.none', '-'],
+    ['gender.none', '-']
   ].freeze
 
   DATA_TRANSFER_AGREEMENT_SOURCE_TYPES = [
@@ -1571,7 +1571,7 @@ class User < ActiveRecord::Base
           name: script[:name],
           title: data_t_suffix('script.name', script[:name], 'title'),
           description: data_t_suffix('script.name', script[:name], 'description_short', default: ''),
-          link: script_path(script),
+          link: script_path(script)
         }
       end
     end.compact
@@ -1874,7 +1874,7 @@ class User < ActiveRecord::Base
       location: "/v2/users/#{id}",
       age: age,
       sharing_disabled: sharing_disabled?,
-      has_ever_signed_in: has_ever_signed_in?,
+      has_ever_signed_in: has_ever_signed_in?
     }
   end
 
@@ -2195,7 +2195,7 @@ class User < ActiveRecord::Base
           metric_name: :SoftDelete,
           dimensions: [
             {name: "Environment", value: CDO.rack_env},
-            {name: "UserType", value: user_type},
+            {name: "UserType", value: user_type}
           ],
           value: 1
         }

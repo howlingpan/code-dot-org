@@ -35,7 +35,7 @@ module Pd
       school_city: 'City',
       school_state: 'State',
       school_zip_code: 'Zip Code',
-      school_type: 'My school is a',
+      school_type: 'My school is a'
     }.freeze
   end
 end

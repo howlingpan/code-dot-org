@@ -388,7 +388,7 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
         years_with_ib_data: [year],
         state_years_with_data: {
           school.state => [year]
-        },
+        }
       }
     )
     summaries.last
@@ -408,32 +408,32 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
       audit: {},
       overrides_summary: {
         should_override: false,
-        override_value: nil,
+        override_value: nil
       },
       has_ap_data: false,
       has_ib_data: false,
       submissions_summary: {
         consistency: {
           teacher_or_admin: nil,
-          not_teacher_or_admin: nil,
+          not_teacher_or_admin: nil
         },
         has_inconsistent_surveys: {
           teacher_or_admin: false,
-          not_teacher_or_admin: false,
+          not_teacher_or_admin: false
         },
         counts: {
           teacher_or_admin: {
             yes: 0,
-            no: 0,
+            no: 0
           },
           not_teacher_or_admin: {
             yes: 0,
-            no: 0,
-          },
+            no: 0
+          }
         }
       },
       state_summary: nil,
-      previous_years_results: [nil, nil, nil],
+      previous_years_results: [nil, nil, nil]
     }
   end
 
@@ -471,7 +471,7 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
     args = empty_compute_teaches_cs_args
     args[:overrides_summary] = {
       should_override: true,
-      override_value: override_value,
+      override_value: override_value
     }
 
     teaches_cs = compute_teaches_cs args
@@ -548,21 +548,21 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
     args[:submissions_summary] = {
       consistency: {
         teacher_or_admin: 'YES',
-        not_teacher_or_admin: nil,
+        not_teacher_or_admin: nil
       },
       has_inconsistent_surveys: {
         teacher_or_admin: false,
-        not_teacher_or_admin: false,
+        not_teacher_or_admin: false
       },
       counts: {
         teacher_or_admin: {
           yes: 5,
-          no: 0,
+          no: 0
         },
         not_teacher_or_admin: {
           yes: 0,
-          no: 0,
-        },
+          no: 0
+        }
       }
     }
 
@@ -582,21 +582,21 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
     args[:submissions_summary] = {
       consistency: {
         teacher_or_admin: 'NO',
-        not_teacher_or_admin: nil,
+        not_teacher_or_admin: nil
       },
       has_inconsistent_surveys: {
         teacher_or_admin: false,
-        not_teacher_or_admin: false,
+        not_teacher_or_admin: false
       },
       counts: {
         teacher_or_admin: {
           yes: 0,
-          no: 5,
+          no: 5
         },
         not_teacher_or_admin: {
           yes: 0,
-          no: 0,
-        },
+          no: 0
+        }
       }
     }
 
@@ -644,21 +644,21 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
     args[:submissions_summary] = {
       consistency: {
         teacher_or_admin: nil,
-        not_teacher_or_admin: 'YES',
+        not_teacher_or_admin: 'YES'
       },
       has_inconsistent_surveys: {
         teacher_or_admin: false,
-        not_teacher_or_admin: false,
+        not_teacher_or_admin: false
       },
       counts: {
         teacher_or_admin: {
           yes: 0,
-          no: 0,
+          no: 0
         },
         not_teacher_or_admin: {
           yes: 5,
-          no: 0,
-        },
+          no: 0
+        }
       }
     }
 
@@ -678,21 +678,21 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
     args[:submissions_summary] = {
       consistency: {
         teacher_or_admin: nil,
-        not_teacher_or_admin: 'NO',
+        not_teacher_or_admin: 'NO'
       },
       has_inconsistent_surveys: {
         teacher_or_admin: false,
-        not_teacher_or_admin: false,
+        not_teacher_or_admin: false
       },
       counts: {
         teacher_or_admin: {
           yes: 0,
-          no: 0,
+          no: 0
         },
         not_teacher_or_admin: {
           yes: 0,
-          no: 5,
-        },
+          no: 5
+        }
       }
     }
 
@@ -712,21 +712,21 @@ class Census::CensusSummaryTest < ActiveSupport::TestCase
     args[:submissions_summary] = {
       consistency: {
         teacher_or_admin: nil,
-        not_teacher_or_admin: nil,
+        not_teacher_or_admin: nil
       },
       has_inconsistent_surveys: {
         teacher_or_admin: true,
-        not_teacher_or_admin: true,
+        not_teacher_or_admin: true
       },
       counts: {
         teacher_or_admin: {
           yes: 5,
-          no: 1,
+          no: 1
         },
         not_teacher_or_admin: {
           yes: 5,
-          no: 5,
-        },
+          no: 5
+        }
       }
     }
 

@@ -20,7 +20,7 @@ class Census::ApCsOffering < ApplicationRecord
 
   COURSES = {
     CSP: "CSP",
-    CSA: "CSA",
+    CSA: "CSA"
   }.freeze
 
   validates_presence_of :course

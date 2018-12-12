@@ -33,7 +33,7 @@ class Unplugged < Level
     # This gives the new level the title and description of the old level.
     i18n_strings = {
       'title' => new_attributes[:title] ? new_attributes.delete(:title) : title,
-      'desc' => new_attributes[:description] ? new_attributes.delete(:description) : description,
+      'desc' => new_attributes[:description] ? new_attributes.delete(:description) : description
     }
     update_i18n(new_attributes[:name], i18n_strings)
 

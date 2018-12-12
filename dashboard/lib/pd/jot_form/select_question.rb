@@ -5,7 +5,7 @@ module Pd
         [
           TYPE_DROPDOWN,
           TYPE_RADIO,
-          TYPE_CHECKBOX,
+          TYPE_CHECKBOX
         ]
       end
 

@@ -27,7 +27,7 @@ class StorageApps
       published_at: published_at,
       remix_parent_id: remix_parent_id,
       skip_content_moderation: false,
-      standalone: standalone,
+      standalone: standalone
     }
     row[:id] = @table.insert(row)
 
@@ -75,7 +75,7 @@ class StorageApps
     row = {
       value: value.to_json,
       updated_at: DateTime.now,
-      updated_ip: ip_address,
+      updated_ip: ip_address
     }
     row[:project_type] = project_type if project_type
     update_count = @table.where(id: id).exclude(state: 'deleted').update(row)
@@ -90,7 +90,7 @@ class StorageApps
     raise NotFound, "channel `#{channel_id}` not found in your storage" unless owner == @storage_id
     row = {
       project_type: type,
-      published_at: DateTime.now,
+      published_at: DateTime.now
     }
     update_count = @table.where(id: id).exclude(state: 'deleted').update(row)
     raise NotFound, "channel `#{channel_id}` not found" if update_count == 0
@@ -113,7 +113,7 @@ class StorageApps
       # Note that we are using the new :project_type field rather than extracting
       # it from :value. :project_type might not be present in unpublished projects.
       type: project[:project_type],
-      publishedAt: project[:published_at],
+      publishedAt: project[:published_at]
     }
   end
 
@@ -126,7 +126,7 @@ class StorageApps
     owner, id = storage_decrypt_channel_id(channel_id)
     raise NotFound, "channel `#{channel_id}` not found in your storage" unless owner == @storage_id
     row = {
-      published_at: nil,
+      published_at: nil
     }
     update_count = @table.where(id: id).exclude(state: 'deleted').update(row)
     raise NotFound, "channel `#{channel_id}` not found" if update_count == 0
@@ -273,7 +273,7 @@ class StorageApps
         createdAt: row[:created_at],
         updatedAt: row[:updated_at],
         publishedAt: row[:published_at],
-        projectType: row[:project_type],
+        projectType: row[:project_type]
       }
     )
   end

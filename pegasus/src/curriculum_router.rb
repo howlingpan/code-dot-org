@@ -128,7 +128,7 @@ class HttpDocument
           header: JSON.parse(headers['X-Pegasus-Header'] || '{}'),
           body: content,
           classes: classes,
-          head: head,
+          head: head
         }
       )
     )
@@ -147,7 +147,7 @@ class HttpDocument
       locals.merge(
         {
           header: JSON.parse(headers['X-Pegasus-Header'] || '{}'),
-          body:   @body,
+          body:   @body
         }
       )
     )
@@ -158,7 +158,7 @@ class HttpDocument
     type = {
       '.md'   => http_content_type('text/markdown', charset: 'utf-8'),
       '.haml' => http_content_type('text/haml', charset: 'utf-8'),
-      '.html' => http_content_type('text/html', charset: 'utf-8'),
+      '.html' => http_content_type('text/html', charset: 'utf-8')
     }[extname.to_s.downcase]
     type ||= 'application/octet-stream'
 
@@ -178,7 +178,7 @@ class HttpDocument
       String.multiply_concat(
         [
           sites_dir("#{site}/views/#{view}"),
-          sites_dir("all/views/#{view}"),
+          sites_dir("all/views/#{view}")
         ],
         ['.haml']
       )
@@ -300,7 +300,7 @@ module Pegasus
             request: request,
             response: response,
             params: params,
-            session: session,
+            session: session
           }
         )
       )
@@ -315,7 +315,7 @@ module Pegasus
 
       headers = {
         'Cache-Control'   => "max-age=#{settings.document_max_age}, public, must-revalidate",
-        'Expires'         => http_expires_in(settings.document_max_age),
+        'Expires'         => http_expires_in(settings.document_max_age)
       }.merge(headers)
 
       extnames.each do |extname|

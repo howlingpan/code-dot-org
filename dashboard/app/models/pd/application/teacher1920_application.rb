@@ -300,12 +300,12 @@ module Pd::Application
 
         if hash[:program] == PROGRAMS[:csd]
           required.concat [
-            :csd_which_grades,
+            :csd_which_grades
           ]
         elsif hash[:program] == PROGRAMS[:csp]
           required.concat [
             :csp_which_grades,
-            :csp_how_offer,
+            :csp_how_offer
           ]
         end
 
@@ -366,7 +366,7 @@ module Pd::Application
         [
           :csp_which_grades,
           :csp_how_offer,
-          :csp_ap_exam,
+          :csp_ap_exam
         ]
       else
         [
@@ -396,7 +396,7 @@ module Pd::Application
         {
           teacher: [
             :csp_which_grades,
-            :csp_how_offer,
+            :csp_how_offer
           ],
           principal: [
             :share_ap_scores,
@@ -554,7 +554,7 @@ module Pd::Application
             principal_approval: responses[:principal_approval] == principal_options[:do_you_approve].first ? YES : NO,
             principal_plan_to_teach: responses[:principal_plan_to_teach] == principal_options[:plan_to_teach][0] ? YES : NO,
             principal_schedule_confirmed: responses[:principal_schedule_confirmed] == principal_options[:committed_to_master_schedule][0] ? YES : NO,
-            principal_diversity_recruitment: responses[:principal_diversity_recruitment] == principal_options[:committed_to_diversity].first ? YES : NO,
+            principal_diversity_recruitment: responses[:principal_diversity_recruitment] == principal_options[:committed_to_diversity].first ? YES : NO
           }
         )
 

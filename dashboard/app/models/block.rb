@@ -48,7 +48,7 @@ class Block < ApplicationRecord
       pool: pool,
       category: category,
       config: JSON.parse(config),
-      helperCode: helper_code,
+      helperCode: helper_code
     }
   end
 
@@ -60,7 +60,7 @@ class Block < ApplicationRecord
     JSON.pretty_generate(
       {
         category: category,
-        config: JSON.parse(config),
+        config: JSON.parse(config)
       }
     )
   end
@@ -74,7 +74,7 @@ class Block < ApplicationRecord
       pool: File.basename(File.dirname(path)),
       category: block_config['category'],
       config: block_config['config'].to_json,
-      helper_code: helper_code,
+      helper_code: helper_code
     }
   end
 

@@ -1,7 +1,7 @@
 class Pd::TeacherApplicationMailer < ActionMailer::Base
   PRINCIPAL_APPROVAL_DUE_DATE_BY_COURSE = {
     Pd::Workshop::COURSE_CSP => 'May 5, 2017',
-    Pd::Workshop::COURSE_CSD => 'April 17, 2017',
+    Pd::Workshop::COURSE_CSD => 'April 17, 2017'
   }
 
   default content_type: 'text/html'

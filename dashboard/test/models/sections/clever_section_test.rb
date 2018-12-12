@@ -6,7 +6,7 @@ class CleverSectionTest < ActiveSupport::TestCase
     student_list = [
       {'data' => {'dob' => '2002-09-04T00:00:00.000Z', 'name' => {'first' => 'Ethan', 'last' => 'Doe'}, 'id' => '5966ed736b21538e3c000004'}},
       {'data' => {'dob' => '2000-02-11T00:00:00.000Z', 'name' => {'first' => 'Lily', 'last' => 'Fake'}, 'id' => '5966ed736b21538e3c000005'}},
-      {'data' => {'dob' => '2002-05-21T00:00:00.000Z', 'name' => {'first' => 'Elizabeth', 'last' => 'Smith'}, 'id' => '5966ed736b21538e3c000006'}},
+      {'data' => {'dob' => '2002-05-21T00:00:00.000Z', 'name' => {'first' => 'Elizabeth', 'last' => 'Smith'}, 'id' => '5966ed736b21538e3c000006'}}
     ]
 
     section = CleverSection.from_service('101', owner.id, student_list, 'Clever Section A')

@@ -157,7 +157,7 @@ class ExpiredDeletedAccountPurger
       # Number of accounts queued for manual review during this run
       AccountsQueued: @num_accounts_queued,
       # Depth of manual review queue after this run
-      ManualReviewQueueDepth: review_queue_depth,
+      ManualReviewQueueDepth: review_queue_depth
     }
   end
 
@@ -176,7 +176,7 @@ class ExpiredDeletedAccountPurger
       {
         metric_name: key,
         dimensions: [
-          {name: "Environment", value: CDO.rack_env},
+          {name: "Environment", value: CDO.rack_env}
         ],
         value: value
       }

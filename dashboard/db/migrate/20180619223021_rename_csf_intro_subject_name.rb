@@ -1,7 +1,7 @@
 class RenameCsfIntroSubjectName < ActiveRecord::Migration[5.0]
   CSF_COURSE = 'CS Fundamentals'.freeze
   CSF_SUBJECTS = [
-    {from: 'Intro Workshop', to: 'Intro'},
+    {from: 'Intro Workshop', to: 'Intro'}
   ].freeze
 
   def up

@@ -53,7 +53,7 @@ def insert_or_upsert_form(kind, data, options={})
     created_ip: request.ip,
     updated_at: timestamp,
     updated_ip: request.ip,
-    hashed_email: Digest::MD5.hexdigest(normalized_email),
+    hashed_email: Digest::MD5.hexdigest(normalized_email)
   }
   row[:user_id] = dashboard_user ? dashboard_user[:id] : data[:user_id_i]
 

@@ -285,7 +285,7 @@ class ScriptLevel < ActiveRecord::Base
       is_concept_level: level.concept_level?,
       title: level_display_text,
       url: build_script_level_url(self),
-      freePlay: level.try(:free_play) == "true",
+      freePlay: level.try(:free_play) == "true"
     }
 
     summary[:progression] = progression if progression
@@ -360,7 +360,7 @@ class ScriptLevel < ActiveRecord::Base
       skin: level.try(:skin),
       thumbnail_url: level.try(:thumbnail_url),
       solution_image_url: level.try(:solution_image_url),
-      level: level.summarize_as_bonus.camelize_keys,
+      level: level.summarize_as_bonus.camelize_keys
     }.camelize_keys
   end
 

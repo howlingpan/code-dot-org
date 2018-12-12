@@ -71,7 +71,7 @@ class ScriptDSL < BaseDSL
       @stages << {
         stage: @stage,
         scriptlevels: @scriptlevels,
-        stage_extras_disabled: @stage_extras_disabled,
+        stage_extras_disabled: @stage_extras_disabled
       }.compact
     end
     @stage = name
@@ -241,7 +241,7 @@ class ScriptDSL < BaseDSL
       'edit-code': 3,
       events: 4,
       flappy: 6,
-      jigsaw: 7,
+      jigsaw: 7
     }.with_indifferent_access
     s << "id '#{legacy_script_ids[script.name]}'" if legacy_script_ids[script.name]
 

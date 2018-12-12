@@ -65,7 +65,7 @@ module RegistrationsControllerTests
       user_params = {
         email: NEW_EMAIL,
         password: NEW_PASSWORD,
-        password_confirmation: NEW_PASSWORD,
+        password_confirmation: NEW_PASSWORD
       }
       patch '/users/upgrade', params: {
         user: user_params
@@ -91,7 +91,7 @@ module RegistrationsControllerTests
         parent_email: parent_email,
         username: new_username,
         password: NEW_PASSWORD,
-        password_confirmation: NEW_PASSWORD,
+        password_confirmation: NEW_PASSWORD
       }
       patch '/users/upgrade', params: {
         user: user_params
@@ -125,7 +125,7 @@ module RegistrationsControllerTests
         parent_email: 'malformed@code',
         username: new_username,
         password: NEW_PASSWORD,
-        password_confirmation: NEW_PASSWORD,
+        password_confirmation: NEW_PASSWORD
       }
       patch '/users/upgrade', params: {
         user: user_params
@@ -200,7 +200,7 @@ module RegistrationsControllerTests
       user_params = {
         email: NEW_EMAIL,
         password: NEW_PASSWORD,
-        password_confirmation: NEW_PASSWORD,
+        password_confirmation: NEW_PASSWORD
       }
       patch '/users/upgrade', params: {
         user: user_params
@@ -226,7 +226,7 @@ module RegistrationsControllerTests
         parent_email: parent_email,
         username: new_username,
         password: NEW_PASSWORD,
-        password_confirmation: NEW_PASSWORD,
+        password_confirmation: NEW_PASSWORD
       }
       patch '/users/upgrade', params: {
         user: user_params
@@ -260,7 +260,7 @@ module RegistrationsControllerTests
         parent_email: 'malformed@code',
         username: new_username,
         password: NEW_PASSWORD,
-        password_confirmation: NEW_PASSWORD,
+        password_confirmation: NEW_PASSWORD
       }
       patch '/users/upgrade', params: {
         user: user_params

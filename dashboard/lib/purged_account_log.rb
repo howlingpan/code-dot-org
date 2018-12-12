@@ -3,7 +3,7 @@ require 'cdo/aws/s3'
 class PurgedAccountLog
   VALID_REASONS = [
     SOFT_DELETE_28_DAYS_AGO = 'soft delete 28 days ago',
-    REQUESTED_BY_USER = 'requested by user',
+    REQUESTED_BY_USER = 'requested by user'
   ]
 
   attr_reader :user_id, :hashed_email
@@ -43,7 +43,7 @@ class PurgedAccountLog
       poste_contact_ids: @poste_contact_ids,
       reason: @reason,
       purged_at: @purged_at,
-      confirmed_at: @confirmed_at,
+      confirmed_at: @confirmed_at
     }
   end
 

@@ -41,7 +41,7 @@ class Pd::WorkshopCertificateController < ApplicationController
         pointsize: 40,
         width: 420,
         y: 1305 - (50 * i),
-        x: 1290,
+        x: 1290
       }
     end
 
@@ -54,13 +54,13 @@ class Pd::WorkshopCertificateController < ApplicationController
           height: 100,
           width: 1200,
           x: 570,
-          y: 570,
+          y: 570
         },
         {
           string: workshop.course_name,
           y: 800,
           pointsize: 90,
-          height: 100,
+          height: 100
         },
         {
           string: number_to_rounded(workshop.effective_num_hours, precision: 1, strip_insignificant_zeros: true),
@@ -68,13 +68,13 @@ class Pd::WorkshopCertificateController < ApplicationController
           x: 1065,
           height: 40,
           width: 50,
-          pointsize: 40,
+          pointsize: 40
         },
         {
           string: workshop.workshop_date_range_string,
           y: 1042,
           height: 50,
-          pointsize: 45,
+          pointsize: 45
         }
       ] + facilitator_fields
     )

@@ -30,7 +30,7 @@
         = hoc_s(:codeorg_homepage_hoc2018_header_line3)
         %span.hero_video_link{onclick: "return showVideo_mainvideo()"}= hoc_s(:codeorg_homepage_hoc2018_video)
 
-  .action_buttons
+  .action_buttons{style: "visibility: hidden;"}
     - actions.each do |entry|
       - if ["cta_button", "cta_button_solid_white", "cta_button_hollow_white"].include? entry[:type]
         .action.hoc2018
@@ -85,7 +85,7 @@
         = view :mobile_header_responsive
 
   - if show_single_hero
-    - extra_style = show_single_hero == "dance" ? "width: 50%;" : nil
+    - extra_style = show_single_hero == "dance" ? "width: 50%; visibility: hidden;" : nil
     .bigannounce-hoc2018.desktop-feature{style: extra_style}
       - actions_id = show_single_hero_mobile_gap ? "actions-mobile-gap" : "actions"
       %div{id: actions_id}
@@ -100,7 +100,7 @@
         - if show_single_hero == "dance"
           %a{href: "/dance"}
             %div{style: "text-align: center"}
-              %img{src: "/images/fit-400/homepage/hoc2018_dance_stars_mobile.png", style: "max-width: 400px; width: 100%; padding-top: 50px"}
+              %img{src: "/images/fit-400/homepage/hoc2018_dance_stars_mobile.png", style: "max-width: 400px; width: 100%; padding-top: 50px; visibility: hidden;"}
             .hoc2018-dance-heading= hoc_s(:codeorg_homepage_hoc2018_dance_heading)
 
     -# Temporary for hoc2018 mc launch
@@ -110,12 +110,13 @@
     - elsif show_single_hero == "dance"
       %a{href: "/dance"}
         .desktop-feature{style: "position: absolute; width: 600px; width: 50%; top: 125px; right: 20px; text-align: center"}
-          %img{src: "/images/fit-600/homepage/hoc2018_dance_stars.png", style: "width: 100%"}
+          %img{src: "/images/fit-600/homepage/hoc2018_dance_stars.png", style: "width: 100%;visibility:hidden"}
           .hoc2018-dance-heading= hoc_s(:codeorg_homepage_hoc2018_dance_heading)
 
       .clear{style: "clear: both"}
 
       %div{style: "color: #00adbc; text-align: center; margin-left: 10%; margin-right: 10%; padding-bottom: 15px; font-family: 'Gotham 5r', sans-serif; line-height: 19px;"}
+      /
         %div{style: "margin-bottom: 5px"}= hoc_s(:codeorg_homepage_hoc2018_musician_before)
         %div
           - Homepage.get_dance_stars.each do |star|

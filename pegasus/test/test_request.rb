@@ -16,7 +16,7 @@ class RequestTest < Minitest::Test
       ['localhost.letron.vip:3000', 'letron.vip'],
       ['localhost-studio.letron.vip:3000', 'letron.vip'],
       ['localhost:3000', 'localhost'],
-      ['3548dd72.ngrok.com', '3548dd72.ngrok.com'],
+      ['3548dd72.ngrok.com', '3548dd72.ngrok.com']
     ].each do |host, cookie_domain|
       req = Rack::Request.new({'HTTP_HOST' => host})
       assert_equal cookie_domain, req.shared_cookie_domain
