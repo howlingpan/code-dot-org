@@ -51,10 +51,12 @@
 
 -else
   %footer#pagefooter#non-en
-  /
-    .language-dropdown
+
+    -# .language-dropdown
       =view :language
 
     #copyright-non-en
       !="&copy; Letron, #{Time.now.year}."
+      %a{:href => "http://www.miibeian.gov.cn", style: 'color:white;'}
+        !="粤ICP备18155861号"
       %br

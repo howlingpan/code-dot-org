@@ -15,6 +15,7 @@ class EncodedParagraph extends React.Component {
   static propTypes = {
     text: PropTypes.string,
   };
+
   render() {
     return (
       <p
@@ -193,7 +194,7 @@ export default class SmallFooter extends React.Component {
         marginBottom: this.state.baseHeight
       },
       moreMenu: {
-        display: this.state.menuState === MenuState.EXPANDED ? 'block': 'none',
+        display: this.state.menuState === MenuState.EXPANDED ? 'block' : 'none',
         bottom: this.state.baseHeight,
         width: this.state.baseWidth
       },
@@ -206,8 +207,8 @@ export default class SmallFooter extends React.Component {
       }
     };
 
-    // const caretIcon = this.state.menuState === MenuState.EXPANDED ?
-    //   'fa fa-caret-down' : 'fa fa-caret-up';
+    const caretIcon = this.state.menuState === MenuState.EXPANDED ?
+      'fa fa-caret-down' : 'fa fa-caret-up';
 
     const combinedBaseStyle = {
       ...styles.base,
@@ -218,7 +219,7 @@ export default class SmallFooter extends React.Component {
     return (
       <div className={this.props.className} style={styles.smallFooter}>
         <div className="small-footer-base" ref="base" style={combinedBaseStyle} onClick={this.clickBase}>
-          {/* <div
+          <div
             dangerouslySetInnerHTML={{
               __html: decodeURIComponent(this.props.i18nDropdown)
             }}
@@ -234,7 +235,7 @@ export default class SmallFooter extends React.Component {
               {this.props.baseMoreMenuString + ' '}
               <i className={caretIcon}/>
             </a>
-          </small> */}
+          </small>
         </div>
         <div id="copyright-flyout" style={styles.copyright}>
           <div id="copyright-scroll-area" style={styles.copyrightScrollArea}>
