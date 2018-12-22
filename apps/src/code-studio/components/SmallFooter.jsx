@@ -207,8 +207,8 @@ export default class SmallFooter extends React.Component {
       }
     };
 
-    const caretIcon = this.state.menuState === MenuState.EXPANDED ?
-      'fa fa-caret-down' : 'fa fa-caret-up';
+    // const caretIcon = this.state.menuState === MenuState.EXPANDED ?
+    //   'fa fa-caret-down' : 'fa fa-caret-up';
 
     const combinedBaseStyle = {
       ...styles.base,
@@ -227,13 +227,18 @@ export default class SmallFooter extends React.Component {
           <small>
             {this.renderPrivacy(styles)}
             {this.renderCopyright()}
+            {/*<a*/}
+              {/*className="more-link"*/}
+              {/*href="javascript:void(0)"*/}
+              {/*onClick={this.clickBaseMenu}*/}
+            {/*>*/}
             <a
               className="more-link"
-              href="javascript:void(0)"
-              onClick={this.clickBaseMenu}
+              href="http://www.miibeian.gov.cn"
             >
-              {this.props.baseMoreMenuString + ' '}
-              <i className={caretIcon}/>
+              {"粤ICP备18155861号"}
+              {/*{this.props.baseMoreMenuString + ' '}*/}
+              {/*<i className={caretIcon}/>*/}
             </a>
           </small>
         </div>
